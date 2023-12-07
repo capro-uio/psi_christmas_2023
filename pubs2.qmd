@@ -1,0 +1,126 @@
+---
+title: "pubs2"
+format: html
+server: shiny
+---
+
+```{r}
+#| include: false
+library(dplyr)
+library(purrr)
+
+# Get all PSI CRISTIN employees
+resp <- httr2::request("https://api.cristin.no/") |>
+  httr2::req_url_path_append("v2/persons") |> 
+  httr2::req_url_query(parent_unit_id="185.17.5.0",
+                       per_page=1000) |> 
+  httr2::req_perform()
+
+persons <- httr2::resp_body_json(resp) |> 
+  lapply(as_tibble) |> 
+  bind_rows() |> 
+  arrange(first_name, surname) |> 
+  mutate(
+    name = paste(first_name, surname),
+    n = row_number()
+  ) |> 
+  select(-url)
+
+readr::write_tsv(persons, here::here("data/cristin.tsv"))
+
+
+resp <- httr2::request("https://api.cristin.no/") |>
+  httr2::req_url_path_append("v2/persons") |> 
+  httr2::req_url_path_append(persons$cristin_person_id[52]) |>
+  httr2::req_perform()
+
+httr2::resp_body_json(resp)
+
+resp <- httr2::request("https://api.cristin.no/") |>
+  httr2::req_url_path_append("v2/persons") |> 
+  httr2::req_url_path_append(persons$cristin_person_id[52]) |>
+  httr2::req_url_path_append("results") |> 
+  httr2::req_perform()
+
+result <- httr2::resp_body_json(resp)
+
+  tibble(
+    title = result %>%
+      pluck("title", "en"),
+    year_published = result$year_published,
+    journal_name = result %>%
+      pluck("journal", "name"),
+    contributors = result %>%
+      pluck("contributors", "preview") %>%
+      map(~ paste(.x$first_name, .x$surname, collapse = ", ")) %>%
+      toString(),
+    doi = result %>%
+      pluck("links") %>%
+      map_chr(~ if (.x$url_type == "DOI") .x$url else NA)
+  )
+
+
+
+# for(k in 95:nrow(persons)){
+#   cli::cli_inform("{k}. {persons$name[k]}")
+#   persons$gid[k] <- scholar::get_scholar_id(
+#       last_name = URLencode(persons$surname[k]),
+#       first_name = URLencode(persons$name[k])
+#     )
+#   Sys.sleep(2)
+# }
+
+
+    
+```
+
+
+
+```{r}
+selectInput("author_name", 
+            "Select author", 
+            setNames(
+              persons$cristin_person_id,
+              persons$name
+            ))
+
+textOutput("result_output")
+```
+
+```{r}
+#| context: server
+library(dplyr)
+# Get all PSI CRISTIN employees
+resp <- httr2::request("https://api.cristin.no/") |>
+  httr2::req_url_path_append("v2/persons") |> 
+  httr2::req_url_query(parent_unit_id="185.17.5.0",
+                       per_page=1000) |> 
+  httr2::req_perform()
+
+persons <- httr2::resp_body_json(resp) |> 
+  lapply(as_tibble) |> 
+  bind_rows() |> 
+  mutate(
+    name = paste(first_name, surname)
+  ) |> 
+  arrange(name)
+
+observeEvent(input$author_name, {
+  author <- filter(persons, 
+                   cristin_person_id == input$author_name)
+  
+  get_cached_google_scholar_info <- memoise::memoise(
+    scholar::get_scholar_id(
+      last_name = URLencode(author$surname),
+      first_name = URLencode(author$name)
+    )
+  )
+  
+  print(get_cached_google_scholar_info)
+  # Replace the following line with your code to fetch Google Scholar information
+  result <- paste("Fetching information for", author$name, input$author_name)
+  
+  output$result_output <- renderText(result)
+})
+
+```
