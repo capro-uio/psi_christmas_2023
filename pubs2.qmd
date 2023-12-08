@@ -6,8 +6,8 @@ server: shiny
 
 ```{r}
 #| include: false
-library(dplyr)
-library(purrr)
+library(tidyverse)
+library(shiny)
 
 # Get all PSI CRISTIN employees
 resp <- httr2::request("https://api.cristin.no/") |>
@@ -26,54 +26,13 @@ persons <- httr2::resp_body_json(resp) |>
   ) |> 
   select(-url)
 
-readr::write_tsv(persons, here::here("data/cristin.tsv"))
-
-
-resp <- httr2::request("https://api.cristin.no/") |>
-  httr2::req_url_path_append("v2/persons") |> 
-  httr2::req_url_path_append(persons$cristin_person_id[52]) |>
-  httr2::req_perform()
-
-httr2::resp_body_json(resp)
-
-resp <- httr2::request("https://api.cristin.no/") |>
-  httr2::req_url_path_append("v2/persons") |> 
-  httr2::req_url_path_append(persons$cristin_person_id[52]) |>
-  httr2::req_url_path_append("results") |> 
-  httr2::req_perform()
-
-result <- httr2::resp_body_json(resp)
-
-  tibble(
-    title = result %>%
-      pluck("title", "en"),
-    year_published = result$year_published,
-    journal_name = result %>%
-      pluck("journal", "name"),
-    contributors = result %>%
-      pluck("contributors", "preview") %>%
-      map(~ paste(.x$first_name, .x$surname, collapse = ", ")) %>%
-      toString(),
-    doi = result %>%
-      pluck("links") %>%
-      map_chr(~ if (.x$url_type == "DOI") .x$url else NA)
-  )
+# img <- rvest::html_elements(res, ".gs_rimg") |> 
+#    rvest::html_elements("img") |> 
+#   rvest::html_attr("src")
 
 
 
-# for(k in 95:nrow(persons)){
-#   cli::cli_inform("{k}. {persons$name[k]}")
-#   persons$gid[k] <- scholar::get_scholar_id(
-#       last_name = URLencode(persons$surname[k]),
-#       first_name = URLencode(persons$name[k])
-#     )
-#   Sys.sleep(2)
-# }
-
-
-    
 ```
-
 
 
 ```{r}
@@ -84,12 +43,15 @@ selectInput("author_name",
               persons$name
             ))
 
-textOutput("result_output")
+uiOutput("gid_result")
 ```
+
+
 
 ```{r}
 #| context: server
-library(dplyr)
+library(tidyverse)
+
 # Get all PSI CRISTIN employees
 resp <- httr2::request("https://api.cristin.no/") |>
   httr2::req_url_path_append("v2/persons") |> 
@@ -105,22 +67,134 @@ persons <- httr2::resp_body_json(resp) |>
   ) |> 
   arrange(name)
 
-observeEvent(input$author_name, {
-  author <- filter(persons, 
-                   cristin_person_id == input$author_name)
+search_gid <- function(name){
+  resp <- httr2::request("https://scholar.google.com/") |>
+    httr2::req_url_path_append("/citations") |> 
+    httr2::req_url_query(
+      view_op="search_authors",
+      mauthors=str_replace_all(name, " ", "+"),
+      hl="en") |> 
+    httr2::req_perform()
   
-  get_cached_google_scholar_info <- memoise::memoise(
-    scholar::get_scholar_id(
-      last_name = URLencode(author$surname),
-      first_name = URLencode(author$name)
-    )
+  res <- httr2::resp_body_html(resp)
+  
+  tibble(
+    name = rvest::html_elements(res, ".gs_ai_name") |> 
+      rvest::html_text(),
+    cit = rvest::html_elements(res, ".gs_ai_cby") |> 
+      rvest::html_text(),
+    affiliation = rvest::html_elements(res, ".gs_ai_aff") |> 
+      rvest::html_text(),
+    id = rvest::html_elements(res, ".gs_ai_pho") |> 
+      rvest::html_attr("href") |> 
+      stringr::str_split_i("=", i = -1),
   )
+}
+
+search_gid_cached <- memoise::memoise(
+  search_gid
+)
+
+observeEvent(input$author_name, {
+  author <- persons |> 
+    filter(cristin_person_id == input$author_name)
+  ginfo <- search_gid_cached(author$name)
   
-  print(get_cached_google_scholar_info)
-  # Replace the following line with your code to fetch Google Scholar information
-  result <- paste("Fetching information for", author$name, input$author_name)
+  if(nrow(ginfo) == 0){
+    si_name <- paste0(str_split_i(author$name, " ", 1), 
+                      str_split_i(author$name, " ", -1))
+    ginfo <- search_gid_cached(si_name)
+  }
   
-  output$result_output <- renderText(result)
-})
+  txt <- paste("No google scholar matches for", author$name)
+  if(nrow(ginfo) > 0){
+    txt <- paste("Found a match for", author$name)
+    if(nrow(ginfo) > 1){
+      ginfo <- ginfo |> 
+        filter(grepl("Oslo", affiliation))
+      if(nrow(ginfo) > 1){
+        txt <- paste("Found multiple matches for", author$name)
+      }
+    }
+  }
+  
+  output$result_multiple <- renderTable(ginfo)
+  output$result_text <- renderText(txt)
+  
+  get_author <- function(gid, page_size = 1000){
+    resp <- httr2::request("https://scholar.google.com/") |>
+      httr2::req_url_path_append("/citations") |> 
+      httr2::req_url_query(
+        user=gid,
+        hl="en",
+        pagesize=page_size) |> 
+      httr2::req_perform()
+    
+    res <- httr2::resp_body_html(resp)
+    
+    art <- rvest::html_element(res, "#gsc_a_b") |> 
+      rvest::html_elements(".gsc_a_t")
+    inf <- lapply(art, function(x){
+      el <- rvest::html_elements(x, ".gs_gray")
+      tibble(
+        authors = rvest::html_text(el[1]),
+        journal = rvest::html_text(el[2])
+      )
+    }) |> 
+      bind_rows()
+    
+    pubs <- tibble(
+      year = rvest::html_elements(res, ".gsc_a_h.gsc_a_hc.gs_ibl") |> 
+        rvest::html_text() |> 
+        as.integer(),
+      citations = rvest::html_elements(res, ".gsc_a_ac.gs_ibl") |> 
+        rvest::html_text() |> 
+        as.integer(),
+      title = rvest::html_elements(res, ".gsc_a_at") |> 
+        rvest::html_text()
+    ) |> 
+      bind_cols(inf) |> 
+      mutate(
+        url = paste0("https://scholar.google.com",
+                     art |> 
+                       rvest::html_elements(".gsc_a_at") |> 
+                       rvest::html_attr("href")),
+        pubid = str_split_i(url, ":", -1)
+      )
+    
+    pubs$authors |> 
+      str_split(",") |> 
+      unlist() |> 
+      str_trim() |> 
+      unique()
+    
+    cstats <- rvest::html_element(res, "#gsc_rsb_st") |> 
+      rvest::html_element("tbody")
+    nms <- rvest::html_elements(res, ".gsc_rsb_sth") |> 
+      rvest::html_text()
+    nms <- nms[nms != ""]
+    cit_stats <- rvest::html_elements(cstats, ".gsc_rsb_std") |> 
+      rvest::html_text() |> 
+      matrix(ncol = 2, nrow = 3, byrow = TRUE,
+             dimnames = list(rvest::html_elements(cstats, ".gsc_rsb_sc1") |> 
+                               rvest::html_text(),
+                             nms
+             )) |> 
+      as_tibble()
+    
+    if(nrow(ginfo) > 0){
+      gid <- ginfo$id[1]
+      output$plot_coauth <- scholar::get_coauthors(gid, 5) |> 
+        scholar::plot_coauthors() |> 
+        renderPlot()
+    }
+    
+    print(ginfo)
+    output$gid_result <- renderUI({
+      textOutput("result_text")    
+      tableOutput("result_multiple")
+      plotOutput("plot_coauth")
+    })
+  })
 
 ```
