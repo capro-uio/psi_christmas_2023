@@ -18,6 +18,12 @@ def get_single_author(researcher: str) -> Optional[Dict]:
         print(f"No profiles found for {researcher}.")
         return None
 
+    # First check if there are more than one author with affiliation 'University of Oslo'
+    query = [q for q in query if q.get('affiliation') == 'University of Oslo']
+    if len(query) == 1:
+        print(f"Found a single profile for '{researcher}' with UiO affiliation, going with this.")
+        return query[0]
+
     # Sort authors by 'University of Oslo' affiliation, then by 'citedby'
     query = sorted(query, key=lambda x: (x.get('affiliation') != 'University of Oslo', -x.get('citedby', 0)))
 
