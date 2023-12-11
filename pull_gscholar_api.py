@@ -5,9 +5,7 @@ from scholarly import scholarly
 import click
 from tqdm import tqdm
 
-
 import logging
-#logging.basicConfig(level=logging.INFO)
 
 def get_single_author(researcher: str) -> Optional[Dict]:
     """
@@ -70,8 +68,10 @@ def fill_author(author: dict):
     :param author: The author object (dictionary) to be filled with more data.
     :return: The updated author object with additional details.
     """
+    # # Skip filling
+    # return author
     if 'scholar_id' in author:
-        author_details = scholarly.fill(author)
+        author_details = scholarly.fill(author, sections=['basics', 'coauthors', 'publications'])
         return author_details
     else:
         tqdm.write("No valid scholar ID found in the author object.")
@@ -89,22 +89,26 @@ def store_data(data: dict, filename: str = 'data/data.json'):
     # Check if the file already exists
     if os.path.exists(filename):
         fileop = input(f"The file '{filename}' already exists. Do you want to append/modify [default], create a new file, or abort? ([append]/overwrite/abort): ").strip().lower()
-        if fileop == 'overwrite':
-            # Save the data
+        if fileop == 'abort':
+            tqdm.write("Operation cancelled. Data not saved.")
+            return
+        elif fileop == 'overwrite':
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=4)
             tqdm.write(f"Data successfully saved to '{filename}'.")
             return
-        if fileop == 'abort':
-            tqdm.write("Operation cancelled. Data not saved.")
-            return
         else:
-            # Append the data
             with open(filename, 'r+', encoding='utf-8') as f:
                 file_data = json.load(f)
                 file_data.update(data)
                 f.seek(0)
                 json.dump(file_data, f, indent=4)
+    else:
+        # If file does not exist, save the data
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=4)
+        tqdm.write(f"Data successfully saved to '{filename}'.")
+        return
 
 
 @click.command()
@@ -143,9 +147,11 @@ def run(researchers: List[str], file_path: str):
         else:
             continue
 
+
     store_data(data=data)
 
     return data
 
 if __name__ == '__main__':
     run()
+    scholarly
