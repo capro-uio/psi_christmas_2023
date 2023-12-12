@@ -4,61 +4,73 @@ from typing import List, Dict, Optional
 from scholarly import scholarly
 import click
 from tqdm import tqdm
+from itertools import islice
 
 import logging
 
-def get_single_author(researcher: str) -> Optional[Dict]:
+def get_single_author(researcher: str) -> Optional[Dict[str, str]]:
     """
     Queries Google Scholar for the given researcher and returns a single author object.
 
     :param researcher: The name of the researcher to query.
     :return: A dictionary representing the selected author or None if no valid selection is made.
     """
-    query: List[Dict] = list(scholarly.search_author(researcher))
+    tqdm.write(f"Finding author: {researcher}")
 
-    if not query:
-        tqdm.write(f"No profiles found for {researcher}.")
-        return None
-
-
-
-    # Sort authors by 'University of Oslo' affiliation, then by 'citedby'
-    query = sorted(query, key=lambda x: (x.get('affiliation') != 'University of Oslo', -x.get('citedby', 0)))
-
-
-    # # Add ipynb breakpoint:
+    query = list(islice(scholarly.search_author(researcher), 10))
     # from IPython.core.debugger import set_trace
     # set_trace()
 
-    # First check if there are more than one author with affiliation 'University of Oslo'
-    # Check if 'UiO', 'uio', 'Oslo' or 'oslo' is in the affiliation string
-    if len([q for q in query if 'uio' in q.get('affiliation', '').lower() or 'oslo' in q.get('affiliation', '').lower()]) == 1:
-        tqdm.write(f"Found a single profile for '{researcher}' with UiO affiliation, going with this.")
-        return query[0]
+    if len(query) > 0:
+        # Sort authors by 'University of Oslo' affiliation, then by 'citedby'
+        query = sorted(query, key=lambda x: (x.get('affiliation') != 'University of Oslo', -x.get('citedby', 0)))
 
-    elif len(query) == 1:
-        print(f"Found a single profile for '{researcher}', going with this.")
-        return query[0]
+        # First check if there are more than one author with affiliation 'University of Oslo'
+        # Check if 'UiO', 'uio', 'Oslo' or 'oslo' is in the affiliation string
+        single_uio_author = [q for q in query if 'uio' in q.get('affiliation', '').lower() or 'oslo' in q.get('affiliation', '').lower()]
+        if len(single_uio_author) == 1:
+            tqdm.write(f"Found a single profile for '{researcher}' with UiO affiliation, going with this.")
+            return single_uio_author[0]
 
-    elif len(query) > 1:
-        tqdm.write(f"Multiple profiles found for '{researcher}'.")
-        for i, q in enumerate(query):
-            tqdm.write(f"{i + 1}. Name: {q.get('name')}, Affiliation: {q.get('affiliation')}, "
-                  f"Email domain: {q.get('email_domain')}, Cited by: {q.get('citedby')}")
+        elif len(query) == 1:
+            print(f"Found a single profile for '{researcher}', going with this.")
+            return query[0]
 
-        try:
-            selection = int(input("Please select the correct profile by number or enter a different ID: "))
-            if 1 <= selection <= len(query):
-                return query[selection - 1]
-            else:
-                tqdm.write("Invalid selection number.")
+        elif len(query) > 1:
+            tqdm.write(f"Multiple profiles found for '{researcher}'.")
+            for i, q in enumerate(query):
+                tqdm.write(f"{i + 1}. Name: {q.get('name')}, Affiliation: {q.get('affiliation')}, "
+                    f"Email domain: {q.get('email_domain')}, Cited by: {q.get('citedby')}")
+
+            try:
+                selection = int(input("Please select the correct profile (or 0 to select none):"))
+                if 1 <= selection <= len(query):
+                    return query[selection - 1]
+                elif selection == 0:
+                    tqdm.write("Aborting.")
+                    return None
+                else:
+                    tqdm.write("Invalid selection number.")
+                    return None
+            except ValueError:
+                tqdm.write("Invalid input. Please enter a number.")
                 return None
-        except ValueError:
-            tqdm.write("Invalid input. Please enter a number.")
-            return None
-    else:
-        tqdm.write(f"No profiles found for '{researcher}'.")
-        return None
+
+    else: # If no query result
+        # try without middle name
+        firstname = researcher.split(' ')[0]
+        surname = researcher.split(' ')[-1]
+        if len(researcher.split(' ')) > 2:
+            tqdm.write("Trying without middle name.")
+            return get_single_author(researcher=f"{firstname} {surname}")
+        # Try only surname
+        if len(researcher.split(' ')) == 2:
+            tqdm.write("Trying with surname only.")
+            return get_single_author(researcher=f"{surname}")
+
+    tqdm.write(f"No profiles found for '{researcher}'.")
+    return None
+
 
 
 def fill_author(author: dict):
@@ -68,8 +80,8 @@ def fill_author(author: dict):
     :param author: The author object (dictionary) to be filled with more data.
     :return: The updated author object with additional details.
     """
-    # # Skip filling
-    # return author
+    # # Skip filling, just get scholar IDs
+    return author
     if 'scholar_id' in author:
         author_details = scholarly.fill(author, sections=['basics', 'coauthors', 'publications'])
         return author_details
@@ -130,11 +142,17 @@ def run(researchers: List[str], file_path: str):
 
     # Read researchers from file if provided
     if file_path:
-        with open(file_path, 'r') as file:
-            researchers.extend(file.read().splitlines())
+        researchers = []
+        res_tmp = []
+        with open(file_path, 'r', encoding='utf-8') as file:
+            res_tmp = file.read().splitlines()
+        for r in res_tmp[1:]:
+            firstname = r.split('\t')[0]
+            surname = r.split('\t')[1]
+            researchers.append(f"{firstname} {surname}")
+
 
     for r in tqdm(researchers, desc="Processing Researchers"):
-        tqdm.write(f"Finding author: {r}")
         selected_author = get_single_author(researcher=r)
         if selected_author:
             tqdm.write(f"Filling data for author: {selected_author.get('name')}")
@@ -143,7 +161,7 @@ def run(researchers: List[str], file_path: str):
             continue
 
         if filled_author:
-            data[r] = filled_author
+            data[filled_author['scholar_id']] = filled_author
         else:
             continue
 
@@ -154,4 +172,3 @@ def run(researchers: List[str], file_path: str):
 
 if __name__ == '__main__':
     run()
-    scholarly
