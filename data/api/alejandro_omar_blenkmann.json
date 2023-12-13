@@ -1,0 +1,786 @@
+{
+  "gscolar": {},
+  "orcid": {
+    "orcid": "0000-0002-8671-2214",
+    "name": "Alejandro Omar Blenkmann",
+    "distinctions": [],
+    "education": [
+      {
+        "position": "Researcher",
+        "organisation": "University of Oslo",
+        "country": "NO"
+      }
+    ],
+    "employment": [
+      {
+        "position": "Researcher",
+        "organisation": "University of Oslo",
+        "country": "NO"
+      }
+    ],
+    "membership": [],
+    "works": [
+      {
+        "type": "preprint",
+        "year": "2023",
+        "title": "Predicting the Beat Bin – Beta Oscillations Support Top-Down Prediction of the Temporal Precision of a Rhythmic Event",
+        "url": "https://doi.org/10.1101/2023.07.21.550020"
+      },
+      {
+        "type": "journal-article",
+        "year": "2023",
+        "title": "Subspace partitioning in the human prefrontal cortex resolves cognitive interference",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "url": "https://doi.org/10.1073/pnas.2220523120"
+      },
+      {
+        "type": "preprint",
+        "year": "2023",
+        "title": "Anatomical registration of intracranial electrodes. Robust model-based localization and deformable smooth brain-shift compensation methods",
+        "url": "https://doi.org/10.1101/2023.05.08.539503"
+      },
+      {
+        "type": "preprint",
+        "year": "2023",
+        "title": "Altered hierarchical auditory predictive processing after lesions to the orbitofrontal cortex",
+        "url": "http://europepmc.org/abstract/PPR/PPR591195"
+      },
+      {
+        "type": "preprint",
+        "year": "2023",
+        "title": "Altered hierarchical auditory predictive processing after lesions to the orbitofrontal cortex",
+        "url": "https://doi.org/10.1101/2023.01.04.521570"
+      },
+      {
+        "type": "preprint",
+        "year": "2022",
+        "title": "Subspace partitioning in human prefrontal cortex resolves cognitive interference",
+        "url": "https://doi.org/10.1101/2022.11.16.516719"
+      },
+      {
+        "type": "journal-article",
+        "year": "2022",
+        "title": "Modeling intracranial electrodes. A simulation platform for the evaluation of localization algorithms",
+        "journal": "Frontiers in Neuroinformatics"
+      },
+      {
+        "type": "other",
+        "year": "2022",
+        "title": "Complexity-based Encoded Information Quantification in Neurophysiological Recordings",
+        "journal": "2022 44th Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)"
+      },
+      {
+        "type": "journal-article",
+        "year": "2022",
+        "title": "Attentional modulation of beta-power aligns with the timing of behaviorally relevant rhythmic sounds",
+        "journal": "Cerebral Cortex"
+      },
+      {
+        "type": "preprint",
+        "year": "2021",
+        "title": "Direct brain recordings reveal continuous encoding of structure in random stimuli",
+        "url": "http://europepmc.org/abstract/PPR/PPR403848"
+      },
+      {
+        "type": "journal-article",
+        "year": "2021",
+        "title": "Monitoring of Self-Paced Action Timing and Sensory Outcomes After Lesions to the Orbitofrontal Cortex",
+        "journal": "Journal of Cognitive Neuroscience"
+      },
+      {
+        "type": "preprint",
+        "year": "2021",
+        "title": "Modeling intracranial electrodes",
+        "url": "https://doi.org/10.1101/2021.04.28.441828"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "The brain tracks auditory rhythm predictability independent of selective attention",
+        "journal": "Scientific Reports",
+        "url": "http://dx.doi.org/10.1038/s41598-020-64758-y"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "Single Neuron Coding of Identity in the Human Hippocampal Formation",
+        "journal": "Current Biology"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "Preservation of Interference Effects in Working Memory After Orbitofrontal Damage",
+        "journal": "Frontiers in Human Neuroscience"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "Preservation of Interference Effects in Working Memory After Orbitofrontal Damage",
+        "journal": "Frontiers in Human Neuroscience",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85078245906&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Auditory deviance detection in the human insula: An intracranial EEG study",
+        "journal": "Cortex"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Auditory deviance detection in the human insula: An intracranial EEG study",
+        "journal": "Cortex",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85073222155&partnerID=MN8TOARS"
+      },
+      {
+        "type": "preprint",
+        "year": "2018",
+        "title": "Auditory deviance detection in the human insula: An intracranial EEG study",
+        "url": "https://doi.org/10.1101/487306"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Ielectrodes: A comprehensive open-source toolbox for depth and subdural grid electrode localization",
+        "journal": "Frontiers in Neuroinformatics",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85015445711&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2016",
+        "title": "Convergent evidence for hierarchical prediction networks from human electrocorticography and magnetoencephalography",
+        "journal": "Cortex",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84978926960&partnerID=MN8TOARS"
+      },
+      {
+        "type": "other",
+        "year": "2015",
+        "title": "Effective Connectivity in Epileptogenic Networks",
+        "journal": "VI Latin American Congress on Biomedical Engineering CLAIB 2014, Paraná, Argentina 29, 30 & 31 October 2014"
+      },
+      {
+        "type": "conference-paper",
+        "year": "2015",
+        "title": "Effective connectivity in epileptogenic networks",
+        "journal": "IFMBE Proceedings",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84925247357&partnerID=MN8TOARS"
+      },
+      {
+        "type": "other",
+        "year": "2015",
+        "title": "Grid and depth intracranial electrodes localization in a normalized space using MRI and CT images.",
+        "journal": "VI Latin American Congress on Biomedical Engineering CLAIB 2014, Paraná, Argentina 29, 30 & 31 October 2014"
+      },
+      {
+        "type": "conference-paper",
+        "year": "2015",
+        "title": "Grid and depth intracranial electrodes localization in a normalized space using MRI and CT images",
+        "journal": "IFMBE Proceedings",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84925248390&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Hierarchical organization of frontotemporal networks for the prediction of stimuli across multiple dimensions",
+        "journal": "Journal of Neuroscience",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84933574587&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Hierarchical predictive coding in frontotemporal networks with pacemaker expectancies: evidence from dynamic causal modelling of Magnetoencephalography (MEG)",
+        "journal": "Front. Hum. Neurosci."
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Expectation and Attention in Hierarchical Auditory Prediction",
+        "journal": "Journal of Neuroscience"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Expectation and attention in hierarchical auditory prediction",
+        "journal": "Journal of Neuroscience",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84880500202&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Motor-language coupling: Direct evidence from early Parkinson’s disease and intracranial cortical recordings",
+        "journal": "Cortex"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Motor-language coupling: Direct evidence from early Parkinson's disease and intracranial cortical recordings",
+        "journal": "Cortex",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84875805180&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Assessing effective connectivity in epileptogenic networks. A model-based simulation approach",
+        "journal": "J. Phys.: Conf. Ser."
+      },
+      {
+        "type": "conference-paper",
+        "year": "2013",
+        "title": "Assessing effective connectivity in epileptogenic networks. A model-based simulation approach",
+        "journal": "Journal of Physics: Conference Series",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84891771459&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Rapid and efficient localization of depth electrodes and cortical labeling using free and open source medical software in epilepsy surgery candidates",
+        "journal": "Front. Neurosci."
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Rapid and efficient localization of depth electrodes and cortical labeling using free and open source medical software in epilepsy surgery candidates",
+        "journal": "Frontiers in Neuroscience",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84898029931&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Neural Processing of Emotional Facial and Semantic Expressions in Euthymic Bipolar Disorder (BD) and Its Association with Theory of Mind (ToM)",
+        "journal": "PLoS ONE"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Neural Processing of Emotional Facial and Semantic Expressions in Euthymic Bipolar Disorder (BD) and Its Association with Theory of Mind (ToM)",
+        "journal": "PLoS ONE",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84867320235&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "[Contribution of diffusion tensor magnetic resonance imaging to the diagnosis of focal cortical dysplasias].",
+        "journal": "Revista de neurologia",
+        "url": "http://europepmc.org/abstract/med/22492097"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Association between equivalent current dipole source localization and focal cortical dysplasia in epilepsy patients",
+        "journal": "Epilepsy Research",
+        "url": "http://dx.doi.org/10.1016/j.eplepsyres.2011.09.018"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Association between equivalent current dipole source localization and focal cortical dysplasia in epilepsy patients",
+        "journal": "Epilepsy Research"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Association between equivalent current dipole source localization and focal cortical dysplasia in epilepsy patients",
+        "journal": "Epilepsy Research",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84856499509&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Contribución de las imágenes de resonancia magnética por tensor de difusión al diagnóstico de displasias corticales focales",
+        "journal": "Revista de Neurología"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Noninvasive Approach to Focal Cortical Dysplasias: Clinical, EEG, and Neuroimaging Features",
+        "journal": "Epilepsy Research and Treatment"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "The cortical processing of facial emotional expression is associated with social cognition skills and executive functioning: A preliminary study",
+        "journal": "Neuroscience Letters"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "The cortical processing of facial emotional expression is associated with social cognition skills and executive functioning: A preliminary study",
+        "journal": "Neuroscience Letters",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-82455162416&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "Cortical deficits of emotional face processing in adults with ADHD: Its relation to social cognition and executive function",
+        "journal": "Social Neuroscience"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "Cortical deficits of emotional face processing in adults with ADHD: Its relation to social cognition and executive function",
+        "journal": "Social Neuroscience",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84856445318&partnerID=MN8TOARS"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "Impact of head models in N170 component source imaging: results in control subjects and ADHD patients",
+        "journal": "J. Phys.: Conf. Ser."
+      },
+      {
+        "type": "conference-paper",
+        "year": "2011",
+        "title": "Impact of head models in N170 component source imaging: Results in control subjects and ADHD patients",
+        "journal": "Journal of Physics: Conference Series",
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84859520463&partnerID=MN8TOARS"
+      }
+    ],
+    "services": [],
+    "invited": [],
+    "qualifications": []
+  },
+  "cristin": {
+    "name": "Alejandro Omar Blenkmann",
+    "id": "744585",
+    "keywords": [],
+    "position": ["Researcher"],
+    "img": {},
+    "works": [
+      {
+        "type": "Lecture",
+        "year": "2023",
+        "title": "Neurophysiological Mechanisms of Human Auditory Predictions: From population- to single neuron recordings.",
+        "url": "https://api.cristin.no/v2/results/2203466"
+      },
+      {
+        "type": "Lecture",
+        "year": "2023",
+        "title": "Intracranial Electrode Localization workshop",
+        "url": "https://api.cristin.no/v2/results/2201960"
+      },
+      {
+        "type": "Lecture",
+        "year": "2023",
+        "title": "Auditory perception, memory, and predictions",
+        "url": "https://api.cristin.no/v2/results/2201681"
+      },
+      {
+        "type": "Poster",
+        "year": "2023",
+        "title": "Echoes of the unheard: An intracranial electrophysiology study of expectation and attention in auditory omission processing",
+        "url": "https://api.cristin.no/v2/results/2201475"
+      },
+      {
+        "type": "Lecture",
+        "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2200513"
+      },
+      {
+        "type": "Interview",
+        "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2200499"
+      },
+      {
+        "type": "Interview",
+        "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2200493"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2023",
+        "title": "Neural correlates of auditory predictions using intracranial EEG",
+        "url": "https://api.cristin.no/v2/results/2197257"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2023",
+        "title": "Expectation and attention in auditory prediction",
+        "url": "https://api.cristin.no/v2/results/2197253"
+      },
+      {
+        "type": "Poster",
+        "year": "2023",
+        "title": "Temporal and precentral brain activity in automatic auditory deviance detection. Evidence from human intracranial EEG recordings",
+        "url": "https://api.cristin.no/v2/results/2197246"
+      },
+      {
+        "type": "Lecture",
+        "year": "2023",
+        "title": "The orbitofrontal cortex (OFC) has a critical role in the generation of high-level expectations",
+        "url": "https://api.cristin.no/v2/results/2196061"
+      },
+      {
+        "type": "Poster",
+        "year": "2023",
+        "title": "Both periodic and aperiodic rhythms facilitate\r\nperceptual processing",
+        "url": "https://api.cristin.no/v2/results/2195917"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2023",
+        "title": "Periodic vs Aperiodic Temporal Predictions: Shared or Separate Mechanisms?\r\n",
+        "url": "https://api.cristin.no/v2/results/2195873"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2023",
+        "title": "Predicting the Beat Bin – Beta Oscillations Support Top-Down Prediction of The Temporal Precision of a Beat ",
+        "url": "https://api.cristin.no/v2/results/2191948"
+      },
+      {
+        "type": "Lecture",
+        "year": "2023",
+        "title": "Single-neuron responses to a multifeature oddball paradigm",
+        "url": "https://api.cristin.no/v2/results/2187741"
+      },
+      {
+        "type": "Poster",
+        "year": "2023",
+        "title": "Orbitofrontal lesion impacts formation of auditory expectations",
+        "url": "https://api.cristin.no/v2/results/2186765"
+      },
+      {
+        "type": "Poster",
+        "year": "2023",
+        "title": "Orbitofrontal lesion impacts formation of auditory expectations",
+        "url": "https://api.cristin.no/v2/results/2184354"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Decision and response monitoring during working memory are sequentially represented in the human insula",
+        "journal": "iScience",
+        "url": "https://api.cristin.no/v2/results/2176865"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Subspace partitioning in the human prefrontal cortex resolves cognitive interference",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "url": "https://api.cristin.no/v2/results/2164559"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Quantifying evoked responses through information-theoretical measures",
+        "journal": "Frontiers in Neuroinformatics",
+        "url": "https://api.cristin.no/v2/results/2155025"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Altered hierarchical auditory predictive processing after lesions to the orbitofrontal cortex",
+        "journal": "bioRxiv",
+        "url": "https://api.cristin.no/v2/results/2105585"
+      },
+      {
+        "type": "Poster",
+        "year": "2022",
+        "title": "Direct brain recordings reveal continuous encoding of structure in random stimuli",
+        "url": "https://api.cristin.no/v2/results/2074164"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2022",
+        "title": "Complexity-Based Encoded Information Quantification in Neurophysiological Recordings",
+        "url": "https://api.cristin.no/v2/results/2074160"
+      },
+      {
+        "type": "Poster",
+        "year": "2022",
+        "title": "Altered hierarchical auditory predictive processing after lesions to the orbitofrontal cortex",
+        "url": "https://api.cristin.no/v2/results/2068195"
+      },
+      {
+        "type": "Poster",
+        "year": "2022",
+        "title": "Violation of rule-based auditory patterns is detected independently of attention",
+        "url": "https://api.cristin.no/v2/results/2067932"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Attentional modulation of beta-power aligns with the timing of behaviorally relevant rhythmic sounds",
+        "journal": "Cerebral Cortex",
+        "url": "https://api.cristin.no/v2/results/2067096"
+      },
+      {
+        "type": "Poster",
+        "year": "2022",
+        "title": "Human brain network involved in auditory deviance detection. An intracranial EEG study",
+        "url": "https://api.cristin.no/v2/results/2067094"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2022",
+        "title": "The Neuronal basis of predictive coding: Evidence from brain studies across species",
+        "url": "https://api.cristin.no/v2/results/2067092"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2022",
+        "title": "Direct brain recordings reveal continuous encoding of structure in random stimuli",
+        "url": "https://api.cristin.no/v2/results/2067090"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Modeling intracranial electrodes. A simulation platform for the evaluation of localization algorithms",
+        "journal": "Frontiers in Neuroinformatics",
+        "url": "https://api.cristin.no/v2/results/2067086"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Complexity-based Encoded Information Quantification in Neurophysiological Recordings",
+        "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+        "url": "https://api.cristin.no/v2/results/2046969"
+      },
+      {
+        "type": "Lecture",
+        "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2034105"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2021",
+        "url": "https://api.cristin.no/v2/results/2004373"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2021",
+        "url": "https://api.cristin.no/v2/results/2004372"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2021",
+        "title": "Attentional modulation of alpha- and beta oscillations during perception of auditory rhythms",
+        "url": "https://api.cristin.no/v2/results/1940526"
+      },
+      {
+        "type": "Poster",
+        "year": "2021",
+        "title": "Auditory prediction and prediction error in self-generated tones",
+        "url": "https://api.cristin.no/v2/results/1940031"
+      },
+      {
+        "type": "Academic article",
+        "year": "2021",
+        "title": "Monitoring of self-paced action timing and sensory outcomes after lesions to the orbitofrontal cortex",
+        "journal": "Journal of Cognitive Neuroscience",
+        "url": "https://api.cristin.no/v2/results/1929024"
+      },
+      {
+        "type": "Academic article",
+        "year": "2020",
+        "title": "Single Neuron Coding of Identity in the Human Hippocampal Formation",
+        "journal": "Current Biology",
+        "url": "https://api.cristin.no/v2/results/1816206"
+      },
+      {
+        "type": "Academic article",
+        "year": "2020",
+        "title": "The brain tracks auditory rhythm predictability independent of selective attention",
+        "journal": "Scientific Reports",
+        "url": "https://api.cristin.no/v2/results/1814802"
+      },
+      {
+        "type": "Academic article",
+        "year": "2020",
+        "title": "Preservation of Interference Effects in Working Memory After Orbitofrontal Damage",
+        "journal": "Frontiers in Human Neuroscience",
+        "url": "https://api.cristin.no/v2/results/1774481"
+      },
+      {
+        "type": "Poster",
+        "year": "2019",
+        "title": "Making Sense of Randomness?",
+        "url": "https://api.cristin.no/v2/results/2074201"
+      },
+      {
+        "type": "Poster",
+        "year": "2019",
+        "title": "The brain tracks global temporal regularity in auditory patterns",
+        "url": "https://api.cristin.no/v2/results/1786765"
+      },
+      {
+        "type": "Poster",
+        "year": "2019",
+        "title": "A robust intracranial electrode localization algorithm",
+        "url": "https://api.cristin.no/v2/results/1784940"
+      },
+      {
+        "type": "Poster",
+        "year": "2019",
+        "title": "Human brain network involved in auditory deviance detection: Evidence from intracranial EEG recordings",
+        "url": "https://api.cristin.no/v2/results/1784908"
+      },
+      {
+        "type": "Lecture",
+        "year": "2019",
+        "title": "Auditory deviance detection network in the human brain",
+        "url": "https://api.cristin.no/v2/results/1784873"
+      },
+      {
+        "type": "Poster",
+        "year": "2019",
+        "title": "Human brain network involved in auditory deviance detection: Evidence from intracranial EEG recordings",
+        "url": "https://api.cristin.no/v2/results/1761349"
+      },
+      {
+        "type": "Academic article",
+        "year": "2019",
+        "title": "Auditory deviance detection in the human insula: An intracranial EEG study",
+        "journal": "Cortex",
+        "url": "https://api.cristin.no/v2/results/1761259"
+      },
+      {
+        "type": "Poster",
+        "year": "2019",
+        "title": "Auditory prediction and prediction error in self-generated tones",
+        "url": "https://api.cristin.no/v2/results/1761095"
+      },
+      {
+        "type": "Poster",
+        "year": "2019",
+        "title": "Action-based auditory predictions",
+        "url": "https://api.cristin.no/v2/results/1761081"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2019",
+        "title": "RITMO International EEG FieldTrip workshop, Lectures and Hands-on sessions ",
+        "url": "https://api.cristin.no/v2/results/1737798"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2019",
+        "title": "Origins of the EEG signal and Technical setup of EEG",
+        "url": "https://api.cristin.no/v2/results/1737790"
+      },
+      {
+        "type": "Poster",
+        "year": "2018",
+        "title": "Human insula response to auditory deviants: Evidence from intracranial EEG recordings",
+        "url": "https://api.cristin.no/v2/results/1668880"
+      },
+      {
+        "type": "Academic article",
+        "year": "2017",
+        "title": "iElectrodes: a comprehensive open-source toolbox for depth and subdural grid electrode localization.",
+        "journal": "Frontiers in Neuroinformatics",
+        "url": "https://api.cristin.no/v2/results/1448113"
+      },
+      {
+        "type": "Academic article",
+        "year": "2016",
+        "title": "Convergent evidence for hierarchical prediction networks from human electrocorticography and magnetoencephalography",
+        "journal": "Cortex",
+        "url": "https://api.cristin.no/v2/results/1449992"
+      },
+      {
+        "type": "Academic article",
+        "year": "2015",
+        "title": "Hierarchical Organization of Frontotemporal Networks for the Prediction of Stimuli across Multiple Dimensions",
+        "journal": "Journal of Neuroscience",
+        "url": "https://api.cristin.no/v2/results/1450000"
+      },
+      {
+        "type": "Academic article",
+        "year": "2014",
+        "title": "Effective Connectivity in Epileptogenic Networks",
+        "journal": "International Federation for Medical and Biological Engineering Proceedings",
+        "url": "https://api.cristin.no/v2/results/1463186"
+      },
+      {
+        "type": "Academic article",
+        "year": "2014",
+        "title": "Grid and depth intracranial electrodes localization in a normalized space using MRI and CT images",
+        "journal": "International Federation for Medical and Biological Engineering Proceedings",
+        "url": "https://api.cristin.no/v2/results/1463181"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Assessing effective connectivity in epileptogenic networks. A model-based simulation approach.",
+        "journal": "Journal of Physics: Conference Series (JPCS)",
+        "url": "https://api.cristin.no/v2/results/1463218"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Motor-language coupling: Direct evidence from early Parkinson’s disease and intracranial cortical recordings",
+        "journal": "Cortex",
+        "url": "https://api.cristin.no/v2/results/1463138"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Expectation and Attention in Hierarchical Auditory Prediction",
+        "journal": "Journal of Neuroscience",
+        "url": "https://api.cristin.no/v2/results/1450079"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Rapid and efficient localization of depth electrodes and cortical labeling using free and open source medical software in epilepsy surgery candidates",
+        "journal": "Frontiers in Neuroscience",
+        "url": "https://api.cristin.no/v2/results/1450010"
+      },
+      {
+        "type": "Chapter",
+        "year": "2012",
+        "title": "Cortical deficits in emotion processing for faces in adults with ADHD: Its relation to social cognition and executive functioning",
+        "url": "https://api.cristin.no/v2/results/1463173"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "Neural Processing of Emotional Facial and Semantic Expressions in Euthymic Bipolar Disorder (BD) and Its Association with Theory of Mind (ToM)",
+        "journal": "PLOS ONE",
+        "url": "https://api.cristin.no/v2/results/1463168"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "journal": "Revista de neurología (Ed. impresa)",
+        "url": "https://api.cristin.no/v2/results/1463156"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "Noninvasive Approach to Focal CorticalDysplasias: Clinical, EEG, and Neuroimaging Features",
+        "journal": "Epilepsy Research and Treatment",
+        "url": "https://api.cristin.no/v2/results/1463148"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "Association between equivalent current dipole\r\nsource localization and focal cortical dysplasia in\r\nepilepsy patients",
+        "journal": "Epilepsy Research",
+        "url": "https://api.cristin.no/v2/results/1437210"
+      },
+      {
+        "type": "Academic article",
+        "year": "2011",
+        "title": "Impact of head models in N170 component source imaging: results in control subjects and ADHD patients.",
+        "journal": "Journal of Physics: Conference Series (JPCS)",
+        "url": "https://api.cristin.no/v2/results/1463225"
+      },
+      {
+        "type": "Academic article",
+        "year": "2011",
+        "title": "Cortical deficits of emotional face processing in adults with ADHD: Its relation to social cognition and executive function",
+        "journal": "Social Neuroscience",
+        "url": "https://api.cristin.no/v2/results/1463165"
+      },
+      {
+        "type": "Academic article",
+        "year": "2011",
+        "title": "The cortical processing of facial emotional expression is associated with social cognition skills and executive functioning: A preliminary study",
+        "journal": "Neuroscience Letters",
+        "url": "https://api.cristin.no/v2/results/1463159"
+      }
+    ]
+  }
+}

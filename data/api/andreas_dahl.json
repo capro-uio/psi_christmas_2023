@@ -1,0 +1,1934 @@
+{
+  "gscolar": {
+    "name": "Dal Corso Andrea",
+    "id": "OqVo_zQAAAAJ",
+    "affiliation": "SISSA",
+    "data": {
+      "publications": [
+        {
+          "year": 2009,
+          "citations": 26696,
+          "title": "QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials",
+          "pubid": "u5HHmVD_uO8C",
+          "authors": "P Giannozzi, S Baroni, N Bonini, M Calandra, R Car, C Cavazzoni, ...",
+          "journal": "Journal of physics: Condensed matter 21 (39), 395502, 2009",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:u5HHmVD_uO8C"
+        },
+        {
+          "year": 2001,
+          "citations": 8881,
+          "title": "Phonons and related crystal properties from density-functional perturbation theory",
+          "pubid": "u-x6o8ySG0sC",
+          "authors": "S Baroni, S De Gironcoli, A Dal Corso, P Giannozzi",
+          "journal": "Reviews of modern Physics 73 (2), 515, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:u-x6o8ySG0sC"
+        },
+        {
+          "year": 2017,
+          "citations": 5944,
+          "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
+          "pubid": "p2g8aNsByqUC",
+          "authors": "P Giannozzi, O Andreussi, T Brumme, O Bunau, MB Nardelli, M Calandra, ...",
+          "journal": "Journal of physics: Condensed matter 29 (46), 465901, 2017",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:p2g8aNsByqUC"
+        },
+        {
+          "year": 2014,
+          "citations": 1390,
+          "title": "Pseudopotentials periodic table: From H to Pu",
+          "pubid": "P5F9QuxV20EC",
+          "authors": "A Dal Corso",
+          "journal": "Computational Materials Science 95, 337-350, 2014",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:P5F9QuxV20EC"
+        },
+        {
+          "year": 2016,
+          "citations": 1029,
+          "title": "Reproducibility in density functional theory calculations of solids",
+          "pubid": "abG-DnoFyZgC",
+          "authors": "K Lejaeghere, G Bihlmayer, T Björkman, P Blaha, S Blügel, V Blum, ...",
+          "journal": "Science 351 (6280), aad3000, 2016",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:abG-DnoFyZgC"
+        },
+        {
+          "year": 1994,
+          "citations": 499,
+          "title": "Ab initio study of piezoelectricity and spontaneous polarization in ZnO",
+          "pubid": "9yKSN-GCB0IC",
+          "authors": "A Dal Corso, M Posternak, R Resta, A Baldereschi",
+          "journal": "Physical Review B 50 (15), 10715, 1994",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:9yKSN-GCB0IC"
+        },
+        {
+          "year": 2016,
+          "citations": 478,
+          "title": "MJ vanSetten, V. Van Speybroeck, JM Wills, JR Yates, GX Zhang, S. Cottenier, Reproducibility in density functional theory calculations of solids",
+          "pubid": "J-pR_7NvFogC",
+          "authors": "K Lejaeghere, G Bihlmayer, T Bjorkman, P Blaha, S Blugel, V Blum, ...",
+          "journal": "Science 351, 1415-U1481, 2016",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:J-pR_7NvFogC"
+        },
+        {
+          "year": 1999,
+          "citations": 350,
+          "title": "Atomic Structure and Vibrational Properties of Icosahedral  Boron Carbide",
+          "pubid": "_xSYboBqXhAC",
+          "authors": "R Lazzari, N Vast, JM Besson, S Baroni, A Dal Corso",
+          "journal": "Physical Review Letters 83 (16), 3230, 1999",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:_xSYboBqXhAC"
+        },
+        {
+          "year": 2001,
+          "citations": 332,
+          "title": "String tension and stability of magic tip-suspended nanowires",
+          "pubid": "d1gkVwhDpl0C",
+          "authors": "E Tosatti, S Prestipino, S Kostlmeier, AD Corso, FD Di Tolla",
+          "journal": "Science 291 (5502), 288-290, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:d1gkVwhDpl0C"
+        },
+        {
+          "year": 2005,
+          "citations": 306,
+          "title": "Spin-orbit coupling with ultrasoft pseudopotentials: Application to Au and Pt",
+          "pubid": "CHSYGLWDkRkC",
+          "authors": "A Dal Corso, AM Conte",
+          "journal": "Physical Review B 71 (11), 115106, 2005",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:CHSYGLWDkRkC"
+        },
+        {
+          "year": 1996,
+          "citations": 293,
+          "title": "Generalized-gradient approximations to density-functional theory: A comparative study for atoms and solids",
+          "pubid": "2osOgNQ5qMEC",
+          "authors": "A Dal Corso, A Pasquarello, A Baldereschi, R Car",
+          "journal": "Physical Review B 53 (3), 1180, 1996",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:2osOgNQ5qMEC"
+        },
+        {
+          "year": 1993,
+          "citations": 280,
+          "title": "Ab initio calculation of phonon dispersions in II-VI semiconductors",
+          "pubid": "qjMakFHDy7sC",
+          "authors": "A Dal Corso, S Baroni, R Resta, S de Gironcoli",
+          "journal": "Physical Review B 47 (7), 3588, 1993",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:qjMakFHDy7sC"
+        },
+        {
+          "year": 2004,
+          "citations": 227,
+          "title": "Ballistic conductance of magnetic Co and Ni nanowires with ultrasoft pseudopotentials",
+          "pubid": "eQOLeE2rZwMC",
+          "authors": "A Smogunov, A Dal Corso, E Tosatti",
+          "journal": "Physical Review B 70 (4), 045417, 2004",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:eQOLeE2rZwMC"
+        },
+        {
+          "year": 2003,
+          "citations": 218,
+          "title": "First-principles study of lattice instabilities in ferromagnetic ",
+          "pubid": "IjCSPb-OGe4C",
+          "authors": "C Bungaro, KM Rabe, A Dal Corso",
+          "journal": "Physical Review B 68 (13), 134104, 2003",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:IjCSPb-OGe4C"
+        },
+        {
+          "year": 2001,
+          "citations": 202,
+          "title": "Raman scattering intensities in α-quartz: A first-principles investigation",
+          "pubid": "W7OEmFMy1HYC",
+          "authors": "P Umari, A Pasquarello, A Dal Corso",
+          "journal": "Physical Review B 63 (9), 094305, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:W7OEmFMy1HYC"
+        },
+        {
+          "year": 2016,
+          "citations": 176,
+          "title": "Elastic constants of beryllium: a first-principles investigation",
+          "pubid": "KxtntwgDAa4C",
+          "authors": "A Dal Corso",
+          "journal": "Journal of Physics: Condensed Matter 28 (7), 075401, 2016",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:KxtntwgDAa4C"
+        },
+        {
+          "year": 1999,
+          "citations": 171,
+          "title": "The puzzling stability of monatomic gold wires",
+          "pubid": "UeHWp8X0CEIC",
+          "authors": "JA Torres, E Tosatti, A Dal Corso, F Ercolessi, JJ Kohanoff, FD Di Tolla, ...",
+          "journal": "Surface Science 426 (3), L441-L446, 1999",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:UeHWp8X0CEIC"
+        },
+        {
+          "year": 1996,
+          "citations": 170,
+          "title": "Density-functional theory of the nonlinear optical susceptibility: Application to cubic semiconductors",
+          "pubid": "zYLM7Y9cAGgC",
+          "authors": "A Dal Corso, F Mauri, A Rubio",
+          "journal": "Physical Review B 53 (23), 15638, 1996",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:zYLM7Y9cAGgC"
+        },
+        {
+          "year": 1999,
+          "citations": 137,
+          "title": "Phonon dispersions: Performance of the generalized gradient approximation",
+          "pubid": "WF5omc3nYNoC",
+          "authors": "F Favot, A Dal Corso",
+          "journal": "Physical Review B 60 (16), 11427, 1999",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:WF5omc3nYNoC"
+        },
+        {
+          "year": 2000,
+          "citations": 134,
+          "title": "Atomic structure and vibrational properties of icosahedral α-boron and B4C boron carbide",
+          "pubid": "0EnyYjriUFMC",
+          "authors": "N Vast, R Lazzari, JM Besson, S Baroni, A Dal Corso",
+          "journal": "Computational materials science 17 (2-4), 127-132, 2000",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:0EnyYjriUFMC"
+        },
+        {
+          "year": 1994,
+          "citations": 129,
+          "title": "Density-functional theory of the dielectric constant: Gradient-corrected calculation for silicon",
+          "pubid": "Tyk-4Ss8FVUC",
+          "authors": "A Dal Corso, S Baroni, R Resta",
+          "journal": "Physical Review B 49 (8), 5323, 1994",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:Tyk-4Ss8FVUC"
+        },
+        {
+          "year": 2001,
+          "citations": 117,
+          "title": "Density-functional perturbation theory with ultrasoft pseudopotentials",
+          "pubid": "hqOjcs7Dif8C",
+          "authors": "A Dal Corso",
+          "journal": "Physical Review B 64 (23), 235118, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:hqOjcs7Dif8C"
+        },
+        {
+          "year": 2008,
+          "citations": 115,
+          "title": "Colossal magnetic anisotropy of monatomic free and deposited platinum nanowires",
+          "pubid": "LkGwnXOMwfcC",
+          "authors": "A Smogunov, A Dal Corso, A Delin, R Weht, E Tosatti",
+          "journal": "Nature Nanotechnology 3 (1), 22-25, 2008",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:LkGwnXOMwfcC"
+        },
+        {
+          "year": 2000,
+          "citations": 112,
+          "title": "Ab initio phonon dispersions of Fe and Ni",
+          "pubid": "Y0pCki6q_DkC",
+          "authors": "A Dal Corso, S de Gironcoli",
+          "journal": "Physical Review B 62 (1), 273, 2000",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:Y0pCki6q_DkC"
+        },
+        {
+          "year": 1998,
+          "citations": 99,
+          "title": "Structural and electronic properties of small  clusters using generalized-gradient approximations within density functional theory",
+          "pubid": "YsMSGLbcyi4C",
+          "authors": "C Massobrio, A Pasquarello, A Dal Corso",
+          "journal": "The Journal of chemical physics 109 (16), 6626-6630, 1998",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:YsMSGLbcyi4C"
+        },
+        {
+          "year": 1997,
+          "citations": 98,
+          "title": "Density-functional perturbation theory for lattice dynamics with ultrasoft pseudopotentials",
+          "pubid": "8k81kl-MbHgC",
+          "authors": "A Dal Corso, A Pasquarello, A Baldereschi",
+          "journal": "Physical Review B 56 (18), R11369, 1997",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:8k81kl-MbHgC"
+        },
+        {
+          "year": 2010,
+          "citations": 95,
+          "title": "Projector augmented-wave method: Application to relativistic spin-density functional theory",
+          "pubid": "iH-uZ7U-co4C",
+          "authors": "A Dal Corso",
+          "journal": "Physical Review B 82 (7), 075116, 2010",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:iH-uZ7U-co4C"
+        },
+        {
+          "year": 2001,
+          "citations": 91,
+          "title": "Electron-vibration coupling constants in positively charged fullerene",
+          "pubid": "_FxGoFyzp5QC",
+          "authors": "N Manini, A Dal Corso, M Fabrizio, E Tosatti",
+          "journal": "Philosophical Magazine B 81 (8), 793-812, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:_FxGoFyzp5QC"
+        },
+        {
+          "year": 1994,
+          "citations": 87,
+          "title": "Density-functional theory of macroscopic stress: Gradient-corrected calculations for crystalline Se",
+          "pubid": "UebtZRa9Y70C",
+          "authors": "A Dal Corso, R Resta",
+          "journal": "Physical Review B 50 (7), 4327, 1994",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:UebtZRa9Y70C"
+        },
+        {
+          "year": 1994,
+          "citations": 84,
+          "title": "Wannier and Bloch orbital computation of the nonlinear susceptibility",
+          "pubid": "ufrVoPGSRksC",
+          "authors": "A Dal Corso, F Mauri",
+          "journal": "Physical Review B 50 (8), 5756, 1994",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:ufrVoPGSRksC"
+        },
+        {
+          "year": 2011,
+          "citations": 72,
+          "title": "Ultrasoft pseudopotentials and projector augmented-wave data sets: application to diatomic molecules",
+          "pubid": "r0BpntZqJG4C",
+          "authors": "AA Adllan, A Dal Corso",
+          "journal": "Journal of Physics: Condensed Matter 23 (42), 425501, 2011",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:r0BpntZqJG4C"
+        },
+        {
+          "year": 2013,
+          "citations": 71,
+          "title": "Ab initio phonon dispersions of transition and noble metals: effects of the exchange and correlation functional",
+          "pubid": "RGFaLdJalmkC",
+          "authors": "A Dal Corso",
+          "journal": "Journal of Physics: Condensed Matter 25 (14), 145401, 2013",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:RGFaLdJalmkC"
+        },
+        {
+          "year": 1999,
+          "citations": 70,
+          "title": "Initial stages of growth of copper on MgO (100): A first principles study",
+          "pubid": "5nxA0vEk-isC",
+          "authors": "V Musolino, A Dal Corso, A Selloni",
+          "journal": "Physical review letters 83 (14), 2761, 1999",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:5nxA0vEk-isC"
+        },
+        {
+          "year": 1993,
+          "citations": 68,
+          "title": "Nonlinear piezoelectricity in CdTe",
+          "pubid": "MXK_kJrjxJIC",
+          "authors": "A Dal Corso, R Resta, S Baroni",
+          "journal": "Physical Review B 47 (24), 16252, 1993",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:MXK_kJrjxJIC"
+        },
+        {
+          "year": 2006,
+          "citations": 58,
+          "title": "Quantum-espresso",
+          "pubid": "roLk4NBRz8UC",
+          "authors": "S Baroni, A Dal Corso, S De Gironcoli, P Giannozzi, C Cavazzoni, ...",
+          "journal": "National Simulation Center of Italian Institute for Condensed Matter Physics …, 2006",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:roLk4NBRz8UC"
+        },
+        {
+          "year": 2008,
+          "citations": 56,
+          "title": "Magnetic phenomena, spin-orbit effects, and Landauer conductance in Pt nanowire contacts: Density-functional theory calculations",
+          "pubid": "mVmsd5A6BfQC",
+          "authors": "A Smogunov, A Dal Corso, E Tosatti",
+          "journal": "Physical Review B 78 (1), 014423, 2008",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:mVmsd5A6BfQC"
+        },
+        {
+          "year": 2002,
+          "citations": 56,
+          "title": "The interaction of ethylene with perfect and defective Ag (001) surfaces",
+          "pubid": "3fE2CSJIrl8C",
+          "authors": "A Kokalj, A Dal Corso, S de Gironcoli, S Baroni",
+          "journal": "The Journal of Physical Chemistry B 106 (38), 9839-9846, 2002",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:3fE2CSJIrl8C"
+        },
+        {
+          "year": 2002,
+          "citations": 55,
+          "title": "Adsorption of atomic oxygen on Ag (001): a study based on density-functional theory",
+          "pubid": "KlAtU1dfN6UC",
+          "authors": "G Cipriani, D Loffreda, A Dal Corso, S de Gironcoli, S Baroni",
+          "journal": "Surface science 501 (3), 182-190, 2002",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:KlAtU1dfN6UC"
+        },
+        {
+          "year": 2001,
+          "citations": 55,
+          "title": "CO adsorbed on Cu (001): A comparison between local density approximation and Perdew, Burke, and Ernezerhof generalized gradient approximation",
+          "pubid": "YOwf2qJgpHMC",
+          "authors": "F Favot, A Dal Corso, A Baldereschi",
+          "journal": "The Journal of Chemical Physics 114 (1), 483-488, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:YOwf2qJgpHMC"
+        },
+        {
+          "year": 2002,
+          "citations": 54,
+          "title": "Sensitivity of the Mott transition to noncubic splitting of the orbital degeneracy: Application to ",
+          "pubid": "kNdYIx-mwKoC",
+          "authors": "N Manini, GE Santoro, A Dal Corso, E Tosatti",
+          "journal": "Physical Review B 66 (11), 115107, 2002",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:kNdYIx-mwKoC"
+        },
+        {
+          "year": 2004,
+          "citations": 53,
+          "title": "Electric fields with ultrasoft pseudo-potentials: Applications to benzene and anthracene",
+          "pubid": "qxL8FJ1GzNcC",
+          "authors": "J Tóbik, A Dal Corso",
+          "journal": "The Journal of chemical physics 120 (21), 9934-9941, 2004",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:qxL8FJ1GzNcC"
+        },
+        {
+          "year": 2006,
+          "citations": 51,
+          "title": "Ballistic conductance and magnetism in short tip suspended Ni nanowires",
+          "pubid": "ULOm3_A8WrAC",
+          "authors": "A Smogunov, A Dal Corso, E Tosatti",
+          "journal": "Physical Review B 73 (7), 075418, 2006",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:ULOm3_A8WrAC"
+        },
+        {
+          "year": 2000,
+          "citations": 50,
+          "title": "Electronic properties of ultra-thin aluminum nanowires",
+          "pubid": "Zph67rFs4hoC",
+          "authors": "F Di Tolla, A Dal Corso, JA Torres, E Tosatti",
+          "journal": "Surface science 454, 947-951, 2000",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:Zph67rFs4hoC"
+        },
+        {
+          "year": 2003,
+          "citations": 49,
+          "title": "Complex band structures and decay length in polyethylene chains",
+          "pubid": "4TOpqqG69KYC",
+          "authors": "F Picaud, A Smogunov, A Dal Corso, E Tosatti",
+          "journal": "Journal of Physics: Condensed Matter 15 (22), 3731, 2003",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:4TOpqqG69KYC"
+        },
+        {
+          "year": 2003,
+          "citations": 49,
+          "title": "Structural, electronic, and magnetic properties of  fayalite: Comparison of LDA and GGA results",
+          "pubid": "Se3iqnhoufwC",
+          "authors": "M Cococcioni, A Dal Corso, S de Gironcoli",
+          "journal": "Physical review B 67 (9), 094106, 2003",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:Se3iqnhoufwC"
+        },
+        {
+          "year": 2007,
+          "citations": 46,
+          "title": "Density functional perturbation theory for lattice dynamics with fully relativistic ultrasoft pseudopotentials: Application to fcc-Pt and fcc-Au",
+          "pubid": "Wp0gIr-vW9MC",
+          "authors": "A Dal Corso",
+          "journal": "Physical Review B 76 (5), 054308, 2007",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:Wp0gIr-vW9MC"
+        },
+        {
+          "year": 2011,
+          "citations": 41,
+          "title": "Ab initio calculations for the β-tin diamond transition in silicon: Comparing theories with experiments",
+          "pubid": "HDshCWvjkbEC",
+          "authors": "S Sorella, M Casula, L Spanu, A Dal Corso",
+          "journal": "Physical Review B 83 (7), 075119, 2011",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:HDshCWvjkbEC"
+        },
+        {
+          "year": 2008,
+          "citations": 41,
+          "title": "Spin-orbit modifications and splittings of deep surface states on clean Au (1 1 1)",
+          "pubid": "1sJd4Hv_s6UC",
+          "authors": "R Mazzarello, A Dal Corso, E Tosatti",
+          "journal": "Surface science 602 (4), 893-905, 2008",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:1sJd4Hv_s6UC"
+        },
+        {
+          "year": 2002,
+          "citations": 41,
+          "title": "Selective d-state conduction blocking in nickel nanocontacts",
+          "pubid": "_kc_bZDykSQC",
+          "authors": "A Smogunov, A Dal Corso, E Tosatti",
+          "journal": "Surface science 507, 609-614, 2002",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:_kc_bZDykSQC"
+        },
+        {
+          "year": 2017,
+          "citations": 40,
+          "title": "Lattice dynamics and thermophysical properties of hcp Os and Ru from the quasi-harmonic approximation",
+          "pubid": "OU6Ihb5iCvQC",
+          "authors": "M Palumbo, A Dal Corso",
+          "journal": "Journal of Physics: Condensed Matter 29 (39), 395401, 2017",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:OU6Ihb5iCvQC"
+        },
+        {
+          "year": 2004,
+          "citations": 38,
+          "title": "Structure and dynamics of oxygen adsorbed on Ag (100) vicinal surfaces",
+          "pubid": "M3ejUd6NZC8C",
+          "authors": "N Bonini, A Kokalj, A Dal Corso, S De Gironcoli, S Baroni",
+          "journal": "Physical Review B 69 (19), 195401, 2004",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:M3ejUd6NZC8C"
+        },
+        {
+          "year": 2000,
+          "citations": 38,
+          "title": "Microscopic structure of the substitutional Al defect in α quartz",
+          "pubid": "4DMP91E08xMC",
+          "authors": "M Magagnini, P Giannozzi, A Dal Corso",
+          "journal": "Physical Review B 61 (4), 2621, 2000",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:4DMP91E08xMC"
+        },
+        {
+          "year": 1997,
+          "citations": 38,
+          "title": "First-principles Wannier functions of silicon and gallium arsenide",
+          "pubid": "aqlVkmm33-oC",
+          "authors": "P Fernández, A Dal Corso, A Baldereschi, F Mauri",
+          "journal": "Physical Review B 55 (4), R1909, 1997",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:aqlVkmm33-oC"
+        },
+        {
+          "year": 2005,
+          "citations": 37,
+          "title": "Spin-Flop Ordering from Frustrated Ferro- and Antiferromagnetic Interactions: A Combined Theoretical and Experimental Study of a  Monolayer",
+          "pubid": "9ZlFYXVOiuMC",
+          "authors": "C Grazioli, D Alfe, SR Krishnakumar, SS Gupta, M Veronese, S Turchini, ...",
+          "journal": "Physical review letters 95 (11), 117201, 2005",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:9ZlFYXVOiuMC"
+        },
+        {
+          "year": 2020,
+          "citations": 36,
+          "title": "Quasi-harmonic temperature dependent elastic constants: applications to silicon, aluminum, and silver",
+          "pubid": "BrmTIyaxlBUC",
+          "authors": "C Malica, A Dal Corso",
+          "journal": "Journal of Physics: Condensed Matter 32 (31), 315902, 2020",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:BrmTIyaxlBUC"
+        },
+        {
+          "year": 2012,
+          "citations": 35,
+          "title": "Projector augmented wave method with spin-orbit coupling: Applications to simple solids and zincblende-type semiconductors",
+          "pubid": "BqipwSGYUEgC",
+          "authors": "A Dal Corso",
+          "journal": "Physical Review B 86 (8), 085135, 2012",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:BqipwSGYUEgC"
+        },
+        {
+          "year": 1998,
+          "citations": 35,
+          "title": "Ab initio study of the dielectric properties of silicon and gallium arsenide using polarized Wannier functions",
+          "pubid": "QIV2ME_5wuYC",
+          "authors": "P Fernández, A Dal Corso, A Baldereschi",
+          "journal": "Physical Review B 58 (12), R7480, 1998",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:QIV2ME_5wuYC"
+        },
+        {
+          "year": 2010,
+          "citations": 33,
+          "title": "Density functional perturbation theory within the projector augmented wave method",
+          "pubid": "maZDTaKrznsC",
+          "authors": "A Dal Corso",
+          "journal": "Physical Review B 81 (7), 075123, 2010",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:maZDTaKrznsC"
+        },
+        {
+          "year": 2015,
+          "citations": 30,
+          "title": "Clean Ir (111) and Pt (111) electronic surface states: A first-principle fully relativistic investigation",
+          "pubid": "NhqRSupF_l8C",
+          "authors": "A Dal Corso",
+          "journal": "Surface Science 637, 106-115, 2015",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:NhqRSupF_l8C"
+        },
+        {
+          "year": 2008,
+          "citations": 30,
+          "title": "Ab initio phonon dispersions of face centered cubic Pb: effects of spin–orbit coupling",
+          "pubid": "7PzlFSSx8tAC",
+          "authors": "A Dal Corso",
+          "journal": "Journal of Physics: Condensed Matter 20 (44), 445202, 2008",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:7PzlFSSx8tAC"
+        },
+        {
+          "year": 2006,
+          "citations": 26,
+          "title": "Ab initio ballistic conductance with spin-orbit coupling: Application to monoatomic wires",
+          "pubid": "IWHjjKOFINEC",
+          "authors": "A Dal Corso, A Smogunov, E Tosatti",
+          "journal": "Physical Review B 74 (4), 045429, 2006",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:IWHjjKOFINEC"
+        },
+        {
+          "year": 2002,
+          "citations": 26,
+          "title": "Adsorption of ethylene on the Ag (001) surface",
+          "pubid": "4JMBOYKVnBMC",
+          "authors": "A Kokalj, A Dal Corso, S De Gironcoli, S Baroni",
+          "journal": "Surface science 507, 62-68, 2002",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:4JMBOYKVnBMC"
+        },
+        {
+          "year": 2008,
+          "citations": 25,
+          "title": "Monatomic Au wire with a magnetic Ni impurity: Electronic structure and ballistic conductance",
+          "pubid": "qUcmZB5y_30C",
+          "authors": "Y Miura, R Mazzarello, A Dal Corso, A Smogunov, E Tosatti",
+          "journal": "Physical Review B 78 (20), 205412, 2008",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:qUcmZB5y_30C"
+        },
+        {
+          "year": 2001,
+          "citations": 25,
+          "title": "Substrate reconstruction and electronic surface states: Ag (0 0 1)",
+          "pubid": "ZeXyd9-uunAC",
+          "authors": "L Savio, L Vattuone, M Rocca, V De Renzi, S Gardonio, C Mariani, ...",
+          "journal": "Surface science 486 (1-2), 65-72, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:ZeXyd9-uunAC"
+        },
+        {
+          "year": 2006,
+          "citations": 24,
+          "title": "DFT study of a weakly π-bonded C2H4 on oxygen-covered Ag (100)",
+          "pubid": "L8Ckcad2t8MC",
+          "authors": "A Kokalj, A Dal Corso, S de Gironcoli, S Baroni",
+          "journal": "The Journal of Physical Chemistry B 110 (1), 367-376, 2006",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:L8Ckcad2t8MC"
+        },
+        {
+          "year": 2008,
+          "citations": 22,
+          "title": "Interaction of a CO molecule with a Pt monatomic wire: Electronic structure and ballistic conductance",
+          "pubid": "mB3voiENLucC",
+          "authors": "G Sclauzero, A Dal Corso, A Smogunov, E Tosatti",
+          "journal": "Physical Review B 78 (8), 085421, 2008",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:mB3voiENLucC"
+        },
+        {
+          "year": 2003,
+          "citations": 22,
+          "title": "Oxygen vibrations in O–Ag (0 0 1)",
+          "pubid": "hFOr9nPyWt4C",
+          "authors": "D Loffreda, A Dal Corso, S Baroni, L Savio, L Vattuone, M Rocca",
+          "journal": "Surface science 530 (1-2), 26-36, 2003",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:hFOr9nPyWt4C"
+        },
+        {
+          "year": 2019,
+          "citations": 21,
+          "title": "Temperature-dependent atomic B factor: An ab initio calculation",
+          "pubid": "fQNAKQ3IYiAC",
+          "authors": "C Malica, A Dal Corso",
+          "journal": "Acta Crystallographica Section A: Foundations and Advances 75 (4), 624-632, 2019",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:fQNAKQ3IYiAC"
+        },
+        {
+          "year": 2001,
+          "citations": 21,
+          "title": "Ab initio study of CO adsorption on Ni (110): Effects on surface magnetism at low coverage",
+          "pubid": "hC7cP41nSMkC",
+          "authors": "F Favot, A Dal Corso, A Baldereschi",
+          "journal": "Physical Review B 63 (11), 115416, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:hC7cP41nSMkC"
+        },
+        {
+          "year": 1996,
+          "citations": 21,
+          "title": "A pseudopotential plane waves program (pwscf) and some case studies",
+          "pubid": "bEWYMUwI8FkC",
+          "authors": "A Dal Corso",
+          "journal": "Quantum-mechanical Ab-initio calculation of the properties of crystalline …, 1996",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:bEWYMUwI8FkC"
+        },
+        {
+          "year": 2013,
+          "citations": 20,
+          "title": "Efficient DFT+ U calculations of ballistic electron transport: Application to Au monatomic chains with a CO impurity",
+          "pubid": "RYcK_YlVTxYC",
+          "authors": "G Sclauzero, A Dal Corso",
+          "journal": "Physical Review B 87 (8), 085108, 2013",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:RYcK_YlVTxYC"
+        },
+        {
+          "year": 2001,
+          "citations": 20,
+          "title": "S. d. Gironcoli, and P. Giannozzi",
+          "pubid": "SdhP9T11ey4C",
+          "authors": "S Baroni, AC Dal",
+          "journal": "Rev. Mod. Phys 73, 515, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:SdhP9T11ey4C"
+        },
+        {
+          "year": 1993,
+          "citations": 20,
+          "title": "Face-dependent Hamaker constants and surface melting or nonmelting of noncubic crystals",
+          "pubid": "R3hNpaxXUhUC",
+          "authors": "A Dal Corso, E Tosatti",
+          "journal": "Physical Review B 47 (15), 9742, 1993",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:R3hNpaxXUhUC"
+        },
+        {
+          "year": 1993,
+          "citations": 20,
+          "title": "Plane-wave self-consistent field",
+          "pubid": "08ZZubdj9fEC",
+          "authors": "S Baroni, A Dal Corso, S de Gironcoli, P Giannozzi, C Cavazzoni, ...",
+          "journal": "",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:08ZZubdj9fEC"
+        },
+        {
+          "year": 2004,
+          "citations": 19,
+          "title": "Organic molecular crystals in electric fields",
+          "pubid": "M3NEmzRMIkIC",
+          "authors": "J Tóbik, A Dal Corso, S Scandolo, E Tosatti",
+          "journal": "Surface science 566, 644-649, 2004",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:M3NEmzRMIkIC"
+        },
+        {
+          "year": 2004,
+          "citations": 19,
+          "title": "Adsorption of ethylene on stepped Ag (n10) surfaces",
+          "pubid": "-f6ydRqryjwC",
+          "authors": "A Kokalj, A Dal Corso, S de Gironcoli, S Baroni",
+          "journal": "Surface science 566, 1018-1023, 2004",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:-f6ydRqryjwC"
+        },
+        {
+          "year": 2014,
+          "citations": 18,
+          "title": "Reliability evaluation of thermophysical properties from first-principles calculations",
+          "pubid": "xtRiw3GOFMkC",
+          "authors": "M Palumbo, SG Fries, A Dal Corso, F Körmann, T Hickel, J Neugebauer",
+          "journal": "Journal of Physics: Condensed Matter 26 (33), 335401, 2014",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:xtRiw3GOFMkC"
+        },
+        {
+          "year": 2006,
+          "citations": 18,
+          "title": "Structure and dynamics of the missing-row reconstruction on O/Cu (0 0 1) and O/Ag (0 0 1)",
+          "pubid": "e5wmG9Sq2KIC",
+          "authors": "N Bonini, A Kokalj, A Dal Corso, S de Gironcoli, S Baroni",
+          "journal": "Surface science 600 (23), 5074-5079, 2006",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:e5wmG9Sq2KIC"
+        },
+        {
+          "year": 2003,
+          "citations": 18,
+          "title": "Phonons softening in tip-stretched monatomic nanowires",
+          "pubid": "nb7KW1ujOQ8C",
+          "authors": "F Picaud, A Dal Corso, E Tosatti",
+          "journal": "Surface science 532, 544-548, 2003",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:nb7KW1ujOQ8C"
+        },
+        {
+          "year": 2020,
+          "citations": 17,
+          "title": "Temperature dependent elastic constants and thermodynamic properties of BAs: An ab initio investigation",
+          "pubid": "V3AGJWp-ZtQC",
+          "authors": "C Malica, A Dal Corso",
+          "journal": "Journal of Applied Physics 127 (24), 2020",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:V3AGJWp-ZtQC"
+        },
+        {
+          "year": 2003,
+          "citations": 17,
+          "title": "Co-adsorption of ethylene and oxygen on the Ag (0 0 1) surface",
+          "pubid": "_Qo2XoVZTnwC",
+          "authors": "A Kokalj, A Dal Corso, S de Gironcoli, S Baroni",
+          "journal": "Surface science 532, 191-197, 2003",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:_Qo2XoVZTnwC"
+        },
+        {
+          "year": 2012,
+          "citations": 14,
+          "title": "Interaction of CO with an Au monatomic chain at different strains: Electronic structure and ballistic transport",
+          "pubid": "hMod-77fHWUC",
+          "authors": "G Sclauzero, A Dal Corso, A Smogunov",
+          "journal": "Physical Review B 85 (16), 165411, 2012",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:hMod-77fHWUC"
+        },
+        {
+          "year": 2007,
+          "citations": 14,
+          "title": "SixC1− xO2 alloys: A possible route to stabilize carbon-based silica-like solids?",
+          "pubid": "b0M2c_1WBrUC",
+          "authors": "A Aravindh, A Arkundato, S Barman, S Baroni, BL Bhargava, ...",
+          "journal": "Solid state communications 144 (7-8), 273-276, 2007",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:b0M2c_1WBrUC"
+        },
+        {
+          "year": 2005,
+          "citations": 14,
+          "title": "On-surface and sub-surface oxygen adsorption on Ag (2 1 0): Vibrational properties",
+          "pubid": "EUQCXRtRnyEC",
+          "authors": "N Bonini, A Dal Corso, A Kokalj, S de Gironcoli, S Baroni",
+          "journal": "Surface science 587 (1-2), 50-54, 2005",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:EUQCXRtRnyEC"
+        },
+        {
+          "year": 2008,
+          "citations": 13,
+          "title": "Ab initio simulation of photoemission spectroscopy in solids: Plane-wave pseudopotential approach with applications to normal-emission spectra of Cu (001) and Cu (111)",
+          "pubid": "j3f4tGmQtD8C",
+          "authors": "N Stojić, A Dal Corso, B Zhou, S Baroni",
+          "journal": "Physical Review B 77 (19), 195116, 2008",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:j3f4tGmQtD8C"
+        },
+        {
+          "year": 2000,
+          "citations": 13,
+          "title": "Adsorption geometry of benzene on Pd (110): results of first-principles calculations",
+          "pubid": "TFP_iSt0sucC",
+          "authors": "F Favot, A Dal Corso, A Baldereschi",
+          "journal": "Europhysics Letters 52 (6), 698, 2000",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:TFP_iSt0sucC"
+        },
+        {
+          "year": 1999,
+          "citations": 13,
+          "title": "Vibrational properties of tetrahedral amorphous carbon from first principles",
+          "pubid": "RHpTSmoSYBkC",
+          "authors": "F Mauri, A Dal Corso",
+          "journal": "Applied physics letters 75 (5), 644-646, 1999",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:RHpTSmoSYBkC"
+        },
+        {
+          "year": 2021,
+          "citations": 12,
+          "title": "Quasi-harmonic thermoelasticity of palladium, platinum, copper, and gold from first principles",
+          "pubid": "olpn-zPbct0C",
+          "authors": "C Malica, A Dal Corso",
+          "journal": "Journal of Physics: Condensed Matter 33 (47), 475901, 2021",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:olpn-zPbct0C"
+        },
+        {
+          "year": 2019,
+          "citations": 11,
+          "title": "Density functional perturbation theory for lattice dynamics with fully relativistic ultrasoft pseudopotentials: The magnetic case",
+          "pubid": "VOx2b1Wkg3QC",
+          "authors": "A Urru, A Dal Corso",
+          "journal": "Physical Review B 100 (4), 045115, 2019",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:VOx2b1Wkg3QC"
+        },
+        {
+          "year": 2010,
+          "citations": 11,
+          "title": "Magnetism-induced ballistic conductance changes in palladium nanocontacts",
+          "pubid": "ns9cj8rnVeAC",
+          "authors": "P Gava, A Dal Corso, A Smogunov, E Tosatti",
+          "journal": "The European Physical Journal B 75, 57-64, 2010",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:ns9cj8rnVeAC"
+        },
+        {
+          "year": 2009,
+          "citations": 10,
+          "title": "Calculation of phonon dispersions on the grid using Quantum ESPRESSO",
+          "pubid": "NMxIlDl6LWMC",
+          "authors": "R di Meo, A Dal Corso, P Giannozzi, S Cozzini",
+          "journal": "Proc. COST School (Trieste), 2009",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:NMxIlDl6LWMC"
+        },
+        {
+          "year": 2003,
+          "citations": 10,
+          "title": "Complex band structure with ultrasoft pseudopotentials: fcc Ni and Ni nanowire",
+          "pubid": "dhFuZR0502QC",
+          "authors": "A Smogunov, A Dal Corso, E Tosatti",
+          "journal": "Surface science 532, 549-555, 2003",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:dhFuZR0502QC"
+        },
+        {
+          "year": 2000,
+          "citations": 10,
+          "title": "Erratum: Atomic Structure and Vibrational Properties of Icosahedral  Boron Carbide [Phys. Rev. Lett. 83, 3230 (1999)]",
+          "pubid": "JV2RwH3_ST0C",
+          "authors": "R Lazzari, N Vast, JM Besson, S Baroni, A Dal Corso",
+          "journal": "Physical Review Letters 85 (19), 4194, 2000",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:JV2RwH3_ST0C"
+        },
+        {
+          "year": 1998,
+          "citations": 10,
+          "title": "A first principles study of small Cun clusters based on local-density and generalized-gradient approximations to density functional theory",
+          "pubid": "k_IJM867U9cC",
+          "authors": "C Massobrio, A Pasquarello, A Dal Corso",
+          "journal": "Computational materials science 10 (1-4), 463-467, 1998",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:k_IJM867U9cC"
+        },
+        {
+          "year": 2020,
+          "citations": 9,
+          "title": "Electron energy loss spectroscopy of bulk gold with ultrasoft pseudopotentials and the Liouville-Lanczos method",
+          "pubid": "kRWSkSYxWN8C",
+          "authors": "O Motornyi, N Vast, I Timrov, O Baseggio, S Baroni, A Dal Corso",
+          "journal": "Physical Review B 102 (3), 035156, 2020",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:kRWSkSYxWN8C"
+        },
+        {
+          "year": 2012,
+          "citations": 9,
+          "title": "Effect of stretching on the ballistic conductance of Au nanocontacts in presence of CO: A density functional study",
+          "pubid": "NaGl4SEjCO4C",
+          "authors": "G Sclauzero, A Dal Corso, A Smogunov",
+          "journal": "Physical Review B 85 (16), 165412, 2012",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:NaGl4SEjCO4C"
+        },
+        {
+          "year": 2004,
+          "citations": 9,
+          "title": "Ballistic conductance of Ni nanowire with a magnetization reversal",
+          "pubid": "isC4tDSrTZIC",
+          "authors": "A Smogunov, A Dal Corso, E Tosatti",
+          "journal": "Surface science 566, 390-395, 2004",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:isC4tDSrTZIC"
+        },
+        {
+          "year": 2019,
+          "citations": 7,
+          "title": "Spin-polarized electronic surface states of Re (0001): An ab-initio investigation",
+          "pubid": "8AbLer7MMksC",
+          "authors": "A Urru, A Dal Corso",
+          "journal": "Surface Science 686, 22-29, 2019",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:8AbLer7MMksC"
+        },
+        {
+          "year": 2018,
+          "citations": 7,
+          "title": "Simulation of electron energy loss spectra with the turboEELS and thermo_pw codes",
+          "pubid": "Tiz5es2fbqcC",
+          "authors": "O Motornyi, M Raynaud, A Dal Corso, N Vast",
+          "journal": "Journal of Physics: Conference Series 1136 (1), 012008, 2018",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:Tiz5es2fbqcC"
+        },
+        {
+          "year": 2001,
+          "citations": 7,
+          "title": "Inside dielectrics: Microscopic and macroscopic polarization",
+          "pubid": "J_g5lzvAfSwC",
+          "authors": "P Umari, AD Corso, R Resta",
+          "journal": "AIP Conference Proceedings 582 (1), 107-117, 2001",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=OqVo_zQAAAAJ&pagesize=100&citation_for_view=OqVo_zQAAAAJ:J_g5lzvAfSwC"
+        }
+      ],
+      "citations": [
+        {
+          "type": "citations",
+          "all": "51056",
+          "since_2018": "31451"
+        },
+        {
+          "type": "h-index",
+          "all": "46",
+          "since_2018": "24"
+        },
+        {
+          "type": "i10-index",
+          "all": "94",
+          "since_2018": "49"
+        }
+      ]
+    },
+    "coauthors": []
+  },
+  "orcid": {
+    "orcid": "0000-0002-2668-8371",
+    "name": "Andreas Dahl",
+    "distinctions": [],
+    "education": [
+      {
+        "start": "2010",
+        "position": "Leader",
+        "organisation": "Technische Universität Dresden",
+        "country": "DE"
+      }
+    ],
+    "employment": [
+      {
+        "start": "2010",
+        "position": "Leader",
+        "organisation": "Technische Universität Dresden",
+        "country": "DE"
+      }
+    ],
+    "membership": [],
+    "works": [
+      {
+        "type": "journal-article",
+        "year": "2023",
+        "title": "Single-cell RNA sequencing unravels the transcriptional network underlying zebrafish retina regeneration",
+        "journal": "eLife",
+        "url": "https://doi.org/10.7554/eLife.86507"
+      },
+      {
+        "type": "journal-article",
+        "year": "2023",
+        "title": "Single-cell RNA sequencing unravels the transcriptional network underlying zebrafish retina regeneration",
+        "journal": "eLife",
+        "url": "https://doi.org/10.7554/eLife.86507.3"
+      },
+      {
+        "type": "preprint",
+        "year": "2023",
+        "title": "Single cell RNA sequencing unravels the transcriptional network underlying zebrafish retina regeneration",
+        "url": "https://doi.org/10.7554/eLife.86507.2"
+      },
+      {
+        "type": "journal-article",
+        "year": "2023",
+        "title": "Fatty acid desaturase 2 determines the lipidomic landscape and steroidogenic function of the adrenal gland",
+        "journal": "Science Advances",
+        "url": "https://doi.org/10.1126/sciadv.adf6710"
+      },
+      {
+        "type": "journal-article",
+        "year": "2023",
+        "title": "Transcriptome analysis reveals an Atoh1b-dependent gene set downstream of Dlx3b/4b during early inner ear development in zebrafish",
+        "journal": "Biology Open",
+        "url": "https://doi.org/10.1242/bio.059911"
+      },
+      {
+        "type": "journal-article",
+        "year": "2023",
+        "title": "Activation of β-adrenergic receptor signaling prevents glucocorticoid-induced obesity and adipose tissue dysfunction in male mice",
+        "journal": "American Journal of Physiology-Endocrinology and Metabolism",
+        "url": "https://doi.org/10.1152/ajpendo.00259.2022"
+      },
+      {
+        "type": "preprint",
+        "year": "2023",
+        "title": "Single cell RNA sequencing unravels the transcriptional network underlying zebrafish retina regeneration",
+        "url": "https://doi.org/10.7554/eLife.86507.1"
+      },
+      {
+        "type": "journal-article",
+        "year": "2023",
+        "title": "Analysis of Electric Field Stimulation in Blue Light Stressed 661W Cells",
+        "journal": "International Journal of Molecular Sciences",
+        "url": "https://doi.org/10.3390/ijms24043433"
+      },
+      {
+        "type": "preprint",
+        "year": "2023",
+        "title": "Single cell RNA sequencing unravels the transcriptional network underlying zebrafish retina regeneration",
+        "url": "https://doi.org/10.1101/2023.01.26.525679"
+      },
+      {
+        "type": "journal-article",
+        "year": "2022",
+        "title": "Fate mapping of hematopoietic stem cells reveals two pathways of native thrombopoiesis",
+        "journal": "Nature Communications",
+        "url": "https://doi.org/10.1038/s41467-022-31914-z"
+      },
+      {
+        "type": "journal-article",
+        "year": "2022",
+        "title": "Gene-selective transcription promotes the inhibition of tissue reparative macrophages by TNF",
+        "journal": "Life Science Alliance",
+        "url": "https://doi.org/10.26508/lsa.202101315"
+      },
+      {
+        "type": "journal-article",
+        "year": "2022",
+        "title": "Exosomal miRNAs from Prostate Cancer Impair Osteoblast Function in Mice",
+        "journal": "International Journal of Molecular Sciences",
+        "url": "https://doi.org/10.3390/ijms23031285"
+      },
+      {
+        "type": "journal-article",
+        "year": "2022",
+        "title": "Exosomal miRNAs from Prostate Cancer Impair Osteoblast Function in Mice",
+        "journal": "International Journal of Molecular Sciences",
+        "url": "https://www.mdpi.com/1422-0067/23/3/1285"
+      },
+      {
+        "type": "journal-article",
+        "year": "2021",
+        "title": "Low Threshold for Cutaneous Allergen Sensitization but No Spontaneous Dermatitis or Atopy in FLG-Deficient Mice",
+        "journal": "Journal of Investigative Dermatology",
+        "url": "https://doi.org/10.1016/j.jid.2021.02.763"
+      },
+      {
+        "type": "journal-article",
+        "year": "2021",
+        "title": "Environmental enrichment preserves a young DNA methylation landscape in the aged mouse hippocampus",
+        "journal": "Nature Communications",
+        "url": "https://doi.org/10.1038/s41467-021-23993-1"
+      },
+      {
+        "type": "journal-article",
+        "year": "2021",
+        "title": "Deep Learning Improves Pancreatic Cancer Diagnosis Using RNA-Based Variants",
+        "journal": "Cancers",
+        "url": "https://doi.org/10.3390/cancers13112654"
+      },
+      {
+        "type": "journal-article",
+        "year": "2021",
+        "title": "Deep Learning Improves Pancreatic Cancer Diagnosis Using RNA-Based Variants",
+        "journal": "Cancers",
+        "url": "https://www.mdpi.com/2072-6694/13/11/2654"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "Reactive oligodendrocyte progenitor cells (re-)myelinate the regenerating zebrafish spinal cord",
+        "journal": "Development",
+        "url": "https://doi.org/10.1242/dev.193946"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "Exome sequencing identifies frequent genomic loss of TET1 in IDH-wild-type glioblastoma",
+        "journal": "Neoplasia",
+        "url": "https://doi.org/10.1016/j.neo.2020.10.010"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "A smart polymer for sequence-selective binding, pulldown, and release of DNA targets",
+        "journal": "Communications Biology",
+        "url": "https://doi.org/10.1038/s42003-020-1082-2"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "Continuous mitotic activity of primitive hematopoietic stem cells in adult mice.",
+        "journal": "The Journal of experimental medicine",
+        "url": "http://europepmc.org/abstract/med/32302400"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "MicroRNA profiling of mouse cortical progenitors and neurons reveals miR-486-5p as a regulator of neurogenesis",
+        "journal": "Development",
+        "url": "https://doi.org/10.1242/dev.190520"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "Type 1 Interleukin-4 Signaling Obliterates Mouse Astroglia in vivo but Not in vitro.",
+        "journal": "Frontiers in Cell and Developmental Biology",
+        "url": "https://europepmc.org/articles/PMC7057913"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "MLL4 is required after implantation whereas MLL3 becomes essential during late gestation",
+        "journal": "Development",
+        "url": "https://doi.org/10.1242/dev.186999"
+      },
+      {
+        "type": "journal-article",
+        "year": "2020",
+        "title": "Single cell sequencing of radial glia progeny reveals the diversity of newborn neurons in the adult zebrafish brain",
+        "journal": "Development",
+        "url": "https://doi.org/10.1242/dev.185595"
+      },
+      {
+        "type": "other",
+        "year": "2019",
+        "title": "microRNA profiling of mouse cortical progenitors and neurons reveals miR-486-5p as a novel regulator of neurogenesis",
+        "url": "http://europepmc.org/abstract/PPR/PPR107181"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Gene Expression-Based Identification of Antigen-Responsive CD8+ T Cells on a Single-Cell Level.",
+        "journal": "Frontiers in immunology",
+        "url": "http://europepmc.org/abstract/med/31781096"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Silenced ZNF154 Is Associated with Longer Survival in Resectable Pancreatic Cancer",
+        "journal": "International Journal of Molecular Sciences",
+        "url": "https://doi.org/10.3390/ijms20215437"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Silenced ZNF154 Is Associated with Longer Survival in Resectable Pancreatic Cancer",
+        "journal": "International Journal of Molecular Sciences",
+        "url": "https://www.mdpi.com/1422-0067/20/21/5437"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Prospective isolation of nonhematopoietic cells of the niche and their differential molecular interactions with HSCs.",
+        "journal": "Blood",
+        "url": "http://europepmc.org/abstract/med/31366622"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Hematopoietic stem cell response to acute thrombocytopenia requires signaling through distinct receptor tyrosine kinases",
+        "journal": "Blood",
+        "url": "https://doi.org/10.1182/blood.2019000721"
+      },
+      {
+        "type": "other",
+        "year": "2019",
+        "title": "Epigenetic rejuvenation of the hippocampus by environmental enrichment",
+        "url": "https://doi.org/10.1101/776310"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Aldh1b1 expression defines progenitor cells in the adult pancreas and is required for Kras-induced pancreatic cancer.",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "url": "http://europepmc.org/abstract/med/31548432"
+      },
+      {
+        "type": "other",
+        "year": "2019",
+        "title": "Proliferative behavior of hematopoietic stem cells revisited: No evidence for mitotic memory",
+        "url": "http://europepmc.org/abstract/PPR/PPR90311"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Renin cells with defective Gsα/cAMP signaling contribute to renal endothelial damage.",
+        "journal": "Pflugers Archiv : European journal of physiology",
+        "url": "http://europepmc.org/abstract/med/31388748"
+      },
+      {
+        "type": "other",
+        "year": "2019",
+        "title": "Gene expression-based identification of antigen-responsive CD8+ T cells on a single-cell level",
+        "url": "http://europepmc.org/abstract/PPR/PPR82971"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Controlling distinct signaling states in cultured cancer cells provides a new platform for drug discovery.",
+        "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+        "url": "http://europepmc.org/abstract/med/31145643"
+      },
+      {
+        "type": "other",
+        "year": "2019",
+        "title": "Redox potential defines functional states of adult hippocampal stem cells",
+        "url": "https://doi.org/10.1101/606186"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Comparative RNAi Screens in Isogenic Human Stem Cells Reveal SMARCA4 as a Differential Regulator.",
+        "journal": "Stem Cell Reports",
+        "url": "http://europepmc.org/abstract/med/31031192"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Sequence and expression levels of circular RNAs in progenitor cell types during mouse corticogenesis",
+        "journal": "Life Science Alliance",
+        "url": "https://doi.org/10.26508/lsa.201900354"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Single-Cell Transcriptomics Analyses of Neural Stem Cell Heterogeneity and Contextual Plasticity in a Zebrafish Brain Model of Amyloid Toxicity.",
+        "journal": "Cell reports",
+        "url": "http://europepmc.org/abstract/med/31018142"
+      },
+      {
+        "type": "other",
+        "year": "2019",
+        "title": "A smart polymer for sequence-selective binding, pulldown, and release of DNA targets",
+        "url": "http://europepmc.org/abstract/PPR/PPR73141"
+      },
+      {
+        "type": "other",
+        "year": "2019",
+        "title": "Comprehensive Assessment of Sequence and Expression of Circular-RNAs in Progenitor Cell Types of the Developing Mammalian Cortex",
+        "url": "http://europepmc.org/abstract/PPR/PPR70798"
+      },
+      {
+        "type": "journal-article",
+        "year": "2019",
+        "title": "Molecular fungal community and its decomposition activity in sapwood and heartwood of 13 temperate European tree species.",
+        "journal": "PloS one",
+        "url": "http://europepmc.org/abstract/med/30763365"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Kmt2b conveys monovalent and bivalent H3K4me3 in mouse spermatogonial stem cells at germline and embryonic promoters",
+        "journal": "Development",
+        "url": "https://doi.org/10.1242/dev.169102"
+      },
+      {
+        "type": "other",
+        "year": "2018",
+        "title": "Comparative RNAi Screens in Isogenic Human Stem Cells Reveal SMARCA4 as a Differential Regulator",
+        "url": "http://europepmc.org/abstract/PPR/PPR65361"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "3D Culture Method for Alzheimer's Disease Modeling Reveals Interleukin-4 Rescues Aβ42-Induced Loss of Human Neural Stem Cell Plasticity",
+        "journal": "Developmental cell",
+        "url": "https://doi.org/10.1016/j.devcel.2018.06.005"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Although Abundant in Tumor Tissue, Mast Cells Have No Effect on Immunological Micro-milieu or Growth of HPV-Induced or Transplanted Tumors",
+        "journal": "Cell reports",
+        "url": "https://doi.org/10.1016/j.celrep.2017.12.010"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Author Correction: The axolotl genome and the evolution of key tissue formation regulators",
+        "journal": "Nature",
+        "url": "https://doi.org/10.1038/s41586-018-0141-z"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Bacteria inhabiting deadwood of 13 tree species are heterogeneously distributed between sapwood and heartwood",
+        "journal": "Environmental microbiology",
+        "url": "https://doi.org/10.1111/1462-2920.14376"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Clonal Analysis Delineates Transcriptional Programs of Osteogenic and Adipogenic Lineages of Adult Mouse Skeletal Progenitors",
+        "journal": "Stem cell reports",
+        "url": "http://europepmc.org/articles/PMC6067065"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Effects of different management regimes on microbial biodiversity in vineyard soils",
+        "journal": "Scientific reports",
+        "url": "http://europepmc.org/articles/PMC6010416"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Effects of different management regimes on microbial biodiversity in vineyard soils",
+        "journal": "Scientific Reports",
+        "url": "https://doi.org/10.1038/s41598-018-27743-0"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Epigenomic map of human liver reveals principles of zonated morphogenic and metabolic control",
+        "journal": "Nature communications",
+        "url": "http://europepmc.org/articles/PMC6175862"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Hematopoietic Stem Cells but Not Multipotent Progenitors Drive Erythropoiesis during Chronic Erythroid Stress in EPO Transgenic Mice",
+        "journal": "Stem cell reports",
+        "url": "http://europepmc.org/articles/PMC5989815"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "IGF2BP1 promotes SRF-dependent transcription in cancer in a m6A- and miRNA-dependent manner",
+        "journal": "Nucleic acids research",
+        "url": "https://doi.org/10.1093/nar/gky1012"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Insm1 Induces Neural Progenitor Delamination in Developing Neocortex via Downregulation of the Adherens Junction Belt-Specific Protein Plekha7",
+        "journal": "Neuron",
+        "url": "https://doi.org/10.1016/j.neuron.2018.01.052"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Modulation of Myelopoiesis Progenitors Is an Integral Component of Trained Immunity",
+        "journal": "Cell",
+        "url": "http://europepmc.org/articles/PMC5766828"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "SETD1A protects HSCs from activation-induced functional decline in vivo",
+        "journal": "Blood",
+        "url": "https://doi.org/10.1182/blood-2017-09-806844"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Systems biology of the IMIDIA biobank from organ donors and pancreatectomised patients defines a novel transcriptomic signature of islets from individuals with type 2 diabetes",
+        "journal": "Diabetologia",
+        "url": "http://europepmc.org/articles/PMC5803296"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "T cell receptor alpha repertoire of CD8+ T cells following allogeneic stem cell transplantation using next-generation sequencing",
+        "journal": "Haematologica",
+        "url": "https://doi.org/10.3324/haematol.2018.199802"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "The H3K4 methyltransferase Setd1b is essential for hematopoietic stem and progenitor cell homeostasis in mice",
+        "journal": "eLife",
+        "url": "http://europepmc.org/articles/PMC6025962"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "The axolotl genome and the evolution of key tissue formation regulators",
+        "journal": "Nature",
+        "url": "https://doi.org/10.1038/nature25458"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "The genome of Schmidtea mediterranea and the evolution of core cellular mechanisms",
+        "journal": "Nature",
+        "url": "http://europepmc.org/articles/PMC5797480"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "The genome of the tegu lizard Salvator merianae: combining Illumina, PacBio, and optical mapping data to generate a highly contiguous assembly",
+        "journal": "GigaScience",
+        "url": "https://doi.org/10.1093/gigascience/giy141"
+      },
+      {
+        "type": "journal-article",
+        "year": "2018",
+        "title": "Whole exome sequencing identifies mTOR and KEAP1 as potential targets for radiosensitization of HNSCC cells refractory to EGFR and β1 integrin inhibition",
+        "journal": "Oncotarget",
+        "url": "http://europepmc.org/articles/PMC5915060"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Donor cell leukemia: evidence for multiple preleukemic clones and parallel long term clonal evolution in donor and recipient.",
+        "journal": "Leukemia",
+        "url": "http://europepmc.org/abstract/med/28348390"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "An Engineered Virus Library as a Resource for the Spectrum-wide Exploration of Virus and Vector Diversity",
+        "journal": "Cell Rep",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28538186"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Assessment of the T cell receptor repertoire in long-term platelet donors by next generation sequencing",
+        "journal": "Br J Haematol",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28272738"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "CD8(+) T cells specific for the islet autoantigen IGRP are restricted in their T cell receptor chain usage",
+        "journal": "Sci Rep",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28300170"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Clonal competition in BcrAbl-driven leukemia: how transplantations can accelerate clonal conversion",
+        "journal": "Molecular cancer",
+        "url": "http://europepmc.org/articles/PMC5512731"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Clonal competition in BcrAbl-driven leukemia: how transplantations can accelerate clonal conversion",
+        "journal": "Mol Cancer",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28709463"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Correction: TDRD6 mediates early steps of spliceosome maturation in primary spermatocytes",
+        "journal": "PLoS genetics",
+        "url": "http://europepmc.org/articles/PMC5580917"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Correction: TDRD6 mediates early steps of spliceosome maturation in primary spermatocytes",
+        "journal": "PLoS Genet",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28863135"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Dual redundant sequencing strategy: Full-length gene characterisation of 1056 novel and confirmatory HLA alleles",
+        "journal": "HLA",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28547825"
+      },
+      {
+        "type": "other",
+        "year": "2017",
+        "title": "Instructive starPEG-Heparin biohybrid 3D cultures for modeling human neural stem cell plasticity, neurogenesis, and neurodegeneration",
+        "url": "https://doi.org/10.1101/225243"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Limitations and challenges of genetic barcode quantification",
+        "journal": "Sci Rep",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28256524"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Neurotrophin Receptor p75NTR Regulates Immune Function of Plasmacytoid Dendritic Cells",
+        "journal": "Frontiers in Immunology",
+        "url": "http://europepmc.org/articles/PMC5562693"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Neurotrophin Receptor p75NTR Regulates Immune Function of Plasmacytoid Dendritic Cells",
+        "journal": "Front Immunol",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28861085"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Pancreas lineage allocation and specification are regulated by sphingosine-1-phosphate signalling",
+        "journal": "PLoS Biol",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28248965"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Primary Spinal OPC Culture System from Adult Zebrafish to Study Oligodendrocyte Differentiation In Vitro",
+        "journal": "Frontiers in Cellular Neuroscience",
+        "url": "http://europepmc.org/articles/PMC5603699"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Setd1b, encoding a histone 3 lysine 4 methyltransferase, is a maternal effect gene required for the oogenic gene expression program",
+        "journal": "Development",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28619824"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "T cell receptor repertoires after adoptive transfer of expanded allogeneic regulatory T cells",
+        "journal": "Clin Exp Immunol",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/27774628"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "TDRD6 mediates early steps of spliceosome maturation in primary spermatocytes",
+        "journal": "PLoS Genet",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/28263986"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Zebrafish In-Vivo Screening for Compounds Amplifying Hematopoietic Stem and Progenitor Cells: - Preclinical Validation in Human CD34+ Stem and Progenitor Cells",
+        "journal": "Scientific reports",
+        "url": "http://europepmc.org/articles/PMC5608703"
+      },
+      {
+        "type": "journal-article",
+        "year": "2017",
+        "title": "Zebrafish In-Vivo Screening for Compounds Amplifying Hematopoietic Stem and Progenitor Cells: - Preclinical Validation in Human CD34+ Stem and Progenitor Cells",
+        "journal": "Scientific Reports",
+        "url": "https://doi.org/10.1038/s41598-017-12360-0"
+      },
+      {
+        "type": "journal-article",
+        "year": "2016",
+        "title": "IL4/STAT6 Signaling Activates Neural Stem Cell Proliferation and Neurogenesis upon Amyloid-β42 Aggregation in Adult Zebrafish Brain.",
+        "journal": "Cell reports",
+        "url": "http://europepmc.org/abstract/med/27760324"
+      },
+      {
+        "type": "journal-article",
+        "year": "2016",
+        "title": "Loss of Trex1 in Dendritic Cells Is Sufficient To Trigger Systemic Autoimmunity.",
+        "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+        "url": "http://europepmc.org/abstract/med/27511730"
+      },
+      {
+        "type": "journal-article",
+        "year": "2016",
+        "title": "Abundant cytomegalovirus (CMV) reactive clonotypes in the CD8(+) T cell receptor alpha repertoire following allogeneic transplantation.",
+        "journal": "Clinical and experimental immunology",
+        "url": "http://europepmc.org/abstract/med/26800118"
+      },
+      {
+        "type": "journal-article",
+        "year": "2016",
+        "title": "Identification of Tox chromatin binding properties and downstream targets by DamID-Seq.",
+        "journal": "Genomics data",
+        "url": "http://europepmc.org/abstract/med/26981424"
+      },
+      {
+        "type": "journal-article",
+        "year": "2016",
+        "title": "Aldehyde dehydrogenase activity is necessary for beta cell development and functionality in mice.",
+        "journal": "Diabetologia",
+        "url": "http://europepmc.org/abstract/med/26518685"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Rapid Conversion of Fibroblasts into Functional Forebrain GABAergic Interneurons by Direct Genetic Reprogramming.",
+        "journal": "Cell stem cell",
+        "url": "http://europepmc.org/abstract/med/26526726"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "CCND1-CDK4-mediated cell cycle progression provides a competitive advantage for human hematopoietic stem cells in vivo.",
+        "url": "http://europepmc.org/abstract/med/26150472"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "RNAi profiling of primary human AML cells identifies ROCK1 as a therapeutic target and nominates fasudil as an antileukemic drug.",
+        "url": "http://europepmc.org/abstract/med/25931586"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Regulation of liver metabolism by the endosomal GTPase Rab5.",
+        "url": "http://europepmc.org/abstract/med/25937276"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Tox: a multifunctional transcription factor and novel regulator of mammalian corticogenesis.",
+        "url": "http://europepmc.org/abstract/med/25527292"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "High diversity in the TCR repertoire of GAD65 autoantigen-specific human CD4+ T cells.",
+        "url": "http://europepmc.org/abstract/med/25681349"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Human-specific gene ARHGAP11B promotes basal progenitor amplification and neocortex expansion.",
+        "url": "http://europepmc.org/abstract/med/25721503"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Defective removal of ribonucleotides from DNA promotes systemic autoimmunity.",
+        "url": "http://europepmc.org/abstract/med/25500883"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Defective removal of ribonucleotides from DNA promotes systemic lupus erythematosus.",
+        "url": "http://europepmc.org/abstract/PMC/PMC4597412"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Detection of low frequency variants of the NLRP3 gene in “mutation- negative” CAPS patients using massive parallel sequencing.",
+        "url": "http://europepmc.org/abstract/PMC/PMC4597473"
+      },
+      {
+        "type": "journal-article",
+        "year": "2015",
+        "title": "Identification and expression patterns of novel long non-coding RNAs in neural progenitors of the developing mammalian cortex.",
+        "journal": "Neurogenesis (Austin, Tex.)",
+        "url": "http://europepmc.org/abstract/med/27504473"
+      },
+      {
+        "type": "journal-article",
+        "year": "2014",
+        "title": "Personalized medicine approaches for colon cancer driven by genomics and systems biology: OncoTrack.",
+        "url": "http://europepmc.org/abstract/med/25074435"
+      },
+      {
+        "type": "journal-article",
+        "year": "2014",
+        "title": "The age and genomic integrity of neurons after cortical stroke in humans.",
+        "url": "http://europepmc.org/abstract/med/24747576"
+      },
+      {
+        "type": "journal-article",
+        "year": "2014",
+        "title": "Clonal expansion capacity defines two consecutive developmental stages of long-term hematopoietic stem cells.",
+        "url": "http://europepmc.org/abstract/med/24446490"
+      },
+      {
+        "type": "journal-article",
+        "year": "2014",
+        "title": "Multiplexing clonality: combining RGB marking and genetic barcoding.",
+        "url": "http://europepmc.org/abstract/med/24476916"
+      },
+      {
+        "type": "journal-article",
+        "year": "2014",
+        "title": "SAMHD1 prevents autoimmunity by maintaining genome stability.",
+        "url": "http://europepmc.org/abstract/med/24445253"
+      },
+      {
+        "type": "journal-article",
+        "year": "2014",
+        "title": "The earliest transcribed zygotic genes are short, newly evolved, and different across species.",
+        "url": "http://europepmc.org/abstract/med/24440719"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Transcriptome sequencing during mouse brain development identifies long non-coding RNAs functionally involved in neurogenic commitment.",
+        "url": "http://europepmc.org/abstract/med/24240175"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Mouse SAMHD1 has antiretroviral activity and suppresses a spontaneous cell-intrinsic antiviral response.",
+        "url": "http://europepmc.org/abstract/med/23972988"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "Reactivating head regrowth in a regeneration-deficient planarian species.",
+        "url": "http://europepmc.org/abstract/med/23883932"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "The histone demethylase UTX regulates stem cell migration and hematopoiesis.",
+        "url": "http://europepmc.org/abstract/med/23365460"
+      },
+      {
+        "type": "journal-article",
+        "year": "2013",
+        "title": "PW02-026 - Low frequency variants of NLRP3 in CAPS patients.",
+        "journal": "Pediatric rheumatology online journal",
+        "url": "http://europepmc.org/abstract/PMC/PMC3952167"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Genome-wide DNA methylation events in TMPRSS2-ERG fusion-negative prostate cancers implicate an EZH2-dependent mechanism with miR-26a hypermethylation.",
+        "url": "http://europepmc.org/abstract/med/22930729"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "The 1000 Genomes Project: data management and community access.",
+        "url": "http://europepmc.org/abstract/med/22543379"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "MsLDR-creator: a web service to design msLDR assays.",
+        "url": "http://europepmc.org/abstract/med/22278756"
+      },
+      {
+        "type": "journal-article",
+        "year": "2012",
+        "title": "Hsp90 inhibition differentially destabilises MAP kinase and TGF-beta signalling components in cancer cells revealed by kinase-targeted chemoproteomics.",
+        "url": "http://europepmc.org/abstract/med/22277058"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "Analysis of 4 single-nucleotide polymorphisms in relation to cervical dysplasia and cancer development using a high-throughput ligation-detection reaction procedure.",
+        "url": "http://europepmc.org/abstract/med/21897271"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "Methylation-specific ligation detection reaction (msLDR): a new approach for multiplex evaluation of methylation patterns.",
+        "url": "http://europepmc.org/abstract/med/21879293"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "The variant call format and VCFtools.",
+        "url": "http://europepmc.org/abstract/med/21653522"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "Demographic history and rare allele sharing among human populations.",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "url": "http://europepmc.org/abstract/med/21730125"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "Variation in genome-wide mutation rates within and between human families.",
+        "url": "http://europepmc.org/abstract/med/21666693"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "Mapping copy number variation by population-scale genome sequencing.",
+        "url": "http://europepmc.org/abstract/med/21293372"
+      },
+      {
+        "type": "journal-article",
+        "year": "2011",
+        "title": "The functional spectrum of low-frequency coding variation.",
+        "url": "http://europepmc.org/abstract/med/21917140"
+      },
+      {
+        "type": "journal-article",
+        "year": "2010",
+        "title": "High-throughput Universal Probe Salmonella Serotyping (UPSS) by nanoPCR.",
+        "url": "http://europepmc.org/abstract/med/20869995"
+      },
+      {
+        "type": "journal-article",
+        "year": "2010",
+        "title": "A flexible multiwell format for immunofluorescence screening microscopy of small-molecule inhibitors.",
+        "url": "http://europepmc.org/abstract/med/20666660"
+      },
+      {
+        "type": "journal-article",
+        "year": "2010",
+        "title": "A map of human genome variation from population-scale sequencing.",
+        "url": "http://europepmc.org/abstract/med/20981092"
+      },
+      {
+        "type": "journal-article",
+        "year": "2010",
+        "title": "Diversity of human copy number variation and multicopy genes.",
+        "url": "http://europepmc.org/abstract/med/21030649"
+      },
+      {
+        "type": "journal-article",
+        "year": "2010",
+        "title": "Identity-by-descent filtering of exome sequence data identifies PIGV mutations in hyperphosphatasia mental retardation syndrome.",
+        "url": "http://europepmc.org/abstract/med/20802478"
+      },
+      {
+        "type": "journal-article",
+        "year": "2010",
+        "title": "Ecophysiology of food-borne pathogens: Essential knowledge to improve food safety.",
+        "url": "http://europepmc.org/abstract/med/20171753"
+      },
+      {
+        "type": "journal-article",
+        "year": "2010",
+        "title": "The application of massively parallel sequencing technologies in diagnostics.",
+        "url": "http://europepmc.org/abstract/med/21173878"
+      },
+      {
+        "type": "journal-article",
+        "year": "2010",
+        "title": "The application of massively parallel sequencing technologies in diagnostics",
+        "journal": "F1000 Biol Rep"
+      },
+      {
+        "type": "journal-article",
+        "year": "2007",
+        "title": "Quantitative PCR based expression analysis on a nanoliter scale using polymer nano-well chips.",
+        "url": "http://europepmc.org/abstract/med/17203381"
+      },
+      {
+        "type": "journal-article",
+        "year": "2006",
+        "title": "Matrix-assisted laser desorption/ionization mass spectrometric analysis of DNA on microarrays.",
+        "url": "http://europepmc.org/abstract/med/16728469"
+      },
+      {
+        "type": "journal-article",
+        "year": "2004",
+        "title": "Automated solid-phase extraction for purification of single nucleotide polymorphism genotyping products prior to matrix-assisted laser desorption/ionisation time-of-flight mass spectrometric analysis.",
+        "url": "http://europepmc.org/abstract/med/15499912"
+      }
+    ],
+    "services": [],
+    "invited": [],
+    "qualifications": []
+  },
+  "cristin": {
+    "name": "Andreas Dahl",
+    "id": "1244092",
+    "keywords": [],
+    "position": ["Research fellow"],
+    "img": {},
+    "works": [
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Assessing the longitudinal associations between decision-making processes and attention problems in early adolescence",
+        "journal": "Research on Child and Adolescent Psychopathology",
+        "url": "https://api.cristin.no/v2/results/2201362"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Delineating disorder-general and disorder-specific dimensions of psychopathology from functional brain networks in a developmental clinical sample",
+        "journal": "Developmental Cognitive Neuroscience",
+        "url": "https://api.cristin.no/v2/results/2156142"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Reaction Time Variability in Children Is Specifically Associated With Attention Problems and Regional White Matter Microstructure",
+        "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+        "url": "https://api.cristin.no/v2/results/2154281"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Linking brain maturation and puberty during early adolescence using longitudinal brain age prediction in the ABCD cohort",
+        "journal": "Developmental Cognitive Neuroscience",
+        "url": "https://api.cristin.no/v2/results/2133164"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Shared pattern of impaired social communication and cognitive ability in the youth brain across diagnostic boundaries",
+        "journal": "Developmental Cognitive Neuroscience",
+        "url": "https://api.cristin.no/v2/results/2127962"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Mapping Normative Trajectories of Cognitive Function and Its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
+        "journal": "Biological Psychiatry: Global Open Science",
+        "url": "https://api.cristin.no/v2/results/2021585"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Virtual Ontogeny of Cortical Growth Preceding Mental Illness",
+        "journal": "Biological Psychiatry",
+        "url": "https://api.cristin.no/v2/results/2103125"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Deviations from normative brain white and gray matter structure are associated with psychopathology in youth",
+        "journal": "Developmental Cognitive Neuroscience",
+        "url": "https://api.cristin.no/v2/results/2075738"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Associations between brain imaging and polygenic scores of mental health and educational attainment in children aged 9–11",
+        "journal": "NeuroImage",
+        "url": "https://api.cristin.no/v2/results/2064903"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Computational Modeling of the n-Back Task in the ABCD Study: Associations of Drift Diffusion Model Parameters to Polygenic Scores of Mental Disorders and Cardiometabolic Diseases",
+        "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+        "url": "https://api.cristin.no/v2/results/2053200"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2022",
+        "title": "Cross-Diagnostic Patterns of Socio-Cognitive Traits in the Developing Brain of Children and Adolescents",
+        "url": "https://api.cristin.no/v2/results/2021584"
+      }
+    ]
+  }
+}

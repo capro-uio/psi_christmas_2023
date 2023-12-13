@@ -1,0 +1,690 @@
+{
+  "gscolar": {},
+  "orcid": {
+    "orcid": "0000-0003-1886-7692",
+    "name": "Svenn Torgersen",
+    "distinctions": [],
+    "education": [],
+    "employment": [],
+    "membership": [],
+    "works": {},
+    "services": [],
+    "invited": [],
+    "qualifications": []
+  },
+  "cristin": {
+    "name": "Svenn Omar Torgersen",
+    "id": "22513",
+    "keywords": ["Inheritance and environment", "Anxiety", "Personality Disorders", "Nature-nuture"],
+    "position": ["Professor", "Researcher"],
+    "img": "https://api.cristin.no/v2/persons/22513/picture",
+    "works": [
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Clustering psychopathology in male anabolic–androgenic steroid users and nonusing weightlifters",
+        "journal": "Brain and Behavior",
+        "url": "https://api.cristin.no/v2/results/2156616"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Psychopathology among anabolic-androgenic steroid using and non-using female athletes in Norway",
+        "journal": "Journal of Psychiatric Research",
+        "url": "https://api.cristin.no/v2/results/2061569"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "The role of sense of coherence and loneliness in borderline personality disorder traits: a longitudinal twin study",
+        "journal": "Borderline personality disorder and emotion dysregulation (BPDED)",
+        "url": "https://api.cristin.no/v2/results/2041625"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "The relationship between life events and sense of coherence in adolescence. A longitudinal twin study",
+        "journal": "Journal of Research in Personality",
+        "url": "https://api.cristin.no/v2/results/2031587"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Childhood Trauma and Borderline Personality Disorder Traits: A Discordant Twin Study",
+        "journal": "Journal of Psychopathology and Clinical Science",
+        "url": "https://api.cristin.no/v2/results/2031586"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Severity of anabolic steroid dependence, executive function, and personality traits in substance use disorder patients in Norway",
+        "journal": "Drug and Alcohol Dependence",
+        "url": "https://api.cristin.no/v2/results/2022970"
+      },
+      {
+        "type": "Academic article",
+        "year": "2019",
+        "title": "The Oslo University Adolescent and Young Adult Twin Project: Recruitment and Attrition",
+        "journal": "Twin Research and Human Genetics",
+        "url": "https://api.cristin.no/v2/results/1736255"
+      },
+      {
+        "type": "Academic article",
+        "year": "2019",
+        "title": "Unravelling the Interplay Between Genetic and Environmental Contributions\r\nin the Unfolding of Personality Differences from Early Adolescence to\r\nYoung Adulthood",
+        "journal": "European Journal of Personality",
+        "url": "https://api.cristin.no/v2/results/1677872"
+      },
+      {
+        "type": "Academic article",
+        "year": "2019",
+        "title": "Etiological influences on continuity and co‐occurrence of eating disorders symptoms across adolescence and emerging adulthood",
+        "journal": "International Journal of Eating Disorders",
+        "url": "https://api.cristin.no/v2/results/1677871"
+      },
+      {
+        "type": "Academic article",
+        "year": "2018",
+        "title": "Borderline personality disorder",
+        "journal": "Nature Reviews Disease Primers",
+        "url": "https://api.cristin.no/v2/results/1628965"
+      },
+      {
+        "type": "Academic article",
+        "year": "2018",
+        "title": "Associations of children’s Big Five personality with eating behaviors",
+        "journal": "BMC Research Notes",
+        "url": "https://api.cristin.no/v2/results/1614842"
+      },
+      {
+        "type": "Academic article",
+        "year": "2018",
+        "title": "Interrater reliability of the structured clinical interview for the DSM-5 alternative model of personality disorders module i: Level of personality functioning scale",
+        "journal": "Journal of Personality Assessment",
+        "url": "https://api.cristin.no/v2/results/1605123"
+      },
+      {
+        "type": "Academic article",
+        "year": "2018",
+        "title": "The genetic and environmental architecture of substance use development from early adolescence into young adulthood: a longitudinal twin study of comorbidity of alcohol, tobacco and illicit drug use",
+        "journal": "Addiction",
+        "url": "https://api.cristin.no/v2/results/1525213"
+      },
+      {
+        "type": "Academic article",
+        "year": "2018",
+        "title": "Emotional Lability in Preschoolers With Symptoms of ADHD",
+        "journal": "Journal of Attention Disorders",
+        "url": "https://api.cristin.no/v2/results/1236001"
+      },
+      {
+        "type": "Academic article",
+        "year": "2016",
+        "title": "Co-Occurrence of ADHD and Anxiety in Preschool Children",
+        "journal": "Journal of Attention Disorders",
+        "url": "https://api.cristin.no/v2/results/996601"
+      },
+      {
+        "type": "Academic article",
+        "year": "2016",
+        "title": "Sex differences in genetic and environmental contributions to alcohol consumption from early adolescence to young adulthood",
+        "journal": "Addiction",
+        "url": "https://api.cristin.no/v2/results/1368469"
+      },
+      {
+        "type": "Academic article",
+        "year": "2016",
+        "title": "Constructing a short form of the hierarchical personality inventory for children (HiPIC): The HiPIC-30",
+        "journal": "Personality and Mental Health",
+        "url": "https://api.cristin.no/v2/results/1363005"
+      },
+      {
+        "type": "Academic article",
+        "year": "2016",
+        "title": "Personality disorders and Axis I comorbidity in adolescent outpatients with ADHD",
+        "journal": "BMC Psychiatry",
+        "url": "https://api.cristin.no/v2/results/1359084"
+      },
+      {
+        "type": "Academic article",
+        "year": "2016",
+        "title": "Substance abuse and personality disorder comorbidity in adolescent outpatients: are girls more severely ill than boys?",
+        "journal": "Child and Adolescent Psychiatry and Mental Health (CAPMH)",
+        "url": "https://api.cristin.no/v2/results/1349960"
+      },
+      {
+        "type": "Academic article",
+        "year": "2016",
+        "title": "Common Etiological Sources of Anxiety, Depression, and Somatic Complaints in Adolescents: A Multiple Rater twin Study",
+        "journal": "Journal of Abnormal Child Psychology",
+        "url": "https://api.cristin.no/v2/results/1249767"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1319393"
+      },
+      {
+        "type": "Academic article",
+        "year": "2015",
+        "title": "A longitudinal twin study of borderline and antisocial personality disorder traits in early to middle adulthood",
+        "journal": "Psychological Medicine",
+        "url": "https://api.cristin.no/v2/results/1315146"
+      },
+      {
+        "type": "Academic article",
+        "year": "2015",
+        "title": "The Relationship between Personality Disorders and Quality of Life in Adolescent Outpatients",
+        "journal": "Scandinavian Journal of Child and Adolescent Psychiatry and Psychology",
+        "url": "https://api.cristin.no/v2/results/1295269"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2015",
+        "title": "Borderline and antisocial personality disorder traits in early to middle adulthood: A longitudinal twin study",
+        "url": "https://api.cristin.no/v2/results/1284232"
+      },
+      {
+        "type": "Academic article",
+        "year": "2015",
+        "title": "Genetic and Environmental Influences on Adolescents’ Smoking Involvement: A Multi-informant Twin Study",
+        "journal": "Behavior Genetics",
+        "url": "https://api.cristin.no/v2/results/1252194"
+      },
+      {
+        "type": "Academic article",
+        "year": "2015",
+        "title": "Weak etiologic links between control and the externalizing behaviors delinquency and substance abuse in adolescence",
+        "journal": "Personality and Individual Differences",
+        "url": "https://api.cristin.no/v2/results/1185807"
+      },
+      {
+        "type": "Poster",
+        "year": "2014",
+        "title": "Causes of co-occurring somatic, anxious and depressive symptoms in adolescents",
+        "url": "https://api.cristin.no/v2/results/1142481"
+      },
+      {
+        "type": "Poster",
+        "year": "2014",
+        "title": "Impulsivity, delinquency and substance abuse in adolescence – Can common genetic or environmental factors explain why these traits often co-occur?",
+        "url": "https://api.cristin.no/v2/results/1142479"
+      },
+      {
+        "type": "Academic article",
+        "year": "2014",
+        "title": "Genetic and environmental causes of variation in adolescent anxiety symptoms: A multiple-rater twin study",
+        "journal": "Journal of Anxiety Disorders",
+        "url": "https://api.cristin.no/v2/results/1131835"
+      },
+      {
+        "type": "Academic article",
+        "year": "2014",
+        "title": "Continuity in features of anxiety and attention deficit/hyperactivity disorder in young preschool children",
+        "journal": "European Child and Adolescent Psychiatry",
+        "url": "https://api.cristin.no/v2/results/1127279"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2014",
+        "title": "Psychology of Child Well-Being",
+        "url": "https://api.cristin.no/v2/results/1072870"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Father's mental health as a protective factor in the relationship between maternal and child depressive symptoms",
+        "journal": "Depression and Anxiety",
+        "url": "https://api.cristin.no/v2/results/972052"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Neuronal correlates of the five factor model (FFM) of human personality: Multimodal imaging in a large healthy sample",
+        "journal": "NeuroImage",
+        "url": "https://api.cristin.no/v2/results/951474"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Anxious youth in research and service clinics",
+        "journal": "Journal of Anxiety Disorders",
+        "url": "https://api.cristin.no/v2/results/951240"
+      },
+      {
+        "type": "Doctoral dissertation",
+        "year": "2013",
+        "title": "Evidence-based assessment of anxiety-disordered children: From research to community clinics",
+        "url": "https://api.cristin.no/v2/results/1670577"
+      },
+      {
+        "type": "Doctoral dissertation",
+        "year": "2013",
+        "title": "Parent factors in child psychopathology. Overprotective parenting behaviors and parental symptoms of depression and stress.",
+        "url": "https://api.cristin.no/v2/results/1670468"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Self-Efficacy Is Mainly Genetic, Not Learned: A Multiple-Rater Twin Study on the Causal Structure of General Self-Efficacy in Young People",
+        "journal": "Twin Research and Human Genetics",
+        "url": "https://api.cristin.no/v2/results/1039861"
+      },
+      {
+        "type": "Academic article",
+        "year": "2013",
+        "title": "Anxious Self-Statements in Clinic-Referred US and Norwegian Anxiety-Disordered Youth",
+        "journal": "Cognitive Therapy and Research",
+        "url": "https://api.cristin.no/v2/results/1019473"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "The heritability of cluster B personality disorders assessed both by personal interview and questionnaire",
+        "journal": "Journal of Personality Disorders",
+        "url": "https://api.cristin.no/v2/results/971146"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "Diagnostic efficiency of the child and parent versions of the Multidimensional Anxiety Scale for Children",
+        "journal": "Journal of Clinical Child & Adolescent Psychology",
+        "url": "https://api.cristin.no/v2/results/971040"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "Genetic and environmental causes of variation in perceived loneliness in young people",
+        "journal": "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics",
+        "url": "https://api.cristin.no/v2/results/968735"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "Genetic and Environmental Causes of Variation in Trait Resilience in Young People",
+        "journal": "Behavior Genetics",
+        "url": "https://api.cristin.no/v2/results/950714"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "Overprotective parenting and child anxiety: The role of co-occurring child behavior problems",
+        "journal": "Journal of Anxiety Disorders",
+        "url": "https://api.cristin.no/v2/results/949646"
+      },
+      {
+        "type": "Academic article",
+        "year": "2012",
+        "title": "The heritability of avoidant and dependent personality disorder assessed by personal interview and questionnaire",
+        "journal": "Acta Psychiatrica Scandinavica",
+        "url": "https://api.cristin.no/v2/results/933851"
+      },
+      {
+        "type": "Feature article",
+        "year": "2012",
+        "journal": "Tidsskrift for Den norske legeforening",
+        "url": "https://api.cristin.no/v2/results/1020384"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2012",
+        "title": "Epidemiology",
+        "url": "https://api.cristin.no/v2/results/1003588"
+      },
+      {
+        "type": "Interview",
+        "year": "2011",
+        "url": "https://api.cristin.no/v2/results/990070"
+      },
+      {
+        "type": "Academic article",
+        "year": "2011",
+        "title": "The joint structure of DSM-IV Axis I and Axis II disorders",
+        "journal": "Journal of Abnormal Psychology",
+        "url": "https://api.cristin.no/v2/results/511732"
+      },
+      {
+        "type": "Academic article",
+        "year": "2010",
+        "title": "Major depression and dimensional representations of DSM-IV personality disorders: a population-based twin study",
+        "journal": "Psychological Medicine",
+        "url": "https://api.cristin.no/v2/results/352479"
+      },
+      {
+        "type": "Academic article",
+        "year": "2010",
+        "title": "How resilient are resilience scales? The Big Five scales outperform resilience scales in predicting adjustment in adolescents",
+        "journal": "Scandinavian Journal of Psychology",
+        "url": "https://api.cristin.no/v2/results/348787"
+      },
+      {
+        "type": "Academic article",
+        "year": "2010",
+        "title": "Mood disorders and quality of life. A community study",
+        "journal": "Nordic Journal of Psychiatry",
+        "url": "https://api.cristin.no/v2/results/339530"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2009",
+        "url": "https://api.cristin.no/v2/results/69347"
+      },
+      {
+        "type": "Academic article",
+        "year": "2009",
+        "title": "Unipolar depressive disorders have a common genotype",
+        "journal": "Journal of Affective Disorders",
+        "url": "https://api.cristin.no/v2/results/356033"
+      },
+      {
+        "type": "Academic article",
+        "year": "2009",
+        "title": "The Norwegian Institute of Public Health Twin Study of Mental Health: Examining recruitment and attrition bias",
+        "journal": "Twin Research and Human Genetics",
+        "url": "https://api.cristin.no/v2/results/355977"
+      },
+      {
+        "type": "Academic article",
+        "year": "2009",
+        "title": "The nature (and nurture) of personality disorders",
+        "journal": "Scandinavian Journal of Psychology",
+        "url": "https://api.cristin.no/v2/results/341066"
+      },
+      {
+        "type": "Academic lecture",
+        "year": "2009",
+        "title": "Major Depression and DSM-IV Personality Disorders: A Population-Based Twin Study",
+        "url": "https://api.cristin.no/v2/results/248216"
+      },
+      {
+        "type": "Academic article",
+        "year": "2008",
+        "title": "Heritability of bipolar spectrum disorders. Unity or heterogeneity?",
+        "journal": "Journal of Affective Disorders",
+        "url": "https://api.cristin.no/v2/results/368463"
+      },
+      {
+        "type": "Academic article",
+        "year": "2008",
+        "title": "Personality types and risky health behaviors in Norwegian students",
+        "journal": "Scandinavian Journal of Psychology",
+        "url": "https://api.cristin.no/v2/results/363396"
+      },
+      {
+        "type": "Academic article",
+        "year": "2008",
+        "title": "Is social anxiety disorder in childhood associated with developmental deficit/delay?",
+        "journal": "European Child and Adolescent Psychiatry",
+        "url": "https://api.cristin.no/v2/results/360844"
+      },
+      {
+        "type": "Academic article",
+        "year": "2008",
+        "title": "Obsessive compulsive disorder plus schizotypal personality disorder: Is the sum more than the parts?",
+        "journal": "Personality and Mental Health",
+        "url": "https://api.cristin.no/v2/results/360840"
+      },
+      {
+        "type": "Academic article",
+        "year": "2008",
+        "title": "The structure of genetic and environmental risk factors for DSM-IV personality disorders: a multivariate twin study",
+        "journal": "Archives of General Psychiatry",
+        "url": "https://api.cristin.no/v2/results/360698"
+      },
+      {
+        "type": "Academic article",
+        "year": "2008",
+        "journal": "Actas espanolas de psiquiatria",
+        "url": "https://api.cristin.no/v2/results/360671"
+      },
+      {
+        "type": "Academic article",
+        "year": "2008",
+        "title": "Dimensional representations of DSM-IV cluster B personality disorders in a population-based sample of Norwegian twins: a multivariate study",
+        "journal": "Psychological Medicine",
+        "url": "https://api.cristin.no/v2/results/336550"
+      },
+      {
+        "type": "Non-fiction book",
+        "year": "2008",
+        "url": "https://api.cristin.no/v2/results/13563"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2007",
+        "url": "https://api.cristin.no/v2/results/50133"
+      },
+      {
+        "type": "Academic article",
+        "year": "2007",
+        "title": "Genetic and environmental influences on dimensional representations of DSM-IV cluster C personality disorders: a population-based multivariate twin study",
+        "journal": "Psychological Medicine",
+        "url": "https://api.cristin.no/v2/results/370645"
+      },
+      {
+        "type": "Academic article",
+        "year": "2007",
+        "title": "A genetic study of the acute anxious response to carbon dioxide stimulation in man",
+        "journal": "Journal of Psychiatric Research",
+        "url": "https://api.cristin.no/v2/results/370624"
+      },
+      {
+        "type": "Academic article",
+        "year": "2007",
+        "title": "The relationship between avoidant personality disorder and social phobia: A population-based twin study",
+        "journal": "American Journal of Psychiatry",
+        "url": "https://api.cristin.no/v2/results/370622"
+      },
+      {
+        "type": "Academic article",
+        "year": "2007",
+        "title": "The association between avoidant personality traits and motor impairment in a population-based sample of 11-12-year-old children",
+        "journal": "Journal of Personality Disorders",
+        "url": "https://api.cristin.no/v2/results/368799"
+      },
+      {
+        "type": "Academic article",
+        "year": "2007",
+        "title": "Socio-demographic conditions, subjective somatic health, axis I disorders and personality disorders in the common population: The relationship to quality of life",
+        "journal": "Journal of Personality Disorders",
+        "url": "https://api.cristin.no/v2/results/368740"
+      },
+      {
+        "type": "Academic article",
+        "year": "2007",
+        "title": "The heritability of cluster A personality disorders assessed by both personal interview and questionnaire",
+        "journal": "Psychological Medicine",
+        "url": "https://api.cristin.no/v2/results/365589"
+      },
+      {
+        "type": "Chapter",
+        "year": "2007",
+        "url": "https://api.cristin.no/v2/results/1186058"
+      },
+      {
+        "type": "Chapter",
+        "year": "2007",
+        "url": "https://api.cristin.no/v2/results/1181891"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2006",
+        "url": "https://api.cristin.no/v2/results/60558"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2006",
+        "url": "https://api.cristin.no/v2/results/53880"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2006",
+        "title": "Personality types, personality traits, and risky health behavior",
+        "url": "https://api.cristin.no/v2/results/53765"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2006",
+        "title": "Personality types, personality traits, and risky health behaviors",
+        "url": "https://api.cristin.no/v2/results/53302"
+      },
+      {
+        "type": "Academic literature review",
+        "year": "2006",
+        "title": "Keep it in the family",
+        "journal": "Nature",
+        "url": "https://api.cristin.no/v2/results/502726"
+      },
+      {
+        "type": "Book review",
+        "year": "2006",
+        "title": "Genes and behavior: Nature-nurture interplay explained",
+        "journal": "Nature",
+        "url": "https://api.cristin.no/v2/results/475374"
+      },
+      {
+        "type": "Academic article",
+        "year": "2006",
+        "title": "Social anxiety disorder in 11-12-year-old children. The efficacy of screening and issues in parent-child agreement",
+        "journal": "European Child and Adolescent Psychiatry",
+        "url": "https://api.cristin.no/v2/results/394087"
+      },
+      {
+        "type": "Academic article",
+        "year": "2006",
+        "title": "Mental illness in a rural area - A Norwegian psychiatric epidemiological study",
+        "journal": "Social Psychiatry and Psychiatric Epidemiology",
+        "url": "https://api.cristin.no/v2/results/377715"
+      },
+      {
+        "type": "Academic article",
+        "year": "2006",
+        "title": "Personality types, coping, and stress in the Norwegian police service",
+        "journal": "Personality and Individual Differences",
+        "url": "https://api.cristin.no/v2/results/376086"
+      },
+      {
+        "type": "Academic article",
+        "year": "2006",
+        "title": "Dimensional representations of DSM-IV Cluster A personality disorders in a population-based sample of Norwegian twins: a multivariate study",
+        "journal": "Psychological Medicine",
+        "url": "https://api.cristin.no/v2/results/374367"
+      },
+      {
+        "type": "Academic article",
+        "year": "2006",
+        "title": "Personality disorder and quality of life",
+        "journal": "Comprehensive Psychiatry",
+        "url": "https://api.cristin.no/v2/results/374365"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2005",
+        "title": "Borderline and histrionic personality disorder",
+        "url": "https://api.cristin.no/v2/results/69303"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2005",
+        "title": "Schizotypal personality disorder",
+        "url": "https://api.cristin.no/v2/results/69302"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2005",
+        "title": "Epidemiology",
+        "url": "https://api.cristin.no/v2/results/60564"
+      },
+      {
+        "type": "Academic chapter/article/Conference paper",
+        "year": "2005",
+        "title": "Genetics of Borderline Personality Disorder",
+        "url": "https://api.cristin.no/v2/results/59760"
+      },
+      {
+        "type": "Academic literature review",
+        "year": "2005",
+        "title": "Behavior genetics of personality",
+        "journal": "Current Psychiatry Reports",
+        "url": "https://api.cristin.no/v2/results/503568"
+      },
+      {
+        "type": "Academic article",
+        "year": "2005",
+        "title": "Continuities between emotional and disruptive behavior disorders in adolescence and personality disorders in adulthood",
+        "journal": "American Journal of Psychiatry",
+        "url": "https://api.cristin.no/v2/results/424877"
+      },
+      {
+        "type": "Academic article",
+        "year": "2005",
+        "title": "Youth-parent consistencies on ratings of difficulties and prosocial behaviour: Exploration of an at-risk sample",
+        "journal": "Scandinavian Journal of Psychology",
+        "url": "https://api.cristin.no/v2/results/394032"
+      },
+      {
+        "type": "Academic article",
+        "year": "2005",
+        "title": "Stability and prediction of schizophrenia from adolescence to adulthood",
+        "journal": "European Child and Adolescent Psychiatry",
+        "url": "https://api.cristin.no/v2/results/393303"
+      },
+      {
+        "type": "Academic article",
+        "year": "2005",
+        "title": "Quality of life and anxiety disorders: A population study",
+        "journal": "Journal of Nervous and Mental Disease",
+        "url": "https://api.cristin.no/v2/results/393302"
+      },
+      {
+        "type": "Academic article",
+        "year": "2004",
+        "title": "Genetic and environmental influences on the association between smoking and panic attacks in females: a population-based twin study",
+        "journal": "Psychological Medicine",
+        "url": "https://api.cristin.no/v2/results/427288"
+      },
+      {
+        "type": "Academic article",
+        "year": "2004",
+        "title": "Building youths resilience within a psychiatric outpatient setting: results from a pilot clinical intervention project",
+        "journal": "Psychological Reports",
+        "url": "https://api.cristin.no/v2/results/424992"
+      },
+      {
+        "type": "Academic article",
+        "year": "2004",
+        "title": "How can young people's resilience be enhanced? Experience from a clinical intervention project",
+        "journal": "Clinical Child Psychology and Psychiatry",
+        "url": "https://api.cristin.no/v2/results/424991"
+      },
+      {
+        "type": "Academic article",
+        "year": "2004",
+        "title": "The role of stressful life events in the development of depressive symptoms in adolescence",
+        "journal": "Journal of Adolescence",
+        "url": "https://api.cristin.no/v2/results/424989"
+      },
+      {
+        "type": "Academic article",
+        "year": "2004",
+        "title": "Quality of life in a city: The effect of population density",
+        "journal": "Social Indicators Research",
+        "url": "https://api.cristin.no/v2/results/424987"
+      },
+      {
+        "type": "Academic article",
+        "year": "2004",
+        "title": "Developmental antecedents of borderline personality disorder",
+        "journal": "Comprehensive Psychiatry",
+        "url": "https://api.cristin.no/v2/results/424878"
+      },
+      {
+        "type": "Academic article",
+        "year": "2004",
+        "title": "Undue influence of weight on self-evaluation: A population-based twin study of gender differences",
+        "journal": "International Journal of Eating Disorders",
+        "url": "https://api.cristin.no/v2/results/421789"
+      }
+    ]
+  }
+}

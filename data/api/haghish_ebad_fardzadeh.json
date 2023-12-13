@@ -1,0 +1,150 @@
+{
+  "gscolar": {},
+  "orcid": {
+    "orcid": "0000-0001-5950-4009",
+    "name": "Haghish Ebad Fardzadeh",
+    "distinctions": [],
+    "education": [
+      {
+        "position": "Post-doc / PhD",
+        "organisation": "University of Oslo",
+        "country": "NO"
+      }
+    ],
+    "employment": [
+      {
+        "position": "Post-doc / PhD",
+        "organisation": "University of Oslo",
+        "country": "NO"
+      }
+    ],
+    "membership": [],
+    "works": {},
+    "services": [],
+    "invited": [],
+    "qualifications": []
+  },
+  "cristin": {
+    "name": "Haghish Ebad Fardzadeh",
+    "id": "1269582",
+    "keywords": [],
+    "position": ["Post-doctoral research fellow", "Guest"],
+    "img": {},
+    "works": [
+      {
+        "type": "Software",
+        "year": "2023",
+        "title": "shapley: Weighted Mean SHAP for Feature Selection in ML Grid and Ensemble",
+        "url": "https://api.cristin.no/v2/results/2196097"
+      },
+      {
+        "type": "Software",
+        "year": "2023",
+        "title": "h2otools: Machine Learning Model Evaluation for 'h2o' Package [computer software]",
+        "url": "https://api.cristin.no/v2/results/2196096"
+      },
+      {
+        "type": "Software",
+        "year": "2023",
+        "title": "autoEnsemble: Automated Stacked Ensemble Classifier for Severe Class Imbalance [computer software]",
+        "url": "https://api.cristin.no/v2/results/2196095"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Unveiling Adolescent Suicidality: Holistic Analysis of Protective and Risk Factors Using Multiple Machine Learning Algorithms",
+        "journal": "Journal of Youth and Adolescence",
+        "url": "https://api.cristin.no/v2/results/2187404"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Predicting suicide attempts among Norwegian adolescents without using suicide-related items: a machine learning approach",
+        "journal": "Frontiers in Psychiatry",
+        "url": "https://api.cristin.no/v2/results/2178823"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Reconsidering False Positives in Machine Learning Binary Classification Models of Suicidal Behavior",
+        "journal": "Current Psychology",
+        "url": "https://api.cristin.no/v2/results/2175968"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Beat alignment ability is associated with formal musical training not current music playing",
+        "journal": "Frontiers in Psychology",
+        "url": "https://api.cristin.no/v2/results/2175966"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Are false positives in suicide classification models a risk group? Evidence for “true alarms” in a population-representative longitudinal study of Norwegian adolescents",
+        "journal": "Frontiers in Psychology",
+        "url": "https://api.cristin.no/v2/results/2175963"
+      },
+      {
+        "type": "Academic article",
+        "year": "2023",
+        "title": "Mental Health, Well-Being, and Adolescent Extremism: A Machine Learning Study on Risk and Protective Factors",
+        "journal": "Research on Child and Adolescent Psychopathology",
+        "url": "https://api.cristin.no/v2/results/2170943"
+      },
+      {
+        "type": "Software",
+        "year": "2022",
+        "title": "mlim: Multiple Imputation with Automated Machine Learning",
+        "url": "https://api.cristin.no/v2/results/2196094"
+      },
+      {
+        "type": "Software",
+        "year": "2022",
+        "title": "adjROC: Computing Sensitivity at a Fix Value of Specificity and Vice Versa [Computer software]",
+        "url": "https://api.cristin.no/v2/results/2196093"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Seeing minds–a signal detection study of agency attribution along the autism-psychosis continuum",
+        "journal": "Cognitive Neuropsychiatry",
+        "url": "https://api.cristin.no/v2/results/2025826"
+      },
+      {
+        "type": "Academic article",
+        "year": "2022",
+        "title": "Adolescents’ psychosocial well-being one year after the outbreak of the COVID-19 pandemic in Norway",
+        "journal": "Nature Human Behaviour",
+        "url": "https://api.cristin.no/v2/results/1988526"
+      },
+      {
+        "type": "Academic article",
+        "year": "2021",
+        "title": "Estimating measurement error in child language assessments administered by daycare educators in large scale intervention studies",
+        "journal": "PLOS ONE",
+        "url": "https://api.cristin.no/v2/results/1972302"
+      },
+      {
+        "type": "Academic article",
+        "year": "2020",
+        "title": "Factorial Structure and Validity of Depression (PHQ-9) and Anxiety (GAD-7) Scales after Traumatic Brain Injury",
+        "journal": "Clinical medicine (London)",
+        "url": "https://api.cristin.no/v2/results/2026276"
+      },
+      {
+        "type": "Academic article",
+        "year": "2020",
+        "title": "Preliminary validation of the Dutch version of the Posttraumatic stress disorder checklist for DSM-5 (PCL-5) after traumatic brain injury in a civilian population",
+        "journal": "PLOS ONE",
+        "url": "https://api.cristin.no/v2/results/2026275"
+      },
+      {
+        "type": "Academic article",
+        "year": "2020",
+        "title": "Developing, maintaining, and hosting Stata statistical software on GitHub",
+        "journal": "The Stata Journal",
+        "url": "https://api.cristin.no/v2/results/1865934"
+      }
+    ]
+  }
+}

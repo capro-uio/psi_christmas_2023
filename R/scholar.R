@@ -1,3 +1,10 @@
+library(tidyverse)
+`%||%` <- function(x, y) {
+  if (!is.null(x)) x else y
+}
+
+
+# scholar ----
 search_gid <- function(name){
   resp <- httr2::request("https://scholar.google.com/") |>
     httr2::req_url_path_append("/citations") |> 
@@ -89,14 +96,18 @@ get_cit_stats <- function(res){
   nms <- rvest::html_elements(res, ".gsc_rsb_sth") |> 
     rvest::html_text()
   nms <- nms[nms != ""]
-  
-  rvest::html_elements(cstats, ".gsc_rsb_std") |> 
+  dt <- rvest::html_elements(cstats, ".gsc_rsb_std") |> 
     rvest::html_text() |> 
     matrix(
       ncol = 2, nrow = 3, byrow = TRUE,
       dimnames = list(1:3,nms)
     ) |> 
-    as_tibble() |> 
+    as_tibble()
+  
+  if(all(apply(dt, 1, is.na)))
+    return(NULL)
+  
+  dt |> 
     mutate(
       type = rvest::html_elements(cstats, ".gsc_rsb_sc1") |> 
         rvest::html_text() |> 
@@ -109,6 +120,63 @@ get_cit_stats <- function(res){
 
 # orcid -----
 
+
+fill_orcid_value <- function(dt, type, el = "value"){
+  if(!type %in% names(dt))
+    return(NA_character_)
+  if_else(!is.na(dt[[type]]),
+          NA_character_,
+          dt[[glue::glue("{type}.{el}")]] %||% NA_character_
+  )
+}
+
+exctract_orcid_affili <- function(orcid_record, 
+                                  type = c("employments",
+                                           "educations",
+                                           "distinctions",
+                                           "memberships",
+                                           "qualifications",
+                                           "services",
+                                           "invited-positions")){
+  type <- match.arg(type)
+  spec <- switch(type,
+                 "employments" = "position",
+                 "educations" = "degree",
+                 "distinctions" = "distinction",
+                 "memberships" = "membership",
+                 "qualifications" = "qualification",
+                 "services" = "service",
+                 "invited-positions" = "position")
+  type_s <- gsub("s$", "", type)
+  tmp <- orcid_all[[type]]$`affiliation-group`$summaries
+  tibble(
+    start = map_chr(
+      tmp, 
+      glue::glue("{type_s}-summary.start-date.year.value"), 
+      .default = NA_character_
+    ),
+    end = map_chr(
+      tmp, 
+      glue::glue("{type_s}-summary.end-date.year.value"), 
+      .default = NA_character_
+    ),
+    !!spec := map_chr(
+      tmp, 
+      glue::glue("{type_s}-summary.role-title"), 
+      .default = NA_character_
+    ),
+    organisation = map_chr(
+      tmp, 
+      glue::glue("{type_s}-summary.organization.name"), 
+      .default = NA_character_
+    ),
+    country = map_chr(
+      tmp, 
+      glue::glue("{type_s}-summary.organization.address.country"), 
+      .default = NA_character_
+    )
+  )
+}
 
 # cache it ----
 search_orcid_cached <- memoise::memoise(

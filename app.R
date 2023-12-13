@@ -1,7 +1,15 @@
 library(shiny)
 library(shinydashboard)
-library(tidyverse)
-source("R/scholar.R")
+library(dplyr)
+library(stringr)
+library(ggplot2)
+
+fluid_row <- function(...){
+  fluidRow(
+    ...,
+    style = "padding: 10px;"
+  )
+}
 
 ui <- dashboardPage(
   skin = "red",
@@ -10,8 +18,9 @@ ui <- dashboardPage(
     uiOutput("authorSelector"),
     # Add sidebar content here
     sidebarMenu(
-      menuItem("Google Scholar", tabName = "scholar", icon = icon("graduation-cap")),
-      menuItem("ORCID", tabName = "orcid", icon = icon("orcid"))
+      menuItem("Cristin", tabName = "cristin", icon = icon("copyright")),
+      menuItem("ORCID", tabName = "orcid", icon = icon("orcid")),
+      menuItem("Google Scholar", tabName = "scholar", icon = icon("graduation-cap"))
     ),
     helpText("Created by CAPRO", style="padding: 10px;"),
     tags$a(href='https://capro.dev',
@@ -20,23 +29,26 @@ ui <- dashboardPage(
   ),
   dashboardBody(
     includeCSS("style.css"),
-    
+    h1(textOutput("researcher")),
     # Add body content here
     tabItems(
       tabItem(
+        "cristin",
+        shinycssloaders::withSpinner(
+          uiOutput("cristin_results"),
+        )),
+      tabItem(
         "scholar",
-        fluidRow(
-          h1("Google Scholar results")
-        ),
         shinycssloaders::withSpinner(
           uiOutput("scholar_results"),
         )
       ),
       tabItem(
         "orcid",
-        fluidRow(
-          # Add fluidRow content for Tab 2
-        ))
+        shinycssloaders::withSpinner(
+          uiOutput("orcid_results"),
+        )
+      )
       # Add more tabs as needed
     )
   )
@@ -45,30 +57,17 @@ ui <- dashboardPage(
 # Define server logic required to draw a histogram ----
 server <- function(input, output) {
   
-  # Get all PSI CRISTIN employees
-  resp <- httr2::request("https://api.cristin.no/") |>
-    httr2::req_url_path_append("v2/persons") |> 
-    httr2::req_url_query(parent_unit_id="185.17.5.0",
-                         per_page=1000) |> 
-    httr2::req_perform()
-  
-  persons <- httr2::resp_body_json(resp) |> 
-    lapply(as_tibble) |> 
-    bind_rows() |> 
-    arrange(first_name, surname) |> 
-    mutate(
-      name = paste(first_name, surname),
-      n = row_number()
-    ) |> 
-    select(-url)
+  jsf <- list.files(here::here("data/api"), "json", full.names = TRUE)
+  jsd <- lapply(jsf, jsonlite::read_json, simplifyVector = TRUE)
+  names(jsd) <- str_remove(basename(jsf), ".json")
   
   output$authorSelector <- renderUI({
     selectizeInput(
       "author_name",
       "Select author",
-      choices = setNames(
-        persons$cristin_person_id,
-        persons$name
+      choices =   setNames(
+        names(jsd),
+        sapply(jsd, function(x) x$cristin$name)
       ),
       multiple = FALSE,
       options = list(
@@ -79,158 +78,275 @@ server <- function(input, output) {
   })
   
   observeEvent(input$author_name, {
-    gmatch <- multi <- ginfo <- NA
     if(input$author_name == ""){
-      output$scholar_results <- renderUI({
+      output$scholar_results <- output$cristin_results <- output$orcid_results <- renderUI({
         h3("Select an author in the sidebar to start exploring!")
       })
-    }else{
-      author <- persons |> 
-        filter(cristin_person_id == input$author_name)
+    }else{  
+      person <- jsd[[input$author_name]]
+      output$researcher <- renderText({
+        person$cristin$name
+      })
       
-      ginfo <- search_gid_cached(author$name)
-      orcid <- search_orcid_cached(
-        str_split_i(author$name, " ", 1),
-        str_split_i(author$name, " ", -1)
-      )
-      
-      if(nrow(ginfo) == 0){
-        si_name <- paste0(str_split_i(author$name, " ", 1), 
-                          str_split_i(author$name, " ", -1))
-        ginfo <- search_gid_cached(si_name)
-      }
-      
-      if(nrow(ginfo) > 0){
-        if(nrow(ginfo) > 1){
-          ginfo <- ginfo |> 
-            filter(grepl("Oslo", affiliation))
-          if(nrow(ginfo) > 1){
-            gmatch <- box(
-              title = "Multiple matches",
-              status = "warning",
-              solidHeader = TRUE,
-              collapsible = FALSE,
-              glue::glue("Multiple google scholar records found {author$name}.")
-            )
-            output$result_multiple <- renderTable(ginfo)
-            multi <- box(tableOutput("result_multiple"))
-          }
+      # scholar output ----
+      if(length(person$gscolar) > 0){
+        output$gcit <- renderTable(person$gscolar$data$citations)
+        gcit <- box(
+          tableOutput("gcit"),
+          title = "Citations",
+          status = "info",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          width = 5
+        )
+        
+        gprof <- box(
+          width = 4,
+          title = glue::glue("Google scholar id: {person$gscolar$id}"),
+          status = "success",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          fluidRow(
+            p(glue::glue("{person$gscolar$affiliation}")),
+            style = "padding: 10px;"
+          )
+        )
+        
+        gimg <- box(
+          align="center",
+          img(src = glue::glue("https://scholar.googleusercontent.com/citations?view_op=medium_photo&user={person$gscolar$id}"),
+              alt = person$cristin$name,
+              style = "max-height: 300px;"),
+          width = 3
+        )
+        
+        output$gpubs <- person$gscolar$data$publications |>
+          mutate(title = sprintf('<p><a href = "%s">%s</a>', url, title),
+                 title = lapply(title, gt::html)) |>
+          select(-url, -pubid) |>
+          select(year, authors, title, journal, citations) |>
+          rename_all(tools::toTitleCase) |>
+          gt::gt() |>
+          gt::cols_align(
+            "left", Title
+          ) |> 
+          gt::data_color(columns = Citations,
+                         method = "numeric",
+                         palette = "inferno") |>
+          gt::opt_interactive(use_compact_mode = TRUE) |>
+          gt::cols_width(
+            Year ~ px(80),
+            Citations ~ px(120)
+          ) |>
+          gt::render_gt()
+        
+        if(!is.data.frame(person$gscolar$coauthors)){
+          gnetwork <- ggplot() + 
+            geom_text(aes(x = 1, y = 1, label = "No network to plot"), size = 10) +
+            theme_void()
+        }else{
+          gnetwork <- person$gscolar$coauthors |> 
+            group_by(author) |> 
+            scholar::plot_coauthors()
         }
+        output$google_coauthors <-renderPlot(gnetwork)
         
+        scholar_results <- tagList(
+          fluid_row(
+            h2("Google Scholar results")
+          ),
+          fluid_row(
+            gprof,
+            gimg,
+            gcit
+          ),
+          fluid_row(
+            h3("Co-author network"),
+            # inputPanel(
+            #   sliderInput("google_slider", "Network depth:",
+            #               min = 0, max = 10, value = 5, width = '100%')
+            # ),
+            plotOutput("google_coauthors")
+          ),
+          fluid_row(
+            h3("Recorded publications"),
+            gt::gt_output(outputId = "gpubs")
+          )
+        )
+      }else{
+        scholar_results <- fluid_row(
+          box(
+            width = 4,
+            title = "No google scholar match found!",
+            status = "danger",
+            solidHeader = TRUE,
+            background = "red",
+            collapsible = FALSE
+          )
+        )
+      }
+      output$scholar_results <- renderUI({scholar_results})
+      
+      # cristin output ----
+      if(length(person$cristin) > 0){
+        cprof <- box(
+          width = 4,
+          title = glue::glue("Cristin id: {person$cristin$id}"),
+          status = "success",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          fluidRow(
+            p(glue::glue("Position: {paste(person$cristin$position, collapse = ', ')}")),
+            p(glue::glue("Keywords: {paste(person$cristin$keywords, collapse = ', ')}")),
+            style = "padding: 10px;"
+          )
+        )
         
-        if(nrow(ginfo) > 0){
-          ginfo <- ginfo[1, ]
-          gprof <- get_author_cached(ginfo$id)
-          
-          output$gcit <- renderTable(gprof$citations)
-          gcit <- box(
-            tableOutput("gcit"),
-            title = "Citations",
-            status = "info",
-            solidHeader = TRUE,
-            collapsible = FALSE,
-            width = 5
+        cimg <- box(
+          align = "center",
+          img(src = person$cristin$img,
+              alt = person$cristin$name,
+              style = "max-height: 300px;"),
+          width = 3
+        )
+        
+        output$cpubs <- person$cristin$works |>
+          as_tibble() |> 
+          select(year, title, journal, type) |>
+          rename_all(tools::toTitleCase) |>
+          gt::gt() |>
+          gt::opt_interactive(use_compact_mode = TRUE) |>
+          gt::cols_align(
+            "left", Title
+          ) |>
+          gt::cols_width(
+            Year ~ px(80),
+            Type ~ px(200),
+            Journal ~ px(200),
+          ) |>
+          gt::render_gt()
+        
+        cristin_results <- tagList(
+          fluid_row(
+            h2("Cristin results")
+          ),
+          fluid_row(
+            cprof,
+            cimg
+          ),
+          fluid_row(
+            h3("Recorded publications"),
+            gt::gt_output(outputId = "cpubs")
           )
-          
-          print(gprof)
-          print(ginfo)
-          gmatch <- box(
-            title = "Match found",
-            status = "success",
+        )
+      }else{
+        cristin_results <- fluid_row(
+          box(
+            width = 4,
+            title = "No cristin match found!",
+            status = "danger",
             solidHeader = TRUE,
-            collapsible = FALSE,
-            fluidRow(
-              column(5,
-                     h3(glue::glue("{author$name}")),
-                     p(glue::glue("Google scholar id: {ginfo$id}")),
-                     p(glue::glue("{ginfo$affiliation}"))
-              ),
-              column(6,
-                     img(src = glue::glue("https://scholar.googleusercontent.com/citations?view_op=medium_photo&user={ginfo$id}"),
-                         alt = author$name)
-              ),
-              style = "padding: 10px;"
-            )
+            background = "red",
+            collapsible = FALSE
           )
-          
-          authinf <- get_author(ginfo$id)
-          output$google_coauthors <- scholar::get_coauthors(ginfo$id, input$google_slider + 2) |> 
-            filter(!author %in% c("Search Help", "About Scholar"),
-                   !coauthors %in% c("Search Help", "About Scholar")) |> 
-            scholar::plot_coauthors() |> 
-            renderPlot()
-          
-          output$gpubs <- gprof$publications |> 
+        )
+      }
+      output$cristin_results <- renderUI({cristin_results})
+      
+      # orcid output ----
+      if(length(person$orcid) > 0){
+        oprof <- box(
+          width = 4,
+          title = glue::glue("orcid: {person$orcid$orcid}"),
+          status = "success",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          fluidRow(
+            style = "padding: 10px;"
+          )
+        )
+        
+        if(is.data.frame(person$orcid$works)){
+          output$opubs <- person$orcid$works |>
             mutate(title = sprintf('<p><a href = "%s">%s</a>', url, title),
-                   title = map(title, gt::html)) |> 
-            select(-url, -pubid) |> 
-            select(year, authors, title, journal, citations) |> 
-            gt::gt() |> 
-            gt::data_color(columns = citations, 
-                           method = "numeric", 
-                           palette = "inferno") |> 
-            gt::cols_label(year = "Year",
-                           authors = "Authors",
-                           title = "Title",
-                           journal = "Journal",
-                           citations = "Citations") |>
-            gt::opt_interactive(use_compact_mode = TRUE) |> 
+                   title = lapply(title, gt::html)) |>
+            as_tibble() |> 
+            select(year, title, journal, type) |>
+            rename_all(tools::toTitleCase) |>
+            distinct() |> 
+            gt::gt() |>
+            gt::opt_interactive(use_compact_mode = TRUE) |>
+            gt::cols_align(
+              "left", Title
+            ) |>
             gt::cols_width(
-              year ~ px(80),
-              citations ~px(120)
+              Year ~ px(80),
+              Type ~ px(200),
+              Journal ~ px(200),
             ) |> 
             gt::render_gt()
-          
+        }else{
+          NULL
         }
         
-        output$scholar_results <- renderUI({
-          
-          tagList(
-            fluidRow(
-              gmatch,
-              gcit,
-            ),
-            fluidRow(
-              h2("Co-author network"),
-              inputPanel(
-                sliderInput("google_slider", "Number of coauthors to show:",
-                            min = 0, max = 10, value = 5, width = '100%')
-              ),
-              plotOutput("google_coauthors"),
-            ),
-            fluidRow(
-              h2("Recorded publications"),
-              gt::gt_output(outputId = "gpubs")
-            )
-          )
-        }) 
         
-      }else{
-        output$scholar_results <- renderUI({
-          fluidRow(
-            box(
-              title = "No match found",
-              status = "danger",
-              solidHeader = TRUE,
-              collapsible = FALSE,
-              glue::glue("No google scholar records for {author$name}.")
+        otabs <- c("employment", "membership", "distinctions",
+                   "services", "qualifications") |> 
+          lapply(\(x){
+            tmp <- person$orcid[[x]]
+            gid <- glue::glue("orcid_{x}")
+            if(length(tmp) == 0)
+              return(NULL)
+            output[[gid]] <- tmp |>
+              rename_all(tools::toTitleCase) |>
+              gt::gt() |>
+              gt::opt_interactive(use_compact_mode = TRUE)  |>
+              gt::render_gt()
+            fluid_row(
+              h3(tools::toTitleCase(x)),
+              gt::gt_output(outputId = gid)
             )
+          })
+        
+        orcid_results <- tagList(
+          fluid_row(
+            h2("ORCID results")
+          ),
+          fluid_row(
+            oprof
+          ),
+          fluid_row(
+            h3("Publications"),
+            gt::gt_output(outputId = "opubs")
+          ),
+          otabs
+        )
+      }else{
+        orcid_results <- fluid_row(
+          box(
+            width = 4,
+            title = "No orcid match found!",
+            status = "danger",
+            solidHeader = TRUE,
+            background = "red",
+            collapsible = FALSE
           )
-        }) 
-      } # end renderUI scholar
-      
-      
-      # orcid ---
-      
-      # rorcid::orcid_search(
-      #   author$first_name,
-      #   author$surname
-      # ) |> 
-      #   print()
-      #rorcid::orcid_works("0000-0003-2502-8774")
-      #
-    } # end if author_name == ""
-  }) # end observeEvent
+        )
+      }
+      output$orcid_results <- renderUI({orcid_results})
+    } # end observeEvent
+  })
+  
+  
+  # orcid ---
+  
+  # rorcid::orcid_search(
+  #   author$first_name,
+  #   author$surname
+  # ) |> 
+  #   print()
+  #rorcid::orcid_works("0000-0003-2502-8774")
+  #
 } # end server
 
 # Create Shiny app ----
