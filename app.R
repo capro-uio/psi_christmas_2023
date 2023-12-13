@@ -16,35 +16,36 @@ ui <- dashboardPage(
   dashboardHeader(title = "PSI research explorer!", titleWidth = 230),
   dashboardSidebar(
     uiOutput("authorSelector"),
-    # Add sidebar content here
-    sidebarMenu(
-      menuItem("Cristin", tabName = "cristin", icon = icon("copyright")),
-      menuItem("ORCID", tabName = "orcid", icon = icon("orcid")),
-      menuItem("Google Scholar", tabName = "scholar", icon = icon("graduation-cap"))
-    ),
-    helpText("Created by CAPRO", style="padding: 10px;"),
+    helpText("Created by", style="padding: 10px;"),
     tags$a(href='https://capro.dev',
-           tags$img(src='https://raw.githubusercontent.com/capro-uio/capro-uio.github.io/main/assets/images/capro_logo_dark.png',width='100%', style="padding: 10px;"),
+           tags$img(
+             src='https://raw.githubusercontent.com/capro-uio/capro-uio.github.io/main/assets/images/capro_logo_dark.png',
+             width='100%', 
+             style="padding: 10px;",
+             alt="CAPRO"),
     )
   ),
   dashboardBody(
     includeCSS("style.css"),
     h1(textOutput("researcher")),
     # Add body content here
-    tabItems(
-      tabItem(
-        "cristin",
+    tabsetPanel(
+      tabPanel(
+        title = span("Cristin", style = "font-size: 20px;"),
+        icon = icon("copyright", lib = "font-awesome"),
         shinycssloaders::withSpinner(
           uiOutput("cristin_results"),
         )),
-      tabItem(
-        "scholar",
+      tabPanel(
+        title = span("Scholar", style = "font-size: 20px;"),
+        icon = icon("graduation-cap", lib = "font-awesome"),
         shinycssloaders::withSpinner(
           uiOutput("scholar_results"),
         )
       ),
-      tabItem(
-        "orcid",
+      tabPanel(
+        title = span("ORCiD", style = "font-size: 20px;"),
+        icon = icon("orcid", lib = "font-awesome"),
         shinycssloaders::withSpinner(
           uiOutput("orcid_results"),
         )
@@ -84,6 +85,7 @@ server <- function(input, output) {
       })
     }else{  
       person <- jsd[[input$author_name]]
+      # person <- jsd[["christine_leilani_skjegstad"]]
       output$researcher <- renderText({
         person$cristin$name
       })
@@ -124,7 +126,6 @@ server <- function(input, output) {
           mutate(title = sprintf('<p><a href = "%s">%s</a>', url, title),
                  title = lapply(title, gt::html)) |>
           select(-url, -pubid) |>
-          select(year, authors, title, journal, citations) |>
           rename_all(tools::toTitleCase) |>
           gt::gt() |>
           gt::cols_align(
@@ -212,7 +213,7 @@ server <- function(input, output) {
         
         output$cpubs <- person$cristin$works |>
           as_tibble() |> 
-          select(year, title, journal, type) |>
+          select(-url) |> 
           rename_all(tools::toTitleCase) |>
           gt::gt() |>
           gt::opt_interactive(use_compact_mode = TRUE) |>
@@ -267,11 +268,26 @@ server <- function(input, output) {
         )
         
         if(is.data.frame(person$orcid$works)){
-          output$opubs <- person$orcid$works |>
-            mutate(title = sprintf('<p><a href = "%s">%s</a>', url, title),
-                   title = lapply(title, gt::html)) |>
-            as_tibble() |> 
-            select(year, title, journal, type) |>
+          opubs <- person$orcid$works |>
+            as_tibble()
+          
+          if(!"url" %in% names(opubs)){
+            opubs$url <- NA
+          }
+          
+          if(!"year" %in% names(opubs)){
+            opubs$year <- NA
+          }
+          
+          output$opubs <- opubs |> 
+            mutate(
+              title = ifelse(!is.na(url),
+                             sprintf('<p><a href = "%s">%s</a></p>', url, title),
+                             sprintf('<p>%s</p>', title)
+              ),
+              title = lapply(title, gt::html)
+            ) |>
+            select(-url) |>
             rename_all(tools::toTitleCase) |>
             distinct() |> 
             gt::gt() |>
@@ -282,7 +298,6 @@ server <- function(input, output) {
             gt::cols_width(
               Year ~ px(80),
               Type ~ px(200),
-              Journal ~ px(200),
             ) |> 
             gt::render_gt()
         }else{

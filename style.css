@@ -2,10 +2,35 @@
     background-color: #cc4c4c;
 }
 
-.skin-red .main-header .navbar {
-    background-color: #20242a;
-}
-
+.skin-red .main-header .navbar,
 .skin-red .main-sidebar {
     background-color: #20242a;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #b0b3b6;
+}
+
+a {
+  color: #4f7272;
+}
+.box-title {
+  color: white;
+}
+
+.skin-red .content-wrapper,
+.skin-red .right-side,
+.skin-red .main-footer {
+  background-color: #343a3f;
+}
+
+.skin-red .nav-tabs a {
+  color: #b0b3b6;
+}
+.skin-red .nav-tabs li.active a {
+  background-color: #20242a;
+  border-color: #85bfbf;
+  color: #85bfbf;
+}
+
+
