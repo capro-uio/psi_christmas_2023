@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-5396-2543",
-    "name": "James Whittaker",
+    "orcid": ["0000-0001-5396-2543"],
+    "name": ["James Whittaker"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Kristoffer James Whittaker",
-    "id": "1046682",
+    "name": ["Kristoffer James Whittaker"],
+    "id": ["1046682"],
     "keywords": [],
     "position": ["Guest", "Research Scientist"],
     "img": {},
@@ -92,5 +92,249 @@
         "url": "https://api.cristin.no/v2/results/1657237"
       }
     ]
+  },
+  "rg": {
+    "id": "Holt-Kristoffer",
+    "name": "Holt Kristoffer",
+    "img": "https://i1.rgstatic.net/ii/profile.image/864341792411652-1583086550638_Q128/Holt-Kristoffer.jpg",
+    "affiliation": "Linnaeus University | lnu, Linnaeus University, Department of Media and Journalism",
+    "keywords": ["Advertising", "Communication", "Mass Communication", "Digital Culture", "Media Studies", "Journalism", "Communication Theory", "Content Analysis", "Citizen Participation", "Academic Writing"],
+    "works": [
+      {
+        "title": "Contesting the Mainstream: Understanding Alternative News Media and Its Contribution to Diversity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Karoline Andrea Ihlebæk", "Tine Ustad Figenschou", "Scott Eldridge", "Holt Kristoffer"],
+        "abstract": ["In this introduction to the special issue Contesting the Mainstream: Understanding Alternative News Media and its Contribution to Diversity, we discuss how and to what extent alternative news media contribute to news diversity. We elaborate on the concept of diversity, the democratic role of media and the normative implications of the position of a..."]
+      },
+      {
+        "title": "Contesting the Mainstream: Towards an Audience-Centered Agenda of Alternative News Research",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Lena Frischlich", "Scott Eldridge", "Tine Ustad Figenschou", "Stephen Cushion"],
+        "abstract": ["In order to better understand alternative news media, we need to focus more centrally on the audiences that regularly consume them. This special issue, entitled “Contesting the Mainstream: Understanding Alternative News Media,” advances such an audience turn. In the introduction, we outline how scholars have understood and characterized alternative..."]
+      },
+      {
+        "title": "Media and modalities – News media",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Holt Kristoffer", "Beate Schirrmacher"],
+        "abstract": ["The circulation of news is a prerequisite for any modern democratic\nsociety and is typically expected to serve the purpose of scrutinizing those in power, expose abuse and corruption while at the same time informing citizens about important events, risks and developments (Aalberg and Curran 2013). How news is produced and received has been studied..."]
+      },
+      {
+        "title": "Right-Wing Alternative Media",
+        "tags": ["Book", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["This book offers a fresh perspective on central questions related to\nright-wing alternative media: Can right-wing media be alternative?\nWhy do they exist? Are they a threat to the existing order and what\nhave the reactions been from mainstream politicians and media actors?\nThe rise and success of right-wing populism in the political life of\nmany we..."]
+      },
+      {
+        "title": "Right-wing alternative news media and digital politics",
+        "tags": ["Chapter"],
+        "date": "Nov 2023",
+        "authors": ["Holt Kristoffer"],
+        "abstract": []
+      },
+      {
+        "title": "Kulturkrig och Populism: Vilken roll spelar de journalistiska medierna?",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["Begreppet ”kulturkrig ” har starka kopplingar till populistiska utspel. Det är ett krig som till stor del utspelar sig på den mediala arenan, ofta med politiska syften. Kristoffer Holt skriver om de beroendeförhållanden som råder mellan populismen, kulturkriget och de journalistiska medierna. Där populisten använder medierna för att synliggöra sitt..."]
+      },
+      {
+        "title": "Copy of Paper ICA Paris May 2022: Young Citizens and the Quality of news: Measuring attention and emotional reactions in relation to quality assessments",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Ari Nykvist", "Mats Wahlberg", "Holt Kristoffer", "Mahitab Ezz El Din"],
+        "abstract": ["Young adult citizens (18-30 years) tend to turn away from traditional news media and migrate to media where emotions occupy a more central place and where journalistic standards are not self-evident, thus challenging public discourse and the notion of quality associated with established news media (Schwaiger et al., 2022; Backholm et al., 2021; Bae..."]
+      },
+      {
+        "title": "Young citizens and the Quality of news: Attention, emotional reactions and quality assessments. Presented at the Broadcast Education Association (BEA) Research Division - Top Paper Presentations, Las Vegas",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Holt Kristoffer", "Mats Wahlberg", "Mahitab Ezz El Din", "Renaud de la Brosse"],
+        "abstract": []
+      },
+      {
+        "title": "Freedom of Expression, Democratic Discourse and the Social Media",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Holt Kristoffer", "Maria Elliot", "Emma Ricknell", "Carlos Collado Seidel"],
+        "abstract": ["Freedom of expression is regarded as a corner stone of democratic societies. Historically, traditional media has served as the principle forum for the public discourse, which is so imperative for upholding a democracy associated with deliberation and accountability. With the advent of social media and social networking sites, the conditions for thi..."]
+      },
+      {
+        "title": "Editorial: Freedom of Expression and the Online Abyss",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Holt Kristoffer", "Maria Elliot"],
+        "abstract": ["This introduction to the thematic issue Freedom of Expression, Democratic Discourse and the Social Media discusses the\nstate of the debate surrounding freedom of expression in the field of communication studies and presents four original\narticles dealing with freedom of speech in contemporary media from different perspectives."]
+      },
+      {
+        "title": "Populism and Alternative Media",
+        "tags": ["Chapter"],
+        "date": "May 2020",
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["An area that has been researched quite extensively during recent years is the relationship between media and populism (Aalberg et al., 2016; Krämer, 2018). Controversial populist politicians like Jair Bolsonaro, Nigel Farage, and Donald Trump and their special relationship with the news media often serve as examples due to the mainstream media’s fa..."]
+      },
+      {
+        "title": "Det offentliga samtalet och problemet med ”falska nyheter”",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["Insikten om att det före- kommer information som ser ut som nyheter på nätet och som inte alltid stämmer överens med verkligheten verkar plötsligt ha drabbat såväl politiker som journalister och forskare som en total överraskning. Otaliga konferenser har hållits på temat bara de senaste åren, forskningsfinansiering öronmärks för att studera detta n..."]
+      },
+      {
+        "title": "Key Dimensions of Alternative News Media",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Holt Kristoffer", "Tine Ustad Figenschou", "Lena Frischlich"],
+        "abstract": ["This article proposes a definition of alternative news media and suggests routes for further research. It complements and extends previous conceptualizations in research on alternative media and outlines an umbrella definition of this phenomenon aimed to inspire contemporary research and scholarly debate. Previous research has been guided by a ‘pro..."]
+      },
+      {
+        "title": "Media and Journalism in an Age of Terrorism",
+        "tags": ["Book", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Holt Kristoffer", "Renaud de la Brosse"],
+        "abstract": ["Link to sample: (https://www.cambridgescholars.com/download/sample/65328)\nThis book is not a litany of the many terrorist attacks that have\noccurred over the last five years, nor is it a value judgement on how the\nmedia have reported on these events. Its ambition is to question the issues\nat stake in emerging journalistic practices and to raise a n..."]
+      },
+      {
+        "title": "The “Other” Alternatives: Political Right-Wing Alternative Media.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Renaud de la Brosse", "André Haller", "Holt Kristoffer"],
+        "abstract": ["This special issue of the Journal of Alternative and Community Media presents five articles that examine right-wing alternative media from different countries and contexts: Brazil, the United States, Germany and Finland. They focus on different aspects of a phenomenon that has come to the forefront of public debate in recent years, due to the many..."]
+      },
+      {
+        "title": "Paradoxical populism: how PEGIDA relates to mainstream and alternative media",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Holt Kristoffer", "André Haller"],
+        "abstract": ["The distrust of mainstream media expressed in the slogan ‘the liar press’ (‘Lügenpresse’) is often used as an example of a populist, anti-establishment attitude that is currently winning terrain throughout the Western world. In combination with the rise of alternative media (especially online), it poses a serious challenge for ‘old media’. But how..."]
+      },
+      {
+        "title": "Medierna som inte vann valet",
+        "tags": ["Chapter"],
+        "date": "Nov 2018",
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["Under valkampanjen inför riksdagsvalet har intresset för det\nsom jag i min forskning kallar invandringskritiska alternativmedier varit enormt – såväl ifrån svenskt håll som internationellt, såväl från utländska alternativmedier som etablerade.\nDen norska tidningen Klassekampen träffade Chang Frick som\ndriver webbtidningen Nyheter Idag under sin bev..."]
+      },
+      {
+        "title": "Alternative Media and the Notion of Anti-Systemness: Towards an Analytical Framework",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["A range of alternative media outlets focusing on criticizing immigration politics and mainstream media have emerged in Sweden in recent years. Although they have quite different ideological profiles, they share a clear and critical focus on immigration and mainstream journalistic representations of reality. Their message is that mainstream media co..."]
+      },
+      {
+        "title": "Mediemisstro: där ytterkanterna möts.",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Holt Kristoffer"],
+        "abstract": []
+      },
+      {
+        "title": "What Does 'Lügenpresse' Mean? Expressions of Media Distrust on PEGIDA's Facebook Pages",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Holt Kristoffer", "André Haller"],
+        "abstract": ["In this article, we analyze the protest movement PEGIDA’s criticism of the press (i. e.\n‘Lügenpresse’, the ‘liar press’) on Facebook. What are the main points of criticism of\nthe press and what are the reasons expressed for this criticism, and how do they refer to\ntraditional media in the postings? We conduct a qualitative content analysis of\nPEGID..."]
+      },
+      {
+        "title": "Journalism on the Web",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Michael Karlsson", "Holt Kristoffer"],
+        "abstract": ["In the early 21st century, almost everyone takes journalism on the web for granted. However, it was not many years ago that journalism moved online and a distinct form of journalism began to develop. Ranging from online doubles of the paper editions to publications exclusively produced for the web, the evolvement of web journalism has entailed both..."]
+      },
+      {
+        "title": "Skilda verkligheter? ”Internets undervegetation” vs ”PK-maffian”",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Holt Kristoffer"],
+        "abstract": []
+      },
+      {
+        "title": "”Alternativmedier”? En intervjustudie om mediekritik och mediemisstro",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Holt Kristoffer"],
+        "abstract": []
+      },
+      {
+        "title": "\"Random acts of journalism?\": How citizen journalists tell the news in Sweden",
+        "tags": ["Article"],
+        "date": "Dec 2015",
+        "authors": ["Holt Kristoffer", "Michael Karlsson"],
+        "abstract": ["In this study, the results from a content analysis of four Swedish online citizen journalism outlets are presented and discussed. The analysis focuses on new digital venues for news-making in theory and the question of the political relevance of citizen journalism in reality. This broad question is operationalized by asking more specifically how ci..."]
+      },
+      {
+        "title": "The religious dimension of Kierkegaard's media criticism: “Authentic faith” vs. “The phantom public”",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["In this paper Søren Kierkegaard’s “Two ages” is analysed as\nan example of early modern media criticism. Existentialist thinkers\nhave dealt with the authenticity of the self, and the ideal of staying\ntrue to the uniqueness of one’s own being in spite of societal or\ncultural obstacles. Media has often been seen as a part of the\nincreasingly artificia..."]
+      },
+      {
+        "title": "Is Anyone out There?",
+        "tags": ["Article"],
+        "date": "Mar 2014",
+        "authors": ["Michael Karlsson", "Holt Kristoffer"],
+        "abstract": ["In this study, situated in Sweden, citizen community journalism in 290 municipalities is evaluated. The results reveal that there are very few cases of citizen journalism at a community level, and that the existing citizen journalists focus on business news, entertainment and sports. When sources are used, they are few and originate from social ins..."]
+      },
+      {
+        "title": "Is Anyone out There? Assessing Swedish citizen-generated community journalism",
+        "tags": ["Article"],
+        "date": "Dec 2013",
+        "authors": ["Michael Karlsson", "Holt Kristoffer"],
+        "abstract": ["In this study, situated in Sweden, citizen community journalism in 290 municipalities is evaluated. The results reveal that there are very few cases of citizen journalism at a community level, and that the existing citizen journalists focus on business news, entertainment and sports. When sources are used, they are few and originate from social ins..."]
+      },
+      {
+        "title": "Age and the effects of news media attention and social media use on political interest and participation: Do social media function as leveller?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2013",
+        "authors": ["Holt Kristoffer", "Adam Shehata", "Jesper Strömbäck", "Elisabet Ljungberg"],
+        "abstract": ["This article investigates how media use differs across age groups- and whether this matters for people’s inclination to participate politically. More specifically, the study investigates the impact of social media use for political purposes and of attention to political news in traditional media, on political interest and offline political particip..."]
+      },
+      {
+        "title": "Authentic Journalism? A Critical Discussion about Existential Authenticity in Journalism Ethics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["Authenticity as an ideal is construed in general as an expression of existentialist unhappiness with the perceived dehumanization of man in modern society. Existential journalism can be seen as rejection of the demands of conformism and compromise of personal convictions that many journalists face. Ethically, existential journalism calls on journal..."]
+      },
+      {
+        "title": "Edited Participation: Comparing Editorial Influence On Traditional and Participatory Online Newspapers In Sweden",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Holt Kristoffer", "Michael Karlsson"],
+        "abstract": ["Although participatory journalism involves publishing content created by users, editorial influence is an important aspect of participatory online media. Editors shape the conditions under which user generated content is produced, the context of publication and the perceived prominence of the content. It is still unclear how this influence manifest..."]
+      },
+      {
+        "title": "Edited Participation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Holt Kristoffer", "Michael Karlsson"],
+        "abstract": ["Although participatory journalism involves publishing content created by users, editorial influence is an important aspect of participatory online media. Editors shape the conditions under which user generated content is produced, the context of publication and the perceived prominence of the content. It is still unclear how this influence manifest..."]
+      },
+      {
+        "title": "The citizen as media critic in periods of media change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Holt Kristoffer", "Torbjörn von Krogh"],
+        "abstract": ["Media criticism often evolve ‚Äì and grow in strength ‚Äì during times of media change with new forms of journalism, new media formats, new media markets, new ways of addressing media markets and new media technologies. Different stakeholders may pursue their interests by formulating a media critique that protect their positions and promotes status..."]
+      },
+      {
+        "title": "Digital Public Discourses An analysis of Newsmill.se as a forum for civic participation",
+        "tags": ["Article"],
+        "authors": ["Holt Kristoffer"],
+        "abstract": ["Newsmill.se, launched as a commercial enterprise in 2008, is a Swedish example of an online public space, intended for civic debates about selected topics for the day. The idea behind the site, according to their presentation, is to be the \"first social media\" to focus on \"news and debate\". The motto reads: \"Our readers know more than we do\", and t..."]
+      }
+    ],
+    "degree": ["Professor"],
+    "bio": "Research interests: Alternative media, media criticism, media distrust, populism, right-wing alternative media, media and religion, media history, public discourse etc.",
+    "publications": [33],
+    "reads": [33724],
+    "citations": [1262]
   }
 }

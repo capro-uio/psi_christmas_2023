@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Mei Qing Qi",
-    "id": "Ajo9q5kAAAAJ",
-    "affiliation": "Southeast University",
+    "name": ["Mei Qing Qi"],
+    "id": ["Ajo9q5kAAAAJ"],
+    "affiliation": ["Southeast University"],
     "data": {
       "publications": [
         {
@@ -520,8 +520,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-1189-4981",
-    "name": "Qi Qin",
+    "orcid": ["0000-0002-1189-4981"],
+    "name": ["Qi Qin"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -532,8 +532,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Qi Qin",
-    "id": "1504427",
+    "name": ["Qi Qin"],
+    "id": ["1504427"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -569,5 +569,15 @@
         "url": "https://api.cristin.no/v2/results/2168890"
       }
     ]
+  },
+  "rg": {
+    "id": "Wong-Qi-Qin",
+    "name": "Wong Qi Qin",
+    "img": "https://i1.rgstatic.net/ii/profile.image/618201675202560-1524402173385_Q128/Wong-Qi-Qin.jpg",
+    "affiliation": "Sunway University, Department of Accounting and Finance",
+    "keywords": ["Teaching and Learning"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

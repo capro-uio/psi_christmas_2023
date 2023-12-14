@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Finn Tschudi",
-    "id": "9153",
+    "name": ["Finn Tschudi"],
+    "id": ["9153"],
     "keywords": [],
     "position": ["Emeritus"],
     "img": {},
@@ -18,37 +18,169 @@
         "type": "Academic article",
         "year": "2015",
         "title": "Construing a “Perfect Knight”: A Personal Construct Investigation of Mass Murder",
-        "journal": "Journal of constructivist psychology",
-        "url": "https://api.cristin.no/v2/results/1248752"
+        "url": "https://api.cristin.no/v2/results/1248752",
+        "journal": "Journal of constructivist psychology"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Multivariate Psychophysics, Multivariate Data: Human Senses and Their Measurement",
-        "journal": "Biological Theory",
-        "url": "https://api.cristin.no/v2/results/916999"
+        "url": "https://api.cristin.no/v2/results/916999",
+        "journal": "Biological Theory"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Cognitive complexity and dissociative identity disorder",
-        "journal": "Journal of constructivist psychology",
-        "url": "https://api.cristin.no/v2/results/340708"
+        "url": "https://api.cristin.no/v2/results/340708",
+        "journal": "Journal of constructivist psychology"
       },
       {
         "type": "Editorial",
         "year": "2008",
         "title": "A COMMENT ON ADAMS AND BALFOUR: DIGNITY VIOLATIONS, AN ALTERNATIVE VIEW OF 'ADMINISTRATIVE EVIL' A network for peace and development",
-        "journal": "Public Administration",
-        "url": "https://api.cristin.no/v2/results/490136"
+        "url": "https://api.cristin.no/v2/results/490136",
+        "journal": "Public Administration"
       },
       {
         "type": "Academic article",
         "year": "2006",
         "title": "Swedish auditors' view of auditing: Doing things right versus doing the right things",
-        "journal": "European Accounting Review",
-        "url": "https://api.cristin.no/v2/results/373349"
+        "url": "https://api.cristin.no/v2/results/373349",
+        "journal": "European Accounting Review"
       }
     ]
+  },
+  "rg": {
+    "id": "Finn-Tschudi",
+    "name": "Finn Tschudi",
+    "img": "https://i1.rgstatic.net/ii/profile.image/278418416521225-1443391531250_Q128/Finn-Tschudi.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Restorative Justice", "Audit"],
+    "works": [
+      {
+        "title": "Personal Construct Psychology and Restorative Justice",
+        "tags": ["Chapter"],
+        "date": "Oct 2015",
+        "authors": ["Finn Tschudi"],
+        "abstract": ["In restorative justice (RJ) the major point is that crimes usually involve people being harmed, and the challenge for RJ is then how the harm can be best repaired. A major task in RJ is to bring offenders, victims, and support persons together in a conference where harm and possible repair can be freely discussed. Harm usually involves loss of dign..."]
+      },
+      {
+        "title": "Construing a “Perfect Knight”: A Personal Construct Investigation of Mass Murder",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["David Anthony Winter", "Finn Tschudi"],
+        "abstract": ["On July 22, 2011, Anders Behring Breivik emailed a compendium entitled, “2083: A Declaration of European Independence,” to more than 1,000 addresses before bombing government buildings in Oslo and attacking a Labor Party youth camp, killing 77 people. This article adopts a credulous attitude and analyzes a personal section of his compendium from a..."]
+      },
+      {
+        "title": "Landmarks on a Personal Odyssey",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Finn Tschudi"],
+        "abstract": ["Background Manifest and Latent Levels in the ABC Model Surface and Depth (Underlying Intentions) in Understanding Restorative Justice and the Road to Global Ubuntu? Concluding Comment"]
+      },
+      {
+        "title": "The ABC Model Revisited",
+        "tags": ["Article"],
+        "date": "Nov 2011",
+        "authors": ["Finn Tschudi", "David Anthony Winter"],
+        "abstract": ["ChoiceAdvantages and Disadvantages of the SymptomExploring Dilemmas and ConflictsABC ModelCase ExampleFurther DirectionsConclusion\nReferences"]
+      },
+      {
+        "title": "Multivariate Psychophysics, Multivariate Data: Human Senses and Their Measurement",
+        "tags": ["Article"],
+        "date": "Dec 2010",
+        "authors": ["Magni Martens", "Finn Tschudi"],
+        "abstract": ["We reflect upon quantification in biology in two ways. First, from a sensory scientific perspective, we address theories and methods for studying sensation, perception, and cognition. Sensory science concerns action of the human senses, which arenotpassivereceiversbutoperateinanactiveandfundamen- tal way for human beings in various social and envir..."]
+      },
+      {
+        "title": "Cognitive Complexity and Dissociative Identity Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Karl Yngvar Dale", "Atle Ødegård", "Finn Tschudi", "Arne Holte"],
+        "abstract": ["Thirteen patients with dissociative identity disorder (DID), 13 with other mental disorders, and 10 nondiagnosed comparison participants were given individual grids. Results showed that displaying alternate personalities did not portend a more multidimensional level of thinking. Instead, the nonclinical comparison group had the greater degree of co..."]
+      },
+      {
+        "title": "A COMMENT ON ADAMS AND BALFOUR: DIGNITY VIOLATIONS, AN ALTERNATIVE VIEW OF 'ADMINISTRATIVE EVIL' A network for peace and development",
+        "tags": ["Article"],
+        "date": "Oct 2008",
+        "authors": ["Finn Tschudi"],
+        "abstract": ["The major focus of Adams and Balfour’s article in this volume is on what they call ‘administrative evil’ where ‘evil’ is not intended but somehow inherent in modern ‘technical rationality’. Adams and Balfour draw inspiration from Bauman’s (1989) work and, further, use the interesting metaphor that administrative evil is ‘masked’. This means it is d..."]
+      },
+      {
+        "title": "Personal Construct Psychology: New Ideas",
+        "tags": ["Chapter"],
+        "date": "May 2008",
+        "authors": ["David Anthony Winter", "Finn Tschudi", "Nicholas Gilbert", "Linda L. Viney"],
+        "abstract": ["IntroductionMethod\nMeasuresResultsConclusions\nReferences"]
+      },
+      {
+        "title": "Dealing with violent conflicts and mass victimisation. A human dignity approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Finn Tschudi"],
+        "abstract": []
+      },
+      {
+        "title": "Swedish auditors' view of auditing: Doing things right versus doing the right things",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Peter Öhman", "Einar Häckner", "Anna-Maria Jansson", "Finn Tschudi"],
+        "abstract": ["Abstract This paper aims to describe and analyse the thought patterns of Swedish auditors with regard to the way in which they audit information provided by listed companies, and possible changes in their duties. Eighty-two auditors were interviewed using the repertory grid technique and open-ended interview questions. To check the stability in the..."]
+      },
+      {
+        "title": "Conferencing When Therapy is Stuck",
+        "tags": ["Article"],
+        "date": "Mar 2004",
+        "authors": ["Finn Tschudi", "Sissel Reichelt"],
+        "abstract": ["Retributive approaches to confronting harmful acts like suspected sexual abuse (SSA) have often been the norm in contemporary Western cultures. Alternative restorative approaches partly inspired by indigenous traditions are growing. Conferencing, one of these restorative approaches, is the focus of our conceptual exploration in this paper. We conce..."]
+      },
+      {
+        "title": "Community and Coherence: Narrative Contributions to the Psychology of Conflict and Loss",
+        "tags": ["Chapter"],
+        "date": "Aug 2003",
+        "authors": ["Robert A Neimeyer", "Finn Tschudi"],
+        "abstract": ["As demonstrated by how one of the authors of this chapter has been able to organize his thoughts, human beings attempt to sort out their experiences through making use of the architecture of the narrative form. Because perhaps of his familiarity toward and expertise on various aspects of narrative psychology, and how this is set in a cognitive pers..."]
+      },
+      {
+        "title": "CRAFTING PEACE: ON THE PSYCHOLOGY OF THE TRANSCEND APPROACH",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2000",
+        "authors": ["Johan Galtung", "Finn Tschudi"],
+        "abstract": []
+      },
+      {
+        "title": "Note on cognitive mapping in the teaching of management",
+        "tags": ["Article"],
+        "date": "Sep 1994",
+        "authors": ["Einar Häckner", "Finn Tschudi"],
+        "abstract": ["Novak and Gowin's cognitive mapping and Vee diagrams were introduced as a way of representing knowledge in two academic course settings -- accounting and business strategy. The students produced two sets of maps and diagrams, one at the start of each course and one after completing them. The accounting course aimed at helping the students to elabor..."]
+      },
+      {
+        "title": "Do qualitative and quantitative methods require different approaches to validity?",
+        "tags": ["Article"],
+        "date": "Jan 1989",
+        "authors": ["Finn Tschudi"],
+        "abstract": ["[argues] that the process of validating claims is the same for all types of research / outline major features of the classical statement on validity in the quantitative, psychometric tradition \n\nprototypical examples of research in the quantitative validity tradition are compared with a prime example of qualitative research \n\ndiscussion of critique..."]
+      },
+      {
+        "title": "On the advantages of symptoms: Exploring the client's construing",
+        "tags": ["Article"],
+        "date": "Feb 1984",
+        "authors": ["Finn Tschudi", "Sigrid Sandsberg"],
+        "abstract": ["From the perspective of George A. Kelly's Personal construct theory the article outlines points of view concerning “advantages of symptoms” A procedure for eliciting possible advantages is presented (“The ABC-model”) and compared with a more conventional psychoanalytic approach as exemplified in a previously published case story. From a Kellyan vie..."]
+      },
+      {
+        "title": "Auditors on auditing-an empirical study",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Peter Öhman", "Einar Häckner", "Anna-Maria Jansson", "Finn Tschudi"],
+        "abstract": ["Based on agency theory, an accountability model has been developed to describe and analyse the views of Swedish auditors regarding their reviewing of information provided by listed companies. 82 auditors were interviewed using the repertory grid technique and open interview questions. A sample of respondents was chosen to represent differences in e..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [17],
+    "reads": [2616],
+    "citations": [189]
   }
 }

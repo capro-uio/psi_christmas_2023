@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Milan Obaidi",
-    "id": "ByHo7hoAAAAJ",
-    "affiliation": "University of Copenhagen",
+    "name": ["Milan Obaidi"],
+    "id": ["ByHo7hoAAAAJ"],
+    "affiliation": ["University of Copenhagen"],
     "data": {
       "publications": [
         {
@@ -392,8 +392,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-7015-736X",
-    "name": "Sanjana M C",
+    "orcid": ["0000-0001-7015-736X"],
+    "name": ["Sanjana M C"],
     "distinctions": [],
     "education": [
       {
@@ -440,8 +440,8 @@
     ]
   },
   "cristin": {
-    "name": "Milan Obaidi",
-    "id": "1110312",
+    "name": ["Milan Obaidi"],
+    "id": ["1110312"],
     "keywords": [],
     "position": ["Associate professor"],
     "img": {},
@@ -601,5 +601,292 @@
         "url": "https://api.cristin.no/v2/results/1756754"
       }
     ]
+  },
+  "rg": {
+    "id": "Milan-Obaidi",
+    "name": "Milan Obaidi",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1033752750870528-1623477270054_Q128/Milan-Obaidi.jpg",
+    "affiliation": "University of Oslo",
+    "keywords": ["Psychology", "Intergroup Relations", "Social Psychology", "Clinical Psychology", "Psychological Assessment", "Motivational Psychology", "Terrorism", "Cross Cultural Psychology", "Culture", "Personality Assessment"],
+    "works": [
+      {
+        "title": "Support for asymmetric violence among Arab populations: The clash of cultures, social identity, or counterdominance?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Jim Sidanius", "Nour S. Kteily", "Shana Levin", "Milan Obaidi"],
+        "abstract": ["Using a random sample of 383 Muslims and Christians in Lebanon and Syria, we explored the degree of public support for two distinct kinds of asymmetric violence—“fundamentalist violence” and “resistance violence”—against the United States as a function of three explanatory narratives: a clash of cultures narrative, social identity/self-categorizati..."]
+      },
+      {
+        "title": "Individual differences in relational motives interact with the political context to produce terrorism and terrorism-support",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Lotte Thomsen", "Milan Obaidi", "Jennifer Sheehy-Skeffington", "Jim Sidanius"],
+        "abstract": ["The psychology of suicide terrorism involves more than simply the psychology of suicide. Individual differences in social dominance orientation (SDO) interact with the socio-structural, political context to produce support for group-based dominance among members of both dominant and subordinate groups. This may help explain why, in one specific con..."]
+      },
+      {
+        "title": "Klienten Kulturelt Forstået",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2009",
+        "authors": ["Milan Obaidi"],
+        "abstract": ["Kulturen spiller en vaesentlig rolle for, hvordan man for-tolker og forstår en psykisk lidelse. Det, der i én kultur anses som symptomatisk for sygdom, kan i andre kulturer betrag-tes som normalt. Behandleren bør derfor vaere åben over for ikke bare psykiske lidelsers forskelle og mangfoldigheder, men også for varierende forståelsesmodeller af psyk..."]
+      },
+      {
+        "title": "Unveiling Adolescent Suicidality: Holistic Analysis of Protective and Risk Factors Using Multiple Machine Learning Algorithms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["E. F. Haghish", "Ragnhild Bang Nes", "Milan Obaidi", "Nikolai Czajkowski"],
+        "abstract": ["Adolescent suicide attempts are on the rise, presenting a significant public health concern. Recent research aimed at improving risk assessment for adolescent suicide attempts has turned to machine learning. But no studies to date have examined the performance of stacked ensemble algorithms, which are more suitable for low-prevalence conditions. Th..."]
+      },
+      {
+        "title": "Investigation of gender bias in the mental imagery of faces",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Jonas R. Kunst", "Marilena Juettemeier", "April Bailey", "Collins B. Agyemang"],
+        "abstract": ["People tend to think of the prototypical person as a man more than as a woman, but this bias has primarily been observed in language-based tasks. Here, we investigated whether this bias is also present in the mental imagery of faces. A preregistered cross-cultural reverse-correlation study including participants from six WEIRD and non-WEIRD countri..."]
+      },
+      {
+        "title": "How are acculturation orientations associated among majority-group members? The moderating role of ideology and levels of identity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Jonas R. Kunst", "Ann-Cathrin Coenen", "Aleksander Gundersen", "Milan Obaidi"],
+        "abstract": ["Research in the emerging field of majority-group acculturation has investigated the predictors that explain why some majority-group members adopt whereas others reject the cultures of minority-group members. The present research investigated an issue that has received comparably little attention. Specifically, with a sample of 2205 majority-group m..."]
+      },
+      {
+        "title": "The personality of violent Jihadists: Examining violent and nonviolent defense of Muslims",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Milan Obaidi", "Robin Bergh", "Nazar Akrami", "John F Dovidio"],
+        "abstract": ["Objective\n\nAlthough violent extremism is often attributed to clinical (dysfunctional) dispositions, it is also possible that violent Jihadists might be clinically “normal” but bear certain personality signatures. This alternative view has yet to be tested.\n\nMethod\n\nIn six studies, employing hard-to-reach Muslim samples, including one study of forme..."]
+      },
+      {
+        "title": "Selective Cultural Adoption: The Roles of Warmth, Competence, Morality, and Perceived Indispensability in Majority-Group Acculturation",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Jonas R. Kunst", "Kinga Bierwiaczonek", "Milan Obaidi", "John Dovidio"],
+        "abstract": ["Psychological research has only recently begun to consider the dynamics involved in the acculturation of majority groups. Recognizing heterogeneity among immigrant groups, the present work investigates the influence of perceived characteristics of these groups on majority-group members’ adoption of immigrant cultures. In three pre-registered studie..."]
+      },
+      {
+        "title": "Mental Health, Well-Being, and Adolescent Extremism: A Machine Learning Study on Risk and Protective Factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["E. F. Haghish", "Milan Obaidi", "Thea Bertnes Strømme", "Cato Grønnerød"],
+        "abstract": ["We examined the relationship between adolescents' extremist attitudes with a multitude of mental health, well-being, psycho-social, environmental, and lifestyle variables, using state-of-the-art machine learning procedure and nationally representative survey dataset of Norwegian adolescents (N = 11,397). Three key research questions were addressed:..."]
+      },
+      {
+        "title": "Cultural threat perceptions predict violent extremism via need for cognitive closure",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Milan Obaidi", "Gulnaz Anjum", "Kinga Bierwiaczonek", "Jonas R. Kunst"],
+        "abstract": ["Understanding the psychological processes that drive violent extremism is a pressing global issue. Across six studies, we demonstrate that perceived cultural threats lead to violent extremism because they increase people's need for cognitive closure (NFC). In general population samples (from Denmark, Afghanistan, Pakistan, France, and an internatio..."]
+      },
+      {
+        "title": "Extreme Reactions to Globalization: Investigating Indirect, Longitudinal, and Experimental Effects of the Globalization-Radicalization Nexus",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Simon Ozer", "Milan Obaidi", "Gulnaz Anjum"],
+        "abstract": ["Radicalization-as a complex process of adopting extremist attitudes-includes maladaptive responses to the transformative power of globalization. Globalization contains sociocultural disruptive and acculturative processes, initiating exclusionary and integrative reactions. These reactions have dissimilarly been associated with aspects of extremism...."]
+      },
+      {
+        "title": "How 'should' the majority group acculturate? Acculturation expectations and their correlates among minority-and majority-group members",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Jonas R. Kunst", "Simon Ozer", "Katharina Lefringhausen", "David Lackland Sam"],
+        "abstract": ["Do minority-group members welcome or reject that majority-group members adopt other cul-tures? Acculturation is commonly defined as a process of mutual accommodation. Yet, the acculturation of majority-group members has only recently received research attention. To date, we do not know the extent to which minority-group members expect majority-grou..."]
+      },
+      {
+        "title": "Who endorses group-based violence?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Joanna Lindström", "Robin Bergh", "Nazar Akrami", "Lindholm Torun"],
+        "abstract": ["Collective action is often equated with progressive politics, but are there aspects of group mobilisations that generalise across contexts? We examine general social and personality psychological factors behind endorsement of group-based violence across different types of violent group mobilisation. Specifically, we focus on the endorsement of grou..."]
+      },
+      {
+        "title": "Radicalized Identity Styles: Investigating Sociocultural Challenges, Identity Styles, and Extremism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Simon Ozer", "Milan Obaidi", "Seth J Schwartz"],
+        "abstract": ["Research has identified sociocultural challenges (life attachment) to be a primary motivator for radicalization. While individual differences may provide information about who might be at risk for radicalization, little is known about how different identity processing styles are linked with radicalization. In two studies (N = 975), we examined how..."]
+      },
+      {
+        "title": "Threatening or Marginalized: Muslim Identity and Perceived Inequality Among Minority Muslim Populations",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Milan Obaidi", "Gulnaz Anjum", "Sania Sohail", "Roheena Madni"],
+        "abstract": ["“Can one divide human reality, as indeed human reality seems to be, genuinely divided, into clearly different cultures, histories, traditions, societies, even races, and survive the consequences humanly?” (Said, 1978). Edward W. Said (1978) asks this question in his book ‘Orientalism’ while negotiating the binary constructed between the West and th..."]
+      },
+      {
+        "title": "Measuring extremist archetypes: Scale development and validation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Milan Obaidi", "Sara With Skaar", "Simon Ozer", "Jonas R. Kunst"],
+        "abstract": ["Previous work has often disregarded the psychological heterogeneity of violent extremists. This research aimed to contribute to a more nuanced understanding of the psychological diversity of violent extremists. Based on qualitative work, we developed and validated the Extremist Archetypes Scale, identifying five distinct archetype dimensions: \"adve..."]
+      },
+      {
+        "title": "Globalization and Radicalization: The Rise of Extreme Reactions to Intercultural Contact, Sociocultural Disruption, and Identity Threat",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Simon Ozer", "Milan Obaidi"],
+        "abstract": ["Globalization has transformed local contexts through increasing intercultural and intergroup contact across geographical distance. Such transformations have disrupted the traditional sociocultural order and made people’s sense of self and belonging more uncertain and negotiable. In contemporary societies, people are reacting to the growing sociocul..."]
+      },
+      {
+        "title": "The way they look: Phenotypic prototypicality shapes the perceived intergroup attitudes of in- and out-group members",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Jonas R. Kunst", "John F. Dovidio", "April Bailey", "Milan Obaidi"],
+        "abstract": ["Even when people hold little prejudice themselves, expectations about how members of other groups perceive them may negatively influence interracial relations. In four pre-registered experiments, each using a full intergroup design with Black and White participants, we show that people infer negative meta-attitudes from out-group members whose appe..."]
+      },
+      {
+        "title": "Terrorism and Political Violence ISSN: (Print) ( What Makes a Terrorist? Muslims' and non- Muslims' Lay Perceptions of Risk Factors and Their Consequences for Counter-terrorism Policy Support",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Jonas R. Kunst", "Milan Obaidi", "Ann-Cathrin Coenen", "Paul Gill"],
+        "abstract": ["The question of why people become terrorists has preoccupied scholars and policy makers for decades. Yet, very little is known about how lay people perceive individuals at risk of becoming terrorists. In two studies conducted in the U.K., we aimed to fill this gap. Study 1 showed that Muslims and non- Muslims perceived a potential minority-group te..."]
+      },
+      {
+        "title": "The Great Replacement Conspiracy: How the Perceived Ousting of Whites Can Evoke Violent Extremism and Islamophobia",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Milan Obaidi", "Jonas R. Kunst", "Simon Ozer", "Sasha Y. Kimel"],
+        "abstract": ["Increased immigration and demographic changes have not only resulted in political pushback, but also in violent attacks against immigrants. Several recent terrorist attacks committed by White supremacists invoke rhetoric around a deliberate attempt to make Whites extinct and replace them with non-Western immigrants. Yet, while it is widely acknowle..."]
+      },
+      {
+        "title": "Who adopts the culture of ethnic minority groups? A personality perspective on majority-group members’ acculturation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Jonas R. Kunst", "Katharina Lefringhausen", "Sara With Skaar", "Milan Obaidi"],
+        "abstract": ["Acculturation is commonly conceptualized as a two-way process in which all groups involved in intercultural contact change. Yet, very little is known about the acculturation orientations of majority-group members and the factors that differentiate those who adopt aspects of minority groups’ culture from those who reject them. In the present researc..."]
+      },
+      {
+        "title": "Group membership and radicalization: A cross-national investigation of collective self-esteem underlying extremism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Simon Ozer", "Milan Obaidi", "Stefan Pfattheicher"],
+        "abstract": ["Uncertainty, perceived threats, and a generally insecure life attachment have been associated with endorsement of extremism. Furthermore, salient identification with a group can influence radicalized ways of addressing insecure life attachment through an established and sometimes extreme worldview and ideology. In the present study, we replicated t..."]
+      },
+      {
+        "title": "The role of Muslim identity in predicting violent behavioural intentions to defend Muslims",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Milan Obaidi", "Gulnaz Anjum", "Joanna Lindström", "Merve Baykal"],
+        "abstract": ["A sense of shared Muslim suffering seems to play a key role in uniting Muslims around the world. Therefore, in the current paper we hypothesized that the social psychological underpinnings of Islamist extremism would be similar for Muslims living in the West and Muslims living in countries with prolonged and ongoing exposure to Western-led military..."]
+      },
+      {
+        "title": "Understanding violent extremism in the 21st century: The (re)emerging role of relative deprivation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Jonas R. Kunst", "Milan Obaidi"],
+        "abstract": ["Recently, the world has experienced a wave of violent protest, and in particular Islamist and right-wing extremism have become increasing challenges for many societies. We argue that especially the experience of relative deprivation, that is the perception that oneself or one’s group is undeservingly worse off than others, can explain various, cont..."]
+      },
+      {
+        "title": "Living under threat: Mutual threat perception drives anti‐Muslim and anti‐Western hostility in the age of terrorism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Milan Obaidi", "Jonas R. Kunst", "Nour S. Kteily", "James Sidanius"],
+        "abstract": []
+      },
+      {
+        "title": "Group-Based Relative Deprivation Explains Endorsement of Extremism Among Western-Born Muslims",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Milan Obaidi", "Robin Bergh", "Nazar Akrami", "Gulnaz Anjum"],
+        "abstract": ["Although jihadist threats are regarded as foreign, most Islamist terror attacks in Europe and the United States have been orchestrated by Muslims born and raised in Western societies. In the present research, we explored a link between perceived deprivation of Western Muslims and endorsement of extremism. We suggest that Western-born Muslims are pa..."]
+      },
+      {
+        "title": "Path models and meta-analysis",
+        "tags": ["Method", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Milan Obaidi"],
+        "abstract": ["Preliminary Results"]
+      },
+      {
+        "title": "Group-Based Relative Deprivation Explains Endorsement of Extremism among Western-Born Muslims",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Milan Obaidi", "Robin Bergh", "Nazar Akrami", "Gulnaz Anjum"],
+        "abstract": ["While jihadist threats are regarded as foreign, most Islamist terror attacks in Europe and the United States have been orchestrated by Muslims born and raised in Western societies. This paper explores a link between perceived deprivation of Western Muslims and endorsement of extremism. We suggest that Western-born Muslims are particularly vulnerabl..."]
+      },
+      {
+        "title": "Psykologiske faktorers betydning i dynamikkerne bag radikalisering og terrorisme",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Milan Obaidi"],
+        "abstract": ["Forskere, der beskæftiger sig med radikalisering og terrorisme, er uenige om, hvad der udgør de vigtigste forklaringsmodeller. Uenighederne følger ofte et mønster baseret på kontroversen om, hvorvidt det er den individuelle psykologi eller situationsbestemte faktorer, der er bestemmende for vores adfærd (“person vs. situation-debatten”). Et gennemg..."]
+      },
+      {
+        "title": "Assessment of Risk in Written Communication Introducing the Profile Risk Assessment Tool (PRAT)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Milan Obaidi", "Nazar Akrami", "Lisa Kaati", "Mathias Berggren"],
+        "abstract": ["In this report, we introduce a tool for risk assessment in written communication – the profile risk assessment tool (PRAT). PRAT extracts a profile consisting of 30 personality and risk-behavior-related variables from any given text. PRAT includes a theoretically generated threat profile to be used as a comparison norm. To assess threat potential,..."]
+      },
+      {
+        "title": "The Mistreatment of My People: Victimization by Proxy and Behavioral Intentions to Commit Violence Among Muslims in Denmark",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Milan Obaidi", "Robin Bergh", "Jim Sidanius", "Lotte Thomsen"],
+        "abstract": ["Islamist extremism is often explained by the suffering endured by Muslims in Islamic countries as a result of Western‐led wars. However, many terrorist attacks have been carried out by European Muslims with no personal experiences of war. Across two studies among Danish Muslims, we tested if what we call “victimization‐by‐proxy processes” motivate..."]
+      },
+      {
+        "title": "Monitoring Targeted Hate in Online Environments",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Tim Isbister", "Magnus Sahlgren", "Lisa Kaati", "Nazar Akrami"],
+        "abstract": ["Hateful comments, swearwords and sometimes even death threats are becoming a reality for many people today in online environments. This is especially true for journalists, politicians, artists, and other public figures. This paper describes how hate directed towards individuals can be measured in online environments using a simple dictionary-based..."]
+      },
+      {
+        "title": "Living Under Threat: Mutual Threat Perception Drives Anti-Muslim and Anti-Western Hostility in the Age of Terrorism: Living under Threat",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Milan Obaidi", "Jonas R. Kunst", "Nour S. Kteily", "James Sidanius"],
+        "abstract": ["This research demonstrates a common psychology of outgroup hostility driven by perceived intergroup threat among three groups and seven cultural contexts: non-Muslim Westerners, Muslims in Western societies, and Muslims in the Middle East. In Study 1, symbolic, but not realistic and terroristic threats, predicted non-Muslim Norwegians’ intentions t..."]
+      },
+      {
+        "title": "Engaging in extreme activism in support of others' political struggles: The role of politically motivated fusion with out-groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Jonas R. Kunst", "Beverly Boos", "Sasha Y. Kimel", "Lotte Thomsen"],
+        "abstract": ["Humans are a coalitional, parochial species. Yet, extreme actions of solidarity are sometimes taken for distant or unrelated groups. What motivates people to become solidary with groups to which they do not belong originally? Here, we demonstrate that such distant solidarity can occur when the perceived treatment of an out-group clashes with one’s..."]
+      },
+      {
+        "title": "S2 Fig",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Jonas R. Kunst", "Beverly Boos", "Sasha Y. Kimel", "Lotte Thomsen"],
+        "abstract": ["Moderated mediation model for Study 2, in which fusion with the out-group is replaced with knowledge about the conflict.\nNon-significant paths are displayed in grey. *p < .05, **p < .01, ***p < .001.\n(TIF)"]
+      },
+      {
+        "title": "S3 Fig",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Jonas R. Kunst", "Beverly Boos", "Sasha Y. Kimel", "Lotte Thomsen"],
+        "abstract": ["Moderated mediation model for Study 2, in which knowledge about the conflict is controlled for.\nNon-significant paths are displayed in grey. *p < .05, **p < .01, ***p ≤ .001.\n(TIF)"]
+      },
+      {
+        "title": "S1 Fig",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Jonas R. Kunst", "Beverly Boos", "Sasha Y. Kimel", "Lotte Thomsen"],
+        "abstract": ["Reversed mediation model for Study 1.\nNon-significant paths are displayed in grey. *p < .05, **p < .01, ***p < .001.\n(TIF)"]
+      },
+      {
+        "title": "They Think We Are a Threat to Their Culture\": Meta-Cultural Threat Fuels Willingness and Endorsement of Extremist Violence against the Cultural Outgroup",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Milan Obaidi", "Lotte Thomsen", "Robin Bergh"],
+        "abstract": ["Far-right political parties in Europe regularly portray Muslims and Islam as backward and a symbolic threat to secular and/or Christian European culture. Similarly, Islamist groups regularly portray Westerners and Western culture as decadent and a symbolic threat to Islam. Here, we present experimental evidence that meta-cultural threat-information..."]
+      },
+      {
+        "title": "Individual difference in relational motives interact with political context to produce terrorism and terrorism-support",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Milan Obaidi"],
+        "abstract": ["The psychology of suicide terrorism involves more than simply the psychology of\nsuicide. Individual differences in Social Dominance Orientation (SDO) interact with\nsocio-structural, political context to produce support for group-based dominance\namong members of both dominant and subordinate groups. This may help explain\nwhy, in one specific context..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [39],
+    "reads": [12973],
+    "citations": [488]
   }
 }

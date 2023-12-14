@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Karin Fossheim",
-    "id": "facV3GQAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Karin Fossheim"],
+    "id": ["facV3GQAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -81,8 +81,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-4978-3670",
-    "name": "Karin Fossheim",
+    "orcid": ["0000-0002-4978-3670"],
+    "name": ["Karin Fossheim"],
     "distinctions": [],
     "education": [
       {
@@ -93,17 +93,17 @@
       },
       {
         "start": "2016",
-        "end": "2023",
         "position": "Researcher",
         "organisation": "Institute of Transport Economics",
-        "country": "NO"
+        "country": "NO",
+        "end": "2023"
       },
       {
         "start": "2018",
-        "end": "2023",
         "position": "PhD candidate",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2023"
       }
     ],
     "employment": [
@@ -115,17 +115,17 @@
       },
       {
         "start": "2016",
-        "end": "2023",
         "position": "Researcher",
         "organisation": "Institute of Transport Economics",
-        "country": "NO"
+        "country": "NO",
+        "end": "2023"
       },
       {
         "start": "2018",
-        "end": "2023",
         "position": "PhD candidate",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2023"
       }
     ],
     "membership": [],
@@ -168,8 +168,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Karin Fossheim",
-    "id": "555302",
+    "name": ["Karin Fossheim"],
+    "id": ["555302"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", "Researcher"],
     "img": {},
@@ -282,5 +282,82 @@
         "url": "https://api.cristin.no/v2/results/2168803"
       }
     ]
+  },
+  "rg": {
+    "id": "Karin-Fossheim",
+    "name": "Karin Fossheim",
+    "img": "https://i1.rgstatic.net/ii/profile.image/773032054374403-1561316612624_Q128/Karin-Fossheim.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Representation", "Democracy", "Collaborative Governance", "Local Governance", "democratic representation"],
+    "works": [
+      {
+        "title": "Digitalization of public sector organizations over time: The applicability of quantitative text analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Karin Fossheim", "Jonas Lund-Tønnesen"],
+        "abstract": ["In recent decades, public organizations have undergone significant changes related to digitalization. These changes are the result of multiple, varying influences, such as external institutional feedback. The issue of digitalization feedback development in public organizations opens the discussion on how to study digitalization over time. In this a..."]
+      },
+      {
+        "title": "Determining the Democratic Quality of Non-Electoral Representation in Local State–Society Networks",
+        "tags": ["Chapter"],
+        "date": "Dec 2022",
+        "authors": ["Karin Fossheim", "Hans Vollaard"],
+        "abstract": ["Electoral democracy and direct participation at the local level suffer from inequality: certain voices are more often heard than others. Moreover, static references to local councilors’ election once may not suffice to legitimize representative claims. However, the non-electoral representation may redress these problems. It involves both elected an..."]
+      },
+      {
+        "title": "How can non-elected representatives secure democratic representation?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Karin Fossheim"],
+        "abstract": ["Research on the democratic legitimacy of non-elected actors influencing policy while acting as representatives is often lacking in governance literature, despite being increasingly relevant worldwide. Recent theories of representation argue that there are non-electoral mechanisms to appoint such non-elected representatives and hold them responsible..."]
+      },
+      {
+        "title": "The consequences of institutional design on collaborative arrangements’ power to influence urban freight policymaking",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Karin Fossheim", "Jardar Andersen"],
+        "abstract": ["Collaborative governance is becoming increasingly important as a mode of urban freight policymaking. Bringing together actors from private and public sectors in forums makes it possible to move beyond general discussions of delivery challenges to the innovation of joint solutions and lasting improvements to the freight transport system. For such cr..."]
+      },
+      {
+        "title": "The Responsibility of an Audience: Assessing the Legitimacy of Non-elected Representatives in Governance Networks",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Karin Fossheim"],
+        "abstract": ["Non-elected actors in governance networks are legitimate representatives when the constituency accepts their claims of representation. However, not all constituents have the resources to approve or oppose this representation. Consequently, I argue that the audience, often the decision-making authority, which enables non-elected actors to act as rep..."]
+      },
+      {
+        "title": "How to build stakeholder participation in collaborative urban freight planning",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Astrid Bjørgen Sund", "Karin Fossheim", "Cathy Macharis"],
+        "abstract": ["Although freight issues are often the subject of controversy within urban communities, urban freight stakeholders rarely participate in local planning processes. This paper studies how different criteria to ensure actor participation in collaborative processes are practised in urban freight planning in seven Norwegian cities. The authors link diffe..."]
+      },
+      {
+        "title": "Local State-Society Relations in Norway",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Karin Fossheim"],
+        "abstract": ["The Norwegian local state-society networks considered, selected on the basis that they occur in most municipalities, are (1) council for the elderly and council for people with disabilities, (2) young people’s parliament and youth council, (3) economic development committee, (4) committee for voluntary organizations and (5) sub-municipal bodies. Co..."]
+      },
+      {
+        "title": "Public sector facilitation of cargo bike operations to improve city logistics",
+        "tags": ["Chapter"],
+        "date": "Jan 2019",
+        "authors": ["Tale Ørving", "Karin Fossheim", "Jardar Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Plan for sustainable urban logistics – comparing between Scandinavian and UK practices",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Karin Fossheim", "Jardar Andersen"],
+        "abstract": ["IntroductionCommon practices in current urban logistics planning in Scandinavia and the UK, and the degree to which SUTP (Sustainable Urban Transport Plan), SUMP (Sustainable Urban Mobility Plans) and SULP (Sustainable Urban Logistics Plans) guidelines are used, are examined in this paper. MethodsA systematic literature review identifies relevant s..."]
+      }
+    ],
+    "degree": ["PhD", ""],
+    "bio": "Karin Fossheim is currently a Postdoctoral Fellow at the Department of Psychology at the University of Oslo.",
+    "publications": [9],
+    "reads": [1711],
+    "citations": [90]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-3203-7444",
-    "name": "Siri Gurandsrud Karlsen",
+    "orcid": ["0000-0002-3203-7444"],
+    "name": ["Siri Gurandsrud Karlsen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Siri Gurandsrud Karlsen",
-    "id": "1504869",
+    "name": ["Siri Gurandsrud Karlsen"],
+    "id": ["1504869"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -27,5 +27,26 @@
         "url": "https://api.cristin.no/v2/results/2181023"
       }
     ]
+  },
+  "rg": {
+    "id": "Pasupula-Siri",
+    "name": "Pasupula Siri",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Vasavi College of Engineering, Department of Electrical and Electronics Engineering",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Fighting for market power",
+        "tags": ["Chapter"],
+        "date": "Jan 2022",
+        "authors": ["Pasupula Siri"],
+        "abstract": "This chapter analyzes three aspects of developments in Norwegian aviation from an industrial economics perspective. It took four years after easing the hub airport's capacity problems before deregulation significantly affected competition. Next the market structure went from a stable duopoly, via capacity competition with an entrant, to an unstable..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [13],
+    "citations": [0]
   }
 }

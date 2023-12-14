@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Erik David Hesse",
-    "id": "S4IrTY8AAAAJ",
-    "affiliation": "",
+    "name": ["Erik David Hesse"],
+    "id": ["S4IrTY8AAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -466,8 +466,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-5336-0673",
-    "name": "Erik Hessen",
+    "orcid": ["0000-0001-5336-0673"],
+    "name": ["Erik Hessen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -478,8 +478,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Erik Hessen",
-    "id": "8069",
+    "name": ["Erik Hessen"],
+    "id": ["8069"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -966,5 +966,54 @@
         "url": "https://api.cristin.no/v2/results/374267"
       }
     ]
+  },
+  "rg": {
+    "id": "Erik-Erik-3",
+    "name": "Erik Erik",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Russian  Armenian Slavonic University",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Automated Text-Based Psychological Support to Improve Work-Life Balance and Sleep Quality: A pilot study report of work-from-home workers in Indonesia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Herdiyan Maulana", "Faras Hasna Azizah", "Lupi Yudhaningrum", "Burhanuddin Tola"],
+        "abstract": ["Background: Work-at-home jobs may raise the risk of mental health concerns as they blur the boundaries between one’s job and personal responsibility. This study aimed to develop and test the feasibility of an online psychological intervention using the WhatsAppÓmessaging application. Materials and Method: During the 14-day intervention period, two..."]
+      },
+      {
+        "title": "The Effect of Need for Cognition and Need for Affection on the Intention of Spreading Fake News",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Gumgum Gumelar", "Erik Erik", "Herdiyan Maulana"],
+        "abstract": ["The aim of this study is to determine the effect of the need for cognition and the need for affection towards the intention of spreading fake news. This research used an experimental design by giving the participants some manipulations in the form of fake news. The study examined whether the participant spreads the news provided based on their diff..."]
+      },
+      {
+        "title": "INTENSI MENYEBARKAN BERITA PALSU DITINJAU DARI MODEL KEPRIBADIAN LIMA BESAR PADA MAHASISWA PSIKOLOGI",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Gumgum Gumelar", "Erik Erik", "Muhammad Alfatih Robbany"],
+        "abstract": ["This research was conducted to determine whether personality dimensions in big five personality model influence the intention to spread false news on students of Psychology Department, Faculty of Psychology Education, Jakarta State University. Some results of previous studies show that personality dimensions in the five major personality models hav..."]
+      },
+      {
+        "title": "Engagement and the spread of fake news: Personality Trait as moderator",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Gumgum Gumelar", "Zarina Akbar", "Erik Erik"],
+        "abstract": []
+      },
+      {
+        "title": "PEMBERDAYAAN GURU SMP MELALUI PELATIHAN DASAR HIPNOTERAPY DALAM PEMBELAJARAN DI SMP 1 ISLAM KOTA MALANG",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Gumgum Gumelar", "Erik Erik"],
+        "abstract": ["The aim of this community service is to improve the teacher's ability to keep the concentration and focus from a student to maximize learning performance. This activity is done by creating a module and planning activities, determining the place of execution and transfer of learning (learning) on teachers in junior 1 Islam Malang East Java. This eve..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [5],
+    "reads": [3826],
+    "citations": [13]
   }
 }

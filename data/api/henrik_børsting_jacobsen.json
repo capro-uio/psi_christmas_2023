@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Henrik Klinge Jacobsen",
-    "id": "jXVJrLEAAAAJ",
-    "affiliation": "Professor, Technical University of Denmark, DTU Management",
+    "name": ["Henrik Klinge Jacobsen"],
+    "id": ["jXVJrLEAAAAJ"],
+    "affiliation": ["Professor, Technical University of Denmark, DTU Management"],
     "data": {
       "publications": [
         {
@@ -1078,8 +1078,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-6121-3446",
-    "name": "Henrik Jacobsen",
+    "orcid": ["0000-0001-6121-3446"],
+    "name": ["Henrik Jacobsen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1090,8 +1090,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Henrik Børsting Jacobsen",
-    "id": "306432",
+    "name": ["Henrik Børsting Jacobsen"],
+    "id": ["306432"],
     "keywords": [],
     "position": ["Associate professor", "PhD Fellow", null, null],
     "img": {},
@@ -1543,5 +1543,474 @@
         "url": "https://api.cristin.no/v2/results/900266"
       }
     ]
+  },
+  "rg": {
+    "id": "Henrik-Jacobsen",
+    "name": "Henrik Borsting Jacobsen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277757956247553-1443234065706_Q128/Henrik-Jacobsen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Physical Activity", "Stress", "Rehabilitation", "Cognitive Behavioral Therapy", "Psychology", "Mental Disorders", "Mental Health", "Well-Being", "Psychopathology", "Clinical Psychology"],
+    "works": [
+      {
+        "title": "The Role of Stress in Absenteeism: Cortisol Responsiveness among Patients on Long-Term Sick Leave",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Henrik Borsting Jacobsen", "Johan Håkon Bjørngaard", "Karen W Hara", "Tore C. Stiles"],
+        "abstract": ["This study aimed to (1) See whether increased or decreased variation relate to subjective reports of common somatic and psychological symptoms for a population on long-term sick leave; and (2) See if this pattern in variation is correlated with autonomic activation and psychological appraisal.\nOur participants (n = 87) were referred to a 3.5-week r..."]
+      },
+      {
+        "title": "Cognitive Effects of Perioperative Pregabalin: Secondary Exploratory Analysis of a Randomized Placebo-controlled Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Marianne Myhre", "Henrik Borsting Jacobsen", "Stein Andersson", "Audun Stubhaug"],
+        "abstract": ["What we already know about this topic: \nWHAT THIS ARTICLE TELLS US THAT IS NEW: BACKGROUND:: Pregabalin has shown opioid sparing and analgesic effects in the early postoperative period; however, perioperative effects on cognition have not been studied. A randomized, parallel group, placebo-controlled investigation in 80 donor nephrectomy patients w..."]
+      },
+      {
+        "title": "Metacognitive Beliefs as Predictors of Return to Work After Intensive Return-to-Work Rehabilitation in Patients With Chronic Pain, Chronic Fatigue and Common Psychological Disorders: Results From a Prospective Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Henrik Borsting Jacobsen", "Mari Glette", "Karen W Hara", "Tore C. Stiles"],
+        "abstract": ["Background\nMetacognitions are associated with work status, but no research has examined to what extent metacognitions before treatment and change in metacognitions following treatment predict return to work (RTW) prospectively. The present study aims to address these two gaps in knowledge.Methods212 patients on long-term sick leave (>8 weeks) with..."]
+      },
+      {
+        "title": "MINDflex Training for Cognitive Flexibility in Chronic Pain: A Randomized, Controlled Cross-Over Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Henrik Borsting Jacobsen", "Ole Klungsøyr", "Nils Inge Landrø", "Bryan Roche"],
+        "abstract": ["Impairments in executive functioning are prevalent in chronic pain conditions, with cognitive inflexibility being the most frequently reported. The current randomized, cross-over trial, piloted a computerized cognitive training (CCT) program based on Relational Frame Theory, targeting improvement in cognitive flexibility. At baseline, 73 chronic pa..."]
+      },
+      {
+        "title": "Comparing objective cognitive impairments in patients with peripheral neuropathic pain or fibromyalgia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Henrik Borsting Jacobsen", "Tore C. Stiles", "Audun Stubhaug", "Per Hansson"],
+        "abstract": ["Existing studies on cognitive impairments in chronic pain do not investigate peripheral neuropathic pain (PNP) or compare pain conditions in a satisfactory manner. Here we aimed to compare executive dysfunctions in PNP patients with fibromyalgia (FM) and healthy controls (HC). Patients who self-reported cognitive impairments were assessed according..."]
+      },
+      {
+        "title": "Epidemiology of classic psychedelic substances: results from a Norwegian internet convenience sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Tor-Morten Kvam", "Malin Uthaug", "Kristoffer A A Andersen", "Cato Grønnerød"],
+        "abstract": ["Objective\nIn recent years, there has been a renewed interest in investigating the use of classic psychedelics such as psilocybin and lysergic acid diethylamide (LSD) in the treatment of mental disorders and substance use disorders. However, knowledge about the epidemiology of classic psychedelics in the Nordic countries is limited.\n\nMethods\nWe recr..."]
+      },
+      {
+        "title": "Chronic fatigue syndromes: real illnesses that people can recover from",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Tomas Nordheim Alme", "Anna Andreasson", "Tarjei Tørre Asprusten", "Vegard Bruun Bratholm Wyller"],
+        "abstract": ["The ‘Oslo Chronic Fatigue Consortium’ consists of researchers and clinicians who question the current narrative that chronic fatigue syndromes, including post-covid conditions, are incurable\ndiseases. Instead, we propose an alternative view, based on research, which offers more hope to patients. Whilst we regard the symptoms of these conditions as..."]
+      },
+      {
+        "title": "Heart Rate Variability and Pain: A Protocol for a Systematic Review and Meta-Analysis",
+        "tags": ["Preprint"],
+        "date": "Aug 2023",
+        "authors": ["Emilie Smith-Meyer Kildal", "Kristin Audunsdottir", "Henrik Borsting Jacobsen", "Daniel Quintana"],
+        "abstract": ["Background: Establishing a reliable pain biomarker may significantly improve care for nonverbal patients otherwise unable to express their pain (e.g., individuals with profound autism, cerebral palsy, aphasia due to stroke, or profound intellectual disability). Amidst potential candidates, heart rate variability (HRV) has garnered growing attention..."]
+      },
+      {
+        "title": "Can cognitive inflexibility reduce symptoms of anxiety and depression? Promoting the structural nested mean model in psychotherapy research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Henrik Borsting Jacobsen", "Peter Solvoll Lyby", "Thomas Johansen", "Ole Klungsøyr"],
+        "abstract": ["Objective: \nTo estimate the causal effect of executive functioning on the remission of depression and anxiety symptoms in an observational dataset from a vocational rehabilitation program. It is also an aim to promote a method from the causal inference literature and to illustrate its value in this setting.\n\nMethod: \nWith longitudinal (four-time po..."]
+      },
+      {
+        "title": "Stress specifically deteriorates working memory in peripheral neuropathic pain and fibromyalgia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Henrik Borsting Jacobsen", "Aurora Brun", "Audun Stubhaug", "Silje E Reme"],
+        "abstract": ["This study aimed to explore the influence of chronic stress, measured through hair cortisol, on executive functions in individuals with chronic pain. We expected that there would be significant differences in chronic stress and executive functioning between pain patients and healthy controls, as well as between primary and secondary pain classifica..."]
+      },
+      {
+        "title": "A cross-sectional study of fear of surgery in female breast cancer patients: Prevalence, severity, and sources, as well as relevant differences among patients experiencing high, moderate, and low fear of surgery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Sophia Engel", "Henrik Borsting Jacobsen", "Silje E Reme"],
+        "abstract": ["Background: \nFear of surgery has been associated with more postoperative pain, disability, and a lower quality of life among patients undergoing various surgical procedures. While qualitative studies indicate breast cancer patients to be afraid of surgery, detailed quantitative analyses are lacking. The present research aimed at investigating the p..."]
+      },
+      {
+        "title": "Acute and subacute postsurgical pain in women with breast cancer: incidence and associations with biopsychosocial predictors—a secondary analysis of a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Alice Munk", "Henrik Borsting Jacobsen", "Julie Schnur", "Silje E Reme"],
+        "abstract": ["Introduction:. Women who undergo breast cancer surgery risk suffering from postsurgical pain long after their surgery. Still, research on postsurgical pain in the subacute phase has been neglected.\nObjective:. This study aims to investigate the incidence, intensity, unpleasantness, and presurgical predictors of acute and subacute postsurgical pain..."]
+      },
+      {
+        "title": "Meditative-based diaphragmatic breathing vs. vagus nerve stimulation in the treatment of fibromyalgia—A randomized controlled trial: Body vs. machine",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Charles Ethan Paccione", "Audun Stubhaug", "Lien M Diep", "Henrik Borsting Jacobsen"],
+        "abstract": ["Importance\nVagus nerve innervation via electrical stimulation and meditative-based diaphragmatic breathing may be promising treatment avenues for fibromyalgia.\n\nObjective\nExplore and compare the treatment effectiveness of active and sham transcutaneous vagus nerve stimulation (tVNS) and meditative-based diaphragmatic breathing (MDB) for fibromyalgi..."]
+      },
+      {
+        "title": "Pre- and post-operative psychological interventions to prevent pain and fatigue after breast cancer surgery (PREVENT): Protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Silje E Reme", "Alice Munk", "Marianne Therese Smogeli Holter", "Henrik Borsting Jacobsen"],
+        "abstract": ["Background\nBreast cancer is the most common cancer type among women worldwide with over a million new cases each year. More than 40% of these women will struggle with chronic pain and fatigue after surgery, regardless of surgical procedure. These consequences are detrimental and result in distress and disability, including work disability. Few atte..."]
+      },
+      {
+        "title": "Coping Expectancies and Disability across the New ICD ‐11 Chronic Pain Categories: A Large‐Scale Registry Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Alice Munk", "Henrik Borsting Jacobsen", "Silje E Reme"],
+        "abstract": ["Background: \nRecently a new classification system for chronic pain was included in the 11th edition of the International Classification of Diseases (ICD-11). This study aims to investigate how expectancies of coping, i.e. pain catastrophizing and general self-efficacy, are associated with ICD-11 chronic pain categories in a large pain clinic popula..."]
+      },
+      {
+        "title": "Pre- and post-operative psychological interventions to prevent pain and fatigue after breast cancer surgery (PREVENT): a randomized controlled trial",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Silje E Reme", "Alice Munk", "Marianne Therese Smogeli Holter", "Henrik Borsting Jacobsen"],
+        "abstract": ["Background\nBreast cancer is the most common cancer type among women worldwide with over a million new cases each year. More than 40% of these women will struggle with chronic pain and fatigue after surgery, regardless of surgical procedure. These consequences are detrimental and result in distress and disability, including work disability. Few atte..."]
+      },
+      {
+        "title": "Associations between workplace bullying and later benefit recipiency among workers with common mental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Camilla Løvvik", "Simon Øverland", "Morten Birkeland Nielsen", "Silje E Reme"],
+        "abstract": ["Objective\nIn this study, we examined exposure to workplace bullying as a predictor of registry-based benefit recipiency among workers struggling with work participation due to common mental disorders. Further, we examined if the experience of receiving social support moderated the association between workplace bullying and benefit recipiency.\n\nDesi..."]
+      },
+      {
+        "title": "The Individual Placement and Support (IPS) in Pain Trial: A Randomized Controlled Trial of IPS for Patients with Chronic Pain Conditions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Vigdis Sveinsdottir", "Henrik Borsting Jacobsen", "Tone Marte Ljosaa", "Silje E Reme"],
+        "abstract": ["Objectives\nAlthough complex pain conditions require an interdisciplinary approach, employment services are rarely provided in pain centers. Individual Placement and Support (IPS) is an effective approach to increase work participation among patients with severe mental illness, and recent evidence suggests that this method may be successfully repurp..."]
+      },
+      {
+        "title": "Perceived Injustice in Patients With Chronic Pain: Prevalence, Relevance, and Associations With Long-Term Recovery and Deterioration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Silje E Reme", "Tone Marte Ljosaa", "Audun Stubhaug", "Henrik Borsting Jacobsen"],
+        "abstract": ["The Injustice Experience Questionnaire (IEQ) assesses the degree to which chronic pain sufferers perceive injustice in relation to their pain. The aim of the current study was to assess the prevalence and relevance of the IEQ and its association to perceived recovery and deterioration in a naturalistic pain clinic population. Data was obtained from..."]
+      },
+      {
+        "title": "Translation and validation of the Norwegian version of the Injustice Experience Questionnaire",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Tone Marte Ljosaa", "Hanne Svardal Berg", "Henrik Borsting Jacobsen", "Silje E Reme"],
+        "abstract": ["Objectives\nPerceived injustice is a theoretical construct comprising elements of loss, attribution of blame, and sense of unfairness. Patients with chronic pain often report high levels of perceived injustice, which can have negative impact on physiological and psychosocial aspects and treatment outcome. The Injustice Experience Questionnaire (IEQ)..."]
+      },
+      {
+        "title": "Clinical Hypnosis in Medical Care: A Mixed-Method Feasibility Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Sofie Bulling Lind", "Henrik Borsting Jacobsen", "Ole André Solbakken", "Silje E Reme"],
+        "abstract": ["Background\nPreoperative hypnosis has shown promising effects in controlling side effects from breast cancer surgery, but the feasibility and effects are largely unknown outside the US.\n\nMethods\nA mixed-methods approach was applied involving a large-scale population survey and a small-scale pilot study. The survey assessed attitudes toward hypnosis..."]
+      },
+      {
+        "title": "Have Norwegians tried psilocybin, and do they accept it as a medicine?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Henrik Borsting Jacobsen", "Audun Stubhaug", "Bjørn Holmøy", "Silje E Reme"],
+        "abstract": ["Background\nPsilocybin is emerging as a promising therapeutic agent for a wide range of psychiatric conditions, and clinical trials on psilocybin-assisted treatment are forthcoming in Scandinavian countries. However, little is known about attitudes towards this psychedelic compound among the general public in Nordic countries. This might represent a..."]
+      },
+      {
+        "title": "What Does CATS Have to Do With Cancer? The Cognitive Activation Theory of Stress (CATS) Forms the SURGE Model of Chronic Post-surgical Pain in Women With Breast Cancer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Alice Munk", "Silje E Reme", "Henrik Borsting Jacobsen"],
+        "abstract": ["Chronic post-surgical pain (CPSP) represents a highly prevalent and significant clinical problem. Both major and minor surgeries entail risks of developing CPSP, and cancer-related surgery is no exception. As an example, more than 40% of women undergoing breast cancer surgery struggle with CPSP years after surgery. While we do not fully understand..."]
+      },
+      {
+        "title": "Pain matters for central sensitization: sensory and psychological parameters in patients with fibromyalgia syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Stefanie Rehm", "Juliane Sachau", "Jana Hellriegel", "Ralf Baron"],
+        "abstract": ["Introduction: \nPatients suffering from fibromyalgia syndrome (FMS) are heterogenous. They often present with sensory abnormalities and comorbidities.\n\nObjectives: \nWe aimed to answer the following questions: (1) Is there a specific somatosensory profile in our patient cohort? (2) Can we detect subgroups characterized by a specific combination of se..."]
+      },
+      {
+        "title": "The indirect impact of heart rate variability on cold pressor pain tolerance and intensity through psychological distress in individuals with chronic pain: the Tromsø Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Charles Ethan Paccione", "Stephen Bruehl", "Lien M Diep", "Henrik Borsting Jacobsen"],
+        "abstract": ["Introduction: \nChronic pain (CP) patients often display lower heart rate variability (HRV) and baroreceptor sensitivity (BRS), which are associated with increased evoked pain intensity and decreased pain tolerance.\n\nObjective: \nThe purpose of this study was to test whether the association between low levels of HRV and BRS and increased evoked pain..."]
+      },
+      {
+        "title": "Motivational nondirective resonance breathing versus transcutaneous vagus nerve stimulation in the treatment of fibromyalgia: Study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Charles Ethan Paccione", "Lien M Diep", "Audun Stubhaug", "Henrik Borsting Jacobsen"],
+        "abstract": ["Background: \nChronic widespread pain (CWP), including fibromyalgia (FM), affects one in every ten adults and is one of the leading causes of sick leave and emotional distress. Due to an unclear etiology and a complex pathophysiology, FM is a condition with few, if any, effective and safe treatments. However, current research within the field of vag..."]
+      },
+      {
+        "title": "Effectiveness of an ACT‐based rehabilitation program for the treatment of chronic fatigue: Results from a 12‐months longitudinal study",
+        "tags": ["Article"],
+        "date": "Aug 2020",
+        "authors": ["Agostino Brugnera", "Trym Jacobsen", "Astrid Woodhouse", "Henrik Borsting Jacobsen"],
+        "abstract": ["Acceptance and Commitment Therapy (ACT) is potentially effective for treating chronic fatigue. Given the paucity of studies on this topic, we aimed to assess long‐term trajectories of primary (fatigue, quality of life and functional abilities) and secondary outcomes (anxious and depressive symptoms) of an ACT‐based rehabilitation program for patien..."]
+      },
+      {
+        "title": "Motivational nondirective resonance breathing versus transcutaneous vagus nerve stimulation in the treatment of fibromyalgia: study protocol for a randomized controlled trial",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Charles Ethan Paccione", "Lien M Diep", "Audun Stubhaug", "Henrik Borsting Jacobsen"],
+        "abstract": ["Background\nChronic widespread pain (CWP), including fibromyalgia (FM), affects one in every ten adults and is one of the leading causes of sick leave and emotional distress. Due to an unclear etiology and a complex pathophysiology, FM is a condition with few, if any, effective and safe treatments. However, current research within the field of vagal..."]
+      },
+      {
+        "title": "Pain psychology in the 21st century: Lessons learned and moving forward",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Ida K L Flink", "Silje E Reme", "Henrik Borsting Jacobsen", "Katja Boersma"],
+        "abstract": ["Background and aims\nIn the spring of 2019, Professor Steven J. Linton, the founder of the Center for Health and Medical Psychology (CHAMP) at Örebro University, Sweden, formally retired. As a tribute to his scholarly work covering decades of influence and inspiration to the field of pain psychology, the research center organized a topical conferenc..."]
+      },
+      {
+        "title": "Gismervik 2020, Inpatient multimodal occupational rehabilitation reduces sickness absence among individuals with musculoskeletal and common mental health disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Sigmund Gismervik", "Lene Aasdahl", "Ottar Vasseljen", "Marius Steiro Fimland"],
+        "abstract": []
+      },
+      {
+        "title": "Inpatient multimodal occupational rehabilitation reduces sickness absence among individuals with musculoskeletal and common mental health disorders: a randomized clinical trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Sigmund Gismervik", "Lene Aasdahl", "Ottar Vasseljen", "Chris Jensen"],
+        "abstract": ["Objectives\nThis study aimed to investigate whether inpatient multimodal occupational rehabilitation (I-MORE) reduces sickness absence (SA) more than outpatient acceptance and commitment therapy (O-ACT) among individuals with musculoskeletal and mental health disorders.\n\nMethods\nIndividuals on sick leave (2-12 months) due to musculoskeletal or commo..."]
+      },
+      {
+        "title": "Interpersonal problems as a predictor of pain catastrophizing in patients with chronic pain",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Truls Ryum", "Henrik Borsting Jacobsen", "Petter Christian Borchgrevink", "Tore C. Stiles"],
+        "abstract": ["Background and aims: Pain catastrophizing has consistently been related to a variety of negative outcomes within chronic pain conditions, but competing models exist explaining the role of catastrophizing. According to the fear-avoidance model (FAM), catastrophizing is primarily related to the appraisal of pain (i.e. “intrapersonal”), whereas the co..."]
+      },
+      {
+        "title": "Neuropsychological functions of verbal recall and psychomotor speed significantly affect pain tolerance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Henrik Borsting Jacobsen", "Audun Stubhaug", "Henrik Schirmer", "Christopher Sivert Nielsen"],
+        "abstract": ["Background: \nEffects from cognitive performance on pain tolerance have been documented, however, sample sizes are small and confounders often overlooked. We aimed to establish that performance on neuropsychological tests was associated with pain tolerance, controlling for salient confounders.\n\nMethods: \nThis was a cross-sectional study nested withi..."]
+      },
+      {
+        "title": "Cognitive Effects of Perioperative Pregabalin: Reply",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Marianne Myhre", "Henrik Borsting Jacobsen", "Stein Andersson", "Audun Stubhaug"],
+        "abstract": []
+      },
+      {
+        "title": "Motivational Non-directive Resonance Breathing as a Treatment for Chronic Widespread Pain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Charles Ethan Paccione", "Henrik Borsting Jacobsen"],
+        "abstract": ["Chronic widespread pain (CWP) is one of the most difficult pain conditions to treat due to an unknown etiology and a lack of innovative treatment design and effectiveness. Based upon preliminary findings within the fields of motivational psychology, integrative neuroscience, diaphragmatic breathing, and vagal nerve stimulation, we propose a new tre..."]
+      },
+      {
+        "title": "Reply to Letter to the Editor “Clinical registries are essential tools for ensuring quality and improving outcomes in pain medicine” by Baciarello et al.",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Lars-Petter Granan", "Silje E Reme", "Henrik Borsting Jacobsen", "Tone Marte Ljosaa"],
+        "abstract": []
+      },
+      {
+        "title": "The Oslo University Hospital Pain Registry: Development of a digital chronic pain registry and baseline data from 1,712 patients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Lars-Petter Granan", "Silje E Reme", "Henrik Borsting Jacobsen", "Tone Marte Ljosaa"],
+        "abstract": ["Background and aims\nChronic pain is a leading cause to years lived with disability worldwide. However, few of the interventions used in pain medicine have proven efficacy, and evidence from the existing studies may not be valid for the general pain population. Therefore, it is of utmost need that we describe chronic pain conditions in their most re..."]
+      },
+      {
+        "title": "The Relationship Between Improvement in Insomnia Severity and Long-Term Outcomes in the Treatment of Chronic Fatigue",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Daniel Vethe", "Håvard Kallestad", "Henrik Borsting Jacobsen", "Tore C. Stiles"],
+        "abstract": ["Background: The current treatments of choice for patients with chronic fatigue are moderately effective. One way to advance treatments is identifying process variables associated with good treatment outcomes. There is little knowledge regarding a possible association between insomnia and long-term outcomes in the treatment of chronic fatigue.\nAims:..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Sep 2018",
+        "authors": ["Daniel Vethe", "Håvard Kallestad", "Henrik Borsting Jacobsen", "Tore C. Stiles"],
+        "abstract": []
+      },
+      {
+        "title": "The feasibility of occupational rehabilitation in transdiagnostic groups for participants with chronic pain, chronic fatigue and common mental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Karen W Hara", "Petter Christian Borchgrevink", "Henrik Borsting Jacobsen", "Astrid Woodhouse"],
+        "abstract": ["Most occupational rehabilitation programmes target specific disorders. Crossover between programmes for mental and somatic disorders has been discussed and it has been pointed out that interventions may be applicable across different diagnostic categories. This study aimed to investigate the feasibility of introducing a novel transdiagnostic occupa..."]
+      },
+      {
+        "title": "Biopsychosocial predictors and trajectories of work participation after transdiagnostic occupational rehabilitation of participants with mental and somatic disorders: A cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Karen W Hara", "Johan Håkon Bjørngaard", "Henrik Borsting Jacobsen", "Astrid Woodhouse"],
+        "abstract": ["Abstract Background Group-based transdiagnostic occupational rehabilitation programs including participants with mental and somatic disorders have emerged in clinical practice. Knowledge is sparse on subsequent participation in competitive work. This study aimed to investigate trajectories for (re)entry to work for predefined subgroups in a diagnos..."]
+      },
+      {
+        "title": "A pilot study of the individual placement and support model for patients with chronic pain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Linn Rodevand", "Tone Marte Ljosaa", "Lars-Petter Granan", "Silje E Reme"],
+        "abstract": ["Background: \nIndividual Placement and Support (IPS) is an evidence-based work rehabilitation model with well-documented effects for people with mental illness. The model has, however, never been tested out for people with chronic pain. This pilot study aimed to investigate chronic pain patients' experiences with the IPS job support model.\n\nMethods:..."]
+      },
+      {
+        "title": "Towards a structured examination of contextual flexibility in persistent pain",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Henrik Borsting Jacobsen"],
+        "abstract": []
+      },
+      {
+        "title": "Transdiagnostic group-based occupational rehabilitation for participants with chronic pain, chronic fatigue and common mental disorders. A feasibility study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Karen W Hara", "Petter Christian Borchgrevink", "Henrik Borsting Jacobsen", "Astrid Woodhouse"],
+        "abstract": ["Purpose: \nThe aim was to investigate the feasibility of introducing a novel transdiagnostic occupational rehabilitation program delivered in groups mixing participants with chronic pain, chronic fatigue and common mental disorders.\n\nMaterials and methods: \nObservational data on group climate and individual participation were triangulated with quali..."]
+      },
+      {
+        "title": "Emotions in communication skills training − experiences from general practice to Porsche maintenance",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Tonje Lundeby", "Henrik Borsting Jacobsen", "Paul Andreas Lundeby", "Jon håvard Loge"],
+        "abstract": ["The emphasis on skills in communication training of physicians has gained momentum over the last 30 years. Furthermore, a specific focus on skills to address emotions has been suggested and more recently supported by empirical studies. In this paper we use the Expanded Four Habits Model to illustrate how a structured consultation model supplemented..."]
+      },
+      {
+        "title": "Processes in acceptance and commitment therapy and the rehabilitation of chronic fatigue",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Henrik Borsting Jacobsen", "Håvard Kallestad", "Nils Inge Landrø", "Tore C. Stiles"],
+        "abstract": ["Acceptance and commitment therapy (ACT) has never been tested for patients with chronic fatigue. We aimed to test if a 3.5-week ACT rehabilitation program for patients with chronic fatigue improved quality of life (QoL), fatigue, and psychological flexibility. Further, to test if improvements in QoL and fatigue were associated with improvement in p..."]
+      },
+      {
+        "title": "Effectiveness of Working Memory Training among Subjects Currently on Sick Leave Due to Complex Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Julie Kristine Aasvik", "Astrid Woodhouse", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["Introduction: The current study examined if adaptive working memory training (Cogmed QM) has the potential to improve inhibitory control, working memory capacity, and perceptions of memory functioning in a group of patients currently on sick leave due to symptoms of pain, insomnia, fatigue, depression and anxiety. Participants who were referred to..."]
+      },
+      {
+        "title": "Kronisk utmattelsessyndrom og affektbevissthet hos ungdom",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Linn Rodevand", "Henrik Borsting Jacobsen"],
+        "abstract": []
+      },
+      {
+        "title": "Working memory, optimism and pain: An elusive link",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Henrik Borsting Jacobsen", "Silje E Reme"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitions Are Associated with Subjective Memory Problems in Individuals on Sick Leave due to Chronic Fatigue",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Henrik Borsting Jacobsen", "Julie Kristine Aasvik", "Petter C. Borchgrevink", "Tore C. Stiles"],
+        "abstract": ["Background: \nSubjective cognitive impairments are frequent, but poorly understood in patients with chronic fatigue. We hypothesized that maladaptive metacognitive beliefs at baseline were associated with baseline subjective cognitive impairments, that they predict subjective cognitive impairments at treatment termination, and that a reduction in ma..."]
+      },
+      {
+        "title": "The role of social anxiety in chronic pain and the return-to-work process",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Henrik Borsting Jacobsen", "Silje E Reme"],
+        "abstract": []
+      },
+      {
+        "title": "Somatoforme og dissosiative lidelser. I: Psykiske lidelser",
+        "tags": ["Chapter"],
+        "date": "Jan 2016",
+        "authors": ["Egil A Fors", "Tore Charles", "Henrik Borsting Jacobsen"],
+        "abstract": []
+      },
+      {
+        "title": "Subjective memory complaints among patients on sick leave are associated with symptoms of fatigue and anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Julie Kristine Aasvik", "Astrid Woodhouse", "Henrik Borsting Jacobsen", "Nils Inge Landrø"],
+        "abstract": ["Objective: \nThe aim of this study was to identify symptoms associated with subjective memory complaints (SMCs) among subjects who are currently on sick leave due to symptoms of chronic pain, fatigue, depression, anxiety, and insomnia.\n\nMethods: \nThis was a cross-sectional study, subjects (n = 167) who were currently on sick leave were asked to comp..."]
+      },
+      {
+        "title": "Editorial comment on Karlsson et al. “Cognitive behavior therapy in women with fibromyalgia. A randomized clinical trial”",
+        "tags": ["Article"],
+        "date": "Oct 2015",
+        "authors": ["Henrik Borsting Jacobsen"],
+        "abstract": []
+      },
+      {
+        "title": "[In Process Citation]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Lars-Petter Granan", "Henrik Borsting Jacobsen", "Silje E Reme", "Tone Marte Ljosaa"],
+        "abstract": []
+      },
+      {
+        "title": "Tverrfaglig utdanning for bedre smertebehandling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Lars-Petter Granan", "Henrik Borsting Jacobsen", "Silje E Reme", "Tone Marte Ljosaa"],
+        "abstract": []
+      },
+      {
+        "title": "The role of insomnia in the treatment of chronic fatigue",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Håvard Kallestad", "Henrik Borsting Jacobsen", "Nils Inge Landrø", "Tore C. Stiles"],
+        "abstract": ["The definition of Chronic Fatigue Syndrome (CFS) overlaps with definitions of insomnia, but there is limited knowledge about the role of insomnia in the treatment of chronic fatigue.\nTo test if improvement of insomnia during treatment of chronic fatigue was associated with improved outcomes on 1) fatigue and 2) cortisol recovery span during a stand..."]
+      },
+      {
+        "title": "Describing patients with a duration of sick leave over and under one year in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Henrik Borsting Jacobsen", "Johan Håkon Bjørngaard", "Petter C Borchgrevink", "Tore C. Stiles"],
+        "abstract": ["Objective: \nThis study aimed to describe the somatic, social, psychological, and work-related factors that characterize participants with a duration of sick leave over and under one year.\n\nMethods: \nDuring 2012, 181 patients on long-term sick leave were consecutively recruited and asked to answer an extensive survey. Several outcomes were reported,..."]
+      },
+      {
+        "title": "Construction Workers Struggle With a High Prevalence of Mental Distress, and This Is Associated With Their Pain and Injuries (vol 55, pg 1197, 2013)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["Henrik Borsting Jacobsen"],
+        "abstract": []
+      },
+      {
+        "title": "Work Stress, Sleep Deficiency, and Predicted 10-Year Cardiometabolic Risk in a Female Patient Care Worker Population",
+        "tags": ["Article"],
+        "date": "Aug 2014",
+        "authors": ["Henrik Borsting Jacobsen", "Silje E Reme", "Grace Sembajwe", "Orfeu M Buxton"],
+        "abstract": ["Objectives\nThe aim of this study was to investigate the longitudinal effect of work-related stress, sleep deficiency, and physical activity on 10-year cardiometabolic risk among an all-female worker population.Methods\nData on patient care workers (n = 99) was collected 2 years apart. Baseline measures included: job stress, physical activity, night..."]
+      },
+      {
+        "title": "Work–Family Conflict, Psychological Distress, and Sleep Deficiency Among Patient Care Workers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Henrik Borsting Jacobsen", "Silje E Reme", "Grace Sembajwe", "Orfeu M Buxton"],
+        "abstract": ["This study examined whether work-family conflict was associated with sleep deficiencies, both cross-sectionally and longitudinally. In this two-phase study, a workplace health survey was completed by a cohort of patient care workers (n = 1,572). Additional data were collected 2 years later from a subsample of the original respondents (n = 102). Sel..."]
+      },
+      {
+        "title": "Work-Family Conflict, Psychological Distress, and Sleep Deficiency among Patient Care Workers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Henrik Borsting Jacobsen", "Silje E Reme", "Grace Sembajwe", "Orfeu M Buxton"],
+        "abstract": ["This study examined whether work-family conflict was associated with sleep deficiencies, both cross-sectionally and longitudinally. In this two-phase study, a workplace health survey was completed by a cohort of patient care workers (n = 1,572). Additional data were collected 2 years later from a subsample of the original respondents (n = 102). Sel..."]
+      },
+      {
+        "title": "Occupational rehabilitation programs for musculoskeletal pain and common mental health disorders: Study protocol of a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Marius Steiro Fimland", "Ottar Vasseljen", "Sigmund Gismervik", "Roar Johnsen"],
+        "abstract": ["Background: \nLong-term sick leave has considerably negative impact on the individual and society. Hence, the need to identify effective occupational rehabilitation programs is pressing. In Norway, group based occupational rehabilitation programs merging patients with different diagnoses have existed for many years, but no rigorous evaluation has be..."]
+      },
+      {
+        "title": "Somatiske symptomer uten vesentlig medisinsk forklaring: bakgrunn, nosologi og kliniske betraktninger med relevans for psykologer",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Egil A Fors", "Henrik Borsting Jacobsen", "PC Borchgrevink", "Tore C. Stiles"],
+        "abstract": []
+      },
+      {
+        "title": "Construction Workers Struggle With a High Prevalence of Mental Distress, and This Is Associated With Their Pain and Injuries",
+        "tags": ["Article"],
+        "date": "Sep 2013",
+        "authors": ["Henrik Borsting Jacobsen", "Alberto J Caban-Martinez", "Lynn C Onyebeke", "Silje E Reme"],
+        "abstract": ["We aimed to investigate how mental distress was associated with pain and injuries in a convenience sample of construction workers.\nA cross-sectional, mental health assessment was conducted in a convenience sample of construction workers (N = 172). A subsample participated in a clinical interview (n = 10). We used a cutoff (1.50 or greater) on Hopki..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Psychology"],
+    "bio": [],
+    "publications": [65],
+    "reads": [11995],
+    "citations": [632]
   }
 }

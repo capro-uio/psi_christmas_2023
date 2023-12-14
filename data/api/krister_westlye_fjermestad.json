@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Krister Fjermestad",
-    "id": "TCtddz8AAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Krister Fjermestad"],
+    "id": ["TCtddz8AAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -807,8 +807,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-7501-0033",
-    "name": "Krister Fjermestad",
+    "orcid": ["0000-0001-7501-0033"],
+    "name": ["Krister Fjermestad"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -819,8 +819,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Krister Westlye Fjermestad",
-    "id": "46949",
+    "name": ["Krister Westlye Fjermestad"],
+    "id": ["46949"],
     "keywords": [],
     "position": ["Guest", "Professor", null, "Guest", null],
     "img": {},
@@ -1482,5 +1482,15 @@
         "url": "https://api.cristin.no/v2/results/130359"
       }
     ]
+  },
+  "rg": {
+    "id": "Julie-Berge-Westlye-2",
+    "name": "Julie Berge Westlye",
+    "img": "https://i1.rgstatic.net/ii/profile.image/659499576729606-1534248360504_Q128/Julie-Berge-Westlye-2.jpg",
+    "affiliation": "University of Bergen | UiB, University of Bergen, Department of Archaeology History Culture studies and Religion",
+    "keywords": ["Archaeological Theory", "Viking Age Archaeology", "Archaeology Of Religion", "Archaeology of Gender", "Contemporary Feminism", "Excavation"],
+    "works": [],
+    "degree": ["Master", "of", "Archaeology"],
+    "bio": []
   }
 }

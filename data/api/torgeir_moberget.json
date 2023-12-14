@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Torgeir Moberget",
-    "id": "Cq8MHaAAAAAJ",
-    "affiliation": "NORMENT, Oslo University Hospital, Oslo, Norway",
+    "name": ["Torgeir Moberget"],
+    "id": ["Cq8MHaAAAAAJ"],
+    "affiliation": ["NORMENT, Oslo University Hospital, Oslo, Norway"],
     "data": {
       "publications": [
         {
@@ -1049,8 +1049,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-8564-8257",
-    "name": "Torgeir Moberget",
+    "orcid": ["0000-0002-8564-8257"],
+    "name": ["Torgeir Moberget"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1061,8 +1061,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Torgeir Moberget",
-    "id": "16297",
+    "name": ["Torgeir Moberget"],
+    "id": ["16297"],
     "keywords": [],
     "position": ["Guest", "Associate professor"],
     "img": {},
@@ -1539,5 +1539,719 @@
         "url": "https://api.cristin.no/v2/results/362157"
       }
     ]
+  },
+  "rg": {
+    "id": "Torgeir-Moberget",
+    "name": "Torgeir Moberget",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272366903230469-1441948738150_Q128/Torgeir-Moberget.jpg",
+    "affiliation": "Oslo Univeristy Hospital, NORMENT",
+    "keywords": ["Cognitive Neuroscience", "Memory", "Neuroimaging", "Brain Imaging", "Neuroscience", "Cognitive Neuropsychology", "EEG", "Neuropsychological Assessment", "Executive Function", "Imaging"],
+    "works": [
+      {
+        "title": "Cerebellar volume and cerebellocerebral structural covariance in schizophrenia: a multisite mega-analysis of 983 patients and 1349 healthy controls",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["Torgeir Moberget", "N T Doan", "D Alnæs", "L T Westlye"],
+        "abstract": ["Although cerebellar involvement across a wide range of cognitive and neuropsychiatric phenotypes is increasingly being recognized, previous large-scale studies in schizophrenia (SZ) have primarily focused on supratentorial structures. Hence, the across-sample reproducibility, regional distribution, associations with cerebrocortical morphology and e..."]
+      },
+      {
+        "title": "Cerebellar contributions to motor control and language comprehension: Searching for common computational principles",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Torgeir Moberget", "Richard B Ivry"],
+        "abstract": ["The past 25 years have seen the functional domain of the cerebellum extend beyond the realm of motor control, with considerable discussion of how this subcortical structure contributes to cognitive domains including attention, memory, and language. Drawing on evidence from neuroanatomy, physiology, neuropsychology, and computational work, sophistic..."]
+      },
+      {
+        "title": "Generalized Role for the Cerebellum in Encoding Internal Models: Evidence from Semantic Processing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Torgeir Moberget", "Eva Hilland", "Stein Andersson", "Tor Endestad"],
+        "abstract": ["The striking homogeneity of cerebellar microanatomy is strongly suggestive of a corresponding uniformity of function. Consequently, theoretical models of the cerebellum's role in motor control should offer important clues regarding cerebellar contributions to cognition. One such influential theory holds that the cerebellum encodes internal models,..."]
+      },
+      {
+        "title": "Long-term supratentorial brain structure and cognitive function following cerebellar tumour resections in childhood",
+        "tags": ["Article"],
+        "date": "Feb 2015",
+        "authors": ["Torgeir Moberget"],
+        "abstract": ["The cerebellum is connected to extensive regions of the cerebrum, and cognitive deficits following cerebellar lesions may thus be related to disrupted cerebello-cerebral connectivity. Moreover, early cerebellar lesions could affect distal brain development, effectively inducing long-term changes in brain structure and cognitive function. Here, we c..."]
+      },
+      {
+        "title": "Patients with focal cerebellar lesions show reduced auditory cortex activation during silent reading",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Torgeir Moberget", "Eva Hilland", "Stein Andersson", "Tor Endestad"],
+        "abstract": []
+      },
+      {
+        "title": "Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Milin Kim", "Esten Leonardsen", "Saige Rutherford", "Torgeir Moberget"],
+        "abstract": ["The cerebellum has been linked to motor coordination, cognitive and affective processing, in addition to a wide range of clinical illnesses. To enable robust quantification of individual cerebellar anatomy relative to population norms, we mapped the normative development and aging of the cerebellum across the lifespan using brain scans of > 54k par..."]
+      },
+      {
+        "title": "Mismatch negativity in schizophrenia spectrum and bipolar disorders: Group and sex differences and associations with symptom severity",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Atle Pentz", "Clara Maria Fides Timpe", "Elizabeth Marie Normann", "Torbjørn Elvsåshagen"],
+        "abstract": []
+      },
+      {
+        "title": "Assessing the longitudinal associations between decision-making processes and attention problems in early adolescence",
+        "tags": ["Preprint"],
+        "date": "Aug 2023",
+        "authors": ["Thea Wiker", "Mads Lund Pedersen", "Lia Ferschmann", "Christian K Tamnes"],
+        "abstract": ["Cognitive functions and psychopathology develop in parallel in childhood and adolescence, but the temporal dynamics of their associations are poorly understood. The present study sought to elucidate the intertwined development of decision-making processes and attention problems using longitudinal data from late childhood (9-10 years) to mid adolesc..."]
+      },
+      {
+        "title": "Complete Auditory cortex thickness is associated with N100 amplitude in schizophrenia spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Nora Slapø", "Stener Nerland", "Kjetil Nordbø Jørgensen", "Erik G Jönsson"],
+        "abstract": ["Background and Hypothesis\nThe auditory cortex (AC) may play a central role in the pathophysiology of schizophrenia and auditory hallucinations (AH). Previous schizophrenia studies report thinner AC and impaired AC function, as indicated by decreased N100 amplitude of the auditory evoked potential (AEP). However, whether these structural and functio..."]
+      },
+      {
+        "title": "Baseline long-term potentiation-like cortical plasticity is associated with longitudinal cortical thinning in healthy adults and in adults with bipolar disorder type II",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": ["The precise neurobiological processes underlying cerebral cortical thinning in aging and psychiatric illnesses remain undetermined, yet aging- and synaptic dysfunction-related loss of synapses are potential important mechanisms. We used long-term potentiation-like plasticity of the visual evoked potential as an index of synaptic function in the cor..."]
+      },
+      {
+        "title": "Machine Learning for Parsing Individual Differences",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Milin Kim", "Esten Leonardsen", "Rikka Kjelkenes", "Thomas Wolfers"],
+        "abstract": []
+      },
+      {
+        "title": "Relationship between function and structure in the visual cortex in healthy individuals and in patients with severe mental disorders",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Nora Slapø", "Kjetil Nordbø Jørgensen", "Torbjørn Elvsåshagen", "Erik G Jönsson"],
+        "abstract": ["Patients with schizophrenia spectrum disorders (SCZspect) and bipolar disorders (BD) show impaired function in the primary visual cortex (V1), indicated by altered visual evoked potential (VEP). While the neural substrate for altered VEP in these patients remains elusive, altered V1 structure may play a role. One previous study found a positive rel..."]
+      },
+      {
+        "title": "Reaction Time Variability in Children Is Specifically Associated With Attention Problems and Regional White Matter Microstructure",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Thea Wiker", "Linn B. Norbom", "Dani Beck", "Christian K Tamnes"],
+        "abstract": ["Background: \nIncreased intraindividual variability (IIV) in reaction times (RT) has been suggested as a key cognitive and behavioral marker of attention problems, but findings for other dimensions of psychopathology are less consistent. Moreover, while studies have linked IIV to brain white matter microstructure, large studies testing the robustnes..."]
+      },
+      {
+        "title": "The genetic architecture of human cerebellar morphology supports a key role for the cerebellum in recent human evolution and psychopathology",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Torgeir Moberget", "Dennis van der Meer", "Shahram Bahrami", "Lars T Westlye"],
+        "abstract": ["The functional domain of the cerebellum has expanded beyond motor control to also include cognitive and affective functions. In line with this notion, cerebellar volume has increased over recent primate evolution, and cerebellar alterations have been linked to heritable mental disorders. To map the genetic architecture of human cerebellar morpholog..."]
+      },
+      {
+        "title": "Reaction time variability in children is specifically associated with attention problems and regional white matter microstructure",
+        "tags": ["Preprint"],
+        "date": "Nov 2022",
+        "authors": ["Thea Wiker", "Linn B. Norbom", "Dani Beck", "Christian K Tamnes"],
+        "abstract": ["Background: Increased intraindividual variability (IIV) in reaction times (RT) has been suggested as a key cognitive and behavioral marker of attention problems, but whether this also applies to other dimensions of psychopathology is unknown. Moreover, while studies have linked IIV to brain white matter microstructure, large studies testing the rob..."]
+      },
+      {
+        "title": "P403. Mapping Normative Trajectories of Cognitive Function and its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnaes", "Lars Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Long-Term Potentiation-Like Visual Synaptic Plasticity Is Negatively Associated With Self-Reported Symptoms of Depression and Stress in Healthy Adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Trine Waage Rygvold", "Christoffer Hatlestad-Hall", "Torbjørn Elvsåshagen", "Stein Andersson"],
+        "abstract": ["Long-term potentiation (LTP) is one of the most extensively studied forms of neuroplasticity and is considered the strongest candidate mechanism for memory and learning. The use of event-related potentials and sensory stimulation paradigms has allowed for the translation from animal studies to non-invasive studies of LTP-like synaptic plasticity in..."]
+      },
+      {
+        "title": "Mapping Normative Trajectories of Cognitive Function and Its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["Background\nAdolescence hosts a sharp increase in the incidence of mental disorders. The prodromal phases are often characterized by cognitive deficits which predate disease onset by several years. Characterization of cognitive performance in relation to normative trajectories may have value for early risk assessment and monitoring.\n\nMethods\nYouth a..."]
+      },
+      {
+        "title": "Effects of copy number variations on brain structure and risk for psychiatric illness: Large-scale studies from the ENIGMA working groups on CNVs",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Ida E Sønderby", "CRK Ching", "SI Thomopoulos", "ENIGMA Deletion Syndrome Working Group"],
+        "abstract": ["The Enhancing NeuroImaging Genetics through Meta-Analysis copy number variant (ENIGMA-CNV) and 22q11.2 Deletion Syndrome Working Groups (22q-ENIGMA WGs) were created to gain insight into the involvement of genetic factors in human brain development and related cognitive, psychiatric and behavioral manifestations. To that end, the ENIGMA-CNV WG has..."]
+      },
+      {
+        "title": "Mapping normative trajectories of cognitive function and its relation to psychopathology symptoms and genetic risk in youth",
+        "tags": ["Preprint"],
+        "date": "Oct 2021",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["Background. Adolescence hosts a sharp increase in the incidence of mental disorders. The prodromal phases are often characterized by cognitive deficits which predate disease onset by several years. Characterization of cognitive performance in relation to normative trajectories may have value for early risk assessment and monitoring. Methods. Youth..."]
+      },
+      {
+        "title": "Relationship Between the Visual Evoked Potential and Structure in the Primary Visual Cortex in Healthy Individuals and in Patients with Severe Mental Disorders",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Nora Slapø", "Kjetil Jørgensen", "Torbjørn Elvsåshagen", "Erik G Jönsson"],
+        "abstract": ["Schizophrenia (SCZ) spectrum and bipolar disorder (BD) are severe mental disorders with unknown pathophysiology. Altered visual evoked potential (VEP), an electroencephalogram signal reflecting function in the primary visual cortex (V1), abnormal visual processing and visual hallucinations reported in these patients, all point towards V1 dysfunctio..."]
+      },
+      {
+        "title": "Genetic control of variability in subcortical and intracranial volumes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Aldo Córdova-Palomera", "Dennis van der Meer", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["Sensitivity to external demands is essential for adaptation to dynamic environments, but comes at the cost of increased risk of adverse outcomes when facing poor environmental conditions. Here, we apply a novel methodology to perform genome-wide association analysis of mean and variance in ten key brain features (accumbens, amygdala, caudate, hippo..."]
+      },
+      {
+        "title": "Large‐scale collaboration in ENIGMA‐EEG: A perspective on the meta‐analytic approach to link neurological and psychiatric liability genes to electrophysiological brain activity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Dirk Smit", "Ole A Andreasssen", "Dorret I Boomsma", "Margaret J Wright"],
+        "abstract": ["Background and purpose\nThe ENIGMA‐EEG working group was established to enable large‐scale international collaborations among cohorts that investigate the genetics of brain function measured with electroencephalography (EEG). In this perspective, we will discuss why analyzing the genetics of functional brain activity may be crucial for understanding..."]
+      },
+      {
+        "title": "A history of previous childbirths is linked to women's white matter brain age in midlife and older age",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Irene Voldsbekk", "Claudia Barth", "Ivan I. Maximov", "Ann-Marie G de Lange"],
+        "abstract": ["Maternal brain adaptations occur in response to pregnancy, but little is known about how parity impacts white matter and white matter ageing trajectories later in life. Utilising global and regional brain age prediction based on multi‐shell diffusion‐weighted imaging data, we investigated the association between previous childbirths and white matte..."]
+      },
+      {
+        "title": "Population-based body–brain mapping links brain morphology with anthropometrics and body composition",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Tiril P. Gurholt", "Tobias Kaufmann", "Oleksandr Frei", "Ole A Andreasssen"],
+        "abstract": ["Understanding complex body–brain processes and the interplay between adipose tissue and brain health is important for understanding comorbidity between psychiatric and cardiometabolic disorders. We investigated associations between brain structure and anthropometric and body composition measures using brain magnetic resonance imaging (MRI; n = 24,7..."]
+      },
+      {
+        "title": "Evidence for Reduced Long-Term Potentiation-Like Visual Cortical Plasticity in Schizophrenia and Bipolar Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Mathias Valstad", "Daniël Roelfs", "Nora Slapø", "Torbjørn Elvsåshagen"],
+        "abstract": ["Several lines of research suggest that impairments in long-term potentiation (LTP)-like synaptic plasticity might be a key pathophysiological mechanism in schizophrenia (SZ) and bipolar disorder type I (BDI) and II (BDII). Using modulations of visually evoked potentials (VEP) of the electroencephalogram, impaired LTP-like visual cortical plasticity..."]
+      },
+      {
+        "title": "1q21.1 distal copy number variants are associated with cerebral and cognitive alterations in humans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Ida E Sønderby", "Dennis van der Meer", "Clara A. Moreau", "Ole A. Andreassen"],
+        "abstract": ["Low-frequency 1q21.1 distal deletion and duplication copy number variant (CNV) carriers are predisposed to multiple neurodevelopmental disorders, including schizophrenia, autism and intellectual disability. Human carriers display a high prevalence of micro- and macrocephaly in deletion and duplication carriers, respectively. The underlying brain st..."]
+      },
+      {
+        "title": "Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Thomas Wolfers", "Jaroslav Rokicki", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["Identifying brain processes involved in the risk and development of mental disorders is a major aim. We recently reported substantial interindividual heterogeneity in brain structural aberrations among patients with schizophrenia and bipolar disorder. Estimating the normative range of voxel-based morphometry (VBM) data among healthy individuals usi..."]
+      },
+      {
+        "title": "Effects of copy number variations on brain structure and risk for psychiatric illness: Large‐scale studies from the ENIGMA working groups on CNVs",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Ida E Sønderby", "Christopher R. K. Ching", "Sophia I. Thomopoulos", "Ole A. Andreassen"],
+        "abstract": ["The Enhancing NeuroImaging Genetics through Meta‐Analysis copy number variant (ENIGMA‐CNV) and 22q11.2 Deletion Syndrome Working Groups (22q‐ENIGMA WGs) were created to gain insight into the involvement of genetic factors in human brain development and related cognitive, psychiatric and behavioral manifestations. To that end, the ENIGMA‐CNV WG has..."]
+      },
+      {
+        "title": "1q21.1 distal copy number variants are associated with cerebral and cognitive alterations in humans",
+        "tags": ["Preprint"],
+        "date": "Jan 2021",
+        "authors": ["Ida E Sønderby", "Dennis van der Meer", "Clara A. Moreau", "for the p. European Consortium"],
+        "abstract": ["Low-frequency 1q21.1 distal deletion and duplication copy number variant (CNV) carriers are predisposed to multiple neurodevelopmental disorders including schizophrenia, autism and intellectual disability. Human carriers display a high prevalence of micro- and macrocephaly in deletion and duplication carriers, respectively. The underlying brain str..."]
+      },
+      {
+        "title": "Effects of copy number variations on brain structure and risk for psychiatric illness: Large-scale studies from the ENIGMA Working Groups on CNVs",
+        "tags": ["Preprint"],
+        "date": "Jan 2021",
+        "authors": ["Ida E Sønderby", "Christopher RK Ching", "Sophia I Thomopoulos", "Ole A Andreasssen"],
+        "abstract": ["The Enhancing Neuroimaging Genetics through Meta-Analysis copy number variant (ENIGMA-CNV) and 22q11.2 Deletion Syndrome Working Groups (22q-ENIGMA WGs) were created to gain insight into the involvement of genetic factors in human brain development and related cognitive, psychiatric and behavioral manifestations. To that end, the ENIGMA-CNV WG has..."]
+      },
+      {
+        "title": "Exploring neurophysiological markers of visual perspective taking: Methodological considerations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Linn Sofie Sæther", "Daniel Roelfs", "Torgeir Moberget", "Anja Vaskinn"],
+        "abstract": ["Rationale\nFor visual perspective taking (VPT) using the avatar task, examinations of neural processes using event related potentials (ERP) indicate a distinction between an early posterior perspective calculation process (P3) and a later frontal process (LFSW) managing perspective conflict. While it is unknown if these neural processes are affected..."]
+      },
+      {
+        "title": "Women with a history of previous childbirths show less evident white matter brain ageing",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Irene Voldsbekk", "Claudia Barth", "Ivan I. Maximov", "Ann-Marie G de Lange"],
+        "abstract": ["Maternal brain adaptations occur in response to pregnancy, but little is known about how parity impacts white matter (WM) microstructure and WM ageing trajectories later in life. Utilising global and regional brain-age prediction based on multi-shell diffusion MRI data, we investigated the association between previous childbirths and WM brain age i..."]
+      },
+      {
+        "title": "Brain scans from 21,297 individuals reveal the genetic architecture of hippocampal subfield volumes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Dennis van der Meer", "Jaroslav Rokicki", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["The hippocampus is a heterogeneous structure, comprising histologically distinguishable subfields. These subfields are differentially involved in memory consolidation, spatial navigation and pattern separation, complex functions often impaired in individuals with brain disorders characterized by reduced hippocampal volume, including Alzheimer’s dis..."]
+      },
+      {
+        "title": "Heart rate variability is associated with disease severity in psychosis spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Beatrice R Benjamin", "Mathias Valstad", "Torbjørn Elvsåshagen", "Daniel Quintana"],
+        "abstract": ["While a growing literature links cardiac autonomic dysregulation to a variety of psychiatric disorders, the relationship between cardiac autonomic functioning and specific symptoms in schizophrenia (SZ) and bipolar disorder (BD) remains elusive. Thus, we investigated heart rate variability (HRV), a proxy for vagal activity, as a biological marker f..."]
+      },
+      {
+        "title": "Do visual and auditory stimulus-specific response modulation reflect different mechanisms of neocortical plasticity?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Trine Waage Rygvold", "Christoffer Hatlestad-Hall", "Torbjørn Elvsåshagen", "Stein Andersson"],
+        "abstract": ["Stimulus response modulation (SRM) of sensory evoked potentials represents a promising method as a non-invasive index of LTP-like synaptic plasticity in the human sensory cortices. As of today however, no consensus exists regarding which experimental parameters elicit the most robust SRM response. The aim of the current study was twofold; firstly,..."]
+      },
+      {
+        "title": "The genetic architecture of human brainstem structures and their involvement in common brain disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Torbjørn Elvsåshagen", "Shahram Bahrami", "Dennis van der Meer", "Tobias Kaufmann"],
+        "abstract": ["Brainstem regions support vital bodily functions, yet their genetic architectures and involvement in common brain disorders remain understudied. Here, using imaging-genetics data from a discovery sample of 27,034 individuals, we identify 45 brainstem-associated genetic loci, including the first linked to midbrain, pons, and medulla oblongata volume..."]
+      },
+      {
+        "title": "Experience-dependent modulation of the visual evoked potential: Testing effect sizes, retention over time, and associations with age in 415 healthy individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Mathias Valstad", "Torgeir Moberget", "Daniël Roelfs", "Torbjørn Elvsåshagen"],
+        "abstract": ["Experience-dependent modulation of the visual evoked potential (VEP) is a promising proxy measure of synaptic plasticity in the cerebral cortex. However, existing studies are limited by small to moderate sample sizes as well as by considerable variability in how VEP modulation is quantified. In the present study, we used a large sample (n=415) of h..."]
+      },
+      {
+        "title": "Testing relationships between multimodal modes of brain structural variation and age, sex and polygenic scores for neuroticism in children and adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Linn B. Norbom", "Jaroslav Rokicki", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": ["Human brain development involves spatially and temporally heterogeneous changes, detectable across a wide range of magnetic resonance imaging (MRI) measures. Investigating the interplay between multimodal MRI and polygenic scores (PGS) for personality traits associated with mental disorders in youth may provide new knowledge about typical and atypi..."]
+      },
+      {
+        "title": "Brain Age Prediction Reveals Aberrant Brain White Matter in Schizophrenia and Bipolar Disorder: A Multisample Diffusion Tensor Imaging Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Siren Tønnesen", "Tobias Kaufmann", "Ann-Marie G de Lange", "Lars T. Westlye"],
+        "abstract": ["Background\nSchizophrenia (SZ) and bipolar disorders (BD) share substantial neurodevelopmental components affecting brain maturation and architecture. This necessitates a dynamic lifespan perspective in which brain aberrations are inferred from deviations from expected lifespan trajectories. We applied machine learning to diffusion tensor imaging (D..."]
+      },
+      {
+        "title": "Evidence for reduced long-term potentiation-like visual cortical plasticity in schizophrenia and bipolar disorder",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Mathias Valstad", "Daniel Roelfs", "Nora Slapø", "Torbjørn Elvsåshagen"],
+        "abstract": ["Background\nSeveral lines of research suggest that impairments in long-term potentiation (LTP)-like synaptic plasticity might be a key pathophysiological mechanism in schizophrenia (SZ) and bipolar disorder type I (BDI) and II (BDII). Using modulations of visually evoked potentials (VEP) of the electroencephalogram, impaired LTP-like visual cortical..."]
+      },
+      {
+        "title": "Extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Thomas Wolfers", "Jaroslav Rokicki", "Dag Alnaes", "Lars T Westlye"],
+        "abstract": ["Identifying brain processes involved in the risk and development of mental disorders is a major aim. We recently reported substantial inter-individual heterogeneity in brain structural aberrations among patients with schizophrenia and bipolar disorder. Estimating the normative range of voxel-based morphometry (VBM) data among healthy individuals us..."]
+      },
+      {
+        "title": "Predicting Brain Function From Brain Structure: Associations Between the Amplitude of the Visual Evoked Potential and the Surface Area of the Primary Visual Cortex in Healthy Controls and Patients With Psychotic Disorders",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Nora Slapø", "Kjetil Nordbø Jørgensen", "Torbjørn Elvsåshagen", "Torgeir Moberget"],
+        "abstract": []
+      },
+      {
+        "title": "Cortical Excitability and the 1/f Slope in Schizophrenia and Bipolar Disorders",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Clara MF. Timpe", "Nina Lode", "Daniël Roelfs", "Torbjørn Elvsåshagen"],
+        "abstract": []
+      },
+      {
+        "title": "Reduced heart rate variability is associated with disease severity in psychosis spectrum disorders",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Beatrice R. Benjamin", "Mathias Valstad", "Torbjørn Elvsåshagen", "Daniel Quintana"],
+        "abstract": ["While a growing literature links cardiac autonomic dysregulation to a variety of psychiatric disorders, the relationship between cardiac autonomic functioning and specific symptoms in schizophrenia (SZ) and bipolar disorder (BD) remains elusive. Thus, we investigated heart rate variability (HRV), a proxy for vagal activity, as a biological marker f..."]
+      },
+      {
+        "title": "Population-based body-brain mapping links brain morphology and body composition",
+        "tags": ["Preprint"],
+        "date": "Mar 2020",
+        "authors": ["Tiril P Gurholt", "Tobias Kaufmann", "Oleksandr Frei", "Ole A Andreasssen"],
+        "abstract": ["Background: Understanding complex body-brain processes, and putative interplay between adipose tissue and brain health, is of vital importance for brain and somatic disease prevention in the general population. We studied the link between body composition and brain structure through large-scale investigation in a healthy population without secondar..."]
+      },
+      {
+        "title": "Publisher Correction: Common brain disorders are associated with heritable patterns of apparent aging of the brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Tobias Kaufmann", "Dennis van der Meer", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["An amendment to this paper has been published and can be accessed via a link at the top of the paper."]
+      },
+      {
+        "title": "Experience-dependent modulation of the visual evoked potential: testing effect sizes, retention over time, and associations with age in 415 healthy individuals",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Mathias Valstad", "Torgeir Moberget", "Daniël Roelfs", "Torbjørn Elvsåshagen"],
+        "abstract": ["Experience-dependent modulation of the visual evoked potential (VEP) is a promising proxy measure of synaptic plasticity in the cerebral cortex. However, existing studies are limited by small to moderate sample sizes as well as by considerable variability in how VEP modulation is quantified. In the present study, we used a large sample (n = 415) of..."]
+      },
+      {
+        "title": "Testing relationships between multimodal modes of brain structural variation and age, sex and polygenic scores for neuroticism in children and adolescents",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Linn B. Norbom", "Jaroslav Rokicki", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": ["Human brain development involves spatially and temporally heterogeneous changes, detectable across a wide range of magnetic resonance imaging (MRI) measures. Investigating the interplay between multimodal MRI and polygenic scores (PGS) for personality traits associated with mental disorders in youth may provide new knowledge about typical and atypi..."]
+      },
+      {
+        "title": "Association of Copy Number Variation of the 15q11.2 BP1-BP2 Region With Cortical and Subcortical Morphology and Cognition",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Dennis van der Meer", "Ida E Sønderby", "Tobias Kaufmann", "Ole A. Andreassen"],
+        "abstract": ["Importance\nRecurrent microdeletions and duplications in the genomic region 15q11.2 between breakpoints 1 (BP1) and 2 (BP2) are associated with neurodevelopmental disorders. These structural variants are present in 0.5% to 1.0% of the population, making 15q11.2 BP1-BP2 the site of the most prevalent known pathogenic copy number variation (CNV). It i..."]
+      },
+      {
+        "title": "The genetic architecture of human brainstem structures and their involvement in common brain disorders",
+        "tags": ["Preprint"],
+        "date": "Oct 2019",
+        "authors": ["Torbjørn Elvsåshagen", "Shahram Bahrami", "Dennis van der Meer", "Tobias Kaufmann"],
+        "abstract": ["Brainstem regions support critical bodily functions, yet their genetic architectures and involvement in brain disorders remain understudied. Here, we examined volumes of brainstem structures using magnetic resonance imaging in 43,353 individuals. In 27,034 genotyped healthy participants, we identified 16 genetic loci associated with whole brainstem..."]
+      },
+      {
+        "title": "Population-based neuroimaging reveals traces of childbirth in the maternal brain",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Ann-Marie G de Lange", "Tobias Kaufmann", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Significance\nPregnancy is one of the most dynamic periods in a woman’s life, involving a remarkable potential for brain plasticity that promotes cognitive and emotional adjustments to the newborn. We provide evidence for a relationship between number of childbirths and brain aging in 12,021 middle-aged women, suggesting that potential parity-relate..."]
+      },
+      {
+        "title": "Common brain disorders are associated with heritable patterns of apparent aging of the brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Tobias Kaufmann", "Dennis van der Meer", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["Common risk factors for psychiatric and other brain disorders are likely to converge on biological pathways influencing the development and maintenance of brain structure and function across life. Using structural MRI data from 45,615 individuals aged 3–96 years, we demonstrate distinct patterns of apparent brain aging in several brain disorders an..."]
+      },
+      {
+        "title": "Biophysical Psychiatry—How Computational Neuroscience Can Help to Understand the Complex Mechanisms of Mental Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Tuomo Mäki-Marttunen", "Tobias Kaufmann", "Torbjørn Elvsåshagen", "Ole A Andreasssen"],
+        "abstract": ["The brain is the most complex of human organs, and the pathophysiology underlying abnormal brain function in psychiatric disorders is largely unknown. Despite the rapid development of diagnostic tools and treatments in most areas of medicine, our understanding of mental disorders and their treatment has made limited progress during the last decades..."]
+      },
+      {
+        "title": "Cerebellar Gray Matter Volume Is Associated With Cognitive Function and Psychopathology in Adolescence",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Torgeir Moberget", "Dag Alnæs", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["Background: \nAccumulating evidence supports cerebellar involvement in mental disorders, such as schizophrenia, bipolar disorder, depression, anxiety disorders, and attention-deficit/hyperactivity disorder. However, little is known about the cerebellum in developmental stages of these disorders. In particular, whether cerebellar morphology is associ..."]
+      },
+      {
+        "title": "Population-based neuroimaging reveals traces of childbirth in the maternal brain",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Ann-Marie G de Lange", "Tobias Kaufmann", "Dennis van der Meer", "Lars T Westlye"],
+        "abstract": ["Pregnancy and childbirth involve maternal brain adaptations that promote attachment to and protection of the newborn. Using brain imaging and machine learning, we provide evidence for a positive relationship between number of childbirths and a 'younger-looking' brain in 12,021 women, which could not be explained by common genetic variation. The fin..."]
+      },
+      {
+        "title": "Brain age prediction reveals aberrant brain white matter in schizophrenia and bipolar disorder: A multi-sample diffusion tensor imaging study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Siren Tønnesen", "Tobias Kaufmann", "Genevieve Richard", "Lars T. Westlye"],
+        "abstract": ["Background: Schizophrenia (SZ) and bipolar disorders (BD) share substantial neurodevelopmental components affecting brain maturation and architecture. This necessitates a dynamic lifespan perspective in which brain aberrations are inferred from deviations from expected lifespan trajectories. We applied machine learning to diffusion tensor imaging (..."]
+      },
+      {
+        "title": "Brain Heterogeneity in Schizophrenia and Its Association With Polygenic Risk",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Dag Alnæs", "Tobias Kaufmann", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Importance\nBetween-individual variability in brain structure is determined by gene-environment interactions, possibly reflecting differential sensitivity to environmental and genetic perturbations. Magnetic resonance imaging (MRI) studies have revealed thinner cortices and smaller subcortical volumes in patients with schizophrenia. However, group-l..."]
+      },
+      {
+        "title": "Supplementary Data",
+        "tags": ["Data"],
+        "date": "Feb 2019",
+        "authors": ["Tuomo Mäki-Marttunen", "Florian Krull", "Francesco Bettella", "Gaute T Einevoll"],
+        "abstract": []
+      },
+      {
+        "title": "Reproducible grey matter patterns index a multivariate, global alteration of brain structure in schizophrenia and bipolar disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Emanuel Schwarz", "Nhat Trung Doan", "Giulio Pergola", "Andreas Meyer-Lindenberg"],
+        "abstract": ["Schizophrenia is a severe mental disorder characterized by numerous subtle changes in brain structure and function. Machine learning allows exploring the utility of combining structural and functional brain magnetic resonance imaging (MRI) measures for diagnostic application, but this approach has been hampered by sample size limitations and lack o..."]
+      },
+      {
+        "title": "Supplementary Material 1",
+        "tags": ["Data"],
+        "date": "Jan 2019",
+        "authors": ["Emanuel Schwarz", "Nhat Trung Doan", "Giulio Pergola", "Andreas Meyer-Lindenberg"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Jan 2019",
+        "authors": ["Emanuel Schwarz", "Nhat Trung Doan", "Giulio Pergola", "Andreas Meyer-Lindenberg"],
+        "abstract": []
+      },
+      {
+        "title": "SA87BRAIN SCANS FROM 21,297 INDIVIDUALS REVEAL THE GENETIC ARCHITECTURE OF HIPPOCAMPAL SUBFIELD VOLUMES",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Dennis van der Meer", "Jaroslav Rokicki", "Tobias Kaufmann", "Lars Tjelta Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Patterns of altered regional brain glucose metabolism in borderline personality disorder and bipolar II disorder",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Erlend Bøen", "Trine Hjørnevik", "Benjamin Hummelen", "Ulrik F Malt"],
+        "abstract": ["Objective\nThe relationship between borderline personality disorder (BPD) and bipolar II disorder (BIP‐II) is disputed but understudied. Here, we investigated brain glucose metabolism in these patient groups and healthy control subjects (HCs).\n\nMethods\nSixty‐five subjects, 22 BPD (19 females); 22 BIP‐II (17 females); 21 HC (14 females) were examined..."]
+      },
+      {
+        "title": "Alterations in Schizophrenia-Associated Genes Can Lead to Increased Power in Delta Oscillations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Tuomo Mäki-Marttunen", "Florian Krull", "Francesco Bettella", "Gaute T Einevoll"],
+        "abstract": ["Genome-wide association studies have implicated many ion channels in schizophrenia pathophysiology. Although the functions of these channels are relatively well characterized by single-cell studies, the contributions of common variation in these channels to neurophysiological biomarkers and symptoms of schizophrenia remain elusive. Here, using comp..."]
+      },
+      {
+        "title": "Genetic control of variability in subcortical and intracranial volumes",
+        "tags": ["Preprint"],
+        "date": "Oct 2018",
+        "authors": ["Aldo Cordova-Palomera", "Dennis van der Meer", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["Sensitivity to external demands is essential for adaptation to dynamic environments, but comes at the cost of increased risk of adverse outcomes when facing poor environmental conditions. Here, we apply a novel methodology to perform genome-wide association analysis of mean and variance in nine key brain features (accumbens, amygdala, caudate, hipp..."]
+      },
+      {
+        "title": "Mapping the Heterogeneous Phenotype of Schizophrenia and Bipolar Disorder Using Normative Models",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Thomas Wolfers", "Nhat Trung Doan", "Tobias Kaufmann", "Andre F Marquand"],
+        "abstract": ["Importance\nSchizophrenia and bipolar disorder are severe and complex brain disorders characterized by substantial clinical and biological heterogeneity. However, case-control studies often ignore such heterogeneity through their focus on the average patient, which may be the core reason for a lack of robust biomarkers indicative of an individual’s..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Dennis van der Meer", "Jaroslav Rokicki", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Probing Brain Developmental Patterns of Myelination and Associations With Psychopathology in Youths UsingGray/White Matter Contrast",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Linn B. Norbom", "Nhat Trung Doan", "Dag Alnæs", "Christian K. Tamnes"],
+        "abstract": ["Background: \nCerebral myeloarchitecture shows substantial development across childhood and adolescence, and aberrations in these trajectories are relevant for a range of mental disorders. Differential myelination between intracortical and subjacent white matter can be approximated using signal intensities in T1-weighted magnetic resonance imaging...."]
+      },
+      {
+        "title": "White matter aberrations and age-related trajectories in patients with schizophrenia and bipolar disorder revealed by diffusion tensor imaging",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Siren Tønnesen", "Tobias Kaufmann", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["Supported by histological and genetic evidence implicating myelin, neuroinflammation and oligodendrocyte dysfunction in schizophrenia spectrum disorders (SZ), diffusion tensor imaging (DTI) studies have consistently shown white matter (WM) abnormalities when compared to healthy controls (HC). The diagnostic specificity remains unclear, with bipolar..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Sep 2018",
+        "authors": ["Siren Tønnesen", "Tobias Kaufmann", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Probing brain developmental patterns of myelination and associations with psychopathology in youth using gray/white matter contrast",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Linn B. Norbom", "Nhat Trung Doan", "Dag Alnæs", "Christian K Tamnes"],
+        "abstract": ["Background\nCerebral myeloarchitecture shows substantial development across childhood and adolescence, and aberrations in these trajectories are relevant for a range of mental disorders. Differential myelination between intracortical and subjacent white matter can be approximated using signal intensities in T1-weighted magnetic resonance images (MRI..."]
+      },
+      {
+        "title": "The dark side of the mean: brain structural heterogeneity in schizophrenia and its polygenic risk",
+        "tags": ["Preprint"],
+        "date": "Sep 2018",
+        "authors": ["Dag Alnaes", "Tobias Kaufmann", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Importance: Between-subject variability in brain structure is determined by gene-environment interactions, possibly reflecting differential sensitivity to environmental and genetic perturbations. Magnetic resonance imaging (MRI) studies have revealed thinner cortices and smaller subcortical volumes in patients. However, such group-level comparisons..."]
+      },
+      {
+        "title": "White matter aberrations and age-related trajectories in patients with schizophrenia and bipolar disorder revealed by diffusion tensor imaging",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Siren Tønnesen", "Tobias Kaufmann", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["Supported by histological and genetic evidence implicating myelin, neuroinflammation and oligodendrocyte dysfunction in schizophrenia spectrum disorders (SZ), diffusion tensor imaging (DTI) studies have consistently shown white matter (WM) abnormalities when compared to healthy controls (HC). The diagnostic specificity remains unclear, with bipolar..."]
+      },
+      {
+        "title": "Key Brain Network Nodes Show Differential Cognitive Relevance and Developmental Trajectories during Childhood and Adolescence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Knut K. Kolskår", "Dag Alnæs", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["Human adolescence is a period of rapid changes in cognition and goal-directed behavior, and it constitutes a major transitional phase towards adulthood. One of the mechanisms suggested to underlie the protracted maturation of functional brain networks, is the increased network integration and segregation enhancing neural efficiency. Importantly, th..."]
+      },
+      {
+        "title": "Longitudinal and cross-sectional investigations of long-term potentiation-like cortical plasticity in bipolar disorder type II and healthy individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": ["Visual evoked potential (VEP) plasticity is a promising assay for noninvasive examination of long-term potentiation (LTP)-like synaptic processes in the cerebral cortex. We conducted longitudinal and cross-sectional investigations of VEP plasticity in controls and individuals with bipolar disorder (BD) type II. VEP plasticity was assessed at baseli..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": []
+      },
+      {
+        "title": "S193. Brain Variability in Schizophrenia Spectrum Disorder",
+        "tags": ["Poster"],
+        "date": "May 2018",
+        "authors": ["Dag Alnaes", "Tobias Kaufmann", "Aldo Córdova Palomera", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "T227. Using Gene Expression Maps to Contrast Different Brain Disorders and Traits",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Jaroslav Rokicki", "Dennis van der Meer", "Daniel Quintana", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "F50. Genetic Architecture of Hippocampal Subfield Volumes: Shared and Specific Influences",
+        "tags": ["Poster"],
+        "date": "May 2018",
+        "authors": ["Dennis van der Meer", "Tobias Kaufmann", "Aldo Córdova-Palomera", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "T161. Long-Term Potentiation-Like Visual Evoked Potential Plasticity in a Large Sample of Healthy Volunteers: Effect Sizes and Response Rates",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Mathias Valstad", "Torgeir Moberget", "Lars T. Westlye", "Torbjørn Elvsåshagen"],
+        "abstract": []
+      },
+      {
+        "title": "O8. Regional Cerebellar Volumes and Cerebello-Cerebral Structural Covariance in Adolescents With Early-Onset Psychosis: A Multisample Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Cecilie H. Johannessen", "Tiril P. Gurholt", "Stener Nerland", "Ingrid Agartz"],
+        "abstract": []
+      },
+      {
+        "title": "Effects of autozygosity and schizophrenia polygenic risk on cognitive and brain developmental trajectories",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Aldo Córdova-Palomera", "Tobias Kaufmann", "Francesco Bettella", "Lars T. Westlye"],
+        "abstract": ["Cognitive and brain development are determined by dynamic interactions between genes and environment across the lifespan. Aside from marker-by-marker analyses of polymorphisms, biologically meaningful features of the whole genome (derived from the combined effect of individual markers) have been postulated to inform on human phenotypes including co..."]
+      },
+      {
+        "title": "Genetics of brain age suggest an overlap with common brain disorders",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Tobias Kaufmann", "Dennis van der Meer", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["Numerous genetic and environmental factors contribute to psychiatric disorders and other brain disorders. Common risk factors likely converge on biological pathways regulating the optimization of brain structure and function across the lifespan. Here, using structural magnetic resonance imaging and machine learning, we estimated the gap between bra..."]
+      },
+      {
+        "title": "Brain scans from 21297 individuals reveal the genetic architecture of hippocampal subfield volumes",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Dennis van der Meer", "Jaroslav Rokicki", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["The hippocampus is a heterogeneous structure, comprising histologically distinguishable subfields. These subfields are differentially involved in memory consolidation, spatial navigation and pattern separation, complex functions often impaired in individuals with brain disorders characterized by reduced hippocampal volume, including Alzheimer’s dis..."]
+      },
+      {
+        "title": "Effects of autozygosity and schizophrenia polygenic risk on cognitive and brain developmental trajectories",
+        "tags": ["Preprint"],
+        "date": "Apr 2018",
+        "authors": ["Aldo Cordova-Palomera", "Tobias Kaufmann", "Francesco Bettella", "Lars T. Westlye"],
+        "abstract": ["Cognitive and brain development are determined by dynamic interactions between genes and environment across the lifespan. Aside from marker-by-marker analyses of polymorphisms, biologically meaningful features of the whole-genome (derived from the combined effect of individual markers) have been postulated to inform on human phenotypes including co..."]
+      },
+      {
+        "title": "Cerebellar grey matter volume in adolescence is associated with prodromal psychotic symptoms and norm-violating behavior",
+        "tags": ["Preprint"],
+        "date": "Mar 2018",
+        "authors": ["Torgeir Moberget", "Dag Alnæs", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["Background Accumulating evidence supports cerebellar involvement in mental disorders such as schizophrenia, bipolar disorder, depression, anxiety disorders and attention-deficit hyperactivity disorder. However, little is known about the cerebellum in developmental stages of these disorders. In particular, whether cerebellar morphology is associated..."]
+      },
+      {
+        "title": "Association of Heritable Cognitive Ability and Psychopathology With White Matter Properties in Children and Adolescents",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["Dag Alnæs", "Tobias Kaufmann", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["Importance\nMany mental disorders emerge during adolescence, which may reflect a cost of the potential for brain plasticity offered during this period. Brain dysconnectivity has been proposed as a common factor across diagnostic categories.\n\nObjective\nTo investigate the hypothesis that brain dysconnectivity is a transdiagnostic phenotype in adolesce..."]
+      },
+      {
+        "title": "Heritable cognitive and psychopathology factors in youth are predicted by brain fronto-temporal white matter pathway",
+        "tags": ["Preprint"],
+        "date": "Aug 2017",
+        "authors": ["Dag Alnæs", "Tobias Kaufmann", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["A healthy transition from adolescence to adulthood relies on a continuous individual adaptation to a dynamic environment. Here, we employed data driven multivariate approaches to derive both general cognitive and psychopathology factors as well as brain phenotypes in children and adolescents in the publicly available PNC sample. We identified a dis..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Nhat Trung Doan", "Tobias Kaufmann", "Francesco Bettella", "Lars T. Westlye"],
+        "abstract": ["Supplementary data"]
+      },
+      {
+        "title": "Distinct multivariate brain morphological patterns and their added predictive value with cognitive and polygenic risk scores in mental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Nhat Trung Doan", "Tobias Kaufmann", "Francesco Bettella", "Lars T. Westlye"],
+        "abstract": ["The brain underpinnings of schizophrenia and bipolar disorders are multidimensional, reflecting complex pathological processes and causal pathways, requiring multivariate techniques to disentangle. Furthermore, little is known about the complementary clinical value of brain structural phenotypes when combined with data on cognitive performance and..."]
+      },
+      {
+        "title": "Distinguishing early and late brain aging from the Alzheimer's disease spectrum: Consistent morphological patterns across independent samples",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Nhat Trung Doan", "Andreas Engvig", "Krystal Zaske", "Lars T. Westlye"],
+        "abstract": ["Alzheimer's disease (AD) is a debilitating age-related neurodegenerative disorder. Accurate identification of individuals at risk is complicated as AD shares cognitive and brain features with aging. We applied linked independent component analysis (LICA) on three complementary measures of gray matter structure: cortical thickness, area and gray mat..."]
+      },
+      {
+        "title": "Towards a Non-Invasive Test Battery of Brain Plasticity: Visual Evoked Potential, Mismatch Negativity, and Prepulse Inhibition",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Anna Maria Matziorinis", "Torgeir Moberget", "Torbjørn Elvsåshagen"],
+        "abstract": ["Background:Dysfunctional synaptic plasticity is one of the leading candidate mechanisms in schizophrenia(SCZ). Mismatch negativity (MMN), prepulse inhibition (PPI), and plasticity of the visual evoked potential (VEP) are electroencephalographic (EEG) indices of short-and long-term synaptic plasticity which may help clarify the role of synaptic dysf..."]
+      },
+      {
+        "title": "Dissociable Diffusion MRI Patterns of White Matter Microstructure and Connectivity in Alzheimer's Disease Spectrum",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Nhat Trung Doan", "Andreas Engvig", "Karin Persson", "Lars T. Westlye"],
+        "abstract": ["Recent efforts using diffusion tensor imaging (DTI) have documented white matter (WM) alterations in Alzheimer’s disease (AD). The full potential of whole-brain DTI, however, has not been fully exploited as studies have focused on individual microstructural indices independently. In patients with AD (n = 79), mild (MCI, n = 55) and subjective (SCI,..."]
+      },
+      {
+        "title": "Supplementary Information",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Nhat Trung Doan", "Andreas Engvig", "Karin Persson", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Disrupted global metastability and static and dynamic brain connectivity across individuals in the Alzheimer’s disease continuum",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Aldo Córdova-Palomera", "Tobias Kaufmann", "Karin Persson", "Lars T. Westlye"],
+        "abstract": ["As findings on the neuropathological and behavioral components of Alzheimer’s disease (AD) continue to accrue, converging evidence suggests that macroscale brain functional disruptions may mediate their association. Recent developments on theoretical neuroscience indicate that instantaneous patterns of brain connectivity and metastability may be a..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Aldo Córdova-Palomera", "Tobias Kaufmann", "Karin Persson", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "POTENTIAL BRAIN MORPHOLOGY INSTABILITY FEATURES MEDIATING THE ASSOCIATION BETWEEN GENOME-WIDE HOMOZYGOSITY AND ALTERED NEUROCOGNITION",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Aldo Córdova-Palomera", "Francesco Bettella", "Yunpeng Wang", "Lars Tjelta Westlye"],
+        "abstract": ["Background\nIncreased homozygosity has been shown to reduce fitness and predispose for a number of diseases. Across different species and traits, this broad phenomenon has often been explained by developmental instability in homozygotes, which leads to morphopathological alterations such as asymmetry and ultimately to physiological impairments. Of n..."]
+      },
+      {
+        "title": "Assessing Genetic Control Over Brain Morphology Variance In Psychosis: A Genome-Wide Variance-Controling Qtl (Vqtl) Neuroimaging Study",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Aldo Córdova-Palomera", "Francesco Bettella", "Yunpeng Wang", "Lars Tjelta Westlye"],
+        "abstract": ["Background\nMost imaging genetic studies on psychosis have relied upon conventional quantitative trait locus (QTL) analysis, which examines whether distinct allelic variants in a DNA locus are associated with the mean difference in the quantitative measure of a phenotypic trait, e.g. mean brain volumes.\nHowever, alternative genotypes can also modera..."]
+      },
+      {
+        "title": "Behavior Rating Inventory of Executive Function Adult Version in Patients with Neurological and Neuropsychiatric Conditions: Symptom Levels and Relationship to Emotional Distress",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Marianne Løvstad", "Solrun Sigurdardottir", "Stein Andersson", "Anne‐Kristin Solbakk"],
+        "abstract": ["Objectives: \nThe present study explored the level of self-and informant reported executive functioning in daily living using the Behavior Rating Inventory of Executive Function-Adult Version (BRIEF-A) in a large sample comprising healthy adults and patient cohorts with neurological and neuropsychiatric disorders. The relationship to neuropsychologi..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [109],
+    "reads": [16459],
+    "citations": [3216]
   }
 }

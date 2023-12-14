@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Jan-Ole Hesselberg",
-    "id": "RsSkMoIAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Jan-Ole Hesselberg"],
+    "id": ["RsSkMoIAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -78,8 +78,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-5183-7933",
-    "name": "Jan-Ole Hesselberg",
+    "orcid": ["0000-0001-5183-7933"],
+    "name": ["Jan-Ole Hesselberg"],
     "distinctions": [],
     "education": [
       {
@@ -128,11 +128,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jan Ole Hesselberg",
-    "id": "1180086",
+    "name": ["Jan Ole Hesselberg"],
+    "id": ["1180086"],
     "keywords": ["Judgment and Decision-making", "Peer reviewing"],
     "position": ["Guest"],
-    "img": "https://api.cristin.no/v2/persons/1180086/picture",
+    "img": ["https://api.cristin.no/v2/persons/1180086/picture"],
     "works": [
       {
         "type": "Academic literature review",
@@ -169,5 +169,54 @@
         "url": "https://api.cristin.no/v2/results/1706614"
       }
     ]
+  },
+  "rg": {
+    "id": "Jan-Ole-Hesselberg",
+    "name": "Jan-Ole Hesselberg",
+    "img": "https://i1.rgstatic.net/ii/profile.image/691120199716866-1541787304688_Q128/Jan-Ole-Hesselberg.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Behavioral Psychology", "Judgment and Decision Making", "Heuristics", "Grants Management", "Grant Peer Review", "Research Peer Review", "Research Ethics"],
+    "works": [
+      {
+        "title": "Reviewer training for improving grant and journal peer review",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Jan-Ole Hesselberg", "Therese Kristine Dalsbø", "Hilde Strømme", "Atle Fretheim"],
+        "abstract": []
+      },
+      {
+        "title": "Individual versus general structured feedback to improve agreement in grant peer review: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Jan-Ole Hesselberg", "Knut Inge Fostervold", "Pål Ulleberg", "Ida C Svege"],
+        "abstract": ["Background\nVast sums are distributed based on grant peer review, but studies show that interrater reliability is often low. In this study, we tested the effect of receiving two short individual feedback reports compared to one short general feedback report on the agreement between reviewers.\n\nMethods\nA total of 42 reviewers at the Norwegian Foundat..."]
+      },
+      {
+        "title": "Individual versus general structured feedback to improve agreement in grant peer review: A randomized controlled trial",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Jan-Ole Hesselberg", "Knut Inge Fostervold", "Pål Ulleberg", "Ida C Svege"],
+        "abstract": ["Background\nVast sums are distributed based on grant peer review, but studies show that interrater reliability is often low. In this study, we tested the effect of receiving a short individual feedback report compared to a short general feedback report on the agreement between reviewers.MethodsA total of 42 reviewers at the Norwegian Foundation Dam..."]
+      },
+      {
+        "title": "Reviewer training for improving grant and journal peer review",
+        "tags": ["Article"],
+        "date": "Nov 2020",
+        "authors": ["Jan-Ole Hesselberg", "Therese Kristine Dalsbø", "Hilde Strømme", "Atle Fretheim"],
+        "abstract": []
+      },
+      {
+        "title": "Entirely possible overruns: how people think and talk about probabilistic cost estimates",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Karl Halvor Teigen", "Bjørn Andersen", "Sigurd Lerkerød Alnes", "Jan-Ole Hesselberg"],
+        "abstract": ["Purpose\nThe purpose of this paper is to examine people’s understanding and evaluation of uncertainty intervals produced by experts as part of a quality assurance procedure of large public projects.\n\nDesign/methodology/approach\nThree samples of educated participants (employees in a large construction company, students attending courses in project ma..."]
+      }
+    ],
+    "degree": ["Cand.", "Psychol."],
+    "bio": "Chief Strategy Officer @ ExtraStiftelsen // Programme Manager @ The Kavli Trust Programme on Health Research // Member of The National Committee for Medical and Health Research Ethics (NEM) // Doctoral Research Fellow at the University of Oslo, Department of Psychology // Topic: \"Improving Interrater Reliability in Grant Peer Review\" I am performing a systematic review and two of the included RCTs have inter-rater agreement (as measured by intraclass correlation) as the main outcome. However, I am not sure how to calculate the effect sizes from intraclass correlations and I have a hard time finding answers elsewhere.Hope some of you might know. This is not my area of expertise and I suspect this is fairly basic. I have two independent groups of experts that have rated two different sets of applications. I have calculated the intraclass correlations (single measure, one-way random effects) for both groups. Now I want to test the difference for statistical significance. What is the best method for doing that?Here are some numbers:Group 1:ICC (1,2) = 0.36 (0.28–0.43 95% CI)Numbers of experts: 19Number of paired ratings: 1.085Group 2:ICC (1,2) = 0.33 (0.25-0.40 95% CI)Number of experts: 22Number of paired ratings: 1.304",
+    "publications": [5],
+    "reads": [1288],
+    "citations": [14]
   }
 }

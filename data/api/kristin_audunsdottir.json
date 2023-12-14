@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2809-5860",
-    "name": "Kristin Audunsdottir",
+    "orcid": ["0000-0002-2809-5860"],
+    "name": ["Kristin Audunsdottir"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Kristin Audunsdottir",
-    "id": "1231331",
+    "name": ["Kristin Audunsdottir"],
+    "id": ["1231331"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -34,5 +34,15 @@
         "url": "https://api.cristin.no/v2/results/1990921"
       }
     ]
+  },
+  "rg": {
+    "id": "Kristin-Audunsdottir",
+    "name": "Kristin Audunsdottir",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Behavioral Psychology", "Psychological Testing"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

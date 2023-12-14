@@ -2,11 +2,46 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Kari Vigeland",
-    "id": "7170",
+    "name": ["Kari Vigeland"],
+    "id": ["7170"],
     "keywords": [],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/7170/picture",
+    "img": ["https://api.cristin.no/v2/persons/7170/picture"],
     "works": []
+  },
+  "rg": {
+    "id": "Andras-Kari",
+    "name": "András Kari",
+    "img": "https://i1.rgstatic.net/ii/profile.image/742167656022017-1553957966361_Q128/Andras-Kari.jpg",
+    "affiliation": "Eötvös Loránd University, Department of Microbiology",
+    "keywords": ["PCR", "DNA", "Next Generation Sequencing", "DNA Sequence Analysis", "Genotyping", "Molecular Microbiology"],
+    "works": [
+      {
+        "title": "Evaluating the combined effect of biochar and PGPR inoculants on the bacterial community in acidic sandy soil",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["András Kari", "Zsuzsanna Nagymáté", "Csaba Romsics", "Éva Farkas"],
+        "abstract": "Biochar is used to improve soil fertility and mitigate climate change by carbon sequestration. The potential of using biochar together with plant growth promoting rhizobacteria (PGPR) as a soil fertilization technique, offers an alternative way for sustainable agriculture. In the present study biochar and acid stress adapted PGPR inoculants were ap..."
+      },
+      {
+        "title": "Long-term effects of grain husk and paper fibre sludge biochar on acidic and calcareous sandy soils – A scale-up field experiment applying a complex monitoring toolkit",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Éva Farkas", "Viktória Feigl", "Katalin Gruiz", "Mónika Molnár"],
+        "abstract": "Biochar is produced from a wide range of organic materials by pyrolysis, specifically for improvement of poor quality soils. One of the main issues nowadays in studying biochar as soil amendment is to upscale experiments and move from short-term, laboratory conditions to long-term field trials.\nThis paper presents a long-term field study, being the..."
+      },
+      {
+        "title": "Monitoring of soil microbial inoculants and their impact on maize (Zea mays L.) rhizosphere using T-RFLP molecular fingerprint method",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["András Kari", "Zsuzsanna Nagymáté", "Csaba Romsics", "Károly Márialigeti"],
+        "abstract": "Plant Growth Promoting Rhizobacteria (PGPR) are commonly applied in agricultural systems as biofertilizers due to their beneficial effects on plant productivity and crop yield. Considering the growing nutritional needs of the human population, PGPR inoculants adapted to deteriorated soil conditions offer a sustainable way for crop production. The o..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [3],
+    "reads": [921],
+    "citations": [68]
   }
 }

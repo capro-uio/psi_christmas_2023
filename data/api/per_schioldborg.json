@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Per Schioldborg",
-    "id": "22483",
+    "name": ["Per Schioldborg"],
+    "id": ["22483"],
     "keywords": ["Socialpsychology", "Health psychology", "Suicide", "Gender roles", "Sexual habits"],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/22483/picture",
+    "img": ["https://api.cristin.no/v2/persons/22483/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -28,9 +28,9 @@
       {
         "type": "Academic article",
         "year": "2001",
-        "title": "Attitudes towards jealousy and parallel sexual relations",
         "journal": "Scandinavian Journal of Sexology",
-        "url": "https://api.cristin.no/v2/results/348095"
+        "url": "https://api.cristin.no/v2/results/348095",
+        "title": "Attitudes towards jealousy and parallel sexual relations"
       },
       {
         "type": "Academic article",
@@ -58,9 +58,9 @@
       {
         "type": "Academic article",
         "year": "1997",
-        "title": "International comparison of awareness and attitudes towards coronary risk factor reduction: the HELP study",
         "journal": "Journal of Cardiovascular Risk",
-        "url": "https://api.cristin.no/v2/results/348096"
+        "url": "https://api.cristin.no/v2/results/348096",
+        "title": "International comparison of awareness and attitudes towards coronary risk factor reduction: the HELP study"
       },
       {
         "type": "Academic article",
@@ -71,16 +71,16 @@
       {
         "type": "Academic article",
         "year": "1994",
-        "title": "Smoking cessation in pregnacy: The effect of self-help manuals",
         "journal": "Journal of maternal-fetal investigation",
-        "url": "https://api.cristin.no/v2/results/348099"
+        "url": "https://api.cristin.no/v2/results/348099",
+        "title": "Smoking cessation in pregnacy: The effect of self-help manuals"
       },
       {
         "type": "Academic article",
         "year": "1991",
-        "title": "Smoking cessation in pregnancy. Mode of intervention and effect",
         "journal": "Acta Obstetricia et Gynecologica Scandinavica",
-        "url": "https://api.cristin.no/v2/results/348100"
+        "url": "https://api.cristin.no/v2/results/348100",
+        "title": "Smoking cessation in pregnancy. Mode of intervention and effect"
       },
       {
         "type": "Academic article",
@@ -91,15 +91,25 @@
       {
         "type": "Academic lecture",
         "year": "1988",
-        "title": "Making a Workplace Smoke-Free. The University as Health Promotor in Society",
-        "url": "https://api.cristin.no/v2/results/142854"
+        "url": "https://api.cristin.no/v2/results/142854",
+        "title": "Making a Workplace Smoke-Free. The University as Health Promotor in Society"
       },
       {
         "type": "Report",
         "year": "1987",
-        "title": "Attitudes toward Preventive Health Behavior. A Norwegian extention of the MHLC-Scale",
-        "url": "https://api.cristin.no/v2/results/325681"
+        "url": "https://api.cristin.no/v2/results/325681",
+        "title": "Attitudes toward Preventive Health Behavior. A Norwegian extention of the MHLC-Scale"
       }
     ]
+  },
+  "rg": {
+    "id": "Tay-Per",
+    "name": "Tay Per",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Universidad Latina de Panamá, Department of Medicine",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

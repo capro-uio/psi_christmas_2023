@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "René Westerhausen",
-    "id": "wfNwt38AAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["René Westerhausen"],
+    "id": ["wfNwt38AAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -1089,8 +1089,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Rene Westerhausen",
-    "id": "45050",
+    "name": ["Rene Westerhausen"],
+    "id": ["45050"],
     "keywords": [],
     "position": ["Professor", "Professor", null],
     "img": {},
@@ -1768,5 +1768,61 @@
         "url": "https://api.cristin.no/v2/results/844739"
       }
     ]
+  },
+  "rg": {
+    "id": "Azah-Udom-Rene-2",
+    "name": "Azah Udom Rene",
+    "img": "https://i1.rgstatic.net/ii/profile.image/675851360280577-1538146929458_Q128/Azah-Udom-Rene-2.jpg",
+    "affiliation": "Università degli Studi di Modena e Reggio Emilia | UNIMO, Università degli Studi di Modena e Reggio Emilia, Department of Life Sciences",
+    "keywords": ["Natural Product Chemistry", "Bioactivity", "Phytochemicals", "Antibacterial Activity", "Antimicrobials", "PCR", "Microbial  Molecular Biology", "Chromatography", "Extraction", "Antioxidant Activity"],
+    "works": [
+      {
+        "title": "Plant Extracts Induced Resistance to Fusarium oxysporum f.sp. lycopersici in Tomato",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Charles Dakole", "Azah Udom Rene", "Fonkoua Martin", "Irénée Somda"],
+        "abstract": ["Tomato (Lycopersicon esculentum Mill.) is the most consumed vegetable in the world after potato. In Cameroon, the plant is cultivated in almost all agroecological areas, however, yields remain low due to attacks by various pathogens and insects. Among the pathogens, Fusarium oxysporum f.sp. lycopersici (FOL) is a phytopathogenic fungus responsible..."]
+      },
+      {
+        "title": "The Cultivation of Sweet Pepper (Capsicum Annuum) in Foumbot Agricultural Area, West Region, Cameroon",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Onguene Dieudonne", "Julienne Nguefack", "Joseph Blaise Dongmo Lekagne", "Ghislaine Ndonkeu Mangoumou"],
+        "abstract": ["This study aimed to get information on the cultivation of sweet pepper from the North West Region of Cameroon (Foumbot). Data for the study were obtained from 92 farmers with the aid of well-structured questionnaires. Results obtained showed that among the sweet pepper farmers, males represented 80% of the sampled population and women 12%, all of t..."]
+      },
+      {
+        "title": "Effects of Seed Treatments Using Extracts of Oxalis barrelieri L. and Cymbopogon citratus Stapf, Coupled with NaCl Sorting on Seed Health, Germination, Emergence and Seedlings Vigor, of Rice (Oryzae sativa L.) Seeds",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Julienne Nguefack", "F. Romain Fouelefack", "Joseph Blaise Dongmo Lekagne", "Nkengfack Augustin Ephrem"],
+        "abstract": []
+      },
+      {
+        "title": "Chemical characterization of an aqueous extract and the essential oil of Tithonia diversifolia and their biocontrol activity against seed-borne pathogens of rice",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Dongmo NANFACK Albert", "Julienne Nguefack", "Joseph Blaise Dongmo Lekagne", "Emilio Stefani"],
+        "abstract": ["The high cost of chemical pesticides and their negative impact on the environment prompted the search for natural pesticides from plants. The objective of our study was to control rice seed pathogenic fungi and bacteria using aqueous extract and essential oil from Tithonia diversifolia leaves. We obtained aqueous extract and essential oil, respecti..."]
+      },
+      {
+        "title": "Effects of extracts of Oxalis barrelieri L. and Cymbopogon citratus stapf, coupled with NaCl sorting on; seed health, germination and seedlings vigor of rice (Oryzae sativa L).",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["F. Romain Fouelefack", "Julienne Nguefack", "Joseph Blaise Dongmo Lekagne", "Augustin Ephrem Nkengfack"],
+        "abstract": ["The extracts of Oxalis barrelieri and Cymbopogon citratus were tested for their antifungal activity against Bipolaris oryzae and Fusarium moniliforme, and use as seed treatment coupled with NaCl treatment to improve the seed germination and the seedlings vigor of treated rice seeds. The significance of the inhibitory activity of the plant extracts..."]
+      },
+      {
+        "title": "Antifungal potential of essential oils, aqueous and ethanol extracts of thirteen plants against Fusarium oxysporum f. sp Lycopersici and Phytophtora infestans (Mont.) de Bary as major tomato pathogens in Cameroon",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Charles Dakole", "Julienne Nguefack", "Joseph Blaise Dongmo Lekagne", "Amvam Zollo Paul Henry"],
+        "abstract": ["Antifungal activity of essential oils (EO), ethanol extracts (ETE) and cold water extracts (CWE) of thirteen plants was evaluated against Fusarium oxysporum and Phytophtora infestans causal agents of tomato Fusarium wilt and late blight diseases respectively. The supplemented media and slide germination techniques were carried out to determine the..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [6],
+    "reads": [2983],
+    "citations": [25]
   }
 }

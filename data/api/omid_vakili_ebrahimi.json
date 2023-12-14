@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Omid V. Ebrahimi",
-    "id": "hiiwU7QAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Omid V. Ebrahimi"],
+    "id": ["hiiwU7QAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -750,8 +750,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-2005-1740",
-    "name": "Omid Ebrahimi",
+    "orcid": ["0000-0002-2005-1740"],
+    "name": ["Omid Ebrahimi"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -762,11 +762,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Omid Vakili Ebrahimi",
-    "id": "1162259",
+    "name": ["Omid Vakili Ebrahimi"],
+    "id": ["1162259"],
     "keywords": [],
     "position": ["Research fellow"],
-    "img": "https://api.cristin.no/v2/persons/1162259/picture",
+    "img": ["https://api.cristin.no/v2/persons/1162259/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1104,5 +1104,278 @@
         "url": "https://api.cristin.no/v2/results/1695295"
       }
     ]
+  },
+  "rg": {
+    "id": "Omid-Vakili-2",
+    "name": "Omid Vakili",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281198103535-1697184362235_Q128/Omid-Vakili-2.jpg",
+    "affiliation": "Isfahan University of Medical Sciences, Clinical Biochemistry Department",
+    "keywords": ["Clinical Biochemistry", "Laboratory Medicine", "Molecular Biology", "Molecular Diagnostics", "Chemical Pathology", "Neurobiochemistry"],
+    "works": [
+      {
+        "title": "Ameliorative effects of bilirubin on cell culture model of non-alcoholic fatty liver disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Omid Vakili", "Mohammad Borji", "Javad Saffari-Chaleshtori", "Sayed Mohammad Shafiee"],
+        "abstract": ["Background: Non-alcoholic fatty liver disease (NAFLD) is defined as the most prevalent hepatic disorder that affects a significant population worldwide. There are several genes/proteins, involving in the modulation of NAFLD pathogenesis; sirtuin1 (SIRT1), TP53-inducible regulator gene (TIGAR), and autophagy-related gene 5 (Atg5) are considered a ch..."]
+      },
+      {
+        "title": "The crosstalk between ubiquitin-conjugating enzyme E2Q1 and p53 in colorectal cancer: An in vitro analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Maryam Rasouli", "Sara Khakshournia", "Omid Vakili", "Sayed Mohammad Shafiee"],
+        "abstract": ["Colorectal cancer (CRC) is a prevalent gastrointestinal neoplasm that ranks fourth in terms of cancer-related deaths worldwide. In the process of CRC progression, multiple ubiquitin-conjugating enzymes (E2s) are involved; UBE2Q1 is one of those newly identified E2s that is markedly expressed in human colorectal tumors. Since p53 is a well-known tum..."]
+      },
+      {
+        "title": "Bilirubin, an endogenous antioxidant that affects p53 protein and its downstream apoptosis/autophagy-related genes in LS180 and SW480 cell culture models of colorectal cancer",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Maryam Niknam", "Mohammad Hasan Maleki", "Sara Khakshournia", "Sayed Mohammad Shafiee"],
+        "abstract": ["Background: \nColorectal cancer (CRC) is one of the commonest neoplasms worldwide, which its pathogenesis is strongly correlated with p53 mutations. Antioxidants are believed to decelerate the CRC progression, possibly through interfering with p53 and its downstream target genes and mechanisms. Regarding the potential antioxidant effects of bilirubi..."]
+      },
+      {
+        "title": "Epigenetic regulation of autophagy in gastrointestinal cancers",
+        "tags": ["Article"],
+        "date": "Aug 2022",
+        "authors": ["Saeid Ghavami", "Mozhdeh Zamani", "Mazaher Ahmadi", "Pooneh Mokaram"],
+        "abstract": ["The development of novel therapeutic approaches is necessary to manage gastrointestinal cancers (GICs). Considering the effective molecular mechanisms involved in tumor growth, the therapeutic response is pivotal in this process. Autophagy is a highly conserved catabolic process that acts as a double-edged sword in tumorigenesis and tumor inhibitio..."]
+      },
+      {
+        "title": "Non-coding RNAs in leukemia drug resistance: new perspectives on molecular mechanisms and signaling pathways",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Atefe Rahmati", "Alireza Mafi", "Omid Vakili", "Amirhossein Sahebkar"],
+        "abstract": ["Like almost all cancer types, timely diagnosis is needed for leukemias to be effectively cured. Drug efflux, attenuated drug uptake, altered drug metabolism, and epigenetic alterations are just several of the key mechanisms by which drug resistance develops. All of these mechanisms are orchestrated by up- and downregulators, in which non-coding RNA..."]
+      },
+      {
+        "title": "Liver disorders caused by inborn errors of metabolism",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Omid Vakili", "Alireza Mafi", "Mr Pourfarzam"],
+        "abstract": ["Inborn errors of metabolism (IEMs) are a vast array of inherited/congenital disorders, affecting a wide variety of metabolic pathways and/or biochemical processes inside the cells. Although IEMs are usually rare, they can be represented as serious health problems. During the neonatal period, these inherited defects can give rise to almost all key s..."]
+      },
+      {
+        "title": "The landscape of exosomal non-coding RNAs in breast cancer drug resistance, focusing on underlying molecular mechanisms OPEN ACCESS EDITED BY",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Malihe Rezaee", "Fatemeh Mohammadi", "Atoosa Keshavarzmotamed", "Alireza Mafi"],
+        "abstract": ["Breast cancer (BC) is the most common malignancy among women worldwide. Like many other cancers, BC therapy is challenging and sometimes frustrating. In spite of the various therapeutic modalities applied to treat the cancer, drug resistance, also known as, chemo-resistance, is very common in almost all BCs. Undesirably, a breast tumor might be res..."]
+      },
+      {
+        "title": "Circular RNAs: Pivotal role in the leukemogenesis and novel indicators for the diagnosis and prognosis of acute myeloid leukemia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Atefe Rahmati", "Alireza Mafi", "Firooze Soleymani", "Esmat Aghadavod"],
+        "abstract": ["Acute myeloid leukemia (AML) is an aggressive hematological malignancy and affected patients have poor overall survival (OS) rates. Circular RNAs (circRNAs) are a novel class of non-coding RNAs (ncRNAs) with a unique loop structure. In recent years, with the development of high-throughput RNA sequencing, many circRNAs have been identified exhibitin..."]
+      },
+      {
+        "title": "Bilirubin improves renal function by reversing the endoplasmic reticulum stress and inflammation in the kidneys of type 2 diabetic rats fed high-fat diet",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Mohammad Hassan Maleki", "Elham Nadimi", "Omid Vakili", "Sayed Mohammad Shafiee"],
+        "abstract": ["Diabetic kidney disease (DKD), as a chronic diabetes-induced complication, is considered the most frequent leading cause of end-stage renal disease (ESRD). Regarding the observed protective effects of bilirubin, as a potential endogenous antioxidant/anti-inflammatory compound, against DKD progression, we planned to evaluate the effects of bilirubin..."]
+      },
+      {
+        "title": "Where Do Liver Injuries Stand in the Post-COVID-19 era? A Review of the Connection between Long COVID and Liver Diseases",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Somayeh Igder", "Mozhdeh Zamani", "Omid Vakili", "Pooneh Mokaram"],
+        "abstract": ["Context: The uninterrupted dissemination and transmission of COVID-19 brought enormous jeopardy and public-health urgency during past three years. Some patients, who recovered from the infection, develop persistent symptoms and organ dysfunction for weeks or even months; conditions that are called long COVID. Among multiple COVID-related complicati..."]
+      },
+      {
+        "title": "The Effects of Statins on Respiratory Symptoms and Pulmonary Fibrosis in COVID‑19 Patients with Diabetes Mellitus: A Longitudinal Multicenter Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Mohammadamin Sadeghdoust", "Farnaz Aligolighasemabadi", "Tania Dehesh", "Saeid Ghavami"],
+        "abstract": ["The aim of this prospective cohort study was to explore the effect of statins on long-term respiratory symptoms and pulmonary fibrosis in coronavirus disease 2019 (COVID-19) patients with diabetes mellitus (DM). Patients were recruited from three tertiary hospitals, categorized into Statin or Non-statin groups, and assessed on days 0, 28, and 90 af..."]
+      },
+      {
+        "title": "A review of highly sensitive electrochemical genosensors for microRNA detection: A novel diagnostic platform for neurodegenerative diseases diagnostics",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Mehrnoosh Azimi Sanavi", "Farzaneh Mahdavian", "Nafiseh Dorosti", "Ahmad Movahedpour"],
+        "abstract": ["The significant role of microRNAs in regulating gene expression and in disease tracking has handed the possibility of robust and accurate diagnosis of various diseases. Measurement of these biomarkers has also had a significant impact on the preparation of natural samples. Discovery of miRNAs is a major challenge due to their small size in the real..."]
+      },
+      {
+        "title": "Recent insights into the roles of circular RNAs in human brain development and neurologic diseases",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Sajad Najafi", "Seyed mohsen Aghaei Zarch", "Jamal Majidpoor", "Nahid Arghiani"],
+        "abstract": ["Circular RNAs (circRNAs) are a novel class of non-coding RNAs. They are single-stranded RNA transcripts characterized with a closed loop structure making them resistant to degrading enzymes. Recently, circRNAs have been suggested with regulatory roles in gene expression involved in controlling various biological processes. Notably, they have demons..."]
+      },
+      {
+        "title": "Exosomal noncoding RNAs in prostate cancer",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Ahmad Movahedpour", "Seyyed Hossein Khatami", "Neda Karami", "Hassan Ghasemi"],
+        "abstract": ["Prostate cancer (PCa) is the second most common cancer and the fifth leading cause of mortality among men. The recurrent reports of false-positive results of common PCa biomarkers have led to the introduction of some promising biomarkers for PCa, such as exosomal non-coding RNAs (ncRNAs). Exosomes contain various components, such as several ncRNAs..."]
+      },
+      {
+        "title": "Circular RNAs in Alzheimer’s Disease: A New Perspective of Diagnostic and Therapeutic Targets",
+        "tags": ["Article"],
+        "date": "Aug 2022",
+        "authors": ["Omid Vakili", "Pooria Asili", "Zeinab Babaei", "Alireza Mafi"],
+        "abstract": ["Background\nCircular RNAs (circRNAs), as covalently closed single-stranded noncoding RNA molecules, have been recently identified to involve in several biological processes, principally through targeting microRNAs. Among various neurodegenerative diseases (NDs), accumulating evidence has proposed key roles for circRNAs in the pathogenesis of Alzheim..."]
+      },
+      {
+        "title": "Possible Mechanisms and Molecular Signaling of Incretins against the Development of Type 2 Diabetes Mellitus",
+        "tags": ["Article"],
+        "date": "Aug 2022",
+        "authors": ["Raziyeh Salami", "Marziyeh Salami", "Alireza Mafi", "Zatollah Asemi"],
+        "abstract": ["Increasing number of cases with diabetes mellitus (DM) and related diseases has become a global health concern. In this context, controlling the blood glucose levels is critical to prevent and/or slow down the development of diabetes-related complications. Incretins, as gut-derived hormones that trigger the post-meal secretion of insulin, are a wel..."]
+      },
+      {
+        "title": "Recent insights into the microRNA-dependent modulation of gliomas from pathogenesis to diagnosis and treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Alireza Mafi", "Atefe Rahmati", "Zahra Babaei Aghdam", "Omid Vakili"],
+        "abstract": ["Gliomas are the most lethal primary brain tumors in adults. These highly invasive tumors have poor 5-year survival for patients. Gliomas are principally characterized by rapid diffusion as well as high levels of cellular heterogeneity. However, to date, the exact pathogenic mechanisms, contributing to gliomas remain ambiguous. MicroRNAs (miRNAs), a..."]
+      },
+      {
+        "title": "Novel insights into the role of circular RNAs in Parkinson disease: An emerging renaissance in the management of neurodegenerative diseases",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Zahra Dorostgou", "Negar Yadegar", "Zeynab Dorostgou", "Omid Vakili"],
+        "abstract": ["Parkinson's disease (PD), as a debilitating neurodegenerative disease, particularly affects the elderly population and is clinically identified by resting tremor, rigidity, and bradykinesia. Pathophysiologically, PD is characterized by an early loss of dopaminergic neurons in the Substantia nigra pars compacta, accompanied by the extensive aggregat..."]
+      },
+      {
+        "title": "Epigenetic regulation of autophagy in coronavirus disease 2019 (COVID-19)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Hamid Behrouj", "Omid Vakili", "Adel Sadeghdoust", "Pooneh Mokaram"],
+        "abstract": ["The coronavirus disease 2019 (COVID-19) pandemic has become the most serious global public health issue in the past two years, requiring effective therapeutic strategies. This viral infection is a contagious disease caused by new coronaviruses (nCoVs), also called severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Autophagy, as a highly..."]
+      },
+      {
+        "title": "Review of electrochemical and optical biosensors for testosterone measurement",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Maryam Nikkhah", "Sajedeh Karami", "Seyyed Hossein Khatami", "Ahmad Movahedpour"],
+        "abstract": ["Testosterone is an anabolic steroid and a major sex hormone in males. It plays vital roles, including developing the testis, penis, and prostate, increasing muscle and bone, and sperm production. In both men and women, testosterone levels should be in normal ranges. Besides, testosterone and its analogs are major global contributors to doping in sp..."]
+      },
+      {
+        "title": "Mammalian target of rapamycin (mTOR) signaling pathway and traumatic brain injury: A novel insight into targeted therapy",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Ahmad Movahedpour", "Omid Vakili", "Masoomeh Khalifeh", "Seyyed Hossein Khatami"],
+        "abstract": ["Traumatic brain injury (TBI) is one of the most concerning health issues in which normal brain function may be disrupted as a result of a blow, bump, or jolt to the head. Loss of consciousness, amnesia, focal neurological defects, alteration in mental state, and destructive diseases of the nervous system such as cognitive impairment, Parkinson's, a..."]
+      },
+      {
+        "title": "Gastrointestinal cancer drug resistance: the role of exosomal miRNAs",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Mahsa Salehi", "Asma Vafadar", "Seyyed Hossein Khatami", "Ahmad Movahedpour"],
+        "abstract": ["Resistance of gastrointestinal (GI) cancer cells to therapeutic agents are one of the major problems in treating this type of cancer. Although the exact mechanism of drug resistance has not yet been fully elucidated, various factors have been identified as contributing factors involved in this process. Several studies have revealed the role of exos..."]
+      },
+      {
+        "title": "Exosomal microRNAs and long noncoding RNAs: Novel mediators of drug resistance in lung cancer",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Sina Taghvimi", "Omid Vakili", "Elahe Soltani Fard", "Ahmad Movahedpour"],
+        "abstract": ["Lung cancer therapeutic resistance, especially chemoresistance, is a key issue in the management of this malignancy. Despite the development of novel molecularly targeted drugs to promote therapeutic efficacy, 5-year survival of lung cancer patients is still dismal. Molecular studies through the recent years have fortunately presented multiple gene..."]
+      },
+      {
+        "title": "Circular RNAs and glioblastoma multiforme: focus on molecular mechanisms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Raziyeh Salami", "Marziyeh Salami", "Alireza Mafi", "Zatollah Asemi"],
+        "abstract": ["Glioblastoma multiforme (GBM), as a deadly and almost incurable brain cancer, is the most invasive form of CNS tumors that affects both children and adult population. It accounts for approximately half of all primary brain tumors. Despite the remarkable advances in neurosurgery, radiotherapy, and chemotherapeutic approaches, cell heterogene-ity and..."]
+      },
+      {
+        "title": "Circular RNAs and glioblastoma multiforme: focus on molecular mechanisms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Raziyeh Salami", "Marziyeh Salami", "Alireza Mafi", "Zatollah Asemi"],
+        "abstract": ["Glioblastoma multiforme (GBM), as a deadly and almost incurable brain cancer, is the most invasive form of CNS tumors that affects both children and adult population. It accounts for approximately half of all primary brain tumors. Despite the remarkable advances in neurosurgery, radiotherapy, and chemotherapeutic approaches, cell heterogeneity and..."]
+      },
+      {
+        "title": "Laccase: Various types and applications",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Seyyed Hossein Khatami", "Omid Vakili", "Ahmad Movahedpour", "Mortaza Taheri-Anganeh"],
+        "abstract": ["Laccase belongs to the polyphenol oxidase family and is very important in removing environmental pollutants due to its structural and functional properties. Recently, the ability of laccase to oxidize phenolic and non-phenolic substances has been considered by many researchers. This enzyme's application scope includes a broad range of chemical proc..."]
+      },
+      {
+        "title": "Therapeutic Potential of Resveratrol in Diabetic Nephropathy According to Molecular Signaling",
+        "tags": ["Article"],
+        "date": "Dec 2021",
+        "authors": ["Marziyeh Salami", "Raziyeh Salami", "Alireza Mafi", "Zatollah Asemi"],
+        "abstract": ["Background\nDiabetic nephropathy (DN) as a severe complication of diabetes mellitus (DM), is a crucial menace for human health and survival and remarkably elevates the healthcare systems’ costs. Therefore, it is worth noting to identify novel preventive and therapeutic strategies to alleviate the disease conditions. Resveratrol, as a well-defined an..."]
+      },
+      {
+        "title": "microRNAs in female infertility: An overview",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Sedigheh Bahmyari", "Zeinab Jamali", "Seyyed Hossein Khatami", "Ahmad Movahedpour"],
+        "abstract": ["Infertility impacts a considerable number of women worldwide, and it affects different aspects of family life and society. Although female infertility is known as a multifactorial disorder, there are strong genetic and epigenetic bases. Studies revealed that miRNAs play critical roles in initiation and development of female infertility related diso..."]
+      },
+      {
+        "title": "Bispecific antibodies in colorectal cancer therapy: recent insights and emerging concepts",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Seyyed Hossein Khatami", "Omid Vakili", "Mortaza Taheri-Anganeh", "Ahmad Movahedpour"],
+        "abstract": ["Colorectal cancer (CRC) is identified as a life-threatening malignancy. Despite several efforts and proceedings available for CRC therapy, it is still a health concern. Among a vast array of novel therapeutic procedures, employing bispecific antibodies (BsAbs) is currently considered to be a promising approach for cancer therapy. BsAbs, as a large..."]
+      },
+      {
+        "title": "Finding Appropriate Signal Peptides for Secretory Production of Recombinant Glucarpidase: An In SilicoMethod",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Omid Vakili", "Seyyed Hossein Khatami", "Amir Maleksabet", "Mortaza Taheri-Anganeh"],
+        "abstract": ["Aims\nBioinformatics analysis of suitable signal peptide for recombinant glucarpidase.\n\nBackground\nMethotrexate (MTX) is a general chemotherapeutic agent utilized to treat a variety of malignancies., woefully, its high doses can cause nephrotoxicity and subsequent defect in the process of MTX excretion. The recombinant form of glucarpidase, is produ..."]
+      },
+      {
+        "title": "Circular RNAs; powerful microRNA sponges to overcome Diabetic nephropathy",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Alireza Mafi", "Negar Yadegar", "Marziyeh Salami", "Esmat Aghadavod"],
+        "abstract": ["iabetic nephropathy (DN), also known as diabetic kidney disease (DKD), is a drastic renal complication of type 1 and type 2 diabetes mellitus (DM). Poorly controlled DM over the years, may disrupt kidneys’ blood vessels, leading to the hypertension (HTN) and DN onset. During DN, kidneys’ waste filtering ability becomes disturbed. Being on a healthy..."]
+      },
+      {
+        "title": "Caspase‐3; Structure, Function, and Biotechnological Aspects",
+        "tags": ["Article"],
+        "date": "Aug 2021",
+        "authors": ["Marzieh Asadi", "Saeed Taghizadeh", "Elina Kaviani", "Amir Savardashtaki"],
+        "abstract": ["Caspase‐3, a cysteine‐aspartic acid protease, has recently attracted much attention because of its incredible roles in tissue differentiation, regeneration, and neural development. This enzyme is a key zymogen in cell apoptosis, and not activated until it is cleaved by initiator caspases during apoptotic flux. Since caspase‐3 has represented valuab..."]
+      },
+      {
+        "title": "Exosomal noncoding RNAs: key players in glioblastoma drug resistance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Ahmad Movahedpour", "Seyyed Hossein Khatami", "Marjan Khorsand", "Mortaza Taheri-Anganeh"],
+        "abstract": ["Glioma, as one of the most severe human malignancies, is defined as the Central Nervous System’s (CNS) tumors. Glioblastoma (GBM) in this regard, is the most malignant type of gliomas. There are multiple therapeutic strategies to cure GBM, for which chemotherapy is often the first-line treatment. Still, various cellular processes, such as uncontrol..."]
+      },
+      {
+        "title": "Exosomal noncoding RNAs: key players in glioblastoma drug resistance",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Ahmad Movahedpour", "Seyyed Hossein Khatami", "Marjan Khorsand", "Mortaza Taheri-Anganeh"],
+        "abstract": ["Glioma, as one of the most severe human malignancies, is defined as the Central Nervous System’s (CNS) tumors. Glioblastoma (GBM) in this regard, is the most malignant type of gliomas. There are multiple therapeutic strategies to cure GBM, for which chemotherapy is often the first-line treatment. Still, various cellular processes, such as uncontrol..."]
+      },
+      {
+        "title": "Glucose oxidase: Applications, sources, and recombinant production",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Seyyed Hossein Khatami", "Omid Vakili", "Nahid Ahmadi", "Ahmad Movahedpour"],
+        "abstract": ["Glucose oxidase is a subset of oxidoreductase enzymes that catalyzes the transfer of electrons from an oxidant to a reductant. Glucose oxidases use oxygen as an external electron acceptor that releases hydrogen peroxide (H2O2). Glucose oxidase has many applications in commercial processes, including improving the color and taste, increasing the per..."]
+      },
+      {
+        "title": "Effective Role of Bilirubin in the Pathogenesis of Non-alcoholic Fatty Liver Disease through Regulation of the Autophagosome Formation | Abstract",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Omid Vakili", "Sayed Mohammad Shafiee"],
+        "abstract": []
+      },
+      {
+        "title": "Evaluation of the anti-tumorigenic effects of bilirubin on LS180 and SW480 colorectal cancer cell lines | Abstract",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Omid Vakili", "Maryam Niknam", "Seyed Mohammad Shafiee"],
+        "abstract": ["Evaluation of the anti-tumorigenic effects of bilirubin on LS180 and SW480 colorectal cancer cell lines."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Philosophy"],
+    "bio": "Omid Vakili currently works as a Researcher at the Clinical Biochemistry Department, Isfahan University of Medical Sciences. Omid does research in Clinical Biochemistry, Metabolic Disorders, Gastrointestinal diseases, Neurochemistry, and Molecular Biology. Dear All, I need a high-quality method/protocol to efficiently extract acylcarnitines from fecal specimens for further LC-MS/MS analysis. This method must be feasible and removes the interfering metabolites and compounds existing in the matrix of stool specimen. In other words, acylcarnitines should be extracted with high degrees of purity. Can you please help me if you have a reliable protocol or SOP in this context? Thank you so much. BW   Dear Researchers, I want to know that when we treat rats or mice with probiotics supplementation, are the consumed bacteria able to cross the BBB to reach the central nervous system (CNS) and neurons? In other words, is there any mechanism to transfer probiotics such as Lactobacillus acidophilus and Bifidobacterium species across the BBB?  Thank you so much  ",
+    "publications": [37],
+    "reads": [3168],
+    "citations": [455]
   }
 }

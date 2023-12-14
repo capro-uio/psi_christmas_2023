@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-4312-5482",
-    "name": "Hedda Tvedten Ness",
+    "orcid": ["0000-0002-4312-5482"],
+    "name": ["Hedda Tvedten Ness"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -26,8 +26,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Hedda Tvedten Ness",
-    "id": "793963",
+    "name": ["Hedda Tvedten Ness"],
+    "id": ["793963"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -68,5 +68,15 @@
         "url": "https://api.cristin.no/v2/results/1646675"
       }
     ]
+  },
+  "rg": {
+    "id": "Youssef-Hedda",
+    "name": "Youssef Hedda",
+    "img": "https://i1.rgstatic.net/ii/profile.image/986493329883139-1612209746921_Q128/Youssef-Hedda.jpg",
+    "affiliation": "Université de Montréal | UdeM, Université de Montréal, Bibliothèques de lUniversité de  Montréal",
+    "keywords": ["20th Century History", "Modern History"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

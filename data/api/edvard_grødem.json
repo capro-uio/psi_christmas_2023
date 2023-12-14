@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Edvard OS Grødem",
-    "id": "f1bexysAAAAJ",
-    "affiliation": "Oslo University Hospital",
+    "name": ["Edvard OS Grødem"],
+    "id": ["f1bexysAAAAJ"],
+    "affiliation": ["Oslo University Hospital"],
     "data": {
       "publications": [
         {
@@ -60,8 +60,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1915-1872",
-    "name": "Edvard Grødem",
+    "orcid": ["0000-0003-1915-1872"],
+    "name": ["Edvard Grødem"],
     "distinctions": [],
     "education": [
       {
@@ -98,11 +98,39 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Edvard Grødem",
-    "id": "920607",
+    "name": ["Edvard Grødem"],
+    "id": ["920607"],
     "keywords": [],
     "position": ["Guest", "Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Edvard-Grodem-2",
+    "name": "Edvard Grødem",
+    "img": "https://i1.rgstatic.net/ii/profile.image/994847016103944-1614201420917_Q128/Edvard-Grodem-2.jpg",
+    "affiliation": "Norwegian University of Science and Technology | NTNU, Norwegian University of Science and Technology, Department of Technology and Electronics",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Automated calibration of optoPlate LEDs to reduce light dose variation in optogenetic experiments",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Edvard Grødem", "Kieran Sweeney", "Megan Mcclean"],
+        "abstract": "Optogenetic systems use light to precisely control and investigate cellular processes. Until recently, there had been few instruments available for applying controlled light doses to cultures of cells. The optoPlate, a programmable array of 192 LEDs, was developed to meet this need. However, LED performance varies, and without calibration there are..."
+      },
+      {
+        "title": "OptoPlate Calibration protocol v1",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Edvard Grødem", "Kieran Sweeney", "Megan Mcclean"],
+        "abstract": "Optogenetic systems use light to precisely control and investigate cellular processes. Until recently, there had been few instruments available for applying controlled light doses to cultures of cells. The optoPlate, a programmable array of 192 LEDs, was developed to meet this need. However, LED performance varies and without calibration there are..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [2],
+    "reads": [48],
+    "citations": [8]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Rahul Agrawal",
-    "id": "MSX9vf4AAAAJ",
-    "affiliation": "University of Utah, Salt Lake City, UT, USA",
+    "name": ["Rahul Agrawal"],
+    "id": ["MSX9vf4AAAAJ"],
+    "affiliation": ["University of Utah, Salt Lake City, UT, USA"],
     "data": {
       "publications": [
         {
@@ -691,8 +691,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-5751-6775",
-    "name": "Rahul Agrawal",
+    "orcid": ["0000-0002-5751-6775"],
+    "name": ["Rahul Agrawal"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -703,8 +703,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Rahul Omprakash Agrawal",
-    "id": "1358152",
+    "name": ["Rahul Omprakash Agrawal"],
+    "id": ["1358152"],
     "keywords": [],
     "position": ["Senior engineer"],
     "img": {},
@@ -719,9 +719,19 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Torso Kinematics in Human Rolling Do Not Change When Upper Extremity Motion Is Constrained",
-        "journal": "Motor Control",
-        "url": "https://api.cristin.no/v2/results/1988488"
+        "url": "https://api.cristin.no/v2/results/1988488",
+        "journal": "Motor Control"
       }
     ]
+  },
+  "rg": {
+    "id": "Bellamkonda-Omprakash",
+    "name": "Bellamkonda RAHUL Omprakash",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Sreyas Institute Of Engineering and Technology, Humanities and Sciences",
+    "keywords": ["Organic Chemistry Synthesis"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

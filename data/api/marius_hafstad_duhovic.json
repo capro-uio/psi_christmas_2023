@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Marius Duhović Hafstad",
-    "id": "o7RSEN4AAAAJ",
-    "affiliation": "PhD Candidate at University of Oslo",
+    "name": ["Marius Duhović Hafstad"],
+    "id": ["o7RSEN4AAAAJ"],
+    "affiliation": ["PhD Candidate at University of Oslo"],
     "data": {
       "publications": [
         {
@@ -36,11 +36,21 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Marius Hafstad Duhovic",
-    "id": "1258679",
+    "name": ["Marius Hafstad Duhovic"],
+    "id": ["1258679"],
     "keywords": [],
     "position": ["Research fellow", "University lecturer"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Marius_Hafstad",
+    "name": "Marius Hafstad",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Work Psychology", "Human Resource Management", "Organizational Culture", "Human Resource Development", "Training and Development", "Organizational Development", "Leadership"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

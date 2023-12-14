@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2460-8665",
-    "name": "Anine Riege",
+    "orcid": ["0000-0002-2460-8665"],
+    "name": ["Anine Riege"],
     "distinctions": [],
     "education": [
       {
@@ -13,17 +13,17 @@
       },
       {
         "start": "2016",
-        "end": "2019",
         "position": "Postdoctoral researcher",
         "organisation": "Kingston University Kingston Business School",
-        "country": "GB"
+        "country": "GB",
+        "end": "2019"
       },
       {
         "start": "2011",
-        "end": "2016",
         "position": "Research fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "employment": [
@@ -35,17 +35,17 @@
       },
       {
         "start": "2016",
-        "end": "2019",
         "position": "Postdoctoral researcher",
         "organisation": "Kingston University Kingston Business School",
-        "country": "GB"
+        "country": "GB",
+        "end": "2019"
       },
       {
         "start": "2011",
-        "end": "2016",
         "position": "Research fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "membership": [],
@@ -103,8 +103,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anine Cecilie Riege",
-    "id": "60870",
+    "name": ["Anine Cecilie Riege"],
+    "id": ["60870"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -247,5 +247,14 @@
         "url": "https://api.cristin.no/v2/results/1005641"
       }
     ]
+  },
+  "rg": {
+    "id": "Hanna-Cecilie",
+    "name": "Hanna Cecilie",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Copenhagen Business School, Department of IT Management",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

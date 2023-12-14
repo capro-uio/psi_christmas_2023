@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Dinka Smajlagic",
-    "id": "fIF9slkAAAAJ",
-    "affiliation": "University of Bergen",
+    "name": ["Dinka Smajlagic"],
+    "id": ["fIF9slkAAAAJ"],
+    "affiliation": ["University of Bergen"],
     "data": {
       "publications": [
         {
@@ -118,8 +118,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1627-7293",
-    "name": "Dinka Smajlagic",
+    "orcid": ["0000-0003-1627-7293"],
+    "name": ["Dinka Smajlagic"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -130,8 +130,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Dinka Smajlagic",
-    "id": "752058",
+    "name": ["Dinka Smajlagic"],
+    "id": ["752058"],
     "keywords": [],
     "position": ["Research fellow", "Post-doctoral research fellow"],
     "img": {},
@@ -146,15 +146,15 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Co-occurrence of internalizing difficulties and aggression in early childhood and risk of mental health problems in middle childhood",
-        "journal": "International Journal of Behavioral Development",
-        "url": "https://api.cristin.no/v2/results/2182449"
+        "url": "https://api.cristin.no/v2/results/2182449",
+        "journal": "International Journal of Behavioral Development"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Anxiety and depression in expectant parents: ART versus spontaneous conception",
-        "journal": "Human Reproduction",
-        "url": "https://api.cristin.no/v2/results/2176938"
+        "url": "https://api.cristin.no/v2/results/2176938",
+        "journal": "Human Reproduction"
       },
       {
         "type": "Poster",
@@ -190,8 +190,8 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Population prevalence and inheritance pattern of recurrent CNVs associated with neurodevelopmental disorders in 12,252 newborns and their parents",
-        "journal": "European Journal of Human Genetics",
-        "url": "https://api.cristin.no/v2/results/1846702"
+        "url": "https://api.cristin.no/v2/results/1846702",
+        "journal": "European Journal of Human Genetics"
       },
       {
         "type": "Academic lecture",
@@ -203,9 +203,19 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Moderating effect of mode of delivery on the genetics of intelligence: Explorative genome-wide analyses in ALSPAC",
-        "journal": "Brain and Behavior",
-        "url": "https://api.cristin.no/v2/results/1643670"
+        "url": "https://api.cristin.no/v2/results/1643670",
+        "journal": "Brain and Behavior"
       }
     ]
+  },
+  "rg": {
+    "id": "Dinka-Smajlagic",
+    "name": null,
+    "img": [],
+    "affiliation": "",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

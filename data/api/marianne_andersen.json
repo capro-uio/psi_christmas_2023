@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Marianne Skovsager Andersen",
-    "id": "QcpDGFwAAAAJ",
-    "affiliation": "OUH",
+    "name": ["Marianne Skovsager Andersen"],
+    "id": ["QcpDGFwAAAAJ"],
+    "affiliation": ["OUH"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-3661-885X",
-    "name": "Marianne Andersen",
+    "orcid": ["0000-0003-3661-885X"],
+    "name": ["Marianne Andersen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -939,8 +939,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Marianne Andersen",
-    "id": "428631",
+    "name": ["Marianne Andersen"],
+    "id": ["428631"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
@@ -953,5 +953,719 @@
         "url": "https://api.cristin.no/v2/results/2016871"
       }
     ]
+  },
+  "rg": {
+    "id": "Marianne-Andersen-5",
+    "name": "Marianne Andersen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272448771850261-1441968257771_Q128/Marianne-Andersen-5.jpg",
+    "affiliation": "Odense University Hospital | OUH, Odense University Hospital, Department of Endocrinology  M",
+    "keywords": ["Body Composition", "Epidemiology and Public Health", "Insulin Resistance", "Testosterone", "Fat", "Clinical Endocrinology", "Metabolism", "Insulin", "Observational Studies", "Lipids"],
+    "works": [
+      {
+        "title": "High-Sensitivity Cardiac Troponin I Enhances Preeclampsia Prediction Beyond Maternal Factors and the sFlt-1/PlGF Ratio",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Lucas Bacmeister", "Alina Goßling", "A Buellesbach", "T Zeller"],
+        "abstract": ["BACKGROUND\nPreeclampsia shares numerous risk factors with cardiovascular diseases. Here, we aimed to assess the potential utility of high-sensitivity cardiac troponin I (hs-cTnI) values during pregnancy in predicting preeclampsia occurrence.\n\nMETHODS\nThis study measured hs-cTnI levels in 3721 blood samples of 2245 pregnant women from 4 internationa..."]
+      },
+      {
+        "title": "The association between maternal thyroid function and language acquisition in offspring aged 12 to 37 months: an odense child cohort study",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Kamilla Ryom Riis", "Steen Joop Bonnema", "Anja Dreyer", "Marianne Andersen"],
+        "abstract": ["Introduction: Maternal thyroid function in early pregnancy is crucial for fetal neural development. Early offspring language acquisition is an important indicator of fetal neural development and a predictor of future cognitive development. We aimed to investigate how the mother's thyroid function and the presence of thyroid autoimmunity in early pr..."]
+      },
+      {
+        "title": "Higher maternal cortisol associated with lower blood pressure in offspring from 3 months to 5 years of age in the odense child cohort",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Hajir Al-Jorani", "Jensen Richard Christian", "Mikaela Jonasson", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "REPLACE: Effect of hydrocortisone and placebo in patients with partial adrenal insufficiency after cessation of glucocorticoid treatment; A study protocol for a multi-centre, randomised, double-blinded, placebo-controlled clinical trial",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Anja Dreyer", "Stina Willemoes Borresen", "Simon Boggild Hansen", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Glucocorticoid-induced adrenal insufficiency: Identification of diagnostic and prognostic biomarkers based on two randomized controlled trials - REFINE",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Hansen Simon Boggild", "Anja Dreyer", "Stina Willemoes Borresen", "Jens Otto Lunde Jorgensen"],
+        "abstract": []
+      },
+      {
+        "title": "Acromegaly management in the Scandinavian countries - a DELPHI consensus survey",
+        "tags": ["Poster"],
+        "date": "May 2023",
+        "authors": ["Mai C. Arlien-Soborg", "Jakob Dal", "Ansgar Heck", "Jens Otto Lunde Jorgensen"],
+        "abstract": []
+      },
+      {
+        "title": "Maternal cortisol levels in 3rd trimester and early language development, a study of 1,093 mother-child pairs from Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Hanne Mumm", "Anja Dreyer", "Dorthe Bleses", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Higher free testosterone in third trimester was associated with lower abdominal circumference at birth in boys: Odense Child Cohort.",
+        "tags": ["Preprint"],
+        "date": "Mar 2023",
+        "authors": ["Camilla Viola Palm", "Anja Dreyer", "Henriette Boye Kyhl", "Marianne Andersen"],
+        "abstract": ["Objective: To investigate programming effects of maternal testosterone on offspring birth anthropometrics. Design: Population-based prospective cohort study. Setting: University Hospital. Population: 1,486 mother-child dyads from Odense Child Cohort. Methods: Maternal blood samples were collected at gestational week 27-30 and free testosterone (FT)..."]
+      },
+      {
+        "title": "Higher free thyroxine associated with pfas exposure in first trimester. The odense child cohort",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Richard Christian Jensen", "Dorte Glintborg", "Clara Amalie Gade Timmermann", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Oxidative stress decreased after six months testosterone treatment compared to placebo in ageing men - a randomized, double-blind trial",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Louise Lehmann Christensen", "Marianne Andersen", "Poulsen Henrik Enghusen", "Dorte Glintborg"],
+        "abstract": []
+      },
+      {
+        "title": "Maternal prolactin-levels in pregnancy and offspring body composition at 7 years. Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Hansen Freja Pelck", "Anders Grøntved", "Richard C Jensen", "Dorte Glintborg"],
+        "abstract": []
+      },
+      {
+        "title": "Sex difference in patients with controlled acromegaly – a multicenter survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Jakob Dal", "Christian Rosendal", "Jesper Karmisholt", "Jens Otto Lunde Jorgensen"],
+        "abstract": ["Objective: \nActive acromegaly is subject to sex differences in GH and IGF-I patterns as well as clinical features but whether this also pertains to controlled disease is unclear.\n\nDesign: \nIn a cross-sectional, multi-center study, 84 patients with acromegaly (F=43, M=41), who were considered controlled after surgery alone (n=23) or during continued..."]
+      },
+      {
+        "title": "Accelerated osteoarthritis in women with polycystic ovary syndrome: a prospective nationwide registry-based cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Stefan Kluzek", "Katrine Hass Rubin", "Maria Sanchez", "Bo Abrahamsen"],
+        "abstract": ["Background\nOsteoarthritis (OA) is the most common form of arthritis with multiple risk factors implicated including female sex and obesity. Metabolic dysregulation associated with obesity leading to metabolic syndrome is a proposed component of that association. Polycystic ovary syndrome (PCOS) commonly affects women of reproductive age and these w..."]
+      },
+      {
+        "title": "Adapting fasting plasma glucose threshold for GDM diagnosis according to the population distribution – An approach to the Danish paradox",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Richard Christian Jensen", "Dorte Møller Jensen", "Kristen S Gibbons", "Marianne Andersen"],
+        "abstract": ["Aims: \nTo examine third trimester fasting venous plasma glucose (FVPG) according to the distribution of a Danish population of pregnant women and identify potential local FVPG thresholds for GDM diagnosis related to risks of adverse pregnancy outcomes.\n\nMethods: \nIn the observational Odense Child Cohort (OCC) study, 1,516 women had FVPG measured at..."]
+      },
+      {
+        "title": "Accelerated Osteoarthritis in Women with Polycystic Ovary Syndrome: a prospective nationwide registry-based cohort study.",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Stefan Kluzek", "Katrine Hass Rubin", "Maria Sanchez", "Bo Abrahamsen"],
+        "abstract": ["Background. Osteoarthritis (OA) is the most common form of arthritis with multiple risk factors implicated including female sex and obesity. Metabolic dysregulation associated with obesity leading to Metabolic Syndrome is a proposed component of that association. Polycystic ovary syndrome (PCOS) commonly affects women of reproductive age and these..."]
+      },
+      {
+        "title": "Acromegaly is associated with reduced socioeconomic status and more so in female patients: A nationwide population-based study",
+        "tags": ["Article"],
+        "date": "Aug 2020",
+        "authors": ["Jakob Dal", "E.H. Nielsen", "Ulla Feldt-Rasmussen", "Jens Otto Lunde Jorgensen"],
+        "abstract": []
+      },
+      {
+        "title": "Disease Control and Gender Predict the Socioeconomic Effects of Acromegaly: A Nationwide Cohort Study",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Jakob Dal", "E.H. Nielsen", "Ulla-Feldt Rasmussen", "Jens Otto Lunde Jorgensen"],
+        "abstract": ["Objective\nTo study the socioeconomic status in acromegaly in a population-based follow-up study.\n\nMethods\nAll incident cases of acromegaly (n=576) during the period 1977-2010 were included. For every patient, 100 persons were sampled from the general population matched for date of birth and gender (comparison cohort). Cox regression and hazard rati..."]
+      },
+      {
+        "title": "MON-LB131 Perfluoroalkyl Substance Exposure Was Negatively Associated With Cortisone Levels in Pregnancy",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Anja Dreyer", "Richard Christian Jensen", "Dorte Glintborg", "Marianne Andersen"],
+        "abstract": ["Introduction: During pregnancy, maternal cortisol levels are increased threefold by third trimester. The enzyme 11β-hydroxysteroid dehydrogenase (11β-HSD, isoforms 1 and 2) regulates cortisol levels by the conversion between cortisol and cortisone. Perfluoroalkyl substances (PFAS) are persistent chemicals with suspected endocrine disrupting abiliti..."]
+      },
+      {
+        "title": "Phenotypic and genotypic features of a large kindred with a germline AIP variant",
+        "tags": ["Article"],
+        "date": "Apr 2020",
+        "authors": ["Jakob Dal", "E.H. Nielsen", "Marianne Klose", "Jens Otto Lunde Jorgensen"],
+        "abstract": ["Context\nAcromegaly is usually a sporadic disease, but familial cases occur. Mutations in the aryl hydrocarbon receptor‐interacting protein (AIP) gene are associated with familial pituitary adenoma predisposition. However, the pathogenicity of some AIP variants remains unclear and additional unknown genes may be involved.\n\nObjective\nTo explore the p..."]
+      },
+      {
+        "title": "Fibrin lysability is associated with central obesity and inflammation in women with polycystic ovary syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Anne Cathrine Meldgaard Godtfredsen", "Johannes Jakobsen Sidelmann", "Jørgen Gram", "Dorte Glintborg"],
+        "abstract": ["Introduction: \nPolycystic ovary syndrome (PCOS) is characterized by increased central fat mass (CFM), hyper-inflammation, and hemostatic alterations; the risk of cardiovascular disease may also be increased. Reduced fibrin lysability is a risk factor for cardiovascular disease. The present study assessed fibrin lysability in women with PCOS and con..."]
+      },
+      {
+        "title": "Prenatal exposure to perfluorodecanoic acid is associated with lower circulating concentration of adrenal steroid metabolites during mini puberty in human female infants. The Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "Mar 2020",
+        "authors": ["Richard Christian Jensen", "Dorte Glintborg", "Clara Amalie Gade Timmermann", "Tina Kold Jensen"],
+        "abstract": ["BACKGROUND: \n\nThe complement and coagulation systems share evolutionary origin with many components showing structural homology. Certain components, including complement factor H (FH) and coagulation factor XII (FXII), have separately been shown to have auxiliary activities across the two systems.\n\nOBJECTIVES: \n\nThe interaction between FXII and FH..."]
+      },
+      {
+        "title": "Awareness of polycystic ovary syndrome among obstetrician-gynecologists and endocrinologists in Northern Europe",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Terhi Piltonen", "Maria Ruokojärvi", "Helle Karro", "Kobra Hassani"],
+        "abstract": ["OBJECTIVE:To date, little is known about differences in the knowledge, diagnosis making and treatment strategies of health care providers regarding polycystic ovary syndrome (PCOS) across different disciplines in countries with similar health care systems. To inform guideline translation, we aimed to study physician reported awareness, diagnosis an..."]
+      },
+      {
+        "title": "Correction: Large-scale genome-wide meta-analysis of polycystic ovary syndrome suggests shared genetic architecture for different diagnosis criteria",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Felix Day", "Tugce Karaderi", "Michelle R Jones", "Corrine K Welt"],
+        "abstract": ["In the Data Availability Statement, the URL does not fully match the data described. The URL should be: https://doi.org/10.17863/CAM.36024. The correct Data Availability Statement is: Summary statistic GWAS meta-analysis results for the combined dataset excluding 23andMe are available at https://doi.org/10.17863/CAM.36024. The most significant 10,0..."]
+      },
+      {
+        "title": "Corrigendum. Anogenital distance in children born of mothers with polycystic ovary syndrome: the Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Dorte Glintborg", "Richard Christian Jensen", "Anne Vibeke Schmedes", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Impaired Respiratory Function in Women With PCOS Compared With Matched Controls From a Population-Based Study",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Maria Othelie Underdal", "Oyvind Salvesen", "Anne Hildur Henriksen", "Eszter Vanky"],
+        "abstract": ["Context\nIncreased prevalence of asthma is reported from epidemiological studies in women with PCOS.\n\nObjective\nTo investigate respiratory function in women with PCOS compared to controls in a clinical setting.\n\nDesign\n8-year clinical follow-up including self-reported asthma diagnoses and spirometry of women with PCOS randomized to metformin or plac..."]
+      },
+      {
+        "title": "Anogenital distance in children born of mothers with polycystic ovary syndrome: the Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Dorte Glintborg", "Richard Christian Jensen", "Anne Vibeke Schmedes", "Marianne Andersen"],
+        "abstract": ["Study question: \nAre higher testosterone levels during pregnancy in women with polycystic ovary syndrome (PCOS) associated with longer offspring anogenital distance (AGD)?\n\nSummary answer: \nAGD was similar in 3-month-old children born of mothers with PCOS compared to controls.\n\nWhat is known already: \nAGD is considered a marker of prenatal androgen..."]
+      },
+      {
+        "title": "Vitamin D levels were significantly higher during and after lifestyle intervention in pregnancy: A randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Mette H. Tanvig", "Dorte M. Jensen", "Marianne Andersen", "Christina A. Vinter"],
+        "abstract": ["Introduction: \nVitamin D deficiency is common in pregnancy, especially in obese women. Lifestyle intervention could potentially result in higher levels of Vitamin D. We therefore aimed to study the effect of lifestyle intervention during pregnancy on serum levels of 25-hydroxyvitamin D (25(OH)D).\n\nMaterial and methods: \n360 obese women were randomi..."]
+      },
+      {
+        "title": "Sex differences in reproductive hormones during mini-puberty in infants with normal and disordered sex development",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Trine Holm Johannsen", "Main KM", "Marie Lindhardt Ljubicic", "Juul A"],
+        "abstract": []
+      },
+      {
+        "title": "Increased risk of thyroid disease in Danish women with polycystic ovary syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Dorte Glintborg", "Katrine Hass Rubin", "Mads Nybo", "Marianne Andersen"],
+        "abstract": ["Aim: To investigate risk of thyroid disease in Danish women with PCOS.\nDesign: National register-based study on women with PCOS in Denmark. 18,476 women had a diagnosis of PCOS in the Danish National Patient Register. PCOS Odense University Hospital (PCOS OUH, N=1,146) was an embedded cohort of women with PCOS and clinical and biochemical examinati..."]
+      },
+      {
+        "title": "One-way text messages versus no text messages on attendance to follow-up cervical cancer screening among HPV-positive Tanzanian Women (Connected2Care): a parallel-group randomized controlled trial (Preprint)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Ditte Søndergaard Linde", "Marianne Andersen", "Julius D Mwaiselage", "Vibeke Rasch"],
+        "abstract": ["BACKGROUND\nRapid HPV DNA testing is an emerging cervical cancer screening strategy in resource-limited countries, yet it requires follow-up of women who test HPV-positive.\n\nOBJECTIVE\nWe conducted a randomized controlled trial to determine if one-way text messages improved attendance to a 14-months follow-up cervical cancer screening among HPV-posit..."]
+      },
+      {
+        "title": "One-way text messages versus no text messages on attendance to follow-up cervical cancer screening among HPV-positive Tanzanian Women (Connected2Care): a parallel-group randomized controlled trial (Preprint)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Ditte Søndergaard Linde", "Marianne Andersen", "Julius D Mwaiselage", "Vibeke Rasch"],
+        "abstract": ["Background: \nRapid human papillomavirus (HPV) DNA testing is an emerging cervical cancer screening strategy in resource-limited countries, yet it requires follow-up of women who test HPV positive.\n\nObjective: \nThis study aimed to determine if one-way text messages improved attendance to a 14-month follow-up cervical cancer screening among HPV-posit..."]
+      },
+      {
+        "title": "The imprinted gene Delta like non-canonical notch ligand 1 (Dlk1) associates with obesity and triggers insulin resistance through inhibition of skeletal muscle glucose uptake",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Charlotte Harken Jensen", "Rok Kosmina", "Mikael Rydén", "Ditte Caroline Andersen"],
+        "abstract": ["Background: \nThe imprinted gene Delta like non-canonical Notch ligand 1 (Dlk1) is considered an inhibitor of adipogenesis, but its in vivo impact on fat mass indeed remains elusive and controversial.\n\nMethods: \nFat deposits were assessed by MRI and DXA scanning in two cohorts of non-diabetic men, whereas glucose disposal rate (GDR) was determined d..."]
+      },
+      {
+        "title": "Pregnancy or cord 25-hydroxyvitamin D is not associated with measures of body fat or adiposity in children from three months to three years of age. An Odense Child Cohort study",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Søs Dragsbæk Larsen", "Mathilde Egelund Christensen", "Christine Dalgård", "Henrik B T Christesen"],
+        "abstract": ["Background & aims: \nThe susceptibility to overweight in adults born during winter season may suggest foetal programming of prenatal vitamin D levels on adiposity. We investigated whether cord or pregnancy serum 25-hydroxyvitamin D (s-25OHD) was associated with infant and child body fat measures in a Danish population-based prospective cohort.\n\nMeth..."]
+      },
+      {
+        "title": "Associations between serum and plasma brain-derived neurotrophic factor and influence of storage time and centrifugation strategy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Anne Kær Gejl", "Christian Enevold", "Anna Bugge", "Lars Bo Andersen"],
+        "abstract": ["The aims of the study were to clarify the impact of storage time and centrifugation strategy on brain-derived neurotrophic factor (BDNF) levels in human serum and plasma samples. In addition, we analyzed associations between BDNF levels, cardiorespiratory fitness and waist circumference. Seventeen healthy males (25.2 (4.1) years) were included in t..."]
+      },
+      {
+        "title": "Third trimester cortisol status is associated with offspring sex and polycystic ovary syndrome status: Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Marianne Andersen", "Richard Christian Jensen", "Anne Vibeke Schmedes", "Dorte Glintborg"],
+        "abstract": ["Objective: \nTo determine predictors of maternal serum (S) and urinary (U) cortisol and cortisone levels during the third trimester and to examine associations between maternal cortisol status, offspring sex, and maternal polycystic ovary syndrome (PCOS) status.\n\nDesign: \nProspective observational study.\n\nSetting: \nThe study is part of the prospecti..."]
+      },
+      {
+        "title": "Aldosterone, Salt, and Potassium Intakes as Predictors of Pregnancy Outcome, Including Preeclampsia",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Anna Birukov", "Louise Bjørkholt Andersen", "Florian Herse", "Boye L Jensen"],
+        "abstract": ["The mineralocorticoid aldosterone increases in plasma in healthy pregnancy along with renin and angiotensin II and plays a key role in the physiological plasma volume expansion. In mice, aldosterone contributes to an optimal fetal development by enhancing PlGF (placental growth factor) expression and trophoblast cell proliferation. In preeclampsia,..."]
+      },
+      {
+        "title": "One-way SMS and healthcare outcomes in Africa: Systematic review of randomised trials with meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Ditte Søndergaard Linde", "Malene Korsholm", "Johnson Katanga", "Marianne Andersen"],
+        "abstract": ["Background: \nThe impact of one-way SMS on health outcomes in Africa is unclear. We aimed to conduct a systematic review of one-way SMS randomised trials in Africa and a meta-analysis of their effect on healthcare appointments attendance and medicine adherence.\n\nMethods: \nPubMed, Embase, CENTRAL, The Global Health Library, ClinicalTrials.gov, ICTRP,..."]
+      },
+      {
+        "title": "Anti-Müllerian Hormone in PCOS: A Review Informing International Guidelines",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["Helena Teede", "Marie Misso", "Eliza C Tassone", "Joop S E Laven"],
+        "abstract": ["Polycystic ovary syndrome (PCOS) affects 8–13% of women. The Rotterdam diagnostic criteria include polycystic ovarian morphology (PCOM) on ultrasound, but given recognized challenges, serum anti-Müllerian hormone (AMH) is proposed as an alternative. To inform international PCOS guidelines, a systematic review was completed. Key identified gaps incl..."]
+      },
+      {
+        "title": "Ano-genital distance in children born of mothers with polycystic ovary syndrome - Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["Dorte Glintborg", "Richard Christian Jensen", "Anne Vibeke Schmedes", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Maternal 3rd trimester cortisol status was associated with offspring sex and PCOS status. Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["Marianne Andersen", "Richard Jensen", "Anne Schmedes", "Dorte Glintborg"],
+        "abstract": []
+      },
+      {
+        "title": "Prolactin and breast increase during pregnancy in PCOS – linked to long-term metabolic health?",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Maria Othelie Underdal", "Oyvind Salvesen", "Anne Vibeke Schmedes", "Eszter Vanky"],
+        "abstract": ["Objective\nTo explore whether gestational prolactin and breast increase are markers of metabolic health in pregnancy and on long-term, in PCOS.\nDesign\nFollow-up study. Women with PCOS, according to the Rotterdam criteria (N=239), former participants of the randomized controlled trial (RCT) PregMet were invited, 131 participated in the current follow..."]
+      },
+      {
+        "title": "The genetic architecture of sporadic and recurrent miscarriage",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Triin Laisk", "Ana Luiza Goncalves Soares", "Teresa Ferreira", "Cecilia Lindgren"],
+        "abstract": ["Miscarriage is a common complex trait that affects 10-25% of clinically confirmed pregnancies. Here we present the first large-scale genetic association analyses with 69,118 cases from five different ancestries for sporadic miscarriage and 750 cases of European ancestry for recurrent miscarriage, and up to 359,469 female controls. We identify one g..."]
+      },
+      {
+        "title": "Hair cortisol in the perinatal period mediates associations between maternal adversity and disrupted maternal interaction in early infancy",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Maja Nyström‐Hansen", "Marianne Andersen", "Jennifer E. Khoury", "Susanne Harder"],
+        "abstract": ["Existing literature points to the possibility that cortisol could be one link between maternal adversity and poorer parenting quality, but most studies have examined salivary cortisol concentrations rather than hair cortisol concentrations. The current study examined hair cortisol concentration (HCC) during the third trimester of pregnancy as a med..."]
+      },
+      {
+        "title": "Socioeconomic status in Danish women with polycystic ovary syndrome. A register-based cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Katrine Hass Rubin", "Marianne Andersen", "Bo Abrahamsen", "Dorte Glintborg"],
+        "abstract": ["Introduction: \nLow socioeconomic status (SES) may be associated with increased risk of polycystic ovary syndrome (PCOS) and vice versa. Possible associations between SES, obesity and ethnicity in PCOS are undetermined.\n\nMaterial and methods: \nNational register-based study including women with PCOS aged 25 years or above (PCOS Denmark and an embedde..."]
+      },
+      {
+        "title": "Large-scale genome-wide meta-analysis of polycystic ovary syndrome suggests shared genetic architecture for different diagnosis criteria",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Felix Day", "Tugce Karaderi", "Michelle R Jones", "Corrine K Welt"],
+        "abstract": ["Polycystic ovary syndrome (PCOS) is a disorder characterized by hyperandrogenism, ovulatory dysfunction and polycystic ovarian morphology. Affected women frequently have metabolic disturbances including insulin resistance and dysregulation of glucose homeostasis. PCOS is diagnosed with two different sets of diagnostic criteria, resulting in a pheno..."]
+      },
+      {
+        "title": "Supporting Table 2",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Søs Dragsbæk Larsen", "Christine Dalgård", "Mathilde Egelund Christensen", "Henrik B T Christesen"],
+        "abstract": []
+      },
+      {
+        "title": "Supporting Table 3",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Søs Dragsbæk Larsen", "Christine Dalgård", "Mathilde Egelund Christensen", "Henrik B T Christesen"],
+        "abstract": []
+      },
+      {
+        "title": "Supporting Table 1",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Søs Dragsbæk Larsen", "Christine Dalgård", "Mathilde Egelund Christensen", "Henrik B T Christesen"],
+        "abstract": []
+      },
+      {
+        "title": "151. Aldosterone as independent predictor of placental and birth weights: Odense Child Cohort study",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Anna Birukov", "Jan stener jørgensen", "Louise Bjørkholt Andersen", "Boye L Jensen"],
+        "abstract": ["Introduction\nAldosterone is involved in plasma volume expansion and its levels, along with the levels of other members of the renin-angiotensin-aldosterone system (RAAS), are increased in healthy pregnancy. Aldosterone appears to contribute to an optimal fetal development by enhancing placental growth factor (PlGF) expression and trophoblast cell p..."]
+      },
+      {
+        "title": "Blood pressure in 3-year-old girls associates inversely with umbilical cord serum 25-hydroxyvitamin D",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Søs Dragsbæk Larsen", "Christine Dalgård", "Mathilde Egelund Christensen", "Henrik B T Christesen"],
+        "abstract": ["Background: Low foetal vitamin D status may be associated with higher blood pressure (BP) in later life.\nObjective: To examine whether serum 25-hydroxyvitamin D2+3 (s-25OHD) in cord and pregnancy associates with systolic and diastolic BP (SBP; DBP) in children up to three years of age.\nDesign: Prospective, population-based cohort study.\nMethods: We..."]
+      },
+      {
+        "title": "Aldosterone as independent predictor of placental and birth weights: Odense child cohort Study",
+        "tags": ["Conference Paper"],
+        "date": "Oct 2018",
+        "authors": ["Anna Birukov", "Jan stener jørgensen", "Louise Bjørkholt Andersen", "Boye L Jensen"],
+        "abstract": []
+      },
+      {
+        "title": "Tumoral MGMT content predicts survival in patients with aggressive pituitary tumors and pituitary carcinomas given treatment with temozolomide",
+        "tags": ["Article"],
+        "date": "Sep 2018",
+        "authors": ["Daniel Bengtsson", "Henrik Daa Schrøder", "K. Berinder", "Pia Burman"],
+        "abstract": []
+      },
+      {
+        "title": "Motivational interviewing in obese women with polycystic ovary syndrome – a pilot study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Laerke Vendelbo Moeller", "Christina louise Lindhardt", "Marianne Andersen", "Pernille Ravn"],
+        "abstract": ["Lifestyle intervention is first line treatment in obese women with polycystic ovary syndrome (PCOS). The effect of motivational interviewing (MI) as add on to standard advice (SA) on weight loss and quality of life (QoL) has not been evaluated in obese women with PCOS. We aimed to examine whether MI as add on to SA induced higher weight loss and im..."]
+      },
+      {
+        "title": "Assessment of the genetic and clinical determinants of fracture risk: Genome wide association and mendelian randomisation study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Katerina Trajanoska", "John A Morris", "Ling Oei", "GEFOS/GENOMOS Consortium"],
+        "abstract": ["Objectives\nTo identify the genetic determinants of fracture risk and assess the role of 15 clinical risk factors on osteoporotic fracture risk.\n\nDesign\nMeta-analysis of genome wide association studies (GWAS) and a two-sample mendelian randomisation approach.\n\nSetting\n25 cohorts from Europe, United States, east Asia, and Australia with genome wide g..."]
+      },
+      {
+        "title": "Lifestyle Intervention in Danish Obese Pregnant Women With Early Gestational Diabetes Mellitus According to WHO 2013 Criteria Does Not Change Pregnancy Outcomes: Results From the LiP (Lifestyle in Pregnancy) Study",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Christina Anne Vinter", "Mette H. Tanvig", "Maria H. Christensen", "Dorte M Jensen"],
+        "abstract": ["Objective: \nTo study effects of lifestyle intervention on metabolic and clinical outcomes in obese women fulfilling the World Health Organization (WHO) 2013 diagnostic criteria for gestational diabetes mellitus (GDM) in early gestation.\n\nResearch design and methods: \nSecondary analysis of data from the Lifestyle-in-Pregnancy (LiP) study, a lifestyl..."]
+      },
+      {
+        "title": "Testosterone Levels in Third Trimester in Polycystic Ovary Syndrome: Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Dorte Glintborg", "Richard Christian Jensen", "Kristian Bentsen", "Marianne Andersen"],
+        "abstract": ["Background\nPolycystic ovary syndrome is characterized by hyperandrogenism. In pregnancy, testosterone levels may be higher in women with PCOS compared to controls.\n\nAims\nTo compare total testosterone (TT), free testosterone (FT), and sex hormone binding globulin (SHBG) levels in 3rd trimester pregnant women with PCOS and controls and to establish r..."]
+      },
+      {
+        "title": "Recommendations from the international evidence-based guideline for the assessment and management of polycystic ovary syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Helena Teede", "Marie L. Misso", "Michael F Costello", "Bulent O Yildiz"],
+        "abstract": ["Study Question\nWhat is the recommended assessment and management of women with polycystic ovary syndrome (PCOS), based on the best available evidence, clinical expertise, and consumer preference?\n\nSummary Answer\nInternational evidence‐based guidelines including 166 recommendations and practice points, addressed prioritized questions to promote cons..."]
+      },
+      {
+        "title": "Recommendations from the international evidence-based guideline for the assessment and management of polycystic ovary syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Helena Teede", "Marie L Misso", "Michael F Costello", "Bulent O Yildiz"],
+        "abstract": ["Study question: \nWhat is the recommended assessment and management of women with polycystic ovary syndrome (PCOS), based on the best available evidence, clinical expertise and consumer preference?\n\nSummary answer: \nInternational evidence-based guidelines, including 166 recommendations and practice points, addressed prioritized questions to promote..."]
+      },
+      {
+        "title": "Intraoperative low field MRI in transsphenoidal pituitary surgery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Morten Winkler Møller", "Marianne Andersen", "Christian Pedersen", "Frantz Rom Poulsen"],
+        "abstract": ["Background: \nIntraoperative low field MRI (iMRI, 0.15T) during transsphenoidal surgery on pituitary adenomas (PA) may significantly improve tumour removal. However, extensive surgery can lead to pituitary hormone deficiency. Furthermore, introduction of iMRI will prolong duration of surgery, which may elevate risk of postoperative infections.\n\nMeth..."]
+      },
+      {
+        "title": "Recommendations from the international evidence-based guideline for the assessment and management of polycystic ovary syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Helena Teede", "Marie L. Misso", "Michael F Costello", "Bulent O Yildiz"],
+        "abstract": ["Study question: \nWhat is the recommended assessment and management of women with polycystic ovary syndrome (PCOS), based on the best available evidence, clinical expertise, and consumer preference?\n\nSummary answer: \nInternational evidence-based guidelines including 166 recommendations and practice points, addressed prioritized questions to promote..."]
+      },
+      {
+        "title": "Diagnosis and follow-up of type 2 diabetes in women with PCOS. A role of OGTT?",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Marianne Andersen", "Dorte Glintborg"],
+        "abstract": ["Polycystic ovary syndrome (PCOS) is common in premenopausal women. The majority of women with PCOS have insulin resistance and the risk of type 2 diabetes mellitus (T2D) is higher in women with PCOS compared to controls. In non-pregnant women with PCOS, glycemic status may be assessed by oral glucose tolerance test (OGTT), fasting plasma glucose (F..."]
+      },
+      {
+        "title": "Sex Differences in Reproductive Hormones During Mini-Puberty in Infants With Normal and Disordered Sex Development",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Trine Holm Johannsen", "Katharina Maria Main", "Marie Lindhardt Ljubicic", "Anders Juul"],
+        "abstract": ["CONTEXT\nThe early activation of the hypothalamic-pituitary-gonadal axis during infancy can be used in the evaluation of infants suspected of disorders of sex development (DSD). However, few data exists on sex-specific reference ranges for these hormones during early life.\n\nOBJECTIVE\nTo evaluate sex-differences in reproductive hormone concentrations..."]
+      },
+      {
+        "title": "Cardiovascular disease in a nationwide population of Danish women with polycystic ovary syndrome",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Dorte Glintborg", "Katrine Hass Rubin", "Mads Nybo", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Licorice-induced apparent mineralocorticoid excess compounded by excessive use of terbutaline and high water intake",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Laust Frisenberg Buhl", "Frederik Nørregaard Pedersen", "Marianne Andersen", "Dorte Glintborg"],
+        "abstract": ["This case highlights the clinical course of a 54-year-old male patient presenting with hypertension and long-term refractory hypokalaemia. He reported long-term malaise, fatigue and physical discomfort. Diarrhoea, vomiting, over-the-counter drugs, dietary supplements and any kind of medical abuse were all denied. Physical examination was normal. Su..."]
+      },
+      {
+        "title": "Effect of 12-month treatment with metformin and/or oral contraceptives on health-related quality of life in polycystic ovary syndrome",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Magda Lambaa Altinok", "Pernille Ravn", "Marianne Andersen", "Dorte Glintborg"],
+        "abstract": ["Health-related quality of life (HRQoL) is impaired in polycystic ovary syndrome (PCOS), but the effect of treatment with metformin (M) and/or oral contraceptives (OCP) is undetermined. To assess changes in HRQoL during 12-month randomized treatment with M, OCP or M + OCP in PCOS. Ninety women with PCOS were randomized to treatment with M, OCP or M..."]
+      },
+      {
+        "title": "Mitochondria, glycogen, and lipid droplets in skeletal muscle during testosterone treatment and strength training: A randomized, double-blinded, placebo-controlled trial",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["R. C. Jensen", "L. L. Christensen", "Joachim Nielsen", "Marianne Andersen"],
+        "abstract": ["Low testosterone levels in aging men are associated with insulin resistance. Mitochondrial dysfunction, changes in glycogen metabolism, and lipid accumulation are linked to insulin resistance in skeletal muscle. In this randomized, double‐blinded, placebo‐controlled study, we investigated the effects of six‐month testosterone replacement therapy (T..."]
+      },
+      {
+        "title": "Perfluoroalkyl substances and glycemic status in pregnant Danish women: The Odense Child Cohort",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Richard Christian Jensen", "Dorte Glintborg", "Clara Amalie Gade Timmermann", "Marianne Andersen"],
+        "abstract": ["Background: \nPerfluoroalkyl substances (PFASs) are persistent chemicals with suspected endocrine disrupting abilities applied in consumer products. PFASs have potentially modulating effects on glucose homeostasis. Insulin resistance prevails during third trimester of pregnancy, and this challenge of glucose homeostasis may reveal putative effects o..."]
+      },
+      {
+        "title": "Metabolic Syndrome in Hyperprolactinemia",
+        "tags": ["Chapter"],
+        "date": "Apr 2018",
+        "authors": ["Marianne Andersen", "Dorte Glintborg"],
+        "abstract": ["The metabolic syndrome (MetS) is a conglomerate of clinical findings that convey into increased morbidity and mortality from type 2 diabetes mellitus (T2D) and cardiovascular disease. Hyperprolactinemia (hyperPRL) is associated with components of MetS, especially during pregnancy. Endogenous levels of sex steroids are high during pregnancy in contr..."]
+      },
+      {
+        "title": "Does metformin treatment during pregnancy modify future metabolic profile in women with PCOS?",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Maria Othelie Underdal", "Solhild Stridsklev", "Ingrid Hennum Oppen", "Eszter Vanky"],
+        "abstract": ["Context\nWorldwide, metformin is prescribed in an attempt to improve pregnancy outcome in PCOS. Metformin may also benefit future health by modulating the increased metabolic stress during pregnancy.\n\nObjective\nTo investigate if metformin during pregnancy modified future metabolic health in women with PCOS.\n\nDesign\nFollow-up study of a randomized co..."]
+      },
+      {
+        "title": "Prevalence and incidence of clinically diagnosed knee, hip and hand osteoarthritis in women with polycystic ovary syndrome: a National Register-Based Study",
+        "tags": ["Conference Paper"],
+        "date": "Apr 2018",
+        "authors": ["Maria Sanchez", "Katrine Hass Rubin", "Dorte Glintborg", "Bo Abrahamsen"],
+        "abstract": []
+      },
+      {
+        "title": "Polycystic ovary syndrome and hyperglycaemia in pregnancy. A narrative review and results from a prospective Danish cohort study",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Camilla Viola Palm", "Dorte Glintborg", "Henriette Boye Kyhl", "Marianne Andersen"],
+        "abstract": ["Background: \nInsulin resistance is common in polycystic ovary syndrome (PCOS). PCOS may be associated with increased risk of gestational diabetes mellitus (GDM).\n\nObjectives: \nTo 1) review literature regarding PCOS and hyperglycaemia in pregnancy and 2) present original data from Odense Child Cohort (OCC) regarding GDM in PCOS.\n\nMethods: \nLiteratur..."]
+      },
+      {
+        "title": "Cancer Incidence in Patients With Acromegaly: A Cohort Study and Meta-Analysis of the Literature",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Jakob Dal", "Michelle Z Leisner", "Kasper Hermansen", "Jens Otto Lunde Jorgensen"],
+        "abstract": ["Context\nAcromegaly has been associated with increased risk of cancer morbidity and mortality, but research findings remain conflicting and population-based data are scarce. We therefore examined whether patients with acromegaly are at higher risk of cancer.\n\nDesign\nA nationwide cohort study (1978-2010) including 529 acromegaly cases was performed...."]
+      },
+      {
+        "title": "Gestational Diabetes Mellitus: Does One Size Fit All? A Challenge to Uniform Worldwide Diagnostic Thresholds",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Harold David Mcintyre", "Dorte M. Jensen", "Richard C. Jensen", "Marianne Andersen"],
+        "abstract": ["Objective: \nTo define the prevalence and pregnancy outcomes related to elevated fasting venous plasma glucose (FVPG) in a Danish pregnancy cohort.\n\nResearch design and methods: \nThis was an observational cohort study including 1,516 women without gestational diabetes mellitus (GDM) by Danish criteria. FVPG measured at 28 weeks' gestation was relate..."]
+      },
+      {
+        "title": "Cardiovascular disease in a nationwide population of Danish women with polycystic ovary syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Dorte Glintborg", "Katrine Hass Rubin", "Mads Nybo", "Marianne Andersen"],
+        "abstract": ["Background: \nPolycystic ovary syndrome (PCOS) is associated with obesity and low grade inflammation and the risk for cardiovascular disease (CVD) could be increased in PCOS.\n\nMethods: \nNational register-based study including women with PCOS and no previous diagnosis of CVD, hypertension, or dyslipidemia. PCOS Denmark (N = 18,112) included women wit..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Dorte Glintborg", "Katrine Hass Rubin", "Mads Nybo", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary material",
+        "tags": ["Data"],
+        "date": "Feb 2018",
+        "authors": ["Gudmundur Johannsson", "Ulla Feldt-Rasmussen", "Ida Holme Håkonsson", "Antonia Brooke"],
+        "abstract": []
+      },
+      {
+        "title": "Supporting Table 2",
+        "tags": ["Data"],
+        "date": "Feb 2018",
+        "authors": ["Gudmundur Johannsson", "Ulla Feldt-Rasmussen", "Ida Holme Håkonsson", "Antonia Brooke"],
+        "abstract": []
+      },
+      {
+        "title": "Supporting Figure 1",
+        "tags": ["Data"],
+        "date": "Feb 2018",
+        "authors": ["Gudmundur Johannsson", "Ulla Feldt-Rasmussen", "Ida Holme Håkonsson", "Antonia Brooke"],
+        "abstract": []
+      },
+      {
+        "title": "Supporting Table 1",
+        "tags": ["Data"],
+        "date": "Feb 2018",
+        "authors": ["Gudmundur Johannsson", "Ulla Feldt-Rasmussen", "Ida Holme Håkonsson", "Antonia Brooke"],
+        "abstract": []
+      },
+      {
+        "title": "Adrenal activity and metabolic risk during randomized escitalopram or placebo treatment in PCOS",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Dorte Glintborg", "Magda Lambaa Altinok", "Pernille Ravn", "Marianne Andersen"],
+        "abstract": ["Background/aims: \nPolycystic ovary syndrome (PCOS) is associated with insulin resistance, adrenal hyperactivity and decreased mental health. We aimed to investigate changes in adrenal activity, metabolic status, and mental health in PCOS during treatment with escitalopram or placebo.\n\nMethods: \nForty-two overweight premenopausal women with PCOS and..."]
+      },
+      {
+        "title": "Gene expression profiling of fast- and slow- growing gonadotroph non-functioning pituitary adenomas",
+        "tags": ["Article"],
+        "date": "Dec 2017",
+        "authors": ["Camilla Maria Falch", "Arvind Y M Sundaram", "Kristin Astrid Berland Øystese", "Nicoleta Cristina Olarescu"],
+        "abstract": ["Objective: \nReliable biomarkers associated with aggressiveness of non-functioning gonadotroph adenomas (GAs) are lacking. As the growth of tumor remnants is highly variable, molecular markers for growth potential prediction are necessary. We hypothesized that fast- and slow-growing GAs present different gene expression profiles and reliable biomark..."]
+      },
+      {
+        "title": "Text messages to increase attendance to follow-up cervical cancer screening appointments among HPV-positive Tanzanian women (Connected2Care): Study protocol for a randomised controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Ditte Søndergaard Linde", "Marianne Andersen", "Julius D. Mwaiselage", "Vibeke Rasch"],
+        "abstract": ["Background: \nCervical cancer is a major health concern in Tanzania, caused by poor attendance for cervical cancer screening and follow-up of women at risk. Mobile telephone health interventions are proven effective tools to improve health behaviour in African countries. So far, no knowledge exists on how such interventions may perform in relation t..."]
+      },
+      {
+        "title": "Supplementary Material 1",
+        "tags": ["Data"],
+        "date": "Nov 2017",
+        "authors": ["Ditte Søndergaard Linde", "Marianne Andersen", "Julius D. Mwaiselage", "Vibeke Rasch"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Nov 2017",
+        "authors": ["Ditte Søndergaard Linde", "Marianne Andersen", "Julius D. Mwaiselage", "Vibeke Rasch"],
+        "abstract": []
+      },
+      {
+        "title": "Anogenital distance as a phenotypic signature through infancy",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Lærke Priskorn", "Jørgen Holm Petersen", "Niels Jørgensen", "Ku Tina"],
+        "abstract": ["Background: \nAnogenital distance (AGD) has been suggested to represent a phenotypic signature reflecting in utero androgen action. However, it is not known whether an individual's AGD at birth correlates to AGD later in life. We investigate correlations of AGD between 3 and 18 months and asses reproducibility of measurements.\n\nMethods: \nWe measured..."]
+      },
+      {
+        "title": "Response to letter: Development and risk factors of type 2 diabetes in a nationwide population of women with polycystic ovary syndrome",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Dorte Glintborg", "Katrine Hass Rubin", "Bo Abrahamsen", "Marianne Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Targeting either GH or IGF-I during somatostatin analogue treatment in patients with acromegaly: A randomized multicentre study",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Jakob Dal", "Marianne Klose", "Ansgar Heck", "Jens Otto Lunde Jorgensen"],
+        "abstract": ["Context: \nDiscordant GH and IGF-I values are frequent in acromegaly. The clinical significance and its dependence on treatment modality and of glucose-suppressed GH (GHnadir) measurements remain uncertain.\n\nObjective: \nTo evaluate the effects of targeting either IGF-I or GH during somatostatin analog (SA) treatment.\n\nPatients and methods: \n84 patie..."]
+      },
+      {
+        "title": "The prevalence of Type 2 diabetes is not increased in normal-weight women with PCOS",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Rasa Pelanis", "Jan Roar Mellembakken", "Inger Sundström-Poromaa", "Dorte Glintborg"],
+        "abstract": ["Study question: \nIs oral glucose tolerance test (OGTT) needed in all women with polycystic ovary syndrome (PCOS)?\n\nSummary qnswer: \nOGTT is not routinely needed in women with PCOS and BMI < 25 kg/m2.\n\nWhat is known already: \nPCOS is associated with insulin resistance and increased prevalence of prediabetes and Type 2 diabetes (T2D) which is closely..."]
+      },
+      {
+        "title": "Medical comorbidity in polycystic ovary syndrome with special focus on cardiometabolic, autoimmune, hepatic and cancer diseases: An updated review",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Dorte Glintborg", "Marianne Andersen"],
+        "abstract": ["Purpose of review: \nPolycystic ovary syndrome (PCOS) is defined by hyperandrogenism, irregular menses and polycystic ovaries when other causes are excluded. The possible implication of increased morbidity in PCOS for screening and follow-up is uncertain and is reviewed in this article.\n\nRecent findings: \nThe increased risk of type 2 diabetes and ca..."]
+      },
+      {
+        "title": "Testosterone therapy preserves muscle strength and power in aging men with type 2 diabetes-a randomized controlled trial",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Line Velling Magnussen", "Lars G Hvid", "Pernille Hermann", "Marianne Andersen"],
+        "abstract": ["The purpose of the study was to evaluate whether testosterone replacement therapy improves muscle mechanical and physical function in addition to increasing lean leg mass and total lean body mass in aging men with type 2 diabetes and lowered bio-available testosterone (BioT) levels. Thirty-nine men aged 50–70 years with type 2 diabetes and BioT lev..."]
+      },
+      {
+        "title": "Development and Risk Factors of Type 2 Diabetes in a Nationwide Population of Women With Polycystic Ovary Syndrome",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Katrine Hass Rubin", "Dorte Glintborg", "Mads Nybo", "Marianne Andersen"],
+        "abstract": ["Objective\nPolycystic ovary syndrome (PCOS) is associated with insulin resistance and obesity. Prospective population-based data regarding development and possible predictors of type 2 diabetes (T2D) in PCOS are limited.\n\nDesign\nNational Register-based study.\n\nMethods\nPatients with PCOS (PCOS Denmark and embedded cohort; PCOS OUH) and a control popu..."]
+      },
+      {
+        "title": "The Pharmacogenetics of Metformin in Women with PCOS: a Randomized Trial",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Andreas J. T. Pedersen", "Tore Bjerregaard Stage", "Dorte Glintborg", "Mette Marie Hougaard Christensen"],
+        "abstract": ["Polycystic ovary syndrome (PCOS) is the most common endocrine disorder affecting women of reproductive age. PCOS is associated with obesity, dyslipidaemia and insulin resistance, and metformin treatment may improve such metabolic features. The effect of genetic variants in key metformin transporters, their transcriptional regulators or in metformin..."]
+      },
+      {
+        "title": "Insulin resistance in pregnant women with and without polycystic ovary syndrome, and measures of body composition in offspring at birth and 3 years of age",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Sara Kristín Finnbogadóttir", "Dorte Glintborg", "Tina Kold Jensen", "Marianne Andersen"],
+        "abstract": ["Introduction: \nPolycystic ovary syndrome (PCOS) is associated with obesity and insulin resistance in the non-pregnant state, but little is known about insulin sensitivity in the pregnant state. Our objective was to compare insulin resistance in pregnant women with and without PCOS and explore the impact of PCOS on body composition in offspring at b..."]
+      },
+      {
+        "title": "Prenatal exposure to antifungal medication may change anogenital distance in male offspring: A preliminary study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Djamilla Madelung Mogensen", "Maria Bergkvist Pihl", "Niels E. Skakkebæk", "Tina Kold Jensen"],
+        "abstract": ["Background: \nVaginal candidiasis is frequent among pregnant women and it is treated with anti-fungal medication (conazoles). Conazoles have anti-androgenic properties and prenatal exposure in rodents is associated with a shorter (less masculine) anogenital distance (AGD) in male offspring. To our knowledge this has never been studied in humans.\n\nMe..."]
+      },
+      {
+        "title": "Systematic genetic screening in a prospective group of Danish patients with pheochromocytoma",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Morten Svarer Hansen", "Niels Jacobsen", "Anja L Frederiksen", "Dorte Glintborg"],
+        "abstract": ["Recent guidelines recommend consideration of genetic screening in all newly diagnosed patients with pheochromocytoma. Patients diagnosed with pheochromocytoma in the Region of Southern Denmark during 2006-2013 without previously recognized monogenetic etiology were offered genetic screening for mutations in the VHL, RET, SDHB, SDHC, and SDHD genes...."]
+      },
+      {
+        "title": "MR-spectroscopy of hepatic-fat and adiponectin and leptin levels during testosterone therapy in type 2 diabetes. A randomized, double-blinded, placebo-controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Line Velling Magnussen", "Poul Erik Andersen", "Anabel Diaz", "Marianne Andersen"],
+        "abstract": ["Background: \nMen with type 2 diabetes mellitus (T2D) often have lowered testosterone levels and an increased risk of cardiovascular disease (CVD). Ectopic fat increases the risk of CVD, whereas subcutaneous gluteofemoral fat protects against CVD and has a beneficial adipokine secreting profile.\n\nHypothesis: \nTestosterone replacement therapy (TRT) m..."]
+      },
+      {
+        "title": "Oncotarget 2017",
+        "tags": ["Data"],
+        "date": "May 2017",
+        "authors": ["Shuxia Li", "Dongyi Zhu", "Hongmei Duan", "Qihua Tan"],
+        "abstract": []
+      },
+      {
+        "title": "RNA sequencing and RT-qPCR identify different gene expression profiles in fast- vs. slow-growing non-functioning pituitary adenomas",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Camilla Maria Falch", "Arvind Y M Sundaram", "Kristin Astrid Berland Øystese", "Nicoleta Cristina Olarescu"],
+        "abstract": []
+      },
+      {
+        "title": "Treatment with modified-release hydrocortisone for 6 months: A clinical audit in 15 patients with adrenal insufficiency",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["Charlotte Steffensen", "Marianne Andersen", "Ulla Feldt-Rasmussen", "Jens Otto Lunde Jorgensen"],
+        "abstract": []
+      },
+      {
+        "title": "Body composition and testosterone determined VO2max in 780 young men - results from the Odense Androgen Study",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["Louise Lehmann Christensen", "Torben Leo Nielsen", "Pernille Hermann", "Marianne Andersen"],
+        "abstract": []
+      }
+    ],
+    "degree": ["MD,", "PhD,", "DMSci"],
+    "bio": [],
+    "publications": [286],
+    "reads": [37449],
+    "citations": [10738]
   }
 }

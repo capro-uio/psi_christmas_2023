@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Yuan-Fang Wang",
-    "id": "9177npMAAAAJ",
-    "affiliation": "University of California",
+    "name": ["Yuan-Fang Wang"],
+    "id": ["9177npMAAAAJ"],
+    "affiliation": ["University of California"],
     "data": {
       "publications": [
         {
@@ -925,8 +925,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-5256-0956",
-    "name": "Yuan-yuan Fang",
+    "orcid": ["0000-0001-5256-0956"],
+    "name": ["Yuan-yuan Fang"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -937,8 +937,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Yuan Fang",
-    "id": "1682021",
+    "name": ["Yuan Fang"],
+    "id": ["1682021"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -951,5 +951,15 @@
         "url": "https://api.cristin.no/v2/results/2211549"
       }
     ]
+  },
+  "rg": {
+    "id": "Ding-Yuan-Fang",
+    "name": "Ding Yuan Fang",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "City University of Hong Kong | CityU, City University of Hong Kong, Department of Chinese Translation and Linguistics",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

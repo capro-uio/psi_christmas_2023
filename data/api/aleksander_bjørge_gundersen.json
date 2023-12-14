@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Aleksander B. Gundersen",
-    "id": "8riqG7kAAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo",
+    "name": ["Aleksander B. Gundersen"],
+    "id": ["8riqG7kAAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -140,8 +140,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-2642-4226",
-    "name": "Aleksander Bjørge Gundersen",
+    "orcid": ["0000-0003-2642-4226"],
+    "name": ["Aleksander Bjørge Gundersen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -169,8 +169,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Aleksander Bjørge Gundersen",
-    "id": "1021912",
+    "name": ["Aleksander Bjørge Gundersen"],
+    "id": ["1021912"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -225,5 +225,25 @@
         "url": "https://api.cristin.no/v2/results/1584733"
       }
     ]
+  },
+  "rg": {
+    "id": "Linda-Bjorge",
+    "name": "Linda Tangen Bjørge",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1090686287921152-1637051283499_Q128/Linda-Bjorge.jpg",
+    "affiliation": "Inland Norway University of Applied Sciences",
+    "keywords": [],
+    "works": [
+      {
+        "title": "International Journal of Inclusive Education Let's talk and share! Refugees and migrants building social inclusion and wellbeing through digital stories and online learning resources",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Brit Svoen", "Stephen Dobson", "Linda Tangen Bjørge"],
+        "abstract": "Social inclusion and wellbeing are a fundamental human right and intimately connected with the right to reside in a country. For refugees and migrants this takes on multiple and new forms as digital experiences increasingly wrap every part of our being. It can refer to maintaining social capital through shared digitally mediated conversations and i..."
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "publication": [1],
+    "reads": [228],
+    "citations": [18]
   }
 }

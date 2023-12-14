@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Ivar Reinholt Reinvang",
-    "id": "22873",
+    "name": ["Ivar Reinholt Reinvang"],
+    "id": ["22873"],
     "keywords": ["Memory", "Aging", "Brainfunctions", "Biological psychology", "Neuropsychology", "Aphasia", "Brain mapping", "Brain damages", "Cognitive neuroscience", "Psychophysiology", "Cognitive neurogenetics", "Cognitive electrophysiology", "Dementia"],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/22873/picture",
+    "img": ["https://api.cristin.no/v2/persons/22873/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -693,5 +693,15 @@
         "url": "https://api.cristin.no/v2/results/366850"
       }
     ]
+  },
+  "rg": {
+    "id": "Ravi-Ivar-2",
+    "name": "Ravi Ivar",
+    "img": "https://i1.rgstatic.net/ii/profile.image/452106520928257-1484802002529_Q128/Ravi-Ivar-2.jpg",
+    "affiliation": "Colorado State University | CSU, Colorado State University",
+    "keywords": ["Marine Ecology", "Conservation"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Aurora Oftedal",
-    "id": "MAa8i0IAAAAJ",
-    "affiliation": "Postdoctoral Fellow, Norwegian Institute of Public Health",
+    "name": ["Aurora Oftedal"],
+    "id": ["MAa8i0IAAAAJ"],
+    "affiliation": ["Postdoctoral Fellow, Norwegian Institute of Public Health"],
     "data": {
       "publications": [
         {
@@ -78,8 +78,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1598-8771",
-    "name": "Aurora Oftedal",
+    "orcid": ["0000-0003-1598-8771"],
+    "name": ["Aurora Oftedal"],
     "distinctions": [],
     "education": [
       {
@@ -146,8 +146,8 @@
     ]
   },
   "cristin": {
-    "name": "Aurora Oftedal",
-    "id": "1135438",
+    "name": ["Aurora Oftedal"],
+    "id": ["1135438"],
     "keywords": [],
     "position": ["Associate professor", "Research fellow", "Post-doctoral research fellow"],
     "img": {},
@@ -162,8 +162,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Anxiety and depression in expectant parents: ART versus spontaneous conception",
-        "journal": "Human Reproduction",
-        "url": "https://api.cristin.no/v2/results/2176938"
+        "url": "https://api.cristin.no/v2/results/2176938",
+        "journal": "Human Reproduction"
       },
       {
         "type": "Website (informational material)",
@@ -192,15 +192,15 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Long-Term Impact of Diagnosed Fetal Anomaly on Parental Traumatic Stress, Resilience, and Relationship Satisfaction",
-        "journal": "Journal of Pediatric Psychology",
-        "url": "https://api.cristin.no/v2/results/2084065"
+        "url": "https://api.cristin.no/v2/results/2084065",
+        "journal": "Journal of Pediatric Psychology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The impact of diagnosed fetal anomaly, diagnostic severity and prognostic ambiguity on parental depression and traumatic stress: a prospective longitudinal cohort study",
-        "journal": "Acta Obstetricia et Gynecologica Scandinavica",
-        "url": "https://api.cristin.no/v2/results/2054014"
+        "url": "https://api.cristin.no/v2/results/2054014",
+        "journal": "Acta Obstetricia et Gynecologica Scandinavica"
       },
       {
         "type": "Academic lecture",
@@ -217,8 +217,8 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Changes in maternal cortisol, cortisol binding globulin and cortisone levels following diagnosis of fetal anomaly",
-        "journal": "Psychoneuroendocrinology",
-        "url": "https://api.cristin.no/v2/results/1953091"
+        "url": "https://api.cristin.no/v2/results/1953091",
+        "journal": "Psychoneuroendocrinology"
       },
       {
         "type": "Poster",
@@ -230,8 +230,8 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Paternal psychological stress after detection of fetal anomaly during pregnancy. A prospective longitudinal observational study",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1821991"
+        "url": "https://api.cristin.no/v2/results/1821991",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Poster",
@@ -246,5 +246,14 @@
         "url": "https://api.cristin.no/v2/results/2084355"
       }
     ]
+  },
+  "rg": {
+    "id": "Domenico_Aurora",
+    "name": "Domenico Aurora",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

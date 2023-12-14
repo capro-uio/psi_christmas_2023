@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-4502-9443",
-    "name": "Hanna Sargénius",
+    "orcid": ["0000-0002-4502-9443"],
+    "name": ["Hanna Sargénius"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Hanna Lovise Sargénius",
-    "id": "608726",
+    "name": ["Hanna Lovise Sargénius"],
+    "id": ["608726"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", "PhD Fellow", "Associate professor"],
     "img": {},
@@ -47,5 +47,40 @@
         "url": "https://api.cristin.no/v2/results/1448267"
       }
     ]
+  },
+  "rg": {
+    "id": "Hanna-Sargenius",
+    "name": "Hanna Lovise Sargénius",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Neuropsychology", "Cognitive Neuropsychology", "Learning and Memory", "Neuropsychological Assessment"],
+    "works": [
+      {
+        "title": "Cognitive rehabilitation in paediatric acquired brain injury—A 2-year follow-up of a randomised controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Hanna Lovise Sargénius", "Stein Andersson", "Ingvild Haugen", "Jan Stubberud"],
+        "abstract": "Background\nGoal management training (GMT), a metacognitive rehabilitation method that has been demonstrated to improve executive function (EF) in adults with acquired brain injury (ABI), could potentially be effective for children in the chronic phase of ABI. In a previously published randomised controlled trial (RCT), the efficacy of a paediatric..."
+      },
+      {
+        "title": "Neuropsychological function in individuals with morbid obesity: A cross-sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Hanna Lovise Sargénius", "Stian Lydersen", "Knut Hestad"],
+        "abstract": "Background\nPrevious research has shown cognitive dysfunction to be present in a significant number of individuals with obesity. The objective of this study was to assess the neuropsychological profile of morbidly obese patients referred to weight-loss treatment.\n\nMethods\nAn extensive battery of neuropsychological tests with well-known normative dat..."
+      },
+      {
+        "title": "Visual-Constructional Ability in Individuals with Severe Obesity: Rey Complex Figure Test Accuracy and the Q-Score",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Hanna Lovise Sargénius", "Frederick W. Bylsma", "Stian Lydersen", "Knut Hestad"],
+        "abstract": "The aims of this study were to investigate visual-construction and organizational strategy among individuals with severe obesity, as measured by the Rey Complex Figure Test (RCFT), and to examine the validity of the Q-score as a measure for the quality of performance on the RCFT. Ninety-six non-demented morbidly obese (MO) patients and 100 healthy..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [3],
+    "reads": [1086],
+    "citations": [31]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-9908-5056",
-    "name": "Astrid Brænden",
+    "orcid": ["0000-0001-9908-5056"],
+    "name": ["Astrid Brænden"],
     "distinctions": [],
     "education": [
       {
@@ -61,8 +61,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Astrid Irene Brænden",
-    "id": "1356582",
+    "name": ["Astrid Irene Brænden"],
+    "id": ["1356582"],
     "keywords": [],
     "position": ["Guest", "Research fellow"],
     "img": {},
@@ -116,5 +116,14 @@
         "url": "https://api.cristin.no/v2/results/1980145"
       }
     ]
+  },
+  "rg": {
+    "id": "Irene-Astrid",
+    "name": "Irene Astrid",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Universitas Diponegoro | UNDIP, Universitas Diponegoro, Department of Medicine",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

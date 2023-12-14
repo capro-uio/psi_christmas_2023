@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Guido Biele",
-    "id": "0UkWz9IAAAAJ",
-    "affiliation": "Norwegian Institute of Public Health",
+    "name": ["Guido Biele"],
+    "id": ["0UkWz9IAAAAJ"],
+    "affiliation": ["Norwegian Institute of Public Health"],
     "data": {
       "publications": [
         {
@@ -1036,8 +1036,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-4225-9024",
-    "name": "Guido Biele",
+    "orcid": ["0000-0002-4225-9024"],
+    "name": ["Guido Biele"],
     "distinctions": [],
     "education": [
       {
@@ -1047,21 +1047,21 @@
       },
       {
         "start": "2010",
-        "end": "2013",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2013"
       },
       {
         "start": "2008",
-        "end": "2010",
         "organisation": "Freie Universität Berlin",
-        "country": "DE"
+        "country": "DE",
+        "end": "2010"
       },
       {
         "start": "2003",
-        "end": "2007",
         "organisation": "Max Planck Institute for Human Development",
-        "country": "DE"
+        "country": "DE",
+        "end": "2007"
       }
     ],
     "employment": [
@@ -1072,21 +1072,21 @@
       },
       {
         "start": "2010",
-        "end": "2013",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2013"
       },
       {
         "start": "2008",
-        "end": "2010",
         "organisation": "Freie Universität Berlin",
-        "country": "DE"
+        "country": "DE",
+        "end": "2010"
       },
       {
         "start": "2003",
-        "end": "2007",
         "organisation": "Max Planck Institute for Human Development",
-        "country": "DE"
+        "country": "DE",
+        "end": "2007"
       }
     ],
     "membership": [],
@@ -1333,11 +1333,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Guido Biele",
-    "id": "1937",
+    "name": ["Guido Biele"],
+    "id": ["1937"],
     "keywords": [],
     "position": ["Professor", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/1937/picture",
+    "img": ["https://api.cristin.no/v2/persons/1937/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1781,5 +1781,579 @@
         "url": "https://api.cristin.no/v2/results/527665"
       }
     ]
+  },
+  "rg": {
+    "id": "Guido-Biele",
+    "name": "Guido Biele",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272730566164511-1442035442867_Q128/Guido-Biele.jpg",
+    "affiliation": "Norwegian Institute of Public Health, Division of Menatal Health",
+    "keywords": ["Learning", "Cognitive Neuroscience", "Neuroscience", "Bayesian Statistics", "fMRI", "R Programming", "Brain", "Statistical Modeling", "R Statistical Package", "Epidemiology"],
+    "works": [
+      {
+        "title": "Anxiety and depression from age 3 to 8 years in children with and without ADHD symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Christine Baalsrud Ingeborgrud", "Beate Oerbeck", "Svein Friis", "Kristin Romvig Overgaard"],
+        "abstract": ["Childhood anxiety and depressive symptoms may be influenced by symptoms of attention deficit/hyperactivity disorder (ADHD). We investigated whether parent- and teacher-reported anxiety, depressive and ADHD symptoms at age 3 years predicted anxiety disorders and/or depression in children with and without ADHD at age 8 years. This study is part of th..."]
+      },
+      {
+        "title": "Early and repeated screening detects children with persistent attention-deficit/hyperactivity disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Kristin Romvig Overgaard", "Beate Oerbeck", "Svein Friis", "Pal Zeiner"],
+        "abstract": ["Preschool screening of attention-deficit/hyperactivity disorder (ADHD) has been found too inaccurate to be clinically useful. This may be due to the known instability of ADHD symptoms from preschool onwards, and the use of a single screening only. We hypothesized that by identifying a group of children with persistent ADHD from preschool to school..."]
+      },
+      {
+        "title": "Association between gestational levels of toxic metals and essential elements and cerebral palsy in children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Kjell Vegard F. Weyde", "Adriano Winterton", "Pål Surén", "Gro Dehli Villanger"],
+        "abstract": ["Introduction\nCerebral palsy (CP) is the most common motor disability in childhood, but its causes are only partly known. Early-life exposure to toxic metals and inadequate or excess amounts of essential elements can adversely affect brain and nervous system development. However, little is still known about these as perinatal risk factors for CP. Th..."]
+      },
+      {
+        "title": "The NeuroTox study – Investigating in-utero exposures to environmental toxicants and neurodevelopment",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Adriano Winterton", "Gro Dehli Villanger", "Stephanie Engel", "Heidi Aase"],
+        "abstract": []
+      },
+      {
+        "title": "Attention-deficit/hyperactivity disorder from preschool to school age: change and stability of parent and teacher reports",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Kristin Romvig Overgaard", "Beate Oerbeck", "Svein Friis", "Pal Zeiner"],
+        "abstract": ["Identifying attention-deficit/hyperactivity disorder (ADHD) in pre-schoolers may improve their development if treated, but it is unclear whether ADHD symptoms from this age are stable enough to merit treatment. We aimed to investigate the stability of parent- and teacher-reported ADHD symptoms and ADHD classified above the diagnostic symptom thresh..."]
+      },
+      {
+        "title": "The effect of special educational assistance in early childhood education and care on psycho-social difficulties in elementary school children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Guido Biele", "Ratib Lekhal", "Kristin Romvig Overgaard", "Pal Zeiner"],
+        "abstract": ["Background\nThree to seven percent of pre-schoolers have developmental problems or child psychiatric disorders. Randomized controlled trials (RCTs) indicate that interventions in early childhood education and care (ECEC) improve long-term outcomes of children from disadvantaged backgrounds. It is unknown if such effects generalize beyond the well-st..."]
+      },
+      {
+        "title": "Cognitive, emotional, and social functioning of preschoolers with attention deficit hyperactivity problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Guido Biele", "Kristin Romvig Overgaard", "Svein Friis", "Heidi Aase"],
+        "abstract": ["Background\nAttention Deficit Hyperactivity Disorder (ADHD) is associated with deficits in different functional domains. It remains unclear if deficits in different domains are equally strong in early childhood, and which deficits are specific to ADHD. Here, we describe functional domains in preschoolers and assess deficits in children with ADHD pro..."]
+      },
+      {
+        "title": "Risk of attention-deficit/hyperactivity disorder and autism spectrum disorder in children associated with gestational levels of toxic metals and essential elements",
+        "tags": ["Article"],
+        "date": "Aug 2021",
+        "authors": ["Thea Steen Skogheim", "Kjell Vegard Fjeldheim Weyde", "Stephanie Mulherin Engel", "Gro Dehli Villanger"],
+        "abstract": []
+      },
+      {
+        "title": "The Effect of Special Educational Assistance In Early Childhood Education And Care On Psycho-Social Difficulties In Elementary School Children",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Guido Biele", "Ratib Lekhal", "Kristin Romvig Overgaard", "Pal Zeiner"],
+        "abstract": ["Background: Three to seven percent of pre-schoolers have developmental problems or child psychiatric disorders. Randomized controlled trials (RCTs) indicate that interventions in early childhood education and care improve long-term outcomes of children from disadvantaged backgrounds. It is unknown if effects generalize beyond the well-structured co..."]
+      },
+      {
+        "title": "Metal and essential element concentrations during pregnancy and associations with autism spectrum disorder and attention-deficit/hyperactivity disorder in children",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Thea Steen Skogheim", "Kjell Vegard Fjeldheim Weyde", "Stephanie M. Engel", "Gro Dehli Villanger"],
+        "abstract": ["Background\nPrenatal exposure to toxic metals or variations in maternal levels of essential elements during pregnancy may be a risk factor for neurodevelopmental disorders such as attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD) in offspring.\n\nObjectives\nWe investigated whether maternal levels of toxic metals and es..."]
+      },
+      {
+        "title": "Prenatal exposure to per- and polyfluoroalkyl substances (PFAS) and associations with attention-deficit/hyperactivity disorder and autism spectrum disorder in children",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Thea Steen Skogheim", "Kjell Vegard Fjeldheim Weyde", "Heidi Aase", "Gro Dehli Villanger"],
+        "abstract": ["Background\nPrenatal exposure to per- and polyfluoroalkyl substances (PFAS) may be a risk factor for neurodevelopmental deficits and disorders, but evidence is inconsistent.\n\nObjectives\nWe investigated whether prenatal exposure to PFAS were associated with childhood diagnosis of attention-deficit/hyperactivity disorder (ADHD) or autism spectrum diso..."]
+      },
+      {
+        "title": "Gestational blood levels of toxic metal and essential element mixtures and associations with global DNA methylation in pregnant women and their infants",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Kjell Vegard Fjeldheim Weyde", "Ann-Karin Olsen", "Nur Duale", "Gro Dehli Villanger"],
+        "abstract": ["Background\nPregnant women and their fetuses are exposed to multiple toxic metals that together with variations in essential element levels may alter epigenetic regulation, such as DNA methylation.\n\nObjectives\nThe aim of the study was to investigate the associations between gestational levels of toxic metals and essential elements and mixtures there..."]
+      },
+      {
+        "title": "Prenatal phthalate exposures and executive function in preschool children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Giehae Choi", "Gro Dehli Villanger", "Samantha Drover", "Stephanie M. Engel"],
+        "abstract": ["Background\nPrenatal phthalate exposure has been linked with altered neurodevelopment, including externalizing behaviors and attention-deficit hyperactivity disorder (ADHD). However, the implicated metabolite, neurobehavioral endpoint, and child sex have not always been consistent across studies, possibly due to heterogeneity in neurodevelopmental i..."]
+      },
+      {
+        "title": "The associations between maternal and child diet quality and child ADHD – findings from a large Norwegian pregnancy cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Tiril Borge", "Guido Biele", "Eleni (Lila) Papadopoulou", "Anne Lise Brantsæter"],
+        "abstract": ["Background\nAttention Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder. Effective long-term treatment options are limited, which warrants increased focus on potential modifiable risk factors. The aim of this study was to investigate associations between maternal diet quality during pregnancy and child diet quality and..."]
+      },
+      {
+        "title": "Cognitive, emotional, and social functioning of preschoolers with attention deficit hyperactivity problems",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Guido Biele", "Kristin Romvig Overgaard", "Svein Friis", "Heidi Aase"],
+        "abstract": ["Attention Deficit Hyperactivity Disorder (ADHD) is associated with deficits in different functional domains. It remains unclear if deficits in different domains are equally strong in early childhood, and which deficits are specific to ADHD. Here, we describe functional domains in preschoolers and assess deficits in children with ADHD problems, by c..."]
+      },
+      {
+        "title": "The effect of special educational assistance in early childhood education and care on psycho-social difficulties in elementary school children",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Guido Biele", "Ratib Lekhal", "Kristin Romvig Overgaard", "Paal Zeiner"],
+        "abstract": ["Three to seven percent of pre-schoolers have developmental problems or child psychiatric disorders. Randomized controlled trials (RCTs) indicate that interventions in early childhood education and care improve long-term outcomes of children from disadvantaged backgrounds. It is unknown if effects generalize beyond the well-structured context of RCT..."]
+      },
+      {
+        "title": "M70 EXPLORING THE ASSOCIATIONS BETWEEN HEALTH-RELATED POLYGENIC SCORES AND PARTICIPATION IN THE NORWEGIAN MOTHER AND CHILD PREGNANCY COHORT (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Helga Ask", "Laurie Hannigan", "Neil M Davies", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Prenatal exposure to perfluoroalkyl substances and associations with symptoms of attention-deficit/hyperactivity disorder and cognitive functions in preschool children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Thea Steen Skogheim", "Gro Dehli Villanger", "Kjell Vegard Fjeldheim Weyde", "Heidi Aase"],
+        "abstract": ["Background: \nPerfluoroalkyl substances (PFASs) are persistent organic pollutants that are suspected to be neurodevelopmental toxicants, but epidemiological evidence on neurodevelopmental effects of PFAS exposure is inconsistent. We investigated the associations between prenatal exposure to PFASs and symptoms of attention-deficit/hyperactivity disor..."]
+      },
+      {
+        "title": "Diagnostikk av hyperkinetisk forstyrrelse hos barn i Norge",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Pål Surén", "Anne Gjertrud Thorstensen", "Marit Tørstad", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background: \nHyperkinetic disorder is one of the most frequently used psychiatric diagnoses among children and adolescents in Norway. It has previously been shown that use of the diagnosis varies widely by county.\n\nMaterial and method: \nWe estimated the proportion of children with hyperkinetic disorder using patient data from the Norwegian Patient..."]
+      },
+      {
+        "title": "Dr. Øvergaard et al. Reply",
+        "tags": ["Article"],
+        "date": "Sep 2018",
+        "authors": ["Kristin Romvig Overgaard", "Beate Oerbeck", "Svein Friis", "Pal Zeiner"],
+        "abstract": ["We appreciate that Rimvall et al. read our latest article with interest.1 Early and accurate screening of attention-deficit/hyperactivity disorder (ADHD) is important for the remediation of the disorder. Clinicians' lack of time has been identified as a barrier to screening for behavioral disorders.2 A short screener such as the Strengths and Diffi..."]
+      },
+      {
+        "title": "Thalamo-cortical functional connectivity in schizophrenia and bipolar disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Kristina Skatun", "Tobias Kaufmann", "Christine Lycke Brandt", "Lars T. Westlye"],
+        "abstract": ["The thalamus is a highly connected subcortical structure that relays and integrates sensory and cortical information, which is critical for coherent and accurate perceptual awareness and cognition. Thalamic dysfunction is a classical finding in schizophrenia (SZ), and resting-state functional MRI has implicated somatomotor and frontal lobe thalamic..."]
+      },
+      {
+        "title": "Reviewer comments",
+        "tags": ["Data"],
+        "date": "Sep 2017",
+        "authors": ["Tiril Borge", "Heidi Aase", "Anne Lise Brantsæter", "Guido Biele"],
+        "abstract": []
+      },
+      {
+        "title": "Author's manuscript",
+        "tags": ["Data"],
+        "date": "Sep 2017",
+        "authors": ["Tiril Borge", "Heidi Aase", "Anne Lise Brantsæter", "Guido Biele"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Results from all Bayesian Linear Mixed Models."]
+      },
+      {
+        "title": "Inline supplementary table 1",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Model descriptions. Syntax description of the three competing models for each of the three dependent measures. The first parenthesis describes the term of interest, where one estimates intercepts for each node or edge (node pairs).Note that for the task betas, each parameter (intercept, gain, loss, difficulty, accuracy) is hierarchically nested und..."]
+      },
+      {
+        "title": "Supplementary Material 3",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": []
+      },
+      {
+        "title": "Opioid Modulation of Value-Based Decision Making in Healthy Humans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Marie Eikemo", "Guido Biele", "Frode Willoch", "Siri Leknes"],
+        "abstract": ["Modifying behavior to maximize reward is integral to adaptive decision making. In rodents, the μ-opioid receptor (MOR) system encodes motivation and preference for high-value rewards. Yet it remains unclear whether and how human MORs contribute to value-based decision making. We reasoned that if the human MOR system modulates value-based choice, th..."]
+      },
+      {
+        "title": "Increased default-mode variability is related to reduced task-performance and is evident in adults with ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Insufficient suppression and connectivity of the default mode network (DMN) is a potential mediator of cognitive dysfunctions across various disorders, including attention deficit/hyperactivity disorder (ADHD). However, it remains unclear if alterations in sustained DMN suppression, variability and connectivity during prolonged cognitive engagement..."]
+      },
+      {
+        "title": "The drift diffusion model as the choice rule in reinforcement learning",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["Mads Lund Pedersen", "Michael Joshua Frank", "Guido Biele"],
+        "abstract": ["Current reinforcement-learning models often assume simplified decision processes that do not fully reflect the dynamic complexities of choice processes. Conversely, sequential-sampling models of decision making account for both choice accuracy and response time, but assume that decisions are based on static decision values. To combine these two com..."]
+      },
+      {
+        "title": "ADHD i Norge. En statusrapport",
+        "tags": ["Research", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Ragnhild Ørstavik", "Kristin Gustavson", "Nina Rohrer-Baumgartner", "Heidi Aase"],
+        "abstract": ["This report provides an overview of the percentage of people who are diagnosed with ADHD in Norway, of co-morbid diagnoses, and of prescribed medication."]
+      },
+      {
+        "title": "Modelling ADHD: A review of ADHD theories through their predictions for computational models of decision-making and reinforcement learning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Sigurd Ziegler", "Mads Lund Pedersen", "Athanasia Monika Mowinckel", "Guido Biele"],
+        "abstract": ["Attention Deficit Hyperactivity Disorder (ADHD) is characterized by altered Decision-making (DM) and reinforcement learning (RL), for which competing theories propose alternative explanations. Computational modelling contributes to understanding DM and RL by integrating behavioural and neurobiological findings, and could elucidate pathogenic mechan..."]
+      },
+      {
+        "title": "Consistent Bayesians Are No More Accurate Than Non-Bayesians: Economists Surveyed About PSA",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Nathan Berg", "Guido Biele", "Gerd Gigerenzer"],
+        "abstract": ["This paper looks for, but cannot find, evidence that links belief inconsistency to belief inaccuracy or economic loss. Economists with consistent (i.e., Bayesian) conditional beliefs about the sensitivity and positive predictive value of the Prostate Specific Antigen (PSA) test have unconditional beliefs about the risk of prostate cancer that are,..."]
+      },
+      {
+        "title": "The influence of maternal dietary exposure to dioxins and PCBs during pregnancy on ADHD symptoms and cognitive functions in Norwegian preschool children",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Ida Henriette Caspersen", "Heidi Aase", "Guido Biele", "Helle K Knutsen"],
+        "abstract": ["Background: \nPolychlorinated dibenzo-p-dioxins/dibenzofurans (dioxins) and polychlorinated biphenyls (PCBs) are persistent organic pollutants (POPs) with potentially adverse impact on child neurodevelopment. Whether the potential detrimental effects of dioxins and PCBs on neurodevelopment are of specific or unspecific character is not clear.\n\nObjec..."]
+      },
+      {
+        "title": "Global brain connectivity alterations in patients with schizophrenia and bipolar spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Kristina Skatun", "Tobias Kaufmann", "Siren Tønnesen", "Lars T Westlye"],
+        "abstract": ["Background: \nThe human brain is organized into functionally distinct modules of which interactions constitute the human functional connectome. Accumulating evidence has implicated perturbations in the patterns of brain connectivity across a range of neurologic and neuropsychiatric disorders, but little is known about diagnostic specificity. Schizop..."]
+      },
+      {
+        "title": "The Influence of Methylphenidate on Brain Processes During Decision-Making in Adults with ADHD",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Sigurd Ziegler", "Guido Biele"],
+        "abstract": ["Background: ADHD is associated with diminished dopamine function, and treatment with methylphenidate (MPH) is thought to alleviate this dysfunction. On a functional level, dopamine is consistently implicated in decision-making (DM) mechanisms, including reinforcement learning and choice. Given dopamine’s role in both ADHD and DM, DM deficits in ADH..."]
+      },
+      {
+        "title": "Eksekutiv funksjon i tidlig førskolealder- funn fra den norske ADHD-studien",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Annette Holth Skogan", "Kristin Romvig Overgaard", "Nina Rohrer-Baumgartner", "Jens Egeland"],
+        "abstract": ["Aim: The main aim of the research presented in this article was to contribute to our understanding of executive function (EF) in early preschool years, and of possible associations between deficits in EF and the development of commonly occurring disorders such as Attention-Deficit/Hyperactivity Disorder (ADHD) and Oppositional-Defiant Disorder (ODD..."]
+      },
+      {
+        "title": "Evidence Accumulation and Choice Maintenance Are Dissociated in Human Perceptual Decision Making",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Mads Lund Pedersen", "Tor Endestad", "Guido Biele"],
+        "abstract": ["Perceptual decision making in monkeys relies on decision neurons, which accumulate evidence and maintain choices until a response is given. In humans, several brain regions have been proposed to accumulate evidence, but it is unknown if these regions also maintain choices. To test if accumulator regions in humans also maintain decisions we compared..."]
+      },
+      {
+        "title": "The effects of methylphenidate on brain procesess during cost/benefit decision making",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Sigurd Ziegler", "Guido Biele"],
+        "abstract": ["Objectives\nAttention Deficit/Hyperactivity Disorder (ADHD) is commonly treated with the central stimulant methylphenidate (MPH). MPH affects the dopamine (DA) system of the brain, which is also involved in decision-making (DM). Despite clear theoretical and empirical indications for DM problems in adults with ADHD, current understanding of the invo..."]
+      },
+      {
+        "title": "A Meta-Analysis of Decision-Making and Attention in Adults With ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Espen Moen Eilertsen", "Guido Biele"],
+        "abstract": ["Deficient reward processing has gained attention as an important aspect of ADHD, but little is known about reward-based decision-making (DM) in adults with ADHD. This article summarizes research on DM in adult ADHD and contextualizes DM deficits by comparing them to attention deficits.\nMeta-analytic methods were used to calculate average effect siz..."]
+      },
+      {
+        "title": "The Neural Basis of Risky Choice with Affective Outcomes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Renata S Suter", "Thorsten Pachur", "Ralph Hertwig", "Guido Biele"],
+        "abstract": ["Both normative and many descriptive theories of decision making under risk are based on the notion that outcomes are weighted by their probability, with subsequent maximization of the (subjective) expected outcome. Numerous investigations from psychology, economics, and neuroscience have produced evidence consistent with this notion. However, this..."]
+      },
+      {
+        "title": "Convergent and discriminant validity of psychiatric symptoms reported in The Norwegian Mother and Child Cohort Study at age 3 years with independent clinical assessment in the Longitudinal ADHD Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Guido Biele", "Pal Zeiner", "Heidi Aase"],
+        "abstract": ["Epidemiological studies often use parent questionnaires to assess children's development and mental health. To date, few studies have investigated the validity of parent questionnaires with standardized clinical assessments as criterion. The current study examines discriminant and convergent validity of parent questionnaires for symptoms of Attenti..."]
+      },
+      {
+        "title": "The Influence of Methylphenidate Medication on Reversal Learning in Adults with ADHD",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Athanasia Monika Mowinckel", "Mats Fredriksen", "Guido Biele"],
+        "abstract": ["Neurobiological theories of ADHD assume that a deficient dopaminergic system is a key cause of ADHD symptoms. Impaired reinforcement learning (RL) is one such symptom and is associated with dopaminergic signalling of prediction errors. Methylphenidate treatment alleviates ADHD symptoms by manipulating the dopaminergic system, and should thus also i..."]
+      },
+      {
+        "title": "Meta-analysis of deficiencies in three domains of decision-making in adult ADHD",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Athanasia Monika Mowinckel", "Sigurd Ziegler", "Espen Moen Eilertsen", "Guido Biele"],
+        "abstract": ["Objectives: Impaired decision-making (DM) has received modest attention in adult ADHD. Tests of DM could prove useful in diagnostics and advance the understanding of pathogenesis. To provide an overview of current DM research in adult ADHD, we conducted a meta-analysis for three DM domains (delayed reward (DR), risky DM and reinforcement learning (..."]
+      },
+      {
+        "title": "The Influence of Methylphenidate Medication on Reversal Learning in Adults with ADHD",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Athanasia Monika Mowinckel", "Mats Fredriksen", "Guido Biele"],
+        "abstract": ["Neurobiological theories of ADHD assume that a deficient dopaminergic system is a key cause of ADHD symptoms. Impaired reinforcement learning (RL) is one such symptom and is associated with dopaminergic signalling of prediction errors. Methylphenidate treatment alleviates ADHD symptoms by manipulating the dopaminergic system, and should thus also i..."]
+      },
+      {
+        "title": "Mathematical modelling discriminates medication persisters from non-persisters in adult ADHD",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Sigurd Ziegler", "Mats Fredriksen", "Joseph A Sergeant", "Guido Biele"],
+        "abstract": []
+      },
+      {
+        "title": "Response to the commentary \"Multiple potential mechanisms for context effects on pain\"",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["Siri Leknes", "Chantal Berna", "Michael C Lee", "Irene Tracey"],
+        "abstract": []
+      },
+      {
+        "title": "Temporal Characteristics of the Influence of Punishment on Perceptual Decision Making in the Human Brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2013",
+        "authors": ["Helen Blank", "Guido Biele", "Hauke R Heekeren", "Marios G Philiastides"],
+        "abstract": ["Perceptual decision making is the process by which information from sensory systems is combined and used to influence our behavior. In addition to the sensory input, this process can be affected by other factors, such as reward and punishment for correct and incorrect responses. To investigate the temporal dynamics of how monetary punishment influe..."]
+      },
+      {
+        "title": "The importance of context: When relative relief renders pain pleasant",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Siri Leknes", "Chantal Berna", "Michael C Lee", "Irene Tracey"],
+        "abstract": ["Context can influence the experience of any event. For instance, the thought that \"it could be worse\" can improve feelings towards a present misfortune. In this study we measured hedonic feelings, skin conductance, and brain activation patterns in 16 healthy volunteers who experienced moderate pain in two different contexts. In the \"relative relief..."]
+      },
+      {
+        "title": "The Advice of Others: When and How We Benefit From It",
+        "tags": ["Chapter"],
+        "date": "Nov 2012",
+        "authors": ["Guido Biele", "Jörg Rieskamp"],
+        "abstract": ["Social learning is fundamental to human cultural evolution and an important aspect of social rationality. This chapter examines how advice influences decision making and learning. A brief review of the advice-taking literature shows that people seldom have full insight into the reasons for the usefulness of advice; nevertheless, they often successf..."]
+      },
+      {
+        "title": "How Expert Advice Influences Decision Making",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Dar Meshi", "Guido Biele", "Christoph W. Korn", "Hauke R Heekeren"],
+        "abstract": ["People often use expert advice when making decisions in our society, but how we are influenced by this advice has yet to be understood. To address this, using functional magnetic resonance imaging, we provided expert and novice advice to participants during an estimation task. Participants reported that they valued expert advice more than novice ad..."]
+      },
+      {
+        "title": "Changes in Neural Connectivity Underlie Decision Threshold Modulation for Reward Maximization",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Nikos Green", "Guido Biele", "Hauke R Heekeren"],
+        "abstract": ["Using neuroimaging in combination with computational modeling, this study shows that decision threshold modulation for reward maximization is accompanied by a change in effective connectivity within corticostriatal and cerebellar-striatal brain systems. Research on perceptual decision making suggests that people make decisions by accumulating senso..."]
+      },
+      {
+        "title": "Figure S1",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Brain regions showing a main effect between the advice and no advice conditions when participants discovered whom their advisor will be (Time 1). Advice includes both the expert and novice conditions. (A) When contrasting advice > no advice, participants showed greater changes in BOLD signal in the ventral striatum and medial prefrontal cortex. (B)..."]
+      },
+      {
+        "title": "Figure S3",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Performance of social learning models for typical learning parameters. Each panel shows one model's mean cumulative payoff on the z-axis. The levels of social influence and task difficulty are varied across the x- and y-axis, respectively. Difficulty is calculated as the difference in the mean payoff of the good and bad options, so that higher valu..."]
+      },
+      {
+        "title": "Figure S4",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Performance of social learning models for typical learning parameters. (This figure presents the same data as Figure S3 in a different format.) Each subplot shows average payoffs of the two social learning models for different levels of social influence. The difficulty of the basic learning task (higher values indicate easier tasks) is varied along..."]
+      },
+      {
+        "title": "Table S2",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Values represent the percentage out of 21 participants for whom the prior, the outcome-bonus, or the prior+outcome-bonus model is better than the alternative models.\n(DOC)"]
+      },
+      {
+        "title": "Text S1",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["The text contains a detailed description of the computer simulation procedure and additional simulation results (see also Figures S2–S4). In addition, supporting materials and methods provide a detailed description of the experiment (see also Figure S4), behavioural results (see also Figure S5), all social learning models and modelling results (see..."]
+      },
+      {
+        "title": "Figure S2",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Brain regions showing a main effect between the advice and no advice conditions when participants received advice (Time 2). Advice includes both the expert and novice conditions. (A) When contrasting advice > no advice, participants showed greater changes in BOLD signal in the caudate and intraparietal sulcus. (B) When contrasting no advice > advic..."]
+      },
+      {
+        "title": "Figure S6",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["The results of an alternative fMRI analysis optimized to detect correlations of BOLD response and prediction errors. The left panel shows a region in the ventral striatum that correlates positively with prediction errors for recommended and non-recommended options (x = −10, y = 6, z = −8, max z-value = 3.1). The right panel shows the results of con..."]
+      },
+      {
+        "title": "Figure S8",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Result for the contrast of feedback advised > feedback not advised of the control analysis described in the legend to Figure S7. We still identified an outcome-bonus signal for feedback after following advice versus not following advice in the septal area/left caudate (x = −6, y = 12, z = 6, max z-value = 3.26) over the entire experiment, after con..."]
+      },
+      {
+        "title": "Figure S9",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["A number of regions showed greater activation when participants decided to not follow advice. (A) Left supplementary motor area (SMA, x = −28, y = −6, z = 60, max z-value = 3.33), (B) right post-central gyrus (x = 46, y = −34, z = 60, max z-value = 3.56), (C) left central operculum with extension into caudate and putamen (x = −34, y = 8, z = 10, ma..."]
+      },
+      {
+        "title": "Table S3",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Parameter values for the prior + outcome-bonus model.\n(DOC)"]
+      },
+      {
+        "title": "Figure S5",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Performance differences in the social learning models across different learning parameters. Panel A shows the performance differences of the models. That is, the mean payoff of the outcome-bonus model minus the mean payoff of the prior model for typical learning parameters and 50% correct advice, while varying the impact of social influence (x-axis..."]
+      },
+      {
+        "title": "Figure S7",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["The results of a supplementary analysis, investigating potential changes in the outcome-bonus signal over time. This analysis was based on the original analysis, to which we added two more regressors capturing (f) gain feedback- and (g) loss feedback-related activity after following advice for the second half of trials, in which participants chose..."]
+      },
+      {
+        "title": "Table S1",
+        "tags": ["Data"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["The table provides basic information about the compared models. Columns under the header “Implemented social learning mechanisms” contain a “+” if a particular model implemented the respective social learning mechanism. LL is the log likelihood, AIC is the Aikake information criterion, BIC is the Bayesian information criterion (see supplementary me..."]
+      },
+      {
+        "title": "The Neural Basis of Following Advice",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Learning by following explicit advice is fundamental for human cultural evolution, yet the neurobiology of adaptive social learning is largely unknown. Here, we used simulations to analyze the adaptive value of social learning mechanisms, computational modeling of behavioral data to describe cognitive mechanisms involved in social learning, and mod..."]
+      },
+      {
+        "title": "How the brain integrates costs and benefits during decision making",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2010",
+        "authors": ["Ulrike Basten", "Guido Biele", "Hauke R Heekeren", "Christian Fiebach"],
+        "abstract": ["When we make decisions, the benefits of an option often need to be weighed against accompanying costs. Little is known, however, about the neural systems underlying such cost-benefit computations. Using functional magnetic resonance imaging and choice modeling, we show that decision making based on cost-benefit comparison can be explained as a stoc..."]
+      },
+      {
+        "title": "Temporal dynamics of prediction error processing during reward-based decision making",
+        "tags": ["Article"],
+        "date": "Oct 2010",
+        "authors": ["Marios G Philiastides", "Guido Biele", "Niki Katerina Vavatzanidis", "Hauke R Heekeren"],
+        "abstract": ["Adaptive decision making depends on the accurate representation of rewards associated with potential choices. These representations can be acquired with reinforcement learning (RL) mechanisms, which use the prediction error (PE, the difference between expected and received rewards) as a learning signal to update reward expectations. While EEG exper..."]
+      },
+      {
+        "title": "Differential Influence of Levodopa on Reward-Based Learning in Parkinson's Disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2010",
+        "authors": ["Susanne Graef", "Guido Biele", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["The mesocorticolimbic dopamine (DA) system linking the dopaminergic midbrain to the prefrontal cortex and subcortical striatum has been shown to be sensitive to reinforcement in animals and humans. Within this system, coexistent segregated striato-frontal circuits have been linked to different functions. In the present study, we tested patients wit..."]
+      },
+      {
+        "title": "A mechanistic account of value computation in the human brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2010",
+        "authors": ["Marios G Philiastides", "Guido Biele", "Hauke R Heekeren"],
+        "abstract": ["To make decisions based on the value of different options, we often have to combine different sources of probabilistic evidence. For example, when shopping for strawberries on a fruit stand, one uses their color and size to infer-with some uncertainty-which strawberries taste best. Despite much progress in understanding the neural underpinnings of..."]
+      },
+      {
+        "title": "Neural Processing of Risk",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2010",
+        "authors": ["Peter N C Mohr", "Guido Biele", "Hauke R Heekeren"],
+        "abstract": ["In our everyday life, we often have to make decisions with risky consequences, such as choosing a restaurant for dinner or choosing a form of retirement saving. To date, however, little is known about how the brain processes risk. Recent conceptualizations of risky decision making highlight that it is generally associated with emotions but do not s..."]
+      },
+      {
+        "title": "Does Consistency Predict Accuracy of Beliefs?: Economists Surveyed About PSA",
+        "tags": ["Article"],
+        "date": "Jan 2010",
+        "authors": ["Nathan Berg", "Guido Biele", "Gerd Gigerenzer"],
+        "abstract": ["Subjective beliefs and behavior regarding the Prostate Specific Antigen (PSA) test for prostate cancer were surveyed among attendees of the 2006 meeting of the American Economic Association. Logical inconsistency was measured in percentage deviations from a restriction imposed by Bayes’ Rule on pairs of conditional beliefs. Economists with inconsis..."]
+      },
+      {
+        "title": "Genetic variation in dopaminergic neuromodulation influences the ability to rapidly and flexibly adapt decisions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2009",
+        "authors": ["Lea Katharina Engberding-Krugel", "Guido Biele", "Peter N C Mohr", "Hauke R Heekeren"],
+        "abstract": ["The ability to rapidly and flexibly adapt decisions to available rewards is crucial for survival in dynamic environments. Reward-based decisions are guided by reward expectations that are updated based on prediction errors, and processing of these errors involves dopaminergic neuromodulation in the striatum. To test the hypothesis that the COMT gen..."]
+      },
+      {
+        "title": "Neural foundations of risk–return trade-off in investment decisions",
+        "tags": ["Article"],
+        "date": "Oct 2009",
+        "authors": ["Peter N C Mohr", "Guido Biele", "Lea Katharina Engberding-Krugel", "Hauke R Heekeren"],
+        "abstract": ["Many decisions people make can be described as decisions under risk. Understanding the mechanisms that drive these decisions is an important goal in decision neuroscience. Two competing classes of risky decision making models have been proposed to describe human behavior, namely utility-based models and risk-return models. Here we used a novel inve..."]
+      },
+      {
+        "title": "Neural representations of learning variables for parallel model-based and model-free reinforcement learning",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Guido Biele", "Hauke R Heekeren"],
+        "abstract": []
+      },
+      {
+        "title": "Learning, risk attitude and hot stoves in restless bandit problems",
+        "tags": ["Article"],
+        "date": "Jun 2009",
+        "authors": ["Guido Biele", "Ido Erev", "Eyal Ert"],
+        "abstract": ["This research examines decisions from experience in restless bandit problems. Two experiments revealed four main effects. (1) Risk neutrality: the typical participant did not learn to become risk averse, a contradiction of the hot stove effect. (2) Sensitivity to the transition probabilities that govern the Markov process. (3) Positive recency: the..."]
+      },
+      {
+        "title": "Erratum to Explaining cooperation in groups: Testing models of reciprocity and learning [Organizational Behavior and Human Decision Processes 106 (2008) 89105]",
+        "tags": ["Article"],
+        "date": "Mar 2009",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Uwe Czienskowski"],
+        "abstract": []
+      },
+      {
+        "title": "Computational Models for the Combination of Advice and Individual Learning",
+        "tags": ["Article"],
+        "date": "Mar 2009",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Richard Gonzalez"],
+        "abstract": ["Decision making often takes place in social environments where other actors influence individuals' decisions. The present article examines how advice affects individual learning. Five social learning models combining advice and individual learning-four based on reinforcement learning and one on Bayesian learning-and one individual learning model ar..."]
+      },
+      {
+        "title": "Explaining Cooperation in Groups: Testing Models of Reciprocity and Learning",
+        "tags": ["Article"],
+        "date": "Jul 2008",
+        "authors": ["Guido Biele", "Jörg Rieskamp", "Uwe Czienskowski"],
+        "abstract": []
+      },
+      {
+        "title": "Aging and Neuroeconomics: Insights from Research on Neuromodulation of Reward-Based Decision Making",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2007",
+        "authors": ["Shu-Chen Li", "Guido Biele", "Peter N C Mohr", "Hauke R Heekeren"],
+        "abstract": ["Neuroeconomics' can be broadly defined as the research of how the brain interacts with the environment to make decisions that are functional given individual and contextual constraints. Deciphering such brain-environment transactions requires mechanistic understandings of the neurobiological processes that implement value-dependent decision making...."]
+      },
+      {
+        "title": "Forecasting from ignorance: The use and usefulness of recognition in lay predictions of sports events",
+        "tags": ["Article"],
+        "date": "May 2007",
+        "authors": ["Thorsten Pachur", "Guido Biele"],
+        "abstract": ["Whereas previous studies on how people make forecasts of sports events focused primarily on experts, we examined how laypeople do this task. In particular, we (a) tested the recognition heuristic [Goldstein, D. G., & Gigerenzer, G. (2002). Models of ecological rationality: the recognition heuristic. Psychological Review, 109, 75-90], which requires..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [80],
+    "reads": [17730],
+    "citations": [2891]
   }
 }

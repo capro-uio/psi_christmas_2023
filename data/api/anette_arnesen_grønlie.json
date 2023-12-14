@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0005-6488-4129",
-    "name": "Anette Arnesen  Grønlie",
+    "orcid": ["0009-0005-6488-4129"],
+    "name": ["Anette Arnesen  Grønlie"],
     "distinctions": [],
     "education": [
       {
@@ -136,8 +136,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anette Arnesen Grønlie",
-    "id": "3902",
+    "name": ["Anette Arnesen Grønlie"],
+    "id": ["3902"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -151,31 +151,100 @@
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Subjective Well-Being Among HIV-Positive South Africans: The Influence of Resilience and Social Capital",
         "journal": "Social Indicators Research",
-        "url": "https://api.cristin.no/v2/results/1379234"
+        "url": "https://api.cristin.no/v2/results/1379234",
+        "title": "Subjective Well-Being Among HIV-Positive South Africans: The Influence of Resilience and Social Capital"
       },
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "The associations between resilience, social capital and self-rated health among HIV-positive South Africans",
         "journal": "Journal of Health Psychology",
-        "url": "https://api.cristin.no/v2/results/1293134"
+        "url": "https://api.cristin.no/v2/results/1293134",
+        "title": "The associations between resilience, social capital and self-rated health among HIV-positive South Africans"
       },
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "MEASURING RESILIENCE AND ITS ASSOCIATION TO SOCIAL CAPITAL AMONG HIV-POSITIVE SOOUTH AFRICANS LIVING IN A CONTEXT OF ADVERSITY",
         "journal": "Journal of Community Psychology",
-        "url": "https://api.cristin.no/v2/results/1265699"
+        "url": "https://api.cristin.no/v2/results/1265699",
+        "title": "MEASURING RESILIENCE AND ITS ASSOCIATION TO SOCIAL CAPITAL AMONG HIV-POSITIVE SOOUTH AFRICANS LIVING IN A CONTEXT OF ADVERSITY"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "title": "The associations between resilience, social capital and self-rated health among HIV-positive South Africans",
         "journal": "Journal of Health Psychology",
-        "url": "https://api.cristin.no/v2/results/1081554"
+        "url": "https://api.cristin.no/v2/results/1081554",
+        "title": "The associations between resilience, social capital and self-rated health among HIV-positive South Africans"
       }
     ]
+  },
+  "rg": {
+    "id": "Anette-Gronlie",
+    "name": "Anette Arnesen Grønlie",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281121627137-1677056085935_Q128/Anette-Gronlie.jpg",
+    "affiliation": "The Norwegian Center for Child Behavioral Development | NUBU, The Norwegian Center for Child Behavioral Development",
+    "keywords": ["Child Development", "Mixed Methods", "Child Mental Health", "Implementation research", "Evidence Based Practice", "Implementation Science", "Knowledge Translation", "Intervention Research", "Applied Psychology"],
+    "works": [
+      {
+        "title": "Study Protocol for a Research and Development Project: Optimizing a Unified Parent Training Intervention to Prevent Child Mental Health Problems and Neglect",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Truls Tømmerås", "Agathe Backer-Grøndahl", "Anne Arnesen", "Phillip Andrew Fisher"],
+        "abstract": ["This protocol describes a research and development (R&D) project aimed at optimizing a targeted, preventive, efficacious, and tailored intervention called Supportive Parents Coping Kids (SPARCK). Combining recent developments in basic and intervention research, the goal of this project is to develop, test and optimize a unified parent training inte..."]
+      },
+      {
+        "title": "Scaling up an Empirically Supported Intervention with Long-Term Outcomes: the Nationwide Implementation of GenerationPMTO in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Elisabeth Askeland", "Marion S Forgatch", "Anett Apeland", "Anette Arnesen Grønlie"],
+        "abstract": ["Effective implementation outcomes are necessary preconditions for effective service and positive treatment outcomes for children with behavioral problems. The aim of this study is to assess outcomes of the transfer of the empirically supported intervention GenerationPMTO from the developer in the USA to a nationwide implementation in Norway. Adopti..."]
+      },
+      {
+        "title": "Subjective Well-Being Among HIV-Positive South Africans: The Influence of Resilience and Social Capital",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2017",
+        "authors": ["Anette Arnesen Grønlie", "Wenche Dageid"],
+        "abstract": ["Living with HIV in a context of adversity may impact on a person’s sense of well-being. Little is however known about factors associated with subjective well-being (SWB) among persons living with HIV and AIDS (PLWHAs) in sub-Saharan Africa. This study examined the relationship between SWB, resilience and social capital. Participants were 263 HIV-po..."]
+      },
+      {
+        "title": "Hvor godt predikerer to spørsmål barns risiko for problematferd? I Tidsskrift for Norsk Psykologforening",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Anette Arnesen Grønlie", "Elisabeth Askeland", "Anett Apeland", "Terje Christiansen"],
+        "abstract": ["Can two questions predict children’s risk of behavioral problems?\nTIBIR is a prevention and treatment program of behavioral problems in children aged 3–12 years, directed at primary services in Norwegian municipalities. It has a multiple-gate assessment module, which is intended to identify and offer effective interventions to children at risk. Thi..."]
+      },
+      {
+        "title": "Measuring resilience and its association to social capital among HIV-positive South Africans living in a context of adversity",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Wenche Dageid", "Anette Arnesen Grønlie"],
+        "abstract": ["The resilience concept encompasses dispositional attributes as well as different forms of social and external support. Cognitive and structural aspects of social support systems in a given context can be described as social capital. In this study, we explored the relationship between resilience and social capital in 265 HIV‐positive South Africans..."]
+      },
+      {
+        "title": "Implementeringskunnskap. Med eksempler fra innføring av PMTO i Norge.",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Anette Arnesen Grønlie", "Terje Christiansen"],
+        "abstract": []
+      },
+      {
+        "title": "The associations between resilience, social capital and self-rated health among HIV-positive South Africans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2013",
+        "authors": ["Wenche Dageid", "Anette Arnesen Grønlie"],
+        "abstract": ["This study examined the relationship between resilience, social capital and self-rated health among 263 HIV-positive South Africans living in poverty, using questionnaires. Self-rated good health was predicted by younger age, trust in community-based organizations and having contacts of different religions. The findings highlight the importance of..."]
+      },
+      {
+        "title": "Improving the response-ability of people living with HIV/AIDS: Individual and group factors.",
+        "tags": ["Chapter"],
+        "date": "Sep 2011",
+        "authors": ["Anette Arnesen Grønlie", "Kjersti Nesje", "Wenche Dageid"],
+        "abstract": ["In Chapter 9, Anette Arnesen Grønlie, Kjersti Nesje and Wenche Dageid focus on how resilience and social capital are related to good outcomes and well-being. Their study sample consisted of 269 participants, mostly women. All participants were adult, isiZulu-speaking, and HIV positive, and also members of local Treatment Action Campaign (TAC) suppo..."]
+      }
+    ],
+    "degree": ["M.phil.", "in", "Psychology,", "PhD", "student"],
+    "publications": [8],
+    "reads": [517],
+    "citations": [61]
   }
 }

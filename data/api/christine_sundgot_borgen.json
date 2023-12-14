@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1149-0442",
-    "name": "Christine Sundgot-Borgen",
+    "orcid": ["0000-0002-1149-0442"],
+    "name": ["Christine Sundgot-Borgen"],
     "distinctions": [],
     "education": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "start": "2016",
-        "end": "2020",
         "position": "PhD candidate",
         "organisation": "Norwegian School of Sport Sciences",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       }
     ],
     "employment": [
@@ -28,10 +28,10 @@
       },
       {
         "start": "2016",
-        "end": "2020",
         "position": "PhD candidate",
         "organisation": "Norwegian School of Sport Sciences",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       }
     ],
     "membership": [],
@@ -154,8 +154,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Christine Sundgot Borgen",
-    "id": "540809",
+    "name": ["Christine Sundgot Borgen"],
+    "id": ["540809"],
     "keywords": [],
     "position": ["Academic assistant", "Research fellow", "Researcher", "University lecturer", "University college instructor/student teacher", "Guest", "University lecturer"],
     "img": {},
@@ -176,57 +176,57 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Siblings, shopping, and sustainability: Birth-order differences in green consumption",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2139114"
+        "url": "https://api.cristin.no/v2/results/2139114",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Associations of changes in physical activity and sedentary time with weight recurrence after bariatric surgery: a 5-year prospective study",
-        "journal": "International Journal of Obesity",
-        "url": "https://api.cristin.no/v2/results/2132120"
+        "url": "https://api.cristin.no/v2/results/2132120",
+        "journal": "International Journal of Obesity"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Hiking, indoor biking, and body liking: a cross-sectional study examining the link between physical activity arenas and adults’ body appreciation",
-        "journal": "Journal of Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/2088471"
+        "url": "https://api.cristin.no/v2/results/2088471",
+        "journal": "Journal of Eating Disorders"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Intervention in professional dance students to increase mental health- and nutrition literacy: A controlled trial with follow up",
-        "journal": "Frontiers in Sports and Active Living",
-        "url": "https://api.cristin.no/v2/results/2065241"
+        "url": "https://api.cristin.no/v2/results/2065241",
+        "journal": "Frontiers in Sports and Active Living"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Mental health, eating behaviour and injuries in professional dance students.",
-        "journal": "Research in Dance Education",
-        "url": "https://api.cristin.no/v2/results/2007739"
+        "url": "https://api.cristin.no/v2/results/2007739",
+        "journal": "Research in Dance Education"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Explanations for use of dietary- and muscle enhancing dietary supplements among university students: a national cross-sectional study",
-        "journal": "BMC Nutrition",
-        "url": "https://api.cristin.no/v2/results/2001154"
+        "url": "https://api.cristin.no/v2/results/2001154",
+        "journal": "BMC Nutrition"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The Healthy Body Image Intervention and Reduction in Eating Disorder Symptomatology and Muscle Building Supplement Use in High School Students: A Study of Mediating Factors",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1990901"
+        "url": "https://api.cristin.no/v2/results/1990901",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Effect of A Healthy Body Image intervention on risk- and protective factors for eating disorders: A cluster randomized controlled trial",
-        "journal": "Mental health & prevention",
-        "url": "https://api.cristin.no/v2/results/1951683"
+        "url": "https://api.cristin.no/v2/results/1951683",
+        "journal": "Mental health & prevention"
       },
       {
         "type": "Academic lecture",
@@ -237,79 +237,302 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Sexual Harassment in Fitness Instructors: Prevalence, Perpetrators, and Mental Health Correlates",
-        "journal": "Frontiers in Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1942286"
+        "url": "https://api.cristin.no/v2/results/1942286",
+        "journal": "Frontiers in Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Protein, creatine and dieting supplements among adolescents: Use and associations with eating disorder risk factors, exercise- and sports participation, and immigrant status",
-        "journal": "Frontiers in Sports and Active Living",
-        "url": "https://api.cristin.no/v2/results/1933943"
+        "url": "https://api.cristin.no/v2/results/1933943",
+        "journal": "Frontiers in Sports and Active Living"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Body appreciation and body appearance pressure in Norwegian university students comparing exercise science students and other students",
-        "journal": "BMC Public Health",
-        "url": "https://api.cristin.no/v2/results/1895263"
+        "url": "https://api.cristin.no/v2/results/1895263",
+        "journal": "BMC Public Health"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Mirror, mirror - Does the fitness club industry have a body image problem?",
-        "journal": "Psychology of Sport And Exercise",
-        "url": "https://api.cristin.no/v2/results/1887944"
+        "url": "https://api.cristin.no/v2/results/1887944",
+        "journal": "Psychology of Sport And Exercise"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Body figure idealization and body appearance pressure in fitness instructors",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1850290"
+        "url": "https://api.cristin.no/v2/results/1850290",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The Impact of Covid-19 Pandemic Lockdown during spring 2020 on Personal Trainers’ Working and Living Conditions.",
-        "journal": "Frontiers in Sports and Active Living",
-        "url": "https://api.cristin.no/v2/results/1848673"
+        "url": "https://api.cristin.no/v2/results/1848673",
+        "journal": "Frontiers in Sports and Active Living"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The Norwegian healthy body image intervention promotes positive embodiment through improved self-esteem",
-        "journal": "Body image",
-        "url": "https://api.cristin.no/v2/results/1837612"
+        "url": "https://api.cristin.no/v2/results/1837612",
+        "journal": "Body image"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Elite athletes get pregnant, have healthy babies and return to sport early postpartum",
-        "journal": "BMJ Open sport & exercise medicine",
-        "url": "https://api.cristin.no/v2/results/1777283"
+        "url": "https://api.cristin.no/v2/results/1777283",
+        "journal": "BMJ Open sport & exercise medicine"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Does the Healthy Body Image program improve lifestyle habits among high school students? A randomized controlled trial with 12-month follow-up",
-        "journal": "Journal of International Medical Research",
-        "url": "https://api.cristin.no/v2/results/1757345"
+        "url": "https://api.cristin.no/v2/results/1757345",
+        "journal": "Journal of International Medical Research"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "The healthy body image (HBI) intervention: Effects of a school-based cluster-randomized controlled trial with 12-months follow-up",
-        "journal": "Body image",
-        "url": "https://api.cristin.no/v2/results/1689226"
+        "url": "https://api.cristin.no/v2/results/1689226",
+        "journal": "Body image"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "The Norwegian healthy body image programme: Study protocol for a randomized controlled school-based intervention to promote positive body image and prevent disordered eating among Norwegian high school students",
-        "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/1571325"
+        "url": "https://api.cristin.no/v2/results/1571325",
+        "journal": "BMC Psychology"
       }
     ]
+  },
+  "rg": {
+    "id": "Christine-Sundgot-Borgen",
+    "name": "Christine Sundgot-Borgen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/530085281501184-1503393587525_Q128/Christine-Sundgot-Borgen.jpg",
+    "affiliation": "Oslo University Hospital, Regional Department for Eating Disorders RASP",
+    "keywords": ["physical activity and health", "Exercise Medicine", "Exercise Science", "Sports Science", "Physical Fitness", "Sport Training", "personal training"],
+    "works": [
+      {
+        "title": "Associations of adherence to physical activity and dietary recommendations with weight recurrence 1-5 years after metabolic and bariatric surgery",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Christine Sundgot-Borgen", "Dale Bond", "Øyvind Rø", "Ingela Lundin Kvalem"],
+        "abstract": []
+      },
+      {
+        "title": "BAS1 Supplementary Materials.docx",
+        "tags": ["Data"],
+        "date": "Aug 2023",
+        "authors": ["Viren Swami", "Ulrich S Tran", "Stefan Stieger", "Martin Voracek"],
+        "abstract": []
+      },
+      {
+        "title": "Body Appreciation Around the World: Measurement Invariance of the Body Appreciation Scale-2 (BAS-2) Across 65 Nations, 40 Languages, Gender Identities, and Age",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Viren Swami", "Ulrich S Tran", "Stefan Stieger", "Martin Voracek"],
+        "abstract": ["The Body Appreciation Scale-2 (BAS-2) is a widely used measure of a core facet of the positive body image construct. However, extant research concerning measurement invariance of the BAS-2 across a large number of nations remains limited. Here, we utilised the Body Image in Nature (BINS) dataset – with data collected between 2020 and 2022 – to asse..."]
+      },
+      {
+        "title": "BAS1 Supplementary Materials.docx",
+        "tags": ["Data"],
+        "date": "Aug 2023",
+        "authors": ["Viren Swami", "Ulrich S Tran", "Stefan Stieger", "Martin Voracek"],
+        "abstract": []
+      },
+      {
+        "title": "Nutrition and eating disorders in youth sport",
+        "tags": ["Chapter"],
+        "date": "Aug 2023",
+        "authors": ["Therese Fostervold Mathisen", "Christine Sundgot-Borgen", "Jorunn Sundgot-Borgen"],
+        "abstract": ["Optimal energy and nutrient intake is important for health and performance in youth athletes who also have additional energy needs due to growth and development. Specific recommendations for energy and nutrient intake for youth athletes are lacking, and as such adolescents are mainly advised to follow recommendations for adult athletes. Findings in..."]
+      },
+      {
+        "title": "Associations of changes in physical activity and sedentary time with weight recurrence after bariatric surgery: a 5-year prospective study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Christine Sundgot-Borgen", "Dale Bond", "Falko F Sniehotta", "Tom Mala"],
+        "abstract": ["Background\nIncreasing physical activity and limiting sedentary time may minimize weight recurrence after bariatric surgery. However, few studies have evaluated potential associations of objectively-measured physical activity and sedentary time with post-surgical weight recurrence over time.\n\nAims\nTo evaluate associations of change in physical activ..."]
+      },
+      {
+        "title": "Siblings, Shopping, and Sustainability: Birth-Order Differences in Green Consumption",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Tobias Otterbring", "Christine Sundgot-Borgen", "Solfrid Bratland-Sanda", "Lise Katrine Jepsen Trangsrud"],
+        "abstract": ["Several studies have examined the role of birth order in shaping human personality, but fewer have tested this variable in relation to other pressing issues. We conducted a birth-order study on green consumption, which enabled us to detect a small-to-moderate effect size equivalent to r = .15 or d = 0.30 with sufficient statistical power (N = 335)...."]
+      },
+      {
+        "title": "Hiking, indoor biking, and body liking: a cross-sectional study examining the link between physical activity arenas and adults’ body appreciation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Christine Sundgot-Borgen", "Lise Katrine Jepsen Trangsrud", "Tobias Otterbring", "Solfrid Bratland-Sanda"],
+        "abstract": ["Background\nBody appreciation might serve as a protective factor for developing eating disorders and is associated with participation in physical activity. Less is known about whether various arenas for physical activity may be linked to body appreciation. Therefore, the current study sought to (1) identify potential associations between physical ac..."]
+      },
+      {
+        "title": "Intervention in professional dance students to increase mental health- and nutrition literacy: A controlled trial with follow up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Therese Fostervold Mathisen", "Christine Sundgot-Borgen", "Beate Anstensrud", "Jorunn Sundgot-Borgen"],
+        "abstract": ["Introduction: \nThere is a need to change the culture within the art of dance, as it has been associated with injuries and mental health consequences. This study evaluates an intervention designed to increase mental health literacy, enhance nutritional knowledge, reduce symptoms and effects of low energy availability, and strengthen understanding of..."]
+      },
+      {
+        "title": "The Healthy Body Image Intervention and Reduction in Eating Disorder Symptomatology and Muscle Building Supplement Use in High School Students: A Study of Mediating Factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Kethe Marie Engen Svantorp-Tveiten", "Andreas Ivarsson", "Monica Torstveit", "Jorunn Sundgot-Borgen"],
+        "abstract": ["Background\nMediation analysis is important to test the theoretical framework underpinning an intervention. We therefore aimed to investigate if the healthy body image (HBI) intervention’s effect on eating disorder (ED) symptomatology and use of muscle building supplements was mediated by the change in risk and protective factors for ED development..."]
+      },
+      {
+        "title": "Mental health, eating behaviour and injuries in professional dance students",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Therese Fostervold Mathisen", "Christine Sundgot-Borgen", "Beate Anstensrud", "Jorunn Sundgot-Borgen"],
+        "abstract": ["A high frequency of mental health challenges and injuries in professional dancers necessitate a better understanding of the complexity of such symptoms, and to explore differences according to sex, academic year and performance levels. Professional dance students were recruited to evaluate symptoms of depression and anxiety (SCL-10), resilience (RS..."]
+      },
+      {
+        "title": "Explanations for use of dietary- and muscle enhancing dietary supplements among university students: a national cross-sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Christine Sundgot-Borgen", "Therese Fostervold Mathisen", "Monica Torstveit", "Jorunn Sundgot-Borgen"],
+        "abstract": ["Abstract Background Use of dietary supplements (DS) and muscle enhancing dietary supplements (MEDS) is frequent among students despite the lack of evidence of effects and health risks related to consumption. We need to increase our understanding of students’ motivation, examine potential gender differences, and explore explanatory factors, to addre..."]
+      },
+      {
+        "title": "Sexual Harassment in Fitness Instructors: Prevalence, Perpetrators, and Mental Health Correlates",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Therese Fostervold Mathisen", "Nina Sølvberg", "Christine Sundgot-Borgen", "Jorunn Sundgot-Borgen"],
+        "abstract": ["Introduction: This paper explores frequency of experiences of sexual harassment (SH) among fitness instructors, outlines the typical perpetrator, and explores associated mental health symptoms.\nDesign: Cross-sectional survey.\nMaterials and Methods: A total of 270 Norwegian fitness instructors, recruited in social media, responded to an electronic q..."]
+      },
+      {
+        "title": "Effect of A Healthy Body Image intervention on risk- and protective factors for eating disorders: A cluster randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Kethe Marie Engen Svantorp-Tveiten", "Monica Torstveit", "Jan Harald Rosenvinge", "Jorunn Sundgot-Borgen"],
+        "abstract": ["Objective\nTo investigate the immediate and 12-months effects of a school-based intervention aiming to reduce risk and enhance protective factors for eating disorder development in high school boys and girls.\n\nMethod\nIn total, 4,149 adolescents from 30 high schools were eligible for inclusion and 2,446 consented to participate and were randomly allo..."]
+      },
+      {
+        "title": "Protein, Creatine, and Dieting Supplements Among Adolescents: Use and Associations With Eating Disorder Risk Factors, Exercise-, and Sports Participation, and Immigrant Status",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Kethe Marie Engen Svantorp-Tveiten", "Oddgeir Friborg", "Monica Torstveit", "Jorunn Sundgot-Borgen"],
+        "abstract": ["Objective: This study aimed to estimate the number of weekly users of protein, creatine, and dieting supplements and to explore whether weekly use was related to eating disorder (ED) risk factors, exercise, sports participation, and immigrant status.\nMethods: In total, 629 and 1060 high school boys and girls, respectively, self-reported weekly freq..."]
+      },
+      {
+        "title": "Body appreciation and body appearance pressure in Norwegian university students comparing exercise science students and other students",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Christine Sundgot-Borgen", "Jorunn Sundgot-Borgen", "Solfrid Bratland-Sanda", "Therese Fostervold Mathisen"],
+        "abstract": ["Background\nBody image is considered a core issue for public health and associates with university students’ overall health. Due to positive associations between exercise and body image, it has been suggested that students within an exercise science program might be more body appreciative compared to other students. On the other hand, the strong soc..."]
+      },
+      {
+        "title": "Mirror, mirror - Does the fitness club industry have a body image problem?",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Lene A H Haakstad", "Charlotte Jakobsen", "Runar Barstad Solberg", "Christina Gjestvang"],
+        "abstract": ["The primary aim of the present study was to report longitudinal data on body image across the first year of gym engagement. Second, we aimed to compare body image among those who reported regular use of the fitness club (≥2 sessions/week) with those who did not (≤1exercise session/week or no exercise/dropout), as well as between genders and Body Ma..."]
+      },
+      {
+        "title": "Body Figure Idealization and Body Appearance Pressure in Fitness Instructors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Therese Fostervold Mathisen", "Jenny Aambø", "Solfrid Bratland-Sanda", "Jorunn Sundgot-Borgen"],
+        "abstract": ["PurposeThe fitness centers are settings for health promotion, yet may serve as a stage for counterproductive figure idealization. Such idealization may take the form of a drive toward the thin, the muscular, or lean body figure ideal, which all hold the potential to impel an experience of body appearance pressure (BAP) and body dissatisfaction. The..."]
+      },
+      {
+        "title": "The Impact of Covid-19 Pandemic Lockdown During Spring 2020 on Personal Trainers' Working and Living Conditions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Solfrid Bratland-Sanda", "Therese Fostervold Mathisen", "Christine Sundgot-Borgen", "Jan Ove Tangen"],
+        "abstract": ["Purpose: The aim of this study was to map changes in working and living conditions of Norwegian personal trainers (PTs) during the Covid-19 lockdown spring 2020.\nMethods: A total of 150 PTs (mean (SD) age 35.5 (8.4) years, with 6.5 (5.3) years of experience as PT, and 61% female) in Norway responded to an online survey.\nResults: Number of PT sessio..."]
+      },
+      {
+        "title": "The Norwegian healthy body image intervention promotes positive embodiment through improved self-esteem ଝ-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Christine Sundgot-Borgen", "Andreas Stenling", "Jan Harald Rosenvinge", "Solfrid Bratland-Sanda"],
+        "abstract": ["We examined both direct and indirect effects of the Healthy Body Image (HBI) intervention on positive embodiment among Norwegian high school students. In total, 2446 12th grade boys (43 %) and girls (mean age 16.8 years) from 30 schools participated in a cluster-randomized controlled study with the HBI intervention and a control condition as the st..."]
+      },
+      {
+        "title": "Pregnancy In Elite Athletes And Their Return To Sport: 2114 Board #33 May 28 2:00 PM - 3:30 PM",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["Christine Sundgot-Borgen", "Jorunn Sundgot-Borgen", "Grethe Myklebust", "Monica Torstveit"],
+        "abstract": []
+      },
+      {
+        "title": "Does the Healthy Body Image program improve lifestyle habits among high school students? A randomized controlled trial with 12-month follow-up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Christine Sundgot-Borgen", "Oddgeir Friborg", "Elin Kolle", "Solfrid Bratland-Sanda"],
+        "abstract": ["Objectives: \nPositive embodiment and healthy lifestyle habits seem to be related; therefore, stimulating positive embodiment should promote healthy lifestyle habits. In the current study, we delivered the Healthy Body Image (HBI) intervention among Norwegian high school students and examined the effects on healthy lifestyle habits.\n\nMethods: \nThe H..."]
+      },
+      {
+        "title": "Elite athletes get pregnant, have healthy babies and return to sport early postpartum",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Jorunn Sundgot-Borgen", "Christine Sundgot-Borgen", "Grethe Myklebust", "Monica Torstveit"],
+        "abstract": ["Objectives\nTo enhance knowledge on pregnancy and return to sport in the postpartum period in elite female athletes.\n\nMethods\n34 Norwegian elite athletes (33.1 years) and 34 active controls (31.5 years) were asked about training and competitive history, pregnancy-related issues, injuries, body dissatisfaction (BD), drive for thinness (DT), eating di..."]
+      },
+      {
+        "title": "The healthy body image (HBI) intervention: Effects of a school-based cluster-randomized controlled trial with 12-months follow-up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Christine Sundgot-Borgen", "Kethe Marie Engen Svantorp-Tveiten", "Solfrid Bratland-Sanda", "Elin Kolle"],
+        "abstract": ["We examined the effects of the Healthy Body Image (HBI) intervention on positive embodiment andhealth-related quality of life among Norwegian high school students. The intervention comprised threeinteractive workshops, with body image, media literacy, and lifestyle as main themes. In total, 2,44612thgrade boys (43%) and girls (mean age 16.8 years)..."]
+      },
+      {
+        "title": "Positive Body Image And Compliance With Physical Activity Recommendations Across Physical Activity Contexts In Adolescents",
+        "tags": ["Poster", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Christine Sundgot-Borgen", "Kethe Marie Engen Svantorp-Tveiten", "Monica Torstveit", "Solfrid Bratland-Sanda"],
+        "abstract": ["Session Title: Correlates and Behavioral Aspects of Physical Activity in Youth and Teens\nSession Number: C-41\nSession Viewing Date/Time: Thursday May 31, 2018 7:30 AM - 12:30 PM\nPresentation Time: 9:00am - 10:30am\nPoster Board Number: 146\n\nABSTRACT\nBACKGROUND: Being physically active is associated with a positive body image (PBI)(1). Gyms offer a p..."]
+      },
+      {
+        "title": "Is Disordered Eating Related To Muscle-enhancing Supplement Use And Exercise Context in Adolescents?: 2492 Board #7 June 1 1",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Kethe Marie Engen Svantorp-Tveiten", "Christine Sundgot-Borgen", "Monica Torstveit", "Jorunn Sundgot-Borgen"],
+        "abstract": []
+      },
+      {
+        "title": "Positive Body Image And Compliance With Physical Activity Recommendations Across Physical Activity Contexts In Adolescents: 1338 Board #146 May 31 9",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Christine Sundgot-Borgen", "Kethe Marie Engen Svantorp-Tveiten", "Jan Harald Rosenvinge", "Solfrid Bratland-Sanda"],
+        "abstract": []
+      },
+      {
+        "title": "The Norwegian healthy body image programme: Study protocol for a randomized controlled school-based intervention to promote positive body image and prevent disordered eating among Norwegian high school students",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Christine Sundgot-Borgen", "Solfrid Bratland-Sanda", "Kethe Marie Engen Svantorp-Tveiten", "Jan Harald Rosenvinge"],
+        "abstract": ["Background: \nBody dissatisfaction and disordered eating raise the risk for eating disorders. In the prevention of eating disorders, many programmes have proved partly successful in using cognitive techniques to combat such risk factors. However, specific strategies to actively promote a positive body image are rarely used. The present paper outline..."]
+      },
+      {
+        "title": "Is there a shift in the ideal body image for the adolescents?",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2017",
+        "authors": ["Christine Sundgot-Borgen", "Kethe Marie Engen Svantorp-Tveiten"],
+        "abstract": ["Background: A healthy body image serves as a predictor for good quality of life and disserves focus when aiming to improve health in adolescents. Unfortunately, high prevalence of body dissatisfaction has been reported in adolescents, and especially females have high drive for thinness. However, a muscular and lean body is the new ideal in social m..."]
+      },
+      {
+        "title": "Is There A Shift In The Ideal Body in The Adolescents?: 3013 Board #2 June 2 3",
+        "tags": ["Conference Paper"],
+        "date": "May 2017",
+        "authors": ["Christine Sundgot-Borgen", "Kethe Marie Engen Svantorp-Tveiten", "Elin Kolle", "Solfrid Bratland-Sanda"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Phd"],
+    "publications": [30],
+    "reads": [8795],
+    "citations": [233]
   }
 }

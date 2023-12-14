@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Asbjørn Kolseth",
-    "id": "1021819",
+    "name": ["Asbjørn Kolseth"],
+    "id": ["1021819"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
@@ -16,5 +16,74 @@
         "url": "https://api.cristin.no/v2/results/1913045"
       }
     ]
+  },
+  "rg": {
+    "id": "Charlotte-Asbjorn-Soerensen",
+    "name": "Charlotte Asbjørn Sörensen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/306478471155713-1450081569412_Q128/Charlotte-Asbjorn-Soerensen.jpg",
+    "affiliation": "Malmö University | mah, Malmö University, School of Arts and Communication K3",
+    "keywords": ["Product Design and Development", "Design Science", "Designing", "Design Thinking", "Design Theory", "Prototyping", "Product Development", "Drawing", "Creative Thinking", "Material Characterization"],
+    "works": [
+      {
+        "title": "INTERNATIONAL CONFERENCE ON ENGINEERING AND PRODUCT DESIGN EDUCATION A COMPARATIVE CASE STUDY OF BIO-BASED MATERIAL DEVELOPMENT BY DESIGNERS USING A DIY APPROACH IN A CIRCULAR CONTEXT",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Charlotte Asbjørn Sörensen", "Therese Rosén"],
+        "abstract": "There is an essential visionary element to design that affects how we experience and shape our environment. Reacting to our current reality with climate change and exceeding our planetary boundaries, designers are increasingly involved as catalysers of innovative and interdisciplinary material research by generating alternative proposals and scenar..."
+      },
+      {
+        "title": "A qualitative study of the challenges faced by material designers when developing DIY-materials",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Charlotte Asbjørn Sörensen", "Emma Thyni"],
+        "abstract": "The recent academic literature on material practices within design has revealed the emergence of a new design discipline, DIY-materials or material design. Designers educated in DIY-materials and the Material Driven Design method, applied in design courses in major European universities are beginning to identify themselves as material designers. Th..."
+      },
+      {
+        "title": "Knowledge-carrying objects in learning situations",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Elin Olander", "Charlotte Asbjørn Sörensen", "Enes Musa", "Marielle Sterner"],
+        "abstract": "This study aims to explore the scope of 'knowledge-carrying' objects in learning situations. The study is based on a qualitative content analysis of a design project conducted in a science centre for children aged 7-10 years, learning about polymers and circularity. The design project is based on research through design and has been an iterative pr..."
+      },
+      {
+        "title": "A Material Framework for Product Design - The development of reflective material practices",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Charlotte Asbjørn Sörensen"],
+        "abstract": "A new paradigm is slowly making its way into society, affecting our material practice as designers. Materials selection in design and product development has for a long time been dominated by a purely technical approach, mainly focusing on properties and performance. With the increasing evidence of climate change, waste and pollution, environmental..."
+      },
+      {
+        "title": "A SHIFT FROM TECHNICAL PROPERTIES TOWARDS SENSORIAL CHARACTERISTICS IN PRODUCT DESIGN EDUCATION",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Charlotte Asbjørn Sörensen", "Santosh Jagtap", "Anders Warell"],
+        "abstract": "The aim of this study is to evaluate a new pedagogic approach implemented in a compulsory materials course for product design students at bachelors level at Malmö University. When developing a new curriculum for the material course, a decision was made to teach materials and production methods in a contextualized setting with emphasis on how studen..."
+      },
+      {
+        "title": "MATERIAL SELECTION-A QUALITATIVE CASE STUDY OF FIVE DESIGN CONSULTANCIES",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Asbjørn Sørensen", "Anders Warell", "Charlotte Asbjørn Sörensen", "santosh jagtap"],
+        "abstract": "This qualitative case study aims at understanding when and how industrial designers, working in design consultancies, engage in activities that will influence material selection in the design process. While the extant literature presents material selection processes as a sequence of activities aimed at finding candidate materials, there is paucity..."
+      },
+      {
+        "title": "A new approach to materials in Product Design education - A shift from technical properties towards sensorial characteristics",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Charlotte Asbjørn Sörensen", "Santosh Jagtap", "Anders Warell"],
+        "abstract": "This study evaluates a new pedagogic approach implemented in material courses for product design students at bachelor level education. Material education within the field of design education at technical faculties has, in general, a strong technical focus, e.g. selecting materials with predominant focus on engineering properties of materials. Produ..."
+      },
+      {
+        "title": "MATERIAL SELECTION IN INDUSTRIAL DESIGN EDUCATION – A LITERATURE REVIEW",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Charlotte Asbjørn Sörensen", "Santosh Jagtap", "Anders Warell"],
+        "abstract": "This study reviews literature on the aspects of material selection within the field of industrial design education, specifically focusing on existing material selection tools and guidelines used in industrial design education. The growing number of materials available today has created a large variety of options for industrial designers, which they..."
+      }
+    ],
+    "degree": ["MFA", "Industrial", "Design"],
+    "publications": [8],
+    "reads": [14831],
+    "citations": [39]
   }
 }

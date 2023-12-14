@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Jon Trygve Monsen",
-    "id": "WMJQRrAAAAAJ",
-    "affiliation": "Professor i psykologi Universitetet i Oslo",
+    "name": ["Jon Trygve Monsen"],
+    "id": ["WMJQRrAAAAAJ"],
+    "affiliation": ["Professor i psykologi Universitetet i Oslo"],
     "data": {
       "publications": [
         {
@@ -691,8 +691,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-0879-8902",
-    "name": "Jon Trygve Monsen",
+    "orcid": ["0000-0003-0879-8902"],
+    "name": ["Jon Trygve Monsen"],
     "distinctions": [],
     "education": [
       {
@@ -717,11 +717,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jon Trygve Monsen",
-    "id": "24640",
+    "name": ["Jon Trygve Monsen"],
+    "id": ["24640"],
     "keywords": ["Dynamic- and integrative psychotherapy", "Affect theory, afefect integration, affect consciousness", "Psychotherapy research: process- and outcome", "Psychotherapist training"],
     "position": ["University lecturer"],
-    "img": "https://api.cristin.no/v2/persons/24640/picture",
+    "img": ["https://api.cristin.no/v2/persons/24640/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1287,5 +1287,15 @@
         "url": "https://api.cristin.no/v2/results/433980"
       }
     ]
+  },
+  "rg": {
+    "id": "Jon_Trygve_Fjermestad",
+    "name": "Jon Trygve Fjermestad",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Stavanger UiS, Department of Mechanical and Structural Engineering and Materials Science",
+    "keywords": [],
+    "works": [],
+    "degree": ["Bachelor", "of", "Science"],
+    "bio": []
   }
 }

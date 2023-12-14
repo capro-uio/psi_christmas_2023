@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Jasmine PH Richter (née Rivett)",
-    "id": "LpXVlkAAAAAJ",
-    "affiliation": "LiDAR perception developer, Robert Bosch GmbH, Germany",
+    "name": ["Jasmine PH Richter (née Rivett)"],
+    "id": ["LpXVlkAAAAAJ"],
+    "affiliation": ["LiDAR perception developer, Robert Bosch GmbH, Germany"],
     "data": {
       "publications": [
         {
@@ -576,8 +576,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-3527-5923",
-    "name": "Jasmin Richter",
+    "orcid": ["0000-0002-3527-5923"],
+    "name": ["Jasmin Richter"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -588,8 +588,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jasmin Richter",
-    "id": "1318647",
+    "name": ["Jasmin Richter"],
+    "id": ["1318647"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -644,5 +644,15 @@
         "url": "https://api.cristin.no/v2/results/1937344"
       }
     ]
+  },
+  "rg": {
+    "id": "Jasmin-Richter-2",
+    "name": "Jasmin Richter",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Universität Bremen | Uni Bremen, Universität Bremen, Institute of Political Science",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

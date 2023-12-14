@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Anna Engel",
-    "id": "wln7-RIAAAAJ",
-    "affiliation": "Universitat de Barcelona",
+    "name": ["Anna Engel"],
+    "id": ["wln7-RIAAAAJ"],
+    "affiliation": ["Universitat de Barcelona"],
     "data": {
       "publications": [
         {
@@ -989,8 +989,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-6113-9768",
-    "name": "Anna Engel",
+    "orcid": ["0000-0001-6113-9768"],
+    "name": ["Anna Engel"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1001,8 +1001,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anna Sophia Engel",
-    "id": "1504858",
+    "name": ["Anna Sophia Engel"],
+    "id": ["1504858"],
     "keywords": [],
     "position": ["Guest", "Guest"],
     "img": {},
@@ -1015,5 +1015,14 @@
         "url": "https://api.cristin.no/v2/results/2161914"
       }
     ]
+  },
+  "rg": {
+    "id": "Anna-Sophia-2",
+    "name": "Anna Sophia",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Erasmus MC | Erasmus MC, Erasmus MC, student",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

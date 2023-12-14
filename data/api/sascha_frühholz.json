@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Sascha Frühholz",
-    "id": "BOQ8VjoAAAAJ",
-    "affiliation": "Cognitive and Affective Neuroscience Unit, University of Zurich",
+    "name": ["Sascha Frühholz"],
+    "id": ["BOQ8VjoAAAAJ"],
+    "affiliation": ["Cognitive and Affective Neuroscience Unit, University of Zurich"],
     "data": {
       "publications": [
         {
@@ -905,8 +905,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-6485-3817",
-    "name": "Sascha Frühholz",
+    "orcid": ["0000-0002-6485-3817"],
+    "name": ["Sascha Frühholz"],
     "distinctions": [],
     "education": [
       {
@@ -917,10 +917,10 @@
       },
       {
         "start": "2015",
-        "end": "2020",
         "position": "Professor",
         "organisation": "University of Zurich",
-        "country": "CH"
+        "country": "CH",
+        "end": "2020"
       }
     ],
     "employment": [
@@ -932,10 +932,10 @@
       },
       {
         "start": "2015",
-        "end": "2020",
         "position": "Professor",
         "organisation": "University of Zurich",
-        "country": "CH"
+        "country": "CH",
+        "end": "2020"
       }
     ],
     "membership": [],
@@ -1193,8 +1193,8 @@
     ]
   },
   "cristin": {
-    "name": "Sascha Frühholz",
-    "id": "1208511",
+    "name": ["Sascha Frühholz"],
+    "id": ["1208511"],
     "keywords": [],
     "position": ["Professor"],
     "img": {},
@@ -1424,5 +1424,719 @@
         "url": "https://api.cristin.no/v2/results/1881266"
       }
     ]
+  },
+  "rg": {
+    "id": "Sascha-Fruehholz",
+    "name": "Sascha Frühholz",
+    "img": "https://i1.rgstatic.net/ii/profile.image/971975598043138-1608748449646_Q128/Sascha-Fruehholz.jpg",
+    "affiliation": "University of Zurich | UZH, University of Zurich, Cognitive and Affective Neuroscience Unit",
+    "keywords": ["Affective Neuroscience", "EEG", "Neuroimaging", "Cognitive Neuroscience", "Cognitive Neuropsychology", "Psychophysiology", "Neuroscience", "Emotion Recognition", "Functional Neuroimaging", "Learning"],
+    "works": [
+      {
+        "title": "Immersive VR for investigating threat avoidance: The VRthreat toolkit for Unity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Jack Brookes", "Samson Hall", "Sascha Frühholz", "Dominik R Bach"],
+        "abstract": ["All animals have to respond to immediate threats in order to survive. In non-human animals, a diversity of sophisticated behaviours has been observed, but research in humans is hampered by ethical considerations. Here, we present a novel immersive VR toolkit for the Unity engine that allows assessing threat-related behaviour in single, semi-interac..."]
+      },
+      {
+        "title": "Individuals with and without child maltreatment experiences are evaluated similarly and do not differ in facial affect display at zero- and first-acquaintance",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Lara-Lynn Hautle", "Jennifer Kurath", "Lena Jellestad", "Monique C Pfaltz"],
+        "abstract": ["Background\nIndividuals with a history of child maltreatment (CM) are more often disliked, rejected and victimized compared to individuals without such experiences. However, contributing factors for these negative evaluations are so far unknown.\n\nObjective\nBased on previous research on adults with borderline personality disorder (BPD), this preregis..."]
+      },
+      {
+        "title": "Acoustic and structural differences between musically portrayed subtypes of fear",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Caitlyn Trevor", "Marina Renner", "Sascha Frühholz"],
+        "abstract": ["Fear is a frequently studied emotion category in music and emotion research. However, research in music theory suggests that music can convey finer-grained subtypes of fear, such as terror and anxiety. Previous research on musically expressed emotions has neglected to investigate subtypes of fearful emotions. This study seeks to fill this gap in th..."]
+      },
+      {
+        "title": "Crossmodal benefits to vocal emotion perception in cochlear implant users",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Celina Isabelle von Eiff", "Sascha Frühholz", "Daniela Korth", "Stefan R. Schweinberger"],
+        "abstract": ["Speech comprehension counts as benchmark outcome of cochlear implants (CIs) – disregarding the communicative importance of efficient integration of audiovisual (AV) socio-emotional information. We investigated effects of time-synchronized facial information on vocal emotion recognition (VER). In Exp1, 26 CI users and normal-hearing (NH) individuals..."]
+      },
+      {
+        "title": "Psychopathic and autistic traits differentially influence the neural mechanisms of social cognition from communication signals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Christine Skjegstad", "Caitlyn Trevor", "Huw Swanborough", "Sascha Frühholz"],
+        "abstract": ["Psychopathy is associated with severe deviations in social behavior and cognition. While previous research described such cognitive and neural alterations in the processing of rather specific social information from human expressions, some open questions remain concerning central and differential neurocognitive deficits underlying psychopathic beha..."]
+      },
+      {
+        "title": "Individuals with and without child maltreatment experiences are evaluated similarly and do not differ in facial affect display at zero-and first- acquaintance",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Lara-Lynn Hautle", "Jennifer Kurath", "Lena Jellestad", "Monique C Pfaltz"],
+        "abstract": ["Background\nIndividuals with child maltreatment (CM) experiences are more often disliked, rejected and victimized compared to individuals without such experiences. However, contributing factors for negative evaluations are so far unknown.\n\nObjective\nThe purpose of this preregistered study, based on previous research on adults with borderline persona..."]
+      },
+      {
+        "title": "Behavioral correlates of temporal attention biases during emotional prosody perception",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Guex Raphael", "Didier Grandjean", "Sascha Frühholz"],
+        "abstract": ["Emotional prosody perception (EPP) unfolds in time given the intrinsic temporal nature of auditory stimuli, and has been shown to be modulated by spatial attention. Yet, the influence of temporal attention (TA) on EPP remains largely unexplored. TA studies manipulate subject’s motor preparedness according to an upcoming event, with targets to discr..."]
+      },
+      {
+        "title": "Differentiating between terrifying and anxious music in emotion research",
+        "tags": ["Article"],
+        "date": "Aug 2022",
+        "authors": ["Caitlyn Trevor", "Marina Renner", "Sascha Frühholz"],
+        "abstract": []
+      },
+      {
+        "title": "Parameter-Specific Morphing Reveals Contributions of Timbre to the Perception of Vocal Emotions in Cochlear Implant Users",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Celina Isabelle von Eiff", "Verena G. Skuk", "Romi Zäske", "Stefan R. Schweinberger"],
+        "abstract": ["Objectives: \nResearch on cochlear implants (CIs) has focused on speech comprehension, with little research on perception of vocal emotions. We compared emotion perception in CI users and normal-hearing (NH) individuals, using parameter-specific voice morphing.\n\nDesign: \nTwenty-five CI users and 25 NH individuals (matched for age and gender) perform..."]
+      },
+      {
+        "title": "Acoustic and musical differences between musically conveyed terror and anxiety",
+        "tags": ["Preprint"],
+        "date": "Jun 2022",
+        "authors": ["Caitlyn Trevor", "Sascha Frühholz", "Marina Renner"],
+        "abstract": ["Fear is a frequently studied emotion category in music and emotion research. Yet little is known about how music conveys finer-grained fearful emotions such as terror and anxiety. We used emotion ratings from 99 participants to create a new ecologically valid database of horror film music excerpts that reliably convey terror and anxiety called FEAR..."]
+      },
+      {
+        "title": "A Randomized Controlled Trial Study of a Multimodal Intervention vs. Cognitive Training to Foster Cognitive and Affective Health in Older Adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Maria Brasser-Michel", "Sascha Frühholz", "Andres R Schneeberger", "Barbara Studer-Luethi"],
+        "abstract": ["Research over the past few decades has shown the positive influence that cognitive, social, and physical activities have on older adults’ cognitive and affective health. Especially interventions in health-related behaviors, such as cognitive activation, physical activity, social activity, nutrition, mindfulness, and creativity, have shown to be par..."]
+      },
+      {
+        "title": "Affective speech modulates a cortico-limbic network in real time",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Florence Steiner", "Natalia Fernandez", "Joris Dietziker", "Sascha Frühholz"],
+        "abstract": ["Affect signaling in human communication involves cortico-limbic brain systems for affect information decoding, such as expressed in vocal intonations during affective speech. Both, the affecto-acoustic speech profile of speakers and the cortico-limbic affect recognition network of listeners were previously identified using non-social and non-adapti..."]
+      },
+      {
+        "title": "Studying clinical communication through multiple lenses: The underused potential of inter-disciplinary collaborations",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Hanne Lie", "Jennifer Gerwing", "Hilde Bondevik", "Julia Menichetti"],
+        "abstract": []
+      },
+      {
+        "title": "Distinct functional levels of human voice processing in the auditory cortex",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Matthias Staib", "Sascha Frühholz"],
+        "abstract": ["Voice signaling is integral to human communication, and a cortical voice area seemed to support the discrimination of voices from other auditory objects. This large cortical voice area in the auditory cortex (AC) was suggested to process voices selectively, but its functional differentiation remained elusive. We used neuroimaging while humans proce..."]
+      },
+      {
+        "title": "Disrupting inferior frontal cortex activity alters affect decoding efficiency from clear but not from ambiguous affective speech",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Leonardo Ceravolo", "Marius Moisa", "Didier Grandjean", "Sascha Frühholz"],
+        "abstract": ["The evaluation of socio-affective sound information is accomplished, among other brain regions, by the primate neural auditory cortex in collaboration with limbic and inferior frontal brain nodes. For the latter, activity in inferior frontal cortex (IFC) is often observed during the classification (e.g., categorization) of voice sounds, especially..."]
+      },
+      {
+        "title": "Disrupting inferior frontal cortex activity alters affect decoding efficiency from clear but not from ambiguous affective speech",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Leonardo Ceravolo", "Marius Moisa", "Didier Grandjean", "Sascha Frühholz"],
+        "abstract": ["The evaluation of socio-affective sound information is accomplished by the primate neural auditory cortex in collaboration with limbic and inferior frontal brain nodes. For the latter, activity in inferior frontal cortex (IFC) is often observed during classification of voice sounds, especially if they carry affective information. Partly opposing vi..."]
+      },
+      {
+        "title": "Music as an evolved tool for socio-affective fiction",
+        "tags": ["Preprint"],
+        "date": "Nov 2021",
+        "authors": ["Caitlyn Trevor", "Sascha Frühholz"],
+        "abstract": ["The question of how music evolved has been pursued for centuries across multiple disciplines. While many theories have been posited, they still do not fully answer the question of why humans began making music. Adding to the effort to solve this mystery, we propose the socio-affective fiction (SAF) hypothesis. Our theory posits that humans have a u..."]
+      },
+      {
+        "title": "The evolutionary benefit of less-credible affective musical signals for emotion induction during storytelling",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Caitlyn Trevor", "Sascha Frühholz"],
+        "abstract": ["The credible signaling theory underexplains the evolutionary added value of less-credible affective musical signals compared to vocal signals. The theory might be extended to account for the motivation for, and consequences of, culturally decontextualizing a biologically contextualized signal. Musical signals are twofold, communicating “emotional f..."]
+      },
+      {
+        "title": "Eyewitness Memory for Person Identification: Predicting Mugbook Recognition Accuracy According to Person Description Abilities and Subjective Confidence of Witnesses",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Alexander Handler", "Sascha Frühholz"],
+        "abstract": ["Mugbook searches are conducted in case a suspect is not known and to assess if a previously convicted person might be recognized as a potential culprit. The goal of the two experiments reported here was to analyze if prior statements and information about the suspect can aid in the evaluation if such a mugbook search is subsequently advised or not...."]
+      },
+      {
+        "title": "Auditory cortical micro-networks show differential connectivity during voice and speech processing in humans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Florence Steiner", "Marine Bobin", "Sascha Frühholz"],
+        "abstract": ["The temporal voice areas (TVAs) in bilateral auditory cortex (AC) appear specialized for voice processing. Previous research assumed a uniform functional profile for the TVAs which are broadly spread along the bilateral AC. Alternatively, the TVAs might comprise separate AC nodes controlling differential neural functions for voice and speech decodi..."]
+      },
+      {
+        "title": "Basal ganglia and cerebellum contributions to vocal emotion processing as revealed by high-resolution fMRI",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Leonardo Ceravolo", "Sascha Frühholz", "Jordan E. Pierce", "Julie Péron"],
+        "abstract": ["Until recently, brain networks underlying emotional voice prosody decoding and processing were focused on modulations in primary and secondary auditory, ventral frontal and prefrontal cortices, and the amygdala. Growing interest for a specific role of the basal ganglia and cerebellum was recently brought into the spotlight. In the present study, we..."]
+      },
+      {
+        "title": "Temporal lobe epilepsy alters neural responses to human and avatar facial expressions in the face perception network",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Lorena C. Kegel", "Sascha Frühholz", "Thomas Grunwald", "Hennric Jokeit"],
+        "abstract": ["Background and Objective\nAlthough avatars are now widely used in advertisement, entertainment, and business today, no study has investigated whether brain lesions in neurological patients interfere with brain activation in response to dynamic avatar facial expressions. The aim of our event‐related fMRI study was to compare brain activation differen..."]
+      },
+      {
+        "title": "Frontoparietal, Cerebellum Network Codes for Accurate Intention Prediction in Altered Perceptual Conditions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Leonardo Ceravolo", "Simon Schaerlaeken", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["Integrating and predicting the intentions and actions of others are critical components of social interactions, but the behavioral and neural bases of such mechanisms under altered perceptual conditions are poorly understood. In the present study, we recruited expert violinists and age-matched controls with no musical training and asked them to eva..."]
+      },
+      {
+        "title": "Neurocognitive processing efficiency for discriminating human non-alarm rather than alarm scream calls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Sascha Frühholz", "Joris Dietziker", "Matthias Staib", "Wiebke Trost"],
+        "abstract": ["Across many species, scream calls signal the affective significance of events to other agents. Scream calls were often thought to be of generic alarming and fearful nature, to signal potential threats, with instantaneous, involuntary, and accurate recognition by perceivers. However, scream calls are more diverse in their affective signaling nature..."]
+      },
+      {
+        "title": "Cortical voice processing is grounded in elementary sound analyses for vocalization relevant sound patterns",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Matthias Staib", "Sascha Frühholz"],
+        "abstract": ["A subregion of the auditory cortex (AC) was proposed to selectively process voices. This selectivity of the temporal voice area (TVA) and its role in processing non-voice sounds however have remained elusive. For a better functional description of the TVA, we investigated its neural responses both to voice and non-voice sounds, and critically also..."]
+      },
+      {
+        "title": "Neurocognitive dynamics of near-threshold voice signal detection and affective voice evaluation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Huw Swanborough", "Matthias Staib", "Sascha Frühholz"],
+        "abstract": ["Communication and voice signal detection in noisy environments are universal tasks for many species. The fundamental problem of detecting voice signals in noise (VIN) is underinvestigated especially in its temporal dynamic properties. We investigated VIN as a dynamic signal-to-noise ratio (SNR) problem to determine the neurocognitive dynamics of su..."]
+      },
+      {
+        "title": "Categorizing human vocal signals depends on an integrated auditory‐frontal cortical network",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Claudia Roswandowitz", "Huw Swanborough", "Sascha Frühholz"],
+        "abstract": ["Voice signals are relevant for auditory communication and suggested to be processed in dedicated auditory cortex (AC) regions. While recent reports highlighted an additional role of the inferior frontal cortex (IFC), a detailed description of the integrated functioning of the AC–IFC network and its task relevance for voice processing is missing. Us..."]
+      },
+      {
+        "title": "Neural competition between concurrent speech production and other speech perception",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Joris Dietziker", "Matthias Staib", "Sascha Frühholz"],
+        "abstract": ["Understanding others’ speech while individuals simultaneously produce speech utterances implies neural competition and requires specific mechanisms for a neural resolution given that previous studies proposed opposing signal dynamics for both processes in the auditory cortex (AC). We here used neuroimaging in humans to investigate this neural compe..."]
+      },
+      {
+        "title": "Frontoparietal, cerebellum network codes for accurate intention prediction in altered perceptual conditions",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Leonardo Ceravolo", "Simon Schaerlaeken", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["Integrating and predicting intentions and actions of others are crucial components of social interactions, but the behavioral and neural underpinnings of such mechanisms in altered perceptual conditions remain poorly understood. We demonstrated that expertise was necessary to successfully understand and evaluate communicative intent in spatially an..."]
+      },
+      {
+        "title": "Basal ganglia and cerebellar contributions to vocal emotion processing: a high resolution fMRI study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Leonardo Ceravolo", "Sascha Frühholz", "Jordan Pierce", "Julie Péron"],
+        "abstract": ["Until recently, brain networks underlying emotional voice prosody decoding and processing were focused on modulations in primary and secondary auditory, ventral frontal and prefrontal cortices, and the amygdala. Growing interest for a specific role of the basal ganglia and cerebellum was recently brought into the spotlight. In the present study, we..."]
+      },
+      {
+        "title": "Nonverbal auditory communication – Evidence for integrated neural systems for voice signal production and perception",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Sascha Frühholz", "Stefan R. Schweinberger"],
+        "abstract": ["While humans have developed a sophisticated and unique system of verbal auditory communication, they also share a more common and evolutionarily important nonverbal channel of voice signaling with many other mammalian and vertebrate species. This nonverbal communication is mediated and modulated by the acoustic properties of a voice signal, and is..."]
+      },
+      {
+        "title": "Human Discrimination and Categorization of Emotions in Voices: A Functional Near-Infrared Spectroscopy (fNIRS) Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Thibaud Gruber", "Coralie Debracque", "Leonardo Ceravolo", "Didier Grandjean"],
+        "abstract": ["Functional Near-Infrared spectroscopy (fNIRS) is a neuroimaging tool that has been recently used in a variety of cognitive paradigms. Yet, it remains unclear whether fNIRS is suitable to study complex cognitive processes such as categorization or discrimination. Previously, functional imaging has suggested a role of both inferior frontal cortices i..."]
+      },
+      {
+        "title": "Terrifying film music mimics alarming acoustic feature of human screams",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Caitlyn Trevor", "Luc H Arnal", "Sascha Frühholz"],
+        "abstract": ["One way music is thought to convey emotion is by mimicking acoustic features of affective human vocalizations [Juslin and Laukka (2003). Psychol. Bull. 129(5), 770–814]. Regarding fear, it has been informally noted that music for scary scenes in films frequently exhibits a “scream-like” character. Here, this proposition is formally tested. This pap..."]
+      },
+      {
+        "title": "Neurocognitive processing efficiency for non-alarm rather than alarm signaling in human scream calls",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Sascha Frühholz", "Joris Dietziker", "Matthias Staib", "Wiebke Trost"],
+        "abstract": ["Across many species, scream calls signal the affective significance of events to other agents. Scream calls were often supposed to be of generic alarming and fearful nature to signal potential threats including their instantaneous, involuntary, and accurate recognition by perceivers. However, scream calls are more diverse in their affective signali..."]
+      },
+      {
+        "title": "Neural Dynamics of Karaoke-Like Voice Imitation in Singing Performance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Sascha Frühholz", "Wiebke Trost", "Irina Constantinescu", "Didier Grandjean"],
+        "abstract": ["Beyond normal and non-imitative singing, the imitation of the timbre of another singer’s voice, such as in Karaoke singing, involves the demanding reproduction of voice quality features and strongly depends on singing experience and practice. We show that precise voice imitation in a highly proficient and experienced vocal imitator, even in the abs..."]
+      },
+      {
+        "title": "Dynamic human and avatar facial expressions elicit differential brain responses",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Lorena C. Kegel", "Peter Brugger", "Sascha Frühholz", "Hennric Jokeit"],
+        "abstract": ["Computer-generated characters, so-called avatars, are widely used in advertising, entertainment, human-computer interaction, or as research tools to investigate human emotion perception. However, brain responses to avatar and human faces have scarcely been studied to date. As such, it remains unclear whether dynamic facial expressions of avatars ev..."]
+      },
+      {
+        "title": "Face and Voice Perception: Understanding Commonalities and Differences",
+        "tags": ["Article"],
+        "date": "Feb 2020",
+        "authors": ["Andrew W. Young", "Sascha Frühholz", "Stefan R. Schweinberger"],
+        "abstract": ["Faces and voices are of high importance in interpersonal communication, and there are notable parallels between face and voice perception. However, these parallels do not sit entirely comfortably with the full range of available evidence. In this review, we evaluate parallels between the functional and neural organisation of face and voice percepti..."]
+      },
+      {
+        "title": "A neurocognitive model of perceptual decision-making on emotional signals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Mihai Dricu", "Sascha Frühholz"],
+        "abstract": ["Humans make various kinds of decisions about which emotions they perceive from others. Although it might seem like a split‐second phenomenon, deliberating over which emotions we perceive unfolds across several stages of decisional processing. Neurocognitive models of general perception postulate that our brain first extracts sensory information abo..."]
+      },
+      {
+        "title": "Audiomotor integration of angry and happy prosodies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Sélim Yahia Coll", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["Different parts of our brain code the perceptual features and actions related to an object, causing a binding problem: how does the brain discriminate the information of a particular event from the features of other events? Hommel (1998) suggested the event file concept: an episodic memory trace binding perceptual and motor information pertaining t..."]
+      },
+      {
+        "title": "Neural oscillations in human auditory cortex revealed by fast fMRI during auditory perception",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Sascha Frühholz", "Wiebke Trost", "Didier Grandjean", "Pascal Belin"],
+        "abstract": ["Previous work pointed to the neural and functional significance of infraslow neural oscillations below 1 Hz that can be detected and precisely located with fast functional magnetic resonance imaging (fMRI). While previous work demonstrated this significance for brain dynamics during very low-level sensory stimulation, we here provide the first evid..."]
+      },
+      {
+        "title": "DominguezBorras_etal_2019_SuppTable1.pdf",
+        "tags": ["Data"],
+        "date": "Jun 2019",
+        "authors": ["Judith Domínguez-Borràs", "Guex Raphael", "Constantino Méndez-Bértolo", "Patrik Vuilleumier"],
+        "abstract": []
+      },
+      {
+        "title": "DominguezBorras_etal_2019_SuppFig1.jpg",
+        "tags": ["Data"],
+        "date": "Jun 2019",
+        "authors": ["Judith Domínguez-Borràs", "Guex Raphael", "Constantino Méndez-Bértolo", "Patrik Vuilleumier"],
+        "abstract": []
+      },
+      {
+        "title": "DominguezBorras_etal_2019_SuppFig3.jpg",
+        "tags": ["Data"],
+        "date": "Jun 2019",
+        "authors": ["Judith Domínguez-Borràs", "Guex Raphael", "Constantino Méndez-Bértolo", "Patrik Vuilleumier"],
+        "abstract": []
+      },
+      {
+        "title": "DominguezBorras_etal_2019_SuppFig2.jpg",
+        "tags": ["Data"],
+        "date": "Jun 2019",
+        "authors": ["Judith Domínguez-Borràs", "Guex Raphael", "Constantino Méndez-Bértolo", "Patrik Vuilleumier"],
+        "abstract": []
+      },
+      {
+        "title": "Human amygdala response to unisensory and multisensory emotion input: No evidence for superadditivity from intracranial recordings",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["Judith Domínguez-Borràs", "Guex Raphael", "Constantino Méndez-Bértolo", "Patrik Vuilleumier"],
+        "abstract": ["The amygdala is crucially implicated in processing emotional information from various sensory modalities. However, there is dearth of knowledge concerning the integration and relative time-course of its responses across different channels, i.e., for auditory, visual, and audiovisual input. Functional neuroimaging data in humans point to a possible..."]
+      },
+      {
+        "title": "Human discrimination and categorization of emotions in voices: a functional Near-Infrared Spectroscopy (fNIRS) study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Thibaud Gruber", "Coralie Debracque", "Leonardo Ceravolo", "Didier Grandjean"],
+        "abstract": ["Variations of the vocal tone of the voice during speech production, known as prosody, provide information about the emotional state of the speaker. In recent years, functional imaging has suggested a role of both right and left inferior frontal cortices in attentive decoding and cognitive evaluation of emotional cues in human vocalizations. Here, w..."]
+      },
+      {
+        "title": "The Oxford handbook of voice perception",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Sascha Frühholz", "Pascal Belin"],
+        "abstract": []
+      },
+      {
+        "title": "Continuous theta burst stimulation (cTBS) over the right inferior frontal gyrus impacts the categorization of ambiguous emotional voices",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Leonardo Ceravolo", "Marius Moisa", "Christian Ruff", "Sascha Frühholz"],
+        "abstract": []
+      },
+      {
+        "title": "The Neural Network Underlying the Processing of Affective Vocalizations",
+        "tags": ["Chapter"],
+        "date": "Dec 2018",
+        "authors": ["Sascha Frühholz", "Leonardo Ceravolo"],
+        "abstract": ["Speech perception has been the focus of innumerable studies over the past decades. While our abilities to recognize individuals by their voice state plays a central role in our everyday social interactions, limited scientific attention has been devoted to the perceptual and cerebral mechanisms underlying nonverbal information processing in voices."]
+      },
+      {
+        "title": "The Oxford Handbook of Voice Perception",
+        "tags": ["Book"],
+        "date": "Dec 2018",
+        "authors": ["Sascha Frühholz", "Pascal Belin"],
+        "abstract": []
+      },
+      {
+        "title": "The Science of Voice Perception",
+        "tags": ["Chapter"],
+        "date": "Dec 2018",
+        "authors": ["Sascha Frühholz", "Pascal Belin"],
+        "abstract": []
+      },
+      {
+        "title": "The Oxford Handbook of Voice Perception",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Sascha Frühholz", "Pascal Belin", "Diana Van Lancker Sidtis", "Jennifer L. Agustus"],
+        "abstract": ["The past decades have seen an explosion of research into the psychological, cognitive, neural, biological, and technical mechanisms of voice perception. These mechanisms refer to the general ability to extract information from voices expressed by other living beings or by technical systems. Voice perception research is now a lively area of research..."]
+      },
+      {
+        "title": "The behavioral and neural binding phenomena during visuomotor integration of angry facial expressions",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Sélim Yahia Coll", "Leonardo Ceravolo", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["Different parts of our brain code the perceptual features and actions related to an object, causing a binding problem, in which the brain has to integrate information related to an event without any interference regarding the features and actions involved in other concurrently processed events. Using a paradigm similar to Hommel, who revealed perce..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Sélim Yahia Coll", "Leonardo Ceravolo", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": []
+      },
+      {
+        "title": "Functional Organization of Face Processing in the Human Superior Temporal Sulcus: A 7T High-Resolution fMRI Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Anne-Kathrin Schobert", "Corrado Corradi-Dell'Acqua", "Sascha Frühholz", "Patrik Vuilleumier"],
+        "abstract": ["The superior temporal sulcus (STS) is a major component of the human face perception network, implicated in processing dynamic changeable aspects of faces. However, it remains unknown whether STS holds functionally segregated subdivisions for different categories of facial movements. We used high-resolution functional magnetic resonance imaging (fM..."]
+      },
+      {
+        "title": "Fisher Kernels on Phase-Based Features for Speech Emotion Recognition",
+        "tags": ["Chapter"],
+        "date": "Dec 2017",
+        "authors": ["Jun Deng", "Xinzhou Xu", "Zixing Zhang", "Björn Schuller"],
+        "abstract": ["The involvement\nof affect information\nin a spoken dialogue system can increase the user-friendliness and provide a more natural way for the interaction\nexperience. This can be reached by speech emotion recognition, where\nthe features\nare usually dominated by the spectral amplitude information while\nthey ignore the use of the phase spectrum. In this..."]
+      },
+      {
+        "title": "Amygdala structure and core dimensions of the affective personality",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Sascha Frühholz", "Katja Schlegel", "Didier Grandjean"],
+        "abstract": ["While biological models of human personality propose that socio-affective traits and skills are rooted in the structure of the amygdala, empirical evidence remains sparse and inconsistent. Here, we used a comprehensive assessment of the affective personality and tested its association with global, local, and laterality measures of the amygdala stru..."]
+      },
+      {
+        "title": "Biased and unbiased perceptual decision-making on vocal emotions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Mihai Dricu", "Leonardo Ceravolo", "Didier Grandjean", "Sascha Frühholz"],
+        "abstract": ["Perceptual decision-making on emotions involves gathering sensory information about the affective state of another person and forming a decision on the likelihood of a particular state. These perceptual decisions can be of varying complexity as determined by different contexts. We used functional magnetic resonance imaging and a region of interest..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Nov 2017",
+        "authors": ["Mihai Dricu", "Leonardo Ceravolo", "Didier Grandjean", "Sascha Frühholz"],
+        "abstract": []
+      },
+      {
+        "title": "Semi-Supervised Autoencoders for Speech Emotion Recognition",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Jun Deng", "Xinzhou Xu", "Zixing Zhang", "Björn Schuller"],
+        "abstract": ["Despite the widespread use of supervised learning methods for speech emotion recognition, they are severely restricted due to the lack of sufficient amount of labelled speech data for the training. Considering the wide availability of unlabelled speech data, therefore, this paper proposes semi-supervised autoencoders to improve speech emotion recog..."]
+      },
+      {
+        "title": "Neurocircuitry of impaired affective sound processing: A clinical disorders perspective",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Sascha Frühholz", "Matthias Staib"],
+        "abstract": []
+      },
+      {
+        "title": "Recognizing Emotions From Whispered Speech Based on Acoustic Feature Transfer Learning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Jun Deng", "Sascha Frühholz", "Zixing Zhang", "Björn Schuller"],
+        "abstract": ["Whispered speech, as an alternative speaking style for ‘normal phonated’ (non-whispered) speech, has been received little attention in speech emotion recognition. Currently speech emotion recognition systems are exclusively designed to process normal phonated speech, and can result in significantly degraded performance on whispered speech because o..."]
+      },
+      {
+        "title": "Universum Autoencoder-Based Domain Adaptation for Speech Emotion Recognition",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["Jun Deng", "Xinzhou Xu", "Zixing Zhang", "Björn Schuller"],
+        "abstract": ["One of the serious obstacles to the applications of speech emotion recognition systems in real-life settings is the lack of generalisation of the emotion classifiers. Many recognition systems often present a dramatic drop in performance when tested on speech data obtained from different speakers, acoustic environments, linguistic content, and domai..."]
+      },
+      {
+        "title": "Selective perturbation of cognitive conflict in the human brain–A combined fMRI and rTMS study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Claudia Peschke", "Raphael Koster", "Margarethe Korsch", "Claus C Hilgetag"],
+        "abstract": ["We investigated if single and double conflicts are processed separately in different brain regions and if they are differentially vulnerable to TMS perturbation. Fifteen human volunteers performed a single (Flanker or Simon) conflict task or a double (Flanker and Simon) conflict task in a combined functional Magnetic Resonance Imaging (fMRI) and Tr..."]
+      },
+      {
+        "title": "Functional brain networks underlying serial and parallel voice processing in Humans",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Leonardo Ceravolo", "Elisa Scaria5 Jaussi", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["Functional brain networks involved in voice processing"]
+      },
+      {
+        "title": "Amygdala and insula contributions to dorsal-ventral pathway integration in the prosodic neural network",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["David I. Leitman", "J. Christopher Edgar", "Jeffery Berman", "Timothy P. L. Roberts"],
+        "abstract": ["Speech prosody enables communication of emotional intentions via modulation of vocal intonations. Reciprocal interactions between superior temporal (STG) and inferior frontal gyri (IFG) have been shown to anchor a neural network for prosodic comprehension, which we refer to as the Prosody Neural Network (PNN). Although the amygdala is critical for..."]
+      },
+      {
+        "title": "Perceiving emotional expressions in others: Activation likelihood estimation meta-analyses of explicit evaluation, passive perception and incidental perception of emotions",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Mihai Dricu", "Sascha Frühholz"],
+        "abstract": []
+      },
+      {
+        "title": "Amygdala and auditory cortex exhibit distinct sensitivity to relevant acoustic features of auditory emotions",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Alessia Pannese", "Didier Grandjean", "Sascha Frühholz"],
+        "abstract": ["Discriminating between auditory signals of different affective value is critical to successful social interaction. It is commonly held that acoustic decoding of such signals occurs in the auditory system, whereas affective decoding occurs in the amygdala. However, given that the amygdala receives direct subcortical projections that bypass the audit..."]
+      },
+      {
+        "title": "The Effect of Narrow-Band Transmission on Recognition of Paralinguistic Information From Human Vocalizations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Sascha Frühholz", "Erik Marchi", "Björn Schuller"],
+        "abstract": ["Practically no knowledge exists on the effects of speech coding and recognition for narrow-band transmission of speech signals within certain frequency ranges especially in relation to the recognition of paralinguistic cues in speech. We thus investigated the impact of narrow-band standard speech coders on the machine based classification of affect..."]
+      },
+      {
+        "title": "Whispering - The hidden side of auditory communication",
+        "tags": ["Article"],
+        "date": "Aug 2016",
+        "authors": ["Sascha Frühholz", "Wiebke Trost", "Didier Grandjean"],
+        "abstract": ["Whispering is a unique expression mode that is specific to auditory communication. Individuals switch their vocalization mode to whispering especially when affected by inner emotions in certain social contexts, such as in intimate relationships or intimidating social interactions. Although this context-dependent whispering is adaptive, whispered vo..."]
+      },
+      {
+        "title": "The behavioral and neuronal binding phenomena during visuomotor integration of emotional facial expressions",
+        "tags": ["Poster"],
+        "date": "Jun 2016",
+        "authors": ["Sélim Yahia Coll", "Sascha Frühholz", "Leonardo Ceravolo", "Didier Grandjean"],
+        "abstract": ["Our brain codes the features of perceptual events in a distributed fashion, raising the question of how information belonging to an event is processed without any interference of features from other events. Hommel[1] suggested the existence of an episodic memory trace that could bind together perceptual features and actions related to an event. Usi..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "May 2016",
+        "authors": ["Leonardo Ceravolo", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": []
+      },
+      {
+        "title": "Neural Decoding of Discriminative Auditory Object Features Depends on Their Socio-Affective Valence",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Sascha Frühholz", "Wietske Van der Zwaag", "Melissa Saenz", "Didier Grandjean"],
+        "abstract": ["Human voices consist of specific patterns of acoustic features that are considerably enhanced during affective vocalizations.\nThese acoustic features are presumably used by listeners to accurately discriminate between acoustically or emotionally similar\nvocalizations. Here we used high-field 7T functional magnetic resonance imaging in human listene..."]
+      },
+      {
+        "title": "The sound of emotions—Towards a unifying neural network perspective of affective sound processing",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Sascha Frühholz", "Wiebke Trost", "Sonja A. Kotz"],
+        "abstract": []
+      },
+      {
+        "title": "Fisher kernels on phase-based features for speech emotion recognition",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Jun Deng", "Xinzhou Xu", "Zixing Zhang", "Björn Schuller"],
+        "abstract": []
+      },
+      {
+        "title": "Modulation of Auditory Spatial Attention by Angry Prosody: An fMRI Auditory Dot-Probe Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Leonardo Ceravolo", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["Emotional stimuli have been shown to modulate attentional orienting through signals sent by subcortical brain regions that modulate visual perception at early stages of processing. Fewer studies, however, have investigated a similar effect of emotional stimuli on attentional orienting in the auditory domain together with an investigation of brain r..."]
+      },
+      {
+        "title": "Conflict-Specific Aging Effects Mainly Manifest in Early Information Processing Stages—An ERP Study with Different Conflict Types",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Margarethe Korsch", "Sascha Frühholz", "Manfred Herrmann"],
+        "abstract": ["Aging is usually accompanied by alterations of cognitive control functions such as conflict processing. Recent research suggests that aging effects on cognitive control seem to vary with degree and source of conflict, and conflict specific aging effects on performance measures as well as neural activation patterns have been shown. However, there is..."]
+      },
+      {
+        "title": "The behavioral and neuronal binding phenomena during visuomotor integration of emotional facial expressions",
+        "tags": ["Poster"],
+        "date": "Mar 2016",
+        "authors": ["Sélim Yahia Coll", "Sascha Frühholz", "Leonardo Ceravolo", "Didier Grandjean"],
+        "abstract": ["Processing of perceptual features and motor actions in a distributed fashion causes a binding problem: how does the brain integrate the information belonging to an event without any interference of features from other concurrently processed events? Hommel[1] suggested the “event file” concept: an episodic memory trace binding together perceptual fe..."]
+      },
+      {
+        "title": "Age-related deficits of conflict resolution mainly affect early information processing stages – an ERP study with different conflict types",
+        "tags": ["Article"],
+        "date": "Feb 2016",
+        "authors": ["Margarethe Korsch", "Sascha Frühholz", "Manfred Herrmann"],
+        "abstract": []
+      },
+      {
+        "title": "Proximal Vocal Threat Recruits The Right Voice-Sensitive Auditory Cortex",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Leonardo Ceravolo", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["The accurate estimation of the proximity of threat is important for biological survival and to assess relevant events of everyday\nlife. We addressed the question of whether proximal as compared to distal vocal threat would lead to a perceptual advantage\nfor the perceiver. Accordingly, we sought to highlight the neural mechanisms underlying the perc..."]
+      },
+      {
+        "title": "Exploitation of Phase-Based Features for Whispered Speech Emotion Recognition",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Jun Deng", "Xinzhou Xu", "Zixing Zhang", "Björn Schuller"],
+        "abstract": ["Features for speech emotion recognition are usually dominated by the spectral magnitude information while they ignore the use of the phase spectrum because of the difficulty of properly interpreting it. Motivated by recent successes of phase-based features for speech processing, this paper investigates the effectiveness of phase information for whi..."]
+      },
+      {
+        "title": "Structural and Functional Connectivity of the Subthalamic Nucleus During Vocal Emotion Decoding",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Julie Peron", "Sascha Frühholz", "Leonardo Ceravolo", "Didier Grandjean"],
+        "abstract": ["Our understanding of the role played by the subthalamic nucleus (STN) in human emotion has recently advanced with STN deep brain stimulation, a neurosurgical treatment for Parkinson's disease and obsessive-compulsive disorder. However, the potential presence of several confounds related to pathological models raises the question of how much they af..."]
+      },
+      {
+        "title": "Audiomotor integration of angry and happy prosodies",
+        "tags": ["Poster"],
+        "date": "Jul 2015",
+        "authors": ["Sélim Yahia Coll", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["The primate brain codes the features of perceptual events in a distributed fashion. Thus, color, form and location of an object for example are represented in different brain regions in the cortex. This phenomenon is related to the binding problem: how does the brain integrate the information belonging to the same event without mixing them up with..."]
+      },
+      {
+        "title": "Subcortical processing in auditory communication",
+        "tags": ["Article"],
+        "date": "Jul 2015",
+        "authors": ["Alessia Pannese", "Didier Grandjean", "Sascha Frühholz"],
+        "abstract": []
+      },
+      {
+        "title": "Temporal dynamics of musical emotions examined through intersubject synchrony of brain activity",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Wiebke Trost", "Sascha Frühholz", "Tom Cochrane", "Patrik Vuilleumier"],
+        "abstract": ["To study emotional reactions to music, it is important to consider the temporal dynamics of both affective responses and underlying brain activity. Here we investigated emotions induced by music using functional magnetic resonance imaging (fMRI) with a data-driven approach based on inter-subject correlations (ISC). This method allowed us to identif..."]
+      },
+      {
+        "title": "Aggressive vocal expressions – an investigation of their underlying neural network",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Hannah S Klaas", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["Recent neural network models for the production of primate vocalizations are largely based on research in nonhuman primates. These models seem yet not fully capable of explaining the neural network dynamics especially underlying different types of human vocalizations. Unlike animal vocalizations, human affective vocalizations might involve higher l..."]
+      },
+      {
+        "title": "Reappraising the voices of wrath",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Sebastian Korb", "Sascha Frühholz", "Didier Grandjean"],
+        "abstract": ["Cognitive reappraisal recruits prefrontal and parietal cortical areas. Because of the near exclusive usage in past research of visual stimuli to elicit emotions, it is unknown whether the same neural substrates underlie the reappraisal of emotions induced through other sensory modalities. Here, participants reappraised their emotions in order to in..."]
+      },
+      {
+        "title": "The hippocampus is an integral part of the temporal limbic system during emotional processing: Comment on \"The quartet theory of human emotions: An integrative and neurofunctional model\" by S. Koelsch et al",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Wiebke Trost", "Sascha Frühholz"],
+        "abstract": []
+      },
+      {
+        "title": "Neural Control of Enhanced Filtering Demands in a Combined Flanker and Garner Conflict Task",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["David Berron", "Sascha Frühholz", "Manfred Herrmann"],
+        "abstract": ["Several studies demonstrated that visual filtering mechanisms might underlie both conflict resolution of the Flanker conflict and the control of the Garner effect. However, it remains unclear whether the mechanisms involved in the processing of both effects depend on similar filter mechanisms, such that especially the Garner effect is able to modul..."]
+      },
+      {
+        "title": "Bilateral dorsal and ventral fiber pathways for the processing of affective prosody identified by probabilistic fiber tracking",
+        "tags": ["Article"],
+        "date": "Feb 2015",
+        "authors": ["Sascha Frühholz", "Markus Gschwind", "Didier Grandjean"],
+        "abstract": []
+      },
+      {
+        "title": "Asymmetric effects of unilateral right or left amygdala damage on auditory cortical processing of vocal emotions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Sascha Frühholz", "Christoph Hofstetter", "Chiara Cristinzio", "Didier Grandjean"],
+        "abstract": ["Significance\nThe human voice is a major source for auditorily communicated social signals. The voice in general, and emotional cues embedded in vocalizations in particular, receive enhanced decoding in sensory cortical areas of the auditory system. This enhanced cortical decoding is assumed to be remotely driven by the amygdala, which responds to s..."]
+      },
+      {
+        "title": "Functional neuroimaging of human vocalizations and affective speech",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Sascha Frühholz", "David Sander", "Didier Grandjean"],
+        "abstract": ["Neuroimaging studies have verified the important integrative role of the basal ganglia during affective vocalizations. They, however, also point to additional regions supporting vocal monitoring, auditory-motor feedback processing, and online adjustments of vocal motor responses. For the case of affective vocalizations, we suggest partly extending..."]
+      },
+      {
+        "title": "The role of the medial temporal limbic system in processing emotions in voice and music",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Sascha Frühholz", "Wiebke Trost", "Didier Grandjean"],
+        "abstract": []
+      },
+      {
+        "title": "Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["Wiebke Trost", "Sascha Frühholz", "Daniele Schön", "Patrik Vuilleumier"],
+        "abstract": ["Rhythmic entrainment is an important component of emotion induction by music, but brain circuits recruited during spontaneous entrainment of attention by music and the influence of the subjective emotional feelings evoked by music remain still largely unresolved. In this study we used fMRI to test whether the metric structure of music entrains brai..."]
+      },
+      {
+        "title": "Multimodal emotion perception after anterior temporal lobectomy (ATL)",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Valérie Milesi", "Sezen Cekic", "Julie Péron", "Didier Grandjean"],
+        "abstract": ["In the context of emotion information processing, several studies have demonstrated the involvement of the amygdala in emotion perception, for unimodal and multimodal stimuli. However, it seems that not only the amygdala, but several regions around it, may also play a major role in multimodal emotional integration. In order to investigate the contr..."]
+      },
+      {
+        "title": "Talking in Fury: The Cortico-Subcortical Network Underlying Angry Vocalizations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Sascha Frühholz", "Hannah S Klaas", "Sona Patel", "Didier Grandjean"],
+        "abstract": ["Although the neural basis for the perception of vocal emotions has been described extensively, the neural basis for the expression of vocal emotions is almost unknown. Here, we asked participants both to repeat and to express high-arousing angry vocalizations to command (i.e., evoked expressions). First, repeated expressions elicited activity in th..."]
+      },
+      {
+        "title": "Ageing differentially affects neural processing of different conflict types—an fMRI study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Margarethe Korsch", "Sascha Frühholz", "Manfred Herrmann"],
+        "abstract": ["Interference control and conflict resolution is affected by ageing. There is increasing evidence that ageing does not compromise interference control in general but rather shows distinctive effects on different components of interference control. Different conflict types, [e.g., stimulus-stimulus (S-S) or stimulus-response (S-R) conflicts] trigger..."]
+      },
+      {
+        "title": "Processing of emotional vocalizations in bilateral inferior frontal cortex",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Sascha Frühholz", "Didier Grandjean"],
+        "abstract": []
+      },
+      {
+        "title": "An integrative model of brain processes for the decoding of emotional prosody",
+        "tags": ["Chapter"],
+        "date": "Jan 2013",
+        "authors": ["Didier Grandjean", "Sascha Frühholz"],
+        "abstract": ["Why do we believe to understand animal voices such as whining or aggressive barking of our dogs, the longing meows of our cats? Why do we frequently assess deep voices as dominant and high voices as submissive. Are there universal principles governing our own communication system? Can we even see how close animals are related to us by constructing..."]
+      },
+      {
+        "title": "Subthalamic nucleus: A key structure for emotional component synchronization in humans",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Julie Péron", "Sascha Frühholz", "Marc Vérin", "Didier Grandjean"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [116],
+    "reads": [21938],
+    "citations": [2910]
   }
 }

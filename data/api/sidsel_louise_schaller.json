@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-7274-766X",
-    "name": "Sidel Louise Schaller",
+    "orcid": ["0000-0002-7274-766X"],
+    "name": ["Sidel Louise Schaller"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Sidsel Louise Schaller",
-    "id": "550876",
+    "name": ["Sidsel Louise Schaller"],
+    "id": ["550876"],
     "keywords": [],
     "position": ["University lecturer", "University lecturer"],
     "img": {},
@@ -122,5 +122,180 @@
         "url": "https://api.cristin.no/v2/results/228265"
       }
     ]
+  },
+  "rg": {
+    "id": "Sidsel-Domazet-2",
+    "name": "Sidsel Louise Domazet",
+    "img": "https://i1.rgstatic.net/ii/profile.image/330741486505987-1455866323869_Q128/Sidsel-Domazet-2.jpg",
+    "affiliation": "University of Southern Denmark | SDU, University of Southern Denmark, Institute of Sports Science and Clinical Biomechanics",
+    "keywords": ["Exercise Physiology", "Nutrition", "Sports Science", "Metabolism", "Strength & Conditioning", "Physical Fitness", "Insulin Resistance", "Muscle Physiology", "Learning", "Public Health"],
+    "works": [
+      {
+        "title": "Accelerometer-derived physical activity and sedentary behaviors in individuals with newly diagnosed type 2 diabetes: A cross-sectional study from the Danish nationwide DD2 cohort",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Sidsel Louise Domazet", "Jakob Tarp", "Reimar W Thomsen", "Jens Steen Nielsen"],
+        "abstract": ["Introduction\nHabitual physical activity behaviors of individuals with new-onset type 2 diabetes are largely unknown. We aimed to investigate accelerometer-derived physical activity behaviors in individuals with newly diagnosed type 2 diabetes. We also examined sociodemographic and health-related correlates of a high-risk physical activity profile...."]
+      },
+      {
+        "title": "Exposure to Perfluoroalkylated Substances (PFAS) in Relation to Fitness, Physical Activity, and Adipokine Levels in Childhood: The European Youth Heart Study",
+        "tags": ["Article"],
+        "date": "Aug 2020",
+        "authors": ["Sidsel Louise Domazet", "Ku Tina", "Niels Wedderkopp", "Anders Grøntved"],
+        "abstract": ["Background\nperfluoroalkylated substances (PFAS) are highly persistent chemicals that are able to alter the human metabolism – potentially via disruption of cell signaling pathways mediated by adipokines. Both adiponectin and leptin are influenced by and exert influence on energy storage and energy expenditure, wherefore associations between PFAS an..."]
+      },
+      {
+        "title": "Response to correspondence ENVINT_2020_552 “Can habitual exercise really increase serum concentrations of persistent organic pollutants?”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Sidsel Louise Domazet", "Ku Tina", "Anders Grøntved"],
+        "abstract": []
+      },
+      {
+        "title": "Higher circulating plasma polychlorinated biphenyls (PCBs) in fit and lean children: The European youth heart study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Sidsel Louise Domazet", "Anders Grøntved", "Ku Tina", "Lars Bo Andersen"],
+        "abstract": ["Background: \nLipophilic compounds such as polychlorinated biphenyls (PCBs) are primarily stored in adipose tissue, but exercise-induced lipolysis is able to release PCBs from the adipose tissue into the circulation. The plasma concentration, distribution and metabolism of PCBs can thus vary much among individuals due to inter-human variations in li..."]
+      },
+      {
+        "title": "Reference values for cardiometabolic risk scores in children and adolescents: Suggesting a common standard",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Mette Stavnsbo", "Geir Kåre Resaland", "Sigmund A Anderssen", "Eivind Aadland"],
+        "abstract": ["Background and aims:\nInternational reference values for cardiometabolic risk variables, to allow for standardization of continuous risk scores in children, are not currently available. The aim of this study was to provide international age- and gender-specific reference values for cardiometabolic risk factors in children and adolescents.\n\nMethods:..."]
+      },
+      {
+        "title": "Immediate and Delayed Effects of Integrating Physical Activity into Preschool Children’s Learning of Numeracy Skills",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Myrto Mavillidi", "Anthony D. Okely", "Paul Chandler", "Fred Paas"],
+        "abstract": ["A cluster randomized controlled trial was conducted to examine the effects of a 4-week program that integrated movements into cognitive tasks related to numerical skills. Participants (N = 120, Mage = 4.70, SD = .49; 57 females) were assigned to one of the following 4 conditions: performing integrated physical activity (task-relevant); performing n..."]
+      },
+      {
+        "title": "Longitudinal Associations of Exposure to Perfluoroalkylated Substances in Childhood and Adolescence and Indicators of Adiposity and Glucose Metabolism 6 and 12 Years Later: The European Youth Heart Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Sidsel Louise Domazet", "Anders Grøntved", "Clara Amalie Gade Timmermann", "Ku Tina"],
+        "abstract": ["Objective: \nTo investigate the long-term association of exposure to perfluoroalkylated substances, including perfluorooctanesulfonic acid (PFOS) and perfluorooctanoic acid (PFOA), during childhood (9 years) and adolescence (15 years) on indicators of adiposity and glucose metabolism in adolescence (15 years) and young adulthood (21 years). Secondar..."]
+      },
+      {
+        "title": "Effectiveness of a School-Based Physical Activity Intervention on Cognitive Performance in Danish Adolescents: LCoMotion—Learning, Cognition and Motion – A Cluster Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg", "Anna Bugge"],
+        "abstract": ["Background: \nPhysical activity is associated not only with health-related parameters, but also with cognitive and academic performance. However, no large scale school-based physical activity interventions have investigated effects on cognitive performance in adolescents. The aim of this study was to describe the effectiveness of a school-based phys..."]
+      },
+      {
+        "title": "S1 File",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg", "Anna Bugge"],
+        "abstract": ["Implementation of intervention components.\nSMS-tracking from students at intervention schools.\n(DOCX)"]
+      },
+      {
+        "title": "S3 File",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg", "Anna Bugge"],
+        "abstract": ["Trial protocol_Danishversion.\nApproved trial protocol (Danish).\n(PDF)"]
+      },
+      {
+        "title": "S2 File",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg", "Anna Bugge"],
+        "abstract": ["Trial protocol_englishVersion.\nApproved trial protocol (English translation).\n(PDF)"]
+      },
+      {
+        "title": "S3 Table",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg", "Anna Bugge"],
+        "abstract": ["CONSORT Checklist.\nCONSORT 2010 checklist of information.\n(DOC)"]
+      },
+      {
+        "title": "S1 Table",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg", "Anna Bugge"],
+        "abstract": ["Reliability measures.\nTest-retest reliability of the flanker task and mathematics skills.\n(DOCX)"]
+      },
+      {
+        "title": "S4 File",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg", "Anna Bugge"],
+        "abstract": ["Bugge 2014—LCoMotion—Learning, Cognition and Motion; a multicomponent cluster randomized school-based intervention aimed at increasing learning and cognition—rationale, design and methods.\nPublished trial protocol.\n(PDF)"]
+      },
+      {
+        "title": "S2 Table",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg", "Anna Bugge"],
+        "abstract": ["Multiple imputation analyses.\nResults of multiple imputation analyses.\n(DOCX)"]
+      },
+      {
+        "title": "Short Message Service Text System (SMS-track) - A Novel Approach to Assess Intervention Compliance: 2761 Board #284 June 3, 9: 30 AM - 11: 00 AM",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Anna Bugge", "Jakob Tarp", "Sidsel Louise Domazet", "Karsten Froberg"],
+        "abstract": []
+      },
+      {
+        "title": "Effects Of A School-Based Physical Activity Intervention On Cognitive Performance In Danish Adolescents: 3208 Board #273 June 3, 2: 00 PM - 3: 30 PM",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Jakob Tarp", "Sidsel Louise Domazet", "Lars Bo Andersen", "Anna Bugge"],
+        "abstract": ["EFFECTS OF A SCHOOL-BASED PHYSICAL ACTIVITY INTERVENTION ON COGNITIVE PERFORMANCE IN DANISH ADOLESCENTS\n\nJakob Tarp, Sidsel Louise Domazet, Karsten Froberg, Lars Bo Andersen and Anna Bugge, RICH, University of Southern Denmark, Odense, Denmark\n\nBackground:\nPhysical activity (PA) is associated not only with health-related parameters, but also with c..."]
+      },
+      {
+        "title": "Rationale and design of a randomized controlled trial examining the effect of classroom-based physical activity on math achievement",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Mona Have", "Jacob Have Nielsen", "Anne Kær Gejl", "Peter Lund Kristensen"],
+        "abstract": ["Background\nIntegration of physical activity (PA) into the classroom may be an effective way of promoting the learning and academic achievement of children at elementary school. This paper describes the research design and methodology of an intervention study examining the effect of classroom-based PA on mathematical achievement, creativity, executi..."]
+      },
+      {
+        "title": "Associations of Physical Activity, Sports Participation and Active Commuting on Mathematic Performance and Inhibitory Control in Adolescents",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Sidsel Louise Domazet"],
+        "abstract": []
+      },
+      {
+        "title": "Associations of Physical Activity, Sports Participation and Active Commuting on Mathematic Performance and Inhibitory Control in Adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Sidsel Louise Domazet", "Jakob Tarp", "Tao Huang", "Anna Bugge"],
+        "abstract": ["Objectives\nTo examine objectively measured physical activity level, organized sports participation and active commuting to school in relation to mathematic performance and inhibitory control in adolescents.\n\nMethods\nThe design was cross-sectional. A convenient sample of 869 sixth and seventh grade students (12–14 years) was invited to participate i..."]
+      },
+      {
+        "title": "Objectively measured physical activity in Danish after-school cares: Does sport certification matter?",
+        "tags": ["Article"],
+        "date": "Dec 2015",
+        "authors": ["Sidsel Louise Domazet", "Niels Christian Møller", "Jan Toftegaard", "Mathias Ried-Larsen"],
+        "abstract": ["Inactivity and more sedentary time predominate the daily activity level of many of today's children. In Denmark, certified sport after-school cares have been established in order to increase children's daily physical activity (PA) level. This cross-sectional study aimed to investigate the activity level among participants in certified sport after-s..."]
+      },
+      {
+        "title": "Associations of Adiposity and Aerobic Fitness with Executive Function and Math Performance in Danish Adolescents",
+        "tags": ["Article"],
+        "date": "Aug 2015",
+        "authors": ["Tao Huang", "Jakob Tarp", "Sidsel Louise Domazet", "Anna Bugge"],
+        "abstract": []
+      },
+      {
+        "title": "LCoMotion – Learning, Cognition and Motion; a multicomponent cluster randomized school-based intervention aimed at increasing learning and cognition - rationale, design and methods",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["Anna Bugge", "Jakob Tarp", "Lars Østergaard", "Karsten Froberg"],
+        "abstract": ["Background\nThe aim of the study; LCoMotion – Learning, Cognition and Motion was to develop, document, and evaluate a multi-component physical activity (PA) intervention in public schools in Denmark. The primary outcome was cognitive function. Secondary outcomes were academic skills, body composition, aerobic fitness and PA. The primary aim of the p..."]
+      }
+    ],
+    "degree": ["MS", "in", "Sports", "Science", "and", "Health"],
+    "bio": "Sidsel Louise Domazet currently works at the Institute of Sports Science and Clinical Biomechanics, University of Southern Denmark. Sidsel does research in Epidemiology, Population Health, Child Development, and Physical Activity. Her current project is 'Persistant Organic Pollutants and Clustered CVD Risk Factors'.",
+    "publications": [23],
+    "reads": [6746],
+    "citations": [506]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Else-Marie Augusti",
-    "id": "sTmzKTsAAAAJ",
-    "affiliation": "Norwegian Centre for Violence and Traumatic Stress Studies",
+    "name": ["Else-Marie Augusti"],
+    "id": ["sTmzKTsAAAAJ"],
+    "affiliation": ["Norwegian Centre for Violence and Traumatic Stress Studies"],
     "data": {
       "publications": [
         {
@@ -487,8 +487,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-2074-6198",
-    "name": "Else-Marie  Augusti",
+    "orcid": ["0000-0002-2074-6198"],
+    "name": ["Else-Marie  Augusti"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -527,11 +527,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Else-Marie Augusti",
-    "id": "6902",
+    "name": ["Else-Marie Augusti"],
+    "id": ["6902"],
     "keywords": [],
     "position": ["Associate professor", null],
-    "img": "https://api.cristin.no/v2/persons/6902/picture",
+    "img": ["https://api.cristin.no/v2/persons/6902/picture"],
     "works": [
       {
         "type": "Report",
@@ -541,9 +541,9 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2106165",
         "title": "Violence and sexual abuse rates before and during the Covid-19 pandemic: A prospective population-based study on Norwegian youth",
-        "journal": "International Journal of Child Abuse & Neglect",
-        "url": "https://api.cristin.no/v2/results/2106165"
+        "journal": "International Journal of Child Abuse & Neglect"
       },
       {
         "type": "Report",
@@ -553,37 +553,37 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2051235",
         "title": "Changes in Adolescent Mental and Somatic Health Complaints Throughout the COVID-19 Pandemic: A Three-Wave Prospective Longitudinal Study",
-        "journal": "Journal of Adolescent Health",
-        "url": "https://api.cristin.no/v2/results/2051235"
+        "journal": "Journal of Adolescent Health"
       },
       {
         "type": "Errata",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2045933",
         "title": "Correction to: The regulatory role of affective inhibitory control in somatic symptoms among adolescents exposed to child maltreatment: a population-based study (European Child & Adolescent Psychiatry, (2022), 10.1007/s00787-022-01988-7)",
-        "journal": "European Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2045933"
+        "journal": "European Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2018125",
         "title": "The regulatory role of affective inhibitory control in somatic symptoms among adolescents exposed to child maltreatment: a population-based study",
-        "journal": "European Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2018125"
+        "journal": "European Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/1971271",
         "title": "Childhood experiences of companion animal abuse and its co-occurrence with domestic abuse: Evidence from a national youth survey in Norway",
-        "journal": "Journal of Interpersonal Violence",
-        "url": "https://api.cristin.no/v2/results/1971271"
+        "journal": "Journal of Interpersonal Violence"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1938048",
         "title": "Unity or diversity of executive functioning in children and adolescents with post-traumatic stress symptoms? A systematic review and meta-analysis",
-        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/1938048"
+        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence"
       },
       {
         "type": "Report",
@@ -593,23 +593,23 @@
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1917664",
         "title": "Violence and abuse experiences and associated risk factors during the COVID-19 outbreak in a population-based sample of Norwegian adolescents",
-        "journal": "International Journal of Child Abuse & Neglect",
-        "url": "https://api.cristin.no/v2/results/1917664"
+        "journal": "International Journal of Child Abuse & Neglect"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1915158",
         "title": "A lost generation? Covid-19 and adolescent mental health",
-        "journal": "The Lancet Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1915158"
+        "journal": "The Lancet Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1911984",
         "title": "The Barriers and Facilitators to Abuse Disclosure and Psychosocial Support Needs in Children and Adolescents Around the Time of Disclosure",
-        "journal": "Child Care in Practice",
-        "url": "https://api.cristin.no/v2/results/1911984"
+        "journal": "Child Care in Practice"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -619,9 +619,9 @@
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1903772",
         "title": "Adolescents’ symptoms of anxiety and depression before and during the Covid-19 outbreak – A prospective population-based study of teenagers in Norway",
-        "journal": "The Lancet Regional Health - Europe",
-        "url": "https://api.cristin.no/v2/results/1903772"
+        "journal": "The Lancet Regional Health - Europe"
       },
       {
         "type": "Lecture",
@@ -636,9 +636,9 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1865954",
         "title": "Affective inhibitory control and risk for internalizing problems in adolescents exposed to child maltreatment: A population-based study",
-        "journal": "Journal of Abnormal Psychology",
-        "url": "https://api.cristin.no/v2/results/1865954"
+        "journal": "Journal of Abnormal Psychology"
       },
       {
         "type": "Report",
@@ -648,9 +648,9 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1825257",
         "title": "Cohort profile: Norwegian youth study on child maltreatment (the UEVO study)",
-        "journal": "BMJ Open",
-        "url": "https://api.cristin.no/v2/results/1825257"
+        "journal": "BMJ Open"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -660,27 +660,27 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1806880",
         "title": "Adolescent abuse victims displayed physical health complaints \r\nand trauma symptoms during post disclosure interviews",
-        "journal": "Acta Paediatrica",
-        "url": "https://api.cristin.no/v2/results/1806880"
+        "journal": "Acta Paediatrica"
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Child maltreatment and mental health problems in adolescence; the role of inhibitory control",
-        "url": "https://api.cristin.no/v2/results/1778269"
+        "url": "https://api.cristin.no/v2/results/1778269",
+        "title": "Child maltreatment and mental health problems in adolescence; the role of inhibitory control"
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "How to help a violence exposed child? A qualitative study of children’s own experiences with disclosing violence and abuse, and subsequent health care.",
-        "url": "https://api.cristin.no/v2/results/1778259"
+        "url": "https://api.cristin.no/v2/results/1778259",
+        "title": "How to help a violence exposed child? A qualitative study of children’s own experiences with disclosing violence and abuse, and subsequent health care."
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Controlling parenting practices and Norwegian adolescents’ self-reported exposure to domestic violence.",
-        "url": "https://api.cristin.no/v2/results/1778253"
+        "url": "https://api.cristin.no/v2/results/1778253",
+        "title": "Controlling parenting practices and Norwegian adolescents’ self-reported exposure to domestic violence."
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -725,9 +725,9 @@
       {
         "type": "Academic article",
         "year": "2018",
+        "url": "https://api.cristin.no/v2/results/1495377",
         "title": "Maltreatment and trauma symptoms: Does type of maltreatment matter?",
-        "journal": "Psychological Trauma",
-        "url": "https://api.cristin.no/v2/results/1495377"
+        "journal": "Psychological Trauma"
       },
       {
         "type": "Chapter",
@@ -737,14 +737,14 @@
       {
         "type": "Lecture",
         "year": "2017",
-        "title": "A nationally representative survey of child maltreatment in Norwegain 12-15 year olds",
-        "url": "https://api.cristin.no/v2/results/1524730"
+        "url": "https://api.cristin.no/v2/results/1524730",
+        "title": "A nationally representative survey of child maltreatment in Norwegain 12-15 year olds"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål",
-        "url": "https://api.cristin.no/v2/results/1522517"
+        "url": "https://api.cristin.no/v2/results/1522517",
+        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål"
       },
       {
         "type": "Lecture",
@@ -754,96 +754,368 @@
       {
         "type": "Academic literature review",
         "year": "2016",
-        "journal": "Tidsskriftet Norges Barnevern",
-        "url": "https://api.cristin.no/v2/results/1398002"
+        "url": "https://api.cristin.no/v2/results/1398002",
+        "journal": "Tidsskriftet Norges Barnevern"
       },
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1379469",
         "title": "Coping style and memory specificity in adolescents and adults with histories of child sexual abuse",
-        "journal": "Memory",
-        "url": "https://api.cristin.no/v2/results/1379469"
+        "journal": "Memory"
       },
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1341939",
         "title": "Behavior and inhibitory control in children with prenatal exposure to antidepressants and medically untreated depression",
-        "journal": "Psychopharmacology",
-        "url": "https://api.cristin.no/v2/results/1341939"
+        "journal": "Psychopharmacology"
       },
       {
         "type": "Academic article",
         "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1285263",
         "title": "Associations between executive functions and long-term stress reactions after extreme trauma: A two-year follow-up of the Utøya survivors",
-        "journal": "Psychological Trauma",
-        "url": "https://api.cristin.no/v2/results/1285263"
+        "journal": "Psychological Trauma"
       },
       {
         "type": "Academic article",
         "year": "2014",
+        "url": "https://api.cristin.no/v2/results/972466",
         "title": "The effect of emotional facial expressions on childrens working memory: Associations with age and behavior",
-        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/972466"
+        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2014",
+        "url": "https://api.cristin.no/v2/results/1221835",
         "title": "Children's memory and suggestibility about a distressing event: The role of children's and parents' attachment",
-        "journal": "Journal of Experimental Child Psychology",
-        "url": "https://api.cristin.no/v2/results/1221835"
+        "journal": "Journal of Experimental Child Psychology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2014",
-        "title": "Children as Witnesses",
-        "url": "https://api.cristin.no/v2/results/1105178"
+        "url": "https://api.cristin.no/v2/results/1105178",
+        "title": "Children as Witnesses"
       },
       {
         "type": "Academic article",
         "year": "2013",
+        "url": "https://api.cristin.no/v2/results/972464",
         "title": "The effect of neutral and negative colour photographs on children's item directed forgetting",
-        "journal": "European Journal of Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/972464"
+        "journal": "European Journal of Developmental Psychology"
       },
       {
         "type": "Academic article",
         "year": "2013",
+        "url": "https://api.cristin.no/v2/results/1079980",
         "title": "Maltreatment is associated with specific impairments in executive functions: A pilot study",
-        "journal": "Journal of Traumatic Stress",
-        "url": "https://api.cristin.no/v2/results/1079980"
+        "journal": "Journal of Traumatic Stress"
       },
       {
         "type": "Academic article",
         "year": "2011",
+        "url": "https://api.cristin.no/v2/results/843896",
         "title": "False memory for trauma-related Deese-Roediger-McDermott lists in adolescents and adults with histories of child sexual abuse",
-        "journal": "Development and Psychopathology",
-        "url": "https://api.cristin.no/v2/results/843896"
+        "journal": "Development and Psychopathology"
       },
       {
         "type": "Popular scientific article",
         "year": "2010",
-        "journal": "Psykologisk tidsskrift",
-        "url": "https://api.cristin.no/v2/results/454581"
+        "url": "https://api.cristin.no/v2/results/454581",
+        "journal": "Psykologisk tidsskrift"
       },
       {
         "type": "Academic article",
         "year": "2010",
+        "url": "https://api.cristin.no/v2/results/349637",
         "title": "Look who's talking: Pre-verbal infants' perception of face-to-face and back-to-back interactions",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/349637"
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic lecture",
         "year": "2010",
-        "title": "Induced forgetting of complex emotional pictures. The directed forgetting task and children's memory",
-        "url": "https://api.cristin.no/v2/results/255670"
+        "url": "https://api.cristin.no/v2/results/255670",
+        "title": "Induced forgetting of complex emotional pictures. The directed forgetting task and children's memory"
       },
       {
         "type": "Academic lecture",
         "year": "2009",
-        "title": "Infants' early social understanding",
-        "url": "https://api.cristin.no/v2/results/251159"
+        "url": "https://api.cristin.no/v2/results/251159",
+        "title": "Infants' early social understanding"
       }
     ]
+  },
+  "rg": {
+    "id": "Else-Marie-Augusti",
+    "name": "Else-Marie Augusti",
+    "img": "https://i1.rgstatic.net/ii/profile.image/543175475462150-1506514533652_Q128/Else-Marie-Augusti.jpg",
+    "affiliation": "Norwegian Centre for  Violence and Traumatic Stress Studies | NKVTS, Norwegian Centre for  Violence and Traumatic Stress Studies",
+    "keywords": ["Executive Function", "Cognitive Neuropsychology", "Cognitive Development", "Memory", "Cognitive Neuroscience", "Neuropsychological Assessment", "Learning and Memory", "Clinical Neuropsychology", "Trauma", "Psychopathology"],
+    "works": [
+      {
+        "title": "Violence and sexual abuse rates before and during the Covid-19 pandemic: A prospective population-based study on Norwegian youth",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Else-Marie Augusti", "Mia Cathrine Myhre", "Tore Wentzel-Larsen", "Gertrud Sofie Hafstad"],
+        "abstract": ["Background\nConsiderable concern is raised as to whether the pandemic has led to an increase in violence and sexual abuse against children.\n\nObjective\nThe present study objective is to provide rates of violence and sexual abuse against adolescents the year before the pandemic compared to one year into the pandemic.\n\nParticipants and setting\nTwo samp..."]
+      },
+      {
+        "title": "Changes in Adolescent Mental and Somatic Health Complaints Throughout the COVID-19 Pandemic: A Three-Wave Prospective Longitudinal Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Gertrud Sofie Hafstad", "Sjur Skjørshammer Sætren", "Tore Wentzel-Larsen", "Else-Marie Augusti"],
+        "abstract": ["Purpose\nMeasures taken to limit the spread of the COVID-19 may have had unintended consequences for the mental and somatic health of children and adolescents.\n\nMethods\nA nationwide three-wave survey in a representative sample of 12–16 year olds in Norway, with baseline data collected in January 2019 (n = 9,240; 49% girls) and follow-ups in June 202..."]
+      },
+      {
+        "title": "Correction to: The regulatory role of affective inhibitory control in somatic symptoms among adolescents exposed to child maltreatment: a population-based study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Sjur Skjørshammer Sætren", "Else-Marie Augusti", "Mia Cathrine Myhre", "Gertrud Sofie Hafstad"],
+        "abstract": []
+      },
+      {
+        "title": "Did Norwegian adolescents suffer more violence and sexual abuse during the Covid-19 pandemic? Violence and sexual abuse rates the year before the pandemic compared to rates one year into the pandemic",
+        "tags": ["Preprint"],
+        "date": "Apr 2022",
+        "authors": ["Else-Marie Augusti", "Mia Cathrine Myhre", "Tore Wentzel-Larsen", "Gertrud Sofie Hafstad"],
+        "abstract": ["Background\nThe Covid-19 pandemic is a public health crisis which may cause unintended additional societal costs such as child maltreatment. Considerable concern is raised as to whether the pandemic has led to an increase in violence and sexual abuse against children.\n\nObjective\nThe present study objective is to provide rates of violence and sexual..."]
+      },
+      {
+        "title": "The regulatory role of affective inhibitory control in somatic symptoms among adolescents exposed to child maltreatment: a population-based study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Sjur Skjørshammer Sætren", "Else-Marie Augusti", "Mia Cathrine Myhre", "Gertrud Sofie Hafstad"],
+        "abstract": ["Adolescents exposed to child maltreatment are at increased risk for various somatic symptoms, but which psychological factors that contribute to this relationship need to be further investigated. Emotion dysregulation is suggested to serve as a proximal link between child maltreatment and somatic complaints. The purpose of the present study was to..."]
+      },
+      {
+        "title": "Childhood Experiences of Companion Animal Abuse and its Co-occurrence With Domestic Abuse: Evidence From a National Youth Survey in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Karianne Muri", "Else-Marie Augusti", "Margunn Bjørnholt", "Gertrud Sofie Hafstad"],
+        "abstract": ["It is increasingly acknowledged that companion animal abuse often occurs in the same contexts as other types of abuse, particularly domestic abuse. However, the co-occurrence and strengths of these associations in the general population have not been well established in research. With data from a large representative sample of Norwegian adolescents..."]
+      },
+      {
+        "title": "Changes in adolescent mental and somatic health complaints throughout the COVID-19 pandemic: A three-wave prospective longitudinal study",
+        "tags": ["Preprint"],
+        "date": "Feb 2022",
+        "authors": ["Gertrud Sofie Hafstad", "Sjur Skjørshammer Sætren", "Tore Wentzel-Larsen", "Else-Marie Augusti"],
+        "abstract": ["Purpose: Measures taken to limit the spread of the COVID-19 may have had unintended consequences for the mental and somatic health of children and adolescents. Methods: A nationwide three-wave survey in a representative sample of 12 to 16 years olds in Norway, with baseline data collected in February 2019 (n=9240, 49% girls) and follow-ups in June..."]
+      },
+      {
+        "title": "Unity or diversity of executive functioning in children and adolescents with post-traumatic stress symptoms? A systematic review and meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Otelie Nyvold", "Egil Nygaard", "Else-Marie Augusti", "Christian K Tamnes"],
+        "abstract": ["For some children, psychological reactions to a traumatic event develop into severe or persistent post-traumatic stress symptoms (PTSS) or the clinical condition of post-traumatic stress disorder (PTSD). Cognitive problems in children with PTSS have been reported, but it is not clear which specific functions are affected. Executive functions is a d..."]
+      },
+      {
+        "title": "Adolescents’ symptoms of anxiety and depression before and during the Covid-19 outbreak – A prospective population-based study of teenagers in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Gertrud Sofie Hafstad", "Sjur Skjørshammer Sætren", "Tore Wentzel-Larsen", "Else-Marie Augusti"],
+        "abstract": ["Background\nLockdown policies related to the Sars-Cov-2 pandemic has potential negative consequences for mental health in youths.\n\nMethods\nAnxiety and depressive symptoms were assessed in 3 572 adolescents, age 13 to 16 using the Hopkins Symptom Checklist (HSCL-10), in a representative longitudinal survey of Norwegian youths between February 2019 (T..."]
+      },
+      {
+        "title": "A lost generation? COVID-19 and adolescent mental health",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Gertrud Sofie Hafstad", "Else-Marie Augusti"],
+        "abstract": []
+      },
+      {
+        "title": "Violence and abuse experiences and associated risk factors during the COVID-19 outbreak in a population-based sample of Norwegian adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Else-Marie Augusti", "Sjur Skjørshammer Sætren", "Gertrud Sofie Hafstad"],
+        "abstract": ["Background\nThe lockdowns occurring across society because of the COVID-19 pandemic have had far-reaching consequences for children and adolescents. One immediate concern was what the impact of the comprehensive disease control measures on rates of violence and abuse against children and adolescents would be.\n\nObjective\nWe aimed to establish rates o..."]
+      },
+      {
+        "title": "The Barriers and Facilitators to Abuse Disclosure and Psychosocial Support Needs in Children and Adolescents Around the Time of Disclosure",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Else-Marie Augusti", "Mia Cathrine Myhre"],
+        "abstract": ["Background\nChildren who experience sexual or physical abuse often delay their disclosure. This study aimed to clarify the barriers and facilitators to abuse disclosure in a sample of children and adolescents participating in a police interview regarding alleged abuse.\n\nMethod\nSemi-structured interviews were conducted with 13 children (nine girls) w..."]
+      },
+      {
+        "title": "Unity or diversity of executive functioning in children and adolescents with posttraumatic stress symptoms? A meta-analysis",
+        "tags": ["Preprint"],
+        "date": "Jan 2021",
+        "authors": ["Otelie Nyvold", "Egil Nygaard", "Else-Marie Augusti", "Christian K. Tamnes"],
+        "abstract": ["For some children the psychological reactions to a traumatic event develop into severe or persistent posttraumatic stress symptoms (PTSS) or the clinical condition of posttraumatic stress disorder (PTSD). Cognitive problems in children with PTSS have been reported, but it is not clear which specific functions are affected. Executive functions is a..."]
+      },
+      {
+        "title": "Emosjoner og kognisjon i utvikling",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Tone Kristine Hermansen", "Else-Marie Augusti"],
+        "abstract": []
+      },
+      {
+        "title": "Affective Inhibitory Control and Risk for Internalizing Problems inAdolescents Exposed to Child Maltreatment: A Population-Based Study",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Sjur Skjørshammer Sætren", "Gertrud Sofie Hafstad", "Else-Marie Augusti"],
+        "abstract": ["Adolescents’ emotion regulatory capacities modulate the relationship between child maltreatment expe-riences and psychopathology. Affective inhibitory control constitutes an important part of emotionregulation and involves the ability to regulate automatic or prepotent responses to irrelevant andpotentially distracting emotional information. The ai..."]
+      },
+      {
+        "title": "The epidemiology of child maltreatment and its association with mental and somatic health in Norwegian teenagers – a national survey among 9240 12-16-year olds",
+        "tags": ["Article"],
+        "date": "Sep 2020",
+        "authors": ["Gertrud Sofie Hafstad", "Sjur Skjørshammer Sætren", "Mia Cathrine Myhre", "Else-Marie Augusti"],
+        "abstract": ["Background\nChild maltreatment has emerged as a key public health issue because of its serious consequences and long-term costs. Still, there are few large epidemiological studies on the prevalence of child maltreatment in adolescents, despite being a crucial transitional period making it particularly important to study.\n\nAims\nWe aimed to estimate t..."]
+      },
+      {
+        "title": "Cohort profile: Norwegian youth study on child maltreatment (the UEVO study)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Gertrud Sofie Hafstad", "Sjur Skjørshammer Sætren", "Mia Cathrine Myhre", "Else-Marie Augusti"],
+        "abstract": ["Purpose\nExposure to childhood maltreatment is not uncommon, and is linked to both short-term and long-term health problems. Population-based surveys for adolescent samples provide excellent opportunities for addressing the substantial burden of early-life adversities, because collecting information close in time to exposure may increase accuracy of..."]
+      },
+      {
+        "title": "Affective Inhibitory Control and Risk for Internalizing Problems in Adolescents Exposed to Physical and Psychological Abuse. A Population-based Study",
+        "tags": ["Preprint"],
+        "date": "Apr 2020",
+        "authors": ["Sjur Skjørshammer Sætren", "Else-Marie Augusti", "Gertrud Sofie Hafstad"],
+        "abstract": ["Background. Adolescents’ emotion regulatory capacities may modulate the relationship between childhood maltreatment experiences and psychopathology. Affective inhibitory control constitutes an important part of emotion regulation and involves the ability to regulate automatic or prepotent responses to irrelevant and potentially distracting emotiona..."]
+      },
+      {
+        "title": "Adolescent abuse victims displayed physical health complaints and trauma symptoms during post disclosure interviews",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Janne Rueness", "Else-Marie Augusti", "Ida Frugård Strøm", "Mia Cathrine Myhre"],
+        "abstract": ["Aim: \nWe investigated whether adolescents who had recently disclosed sexual abuse or family violence displayed more psychological trauma symptoms and physical health complaints than unaffected controls. We also investigated to what degree physical health complaints were associated with trauma symptoms in these abuse victims.\n\nMethods: \nAbuse, traum..."]
+      },
+      {
+        "title": "Sammenhenger mellom opplevd kontroll fra foreldre og vold mot barn og ungdom",
+        "tags": ["Chapter"],
+        "date": "Jan 2020",
+        "authors": ["Else-Marie Augusti", "Gertrud Sofie Hafstad"],
+        "abstract": ["In this chapter we explore the associations between parental control behaviors and domestic violence. Limited autonomy in adolescence has been linked to child abuse. Autonomy is a primary developmental task in adolescence, and a successful resolution of this task is associated with well-being and adaptation in adult life. However, autonomy does not..."]
+      },
+      {
+        "title": "Kapittel 15. Helse hos barn som kommer til Statens Barnehus: Forståelser, konsekvenser og tiltak",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Mia Cathrine Myhre", "Frode Syringen", "Else-Marie Augusti"],
+        "abstract": []
+      },
+      {
+        "title": "Kvalitetssikring av sakkyndighetsarbeid – en gjennomgang av vurderingsprosesser i Barnesakkyndig kommisjon, fylkesnemnder og domstoler",
+        "tags": ["Article"],
+        "date": "Dec 2017",
+        "authors": ["Else-Marie Augusti", "Camilla Bernt", "Annika Melinder"],
+        "abstract": []
+      },
+      {
+        "title": "Maltreatment and Trauma Symptoms: Does Type of Maltreatment Matter?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Else-Marie Augusti", "Gunn Astrid Baugerud", "Unni Sulutvedt", "Annika Melinder"],
+        "abstract": ["Objective: \nChildren frequently report a heightened experience of psychological problems such as depression, anxiety, aggression, and posttraumatic stress disorder in response to maltreatment. However, in recent years, scholars have suggested that different types of maltreatment may be associated with different symptomatology in children.\n\nMethod:..."]
+      },
+      {
+        "title": "Utviklingspsykologisk kunnskap er relevant for hvordan omsorgsplasseringer gjennomføres",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Gunn Astrid Baugerud", "Else-Marie Augusti"],
+        "abstract": []
+      },
+      {
+        "title": "Behavior and inhibitory control in children with prenatal exposure to antidepressants and medically untreated depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Tone Kristine Hermansen", "Espen Røysamb", "Else-Marie Augusti", "Annika Melinder"],
+        "abstract": ["Purpose: \nThe present study investigates child development following prenatal exposure to maternal use of selective serotonin reuptake inhibitors (SSRIs; N = 28), versus prenatal exposure to medically untreated depression (N = 42), and no exposure (N = 33).\n\nMethods: \nWhen the children reached 5-6 years of age, child cognitive abilities were measur..."]
+      },
+      {
+        "title": "Coping style and memory specificity in adolescents and adults with histories of child sexual abuse",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Latonya Harris", "Stephanie Dara Block", "Christin M. Ogle", "Anthony Urguiza"],
+        "abstract": ["Individuals with histories of childhood trauma may adopt a nonspecific memory retrieval strategy to avoid unpleasant and intrusive memories. In a sample of 93 adolescents and adults with or without histories of child sexual abuse (CSA), we tested the hypothesis that nonspecific memory retrieval is related to an individual’s general tendency to use..."]
+      },
+      {
+        "title": "Associations Between Executive Functions and Long-Term Stress Reactions After Extreme Trauma: A Two-Year Follow-Up of the Utøya Survivors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Annika Melinder", "Else-Marie Augusti", "Martin Matre", "Tor Endestad"],
+        "abstract": ["Terror attacks cause variation in everyday functioning across several domains. This paper focuses on the individual long-term costs in terms of clinical symptoms and cognitive (e.g., shifting, inhibition, and spatial working memory) difficulties associated with these symptoms in 24 survivors of a terror attack in Norway. Another 24 controls were in..."]
+      },
+      {
+        "title": "Children’s memory and suggestibility about a distressing event: The role of children’s and parents’ attachment",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Yoojin Chae", "Gail S Goodman", "Rakel P Larson", "Kevin Coulter"],
+        "abstract": []
+      },
+      {
+        "title": "Children as witnesses",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Kelly Mcwilliams", "Else-Marie Augusti", "Jacinthe Dion", "Gail S. Goodman"],
+        "abstract": ["Children as witnesses worldwide, many thousands – if not millions – of children serve as witnesses in legal actions every year. Victims of child maltreatment as well as children who witness or experience other types of illegal activity (for example, domestic violence, murder, kidnapping, robbery, gang violence, war crimes) may be interviewed by aut..."]
+      },
+      {
+        "title": "Maltreatment Is Associated With Specific Impairments in Executive Functions: A Pilot Study",
+        "tags": ["Article"],
+        "date": "Dec 2013",
+        "authors": ["Else-Marie Augusti", "Annika Melinder"],
+        "abstract": ["Child maltreatment is associated with a host of adverse consequences. Few studies exist that map maltreated children's performance on neurocognitive tests particularly sensitive to brain and behavior associations. The aim of the present study was to investigate whether maltreated children differed in their executive functioning compared to their no..."]
+      },
+      {
+        "title": "The effect of emotional facial expressions on children’s working memory: Associations with age and behavior",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Else-Marie Augusti", "Hanna Karoline Torheim", "Annika Melinder"],
+        "abstract": ["Studies on adults have revealed a disadvantageous effect of negative emotional stimuli on executive functions (EF), and it is suggested that this effect is amplified in children. The present study's aim was to assess how emotional facial expressions affected working memory in 9- to 12-year-olds, using a working memory task with emotional facial exp..."]
+      },
+      {
+        "title": "The effect of neutral and negative colour photographs on children's item directed forgetting",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Else-Marie Augusti", "Annika Melinder"],
+        "abstract": ["Intentional forgetting is an active process relying on cognitive mechanisms (e.g., rehearsal strategies and inhibition) developing during the elementary school years. Colour photographs might be rehearsed differently in memory than words, and therefore result in a different developmental pattern of intentional forgetting than previously acknowledge..."]
+      },
+      {
+        "title": "False memory for trauma-related Deese-Roediger-McDermott lists in adolescents and adults with histories of child sexual abuse",
+        "tags": ["Article"],
+        "date": "May 2011",
+        "authors": ["Gail S Goodman", "Christin M. Ogle", "Stephanie Dara Block", "Anthony Urquiza"],
+        "abstract": ["The purpose of the present research was to examine Deese-Roediger-McDermott false memory for trauma-related and nontrauma-related lists in adolescents and adults with and without documented histories of child sexual abuse (CSA). Individual differences in psychopathology and adult attachment were also explored. Participants were administered free re..."]
+      },
+      {
+        "title": "Look Who's Talking: Pre-Verbal Infants’ Perception of Face-to-Face and Back-to-Back Social Interactions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2010",
+        "authors": ["Else-Marie Augusti", "Annika Melinder", "Gustaf Gredebäck"],
+        "abstract": ["Four-, 6-, and 11-month old infants were presented with movies in which two adult actors conversed about everyday events, either by facing each other or looking in opposite directions. Infants from 6 months of age made more gaze shifts between the actors, in accordance with the flow of conversation, when the actors were facing each other. A second..."]
+      },
+      {
+        "title": "Children’s resistance to suggestion",
+        "tags": ["Chapter"],
+        "date": "Jan 2009",
+        "authors": ["Latonya Harris", "Gail S. Goodman", "Else-Marie Augusti", "Deborah Alley"],
+        "abstract": ["Many children show remarkable resistance to false suggestions. Legal and mental health professionals, scientists, and laypersons sometimes lose sight of that fact, given the strong attention currently devoted to children's suggestibility and the great concern often expressed about false reports. Yet research indicates that many children, under vari..."]
+      },
+      {
+        "title": "Accuracy and Specificity of Autobiographical Memory in Childhood Trauma Victims",
+        "tags": ["Chapter"],
+        "date": "Apr 2008",
+        "authors": ["Christin M. Ogle", "Stephanie Dara Block", "Latonya Harris", "Gail S. Goodman"],
+        "abstract": ["This chapter examines the claim that childhood trauma leads to a specific type ofautobiographical memory functioning, namely \"overgeneral memory\". It reviews scientific theory and research on autobiographical memory development, memory for traumarelated and nontrauma-related information in traumatized individuals, and autobiographical memory in non..."]
+      },
+      {
+        "title": "1 Children as Witnesses: Cognitive and Social Considerations",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Leif A Strömwall", "Pär Anders Granhag", "Else-Marie Augusti"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [37],
+    "reads": [7534],
+    "citations": [551]
   }
 }

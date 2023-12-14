@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Virginia Ruiz",
-    "id": "cxzXY5MAAAAJ",
-    "affiliation": "CIDETEC",
+    "name": ["Virginia Ruiz"],
+    "id": ["cxzXY5MAAAAJ"],
+    "affiliation": ["CIDETEC"],
     "data": {
       "publications": [
         {
@@ -904,8 +904,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0309-0393",
-    "name": "Virginia Conde ",
+    "orcid": ["0000-0002-0309-0393"],
+    "name": ["Virginia Conde "],
     "distinctions": [],
     "education": [
       {
@@ -916,45 +916,45 @@
       },
       {
         "start": "2020",
-        "end": "2021",
         "position": "Guest researcher",
         "organisation": "Norwegian University of Science and Technology",
-        "country": "NO"
+        "country": "NO",
+        "end": "2021"
       },
       {
         "start": "2019",
-        "end": "2020",
         "position": "Researcher",
         "organisation": "Norwegian University of Science and Technology",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2019",
-        "end": "2019",
         "position": "Researcher",
         "organisation": "Norwegian University of Science and Technology",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2019",
-        "end": "2019",
         "position": "Research advisor 20%",
         "organisation": "St Olavs Hospital",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2017",
-        "end": "2019",
         "position": "Postdoctoral fellow",
         "organisation": "Norwegian University of Science and Technology",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2013",
-        "end": "2017",
         "position": "Postdoctoral researcher",
         "organisation": "Hvidovre Hospital Funktions- og Billeddiagnostisk Enhed",
-        "country": "DK"
+        "country": "DK",
+        "end": "2017"
       }
     ],
     "employment": [
@@ -966,45 +966,45 @@
       },
       {
         "start": "2020",
-        "end": "2021",
         "position": "Guest researcher",
         "organisation": "Norwegian University of Science and Technology",
-        "country": "NO"
+        "country": "NO",
+        "end": "2021"
       },
       {
         "start": "2019",
-        "end": "2020",
         "position": "Researcher",
         "organisation": "Norwegian University of Science and Technology",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2019",
-        "end": "2019",
         "position": "Researcher",
         "organisation": "Norwegian University of Science and Technology",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2019",
-        "end": "2019",
         "position": "Research advisor 20%",
         "organisation": "St Olavs Hospital",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2017",
-        "end": "2019",
         "position": "Postdoctoral fellow",
         "organisation": "Norwegian University of Science and Technology",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2013",
-        "end": "2017",
         "position": "Postdoctoral researcher",
         "organisation": "Hvidovre Hospital Funktions- og Billeddiagnostisk Enhed",
-        "country": "DK"
+        "country": "DK",
+        "end": "2017"
       }
     ],
     "membership": [],
@@ -1124,11 +1124,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Virginia Conde Ruiz",
-    "id": "904095",
+    "name": ["Virginia Conde Ruiz"],
+    "id": ["904095"],
     "keywords": ["Neurobiology", "Neurophysiology", "Neurosciences", "Traumatic brain injury", "Brain research"],
     "position": ["Post-doctoral research fellow", "Guest"],
-    "img": "https://api.cristin.no/v2/persons/904095/picture",
+    "img": ["https://api.cristin.no/v2/persons/904095/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1285,5 +1285,297 @@
         "url": "https://api.cristin.no/v2/results/1631077"
       }
     ]
+  },
+  "rg": {
+    "id": "Virginia-Conde",
+    "name": "Virginia Conde",
+    "img": "https://i1.rgstatic.net/ii/profile.image/691093167407114-1541780859456_Q128/Virginia-Conde.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Brain Stimulation", "Electromyography", "Brain Diseases", "Neurophysiology", "Neuroimaging", "Movement Disorders", "Neurological Diseases", "Brain Connectivity", "Brain Imaging", "Traumatic Brain Injury"],
+    "works": [
+      {
+        "title": "Cortical thickness in primary sensorimotor cortex influences the effectiveness of paired associative stimulation",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["Virginia Conde", "Henning Vollmann", "Bernhard Sehm", "Patrick Ragert"],
+        "abstract": []
+      },
+      {
+        "title": "Abnormal GABA-mediated and cerebellar inhibition in women with the fragile X premutation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Virginia Conde", "Francisco J Palomar", "María José Lama", "Pablo Mir"],
+        "abstract": ["The fragile X syndrome is a mutation-driven developmental disorder caused by a repetition over 200 times of the CGG trinucleotide situated in the 5' untranslated region of the fragile X mental retardation 1 gene (FMR1). The interval between 55 to 199 CGG repeats, which is over the normal range but below full mutation, is named fragile X premutation..."]
+      },
+      {
+        "title": "Reversed timing-dependent associative plasticity in the human brain through interhemispheric interactions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2013",
+        "authors": ["Virginia Conde", "Henning Vollmann", "Marco Taubert", "Patrick Ragert"],
+        "abstract": ["Spike timing-dependent plasticity (STDP) has been proposed as one of the key mechanisms underlying learning and memory. Repetitive median nerve stimulation (MNS) followed by transcranial magnetic stimulation (TMS) of the contralateral primary motor cortex (M1), defined as paired associative stimulation (PAS), has been used as an in vivo model of ST..."]
+      },
+      {
+        "title": "The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Virginia Conde", "Leo Tomasevic", "Irina Akopian", "Hartwig Roman Siebner"],
+        "abstract": ["Transcranial Magnetic Stimulation (TMS) excites populations of neurons in the stimulated cortex, and the resulting activation may spread to connected brain regions. The distributed cortical response can be recorded with electroencephalography (EEG). Since TMS also stimulates peripheral sensory and motor axons and generates a loud \"click\" sound, the..."]
+      },
+      {
+        "title": "Alterations in the brain's connectome during recovery from severe traumatic brain injury: Protocol for a longitudinal prospective study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Virginia Conde", "Sara Hesby Andreasen", "Tue Hvass Petersen", "Hartwig Roman Siebner"],
+        "abstract": ["Introduction\nTraumatic brain injury (TBI) is considered one of the most pervasive causes of disability in people under the age of 45. TBI often results in disorders of consciousness, and clinical assessment of the state of consciousness in these patients is challenging due to the lack of behavioural responsiveness. Functional neuroimaging offers a..."]
+      },
+      {
+        "title": "Poorer sleep health is associated with altered brain activation during cognitive control processing in healthy adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Hanne Smevik", "Sarah Habli", "Simen Berg Saksvik", "Alexander Olsen"],
+        "abstract": ["This study investigated how proactive and reactive cognitive control processing in the brain was associated with habitual sleep health. BOLD fMRI data were acquired from 81 healthy adults with normal sleep (41 females, age 20.96–39.58 years) during a test of cognitive control (Not-X-CPT). Sleep health was assessed in the week before MRI scanning, u..."]
+      },
+      {
+        "title": "Poorer Sleep Health is Associated with Altered Cognitive Control Processing in Healthy Adults",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Hanne Smevik", "Sarah Habli", "Simen Berg Saksvik", "Alexander Olsen"],
+        "abstract": ["This study investigated how proactive and reactive cognitive control processing in the brain was associated with habitual sleep health. BOLD fMRI data was acquired from 81 healthy adults with normal sleep (41 females, age 20.96 - 39.58 years) during a test of cognitive control (\"Not-X CPT\"). Sleep health was assessed in the week before MRI scanning..."]
+      },
+      {
+        "title": "Toward a global and reproducible science for brain imaging in neurotrauma: the ENIGMA adult moderate/severe traumatic brain injury working group",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Alexander Olsen", "Talin Babikian", "Erin D. Bigler", "Frank G Hillary"],
+        "abstract": ["The global burden of mortality and morbidity caused by traumatic brain injury (TBI) is significant, and the heterogeneity of TBI patients and the relatively small sample sizes of most current neuroimaging studies is a major challenge for scientific advances and clinical translation. The ENIGMA (Enhancing NeuroImaging Genetics through Meta-Analysis)..."]
+      },
+      {
+        "title": "Two Coarse Spatial Patterns of Altered Brain Microstructure Predict Post-traumatic Amnesia in the Subacute Stage of Severe Traumatic Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Sara H. Andreasen", "Kasper Winther Andersen", "Virginia Conde", "Hartwig Roman Siebner"],
+        "abstract": ["Introduction: Diffuse traumatic axonal injury (TAI) is one of the key mechanisms leading to impaired consciousness after severe traumatic brain injury (TBI). In addition, preferential regional expression of TAI in the brain may also influence clinical outcome. Aim: We addressed the question whether the regional expression of microstructural changes..."]
+      },
+      {
+        "title": "Brain damage by trauma",
+        "tags": ["Chapter"],
+        "date": "Jan 2020",
+        "authors": ["Virginia Conde", "Hartwig Roman Siebner"],
+        "abstract": ["Traumatic brain injury (TBI) represents a major clinical and economic challenge for health systems worldwide, and it is considered one of the leading causes of disability in young adults. The recent development of brain-computer interface (BCI) tools to target cognitive and motor impairments has led to the exploration of these techniques as potenti..."]
+      },
+      {
+        "title": "Limited Colocalization of Microbleeds and Microstructural Changes after Severe Traumatic Brain Injury",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Sara Hesby Andreasen", "Kasper Winther Andersen", "Virginia Conde", "Hartwig Roman Siebner"],
+        "abstract": ["Severe traumatic brain injury (TBI) produces shearing forces on long-range axons and brain vessels, causing axonal and vascular injury. To examine whether microbleeds and axonal injury co-localize after TBI, we performed whole-brain susceptibility-weighted imaging (SWI) and diffusion tensor imaging (DTI) in 14 patients during the subacute phase aft..."]
+      },
+      {
+        "title": "Toward a Global and Reproducible Science for Brain Imaging in Neurotrauma: The ENIGMA Adult Moderate/Severe Traumatic Brain Injury Working Group",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Alexander Olsen", "Robert F Asarnow", "Erin D. Bigler", "Frank G Hillary"],
+        "abstract": ["The global burden of mortality and morbidity caused by traumatic brain injury (TBI) is significant and the heterogeneity of TBI patients and the relatively small sample sizes of most current neuroimaging studies is a major challenge for scientific advances and clinical translation. The ENIGMA (Enhancing NeuroImaging Genetics through Meta-Analysis)..."]
+      },
+      {
+        "title": "Distilling the essence of TMS-evoked EEG potentials (TEPs): A call for securing mechanistic specificity and experimental rigor",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Hartwig Roman Siebner", "Virginia Conde", "Leo Tomasevic", "Til Ole Bergmann"],
+        "abstract": []
+      },
+      {
+        "title": "Frontoparietal TMS-EEG: Transcranially versus Peripherally Induced Brain Responses",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Hartwig Roman Siebner", "Virginia Conde", "Axel Thielscher", "Leo Tomasevic"],
+        "abstract": []
+      },
+      {
+        "title": "The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studies",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Virginia Conde", "Leo Tomasevic", "Irina Akopian", "Hartwig Roman Siebner"],
+        "abstract": ["Transcranial Magnetic Stimulation (TMS) excites populations of neurons in the stimulated cortex, and the resulting activation may spread to connected brain regions. The distributed cortical response can be recorded with electroencephalography (EEG). Since TMS also stimulates peripheral sensory and motor axons and generates a loud click sound, the T..."]
+      },
+      {
+        "title": "F193. What remains as transcranial cortical response after accounting for the contribution of somatosensory and auditory evoked responses?",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Leo Tomasevic", "Virginia Conde", "Irina Akopian", "Hartwig Roman Siebner"],
+        "abstract": ["Introduction\nFocal transcranial magnetic stimulation (TMS) induces somatosensory input due to excitation of peripheral trigeminal nerve branches as well as auditory input caused by the loud click produced during stimulus discharge. In a recent study, we have demonstrated that these peripheral sources of cortical activation make a strong contributio..."]
+      },
+      {
+        "title": "P301 Contribution of somatosensory and auditory processing to the TMS evoked cortical response: A sham TMS-EEG study",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Virginia Conde", "Irina Akopian", "Leo Tomasevic", "Hartwig Roman Siebner"],
+        "abstract": ["Objectives\nTranscranial Magnetic Stimulation (TMS) is capable to non-invasively stimulate the human cortex. Electroencephalography (EEG) can record the cortical response evoked by TMS (TEPs), which are a summation of the brain responses to the TMS-induced electric field in the cortex, and to the multisensory peripheral stimulation derived from the..."]
+      },
+      {
+        "title": "Reviewer comments",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Virginia Conde", "Sara Hesby Andreasen", "Tue Hvass Petersen", "Hartwig Roman Siebner"],
+        "abstract": []
+      },
+      {
+        "title": "Author's manuscript",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Virginia Conde", "Sara Hesby Andreasen", "Tue Hvass Petersen", "Hartwig Roman Siebner"],
+        "abstract": []
+      },
+      {
+        "title": "P122 Contribution of integrated somatosensory and auditory inputs to the cortical response evoked by transcranial magnetic stimulation: A sham TMS-EEG study",
+        "tags": ["Conference Paper"],
+        "date": "Mar 2017",
+        "authors": ["Virginia Conde", "I. Akopian", "Leo Tomasevic", "Hartwig Roman Siebner"],
+        "abstract": ["Transcranial Magnetic Stimulation (TMS) can effectively stimulate non-invasively the human cortex. The TMS-evoked cortical response can be recorded with electroencephalography (EEG). However, TMS also stimulates our senses by stimulating peripheral trigeminal nerve fibers and creating a loud click. This implies that the TMS-evoked EEG response not..."]
+      },
+      {
+        "title": "Instrument specific use-dependent plasticity shapes the anatomical properties of the corpus callosum: A comparison between musicians and non-musicians",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Henning Vollmann", "Patrick Ragert", "Virginia Conde", "Christopher J Steele"],
+        "abstract": ["Long-term musical expertise has been shown to be associated with a number of functional and structural brain changes, making it an attractive model for investigating use-dependent plasticity in humans. Physiological interhemispheric inhibition (IHI) as examined by transcranial magnetic stimulation has been shown to be correlated with anatomical pro..."]
+      },
+      {
+        "title": "P941: Bimanual sequence learning in musicians",
+        "tags": ["Article"],
+        "date": "Jun 2014",
+        "authors": ["Maike Hoff", "Elisabeth Kaminski", "Virginia Conde", "Patrick Ragert"],
+        "abstract": []
+      },
+      {
+        "title": "P 92. Effect of transcranial direct current stimulation (tDCS) on complex motor skill learning",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Elisabeth Kaminski", "Maike Hoff", "Bernhard Sehm", "Patrick Ragert"],
+        "abstract": []
+      },
+      {
+        "title": "Effect of transcranial direct current stimulation (tDCS) during complex whole body motor skill learning",
+        "tags": ["Article"],
+        "date": "Aug 2013",
+        "authors": ["Elisabeth Kaminski", "Maike Hoff", "Bernhard Sehm", "Patrick Ragert"],
+        "abstract": []
+      },
+      {
+        "title": "Structural brain plasticity in Parkinson's disease induced by balance training",
+        "tags": ["Article"],
+        "date": "Jul 2013",
+        "authors": ["Bernhard Sehm", "Marco Taubert", "Virginia Conde", "Patrick Ragert"],
+        "abstract": []
+      },
+      {
+        "title": "Plastizität vestibulärer Kortexbereiche durch Gleichgewichtstraining: eine Hochfeld-Magnetresonanztomografie (MRT) Studie bei 7 Tesla",
+        "tags": ["Article"],
+        "date": "Mar 2013",
+        "authors": ["Marco Taubert", "Bernhard Sehm", "R Trampel", "Patrick Ragert"],
+        "abstract": []
+      },
+      {
+        "title": "Interhemisphärische Inhibition (IHI) bei Musikern und ihr Einfluss auf den Lernprozess in bimanuellen motorischen Aufgaben",
+        "tags": ["Article"],
+        "date": "Mar 2013",
+        "authors": ["H Vollmann", "Christopher J Steele", "Virginia Conde", "Patrick Ragert"],
+        "abstract": []
+      },
+      {
+        "title": "Study of Cerebello-Thalamocortical Pathway by Transcranial Magnetic Stimulation in Parkinson's Disease",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Fatima Herrera Carrillo", "Francisco J Palomar", "Virginia Conde", "Pablo Mir"],
+        "abstract": []
+      },
+      {
+        "title": "A novel ring electrode setup for the recording of somatosensory evoked potentials during transcranial direct current stimulation (tDCS)",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Bernhard Sehm", "Maike Hoff", "Christopher Gundlach", "Patrick Ragert"],
+        "abstract": ["Transcranial direct current stimulation (tDCS) modulates cortical excitability thereby influencing behavior and learning. While previous studies focused on tDCS after-effects, limited information about \"online\" tDCS effects is available. This in turn is an important prerequisite to better characterize and/or optimize tDCS effects. Here, we aimed to..."]
+      },
+      {
+        "title": "Dynamic modulation of intrinsic functional connectivity by transcranial direct current stimulation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2012",
+        "authors": ["Bernhard Sehm", "Alexander Schaefer", "Judy Kipping", "Patrick Ragert"],
+        "abstract": ["Transcranial direct current stimulation (tDCS) is a non-invasive brain stimulation technique capable of modulating cortical excitability and thereby influencing behavior and learning. Recent evidence suggests that bilateral tDCS over both primary sensorimotor cortices (SM1) yields more prominent effects on motor performance in both healthy subjects..."]
+      },
+      {
+        "title": "Task-Irrelevant Auditory Feedback Facilitates Motor Performance in Musicians",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2012",
+        "authors": ["Virginia Conde", "Eckart Altenmüller", "Arno Villringer", "Patrick Ragert"],
+        "abstract": ["An efficient and fast auditory-motor network is a basic resource for trained musicians due to the importance of motor anticipation of sound production in musical performance. When playing an instrument, motor performance always goes along with the production of sounds and the integration between both modalities plays an essential role in the course..."]
+      },
+      {
+        "title": "Bidirectional gray matter changes after complex motor skill learning",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2012",
+        "authors": ["Martin Gryga", "Marco Taubert", "Juergen Dukart", "Patrick Ragert"],
+        "abstract": ["Long-term motor skill learning has been consistently shown to result in functional as well as structural changes in the adult human brain. However, the effect of short learning periods on brain structure is not well understood. In the present study, subjects performed a sequential pinch force task (SPFT) for 20 min on 5 consecutive days. Changes in..."]
+      },
+      {
+        "title": "Anodal transcranial direct current stimulation (tDCS) over supplementary motor area (SMA) but not pre-SMA promotes short-term visuomotor learning",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Henning Vollmann", "Virginia Conde", "Sebastian Sewerin", "Patrick Ragert"],
+        "abstract": ["Background: \nNon-invasive brain stimulation such as transcranial direct current stimulation (tDCS) has been shown to modulate cortical excitability and thereby influencing motor behaviour and learning.\n\nHypothesis: \nWhile there is increasing knowledge about the importance of the primary motor cortex (M1) in short- and long-term motor skill learning..."]
+      },
+      {
+        "title": "Parieto-motor functional connectivity is impaired in Parkinson's disease",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["Francisco J Palomar", "Virginia Conde", "Fatima Herrera Carrillo", "Pablo Mir"],
+        "abstract": []
+      },
+      {
+        "title": "Unterschiede in der grauen Substanz des sensomotorischen Kortex beeinflussen die Effektivität der gepaarten assoziativen Stimulation (PAS)",
+        "tags": ["Article"],
+        "date": "Mar 2012",
+        "authors": ["Patrick Ragert", "Virginia Conde", "H Vollamnn", "Arno Villringer"],
+        "abstract": []
+      },
+      {
+        "title": "Dynamic modulation of intrinsic functional connectivity by transcranial direct current stimulation",
+        "tags": ["Article"],
+        "date": "Mar 2012",
+        "authors": ["Bernhard Sehm", "A Schäfer", "Judy Kipping", "Patrick Ragert"],
+        "abstract": ["Transcranial direct current stimulation (tDCS) is a non-invasive brain stimulation technique capable of modulating cortical excitability and thereby influencing behavior and learning. Recent evidence suggests that bilateral tDCS over both primary sensorimotor cortices (SM1) yields more prominent effects on motor performance in both healthy subjects..."]
+      },
+      {
+        "title": "Enhancing the effect of repetitive I-wave paired-pulse TMS (iTMS) by adjusting for the individual I-wave periodicity",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Sebastian Sewerin", "Marco Taubert", "Henning Vollmann", "Patrick Ragert"],
+        "abstract": ["Repeated application of paired-pulse TMS over the primary motor cortex (M1) in human subjects with an inter-pulse interval (IPI) of 1.5 ms (iTMS(1.5 ms)) has been shown to significantly increase paired-pulse MEP (ppMEP) amplitudes during the stimulation period and increased single-pulse MEP amplitudes for up to 10 minutes after termination of iTMS...."]
+      },
+      {
+        "title": "Cerebellar inhibition by transcranial magnetic stimulation in primary dystonia",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2010",
+        "authors": ["P. Porcacchia", "Francisco J Palomar", "Virginia Conde", "P. Mir"],
+        "abstract": []
+      },
+      {
+        "title": "Interhemispheric inhibitory effects of ipsilateral paired associative stimulation",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Virginia Conde", "H. Vollmann", "Marco Taubert", "Patrick Ragert"],
+        "abstract": []
+      },
+      {
+        "title": "Cortical thickness in sensorimotor cortex predicts the outcome of non-invasive brain stimulation",
+        "tags": ["Article"],
+        "authors": ["Patrick Ragert", "H. Vollmann", "Bernhard Sehm", "Virginia Conde"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Dr.", "rer.", "med."],
+    "bio": "My main research interest is to explore human neuroplasticity mechanisms, with a particular focus on plasticity modulators that are specific to the human species. I am interested in both healthy neuronal plasticity and plasticity subserving pathological states such as during recovery from brain trauma. I probe and study neuronal plasticity by means of non-invasive brain stimulation in combination with neuroimaging techniques.",
+    "publications": [40],
+    "reads": [9481],
+    "citations": [1131]
   }
 }

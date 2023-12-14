@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Rune Flaaten Bjørk",
-    "id": "N0DV5xYAAAAJ",
-    "affiliation": "Universitetet i Oslo",
+    "name": ["Rune Flaaten Bjørk"],
+    "id": ["N0DV5xYAAAAJ"],
+    "affiliation": ["Universitetet i Oslo"],
     "data": {
       "publications": [
         {
@@ -36,8 +36,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0421-2399",
-    "name": "Rune Flaaten Bjørk",
+    "orcid": ["0000-0002-0421-2399"],
+    "name": ["Rune Flaaten Bjørk"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -53,8 +53,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Rune Flaaten Bjørk",
-    "id": "525751",
+    "name": ["Rune Flaaten Bjørk"],
+    "id": ["525751"],
     "keywords": [],
     "position": ["Senior lecturer"],
     "img": {},
@@ -68,23 +68,23 @@
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Testing TIK (Tuning in to Kids) with TEC (Test of Emotion Comprehension): Does enhanced emotion socialization improve child emotion understanding?",
         "journal": "Journal of Applied Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/1989795"
+        "url": "https://api.cristin.no/v2/results/1989795",
+        "title": "Testing TIK (Tuning in to Kids) with TEC (Test of Emotion Comprehension): Does enhanced emotion socialization improve child emotion understanding?"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1938045"
+        "url": "https://api.cristin.no/v2/results/1938045",
+        "title": "A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Pathways to behavior problems in Norwegian Kindergarten Children: The role of parent emotion socialization and child emotion understanding.",
         "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/1861275"
+        "url": "https://api.cristin.no/v2/results/1861275",
+        "title": "Pathways to behavior problems in Norwegian Kindergarten Children: The role of parent emotion socialization and child emotion understanding."
       },
       {
         "type": "Academic article",
@@ -115,5 +115,15 @@
         "url": "https://api.cristin.no/v2/results/1390962"
       }
     ]
+  },
+  "rg": {
+    "id": "Rosemary_Flaaten",
+    "name": "Rosemary Flaaten",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Denver Seminary, Doctorate of Ministry",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

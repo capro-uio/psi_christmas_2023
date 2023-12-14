@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-0920-2341",
-    "name": "Jugoslav Ivanovic",
+    "orcid": ["0000-0002-0920-2341"],
+    "name": ["Jugoslav Ivanovic"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -19,8 +19,8 @@
     ]
   },
   "cristin": {
-    "name": "Jugoslav Ivanovic",
-    "id": "529050",
+    "name": ["Jugoslav Ivanovic"],
+    "id": ["529050"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -35,22 +35,22 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Decision and response monitoring during working memory are sequentially represented in the human insula",
-        "journal": "iScience",
-        "url": "https://api.cristin.no/v2/results/2176865"
+        "url": "https://api.cristin.no/v2/results/2176865",
+        "journal": "iScience"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Subspace partitioning in the human prefrontal cortex resolves cognitive interference",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "https://api.cristin.no/v2/results/2164559"
+        "url": "https://api.cristin.no/v2/results/2164559",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Postprocessing of MRIs Using FreeSurfer in Epilepsy Surgery Patients Provides an Excellent Imaging Marker of Hippocampal Sclerosis but Fails to Separate Subtypes",
-        "journal": "Acta Neurologica Scandinavica",
-        "url": "https://api.cristin.no/v2/results/2160239"
+        "url": "https://api.cristin.no/v2/results/2160239",
+        "journal": "Acta Neurologica Scandinavica"
       },
       {
         "type": "Poster",
@@ -62,15 +62,15 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Modeling intracranial electrodes. A simulation platform for the evaluation of localization algorithms",
-        "journal": "Frontiers in Neuroinformatics",
-        "url": "https://api.cristin.no/v2/results/2067086"
+        "url": "https://api.cristin.no/v2/results/2067086",
+        "journal": "Frontiers in Neuroinformatics"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Orbitofrontal cortex governs working memory for temporal order",
-        "journal": "Current Biology",
-        "url": "https://api.cristin.no/v2/results/2046740"
+        "url": "https://api.cristin.no/v2/results/2046740",
+        "journal": "Current Biology"
       },
       {
         "type": "Poster",
@@ -82,8 +82,8 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Intracranial recordings demonstrate both cortical and medial temporal lobe engagement in visual search in humans",
-        "journal": "Journal of Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1929045"
+        "url": "https://api.cristin.no/v2/results/1929045",
+        "journal": "Journal of Cognitive Neuroscience"
       },
       {
         "type": "Poster",
@@ -107,8 +107,8 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Auditory deviance detection in the human insula: An intracranial EEG study",
-        "journal": "Cortex",
-        "url": "https://api.cristin.no/v2/results/1761259"
+        "url": "https://api.cristin.no/v2/results/1761259",
+        "journal": "Cortex"
       },
       {
         "type": "Poster",
@@ -132,72 +132,317 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Dynamic frontotemporal systems process space and time in working memory",
-        "journal": "PLoS Biology",
-        "url": "https://api.cristin.no/v2/results/1592498"
+        "url": "https://api.cristin.no/v2/results/1592498",
+        "journal": "PLoS Biology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "The proteome of pus from human brain abscesses: Host-derived neurotoxic proteins and the cell-type diversity of CNS pus",
-        "journal": "Journal of Neurosurgery",
-        "url": "https://api.cristin.no/v2/results/1555671"
+        "url": "https://api.cristin.no/v2/results/1555671",
+        "journal": "Journal of Neurosurgery"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Seizure outcomes of temporal lobe epilepsy surgery in patients with normal MRI and without specific histopathology",
-        "journal": "Acta Neurochirurgica",
-        "url": "https://api.cristin.no/v2/results/1466137"
+        "url": "https://api.cristin.no/v2/results/1466137",
+        "journal": "Acta Neurochirurgica"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Toxic levels of ammonia in human brain abscess",
-        "journal": "Journal of Neurosurgery",
-        "url": "https://api.cristin.no/v2/results/1327536"
+        "url": "https://api.cristin.no/v2/results/1327536",
+        "journal": "Journal of Neurosurgery"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Seizure outcomes in relation to the extent of resection of the perifocal fluorodeoxyglucose and flumazenil PET abnormalities in anteromedial temporal lobectomy",
-        "journal": "Acta Neurochirurgica",
-        "url": "https://api.cristin.no/v2/results/1299831"
+        "url": "https://api.cristin.no/v2/results/1299831",
+        "journal": "Acta Neurochirurgica"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "High extracellular levels of potassium and trace metals in human brain abscess",
-        "journal": "Neurochemistry International",
-        "url": "https://api.cristin.no/v2/results/1246733"
+        "url": "https://api.cristin.no/v2/results/1246733",
+        "journal": "Neurochemistry International"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "High extracellular concentration of excitatory amino acids glutamate and aspartate in human brain abscess",
-        "journal": "Neurochemistry International",
-        "url": "https://api.cristin.no/v2/results/1167687"
+        "url": "https://api.cristin.no/v2/results/1167687",
+        "journal": "Neurochemistry International"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Volume and densities of chronic subdural haematoma obtained from CT imaging as predictors of postoperative recurrence: a prospective study of 107 operated patients",
-        "journal": "Acta Neurochirurgica",
-        "url": "https://api.cristin.no/v2/results/982928"
+        "url": "https://api.cristin.no/v2/results/982928",
+        "journal": "Acta Neurochirurgica"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "Local and systemic pro-inflammatory and anti-inflammatory cytokine patterns in patients with chronic subdural hematoma: a prospective study",
-        "journal": "Inflammation Research",
-        "url": "https://api.cristin.no/v2/results/971560"
+        "url": "https://api.cristin.no/v2/results/971560",
+        "journal": "Inflammation Research"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "Chemokines as markers of local inflammation and angiogenesis in patients with chronic subdural hematoma: a prospective study",
-        "journal": "Acta Neurochirurgica",
-        "url": "https://api.cristin.no/v2/results/928075"
+        "url": "https://api.cristin.no/v2/results/928075",
+        "journal": "Acta Neurochirurgica"
       }
     ]
+  },
+  "rg": {
+    "id": "Jugoslav-Ivanovic-2",
+    "name": "Jugoslav Ivanovic",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281095951442-1668064633034_Q128/Jugoslav-Ivanovic-2.jpg",
+    "affiliation": "Oslo University Hospital, Department of Neurosurgery",
+    "keywords": ["Functional Neurosurgery", "Brain Abscess", "Brain Edema", "Intracranial Pressure", "Neurosurgery", "Cerebrospinal Fluid", "Traumatic Brain Injury"],
+    "works": [
+      {
+        "title": "Decision and response monitoring during working memory are sequentially represented in the human insula",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Anais Llorens", "Ludovic Bellier", "Alejandro O. Blenkmann", "Robert T. Knight"],
+        "abstract": ["Emerging research supports a role of the insula in human cognition. Here, we used intracranial EEG to investigate the spatiotemporal dynamics in the insula during a verbal working memory (vWM) task. We found robust effects for theta, beta, and high frequency activity (HFA) during probe presentation requiring a decision. Theta band activity showed d..."]
+      },
+      {
+        "title": "Subspace partitioning in the human prefrontal cortex resolves cognitive interference",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Jan Weber", "Gabriela Iwama", "Anne‐Kristin Solbakk", "Randolph Helfrich"],
+        "abstract": ["The human prefrontal cortex (PFC) constitutes the structural basis underlying flexible cognitive control, where mixed-selective neural populations encode multiple task features to guide subsequent behavior. The mechanisms by which the brain simultaneously encodes multiple task-relevant variables while minimizing interference from task-irrelevant fe..."]
+      },
+      {
+        "title": "N°109 – Frontotemporal dynamics during verbal working memory revealed by intracranial EEG",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Anais Llorens", "Ludovic Bellier", "Elizabeth Johnson", "Robert T. Knight"],
+        "abstract": []
+      },
+      {
+        "title": "Milo Stanišić",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Jugoslav Ivanovic", "Radek Frič", "Arild Egge", "Pål G Larsson"],
+        "abstract": []
+      },
+      {
+        "title": "Postprocessing of MRIs Using FreeSurfer in Epilepsy Surgery Patients Provides an Excellent Imaging Marker of Hippocampal Sclerosis but Fails to Separate Subtypes",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Ane G. Kloster", "Giske Opheim", "Kristin Å Alfstad", "Lars H Pinborg"],
+        "abstract": ["Objective. Histopathological examinations will diminish as minimally invasive epilepsy surgery increasingly replaces open surgery. The objective of this study was to test if visual and computer-aided quantitative analyses of presurgical high-quality 3 Tesla MRIs complying with the International League Against Epilepsy (ILAE) Neuroimaging Task Force..."]
+      },
+      {
+        "title": "Anatomical registration of intracranial electrodes. Robust model-based localization and deformable smooth brain-shift compensation methods",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Alejandro Omar Blenkmann", "Sabine Liliana Leske", "Anais Llorens", "Anne‐Kristin Solbakk"],
+        "abstract": ["Precise electrode localization is important for maximizing the utility of intracranial EEG data. Electrodes are typically localized from post-implantation CT artifacts, but algorithms can fail due to low signal-to-noise ratio, unrelated artifacts, or high-density electrode arrays. Minimizing these errors usually requires time-consuming visual local..."]
+      },
+      {
+        "title": "Subspace partitioning in human prefrontal cortex resolves cognitive interference",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Jan Weber", "Gabriela Iwama", "Anne‐Kristin Solbakk", "Randolph Helfrich"],
+        "abstract": ["Human prefrontal cortex (PFC) constitutes the structural basis underlying flexible cognitive control, where mixed-selective neural populations encode multiple task-features to guide subsequent behavior. The mechanisms by which the brain simultaneously encodes multiple task-relevant variables while minimizing interference from task-irrelevant featur..."]
+      },
+      {
+        "title": "Decision and response monitoring during working memory are sequentially represented in the human insula",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Anais Llorens", "L. Bellier", "Alejandro Blenkmann", "R.T. Knight"],
+        "abstract": ["Emerging research supports a role of the insula in human cognition. Here, we used intracranial EEG to investigate the spatiotemporal dynamics in the insula during a verbal working memory (vWM) task. We found robust effects for theta, beta, and high frequency activity (HFA) during probe presentation requiring a decision. Theta and beta band activity..."]
+      },
+      {
+        "title": "Modeling intracranial electrodes. A simulation platform for the evaluation of localization algorithms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Alejandro Blenkmann", "Anne‐Kristin Solbakk", "Jugoslav Ivanovic", "Tor Endestad"],
+        "abstract": ["Introduction\nIntracranial electrodes are implanted in patients with drug-resistant epilepsy as part of their pre-surgical evaluation. This allows the investigation of normal and pathological brain functions with excellent spatial and temporal resolution. The spatial resolution relies on methods that precisely localize the implanted electrodes in th..."]
+      },
+      {
+        "title": "Orbitofrontal cortex governs working memory for temporal order",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Elizabeth L. Johnson", "William Chang", "Callum Dewar", "Robert T. Knight"],
+        "abstract": ["How do we think about time? Converging lesion and neuroimaging evidence indicates that orbitofrontal cortex (OFC) supports the encoding and retrieval of temporal context in long-term memory1, which may contribute to confabulation in individuals with OFC damage2. Here, we reveal that OFC damage diminishes working memory for temporal order, that is,..."]
+      },
+      {
+        "title": "Population coding and oscillatory subspace synchronization integrate context into actions",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Jan Weber", "Anne‐Kristin Solbakk", "Alejandro Blenkmann", "Randolph F. Helfrich"],
+        "abstract": ["Contextual cues and prior evidence guide human goal-directed behavior. To date, the neurophysiological mechanisms that implement contextual priors to guide subsequent actions remain unclear. Here we demonstrate that increasing behavioral uncertainty introduces a shift from an oscillatory to a continuous processing mode in human prefrontal cortex. A..."]
+      },
+      {
+        "title": "Direct brain recordings reveal continuous encoding of structure in random stimuli",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Julian Fuhrer", "Kyrre Glette", "Jugoslav Ivanovic", "Alejandro Blenkmann"],
+        "abstract": ["The brain excels at processing sensory input, even in rich or chaotic environments. Mounting evidence attributes this to the creation of sophisticated internal models of the environment that draw on statistical structures in the unfolding sensory input. Understanding how and where this modeling takes place is a core question in statistical learning..."]
+      },
+      {
+        "title": "Intracranial Recordings Demonstrate Both Cortical and Medial Temporal Lobe Engagement in Visual Search in Humans",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["S. J. Katarina Slama", "Richard Jimenez", "Sujayam Saha", "Robert T. Knight"],
+        "abstract": ["Visual search is a fundamental human behavior, providing a gateway to understanding other sensory domains as well as the role of search in higher-order cognition. Search has been proposed to include two component processes: inefficient search (search) and efficient search (pop-out). According to extant research, these two processes map onto two sep..."]
+      },
+      {
+        "title": "Modeling intracranial electrodes",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Alejandro Blenkmann", "Anne‐Kristin Solbakk", "Jugoslav Ivanovic", "Tor Endestad"],
+        "abstract": ["Background: Intracranial electrodes are implanted in patients with drug-resistant epilepsy as part of their pre-surgical evaluation. This allows investigation of normal and pathological brain functions with excellent spatial and temporal resolution. The spatial resolution relies on methods that precisely localize the implanted electrodes in the cer..."]
+      },
+      {
+        "title": "Seizure Outcome After Ipsitemporal Reoperation in Pharmacoresistant Temporal Lobe Epilepsy Patients With Hippocampal Sclerosis and Nonspecific Pathology",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Jugoslav Ivanovic", "Kristin Å Alfstad", "Pål Bache Marthinsen", "Milo Stanisic"],
+        "abstract": ["BACKGROUND\nTreatment of patients with pharmacoresistant temporal lobe epilepsy with hippocampal sclerosis and nonspecific pathology who failed initial resection is challenging, although selected patients may benefit from repeated surgery.\n\nOBJECTIVE\nTo determine seizure outcome, postoperative morbidity, and possible predictors of seizure freedom af..."]
+      },
+      {
+        "title": "Auditory deviance detection in the human insula: An intracranial EEG study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Alejandro Blenkmann", "Santiago Collavini", "James Lubell", "Anne‐Kristin Solbakk"],
+        "abstract": ["The human insula is known to be involved in auditory processing but knowledge about its precise functional role and the underlying electrophysiology is limited. To assess its role in automatic auditory deviance detection we analyzed the EEG high frequency activity (HFA; 75-145 Hz) and ERPs from 90 intracranial insular channels across 16 patients un..."]
+      },
+      {
+        "title": "Auditory deviance detection in the human insula: An intracranial EEG study:",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Alejandro Blenkmann", "Santiago Collavini", "James Lubell", "Anne‐Kristin Solbakk"],
+        "abstract": ["While the human insula is known to be involved in auditory processing, knowledge about its precise functional role and the underlying electrophysiology is limited. To assess its role in automatic auditory deviance detection we analyzed the high frequency EEG activity (75-145 Hz) from 90 intracranial insular electrodes across 16 patients who were ca..."]
+      },
+      {
+        "title": "Dynamic frontotemporal systems process space and time in working memory",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["How do we rapidly process incoming streams of information in working memory, a cognitive mechanism central to human behavior? Dominant views of working memory focus on the prefrontal cortex (PFC), but human hippocampal recordings provide a neurophysiological signature distinct from the PFC. Are these regions independent, or do they interact in the..."]
+      },
+      {
+        "title": "S1 Table",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["MTL–PFC and MTL–OFC cross-spectral directionality group model results.\nDF, degrees of freedom; FREQ, amplitude frequency; MTL, medial temporal lobe; OFC, orbitofrontal cortex; PFC, prefrontal cortex.\n(DOCX)"]
+      },
+      {
+        "title": "S2 Table",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["Local theta PAC group model results by condition and region.\n** = significant effect; bold = result of interest. DF, degrees of freedom; FREQ, amplitude frequency; PAC, phase-amplitude coupling.\n(DOCX)"]
+      },
+      {
+        "title": "S4 Table",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["MTL–OFC theta PAC group model results by condition and direction.\n** = significant effect; bold = result of interest. DF, degrees of freedom; FREQ, amplitude frequency; MTL, medial temporal lobe; OFC, orbitofrontal cortex; PAC, phase-amplitude coupling.\n(DOCX)"]
+      },
+      {
+        "title": "S3 Table",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["MTL–PFC theta PAC group model results by condition and direction.\n** = significant effect; bold = result of interest. DF, degrees of freedom; FREQ, amplitude frequency; MTL, medial temporal lobe; PAC, phase-amplitude coupling; PFC, prefrontal cortex.\n(DOCX)"]
+      },
+      {
+        "title": "S1 Fig",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["Task-induced ERPs over encoding and delay by condition.\n(A) Task-induced ERPs over encoding, precue, and postcue intervals in a representative MTL electrode (cf. Fig 2). No condition differences were observed. Black, identity trials; blue, spatiotemporal relation trials (encoding and precue delay) or spatial trials (postcue delay); teal, temporal t..."]
+      },
+      {
+        "title": "S2 Fig",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["Frontal theta PAC dynamics during the postcue delay.\n(A) PAC by condition during the postcue delay in a representative PFC electrode (cf. Fig 2). The PFC showed variable, transient PAC across the spectrum of amplitude envelopes (z > 1.96, p < 0.05). No condition differences were observed. The black block indicates the amplitude data range depicted..."]
+      },
+      {
+        "title": "The proteome of pus from human brain abscesses: Host-derived neurotoxic proteins and the cell-type diversity of CNS pus",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Bjørnar Hassel", "Gustavo Antonio de Souza", "Maria Ekman Stensland", "Daniel Dahlberg"],
+        "abstract": ["OBJECTIVE\nWhat determines the extent of tissue destruction during brain abscess formation is not known. Pyogenic brain infections cause destruction of brain tissue that greatly exceeds the area occupied by microbes, as seen in experimental studies, pointing to cytotoxic factors other than microbes in pus. This study examined whether brain abscess p..."]
+      },
+      {
+        "title": "Seizure outcomes of temporal lobe epilepsy surgery in patients with normal MRI and without specific histopathology",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Jugoslav Ivanovic", "Pål G Larsson", "Ylva Østby Berger", "Milo Stanisic"],
+        "abstract": ["Background: \nSeizure outcome following surgery in pharmacoresistant temporal lobe epilepsy patients with normal magnetic resonance imaging and normal or non-specific histopathology is not sufficiently presented in the literature.\n\nMethods: \nIn a retrospective design, we reviewed data of 263 patients who had undergone temporal lobe epilepsy surgery..."]
+      },
+      {
+        "title": "Seizure outcomes in relation to the extent of resection of the perifocal fluorodeoxyglucose and flumazenil PET abnormalities in anteromedial temporal lobectomy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Milo Stanisic", "Christopher Coello", "Jugoslav Ivanovic", "Pål G Larsson"],
+        "abstract": ["Background: \nThe area of predominant perifocal [(18)F]fluorodeoxyglucose ((18)F-FDG) hypometabolism and reduced [(11)C]flumazenil ((11)C-FMZ) -binding on PET scans is currently considered to contain the epileptogenic zone and corresponds anatomically to the area localizing epileptogenicity in patients with temporal lobe epilepsy (TLE). The question..."]
+      },
+      {
+        "title": "Toxic levels of ammonia in human brain abscess",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Daniel Dahlberg", "Jugoslav Ivanovic", "Bjørnar Hassel"],
+        "abstract": ["OBJECT\nBrain abscesses could lead to cerebral symptoms through tissue destruction, edema, changes in brain architecture, and increased intracranial pressure. However, the possibility that the pus itself could contribute to symptoms has received little attention. Brain abscesses are areas of tissue destruction, proteolysis, and formation of free ami..."]
+      },
+      {
+        "title": "High extracellular levels of potassium and trace metals in human brain abscess",
+        "tags": ["Article"],
+        "date": "Feb 2015",
+        "authors": ["Daniel Dahlberg", "Jugoslav Ivanovic", "Espen Mariussen", "Bjørnar Hassel"],
+        "abstract": ["Brain abscesses frequently cause symptoms such as seizures, delirium, paresis and sensory deficits that could reflect brain edema, increased intracranial pressure, or tissue destruction. However, it is also possible that pus constituents could disturb neuronal function in the surrounding brain tissue. In pus from 16 human brain abscesses, extracell..."]
+      },
+      {
+        "title": "High extracellular concentration of excitatory amino acids glutamate and aspartate in human brain abscess",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Daniel Dahlberg", "Jugoslav Ivanovic", "Bjørnar Hassel"],
+        "abstract": ["Brain abscesses often cause symptoms of brain dysfunction, including seizures, suggesting interference with normal neurotransmission. We determined the concentration of extracellular neuroactive amino acids in brain abscesses from 16 human patients. Glutamate was present at 3.6 mmol/L (median value, range 0.5-10.8), aspartate at 1.0 mmol/L (range 0..."]
+      },
+      {
+        "title": "Volume and densities of chronic subdural haematoma obtained from CT imaging as predictors of postoperative recurrence: A prospective study of 107 operated patients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Milo Stanisic", "John K Hald", "Inge Andre Rasmussen", "Karl-Fredrik Lindegaard"],
+        "abstract": ["Background\nChronic subdural haematoma (CSDH) is a common entity in neurosurgery with a considerable postoperative recurrence rate. Computerised tomography (CT) scanning remains the most important diagnostic test for this disorder. The aim of this study was to characterise the relationship between the recurrence of CSDH after treatment with burr-hol..."]
+      },
+      {
+        "title": "Local and systemic pro-inflammatory and anti-inflammatory cytokine patterns in patients with chronic subdural hematoma: A prospective study",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["Milo Stanisic", "Ansgar Oddne Aasen", "Are Hugo Pripp", "Terje Sæhle"],
+        "abstract": ["Innate immune pro- and anti-inflammatory responses in patients with chronic subdural hematoma (CSDH) were investigated by measuring and comparing the systemic and subdural fluid levels of cytokines.\nCytokine values were analyzed in samples obtained during surgery of 56 adult patients who were operated on for unilateral CSDHs using a Multiplex antib..."]
+      },
+      {
+        "title": "Chemokines as markers of local inflammation and angiogenesis in patients with chronic subdural hematoma: A prospective study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Milo Stanisic", "Staale Petter Lyngstadaas", "Are Hugo Pripp", "Terje Sæhle"],
+        "abstract": ["The goal of this study was to investigate the chemokines CCL2, CXCL8, CXCL9 and CXCL10 as markers of the inflammatory responses in chronic subdural hematoma (CSDH).\nSamples of peripheral venous blood and CSDH fluid (obtained during surgery) in 76 adult patients were prospectively analyzed. Chemokine values were assessed by a Multiplex antibody bead..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Medicine"],
+    "bio": [],
+    "publications": [33],
+    "reads": [4973],
+    "citations": [462]
   }
 }

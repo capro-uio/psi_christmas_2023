@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1458-5199",
-    "name": "Silje Støle Brokke",
+    "orcid": ["0000-0002-1458-5199"],
+    "name": ["Silje Støle Brokke"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Silje Støle Brokke",
-    "id": "502023",
+    "name": ["Silje Støle Brokke"],
+    "id": ["502023"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -41,5 +41,40 @@
         "url": "https://api.cristin.no/v2/results/1867794"
       }
     ]
+  },
+  "rg": {
+    "id": "Silje-Broke",
+    "name": "Silje Støle Broke",
+    "img": "https://i1.rgstatic.net/ii/profile.image/976609079197696-1609853157201_Q128/Silje-Broke.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Suicide"],
+    "works": [
+      {
+        "title": "Impulsivity and aggression in suicide ideators and suicide attempters of high and low lethality",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Silje Støle Broke", "Nils Inge Landrø", "Vegard Øksendal Haaland"],
+        "abstract": "Background\nImpulsivity and aggression have been associated with all forms of suicidal behaviour and linked to theories of suicide capability. There is a need to clarify the role of impulsivity and aggression in the progression from suicidal thoughts to suicide attempts and suicide.\n\nMethod\nIn this naturalistic cross-sectional study, suicide ideator..."
+      },
+      {
+        "title": "The effect of sexual abuse and dissociation on suicide attempt",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Silje Støle Broke", "Thomas Bjerregaard Bertelsen", "Nils Inge Landrø", "Vegard Øksendal Haaland"],
+        "abstract": "Background\nSuicide attempt is the most predictive risk factor of suicide. Trauma – especially sexual abuse – is a risk factor for suicide attempt and suicide. A common reaction to sexual abuse is dissociation. Higher levels of dissociation are linked to self-harm, suicide ideation, and suicide attempt, but the role of dissociation in suicidal behav..."
+      },
+      {
+        "title": "Cognitive Control in Suicide Ideators and Suicide Attempters",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Silje Støle Broke", "Nils Inge Landrø", "Vegard Øksendal Haaland"],
+        "abstract": "There is a need to understand more of the risk factors involved in the process from suicide ideation to suicide attempt. Cognitive control processes may be important factors in assessing vulnerability to suicide. A version of the Stroop procedure, Delis–Kaplan Executive Function System (D-KEFS) Color–Word Interference Test (CWIT) and Behavior Ratin..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [3],
+    "reads": [610],
+    "citations": [30]
   }
 }

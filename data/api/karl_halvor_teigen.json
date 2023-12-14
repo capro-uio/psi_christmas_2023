@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-6165-9034",
-    "name": "Karl Halvor Teigen",
+    "orcid": ["0000-0001-6165-9034"],
+    "name": ["Karl Halvor Teigen"],
     "distinctions": [
       {
         "start": "2012",
@@ -45,11 +45,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Karl Halvor Teigen",
-    "id": "23922",
+    "name": ["Karl Halvor Teigen"],
+    "id": ["23922"],
     "keywords": ["Socialpsychology", "Evaluation", "History of Psychology", "Thinking", "Judgment and Decision-making", "Social cognition"],
     "position": ["Emeritus", null],
-    "img": "https://api.cristin.no/v2/persons/23922/picture",
+    "img": ["https://api.cristin.no/v2/persons/23922/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -675,5 +675,719 @@
         "url": "https://api.cristin.no/v2/results/1092169"
       }
     ]
+  },
+  "rg": {
+    "id": "Karl-Teigen",
+    "name": "Karl Halvor Teigen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1025901017985026-1621605271245_Q128/Karl-Teigen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cognitive Psychology", "Numeracy", "Social Psychology", "Decision Processes", "Organizational Decision Making"],
+    "works": [
+      {
+        "title": "When leaders disclose uncertainty: Effects of expressing internal and external uncertainty about a decision",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Erik Løhre", "Karl Halvor Teigen"],
+        "abstract": ["It is generally assumed that decision makers appear more competent and trustworthy when exuding confidence in their choices. However, many decisions are by their nature uncertain. Is it possible for a decision maker to admit uncertainty and still be trusted? We propose that the communicated type of uncertainty may matter. Internal uncertainty, whic..."]
+      },
+      {
+        "title": "Hvorfor tror retten på kriminelle informanter?",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Svein Magnussen", "Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "EXPRESS: People prefer to predict middle, most likely quantitative outcomes (not extreme ones), but they still over-estimate their likelihood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Marie Juanchich", "Miroslav Sirota", "Karl Halvor Teigen"],
+        "abstract": ["Past work showed a tendency to associate verbal probabilities (e.g., possible, unlikely) with extreme quantitative outcomes, and to over-estimate the outcomes’ probability of occurrence. In the first four experiments (Exp 1, Exps. 2a–c), we tested whether this “extremity effect” reflects a general preference for extreme (vs. central or less extreme..."]
+      },
+      {
+        "title": "Dimensions of uncertainty communication: What is conveyed by verbal terms and numeric ranges",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["The paper reviews two strands of research on communication of uncertainty that usually have been investigated separately: (1) Probabilities attached to specific outcomes, and (2) Range judgments. Probabilities are sometimes expressed by verbal phrases (“rain is likely”) and at other times in a numeric format (“70% chance of rain”), whereas range ju..."]
+      },
+      {
+        "title": "Combining verbal forecasts: The role of directionality and the reinforcement effect",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Karl Halvor Teigen", "Marie Juanchich", "Erik Løhre"],
+        "abstract": ["Recent research has shown that when people combine verbal probabilistic forecasts from two sources, they are not simply averaged but can reinforce each other; so when two advisors both said an event was “rather likely,” some listeners concluded that the event was “quite likely”. Conversely, when both said the event was “rather unlikely,” people con..."]
+      },
+      {
+        "title": "What is a “likely” amount? Representative (modal) values are considered likely even when their probabilities are low",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Karl Halvor Teigen", "Marie Juanchich", "Erik Løhre"],
+        "abstract": ["Research on verbal probabilities and standard scales issued by national and international authorities suggest that only events with probabilities above 60% should be labelled “likely”. We find, however, that when people apply this term to continuous variables, like expected costs, it describes the most likely (modal) outcome or interval, regardless..."]
+      },
+      {
+        "title": "Out of the blue: on the suddenness of perceived chance events",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Karl Halvor Teigen", "Alf Børre Kanten"],
+        "abstract": ["People commonly use terms like ‘random’, ‘by chance’, or ‘accidentally’ when they describe occurrences that sidestep the normal course of events, with no apparent causal link to ongoing activities. Such intrusive events are typically perceived as happening all of a sudden. This was demonstrated in seven experiments (N = 1299) by asking people to id..."]
+      },
+      {
+        "title": "Judgments by representativeness",
+        "tags": ["Chapter"],
+        "date": "Feb 2022",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "Are random events expected to be small?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Karl Halvor Teigen", "Alf Børre Kanten"],
+        "abstract": ["People’s intuitions about mathematical and statistical concepts often include features that are not a part of the formal definitions. We argue that randomness and related concepts (events happening “accidentally”, “coincidentally” or “by chance”) are typically assumed to occur in a context of small rather than large events. Five experiments were de..."]
+      },
+      {
+        "title": "“The Concept of Correlation in Adults” Comes of Age",
+        "tags": ["Chapter"],
+        "date": "Jul 2020",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["Jan Smedslund’s most cited publication is a landmark study of illusory correlations published in 1963. In two experiments, nurse students received decks of patient cards featuring the presence or absence of a specific disease along with the presence or absence of a specific symptom. Nearly all participants reported that the symptom was associated w..."]
+      },
+      {
+        "title": "Kognitive slagsider og snarveier i vurdering av bevis",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Svein Magnussen", "Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "Are random events perceived as rare? On the relationship between perceived randomness and outcome probability",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Karl Halvor Teigen", "Gideon Keren"],
+        "abstract": ["Many daily life events, from lotteries to coincidental encounters, occur partly or entirely randomly or “by chance.” Six experiments, in two different languages, explored how perceptions of randomness are related to the perceived probability of the same events—specifically, whether low-probability events were viewed as more random than similar even..."]
+      },
+      {
+        "title": "Entirely possible overruns: how people think and talk about probabilistic cost estimates",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Karl Halvor Teigen", "Bjørn Andersen", "Sigurd Lerkerød Alnes", "Jan-Ole Hesselberg"],
+        "abstract": ["Purpose\nThe purpose of this paper is to examine people’s understanding and evaluation of uncertainty intervals produced by experts as part of a quality assurance procedure of large public projects.\n\nDesign/methodology/approach\nThree samples of educated participants (employees in a large construction company, students attending courses in project ma..."]
+      },
+      {
+        "title": "Framing experts' (dis)agreements about uncertain environmental events",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Erik Løhre", "Agata Sobków", "Sigrid Møyner Hohle", "Karl Halvor Teigen"],
+        "abstract": ["Agreements and disagreements between expert statements influence lay people's beliefs. But few studies have examined what is perceived as a disagreement. We report six experiments where people rated agreement between pairs of probabilistic statements about environmental events, attributed to two different experts or to the same expert at two differ..."]
+      },
+      {
+        "title": "Climate Scientists’ Wide Prediction Intervals May Be More Likely but Are Perceived to Be Less Certain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Erik Løhre", "Marie Juanchich", "Miroslav Sirota", "Ted Shepherd"],
+        "abstract": ["The use of interval forecasts allows climate scientists to issue predictions with high levels of certainty even for areas fraught with uncertainty, since wide intervals are objectively more likely to capture the truth than narrow intervals. However, wide intervals are also less informative about what the outcome will be than narrow intervals, imply..."]
+      },
+      {
+        "title": "Counterfactual theory as an under-utilised analytical framework for studying precarious work experiences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Constantine Manolchev", "Karl Halvor Teigen"],
+        "abstract": ["Purpose\nThe purpose of this paper is to explore experiences and attitudes associated with “precarious work”, an umbrella term for insecure, casual, flexible, contingency, non-standard and zero-hour types of employment.\n\nDesign/methodology/approach\nThe investigation was carried-out through two studies. The “outside-in” view was represented by busine..."]
+      },
+      {
+        "title": "The boundary effect: Perceived post hoc accuracy of prediction intervals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Karl Halvor Teigen", "Erik Løhre", "Sigrid Møyner Hohle"],
+        "abstract": ["Predictions of\nmagnitudes (costs, durations, environmental events) are often given as\nuncertainty intervals (ranges). When are such forecasts judged to be correct?\nWe report results of four experiments showing that forecasted ranges of\nexpected natural events (floods and volcanic eruptions) are perceived as\naccurate when an observed magnitude falls..."]
+      },
+      {
+        "title": "The Unbearable Lightness of Finger Movements: Commentary to Doliński",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["In the target article, Doliński (2018, this issue) showed that empirical studies of “real” behaviour are an almost extinct species of research, judged from articles published in the most recent volume of JPSP (Journal of Personality and Social Psychology). This finding continues a trend identified by Baumeister and colleagues ten years ago. The rel..."]
+      },
+      {
+        "title": "When probabilities change: perceptions and implications of trends in uncertain climate forecasts",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Sigrid Møyner Hohle", "Karl Halvor Teigen"],
+        "abstract": ["Past research has revealed a trend effect when people are faced with a revised probabilistic forecast: A forecasted event that has become more (vs. less) certain is taken to signal a trend toward even stronger (weaker) certainty in future revisions of the forecast. The present paper expands this finding by exploring the boundary conditions of the t..."]
+      },
+      {
+        "title": "Textual health warning labels on snus (Swedish moist snuff): Do they affect risk perception?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Connie Villemo Nilsen", "Oddgeir Friborg", "Karl Halvor Teigen", "Frode Svartdal"],
+        "abstract": ["Background: \nTo strengthen the risk message on snus warning labels, the European Union in 2016 removed \"can\" from the warning \"This tobacco product (can) damages your health and is addictive.\" We tested how these and other textual warnings affect risk perception.\n\nMethods: \nSnus-using and non-using Norwegians aged 16-72 participated in two online s..."]
+      },
+      {
+        "title": "It Can Become 5 °C Warmer: The Extremity Effect in Climate Forecasts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Karl Halvor Teigen", "Petra Filkuková", "Sigrid Møyner Hohle"],
+        "abstract": ["Climate projections and other predictions are often described as outcomes that can happen, indicating possibilities that are imaginable, but uncertain. Whereas the meanings of other uncertainty terms have been extensively studied, the uses of modal verbs like can and will have rarely been examined. Participants in five experiments were shown graphs..."]
+      },
+      {
+        "title": "Better Safe than Sorry: Risking Irresponsibility by Seeking Uncertainty",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Gro Hege Haraldsen Nordbye", "Anine Riege", "Karl Halvor Teigen"],
+        "abstract": ["Research findings differ as to whether choosing a risky option is an efficient strategy for decision makers seeking to avoid responsibility for potential failures. A risky choice may leave the final outcome to chance factors, but the decision maker can still be held responsible for choosing risk. Further, it is unclear whether a risky choice is a r..."]
+      },
+      {
+        "title": "More than 50% or Less than 70% Chance: Pragmatic Implications of Single‐Bound Probability Estimates",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Sigrid Møyner Hohle", "Karl Halvor Teigen"],
+        "abstract": ["Probability estimates can be given as ranges or uncertainty intervals, where often only one of the interval bounds (lower or upper) is specified. For instance, a climate forecast can describe La Niña as having “more than 70% chance” or “less than 90% chance” of occurring. In three experiments, we studied how research participants perceived climate-..."]
+      },
+      {
+        "title": "Expressing (un)certainty in no uncertain terms: reply to Fox and Ülkümen",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Karl Halvor Teigen", "Erik Løhre"],
+        "abstract": ["Link to free eprints of the article (50 copies available):\n\nhttp://www.tandfonline.com/eprint/WHzNwpmhq2v6J297G63i/full"]
+      },
+      {
+        "title": "When do past events require explanation? Insights from social psychology",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Susanne Bruckmüller", "Peter Hegarty", "Karl Halvor Teigen", "Olivier Luminet"],
+        "abstract": ["Some past events incite more wonder about their causes than do others. For example, negative events require explanation more than positive events. We review social psychologists’ theoretical and empirical insights on what kinds of past events ‘beg explanation.’ We draw on attribution theory that became popular among psychologists from the 1960s onw..."]
+      },
+      {
+        "title": "Long live the King! Beginnings loom larger than endings of past and recurrent events",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Karl Halvor Teigen", "Gisela Böhm", "Susanne Bruckmüller", "Olivier Luminet"],
+        "abstract": ["Events are temporal ‘‘figures”, which can be defined as identifiable segments in time, bounded by beginnings and endings. But the functions and importance of these two boundaries differ. We argue that beginnings loom larger than endings by attracting more attention, being judged as more important and interesting, warranting more explanation, and ha..."]
+      },
+      {
+        "title": "Probabilities Associated with Precise and Vague Forecasts",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Erik Løhre", "Karl Halvor Teigen"],
+        "abstract": ["Forecasts of future outcomes, such as the consequences of climate change, are given with different degrees of precision. Logically, more precise forecasts (e.g., a temperature increase of 3–4°) have a smaller probability of capturing the actual outcome than less precise forecasts (e.g., a temperature increase of 2–6°). Nevertheless, people often tr..."]
+      },
+      {
+        "title": "Misforstått kritikk",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Svein Magnussen", "Dag Erik Eilertsen", "Ulf Stridbeck", "Ellen Wessel"],
+        "abstract": []
+      },
+      {
+        "title": "Urimelig tvil: Et tilsvar",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Svein Magnussen", "Dag Erik Eilertsen", "Karl Halvor Teigen", "Ellen Wessel"],
+        "abstract": []
+      },
+      {
+        "title": "A Magnitude Effect in Judgments of Subjective Closeness",
+        "tags": ["Article"],
+        "date": "Dec 2015",
+        "authors": ["Alf Børre Kanten", "Karl Halvor Teigen"],
+        "abstract": ["Events can be far away from or near an observer in several respects: they can be distant or close in a spatial, temporal, social, or hypothetical sense. They can also vary in magnitude, physically or in terms of impact and importance. We examine the existence of a general effect of perceived magnitude on judgments of subjective closeness. Studies 1..."]
+      },
+      {
+        "title": "Framing of Numerical Quantities",
+        "tags": ["Chapter"],
+        "date": "Dec 2015",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["Judgments and decisions are dependent upon the information available. They are also dependent upon the way the information is presented. Message characteristics that make recipients willing to endorse a message have been discussed within the rhetoric tradition and studied empirically in the psychology of persuasion, advertising, and health communic..."]
+      },
+      {
+        "title": "Everybody Will Win, and All Must Be Hired: Comparing Additivity Neglect with the Nonselective Superiority Bias",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Anine Riege", "Karl Halvor Teigen"],
+        "abstract": ["Two streams of research looking at referent-dependent judgments from slightly different angles are subadditivity research and research on the nonselective superiority bias. Both biases violate basic formal constraints: the probabilities of a set of exclusive events cannot add up to more than 100%, and a set of attractive candidates cannot all be ra..."]
+      },
+      {
+        "title": "Forecasting forecasts: The trend effect",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Sigrid Møyner Hohle", "Karl Halvor Teigen"],
+        "abstract": ["People often make predictions about the future based on trends they have observed in the past. Revised probabilistic forecasts can be perceived by the public as indicative of such a trend. In five studies, we describe experts who make probabilistic forecasts of various natural events (effects of climate changes, landslide and earthquake risks) at t..."]
+      },
+      {
+        "title": "There is a 60% probability, but I am 70% certain: communicative consequences of external and internal expressions of uncertainty",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Erik Løhre", "Karl Halvor Teigen"],
+        "abstract": ["Current theories of probability recognise a distinction between external (un)certainty (frequentistic probabilities) and internal (un)certainty (degrees of belief). The present studies investigated this distinction in lay people's judgements of probability statements formulated to suggest either an internal (“I am X% certain”) or an external (“It i..."]
+      },
+      {
+        "title": "«Utover rimelig tvil»? - En kvantitativ studie av sikkerhet i bevisvurdering i straffesaker hos norske fagdommere og lekdommere",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Svein Magnussen", "Dag Erik Eilertsen", "Karl Halvor Teigen", "Ellen Wessel"],
+        "abstract": []
+      },
+      {
+        "title": "Responsibility judgments of wins and losses in the 2013 chess championship",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Gro Hege Haraldsen Nordbye", "Karl Halvor Teigen"],
+        "abstract": ["We report two studies on the perceived responsibility of opponents competing for a goal that can be attained by only one of them. Responsibility judgments were collected in seven samples of lay people and experts before, during, and after the World Chess Championship in 2013. Participants assessed the responsibility of the two players, their suppor..."]
+      },
+      {
+        "title": "PSYCHOLOGY When very likely is not so likely",
+        "tags": ["Article"],
+        "date": "Jun 2014",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "Format dependent probabilities: An eye-tracking analysis of additivity neglect",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Anine Riege", "Unni Sulutvedt", "Karl Halvor Teigen"],
+        "abstract": ["When people are asked to estimate the probabilities of uncertain events, they often neglect the additivity principle, which requires that the probabilities assigned to an exhaustive set of outcomes should add up to 100%. Previous studies indicate that additivity neglect is dependent on response format, self-generated probability estimates being mor..."]
+      },
+      {
+        "title": "The Probability of Guilt in Criminal Cases: Are People Aware of Being ‘Beyond Reasonable Doubt’?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Svein Magnussen", "Dag Erik Eilertsen", "Karl Halvor Teigen", "Ellen Wessel"],
+        "abstract": ["Data from a series of studies presenting video recorded witness statements to laypersons and legal professionals were examined to trace the relationship between judged probability of guilt and the willingness to vote guilty or not guilty in hypothetical trials, in the absence of specific jury instructions. The results show that a majority of jury-e..."]
+      },
+      {
+        "title": "Being responsible versus acting responsibly: Effects of agency and risk taking on responsibility judgments",
+        "tags": ["Article"],
+        "date": "Mar 2014",
+        "authors": ["Gro Hege Haraldsen Nordbye", "Karl Halvor Teigen"],
+        "abstract": ["In three experimental studies, with managers and students as participants, we explore in this paper the relation between two kinds of responsibility judgments, called Responsibility 1 (R1) and Responsibility 2 (R2). Decision makers can be viewed as being more or less responsible for their choice and its consequences (R1). Their actions can also be..."]
+      },
+      {
+        "title": "How fast can you (possibly) do it, or how long will it (certainly) take? Communicating uncertain estimates of performance time",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Erik Løhre", "Karl Halvor Teigen"],
+        "abstract": ["Recent research on verbal probability statements has revealed that some expressions (e.g., possible) are especially appropriate for describing outcomes in the high end of a distribution, whereas other expressions (e.g., certain) are more appropriate for describing low-end values. However, some dimensions appear to be reversible, with higher achieve..."]
+      },
+      {
+        "title": "Corrigendum to “Additivity neglect in probability estimates: Effects of numeracy and response format” [Organizational Behavior and Human Decision Processes 121 (2013) 41–52]",
+        "tags": ["Article"],
+        "date": "Jul 2013",
+        "authors": ["Anine Riege", "Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "Verbal Probabilities: An Alternative Approach",
+        "tags": ["Article"],
+        "date": "May 2013",
+        "authors": ["Karl Halvor Teigen", "Marie Juanchich", "Petra Filkuková"],
+        "abstract": ["Previous studies of verbal probabilities have tried to place expressions like a chance, possible, and certain on 0-1 numerical probability scales. We ask instead, out of a range of outcomes, which outcome a verbal probability suggests. When, for instance, a sample of laptop batteries lasts from 1.5 to 3.5 hours, what is a certain and what is a poss..."]
+      },
+      {
+        "title": "Top scores are possible, bottom scores are certain (and middle scores are not worth mentioning): A pragmatic view of verbal probabilities",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Marie Juanchich", "Karl Halvor Teigen", "Amélie Gourdon-Kanhukamwe"],
+        "abstract": ["In most previous studies of verbal probabilities, participants are asked to translate expressions such as possible and not certain into numeric probability values. This probabilistic translation approach can be contrasted with a novel which-outcome (WO) approach that focuses on the outcomes that people naturally associate with probability terms. Th..."]
+      },
+      {
+        "title": "Additivity neglect in probability estimates: Effects of numeracy and response format",
+        "tags": ["Article"],
+        "date": "May 2013",
+        "authors": ["Anine Riege", "Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "Improbable outcomes: Infrequent or extraordinary?",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Karl Halvor Teigen", "Marie Juanchich", "Anine Riege"],
+        "abstract": ["Research on verbal probabilities has shown that unlikely or improbable events are believed to correspond to numerical probability values between 10% and 30%. However, building on a pragmatic approach of verbal probabilities and a new methodology, the present paper shows that unlikely outcomes are most often associated with outcomes that have a 0% f..."]
+      },
+      {
+        "title": "Revisions and Regret: The Cost of Changing your Mind",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Geir Kirkebøen", "Erik Vasaasen", "Karl Halvor Teigen"],
+        "abstract": ["Decision reversals often imply improved decisions. Yet, people show a strong resistance against changing their minds. These are well-established findings, which suggest that changed decisions carry a subjective cost, perhaps by being more strongly regretted. Three studies were conducted to explore participants' regret when making reversible decisio..."]
+      },
+      {
+        "title": "Can > Will: Predictions of What Can Happen are Extreme, but Believed to be Probable",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Karl Halvor Teigen", "Petra Filkuková"],
+        "abstract": ["Predictions of uncertain events are often described in terms of what can or what will happen. How are such statements used by speakers, and what are they perceived to mean? Participants in four experiments were presented with distributions of variable product characteristics and were asked to generate natural, meaningful sentences containing either..."]
+      },
+      {
+        "title": "Interpretations of Can and Will in Consumer Communication about Risks and Benefits",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Petra Filkuková", "Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "Desire for control and optimistic time predictions",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Torleif Halkjelsvik", "Maren Rognaldsen", "Karl Halvor Teigen"],
+        "abstract": ["Halkjelsvik, T., Rognaldsen, M. & Teigen, K. H. (2012). Desire for control and optimistic time predictions. Scandinavian Journal of Psychology 53, 499–505.\nFew studies have investigated individual differences in time predictions. We report two experiments that show an interaction between the personality trait Desirability of Control and reward cond..."]
+      },
+      {
+        "title": "“It Could have been Much Worse”: From Travelers' Accounts of Two Natural Disasters",
+        "tags": ["Article"],
+        "date": "Oct 2011",
+        "authors": ["Karl Halvor Teigen", "Kristin Alve Glad"],
+        "abstract": ["Studies of people involved in accidents and disasters have usually focused on traumatic effects. In contrast this paper summarizes two studies of travelers exposed to the effects of natural disasters where luck is a pivotal theme. Participants in the first study were 85 Norwegian tourists, interviewed after their return from the Tsunami disaster in..."]
+      },
+      {
+        "title": "Pre-outcome Regret: Widespread and Overlooked",
+        "tags": ["Article"],
+        "date": "Jul 2011",
+        "authors": ["Geir Kirkebøen", "Karl Halvor Teigen"],
+        "abstract": ["Many real-life decisions (e.g. promises, plans and agreements) involve a time interval between when the decision is made and the main outcome is revealed. Nearly all regret studies focus on anticipated or experienced post-outcome regret. We argue that regret is also frequently experienced in the pre-outcome period, and that this ‘pre-outcome regret..."]
+      },
+      {
+        "title": "Old truths or fresh insights? A study of students' evaluations of proverbs",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["Proverbs are often criticized for being contradictory and hence not necessarily true. The study examines two sets of contradictory proverbs: one concerned the values or disadvantages of novelty and change; in the other, contradictory pairs were arbitrarily produced through reversals (negations) of a variety of genuine proverbs. Both sets were evalu..."]
+      },
+      {
+        "title": "To Read Two Pages, I Need 5 Minutes, but Give Me 5 Minutes and I will Read Four: How to Change Productivity Estimates by Inverting the Question",
+        "tags": ["Article"],
+        "date": "Mar 2011",
+        "authors": ["Torleif Halkjelsvik", "Magne Jørgensen", "Karl Halvor Teigen"],
+        "abstract": ["Past research has shown that people underestimate the time they need to complete large tasks, whereas completion times for smaller tasks are often overestimated, suggesting higher productivity estimates for larger than for smaller tasks. By replacing the traditional question about how much time a given work will take with a question about how much..."]
+      },
+      {
+        "title": "Going to the other extreme: Counterfactual thinking leads to polarised judgements",
+        "tags": ["Article"],
+        "date": "Feb 2011",
+        "authors": ["Karl Halvor Teigen", "Alf Børre Kanten", "Jens Andreas Terum"],
+        "abstract": ["Counterfactual thinking is often assumed to depend on closeness between what is and what might have been, following a principle of minimal mutations of reality. Yet when people are asked to describe autobiographical incidents that “might” have been different, they typically report situations that could have had opposite rather than just different o..."]
+      },
+      {
+        "title": "Responsibility is Divisible by Two, But Not by Three or Four: Judgments of Responsibility in Dyads and Groups",
+        "tags": ["Article"],
+        "date": "Feb 2011",
+        "authors": ["Karl Halvor Teigen", "Wibecke Brun"],
+        "abstract": ["When two individuals are doing a joint task, most people seem to think that the responsibility should be divided proportionally between them in a complementary fashion, so that an increase in one actor's responsibility leads to a corresponding decrease in the responsibility of the second actor. However, with three or four actors, the individual res..."]
+      },
+      {
+        "title": "Unlucky Victims or Lucky Survivors?: Spontaneous Counterfactual Thinking by Families Exposed to the Tsunami Disaster",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2010",
+        "authors": ["Karl Halvor Teigen", "Tine K. Jensen"],
+        "abstract": ["Subjective experiences of good or bad luck appear to depend upon downward or upward comparisons with close counterfactuals. People exposed to disasters have both options: They were at the wrong place at the wrong time, but their fate could in many cases have been worse; so in a sense, they are unlucky victims, but lucky survivors. Interviews with 8..."]
+      },
+      {
+        "title": "Is guilt ‘likely’ or ‘not certain’?",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Marie Juanchich", "Karl Halvor Teigen", "Gaelle Vallee-Tourangeau"],
+        "abstract": ["This research focuses on what determines speakers' choice of positive and negative probability phrases (e.g., \"a chance\" vs. \"not certain\") in a legal context. We argue that choice of phrase to describe an event's probability of occurrence can be determined by the contrast between its current p value and an earlier p value, and not by that current..."]
+      },
+      {
+        "title": "Are lies more wrong than errors? Accuracy judgments of inaccurate statements",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Karl Halvor Teigen", "Petra Filkuková"],
+        "abstract": ["Teigen, K.H. & Filkuková, P. (2011). Are lies more wrong than errors? Accuracy judgments of inaccurate statements. Scandinavian Journal of Psychology 52, 8–20.\nPeople are often mistaken when estimating and predicting quantities, and sometimes they report values that they know are false: they lie. There exists, however, little research devoted to ho..."]
+      },
+      {
+        "title": "When are successes more surprising than failures?",
+        "tags": ["Article"],
+        "date": "Sep 2010",
+        "authors": ["Karl Halvor Teigen", "Gideon Keren"],
+        "abstract": ["Surprise has been described in various contexts as a neutral, a positive, or a negative emotion. Six experiments are reported in which surprise ratings of unexpected positive and negative outcomes, with identical prior probabilities, were compared. For unexpected occurrences of events that are beyond the control of the protagonist, successes were c..."]
+      },
+      {
+        "title": "Progress framing and sunk costs: How managers’ statements about project progress reveal their investment intentions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2010",
+        "authors": ["Knut Ivar Karevold", "Karl Halvor Teigen"],
+        "abstract": ["This study explores how managers’ framing of project progress can reveal investment intentions. In three experiments managers were asked to evaluate hypothetical progress statements related to a failing project. Experiment 1 showed that past-oriented statements, describing the amount of work done and amount of budget and time spent (75%), were perc..."]
+      },
+      {
+        "title": "Decision by coin toss: Inappropriate but fair",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Gideon Keren", "Karl Halvor Teigen"],
+        "abstract": ["In many situations of indeterminacy, where people agree that no decisive arguments favor one alternative to another, they are still strongly opposed to resolving the dilemma by a coin toss. The robustness of this judgment-decision discrepancy is demonstrated in several experiments, where factors like the importance of consequences, similarity of al..."]
+      },
+      {
+        "title": "Framing of Imprecise Quantities: When Are Lower Interval Bounds Preferred to Upper Bounds?",
+        "tags": ["Article"],
+        "date": "Dec 2009",
+        "authors": ["Anne‐Marie Halberg", "Karl Halvor Teigen"],
+        "abstract": ["Imprecisely known quantities (e.g., predictions) are often described in approximate terms as “more than X” or “less than Y” (e.g., “Ann will earn more than $50 000” or “less than $60 000”). Such phrases carry both quantitative and qualitative (pragmatic) information. Three studies are reported showing that lower limit estimates (more than, over, mi..."]
+      },
+      {
+        "title": "Maximum vs. minimum values: Preferences of speakers and listeners for upper and lower limit estimates",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["Anne-Marie Halberg", "Karl Halvor Teigen", "Knut Inge Fostervold"],
+        "abstract": ["Estimates about uncertain quantities can be expressed in terms of lower limits (more than X, minimum X), or upper limits (less than Y, maximum Y). It has been shown that lower limit statements generally occur much more often than upper limit statements (Halberg & Teigen, 2009). However, in a conversational context, preferences for upper and lower l..."]
+      },
+      {
+        "title": "Incorrect estimates and false reports: How framing modifies truth",
+        "tags": ["Article"],
+        "date": "Aug 2009",
+        "authors": ["Karl Halvor Teigen", "Mija Ilic Nikolaisen"],
+        "abstract": ["Nearly all framing studies to date presuppose unbiased estimates. If an expert says that “programme A will save 200 people”, it is tacitly assumed that this prediction is correct. In real life this is rarely the case. In the present study people were asked to evaluate such claims that eventually turned out to be incorrect. Participants in five expe..."]
+      },
+      {
+        "title": "Verbal probability choice, a story of contrast?",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Marie Juanchich", "Karl Halvor Teigen", "Gaelle Vallee-Tourangeau"],
+        "abstract": []
+      },
+      {
+        "title": "More Than X is a Lot: Pragmatic Implicatures of One-Sided Uncertainty Intervals",
+        "tags": ["Article"],
+        "date": "Aug 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["Approximate estimates of prices, grades, temperatures, sales figures, and other uncertain target amounts (T) can be expressed as uncertainty intervals. In daily life, often only one interval limit (lower or upper) is suggested. Such estimates contain both quantitative and pragmatic (qualitative) information. Limit values function as reference point..."]
+      },
+      {
+        "title": "Intrinsic interest and the novelty‐familiarity interaction",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["According to the interaction hypothesis of interest, the inherent interestingness of a communication or a situation will be maximal when novel and familiar elements are simultaneously present. This is illustrated in three experimental demonstrations, where students were to indicate their interest (a) in book titles (more and less well-known authors..."]
+      },
+      {
+        "title": "Subjective Sampling Distributions and the Additivity of Estimates",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["— Previous studies of sampling distributions have been conducted almost exclusively under the assumption that persons behave in accordance with the “fundamental convention” of probability, i.e. that the sum of all probability estimates will equal 1. When this assumption was tested by asking subjects to give “unrestricted” probability estimates of a..."]
+      },
+      {
+        "title": "Overestimation of Subjective probabilities",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["— When asked to estimate the probability of outcomes of draws from a binomial population, student subjects tend to report p values that clearly exceed the objective ones. The probability of specific binomial sequences was found to be even more overestimated, while the answers became much more conservative when the outcomes were grouped into a few c..."]
+      },
+      {
+        "title": "Studies in subjective probability I: Prediction of random events",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["When students are asked to predict the outcome of a random event, where all alternatives are equally probable (lotteries), they tend to choose central, “representative” values, and avoid extreme ones. In ten informal experiments, it is shown how this pattern of choices is influenced by various procedural and structural changes in the basic task. Th..."]
+      },
+      {
+        "title": "Preference for news as a function of familiarity",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["The study was designed to test the hypothesis that interest in information reaches a maximum when something novel is predicted about a well-known subject. The hypothesis predicts that news will be considered more attractive the more familiar its source or theme. This was confirmed in two experiments, where Norwegian and British students were asked..."]
+      },
+      {
+        "title": "Studies in subjective probability II: Dilemmas of chance",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["The study examines guessing patterns in situations where outcomes have an unequal probability of occurring. It is shown that people will not always predict the most probable outcome if this is an extreme, “unrepresentative” value (Experiments I and II). It is also demonstrated that predictions are influenced by which questions are asked (for instan..."]
+      },
+      {
+        "title": "Studies in subjective probability III: The unimportance of alternatives",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["In four experiments, student subjects were asked to estimate probabilities for a list of two to ten exhaustive, non-chance events, covering a variety of situations, both of prediction and diagnosis. Only in the two-alternative case a majority gave estimates which add up to unity (or 100%). As the number of alternatives increased, the total probabil..."]
+      },
+      {
+        "title": "Better than average and better with time: Relative evaluations of self and others in the past, present, and future",
+        "tags": ["Article"],
+        "date": "Mar 2008",
+        "authors": ["Alf Børre Kanten", "Karl Halvor Teigen"],
+        "abstract": ["Evaluations of self and others in the past, present, and future were examined by asking 385 students to rate themselves or an acquaintance relative to their peers on a number of personality traits. We predicted, and found, evidence for self-enhancement, as most participants regarded themselves superior to ‘most others’ at all points in time. We als..."]
+      },
+      {
+        "title": "Is a sigh \"just a sigh\"? Sighs as emotional signals and responses to a difficult task",
+        "tags": ["Article"],
+        "date": "Mar 2008",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["Sighing and the interpretation of sighs in everyday life seem never to have been the subject of psychological research. A questionnaire study of sighing showed that people associate sighing mainly with negative, low-intensity and deactivated emotional states. A second study investigated self/other differences in the interpretation of sighs in four..."]
+      },
+      {
+        "title": "Yet Another Look at the Heuristics and Biases Approach",
+        "tags": ["Chapter"],
+        "date": "Jan 2008",
+        "authors": ["Gideon Keren", "Karl Halvor Teigen"],
+        "abstract": ["This chapter contains section titled:"]
+      },
+      {
+        "title": "Waiting for the bus: When base-rates refuse to be neglected",
+        "tags": ["Article"],
+        "date": "Jun 2007",
+        "authors": ["Karl Halvor Teigen", "Gideon Keren"],
+        "abstract": ["The paper reports the results from 16 versions of a simple probability estimation task, where probability estimates derived from base-rate information have to be modified by case knowledge. In the bus problem [adapted from Falk, R., Lipson, A., & Konold, C. (1994). The ups and downs of the hope function in a fruitless search. In G. Wright & P. Ayto..."]
+      },
+      {
+        "title": "Single-limit estimates as reference points",
+        "tags": ["Article"],
+        "date": "Apr 2007",
+        "authors": ["Karl Halvor Teigen", "Anne-Marie Halberg", "Knut Inge Fostervold"],
+        "abstract": ["People often describe uncertain quantities by suggesting a lower or upper limit of an uncertainty interval, rather than the complete range. Five studies are reported, which demonstrate how interval limits function as provisional reference points (PRP), conferring evaluative meanings to the target objects, by suggesting downward or upward comparison..."]
+      },
+      {
+        "title": "More than, less than, or minimum, maximum: How upper and lower bounds determine subjective interval estimates",
+        "tags": ["Article"],
+        "date": "Apr 2007",
+        "authors": ["Karl Halvor Teigen", "Anne-Marie Halberg", "Knut Inge Fostervold"],
+        "abstract": ["Uncertain quantities can be described by single-point estimates of lower interval bounds (X1), upper interval bounds (X2), two-bound estimates (separate estimates of X1 and X2), and by ranges (X1−X2). A price estimation task showed that single-bound estimates phrased as “T costs more than X1” and “T costs less than X2,” yielded much larger interval..."]
+      },
+      {
+        "title": "The proximity heuristic in judgments of accident probabilities",
+        "tags": ["Article"],
+        "date": "Dec 2005",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["In daily life, probabilities are often assessed informally through the perceived distance to a target event. Accident probabilities are believed to be high when a disastrous outcome appears to be close. This proximity heuristic can lead to exaggerated p(death) estimates in risky situations (Experiment 2), and sometimes higher probabilities for deat..."]
+      },
+      {
+        "title": "Looking back versus looking ahead: Framing of time and work at different stages of a project",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2005",
+        "authors": ["Karl Halvor Teigen", "Knut Ivar Karevold"],
+        "abstract": ["Progress on a well-defined project can be described along a task dimension in terms of amount done, or as amount of work still to be completed. Time-limited projects can also be described on a temporal dimension in terms of time spent versus time left. Five experiments are reported showing that such frames have predictable implications for speakers..."]
+      },
+      {
+        "title": "On hypothetical thinking: lessons from logic and from the lab. IF. Jonathan St. B. T. Evans and David E. Over",
+        "tags": ["Article"],
+        "date": "Jul 2005",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "When 90% confidence intervals are 50% certain: On the credibility of credible intervals",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2005",
+        "authors": ["Karl Halvor Teigen", "Magne Jørgensen"],
+        "abstract": ["Estimated confidence intervals for general knowledge items are usually too narrow. We report five experiments showing that people have much less confidence in these intervals than dictated by the assigned level of confidence. For instance, 90% intervals can be associated with an estimated confidence of 50% or less (and still lower hit rates). Moreo..."]
+      },
+      {
+        "title": "Giver–receiver asymmetries in gift preferences",
+        "tags": ["Article"],
+        "date": "Apr 2005",
+        "authors": ["Karl Halvor Teigen", "Marina V G Olsen", "Odd Egil Solås"],
+        "abstract": ["When people are asked to choose between gift items, givers and receivers sometimes show different patterns of preferences. The article reports four experimental studies exploring these giver-receiver asymmetries. Whereas givers tend to prefer exclusive, but smaller gift items, receivers appear to prefer less luxurious, and more useful gifts (Experi..."]
+      },
+      {
+        "title": "Verbal Expressions of Uncertainty and Probability",
+        "tags": ["Article"],
+        "date": "Jan 2005",
+        "authors": ["Karl Halvor Teigen", "Wibecke Brun"],
+        "abstract": ["Can Verbal Probabilities be Translated into Numbers?Can Vagueness be Quantitatively Represented?Do Words Represent the Same Probabilities As Numbers?Two Kinds of Verbal Probability ExpressionsWhen Are Positive and Negative Phrases Chosen?Consequences of Choice of TermsNumeric Probabilities RevisitedConclusion\nReferences"]
+      },
+      {
+        "title": "The proximity heuristic in judgments of accident probabilities",
+        "tags": ["Article"],
+        "date": "Jan 2005",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "When a small difference makes a big difference: Counterfactual thinking and luck",
+        "tags": ["Article"],
+        "date": "Jan 2005",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "When the past becomes history: Effects of temporal order on explanations of trends",
+        "tags": ["Article"],
+        "date": "Mar 2004",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["When people are asked to ‘explain’ a time series consisting of population statistics, they will suggest factors responsible for later events rather than for earlier events. This is shown in Experiment 1 for pairs of events and in Experiment 2 for triads of events with one deviant member. When the deviant statistic is the most recent one, it will in..."]
+      },
+      {
+        "title": "Better sure than safe? Overconfidence in judgment based software development effort prediction intervals",
+        "tags": ["Article"],
+        "date": "Feb 2004",
+        "authors": ["Magne Jørgensen", "Karl Halvor Teigen", "Kjetil Moløkken-Østvold"],
+        "abstract": ["The uncertainty of a software development effort estimate can be indicated through a prediction interval (PI), i.e., the estimated minimum and maximum effort corresponding to a specific confidence level. For example, a project manager may be “90% confident” or believe that is it “very likely” that the effort required to complete a project will be b..."]
+      },
+      {
+        "title": "Surprises: Low Probabilities or High Contrasts?",
+        "tags": ["Article"],
+        "date": "Apr 2003",
+        "authors": ["Karl Halvor Teigen", "Gideon Keren"],
+        "abstract": ["Outcome expectations can be expressed prospectively in terms of probability estimates, and retrospectively in terms of surprise. Surprise ratings and probability estimates differ, however, in some important ways. Surprises are generally created by low-probability outcomes, yet, as shown by several experiments, not all low-probability outcomes are e..."]
+      },
+      {
+        "title": "Verbal Probabilities: A Question of Frame?",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Karl Halvor Teigen", "Wibecke Brun"],
+        "abstract": ["Verbal expressions of probability and uncertainty are of two kinds: positive (‘probable’, ‘possible’) and negative (‘not certain’, ‘doubtful’). Choice of term has implications for predictions and decisions. The present studies show that positive phrases are rated to be more optimistic (when the target outcome is positive), and more correct, when th..."]
+      },
+      {
+        "title": "One Hundred Years of Laws in Psychology",
+        "tags": ["Article"],
+        "date": "Feb 2002",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["Mainstream psychology in the 20th century has been conceived as a nomothetic science, but few psychological \"laws\" have been proposed. A PsycLit search of journal abstracts from 1900 to 1999 yielded a total of 3,093 \"law\" citations, or 22 per 10,000 entries, with two psychophysical laws (Weber's law and Stevens's power law) and two learning laws (H..."]
+      },
+      {
+        "title": "Two fuzzy themes in a clear message",
+        "tags": ["Article"],
+        "date": "Dec 2001",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "The probability-outcome correspondence principle: A dispositional view of the interpretation of probability statements",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2001",
+        "authors": ["Gideon Keren", "Karl Halvor Teigen"],
+        "abstract": ["This article presents a framework for lay people's internal representations of probabilities, which supposedly reflect the strength of underlying dispositions, or propensities, associated with the predicted event. From this framework, we derive the probability-outcome correspondence principle, which asserts that strong dispositions should lead to (..."]
+      },
+      {
+        "title": "Why is p = .90 better than p = .70? Preference for definitive predictions by lay consumers of probability judgments",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2001",
+        "authors": ["Gideon Keren", "Karl Halvor Teigen"],
+        "abstract": ["What do people regard as an informative and valuable probability statement? This article reports four experiments that show participants to have a clear preference for more extreme and higher probabilities over less extreme and lower ones. This pattern emerged in Experiment 1, in which no context was provided, and was further explored in Experiment..."]
+      },
+      {
+        "title": "When Equal Chances = Good Chances: Verbal Probabilities and the Equiprobability Effect",
+        "tags": ["Article"],
+        "date": "May 2001",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["When six equally qualified candidates compete for the same position, p = 1/6 for each. People seem to accept this principle more readily for numerical than for verbal probabilities. Equal chances with three to six alternatives are often verbally described in a positive vein as \"entirely possible\" or \"a good chance\" and rarely negatively as \"doubtfu..."]
+      },
+      {
+        "title": "Simple Heuristics That Make Us Impressed",
+        "tags": ["Article"],
+        "date": "Mar 2001",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "When is p=.9 preferred to p=.70 ? A dispositional-potency approach to lay interpretations of probability statements",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["GB Keren", "Karl Halvor Teigen"],
+        "abstract": []
+      },
+      {
+        "title": "Intuitive versus analytic abilities: The case of words versus numbers",
+        "tags": ["Article"],
+        "date": "Oct 2000",
+        "authors": ["Karl Halvor Teigen"],
+        "abstract": ["The distinction between abstract (rule-based) and contextual (intuitive) thinking is illustrated by studies of numeric versus linguistic expressions of probability. Verbal probabilities are believed to reflect intuitions that can be adaptive and occasionally normative (e.g., counteracting conjunction errors). Stanovich & West's interpretation of an..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [149],
+    "reads": [69428],
+    "citations": [3955]
   }
 }

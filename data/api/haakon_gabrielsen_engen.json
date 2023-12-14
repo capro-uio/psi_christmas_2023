@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Haakon Engen",
-    "id": "CRNRu9wAAAAJ",
-    "affiliation": "MRC Cognition and Brain Sciences Unit, Cambridge",
+    "name": ["Haakon Engen"],
+    "id": ["CRNRu9wAAAAJ"],
+    "affiliation": ["MRC Cognition and Brain Sciences Unit, Cambridge"],
     "data": {
       "publications": [
         {
@@ -707,8 +707,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-7388-3575",
-    "name": "Haakon Engen",
+    "orcid": ["0000-0002-7388-3575"],
+    "name": ["Haakon Engen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -719,8 +719,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Haakon Gabrielsen Engen",
-    "id": "8646",
+    "name": ["Haakon Gabrielsen Engen"],
+    "id": ["8646"],
     "keywords": [],
     "position": ["Researcher"],
     "img": {},
@@ -848,5 +848,15 @@
         "url": "https://api.cristin.no/v2/results/1927330"
       }
     ]
+  },
+  "rg": {
+    "id": "Carl_Haakon",
+    "name": "Carl Haakon",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Copenhagen Business School, Department of Finance",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

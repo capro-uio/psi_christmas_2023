@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Gunn Karin Holt",
-    "id": "19494",
+    "name": ["Gunn Karin Holt"],
+    "id": ["19494"],
     "keywords": [],
     "position": ["University lecturer", null],
     "img": {},
@@ -43,5 +43,26 @@
         "url": "https://api.cristin.no/v2/results/1883322"
       }
     ]
+  },
+  "rg": {
+    "id": "Karin-Holt",
+    "name": "Karin Holt",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Well Rooted Healing, Clinical Leadership Development",
+    "keywords": ["Professional Development", "Collaborative Learning", "Teaching and Learning", "Pedagogy and Education"],
+    "works": [
+      {
+        "title": "Video assisted thoracic surgery (VATS): An inside view of the nursing management.",
+        "tags": ["Article"],
+        "date": "Mar 2005",
+        "authors": ["Karin Holt", "G Szymanski"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "read": [1],
+    "citations": [0]
   }
 }

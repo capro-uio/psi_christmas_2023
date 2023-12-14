@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-9050-7021",
-    "name": "Solveig L. Hauger",
+    "orcid": ["0000-0001-9050-7021"],
+    "name": ["Solveig L. Hauger"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Solveig Lægreid Hauger",
-    "id": "538045",
+    "name": ["Solveig Lægreid Hauger"],
+    "id": ["538045"],
     "keywords": ["Neuropsychology", "Rehabilitation", "Brain damages", "Event-related potentials, ERP", "TBI rehabilitation"],
     "position": ["Associate professor", "Research fellow"],
-    "img": "https://api.cristin.no/v2/persons/538045/picture",
+    "img": ["https://api.cristin.no/v2/persons/538045/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -180,5 +180,145 @@
         "url": "https://api.cristin.no/v2/results/1105654"
       }
     ]
+  },
+  "rg": {
+    "id": "Solveig-Hauger",
+    "name": "Solveig Lægreid Hauger",
+    "img": "https://i1.rgstatic.net/ii/profile.image/305085005926404-1449749341082_Q128/Solveig-Hauger.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Traumatic Brain Injury", "Brain Injury", "Acquired Brain Injury", "Rehabilitation", "Cognitive Rehabilitation", "Rehabilitation Psychology", "Electrodiagnosis", "Neurorehabilitation", "Neuropsychology", "Rehabilitation Medicine"],
+    "works": [
+      {
+        "title": "Participation in the Chronic Phase after Traumatic Brain Injury: Variations and Key Predictors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Solveig Lægreid Hauger", "Ida Maria Henriksen Borgen", "Marit Vindal Forslund", "Silje Christine Reistad Fure"],
+        "abstract": ["Participation is of major importance for individuals with traumatic brain injury (TBI). This study evaluates participation over a period of one year among persons with TBI in the chronic phase and explores sociodemographic, psychological, and environmental predictors of levels and trajectories of participation. One hundred and twenty home-living su..."]
+      },
+      {
+        "title": "Effect of an Individually Tailored and Home-Based Intervention in the Chronic Phase of Traumatic Brain Injury A Randomized Clinical Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Ida Maria Henriksen Borgen", "Marianne Løvstad", "Solveig Lægreid Hauger", "Cecilie Røe"],
+        "abstract": ["Importance: \nTraumatic brain injury (TBI) can cause long-lasting and heterogeneous difficulties that require an individually tailored approach to rehabilitation. However, high-quality studies of treatment options in the chronic phase of TBI are lacking.\n\nObjective: \nTo evaluate the effect of a home-based, individualized, and goal-oriented rehabilit..."]
+      },
+      {
+        "title": "Effects of a Goal-Oriented and Home-Based Intervention in the Chronic Phase of Traumatic Brain Injury",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Ida M. Borgen", "Marianne Løvstad", "Solveig Lægreid Hauger", "Cecil"],
+        "abstract": ["Research Objectives\nTo evaluate the efficacy of a goal-oriented and home-based rehabilitation intervention in the chronic phase of traumatic brain injury (TBI). As the expected sequelae after TBI are highly heterogeneous, there is a need to tailor rehabilitation interventions to meet the specific need of each patient.\n\nDesign\nParallel two-group ran..."]
+      },
+      {
+        "title": "Feasibility and Acceptability of a Complex Telerehabilitation Intervention for Pediatric Acquired Brain Injury: The Child in Context Intervention (CICI)",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Ingvil Laberg Holthe", "Nina Rohrer-Baumgartner", "Edel Jannecke Svendsen", "Marianne Løvstad"],
+        "abstract": ["The current study is a feasibility study of a randomized controlled trial (RCT): the Child in Context Intervention (CICI). The CICI study is an individualized, goal-oriented and home-based intervention conducted mainly through videoconference. It targets children with ongoing challenges (physical, cognitive, behavioral, social and/or psychological)..."]
+      },
+      {
+        "title": "Rehabilitation for children with chronic acquired brain injury in the Child in Context Intervention (CICI) study: study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Nina Rohrer-Baumgartner", "Ingvil Laberg Holthe", "Edel Jannecke Svendsen", "Marianne Løvstad"],
+        "abstract": ["Background\nPediatric acquired brain injury (pABI) is associated with long-term cognitive, behavioral, social, and emotional problems, which may affect the quality of life, school, and family functioning. Yet, there is a lack of evidence-based community-centered rehabilitation programs for chronic pABI and these children do not systematically receiv..."]
+      },
+      {
+        "title": "Goal Attainment in an Individually Tailored and Home-Based Intervention in the Chronic Phase after Traumatic Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Ida Maria Henriksen Borgen", "Solveig Lægreid Hauger", "Marit Vindal Forslund", "Marianne Løvstad"],
+        "abstract": ["Traumatic brain injury (TBI) is a heterogeneous condition with long-term consequences for individuals and families. Goal-oriented rehabilitation is often applied, but there is scarce knowledge regarding types of goals and goal attainment. This study describes goal attainment in persons in the chronic phase of TBI who have received an individualized..."]
+      },
+      {
+        "title": "Community-Based Interventions After Acquired Brain Injury—A Systematic Review of Intervention Types and Their Effectiveness",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Solveig Lægreid Hauger", "Ida Maria Henriksen Borgen", "Marianne Løvstad", "Cecilie Røe"],
+        "abstract": ["Objectives: \nComprehensive review of existing types and effectiveness of community-based interventions delivered to adults (mean age 18-65 years) with long-lasting (≥6 months) difficulties following acquired brain injury (ABI).\n\nDesign: \nSystematic review of controlled intervention studies published until February 2021.\n\nMain measures: \nSystematic..."]
+      },
+      {
+        "title": "Patient-Reported Problem Areas in Chronic Traumatic Brain Injury",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Ida Maria Henriksen Borgen", "Ingerid Kleffelgård", "Solveig Lægreid Hauger", "Cecilie Røe"],
+        "abstract": ["Objective: \nThe aims of this study were to (1) assess self-reported main problem areas reported by patients with traumatic brain injury (TBI) and their family members in the chronic phase, and (2) compare the self-prioritized problems with difficulties captured by questionnaires and neuropsychological screening through linking to the International..."]
+      },
+      {
+        "title": "Traumatic brain injury—needs and treatment options in the chronic phase: Study protocol for a randomized controlled community-based intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Ida Maria Henriksen Borgen", "Marianne Løvstad", "Nada Andelic", "Cecilie Røe"],
+        "abstract": ["Background: \nTraumatic brain injury (TBI) is often associated with life-long medical, cognitive, emotional, and behavioral changes. Although long-lasting disabilities are expected, research on effective treatment options in the chronic phase of TBI is scarce.\n\nMethods/design: \nThis study protocol describes a randomized controlled trial (RCT) aimed..."]
+      },
+      {
+        "title": "Needs and treatment options in chronic traumatic brain injury: A feasibility trial of a community-based intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Ida Maria Henriksen Borgen", "Marianne Løvstad", "Cecilie Røe", "Ingerid Kleffelgård"],
+        "abstract": ["Lifelong changes may be expected after sustaining a traumatic brain injury (TBI). Research on relevant treatment options in the chronic phase of TBI is lacking. An innovative, home-based intervention program was developed in the US and showed to be effective among US veterans who had sustained a TBI. However, the cross-cultural applicability and ef..."]
+      },
+      {
+        "title": "A Community-Based Intervention Program in the Chronic Phase of TBI: A feasibility trial for a randomized controlled trial.",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Ida Maria Henriksen Borgen", "Solveig Lægreid Hauger", "Marianne Løvstad", "Ingerid Kleffelgård"],
+        "abstract": ["Poster presentation of feasibility results of the TBI community study at IBIA 2019 in Toronto."]
+      },
+      {
+        "title": "\"It gets better. It can´t be worse than what we have been through.\" Family accounts of the minimally conscious state",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Marianne Løvstad", "Kari Nyheim Solbrække", "Marit Kirkevold", "Anne-Kristine Schanke"],
+        "abstract": ["Objectives: \nThe aim of this qualitative study was to explore family life when a family member is in a chronic minimally conscious state (MCS). Experiences with the health care system were also explored.\n\nMethods: \nAs part of a larger qualitative study of family life after a family member suffers severe physical injury, we conducted a focus group i..."]
+      },
+      {
+        "title": "Assessment of nociception and pain in participants with unresponsive or minimally conscious state after acquired brain injury: the relationship between the Coma Recovery Scale-Revised and the Nociception Coma Scale-Revised",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Camille Chatelle", "Solveig Lægreid Hauger", "Charlotte Martial", "Petra Maurer-Karattup"],
+        "abstract": ["Objective: \nInvestigate the relationship between consciousness and nociceptive responsiveness (i.e., Nociception Coma Scale-Revised [NCS-R]), examine the suitability of the NCS-R for assessing nociception in participants with disorders of consciousness (DoC) and replicate previous findings on psychometric properties of the scale.\n\nDesign: \nWe prosp..."]
+      },
+      {
+        "title": "Cognitive Event-Related Potentials during the Sub-Acute Phase of Severe Traumatic Brain Injury and Their Relationship to Outcome",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Solveig Lægreid Hauger", "Kjell Olafsen", "Caroline Schnakers", "Marianne Løvstad"],
+        "abstract": ["Predicting outcome in the early phase after severe traumatic brain injury (sTBI) is a major clinical challenge, particularly identifying patients with potential of good cognitive outcome. The current single center prospective study aimed to explore presence and normalization of electroencephalography (EEG)-based event related potentials (ERPs) in t..."]
+      },
+      {
+        "title": "The Clinical Diagnostic Utility of Electrophysiological Techniques in Assessment of Patients With Disorders of Consciousness Following Acquired Brain Injury: A Systematic Review",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Solveig Lægreid Hauger", "A.-K. Schanke", "Stein Andersson", "Marianne Løvstad"],
+        "abstract": ["Objective: \nTo investigate the diagnostic utility of electrophysiological recordings during active cognitive tasks in detecting residual cognitive capacities in patients with disorders of consciousness (DoC) after severe acquired brain injury.\n\nDesign: \nSystematic review of empirical research in MEDLINE, Embase, PsycINFO, and Cochrane from January..."]
+      },
+      {
+        "title": "Neurophysiological Indicators of Residual Cognitive Capacity in the Minimally Conscious State",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Solveig Lægreid Hauger", "Caroline Schnakers", "Stein Andersson", "Marianne Løvstad"],
+        "abstract": [". The diagnostic usefulness of electrophysiological methods in assessing disorders of consciousness (DoC) remains to be established on an individual patient level, and there is need to determine what constitutes robust experimental paradigm to elicit electrophysiological indices of covert cognitive capacity.\nObjectives\n. Two tasks encompassing acti..."]
+      },
+      {
+        "title": "Rate of Disorders of Consciousness in a Prospective Population-Based Study of Adults With Traumatic Brain Injury",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Marianne Løvstad", "Nada Andelic", "Rein Knoph", "Anne-Kristine Schanke"],
+        "abstract": ["Establish rate of disorders of consciousness (DOC) and course of recovery in adults who have sustained severe traumatic brain injury (sTBI).\nFour Norwegian neurosurgical departments.\nVegetative or minimally conscious patients.\nProspective, longitudinal population-based study of adults with sTBI with follow-ups at 3, 12, and 24-36 months postinjury...."]
+      },
+      {
+        "title": "[In Process Citation].",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Marianne Løvstad", "Solveig Lægreid Hauger", "Frank Becker"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Neuropsychologist,", "PhD."],
+    "bio": [],
+    "publications": [18],
+    "reads": [2377],
+    "citations": [149]
   }
 }

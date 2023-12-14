@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0006-8949-2479",
-    "name": "Monica Beer  Prydz",
+    "orcid": ["0009-0006-8949-2479"],
+    "name": ["Monica Beer  Prydz"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Monica Beer Prydz",
-    "id": "1258345",
+    "name": ["Monica Beer Prydz"],
+    "id": ["1258345"],
     "keywords": ["Prevention"],
     "position": ["Research fellow"],
     "img": {},
@@ -37,27 +37,160 @@
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Promoting wellbeing and preventing mental health problems: A randomized controlled trail of the Five Ways to Wellbeing Intervention ",
-        "url": "https://api.cristin.no/v2/results/2086158"
+        "url": "https://api.cristin.no/v2/results/2086158",
+        "title": "Promoting wellbeing and preventing mental health problems: A randomized controlled trail of the Five Ways to Wellbeing Intervention "
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Promoting Wellbeing using the Five Ways to Wellbeing framework ",
-        "url": "https://api.cristin.no/v2/results/2085124"
+        "url": "https://api.cristin.no/v2/results/2085124",
+        "title": "Promoting Wellbeing using the Five Ways to Wellbeing framework "
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Bridging the gap - from research to practice",
-        "url": "https://api.cristin.no/v2/results/2085072"
+        "url": "https://api.cristin.no/v2/results/2085072",
+        "title": "Bridging the gap - from research to practice"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2022",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2044617"
+        "url": "https://api.cristin.no/v2/results/2044617",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       }
     ]
+  },
+  "rg": {
+    "id": "Espen-Prydz",
+    "name": "Espen Beer Prydz",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279823680327684-1443726572673_Q128/Espen-Prydz.jpg",
+    "affiliation": "World Bank, Development Economics Research Group",
+    "keywords": ["Economic Analysis", "Econometric Analysis", "Applied Economics"],
+    "works": [
+      {
+        "title": "Societal Poverty: A Relative and Relevant Measure",
+        "tags": ["Book", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Dean Jolliffe", "Espen Beer Prydz"],
+        "abstract": []
+      },
+      {
+        "title": "Disparities in Assessments of Living Standards Using National Accounts and Household Surveys",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Espen Beer Prydz", "Dean Jolliffe", "Umar Serajuddin"],
+        "abstract": ["Estimates of average per capita consumption and income from national accounts differ substantially from corresponding measures of consumption and income from household surveys. Using a new compilation of more than 2,000 household surveys matched to national accounts data, we find that the gaps between the data sources are larger and more robust tha..."]
+      },
+      {
+        "title": "How much does reducing inequality matter for global poverty?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Christoph Lakner", "Daniel Gerszon Mahler", "Mario Negre", "Espen Beer Prydz"],
+        "abstract": ["The goals of ending extreme poverty by 2030 and working towards a more equal distribution of incomes are part of the United Nations’ Sustainable Development Goals. Using data from 166 countries comprising 97.5% of the world’s population, we simulate scenarios for global poverty from 2019 to 2030 under various assumptions about growth and inequality..."]
+      },
+      {
+        "title": "Mind the Gap: Disparities in Assessments of Living Standards using National Accounts and Household Surveys",
+        "tags": ["Book", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Espen Beer Prydz", "Dean Jolliffe", "Umar Serajuddin"],
+        "abstract": []
+      },
+      {
+        "title": "How Much Does Reducing Inequality Matter for Global Poverty?",
+        "tags": ["Book"],
+        "date": "Jun 2020",
+        "authors": ["Christoph Lakner", "Daniel Gerszon Mahler", "Mario Negre", "Espen Beer Prydz"],
+        "abstract": []
+      },
+      {
+        "title": "Societal Poverty: A Relative and Relevant Measure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Dean Jolliffe", "Espen Beer Prydz"],
+        "abstract": ["Poverty lines are typically higher in richer countries, and lower in poorer ones, reflecting the relative nature of national assessments of who is considered poor. In many high-income countries, poverty lines are explicitly relative, set as a share of mean or median income. Despite systematic variation in how countries define poverty, global povert..."]
+      },
+      {
+        "title": "Estimating Global Poverty in Stata: The PovcalNet Command",
+        "tags": ["Book"],
+        "date": "Sep 2019",
+        "authors": ["R. Andres Castaneda Aguilar", "Christoph Lakner", "Espen Beer Prydz", "Qinghua Zhao"],
+        "abstract": []
+      },
+      {
+        "title": "September 2019 PovcalNet Update: What's New",
+        "tags": ["Book", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Aziz Atamanov", "R. Andres Castaneda Aguilar", "Carolina Diaz-Bonilla", "Judy Yang"],
+        "abstract": []
+      },
+      {
+        "title": "How Much Does Reducing Inequality Matter for Global Poverty?",
+        "tags": ["Book", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Christoph Lakner", "Daniel Gerszon Mahler", "Mario Negre", "Espen Beer Prydz"],
+        "abstract": []
+      },
+      {
+        "title": "Societal Poverty: A Relative and Relevant Measure",
+        "tags": ["Book", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Dean Jolliffe", "Espen Beer Prydz"],
+        "abstract": []
+      },
+      {
+        "title": "A global count of the extreme poor in 2012: data issues, methodology and initial results",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Francisco H. G. Ferreira", "Shaohua Chen", "andrew dabalen", "Nobuo Yoshida"],
+        "abstract": ["The 2014 release of a new set of purchasing power parity (PPP) conversion factors (PPPs) for 2011 has prompted a revision of the World Bank’s international poverty line. In revising the line, we have sought to minimize changes to the real purchasing power of the earlier $1.25 line (in 2005 PPPs), so as to preserve the integrity of the goalposts for..."]
+      },
+      {
+        "title": "Estimating international poverty lines from comparable national thresholds",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Dean Jolliffe", "Espen Beer Prydz"],
+        "abstract": ["The World Bank’s international poverty line (IPL) of $1.90/day at 2011 PPPs is based on a collection of national poverty lines provided in Ravallion et al. (World Bank Econ. Rev. 23(2), 163–184, 2009), originally used to set the IPL of $1.25/day at 2005 PPPs. This paper proposes an approach for estimating a more recent, complete and comparable coll..."]
+      },
+      {
+        "title": "Estimating International Poverty Lines from Comparable National Thresholds",
+        "tags": ["Book", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Dean Jolliffe", "Espen Beer Prydz"],
+        "abstract": []
+      },
+      {
+        "title": "Global Poverty Goals and Prices: How Purchasing Power Parity Matters",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Dean Jolliffe", "Espen Beer Prydz"],
+        "abstract": ["With the recent release of the 2011 purchasing power parity (PPP) data from the International Comparison Program (ICP), analysts and institutions are confronted with the question of whether and how to use them for global poverty estimation. The previous round of PPP data from 2005 led to a large increase in the estimated number of poor in the world..."]
+      },
+      {
+        "title": "Twinning the goals: how can promoting shared prosperity help to reduce global poverty?",
+        "tags": ["Research", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Christoph Lakner", "Mario Negre", "Espen Beer Prydz"],
+        "abstract": ["In 2013, the World Bank adopted two goals: First, reduce global extreme poverty to 3 percent by 2030. Second, promote shared prosperity defined as the income growth of the bottom 40 percent of the population within a country. This paper simulates the global poverty headcount under three growth scenarios for the bottom 40 percent up to 2030. The ana..."]
+      },
+      {
+        "title": "A Global Count of the Extreme Poor in 2012: Data Issues, Methodology and Initial Results",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Francisco H. G. Ferreira", "Shaohua Chen", "Andrew Dabalen", "Nobuo Yoshida"],
+        "abstract": []
+      },
+      {
+        "title": "A Measured Approach to Ending Poverty and Boosting Shared Prosperity: Concepts, Data, and the Twin Goals, Policy Research Report",
+        "tags": ["Book", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Dean Jolliffe", "Peter Lanjouw", "Shaohua Chen", "Kyla Wethli"],
+        "abstract": ["In 2013, the World Bank adopted two new goals to guide its work: ending extreme poverty and boosting shared prosperity. More specifically, the goals are to reduce extreme poverty in the world to less than 3 percent by 2030, and to foster income growth of the bottom 40 percent of the population in each country. While poverty reduction has been a mai..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [17],
+    "reads": [5244],
+    "citations": [923]
   }
 }

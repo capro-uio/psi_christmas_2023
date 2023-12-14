@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Arild Lian",
-    "id": "22600",
+    "name": ["Arild Lian"],
+    "id": ["22600"],
     "keywords": ["Communication", "Learning", "Language", "Competence", "WorkingMemory", "Language, learning problems", "Speech perception", "Phonological awareness"],
     "position": ["External", "Emeritus"],
     "img": {},
@@ -161,5 +161,81 @@
         "url": "https://api.cristin.no/v2/results/77829"
       }
     ]
+  },
+  "rg": {
+    "id": "Arild-Lian",
+    "name": "Arild Lian",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279073986236418-1443547831071_Q128/Arild-Lian.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Memory", "Learning and Memory", "Cognitive Development", "Cognitive Neuropsychology"],
+    "works": [
+      {
+        "title": "Evolving Meaning in Language",
+        "tags": ["Chapter"],
+        "date": "Jan 2016",
+        "authors": ["Arild Lian"],
+        "abstract": "The chapter explains why propositional meaning and formal semantics are dispensed with in favor of two other conceptions of meaning: meaning as intention and meaning as knowledge. In relation to the latter concept, the chapter presents Lyons’ discussion of the meaning of “meaning” and the feature of reciprocity of language. His semantic conception..."
+      },
+      {
+        "title": "Literacy and Language",
+        "tags": ["Chapter"],
+        "date": "Jan 2016",
+        "authors": ["Arild Lian"],
+        "abstract": "The chapter argues why language has changed more rapidly in the literate part of human evolution. It describes the invention of writing by the Sumerians, and presents an outline of the main writing systems in modern languages. The chapter reviews a number of studies of illiteracy, and raises the question of whether writing also changed the neural c..."
+      },
+      {
+        "title": "The Problem of Continuity in Time and Across Domains",
+        "tags": ["Chapter"],
+        "date": "Jan 2016",
+        "authors": ["Arild Lian"],
+        "abstract": "The chapter addresses continuity in language evolution and continuity across behavioral domains. It compares human language and communicative behavior by subhuman primates and discusses Bickerton’s assumptions of a protolanguage. Ullman’s declarative-procedural (DP) model forms a framework for discussing pre-adaptations of grammar in primate learni..."
+      },
+      {
+        "title": "Dialogues as Procedural Skills",
+        "tags": ["Chapter"],
+        "date": "Jan 2016",
+        "authors": ["Arild Lian"],
+        "abstract": "Early dialogues are learned as procedural skills, and have a special role in the evolution of language. Vocal turn-taking by marmoset monkeys, which resembles turn-taking by human infants, serves as pre-adaptation to linguistic communication by humans. The chapter discusses models of communicative development in dyads and discusses why dialogues ar..."
+      },
+      {
+        "title": "The Modality-Independent Capacity of Language: A Milestone of Evolution",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Arild Lian"],
+        "abstract": "The chapter makes a distinction between language impairment and production errors such as apraxia, dysarthria and speech sound disorders. It argues against the gestural theory of language evolution and for the evolution of a “general language bias.” Hence, the chapter introduces the concept of a modality-independent capacity of language. This capac..."
+      },
+      {
+        "title": "Developmental Language Impairment: Conceptual Issues and Prospects of an Evolutionary Approach",
+        "tags": ["Chapter"],
+        "date": "Jan 2016",
+        "authors": ["Arild Lian"],
+        "abstract": "The concept of specific language impairment (SLI) is discussed and abandoned in view of recent research. The co-morbidity of developmental language impairments and other neurodevelopmental disorders (for example, deafness), show that language difficulties are rarely specific to language. However, high rates of heritability warrant an inquiry into t..."
+      },
+      {
+        "title": "Developmental Language Impairment: Perspectives of Etiology and Treatment",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Arild Lian"],
+        "abstract": "The chapter argues for a renewed discussion of developmental language impairment within the conceptual frameworks of Ullman’s procedural-declarative model and Saffran’s constrained statistical learning paradigm. Both address behavioral functions which are likely products of pre-adaptations of language. The chapter shows that contemporary research h..."
+      },
+      {
+        "title": "Language Evolution and Developmental Impairments",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Arild Lian"],
+        "abstract": "This book gives an account of developmental language impairment from the perspective of language evolution. Components of language acquisition and specific language impairments can be mapped to stages in the evolutionary trajectory of language. Lian argues that the learning of procedural skills by early ancestors has served as pre-adaptation of gra..."
+      },
+      {
+        "title": "Writing, Time and Memory in the Perspective of Socio-cultural Evolution",
+        "tags": ["Chapter"],
+        "date": "Jan 1988",
+        "authors": ["Arild Lian"],
+        "abstract": "The main conceptions of memory which have been presented in philosophical and psychological literature seem to have been formed, more or less, as metaphors of writing. Plato, in Theatus compared memory with a wax tablet, and Aristotle (On Memory and Reminiscence in Dennis, 1948) likened the memory image to the “imprint of a seal ring” on this table..."
+      }
+    ],
+    "degree": [null],
+    "publications": [9],
+    "reads": [1125],
+    "citations": [3]
   }
 }

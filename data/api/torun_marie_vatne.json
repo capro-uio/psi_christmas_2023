@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Torun Marie Vatne",
-    "id": "BCQXdDsAAAAJ",
-    "affiliation": "Clinical psychologist Phd",
+    "name": ["Torun Marie Vatne"],
+    "id": ["BCQXdDsAAAAJ"],
+    "affiliation": ["Clinical psychologist Phd"],
     "data": {
       "publications": [
         {
@@ -385,8 +385,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-2591-4859",
-    "name": "Torun Marie Vatne",
+    "orcid": ["0000-0002-2591-4859"],
+    "name": ["Torun Marie Vatne"],
     "distinctions": [],
     "education": [
       {
@@ -395,10 +395,10 @@
         "country": "NO"
       },
       {
-        "start": "2011",
         "position": "Psychologist",
         "organisation": "Frambu",
-        "country": "NO"
+        "country": "NO",
+        "start": "2011"
       }
     ],
     "employment": [
@@ -408,10 +408,10 @@
         "country": "NO"
       },
       {
-        "start": "2011",
         "position": "Psychologist",
         "organisation": "Frambu",
-        "country": "NO"
+        "country": "NO",
+        "start": "2011"
       }
     ],
     "membership": [],
@@ -430,8 +430,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Torun Marie Vatne",
-    "id": "16770",
+    "name": ["Torun Marie Vatne"],
+    "id": ["16770"],
     "keywords": [],
     "position": ["University lecturer", "Associate professor", null, "Psychologist"],
     "img": {},
@@ -672,5 +672,271 @@
         "url": "https://api.cristin.no/v2/results/503991"
       }
     ]
+  },
+  "rg": {
+    "id": "Torun-Vatne",
+    "name": "Torun Marie Vatne",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Frambu  Senter for Sjeldne Funksjonshemninger, Frambu",
+    "keywords": ["patient-provider communication", "Family Communication", "Pediatric Psychology"],
+    "works": [
+      {
+        "title": "The development of SIBS-ONLINE, a group-based video conference intervention for siblings of children with chronic disorders and their parents",
+        "tags": ["Article"],
+        "date": "Sep 2023",
+        "authors": ["Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Krister W Fjermestad"],
+        "abstract": ["Objective\nDuring the last decade a knowledge-based group intervention called SIBS, aiming to prevent psychological difficulties in siblings of children with chronic disorders, has been developed and empirically evaluated. The results are promising, but SIBS has been difficult to implement in areas with low population density. To address the needs o..."]
+      },
+      {
+        "title": "Prosocial Behavior Is a Relative Strength in Siblings of Children with Physical Disabilities or Autism Spectrum Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Stian Orm", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Krister W Fjermestad"],
+        "abstract": ["Research on siblings of children with developmental and physical disabilities has emphasized negative influences on siblings’ mental health. Yet, such siblings may be more prosocial compared with siblings of children without disabilities, due to care responsibilities and their experiences with their brother’s or sister’s disability. We compared pro..."]
+      },
+      {
+        "title": "Empathy and Prosocial Behavior in Siblings of Children with Autism Spectrum Disorder: A Systematic Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Stian Orm", "Torun Marie Vatne", "Theodore Tomeny", "Krister W Fjermestad"],
+        "abstract": ["Siblings of children with ASD have, as a group, more autistic traits than typically developing\nindividuals. A high prevalence of autistic traits may (or may not) include lower scores on\nmeasures of empathy and prosocial behavior, compared to typically developing individuals.\nThe purpose of this study was to conduct a systematic review of studies of..."]
+      },
+      {
+        "title": "Parent-Sibling Communication and Mental Health in Siblings of Children with Autism Spectrum Disorder Compared with Physical Disabilities",
+        "tags": ["Poster", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Stian Orm", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Krister W Fjermestad"],
+        "abstract": ["Background: Siblings of children with autism spectrum disorder (ASD) are at higher risk of mental health difficulties compared with the general population and siblings of children with other intellectual and developmental disabilities. However, it is unclear whether they are at higher risk of mental health difficulties compared with siblings of chi..."]
+      },
+      {
+        "title": "A Qualitative Study of Men’s Experience of Being a Father in Families with Childhood Disability",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Torun Marie Vatne", "Sigurd Skjeggestad Dahle", "Yngvild Bjartveit Haukeland", "Krister Westlye Fjermestad"],
+        "abstract": ["Fathers in families with childhood disability have an important role in fostering coping and resilience in children. Insight into men’s thoughts about fathering is necessary to provide family-centered interventions. The purpose of this study was to explore men’s experience of being a father in families with childhood disability. Qualitative intervi..."]
+      },
+      {
+        "title": "De glemte barna – en kartleggingsstudie av tilbud til og muligheter for pårørende søsken i norske kommuner",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Yngvild Bjartveit Haukeland", "Ann-Helén Kongshavn Rønning", "Ragnhild Bang Nes", "Torun Marie Vatne"],
+        "abstract": ["Background: Norwegian health professionals are obliged to provide support to siblings as next of kin. Preliminary evidence for positive outcomes of SIBS, a novel five-session intervention for siblings as next of kin, exists. This study aimed to investigate the extent and type of sibling support in the community health services. It also aimed to exa..."]
+      },
+      {
+        "title": "Psychosocial Functioning in Siblings of Children With Rare Disorders Compared to Controls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Svein Mossige", "Krister W Fjermestad"],
+        "abstract": ["Siblings of children with chronic disorders are at increased risk of psychosocial problems. The risk may be exacerbated when the chronic disorder is rare and limited medical knowledge is available, due to more uncertainty and feelings of isolation. We examined mental health, parent-child communication, child-parent relationship quality, and social..."]
+      },
+      {
+        "title": "Siblings of children with chronic disorders: Family and relational factors as predictors of mental health",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Trude Fredriksen", "Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Krister Weatlye Fjermestad"],
+        "abstract": ["Siblings of children with chronic disorders are at increased risk of mental health problems. Predictors of siblings’ mental health require further study to identify children in need of interventions and to design effective intervention programs. Siblings of children with chronic disorders ( n = 107; M age = 11.5 years; SD = 2.1, 54.6% girls) and th..."]
+      },
+      {
+        "title": "Measuring family communication in pediatric nursing: Psychometric properties of the Parent-Child Communication Scale -Child Report (PCCS-CR)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Stian Orm", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Krister W Fjermestad"],
+        "abstract": ["Purpose\nCommunication quality is an essential indicator of family functioning and represents an important outcome after pediatric nursing interventions. However, few well-documented child-report questionnaires for family communication exist. We aimed to document the psychometric properties of a previously developed child-rated family communication..."]
+      },
+      {
+        "title": "Parent-child communication about emotions during SIBS: a joint intervention for siblings and parents of children with chronic disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Yngvild Bjartveit Haukeland", "Krister Westlye Fjermestad", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Quality of parent-child communication is associated with adjustment in siblings of children with chronic disorders. SIBS is an intervention aiming to increase parental listening, exploring, and validating behaviors while talking with siblings about their experiences. We examined parent-sibling communication during SIBS by describing: 1) Sibling-sel..."]
+      },
+      {
+        "title": "Manual-Based Group Intervention for Siblings and Parents of Children with Neurodevelopmental Disorders in Cambodia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["K. Fjermestad", "P. Pat", "S. Dearozet", "Bhoomikumar Jegannathan"],
+        "abstract": ["Siblings of children with neurodevelopmental disorders (ND) are at increased risk of mental health problems. The burden on families of children with ND is exacerbated in low-income countries with limited health services and dependency on informal care systems. Yet, there is little research on family impacts of ND in non-Western settings, and no evi..."]
+      },
+      {
+        "title": "Youth and clinician evaluation of emotional communication in short-term counseling groups.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Torun Marie Vatne", "Signe Owren", "Kristin Fjelnseth Wold", "Krister W Fjermestad"],
+        "abstract": ["Objectives: Group interventions are recommended to prevent psychological difficulties in siblings of children with a disability. However, emotional communication and support in such groups have not previously been described or evaluated. This article describes two studies to provide such knowledge. Methods: Study 1 examined communication patterns f..."]
+      },
+      {
+        "title": "The validity of a measure of adjustment in siblings of children with developmental and physical disabilities: a brief report",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Stian Orm", "Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Krister W Fjermestad"],
+        "abstract": ["Background: Few questionnaires are tailored for siblings of children with disabilities. The Negative Adjustment Scale (NAS) was developed to measure siblings’ adjustment, but has not yet been validated.\nObjective: To investigate the factor structure and convergent validity of the NAS.\nMethod: We examined the validity of the NAS in terms of factor s..."]
+      },
+      {
+        "title": "Helsesykepleiere er nærmest til å følge opp søsken som pårørende",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Torun Marie Vatne", "Ann-Helen Kongshaug Rønning", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Kommunepsykologer bør sørge for at kommunens tiltak er tilpasset søskens behov.",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Torun Marie Vatne", "Ann-Helen K. Rønning", "Ragnhild Bang Nes"],
+        "abstract": ["I januar 2018 trådde en endring i helsepersonellovens § 10a vedrørende barn som pårørende i kraft. Denne stadfester at helsepersonell, herunder psykologer, har plikt til å ivareta behovet for informasjon og nødvendig oppfølging som mindreårige barn kan ha når de er pårørende til søsken eller foreldre med psykiske lidelser, rusmiddelavhengighet elle..."]
+      },
+      {
+        "title": "Available, but not always accessible: A nationwide, qualitative study of multidisciplinary health care providers´ experiences with follow-up care after paediatric brain tumour",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Anette Ålykkja", "Ellen Ruud", "Marie H Larsen", "Hanne Lie"],
+        "abstract": ["Objective\nPaediatric brain tumour (PBT) survivors face high risks of disabling long‐term and late effects. Whether survivors’ needs are met in a system with publicly funded services, but in the absence of a formal long‐term follow‐up model, is uncertain. Empirically based recommendations for a national model are needed. We explored multidisciplinar..."]
+      },
+      {
+        "title": "Siblings' Experience of Violence from Their Brother or Sister with a Neurodevelopmental Disorder",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Stian Orm", "Andrine Krogh Parken", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne"],
+        "abstract": ["Objectives: Neurodevelopmental disorders (NDD) are often characterized by impairments in social, emotional and moral understanding. Furthermore, children with NDD have problems with regulating intense emotions, which they experience more often than typically developing children. The result can be challenging behavior, including violence targeted at..."]
+      },
+      {
+        "title": "Group intervention for siblings and parents of children with chronic disorders (SIBS-RCT): study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Krister W Fjermestad", "Wendy Silverman", "Torun Marie Vatne"],
+        "abstract": ["Background\nSiblings and parents of children with neurodevelopmental disorders are at risk of mental health problems and poorer family communication. Some group interventions for siblings exist, but few have clearly described parent components and none are considered evidence-based.\n\nMethods\nWe are conducting a randomized controlled trial comparing..."]
+      },
+      {
+        "title": "Evaluation of “SIBS”, An Intervention for Siblings and Parents of Children with Chronic Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Yngvild Bjartveit Haukeland", "Nikolai Olavi Czajkowski", "Krister Westlye Fjermestad", "Torun Marie Vatne"],
+        "abstract": ["Siblings of children with chronic disorders are at increased risk of experiencing family communication problems and poorer mental health. We assessed initial feasibility, acceptability, and outcomes of SIBS; a manual-based group intervention for siblings and parents of children with chronic disorders, aiming to improve parent-sibling communication..."]
+      },
+      {
+        "title": "A Systematic Review of Empathy and Prosocial Behavior in Siblings of Individuals with Autism Spectrum Disorders. PROSPERO 2020",
+        "tags": ["Research Proposal", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Stian Orm", "Torun Marie Vatne", "Krister W Fjermestad"],
+        "abstract": ["Siblings of children with Autism Spectrum Disorder (ASD) are at increased risk of\nmental disorders and impaired psychosocial functioning. However, it is currently unclear if their psychosocial functioning includes deficits in empathy and prosocial behavior. Some studies also point to the possibility that siblings of children with chronic disorders..."]
+      },
+      {
+        "title": "Children’s Perspectives on the Experiences of Their Siblings with Chronic Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Krister W Fjermestad", "Yngvild Bjartveit Haukeland", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Knowledge about the experiences of children with chronic disorders (CCD) is often based on parent-report. Obtaining self-report from CCD may be challenging due to cognitive impairments associated with many disorders. We explored siblings’ perspectives on the experiences of their brothers and sisters with CCD, which represent a unique intrageneratio..."]
+      },
+      {
+        "title": "The development of a joint parent-child intervention for siblings of children with chronic disorders",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Svein Mossige", "Krister W Fjermestad"],
+        "abstract": []
+      },
+      {
+        "title": "Berører ja, men rådgir ikke",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Torun Marie Vatne"],
+        "abstract": []
+      },
+      {
+        "title": "Hvordan støtte foreldre til barn med livsforkortende sykdom?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Torun Marie Vatne"],
+        "abstract": []
+      },
+      {
+        "title": "Emotional communication in support groups for siblings of children with disabilities",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Torun Marie Vatne", "Erica Zahl"],
+        "abstract": ["Objective\nSupport groups are often arranged for siblings of children with disabilities to prevent psychological maladjustment. This study describes how children express emotions in support groups and how group leaders and other children respond.\n\nMethod\nConversations in 17 group sessions for siblings aged 11 to 16 were coded with VR-CoDES to report..."]
+      },
+      {
+        "title": "Emotional Experiences Among Siblings of Children With Rare Disorders",
+        "tags": ["Article"],
+        "date": "Mar 2015",
+        "authors": ["Yngvild Bjartveit Haukeland", "Krister W Fjermestad", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Objective: \nThis research aimed to provide new knowledge about the emotional experiences of siblings of children with rare disorders. \n\nMethods: \nQualitative thematic analysis was conducted based on videotapes of 11 support groups for 58 siblings aged 7-17 years (Mage = 11.4 years, SD = 2.4) of children with rare disorders. \n\nResults: \nParticipants..."]
+      },
+      {
+        "title": "Cognitive behavioral therapy for adolescents with 22q11.2 deletion syndrome",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Krister W Fjermestad", "Torun Marie Vatne", "Helene Gjone"],
+        "abstract": ["Purpose\n– 22q11.2 deletion syndrome (22q11.2DS) is a rare genetic syndrome involving high risk of psychiatric disorders with average intellectual functioning in the lower borderline range. Due to the cognitive and social problems many adolescents with 22q11.2DS experience, adaptions may be needed to teach these adolescents cognitive behavioral ther..."]
+      },
+      {
+        "title": "“She Came out of mum’s Tummy the Wrong way” (Mis) Conceptions Among Siblings of Children with Rare Disorders",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["Torun Marie Vatne", "Ingerid Ostborg Helmen", "David Bahr", "Livø Nyhus"],
+        "abstract": ["Misconceptions or uncertainty about the rare disorder of a sibling may cause adjustment problems among children. New knowledge about their misconceptions may enable genetic counselors to provide targeted information and increase siblings' knowledge. This study aims to describe misconceptions and uncertainties of siblings of children with rare disor..."]
+      },
+      {
+        "title": "Effects of an interactive symptom communication tool for children with heart disease on patient-provider communication in outpatient care: Preliminary results",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Torun Marie Vatne", "Arnstein Finset", "Knut Ørnes Brodahl", "Cornelia Ruland"],
+        "abstract": ["While children with chronic illness can experience many physical, functional, and psychosocial symptoms and problems, they do not have the same verbal skills as adults to communicate about distressing symptoms, leaving them at particular risk that their problems remain under-diagnosed and treated. This study investigated the effects of an interacti..."]
+      },
+      {
+        "title": "Children's Expressions of Negative Emotions and Adults' Responses During Routine Cardiac Consultations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2011",
+        "authors": ["Torun Marie Vatne", "Cornelia Ruland", "Knut Ørnes Brodahl", "Arnstein Finset"],
+        "abstract": ["One function of expressing emotion is to receive support. The aim of this study was to assess how children with heart disease express negative emotions during routine consultations, and examine the interaction between children's expressions and adults' responses.\nSeventy children, aged 7-13 years, completed measures of anxiety and were videotaped d..."]
+      },
+      {
+        "title": "SISOM: ELECTRONIC SUPPORT TO IMPROVE COMMUNICATION AND PATIENT-CENTERED CARE FOR CHILDREN WITH CANCER",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Cornelia Ruland", "Arnstein Finset", "Anne Thorvildsen", "Torun Marie Vatne"],
+        "abstract": []
+      },
+      {
+        "title": "Application of the Verona Coding Definitions of Emotional Sequences (VR-CoDES) on a pediatric data set",
+        "tags": ["Article"],
+        "date": "Sep 2010",
+        "authors": ["Torun Marie Vatne", "Arnstein Finset", "Knut Ørnes Brodahl", "Cornelia Ruland"],
+        "abstract": ["Adult patients present concerns as defined in the Verona Coding Definitions of Emotional Sequences (VR-CoDES), but we do not know how children express their concerns during medical consultations. This study aimed to evaluate the applicability of VR-CoDES to pediatric oncology consultations.\nTwenty-eight pediatric consultations were coded with the V..."]
+      },
+      {
+        "title": "How Children With Cancer Communicate and Think About Symptoms",
+        "tags": ["Article"],
+        "date": "Oct 2009",
+        "authors": ["Torun Marie Vatne", "Laura Slaugther", "Cornelia Ruland"],
+        "abstract": ["For clinicians to effectively help children with their illness and symptoms, it is important to communicate with them in a language they can understand.\nThis study investigates how well children with cancer and healthy children understood 44 symptom terms; their thoughts about these symptoms in terms of causes, consequences, and cures; and what oth..."]
+      },
+      {
+        "title": "Children's contributions to designing a communication tool for children with cancer",
+        "tags": ["Article"],
+        "date": "Feb 2007",
+        "authors": ["Cornelia Ruland", "Laura Slaughter", "Justin Starren", "Elisabeth Y Moe"],
+        "abstract": ["In this paper, we describe the roles played as well as contributions made by child participants in the design of an innovative communication tool for children with cancer. SISOM is a handheld, portable computer application with a graphical user interface that is meant to: (1) help children with cancer communicate their symptoms / problems in a chil..."]
+      },
+      {
+        "title": "Constructing an Effective Information Architecture for a Pediatric Cancer Symptom Assessment Tool",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2006",
+        "authors": ["Laura Slaughter", "Cornelia Ruland", "Torun Marie Vatne"],
+        "abstract": ["We are in the process of creating a classification structure of health concepts (symptoms) that will be used within the user interface of a children's symptom management system called PedsCHOICE. Through studies conducted during the development process, we have learned that there are many factors that influence the structure of the symptom categori..."]
+      },
+      {
+        "title": "Children as design partners in the development of a support system for children with cancer",
+        "tags": ["Article"],
+        "date": "Feb 2006",
+        "authors": ["Cornelia Ruland", "Laura Slaughter", "Justin Starren", "Torun Marie Vatne"],
+        "abstract": ["Children with cancer experience many symptoms and problems that often remain unreported and untreated. We therefore, developed PedsChoice, a support system for pediatric cancer symptom assessment and management to provide children with a \"voice,\" and assist nurses and physicians to better address children's symptoms and problems in patient care. We..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Psychology"],
+    "bio": [],
+    "publications": [36],
+    "reads": [3710],
+    "citations": [354]
   }
 }

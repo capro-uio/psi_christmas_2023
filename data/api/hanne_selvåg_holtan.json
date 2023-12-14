@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Hanne Selvåg Holtan",
-    "id": "1425252",
+    "name": ["Hanne Selvåg Holtan"],
+    "id": ["1425252"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Audun-Selvag",
+    "name": "Audun Grimstad Selvåg",
+    "img": "https://i1.rgstatic.net/ii/profile.image/565307808522252-1511791292825_Q128/Audun-Selvag.jpg",
+    "affiliation": "Oslo Metropolitan University, Department of Radiography and Dental Technology",
+    "keywords": ["Computed Tomography", "Diagnostic Radiology", "Imaging", "Medical Imaging", "Diagnostic Imaging", "Radiography", "Clinical Imaging", "3D-Imaging", "Angiography", "Musculoskeletal Imaging"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

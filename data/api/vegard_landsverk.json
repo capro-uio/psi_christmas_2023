@@ -2,11 +2,32 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Vegard Landsverk",
-    "id": "1141884",
+    "name": ["Vegard Landsverk"],
+    "id": ["1141884"],
     "keywords": [],
     "position": ["Guest", "Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Patricia-Vegard",
+    "name": "Patricia Vegard",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "ISCTEInstituto Universitário de Lisboa | ISCTE, ISCTEInstituto Universitário de Lisboa, Department of Political Science and Public Policy",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Digital interventions with families - a case study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Patricia Vegard", "Helena Belchior Rocha", "Inês Casquilho-Martins"],
+        "abstract": "This article discusses the responses developed in Portugal during the state of emergency by a family empowerment and intervention team and how this team actively integrated contingency plans and challenges through information and communication technology (ICT). We also explain what was learned during this period and what could have been done better..."
+      }
+    ],
+    "degree": ["Bachelor", "of", "Social", "Work"],
+    "bio": [],
+    "publication": [1],
+    "reads": [96],
+    "citations": [3]
   }
 }

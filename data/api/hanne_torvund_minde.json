@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Hanne Torvund Minde",
-    "id": "843561",
+    "name": ["Hanne Torvund Minde"],
+    "id": ["843561"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
@@ -16,5 +16,15 @@
         "url": "https://api.cristin.no/v2/results/1346421"
       }
     ]
+  },
+  "rg": {
+    "id": "Hanna_Torvund",
+    "name": "Hanna Torvund",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Glasgow | UofG, University of Glasgow, School of Law",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

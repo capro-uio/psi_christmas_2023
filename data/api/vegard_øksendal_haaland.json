@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-5455-9163",
-    "name": "Vegard Øksendal Haaland",
+    "orcid": ["0000-0002-5455-9163"],
+    "name": ["Vegard Øksendal Haaland"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Vegard Øksendal Haaland",
-    "id": "16607",
+    "name": ["Vegard Øksendal Haaland"],
+    "id": ["16607"],
     "keywords": [],
     "position": ["Associate professor", null],
     "img": {},
@@ -276,5 +276,348 @@
         "url": "https://api.cristin.no/v2/results/345522"
       }
     ]
+  },
+  "rg": {
+    "id": "Vegard-Haaland",
+    "name": "Vegard Øksendal Haaland",
+    "img": "https://i1.rgstatic.net/ii/profile.image/500104274472960-1496245558155_Q128/Vegard-Haaland.jpg",
+    "affiliation": "Sørlandet Hospital | SSHF, Sørlandet Hospital, Klinikk for psykisk helse  psykiatri og avhengighetbehandling",
+    "keywords": ["Neuropsychology", "Executive Function", "Memory", "Cognitive Neuroscience", "Clinical Neuroscience", "Affective Neuroscience", "Cognitive Neuropsychology", "Psychiatry", "Cognitive Science", "Clinical Psychology"],
+    "works": [
+      {
+        "title": "Impulsivity and aggression in suicide ideators and suicide attempters of high and low lethality",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Silje Støle Broke", "Nils Inge Landrø", "Vegard Øksendal Haaland"],
+        "abstract": ["Background\nImpulsivity and aggression have been associated with all forms of suicidal behaviour and linked to theories of suicide capability. There is a need to clarify the role of impulsivity and aggression in the progression from suicidal thoughts to suicide attempts and suicide.\n\nMethod\nIn this naturalistic cross-sectional study, suicide ideator..."]
+      },
+      {
+        "title": "Correction to: Early maladaptive schemas impact on long-term outcome in patients treated with group behavioral therapy for obsessive-compulsive disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Tor Sunde", "Benjamin Hummelen", "Joseph A. Himle", "Åshild Tellefsen Håland"],
+        "abstract": ["http://deepblue.lib.umich.edu/bitstream/2027.42/173669/1/12888_2022_Article_3776.pdf"]
+      },
+      {
+        "title": "The effect of sexual abuse and dissociation on suicide attempt",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Silje Støle Broke", "Thomas Bjerregaard Bertelsen", "Nils Inge Landrø", "Vegard Øksendal Haaland"],
+        "abstract": ["Background\nSuicide attempt is the most predictive risk factor of suicide. Trauma – especially sexual abuse – is a risk factor for suicide attempt and suicide. A common reaction to sexual abuse is dissociation. Higher levels of dissociation are linked to self-harm, suicide ideation, and suicide attempt, but the role of dissociation in suicidal behav..."]
+      },
+      {
+        "title": "Metacognitions and Obsessive Beliefs in Obsessive–Compulsive Disorder: A Study of Within- and Between-Person Effects on Long-Term Outcome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Tor Sunde", "Sverre Urnes Johnson", "Joseph A. Himle", "Åshild Tellefsen Håland"],
+        "abstract": ["Background\nThis study extends previous research by exploring whether changes in obsessive beliefs and metacognitions that were associated with changes in obsessive–compulsive disorder (OCD) symptom severity over the course of group behavioral treatment were maintained at long-term follow-up.Methods\nForty patients with a primary diagnosis of OCD par..."]
+      },
+      {
+        "title": "The Effect of Intensive Implementation Support on Fidelity for Four Evidence-Based Psychosis Treatments: A Cluster Randomized Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Torleif Ruud", "Robert E. Drake", "Jurate Saltyte Benth", "Gary R Bond"],
+        "abstract": ["Purpose\nService providers need effective strategies to implement evidence-based practices (EBPs) with high fidelity. This study aimed to evaluate an intensive implementation support strategy to increase fidelity to EBP standards in treatment of patients with psychosis.\n\nMethods\nThe study used a cluster randomized design with pairwise assignment of..."]
+      },
+      {
+        "title": "Symptom severity moderates the outcome of attention bias modification for depression: An exploratory study",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Ragnhild Bø", "Brage Kraft", "Rune Jonassen", "Nils Inge Landrø"],
+        "abstract": ["A recent meta-analysis has questioned the relevance of attention bias modification (ABM) for depression outcomes. However, there might be patient characteristics not yet accounted for, that are relevant to the outcome. In the context of personalized treatment, the lack of moderator studies have limited the potential for matching ABM-treatment to in..."]
+      },
+      {
+        "title": "Cognitive Control in Suicide Ideators and Suicide Attempters",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Silje Støle Broke", "Nils Inge Landrø", "Vegard Øksendal Haaland"],
+        "abstract": ["There is a need to understand more of the risk factors involved in the process from suicide ideation to suicide attempt. Cognitive control processes may be important factors in assessing vulnerability to suicide. A version of the Stroop procedure, Delis–Kaplan Executive Function System (D-KEFS) Color–Word Interference Test (CWIT) and Behavior Ratin..."]
+      },
+      {
+        "title": "The Antipsychotic Medication Management Fidelity Scale: Psychometric properties",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Torleif Ruud", "Karin Drivenes", "Robert E. Drake", "Gary R Bond"],
+        "abstract": ["The paper describes the Antipsychotic Medication Management Fidelity Scale and its psychometric properties, including interrater reliability, frequency distribution, sensitivity to change and feasibility. Fidelity assessors conducted fidelity reviews four times over 18 months at eight sites receiving implementation support for evidence-based antips..."]
+      },
+      {
+        "title": "Psychological Flexibility in Depression Relapse Prevention: Processes of Change and Positive Mental Health in Group-Based ACT for Residual Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Tom Ostergaard", "Tobias Lundgren", "Robert Zettle", "Vegard Øksendal Haaland"],
+        "abstract": ["Relapse rates following a depressive episode are high, with limited treatments available aimed at reducing such risk. Acceptance and commitment therapy (ACT) is a cognitive-behavioral approach that has gained increased empirical support in treatment of depression, and thus represents an alternative in relapse prevention. Psychological flexibility (..."]
+      },
+      {
+        "title": "Discrepancy in Ratings of Shared Decision Making Between Patients and Health Professionals: A Cross Sectional Study in Mental Health Care",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Karin Drivenes", "Vegard Øksendal Haaland", "Yina L. Hauge", "Lars Tanum"],
+        "abstract": ["Background: \nA defined goal in mental health care is to increase the opportunities for patients to more actively participate in their treatment. This goal includes integrating aspects of user empowerment and shared decision-making (SDM) into treatment courses. To achieve this goal, more knowledge is needed about how patients and therapists perceive..."]
+      },
+      {
+        "title": "Enabling patients to cope with psychotropic medication in mental health care: Evaluation and reports of the new inventory MedSupport",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Karin Drivenes", "John-Kåre Vederhus", "Vegard Øksendal Haaland", "Lars Tanum"],
+        "abstract": ["This cross sectional study examined patients’ perceptions of professional support regarding use of psychotropic medication in a specialist mental health care setting. The aims were to evaluate reliability and validity of the MedSupport inventory, and investigate possible associations between MedSupport scores and patient characteristics.\nA cross-se..."]
+      },
+      {
+        "title": "Where did my OCD come from? A qualitative exploratory study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Åshild Tellefsen Håland", "Gunvor Launes", "Tor Sunde", "Liv Tveit Walseth"],
+        "abstract": ["https://doi.org/10.15714/scandpsychol.6.e12"]
+      },
+      {
+        "title": "Norwegian Acceptance and Action Questionnaire (NAAQ): A psychometric evaluation.",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Tom Ostergaard", "Tobias Lundgren", "Robert Zettle", "Vegard Øksendal Haaland"],
+        "abstract": ["The Acceptance and Action Questionnaire (AAQ-II) aims to measure psychological flexibility (PF), described as the ability to act according to chosen values while consciously being in contact with present moment experiences that might function as obstacles. To date, the psychometric properties of a Norwegian translated version of the AAQ-II (NAAQ) h..."]
+      },
+      {
+        "title": "Early maladaptive schemas impact on long-term outcome in patients treated with group behavioral therapy for obsessive-compulsive disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Tor Sunde", "Benjamin Hummelen", "Joseph A. Himle", "Åshild Tellefsen Håland"],
+        "abstract": ["Background: \nSome studies have previously found that certain elevated early maladaptive schemas (EMSs) are negative predictors for outcome for patients with obsessive-compulsive disorder (OCD) treated with Cognitive-Behavioral Therapy (CBT) or Exposure and Response Prevention (ERP). The current study explores whether EMS were related to reductions..."]
+      },
+      {
+        "title": "Practitioners' positive attitudes promote shared decision‐making in mental health care",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Karin Drivenes", "Vegard Øksendal Haaland", "Terje Mesel", "Lars Tanum"],
+        "abstract": ["Rationale and aims: \nThere is a growing expectation of implementing shared decision making (SDM) in today's health care service, including mental health care. Traditional understanding of SDM may be too narrow to capture the complexity of treatments of mental health problems. Although the patients' contribution to SDM is well described, the contrib..."]
+      },
+      {
+        "title": "Acceptance and Commitment Therapy Preceded by Attention Bias Modification on Residual Symptoms in Depression: A 12-Month Follow-Up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Tom Ostergaard", "Tobias Lundgren", "Ingvar Rosendahl", "Vegard Øksendal Haaland"],
+        "abstract": ["Depression is a highly recurrent disorder with limited treatment alternatives for reducing risk of subsequent episodes. Acceptance and commitment therapy (ACT) and attention bias modification (ABM) separately have shown some promise in reducing depressive symptoms. This study investigates (a) if group-based ACT had a greater impact in reducing resi..."]
+      },
+      {
+        "title": "Present in Daily Life: Obsessive Compulsive Disorder and Its Impact on Family Life from the Partner's Perspective. A Focus Group Study",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Liv Tveit Walseth", "Gunvor Launes", "Tor Sunde", "Åshild Tellefsen Håland"],
+        "abstract": ["This focus group study explores the experiences of five partners of patients suffering from obsessive-compulsive disorder concerning how this disorder might influence couples’ relationships in the long-term. We find that the disorder might give rise to power struggles concerning “normality”, deprive couples of opportunities for rewarding fellowship..."]
+      },
+      {
+        "title": "Effects of Attentional Bias Modification on residual symptoms in depression: A randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Rune Jonassen", "Catherine Harmer", "Eva Hilland", "Nils Inge Landrø"],
+        "abstract": ["Background\nFollowing treatment, many depressed patients have significant residual symptoms. However, large randomised controlled trials (RCT) in this population are lacking. When Attention bias modification training (ABM) leads to more positive emotional biases, associated changes in clinical symptoms have been reported. A broader and more transpar..."]
+      },
+      {
+        "title": "Supplementary Material 1",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Rune Jonassen", "Catherine Harmer", "Eva Hilland", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Rune Jonassen", "Catherine Harmer", "Eva Hilland", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Effects of Attentional Bias Modification on Residual Symptoms in depression. A Randomized Controlled Trial",
+        "tags": ["Preprint"],
+        "date": "May 2018",
+        "authors": ["Rune Jonassen", "Catherine Harmer", "Eva Hilland", "Nils Inge Landro"],
+        "abstract": ["Objective: Following treatment, many depressed patients have significant residual symptoms. However, large randomised controlled trials (RCT) in this population are lacking. Attention bias modification training (ABM) can modify biases in emotion processing and may lead to symptom relief. We hypothesized that two weeks of ABM training would reduce c..."]
+      },
+      {
+        "title": "Acceptance and Commitment Therapy preceded by an experimental Attention Bias Modification procedure in recurrent depression: Study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Tom Ostergaard", "Tobias Lundgren", "Robert Zettle", "Vegard Øksendal Haaland"],
+        "abstract": ["Background: \nThis project studies the effect of group-based Acceptance and Commitment Therapy (ACT) following Attention Bias Modification (ABM) on residual symptoms in recurrent depression. ACT is a cognitive-behavioral intervention combining acceptance and mindfulness processes with commitment and behavior-change processes. ACT enjoys modest empir..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Tom Ostergaard", "Tobias Lundgren", "Robert Zettle", "Vegard Øksendal Haaland"],
+        "abstract": []
+      },
+      {
+        "title": "PE004: Patients’ drug-use and their involvement in shared decision making in mental healthcare",
+        "tags": ["Poster"],
+        "date": "Oct 2017",
+        "authors": ["Yina L. Hauge", "Karin Drivenes", "John-Kåre Vederhus", "Vegard Øksendal Haaland"],
+        "abstract": ["Int J Clin Pharm (2018) 40: 203. https://doi.org/10.1007/s11096-017-0565-9"]
+      },
+      {
+        "title": "RD003: Does health service offer persons with psychosis evidencebased treatment?",
+        "tags": ["Poster"],
+        "date": "Oct 2017",
+        "authors": ["Karin Drivenes", "Ørjan Fossheim", "Vegard Øksendal Haaland", "Torleif Ruud"],
+        "abstract": []
+      },
+      {
+        "title": "Selvmord, psykisk helsevern og tverrfaglig spesialisert rusbehandling i Agder 2004 – 13",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Vegard Øksendal Haaland", "Marianne Bjørkholt", "Anne Freuchen", "Fredrik A Walby"],
+        "abstract": ["Background: \nMost of those who commit suicide suffer from one or more mental disorders. We wished to identify the proportion that had been in contact with mental health care or interdisciplinary specialised addiction services during their lifetime and in the year prior to their death, and to describe characteristics of these patients.\n\nMaterial and..."]
+      },
+      {
+        "title": "Thought Field Therapy Compared to Cognitive Behavioral Therapy and Wait-List for Agoraphobia: A Randomized, Controlled Study with a 12-Month Follow-up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Audun Irgens", "Asle Hoffart", "Tor E Nysaeter", "Toril Dammen"],
+        "abstract": ["Background: Thought field therapy (TFT) is used for many psychiatric conditions, but its efficacy has not been sufficiently documented. Hence, there is a need for studies comparing TFT to well-established treatments. This study compares the efficacy of TFT and cognitive behavioral therapy (CBT) for patients with agoraphobia.\nMethods: Seventy-two pa..."]
+      },
+      {
+        "title": "A long-term follow-up of group behavioral therapy for obsessive-compulsive disorder in a general outpatient clinic in Norway",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Tor Sunde", "Liv Tveit Walseth", "Joseph Himle", "Åshild Tellefsen Håland"],
+        "abstract": ["There is a lack of knowledge regarding the long-term effect of evidence-based CBT/ ERP treatment for OCD that is delivered in routine clinical care. The aim of this study was to examine the long-term effectiveness of behavioral treatment for OCD in a Norwegian general outpatient clinic. In the current study, 62% (N = 40) of the original patients tr..."]
+      },
+      {
+        "title": "Self-Management of Obsessive-Compulsive Disorder in the long-term after therapy - a focus group interview",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["Liv Tveit Walseth", "Åshild Marie Tveit Walseth", "Gunvor Launes", "Åshild Tellefsen Håland"],
+        "abstract": ["Background, aims and objectives: When research investigates how patients obsessive compulsive disorder (OCD) are doing after therapy they usually report a symptom level at single points in time. The goal of the present study was to reveal a more multidimensional description of what OCD patients who have received treatment might find valuable when d..."]
+      },
+      {
+        "title": "Obsessive-Compulsive Disorder’s Impact on Partner Relationships: A Qualitative Study",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Liv Tveit Walseth", "Vegard Øksendal Haaland", "Gunvor Launes", "Åshild Tellefsen Håland"],
+        "abstract": ["There is need for more knowledge concerning couple relationships and obsessive-compulsive disorder. In this study, patients with obsessive-compulsive disorder were interviewed in focus groups concerning how their illness influences relationship with their partner. The interviews were analyzed phenomenological. The results show that obsessive-compul..."]
+      },
+      {
+        "title": "SU27. Cognitive Remediation, Cognitive Behavioral Therapy, and Occupational Outcome in Schizophrenia Spectrum Disorders: A 2-Year Follow-up Study",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Vegard Øksendal Haaland", "Torill Ueland"],
+        "abstract": ["Background: Neurocognitive impairment is prominent in schizophrenia and significantly related to low occupational attainment and poor occupational outcomes (August et al, 2012). Vocational rehabilitation (VR) is frequently implemented to counteract high unemployment rates. Individuals with schizophrenia however face numerous challenges such as neur..."]
+      },
+      {
+        "title": "Cognitive remediation and occupational outcome in schizophrenia spectrum disorders: A 2year follow-up study",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Vegard Øksendal Haaland", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "Neurocognition and occupational functioning in schizophrenia spectrum disorders: The MATRICS Consensus Cognitive Battery (MCCB) and workplace assessments",
+        "tags": ["Article"],
+        "date": "Dec 2015",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Vegard Øksendal Haaland", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "Kriser og ulike tilnærminger til kriser",
+        "tags": ["Chapter"],
+        "date": "Mar 2015",
+        "authors": ["Vegard Øksendal Haaland", "Marit Eriksen", "Karl Erik Karlsen"],
+        "abstract": []
+      },
+      {
+        "title": "Klassifisering av psykiske lidelser - Psykisk lidelse – alt eller intet?",
+        "tags": ["Chapter"],
+        "date": "Mar 2015",
+        "authors": ["Vegard Øksendal Haaland", "Marit Eriksen", "Karl Erik Karlsen", "Dagfinn Ulland"],
+        "abstract": []
+      },
+      {
+        "title": "NEUROCOGNITION AND OCCUPATIONAL FUNCTIONING IN SCHIZOPHRENIA SPECTRUM DISORDERS",
+        "tags": ["Conference Paper"],
+        "date": "Mar 2015",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Vegard Øksendal Haaland", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "The MATRICS Consensus Cognitive Battery (MCCB): performance and functional correlates",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Christine Mohn", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "Dissociative experiences in patients with borderline personality disorder",
+        "tags": ["Chapter"],
+        "date": "Jun 2013",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "The role of early maladaptive schemas in predicting exposure and response prevention outcome for obsessive-compulsive disorder",
+        "tags": ["Article"],
+        "date": "Sep 2011",
+        "authors": ["Åshild Tellefsen Håland", "Patrick A Vogel", "Gunvor Launes", "Joseph Himle"],
+        "abstract": ["This is the first study that explores whether early maladaptive schemas are related to treatment outcome for patients with obsessive-compulsive disorder (OCD). The sample consisted of 88 outpatients with a diagnosis of OCD who completed exposure and response prevention treatment. The Yale-Brown Obsessive-Compulsive Scale (Y-BOCS), the Beck Depressi..."]
+      },
+      {
+        "title": "Pathological dissociation and neuropsychological functioning in borderline personality disorder",
+        "tags": ["Article"],
+        "date": "May 2009",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": ["Transient, stress-related severe dissociative symptoms or paranoid ideation is one of the criteria defining the borderline personality disorder (BPD). Examinations of the neuropsychological correlates of BPD reveal various findings. The purpose of this study was to investigate the association between dissociation and neuropsychological functioning..."]
+      },
+      {
+        "title": "Selective deficit in executive functioning among patients with borderline personality disorder",
+        "tags": ["Article"],
+        "date": "Mar 2009",
+        "authors": ["Vegard Øksendal Haaland", "L Esperaas", "Nils Inge Landrø"],
+        "abstract": ["The aim of this study was to investigate the functioning of patients with borderline personality disorder (BPD) compared to healthy controls on five neuropsychological domains, with regard to the possible effect of differences in IQ.Method\nOut-patients and in-patients with BPD (n=35) and healthy comparison subjects (n=35) were tested with an extens..."]
+      },
+      {
+        "title": "Changes in adherence to clinical guidelines following the development of an specialized early intervention service",
+        "tags": ["Article"],
+        "date": "Oct 2008",
+        "authors": ["O. Saether", "M. Stadler", "E. Holck-Steen", "Vegard Øksendal Haaland"],
+        "abstract": []
+      },
+      {
+        "title": "Premorbid Psychosocial Functioning in Borderline Personality Disorder",
+        "tags": ["Poster"],
+        "date": "Sep 2007",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Decision making as measured with the Iowa Gambling Task in patients with borderline personality disorder",
+        "tags": ["Article"],
+        "date": "Aug 2007",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": ["Affective instability is a core dimension of borderline personality disorder. The somatic marker hypothesis suggests that emotions play a crucial role in decision making. In this preliminary study, decision making was assessed in individuals with borderline personality disorder. Patients with borderline personality disorder (n = 20) and healthy com..."]
+      },
+      {
+        "title": "Executive Functions in Patients with Borderline Personality Disorder",
+        "tags": ["Poster"],
+        "date": "Jul 2007",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Pointing accuracy in children is dependent on age, sex and experience",
+        "tags": ["Article"],
+        "date": "Dec 2003",
+        "authors": ["Maria Lehnung", "Bernd Leplow", "Hubertus Maximilian Mehdorn", "Vegard Øksendal Haaland"],
+        "abstract": ["We investigated the influence of age, sex and familiarity on spatial performance assessed with a pointing task in 84 children: 21 kindergartners, 21 first-graders, 21 fifth-graders and 21 sixth-graders. Spatial performance was assessed in the children's natural environment, their respective school or kindergarten. The children had to indicate the d..."]
+      },
+      {
+        "title": "Compass-versus finger-pointing tasks: The influence of different methods of assessment on age-related orientation performance in children",
+        "tags": ["Article"],
+        "date": "Sep 2001",
+        "authors": ["Maria Lehnung", "Vegard Øksendal Haaland", "JOHANNES POHL", "Bernd Leplow"],
+        "abstract": ["We investigated age-related spatial orientation performance and the influence of method of assessment in 153 children aged 5, 7 and 11 years with a pointing task. Children were taken on a landmark learning tour and then asked to indicate the location of the landmarks by pointing in the correct direction. Half of the children in each age-group made..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [47],
+    "reads": [6560],
+    "citations": [596]
   }
 }

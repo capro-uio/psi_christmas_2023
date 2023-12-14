@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Pål Ulleberg",
-    "id": "NHykGwkAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Pål Ulleberg"],
+    "id": ["NHykGwkAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -835,8 +835,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-3364-318X",
-    "name": "Pål Ulleberg",
+    "orcid": ["0000-0002-3364-318X"],
+    "name": ["Pål Ulleberg"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -856,11 +856,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Pål Ulleberg",
-    "id": "6415",
+    "name": ["Pål Ulleberg"],
+    "id": ["6415"],
     "keywords": ["Psychometrics / Applied statistics", "Quanitative research methods", "Safety psychology", "Social influence"],
     "position": ["Professor", "Guest", "Guest", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/6415/picture",
+    "img": ["https://api.cristin.no/v2/persons/6415/picture"],
     "works": [
       {
         "type": "Academic lecture",
@@ -872,29 +872,29 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Does age matter? Examining age-dependent differences in at-fault collisions after attending a refresher course for older drivers",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/2023607"
+        "url": "https://api.cristin.no/v2/results/2023607",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Individual versus general structured\r\nfeedback to improve agreement in grant\r\npeer review: a randomized controlled trial",
-        "journal": "Research Integrity and Peer Review",
-        "url": "https://api.cristin.no/v2/results/1979630"
+        "url": "https://api.cristin.no/v2/results/1979630",
+        "journal": "Research Integrity and Peer Review"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Is perceived control of depression related to therapy outcome for depression? A longitudinal study",
-        "journal": "Journal of Psychiatric Research",
-        "url": "https://api.cristin.no/v2/results/1915994"
+        "url": "https://api.cristin.no/v2/results/1915994",
+        "journal": "Journal of Psychiatric Research"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Effects of trust, structure and processes on effectiveness in a military organization: exploring a moderated mediation model",
-        "journal": "Leadership & Organization Development Journal",
-        "url": "https://api.cristin.no/v2/results/1914742"
+        "url": "https://api.cristin.no/v2/results/1914742",
+        "journal": "Leadership & Organization Development Journal"
       },
       {
         "type": "Doctoral dissertation",
@@ -906,36 +906,36 @@
         "type": "Academic article",
         "year": "2020",
         "title": "The effects of yoga on student mental health: a randomised controlled trial",
-        "journal": "Health Psychology and Behavioral Medicine",
-        "url": "https://api.cristin.no/v2/results/1850392"
+        "url": "https://api.cristin.no/v2/results/1850392",
+        "journal": "Health Psychology and Behavioral Medicine"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "High-intensity interval training and active video gaming improve neurocognition in schizophrenia: a randomized controlled trial",
-        "journal": "European Archives of Psychiatry and Clinical Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1848156"
+        "url": "https://api.cristin.no/v2/results/1848156",
+        "journal": "European Archives of Psychiatry and Clinical Neuroscience"
       },
       {
         "type": "Abstract",
         "year": "2020",
         "title": "Shared and differential neurocognitive effects comparing high-intensity interval training and active video-gaming in schizophrenia - results from an rct",
-        "journal": "Schizophrenia Bulletin",
-        "url": "https://api.cristin.no/v2/results/1812403"
+        "url": "https://api.cristin.no/v2/results/1812403",
+        "journal": "Schizophrenia Bulletin"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Effects of roadwork characteristics and drivers? individual differences on speed preferences in a rural work zone",
-        "journal": "Accident Analysis and Prevention",
-        "url": "https://api.cristin.no/v2/results/1735414"
+        "url": "https://api.cristin.no/v2/results/1735414",
+        "journal": "Accident Analysis and Prevention"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Speed preferences in work zones: the combined effect of visible roadwork activity, personality traits, attitudes, risk perception and driving style",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/1676755"
+        "url": "https://api.cristin.no/v2/results/1676755",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Doctoral dissertation",
@@ -953,78 +953,78 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Effect of yoga in the treatment of eating disorders: A single-blinded randomized controlled trial with 6-months follow-up.",
-        "journal": "International Journal of Yoga",
-        "url": "https://api.cristin.no/v2/results/1653501"
+        "url": "https://api.cristin.no/v2/results/1653501",
+        "journal": "International Journal of Yoga"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Emotional Dissonance and Sickness Absence Among Employees Working With Customers and Clients: A Moderated Mediation Model via Exhaustion and Human Resource Primacy",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1577271"
+        "url": "https://api.cristin.no/v2/results/1577271",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Exploring associations between self-regulatory mechanisms and neuropsychological functioning and driver behaviour after brain injury",
-        "journal": "Neuropsychological Rehabilitation",
-        "url": "https://api.cristin.no/v2/results/1458517"
+        "url": "https://api.cristin.no/v2/results/1458517",
+        "journal": "Neuropsychological Rehabilitation"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Is established knowledge about cross-cultural differences in individualism–collectivism not applicable to the military? A multi-method study of cross-cultural differences in behavior.",
-        "journal": "Military Psychology",
-        "url": "https://api.cristin.no/v2/results/1516343"
+        "url": "https://api.cristin.no/v2/results/1516343",
+        "journal": "Military Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Interventions for Subjects with Depressive Symptoms with or without Unhealthy Alcohol Use: Are There Different Patterns of Change?",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1476361"
+        "url": "https://api.cristin.no/v2/results/1476361",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Analysing the influence of visible roadwork activity on drivers’ speed choice at work zones using a video-based experiment",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/1438807"
+        "url": "https://api.cristin.no/v2/results/1438807",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Depersonalization reconsidered: An empirical\r\nanalysis of the relation between depersonalization\r\nand cynicism in an extended version of the\r\nMaslach Burnout Inventory",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/1413796"
+        "url": "https://api.cristin.no/v2/results/1413796",
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Levels of alcohol use and depression severity as predictors of missed therapy sessions in cognitive behavioral psycho-educational group treatment for depression",
-        "journal": "Addiction Research and Theory",
-        "url": "https://api.cristin.no/v2/results/1365915"
+        "url": "https://api.cristin.no/v2/results/1365915",
+        "journal": "Addiction Research and Theory"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Everyday Understandings of Happiness, Good Life, and Satisfaction: Three Different Facets of Well-being",
-        "journal": "Applied Research in Quality of Life",
-        "url": "https://api.cristin.no/v2/results/1362166"
+        "url": "https://api.cristin.no/v2/results/1362166",
+        "journal": "Applied Research in Quality of Life"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Well-being vocabulary in media language: An analysis of changing word usage in Norwegian newspapers",
-        "journal": "Journal of Positive Psychology",
-        "url": "https://api.cristin.no/v2/results/1362164"
+        "url": "https://api.cristin.no/v2/results/1362164",
+        "journal": "Journal of Positive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Measuring Effortful Control Using the Children's Behavior Questionnaire-Very Short Form: Modeling Matters",
-        "journal": "Journal of Personality Assessment",
-        "url": "https://api.cristin.no/v2/results/1352983"
+        "url": "https://api.cristin.no/v2/results/1352983",
+        "journal": "Journal of Personality Assessment"
       },
       {
         "type": "Brochure",
@@ -1035,8 +1035,8 @@
         "type": "Academic article",
         "year": "2015",
         "title": "Exploring associations between self-reported executive functions, impulsive personality traits, driving self-efficacy, and functional abilities in driver behaviour after brain injury",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/1253739"
+        "url": "https://api.cristin.no/v2/results/1253739",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Academic lecture",
@@ -1047,57 +1047,57 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Behavioural ratings of self-regulatory mechanisms and driving behaviour after an acquired brain injury",
-        "journal": "Brain Injury",
-        "url": "https://api.cristin.no/v2/results/1191252"
+        "url": "https://api.cristin.no/v2/results/1191252",
+        "journal": "Brain Injury"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "Alcohol use is not directly related to the perceived control of depressive symptoms in patients with depressive symptoms",
-        "journal": "Frontiers in Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1128641"
+        "url": "https://api.cristin.no/v2/results/1128641",
+        "journal": "Frontiers in Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "Depressive Symptoms in People with and without Alcohol Abuse: Factor Structure and Measurement Invariance of the Beck Depression Inventory (BDI-II) Across Groups",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1118071"
+        "url": "https://api.cristin.no/v2/results/1118071",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Perceived islamophobia: Scale development and validation",
-        "journal": "International Journal of Intercultural Relations",
-        "url": "https://api.cristin.no/v2/results/996448"
+        "url": "https://api.cristin.no/v2/results/996448",
+        "journal": "International Journal of Intercultural Relations"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Differences on adolescent life goal profile scale between a clinical and non-clinical adolescent sample",
-        "journal": "International journal of psychiatry in clinical practice",
-        "url": "https://api.cristin.no/v2/results/985812"
+        "url": "https://api.cristin.no/v2/results/985812",
+        "journal": "International journal of psychiatry in clinical practice"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Psychotherapists' self-reports of their interpersonal functioning and difficulties in practice as predictors of patient outcome",
-        "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/985810"
+        "url": "https://api.cristin.no/v2/results/985810",
+        "journal": "Psychotherapy Research"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Intergroup perception and proactive majority integration Attitudes",
-        "journal": "Social Psychology",
-        "url": "https://api.cristin.no/v2/results/915872"
+        "url": "https://api.cristin.no/v2/results/915872",
+        "journal": "Social Psychology"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Social design feedback: evaluations with users in online ad-hoc groups",
-        "journal": "Human-centric Computing and Information Sciences",
-        "url": "https://api.cristin.no/v2/results/1081157"
+        "url": "https://api.cristin.no/v2/results/1081157",
+        "journal": "Human-centric Computing and Information Sciences"
       },
       {
         "type": "Poster",
@@ -1109,92 +1109,92 @@
         "type": "Academic article",
         "year": "2013",
         "title": "Assessing a Norwegian Translation of the Organizational Climate Measure",
-        "journal": "Psychological Reports",
-        "url": "https://api.cristin.no/v2/results/1030498"
+        "url": "https://api.cristin.no/v2/results/1030498",
+        "journal": "Psychological Reports"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Exploring the relationships between fear-related xenophobia, perceptions of out-group entitativity and social contact in Norway",
-        "journal": "Psychological Reports",
-        "url": "https://api.cristin.no/v2/results/1019491"
+        "url": "https://api.cristin.no/v2/results/1019491",
+        "journal": "Psychological Reports"
       },
       {
         "type": "Abstract",
         "year": "2012",
         "title": "Critical factors in driving assessment after Stroke and TBI: Risky premorbid driving behaviors",
-        "journal": "Brain Injury",
-        "url": "https://api.cristin.no/v2/results/985885"
+        "url": "https://api.cristin.no/v2/results/985885",
+        "journal": "Brain Injury"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "A longitudinal study of postpartum depressive symptoms: multilevel growth curve analyses of emotion regulation strategies, breastfeeding self-efficacy, and social support",
-        "journal": "Archives of Women's Mental Health",
-        "url": "https://api.cristin.no/v2/results/944803"
+        "url": "https://api.cristin.no/v2/results/944803",
+        "journal": "Archives of Women's Mental Health"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "Coping with Islamophobia: The effects of religious stigma on Muslim minorities' identity formation",
-        "journal": "International Journal of Intercultural Relations",
-        "url": "https://api.cristin.no/v2/results/895852"
+        "url": "https://api.cristin.no/v2/results/895852",
+        "journal": "International Journal of Intercultural Relations"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "The Adolescent Life Goal Profile Scale: Developmentof a New Scale for Measurements of Life GoalsAmong Young People",
-        "journal": "Journal of Happiness Studies",
-        "url": "https://api.cristin.no/v2/results/860739"
+        "url": "https://api.cristin.no/v2/results/860739",
+        "journal": "Journal of Happiness Studies"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Effects of Cultural Diversity on Trust and its Consequences for Team Processes and Outcomes in Ad Hoc Distributed Teams",
-        "journal": "Scandinavian Journal of Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/871461"
+        "url": "https://api.cristin.no/v2/results/871461",
+        "journal": "Scandinavian Journal of Organizational Psychology"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Organizational Climate and Innovation in the Norwegian Service Sector",
-        "journal": "Scandinavian Journal of Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/831491"
+        "url": "https://api.cristin.no/v2/results/831491",
+        "journal": "Scandinavian Journal of Organizational Psychology"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Meta-analysis of the effect of road safety campaigns on accidents",
-        "journal": "Accident Analysis and Prevention",
-        "url": "https://api.cristin.no/v2/results/526841"
+        "url": "https://api.cristin.no/v2/results/526841",
+        "journal": "Accident Analysis and Prevention"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Attentional Functions in Major Depressive Disorders With and Without Comorbid Anxiety",
-        "journal": "Archives of Clinical Neuropsychology",
-        "url": "https://api.cristin.no/v2/results/515289"
+        "url": "https://api.cristin.no/v2/results/515289",
+        "journal": "Archives of Clinical Neuropsychology"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Verbal Memory Functions in Unipolar Major Depression With and Without Co-morbid Anxiety",
-        "journal": "The Clinical Neuropsychologist",
-        "url": "https://api.cristin.no/v2/results/515283"
+        "url": "https://api.cristin.no/v2/results/515283",
+        "journal": "The Clinical Neuropsychologist"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Cognitive control functions in unipolar major deepression with or without co-morbid anxiety",
-        "journal": "Frontiers in Psychiatry",
-        "url": "https://api.cristin.no/v2/results/524541"
+        "url": "https://api.cristin.no/v2/results/524541",
+        "journal": "Frontiers in Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2009",
         "title": "Accidents and Unpleasant Incidents: Worry in Transport and Prediction of Travel Behavior",
-        "journal": "Risk Analysis",
-        "url": "https://api.cristin.no/v2/results/354092"
+        "url": "https://api.cristin.no/v2/results/354092",
+        "journal": "Risk Analysis"
       },
       {
         "type": "Report",
@@ -1217,36 +1217,36 @@
         "type": "Academic article",
         "year": "2004",
         "title": "Social influence from the back-seat. Factors related to adolescent passengers willingness to address unsafe drivers",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/354723"
+        "url": "https://api.cristin.no/v2/results/354723",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2004",
         "title": "Traffic education of small children with the use of a table-top model",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/354722"
+        "url": "https://api.cristin.no/v2/results/354722",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2003",
         "title": "Personality, attitudes and risk perception as predictors of risky driving behaviour among young drivers",
-        "journal": "Safety Science",
-        "url": "https://api.cristin.no/v2/results/412306"
+        "url": "https://api.cristin.no/v2/results/412306",
+        "journal": "Safety Science"
       },
       {
         "type": "Academic article",
         "year": "2002",
         "title": "Compulsory admissions to psychiatric hospitals in Norway – international comparisons and regional variations",
-        "journal": "Journal of Mental Health",
-        "url": "https://api.cristin.no/v2/results/354720"
+        "url": "https://api.cristin.no/v2/results/354720",
+        "journal": "Journal of Mental Health"
       },
       {
         "type": "Academic article",
         "year": "2002",
         "title": "Risk-taking attitudes among young drivers: the psychometric qualities and dimensionality of an instrument to measure young drivers’ risk-taking attitudes",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/353914"
+        "url": "https://api.cristin.no/v2/results/353914",
+        "journal": "Scandinavian Journal of Psychology"
       },
       {
         "type": "Doctoral dissertation",
@@ -1258,8 +1258,8 @@
         "type": "Academic article",
         "year": "2001",
         "title": "Personality subtypes of young drivers. Relationship to risk-taking preferences, accident involvement, and response to a traffic safety campaign",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/354094"
+        "url": "https://api.cristin.no/v2/results/354094",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Textbook",
@@ -1389,22 +1389,22 @@
         "type": "Academic article",
         "year": "1998",
         "title": "Organisational factors and workload among offshore oil personnel",
-        "journal": "Safety Science",
-        "url": "https://api.cristin.no/v2/results/414803"
+        "url": "https://api.cristin.no/v2/results/414803",
+        "journal": "Safety Science"
       },
       {
         "type": "Academic article",
         "year": "1997",
         "title": "Job stress, social support, job satisfaction and absenteeism",
-        "journal": "Work & Stress",
-        "url": "https://api.cristin.no/v2/results/415984"
+        "url": "https://api.cristin.no/v2/results/415984",
+        "journal": "Work & Stress"
       },
       {
         "type": "Academic article",
         "year": "1997",
         "title": "Job stress, social support, job satisfaction and absenteeism among offshore oil personnel",
-        "journal": "Work & Stress",
-        "url": "https://api.cristin.no/v2/results/354091"
+        "url": "https://api.cristin.no/v2/results/354091",
+        "journal": "Work & Stress"
       },
       {
         "type": "Non-fiction book",
@@ -1495,5 +1495,422 @@
         "url": "https://api.cristin.no/v2/results/22861"
       }
     ]
+  },
+  "rg": {
+    "id": "Pal-Ulleberg",
+    "name": "Pål Ulleberg",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychological Assessment", "Structural Equation Modeling"],
+    "works": [
+      {
+        "title": "Does age matter? Examining age-dependent differences in at-fault collisions after attending a refresher course for older drivers",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Pål Ulleberg", "Torkel Bjørnskau", "Knut Inge Fostervold"],
+        "abstract": ["The “Driver 65+” course is a voluntary refresher course offered to all drivers aged 65 years or older in Norway. The current study estimated differences in at-fault motor vehicle collisions (MVCs) between older drivers who had attended in the course and older drivers who had not attended the course.\n\nMethods\nTwo samples of drivers were selected fro..."]
+      },
+      {
+        "title": "Individual versus general structured feedback to improve agreement in grant peer review: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Jan-Ole Hesselberg", "Knut Inge Fostervold", "Pål Ulleberg", "Ida C Svege"],
+        "abstract": ["Background\nVast sums are distributed based on grant peer review, but studies show that interrater reliability is often low. In this study, we tested the effect of receiving two short individual feedback reports compared to one short general feedback report on the agreement between reviewers.\n\nMethods\nA total of 42 reviewers at the Norwegian Foundat..."]
+      },
+      {
+        "title": "Is Perceived Control of Depression Related to Therapy Outcome for Depression? A Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Pål Ulleberg", "Torkil Berge", "Hilde Dallavara Lending", "Nils Inge Landrø"],
+        "abstract": ["Background\nThe present study followed a group of patients over a two-year period after they had received a cognitive behavioral psychoeducational intervention targeting patients’ ability to cope with depression. The main aims were to examine whether a change in both depressive symptoms and in the perceived control of depression occurred and the rel..."]
+      },
+      {
+        "title": "Individual versus general structured feedback to improve agreement in grant peer review: A randomized controlled trial",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Jan-Ole Hesselberg", "Knut Inge Fostervold", "Pål Ulleberg", "Ida C Svege"],
+        "abstract": ["Background\nVast sums are distributed based on grant peer review, but studies show that interrater reliability is often low. In this study, we tested the effect of receiving a short individual feedback report compared to a short general feedback report on the agreement between reviewers.MethodsA total of 42 reviewers at the Norwegian Foundation Dam..."]
+      },
+      {
+        "title": "Effects of trust, structure and processes on effectiveness in a military organization: exploring a moderated mediation model",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Anne Lise Bjørnstad", "Pål Ulleberg"],
+        "abstract": ["Purpose\nThe purpose of this study is to better understand the consequences of trust between personnel at different hierarchical levels for organizational effectiveness. The authors aim to explore the direct effects and the interaction effects of trust with organizational structure and processes. The study focuses on military organizations and expan..."]
+      },
+      {
+        "title": "High-intensity interval training and active video gaming improve neurocognition in schizophrenia: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Gry Bang-Kittilsen", "Jens Egeland", "Tom L Holmen", "John Abel Engh"],
+        "abstract": ["There is a need for treatments targeting neurocognitive dysfunctions in schizophrenia. The aim of this study was to investigate the neurocognitive effect of aerobic high-intensity interval training (HIIT). A comparison group performed sport simulating active video gaming (AVG). We anticipated that HIIT would improve neurocognition beyond any effect..."]
+      },
+      {
+        "title": "The effects of yoga on student mental health: a randomised controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Tiril Elstad", "Pål Ulleberg", "Sandra Klonteig", "Arild Bjørndal"],
+        "abstract": ["Background\nUniversities around the world are facing an epidemic of mental distress among their students. The problem is truly a public health issue, affecting many and with serious consequences. The global burden of disease-agenda calls for effective interventions with lasting effects that have the potential to improve the mental health of young ad..."]
+      },
+      {
+        "title": "O4.3. SHARED AND DIFFERENTIAL NEUROCOGNITIVE EFFECTS COMPARING HIGH-INTENSITY INTERVAL TRAINING AND ACTIVE VIDEO-GAMING IN SCHIZOPHRENIA – RESULTS FROM AN RCT",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Gry Bang-Kittilsen", "Jens Egeland", "Tom L Holmen", "John Abel Engh"],
+        "abstract": ["Background\nStudies on the efficiency and efficacy of aerobic exercise (AE) as a neurocognitive intervention in schizophrenia are promising, but there is a need for larger and well-designed randomized controlled trials (RCT) to draw more certain conclusions. The aim of this RCT was to study the effect of high-intensity interval training (HIIT), on n..."]
+      },
+      {
+        "title": "Effects of roadwork characteristics and drivers' individual differences on speed preferences in a rural work zone",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Renata Torquato Steinbakk", "Pål Ulleberg", "Fridulv Sagberg", "Knut Inge Fostervold"],
+        "abstract": ["Work zone safety from a psychological perspective has received little attention in scientific literature. Therefore, the present study aims to explore the influence of roadwork characteristics and drivers' individual differences in terms of personality traits and self-assessment of driving skills on speed preferences in a rural work zone. Eight hun..."]
+      },
+      {
+        "title": "Speed preferences in work zones: The combined effect of visible roadwork activity, personality traits, attitudes, risk perception and driving style",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Renata Torquato Steinbakk", "Pål Ulleberg", "Fridulv Sagberg", "Knut Inge Fostervold"],
+        "abstract": ["One of the most common safety issues at work zones is high speed variation. Nevertheless, few studies have addressed psychological variables to deepen the understanding of drivers’ speed choice in work zones. The present study examined whether work zones represent a type of situation that may trigger the expression of certain personality traits res..."]
+      },
+      {
+        "title": "Effect of Yoga in the Treatment of Eating Disorders: A Single-blinded Randomized Controlled Trial with 6-Months Follow-up",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["KariEbbesen Karlsen", "Karianne R Vrabel", "Solfrid Bratland-Sanda", "Kirsten Benum"],
+        "abstract": ["Aim of the study: \nThe aim of this study is to examine the effect of yoga treatment of eating disorders (EDs).\n\nMethods: \nAdult females meeting the Diagnostic and Statistical Manual-IV criteria for bulimia nervosa or ED not otherwise specified (n = 30) were randomized to 11-week yoga intervention group (2 × 90 min/week) or a control group. Outcome..."]
+      },
+      {
+        "title": "Emotional Dissonance and Sickness Absence Among Employees Working With Customers and Clients: A Moderated Mediation Model via Exhaustion and Human Resource Primacy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Anne-Marthe Rustad Indregard", "Pål Ulleberg", "Stein Knardahl", "Morten Birkeland Nielsen"],
+        "abstract": ["Emotional dissonance, i.e., a discrepancy between required and felt emotions, has been established as a predictor of sickness absence in studies, but little is known about mechanisms that can explain this association. In order to prevent and reduce the impact of emotional dissonance on sickness absence, there is a need for greater attention to vari..."]
+      },
+      {
+        "title": "Is Established Knowledge About Cross-Cultural Differences in Individualism-Collectivism Not Applicable to the Military? A Multi-Method Study of Cross-Cultural Differences in Behavior",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Anne Lise Bjørnstad", "Pål Ulleberg"],
+        "abstract": ["Preparing for international military collaboration includes raising knowledge about cultural differences. The differences in individualism-collectivism between countries are among the most central aspects likely to impact collaboration. However, are the differences in individualism-collectivism between countries as documented in a significant amoun..."]
+      },
+      {
+        "title": "Interventions for Subjects with Depressive Symptoms with or without Unhealthy Alcohol Use: Are There Different Patterns of Change?",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Cecilie Skule", "Pål Ulleberg", "Torkil Berge", "Nils Inge Landrø"],
+        "abstract": ["Background: It has been suggested that alcohol problems negatively affect therapeutic interventions for depression. This study examines the patterns of change in depressive symptoms following an intervention for depression, in participants with or without comorbid unhealthy alcohol use.\nMethods: Depressive symptoms (BDI–II), perceived control of de..."]
+      },
+      {
+        "title": "Analysing the influence of visible roadwork activity on drivers’ speed choice at work zones using a video-based experiment",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Renata Torquato Steinbakk", "Pål Ulleberg", "Fridulv Sagberg", "Knut Inge Fostervold"],
+        "abstract": ["The present study used a video-based experimental design to investigate the influence of visible roadwork activity on speed preferences at work zones. Four videos from real work zones in Norway were used. Two roadwork areas were filmed at two moments – with and without visible roadwork activity. A total of 815 drivers watched two videos and answere..."]
+      },
+      {
+        "title": "Depersonalization reconsidered: An empirical analysis of the relation between depersonalization and cynicism in an extended version of the Maslach Burnout Inventory",
+        "tags": ["Article"],
+        "date": "Sep 2016",
+        "authors": ["Anne Cecilie Larsen", "Pål Ulleberg", "Michael Helge Rønnestad"],
+        "abstract": ["The Maslach Burnout Inventory (MBI), the most widely used operationalization of burnout, exists in two qualitatively different versions (Human Services Survey/Educators Survey and General Survey). One common concept, however, is used to characterize the measured phenomenon. The aim of the present study is to investigate two associated dimensions of..."]
+      },
+      {
+        "title": "Correction to: Measuring Effortful Control Using the Children's Behavior Questionnaire-Very Short Form: Modeling Matters",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Agathe Backer-Grøndahl", "Ane Nærde", "Pål Ulleberg", "Harald Janson"],
+        "abstract": []
+      },
+      {
+        "title": "Levels of alcohol use and depression severity as predictors of missed therapy sessions in cognitive behavioural psycho-educational group treatment for depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Cecilie Skule", "Torkil Berge", "Espen Moen Eilertsen", "Nils Inge Landrø"],
+        "abstract": ["In this study, we investigate levels of depression and levels of alcohol use as predictors of unstable attendance in a therapeutic intervention. A sample of 154 patients scoring a mean of 26 on BDI-II attended a cognitive behavioural psycho-educational group treatment – ‘Coping and relapse prevention of depression’. We investigated the influence of..."]
+      },
+      {
+        "title": "Everyday Understandings of Happiness, Good Life, and Satisfaction: Three Different Facets of Well-being",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Erik Carlquist", "Pål Ulleberg", "Antonella Delle Fave", "Rolv Mikkel Blakar"],
+        "abstract": ["The need for increasing conceptual clarity within well-being research has been stressed by social scientists as well as policymakers and international organizations. The present study aimed to identify and compare conceptual structures of the everyday terms happiness, a good life, and satisfaction, based on a semi-stratified sample of Norwegian adu..."]
+      },
+      {
+        "title": "Well-being vocabulary in media language: An analysis of changing word usage in Norwegian newspapers",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Erik Carlquist", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Joshua Phelps"],
+        "abstract": ["Well-being is a widely discussed topic in research, policy, and media. This study was aimed at examining usage patterns of core terminology related to well-being in Norwegian newspapers during the past two decades. Specifically, we investigated occurrence across time of 39 words describing well-being facets from four theoretical perspectives: affec..."]
+      },
+      {
+        "title": "Exploring associations between self-regulatory mechanisms and neuropsychological functioning and driver behaviour after brain injury",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Per-Ola Rike", "Hans Johansen", "Pål Ulleberg", "Anne-Kristine Schanke"],
+        "abstract": ["The objective of this prospective one-year follow-up study was to explore the associations between self-regulatory mechanisms and neuropsychological tests as well as baseline and follow-up ratings of driver behaviour. The participants were a cohort of subjects with stroke and traumatic brain injury (TBI) who were found fit to drive after a multi-di..."]
+      },
+      {
+        "title": "Measuring Effortful Control Using the Children's Behavior Questionnaire–Very Short Form: Modeling Matters",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Agathe Backer-Grøndahl", "Ane Nærde", "Pål Ulleberg", "Harald Janson"],
+        "abstract": ["Effortful control (EC) is an important concept in the research on self-regulation in children. We tested 2 alternative factor models of EC as measured by the Children's Behavior Questionnaire–Very Short Form (CBQ–VSF; Putnam & Rothbart, 2006 Putnam, S. P., & Rothbart, M. K. (2006). Development of short and very short forms of the Children's Behavio..."]
+      },
+      {
+        "title": "Measuring Effortful Control Using the Children's Behavior Questionnaire–Very Short Form: Modeling Matters",
+        "tags": ["Article"],
+        "date": "Aug 2015",
+        "authors": ["Agathe Backer-Grøndahl", "Ane Nærde", "Pål Ulleberg", "Harald Janson"],
+        "abstract": ["Effortful control (EC) is an important concept in the research on self-regulation in children. We tested 2 alternative factor models of EC as measured by the Children's Behavior Questionnaire-Very Short Form (CBQ-VSF; Putnam & Rothbart, 2006 ) in a large sample of preschoolers (N = 1,007): 1 lower order and 1 hierarchical second-order structure. Ad..."]
+      },
+      {
+        "title": "Exploring associations between self-reported executive functions, impulsive personality traits, driving self-efficacy, and functional abilities in driver behaviour after brain injury",
+        "tags": ["Article"],
+        "date": "Feb 2015",
+        "authors": ["Per-Ola Rike", "Hans Johansen", "Pål Ulleberg", "Anne-Kristine Schanke"],
+        "abstract": ["Objective\nThe assessment of self-awareness and self-efficacy as they relate to driving after stroke and TBI is lacking in the literature where the focus has tended to be on neuropsychological testing of underlying component of cognition in predicting driving outcome. Therefore, this study aims to investigate the associations between self-rating of..."]
+      },
+      {
+        "title": "Behavioural ratings of self-regulatory mechanisms and driving behaviour after an acquired brain injury",
+        "tags": ["Article"],
+        "date": "Aug 2014",
+        "authors": ["Per-Ola Rike", "Pål Ulleberg", "Maria T Schultheis", "Anne-Kristine Schanke"],
+        "abstract": ["Objective: \nTo explore whether measurements of self-regulatory mechanisms and cognition predict driving behaviour after an acquired brain injury (ABI).\n\nDesign: \nConsecutive follow-up study.\n\nParticipants: \nAt baseline participants included 77 persons with stroke and 32 persons with a traumatic brain injury (TBI), all of whom completed a multidisci..."]
+      },
+      {
+        "title": "Alcohol Use is Not Directly Related to the Perceived Control of Depressive Symptoms in Patients with Depressive Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Cecilie Skule", "Hilde Dallavara Lending", "Pål Ulleberg", "Nils Inge Landrø"],
+        "abstract": ["Treatment-seeking patients (N = 233) were recruited as they started a course of relapse prevention and coping with depression. The mean Beck depression inventory (BDI-II) score was 26 points, indicating a moderate degree of depression. The sample was recruited from different outpatient clinics and screened for alcohol-related problems with the alco..."]
+      },
+      {
+        "title": "Depressive Symptoms in People with and without Alcohol Abuse: Factor Structure and Measurement Invariance of the Beck Depression Inventory (BDI-II) Across Groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Cecilie Skule", "Pål Ulleberg", "Hilde Dallavara Lending", "Nils Inge Landrø"],
+        "abstract": ["This study explored differences in the factor structure of depressive symptoms in patients with and without alcohol abuse, and differences in the severity of depressive symptoms between the two groups. In a sample of 358 patients without alcohol problems and 167 patients with comorbid alcohol problems, confirmatory factor analysis revealed that the..."]
+      },
+      {
+        "title": "Social design feedback: evaluations with users in online ad-hoc groups",
+        "tags": ["Article"],
+        "date": "Dec 2013",
+        "authors": ["Asbjørn Følstad", "Kasper Hornbæk", "Pål Ulleberg"],
+        "abstract": ["Social design feedback is a novel approach to usability evaluation where user participants are asked to comment on designs asynchronously in online ad-hoc groups. Two key features of this approach are that (1) it supports interaction between user participants and development team representatives and (2) user participants can see and respond to othe..."]
+      },
+      {
+        "title": "Intergroup Perception and Proactive Majority Integration Attitudes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2012",
+        "authors": ["Joshua Phelps", "Reidar Ommundsen", "Salman Türken", "Pål Ulleberg"],
+        "abstract": ["Few social psychological investigations have focused on the potential active role of the majority in integration. The present study examines the relationship between intergroup perception and majority attitudes toward the proactive integration of immigrant minorities in Norway. It assesses how and whether perceived entitativity of immigrants, endor..."]
+      },
+      {
+        "title": "Assessing a Norwegian Translation of the Organizational Climate Measure",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["Vilde Bernstrøm", "Jon Anders Lone", "Cato Bjørkli", "Thomas Hoff"],
+        "abstract": ["This study investigated the Norwegian translation of the Organizational Climate Measure developed by Patterson and colleagues. The Organizational Climate Measure is a global measure of organizational climate based on Quinn and Rohrbaugh's competing values model. The survey was administered to a Norwegian branch of an international service sector co..."]
+      },
+      {
+        "title": "Perceived Islamophobia: Scale development and validation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2013",
+        "authors": ["Jonas R. Kunst", "David Lackland Sam", "Pål Ulleberg"],
+        "abstract": ["“Islamophobia” has been used as an umbrella term capturing different types of religious stigma towards Muslims. However, the operationalization of the term for research purposes varies greatly, where little attention heretofore has been paid on how islamophobia affects Muslim minorities’ lives. Against this background, we aimed to develop and valid..."]
+      },
+      {
+        "title": "Exploring the Relationships between Fear-Related Xenophobia, Perceptions of Out-Group Entitativity, and Social Contact in Norway",
+        "tags": ["Article"],
+        "date": "Feb 2013",
+        "authors": ["Reidar Ommundsen", "Kees Van der Veer", "Oksana Yakushko", "Pål Ulleberg"],
+        "abstract": ["An internet-related survey distributed to Norwegian students explored predictors of fear-related xenophobia toward immigrants. Specifically, this study examined a new social construct called \"entitativity\" (i.e., the extent to which out-group members are perceived as bonded together in a cohesive or organized unit), as well as frequency of informal..."]
+      },
+      {
+        "title": "Psychotherapists' self-reports of their interpersonal functioning and difficulties in practice as predictors of patient outcome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Helene A. Nissen-Lie", "Jon T Monsen", "Pål Ulleberg", "Michael Helge Rønnestad"],
+        "abstract": ["Abstract The need for psychotherapy research to understand the therapist effect has been emphasized in several studies. In a large naturalistic study (255 patients, 70 therapists), this topic was addressed using therapists' self-assessed difficulties in practice and interpersonal functioning in therapeutic work as predictors of patient outcome in t..."]
+      },
+      {
+        "title": "Differences on adolescent life goal profile scale between a clinical and non-clinical adolescent sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Leiv Einar Gabrielsen", "Reidulf G. Watten", "Pål Ulleberg"],
+        "abstract": ["Objective: \nThis study aimed to determine similarities and differences on perceived importance and perceived attainability of life goals between a clinical and non-clinical adolescent sample.\n\nMethod: \n244 students and 54 adolescent patients completed the Adolescent Life Goal Profile Scale (ALGPS). The ALGPS measures perceived importance and percei..."]
+      },
+      {
+        "title": "Coping with Islamophobia: The effects of religious stigma on Muslim minorities’ identity formation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2012",
+        "authors": ["Jonas R. Kunst", "Hajra Tahir", "David Lackland Sam", "Pål Ulleberg"],
+        "abstract": ["Islamophobic sentiments in the Western world have gained scientific attention, particularly after the terrorist attacks of September 11, 2001. However, the effects of religious stigma on Muslim minorities’ identity formation have rarely been studied. Using structural equation modeling, this cross-sectional study examined direct and indirect effects..."]
+      },
+      {
+        "title": "A longitudinal study of postpartum depressive symptoms: Multilevel growth curve analyses of emotion regulation strategies, breastfeeding self-efficacy, and social support",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Silje Marie Haga", "Pål Ulleberg", "Kari Slinning", "Annetine Staff"],
+        "abstract": ["Postpartum depression is a serious health issue affecting as many as 10-15 % of postpartum women. This longitudinal study aimed to explore how psychological variables such as cognitive emotion regulation strategies, breastfeeding self-efficacy (BSE), and dimensions of social support predicted postpartum depressive symptoms (Edinburgh Postnatal Depr..."]
+      },
+      {
+        "title": "Measures to enhance mobility among older people in Scandinavia: a literature review of best practice",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Lena Levin", "Pål Ulleberg", "Anu Siren", "Randi Hjorthol"],
+        "abstract": ["Mobiliteten eller rörligheten för äldre människor är fortfarande ett område under utveckling. Det visar en VTI-studie gällande Norge, Danmark och Sverige där man har studerat äldre personers resande med personbil, kollektivtrafik, cykel, gång och i viss mån även övriga transportmedel som definieras av motoriserade rullstolar, skotrar, mopedbilar, e..."]
+      },
+      {
+        "title": "The Adolescent Life Goal Profile Scale: Development of a New Scale for Measurements of Life Goals Among Young People",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Leiv Einar Gabrielsen", "Pål Ulleberg", "Reidulf G. Watten"],
+        "abstract": ["In this study we developed and psychometrically tested the Adolescent Life Goal Profile Scale (ALGPS). This scale provides a new approach to the measurements of personal goals, meaning, structure and direction in adolescent lives—a focus that falls in line with the increasing awareness of the prospects and benefits of congruent living. The objectiv..."]
+      },
+      {
+        "title": "Meta-analysis of the effect of road safety campaigns on accidents",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Ross Owen Phillips", "Pål Ulleberg", "Truls Vaa"],
+        "abstract": ["A meta-analysis of 67 studies evaluating the effect of road safety campaigns on accidents is reported. A total of 119 results were extracted from the studies, which were reported in 12 different countries between 1975 and 2007. After allowing for publication bias and heterogeneity of effects, the weighted average effect of road safety campaigns is..."]
+      },
+      {
+        "title": "Verbal Memory Functions in Unipolar Major Depression With and Without Co-Morbid Anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Pia Lyche", "Rune Jonassen", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["The aim of this study was to examine both executive control of verbal working memory and verbal learning as well as long-term storage function in outpatients with major depressive disorder (n = 61) compared to healthy controls (n = 92). A total of 37 patients had no co-morbid anxiety disorder, whereas 24 had a co-morbid anxiety disorder. Both patie..."]
+      },
+      {
+        "title": "Attentional Functions in Major Depressive Disorders With and Without Comorbid Anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2011",
+        "authors": ["Pia Lyche", "Rune Jonassen", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["The aim of this study was to explore if the divergent results regarding attentional functions in patients with mood disorders\nare due to selective impairments in higher level or more basic and distinctive attentional subcomponents. We compared outpatients\nwith current major depressive disorders (MDD; n = 37) and MDD with comorbid anxiety disorder (..."]
+      },
+      {
+        "title": "Effects of cultural diversity on trust and its consequences for team processes and outcomes in ad hoc distributed teams",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Anne Lise Bjørnstad", "Knut Inge Fostervold", "Pål Ulleberg"],
+        "abstract": ["This quasi-experimental study explores trust as a mediator, explaining how cultural diversity may affect team processes and outcomes in distributed ad hoc teams. Data were collected both through self-report and direct behavioral measures from a military sample. Our results demonstrate significantly lower trust in culturally heterogeneous distribute..."]
+      },
+      {
+        "title": "Organizational climate and innovation in the Norwegian service sector",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Jon Anders Lone", "Cato Bjørkli", "Roald A Bjørklund", "Thomas Hoff"],
+        "abstract": []
+      },
+      {
+        "title": "Eldres mobilitet og velferd – utvikling, reisebehov og tiltak",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Randi Hjorthol", "Susanne Nordbakke", "Liva Vågane", "Pål Ulleberg"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive Control Functions in Unipolar Major Depression with and without Co-Morbid Anxiety Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Pia Lyche", "Rune Jonassen", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["Background: \nImpaired cognitive control functions have been demonstrated in both major depression (MDD) and anxiety disorder (A), but few studies have systematically examined the impact of MDD with co-morbid A (MDDA), which is the main aim of this study.\n\nMethod: \nWe compared patients with MDD with (MDDA; n = 24) and without co-morbid A (n = 37) to..."]
+      },
+      {
+        "title": "Accidents and Unpleasant Incidents: Worry in Transport and Prediction of Travel Behavior",
+        "tags": ["Article"],
+        "date": "Aug 2009",
+        "authors": ["Agathe Backer-Grøndahl", "Aslak Fyhri", "Pål Ulleberg", "Astrid Helene Amundsen"],
+        "abstract": ["Worry on nine different means of transport was measured in a Norwegian sample of 853 respondents. The main aim of the study was to investigate differences in worry about accidents and worry about unpleasant incidents, and how these two sorts of worry relate to various means of transport as well as transport behavior. Factor analyses of worry about..."]
+      },
+      {
+        "title": "Compulsory admissions to psychiatric hospitals in Norway--International comparisons and regional variations",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Trond Hatling", "Trond Krogen", "Pål Ulleberg"],
+        "abstract": ["Internationally there has been a long debate regarding the use, and potential misuse, of coercion in psychiatry. One of the topics that has gained most attention is compulsory admissions. Only a few studies have published cross-country comparisons on the magnitude of compulsory admissions. This study presents data on voluntary and compulsory admiss..."]
+      },
+      {
+        "title": "Safe or scary? risk perception on different means of transport",
+        "tags": ["Book"],
+        "date": "Jan 2007",
+        "authors": ["Agathe Backer-Grøndahl", "Astrid Helene Amundsen", "Aslak Fyhri", "Pål Ulleberg"],
+        "abstract": ["In 2006 respondents (n=844) from Oslo and Kristiansand participated in a survey on risk perception on different travel modes. In addition, interviews with 222 persons were conducted while they were travelling on the metro or by bicycle. Results indicated that respondents worried about security issues on public transport modes, while private transpo..."]
+      },
+      {
+        "title": "Traffic education for children with a tabletop model",
+        "tags": ["Article"],
+        "date": "Jul 2004",
+        "authors": ["Aslak Fyhri", "Torkel Bjørnskau", "Pål Ulleberg"],
+        "abstract": ["An experiment was carried out to investigate 6-year olds ability to learn traffic safe behaviour by the use of a tabletop model. The main purpose of the training was to teach the children to look for safe spots to cross the road. Children from two schools in Norway (92 children all in all) were randomly divided into an experimental group and a cont..."]
+      },
+      {
+        "title": "Social influence from the back-seat: Factors related to adolescent passengers' willingness to address unsafe drivers",
+        "tags": ["Article"],
+        "date": "Jan 2004",
+        "authors": ["Pål Ulleberg"],
+        "abstract": ["The aim of the present paper was to examine factors that may affect the likelihood of adolescent passengers asking a driver to drive more carefully when they feel unsafe as a car passenger. The paper is based on a questionnaire survey carried out among 4397 Norwegian adolescents. The results showed that the factors influencing adolescents’ willingn..."]
+      },
+      {
+        "title": "Personality, Attitudes and Risk Perception as Predictors of Risky Driving Behaviour Among Young Drivers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2003",
+        "authors": ["Pål Ulleberg", "Torbjorn Rundmo"],
+        "abstract": ["Within psychology, different research traditions have attempted to explain individual differences in risky driving behaviour and traffic accident involvement. The present study attempts to integrate two of these research traditions, the personality trait approach and the social cognition approach, in order to understand the mechanisms underlying yo..."]
+      },
+      {
+        "title": "A model for the future? Traffic education for children with a road environment simulation model",
+        "tags": ["Book"],
+        "date": "Jan 2003",
+        "authors": ["Aslak Fyhri", "Torkel Bjørnskau", "Pål Ulleberg"],
+        "abstract": ["Two samples of six year olds (46 pupils), received training in safe road traffic behaviour, especially to look for safe spots to cross the road. Training was based on the use of a physical model (scale 1:40) representing various traffic environments. The children at both schools were tested before and after training, and compared to a control group..."]
+      },
+      {
+        "title": "Risk-taking attitudes among young drivers: The psychometric qualities and dimensionality of an instrument to measure young drivers' risk-taking attitudes",
+        "tags": ["Article"],
+        "date": "Aug 2002",
+        "authors": ["Pål Ulleberg", "Torbjorn Rundmo"],
+        "abstract": ["Adolescents are proportionately more frequently involved in traffic accidents than are other age groups. A strategy for promoting road safety is to change the attitudes likely to influence driving behavior. However, the lack of valid and reliable instruments to measure risk-taking attitudes makes it difficult to evaluate the effects of measures aim..."]
+      },
+      {
+        "title": "Personality subtypes of young drivers. Relationship to risk-taking preferences, accident involvement, and response to a traffic safety campaign",
+        "tags": ["Article"],
+        "date": "Dec 2001",
+        "authors": ["Pål Ulleberg"],
+        "abstract": ["The present study aimed at identifying subtypes of young drivers (N=2524) and evaluate how these responded to a traffic safety campaign. On basis of a cluster analysis of personality measures, six subtypes of young drivers were identified. The subtypes were found to differ on self-reported risky driving behaviour, attitudes towards traffic safety,..."]
+      },
+      {
+        "title": "Organisational factors, safety attitudes and workload among offshore oil personnel",
+        "tags": ["Article"],
+        "date": "Jul 1998",
+        "authors": ["Torbjörn Rundmo", "Hilde Hestad Iversen", "Pål Ulleberg"],
+        "abstract": ["The aim of this article is to show how job stress, physical working conditions, commitment and involvement in safety work, and attitudes towards safety and accident prevention work among employees on offshore petroleum platforms have changed from 1990 to 1994. In 1990 a self-completion questionnaire survey was carried out among personnel on offshor..."]
+      },
+      {
+        "title": "Motorcykelsäkerhet - en litteraturstudie och meta-analys",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Pål Ulleberg"],
+        "abstract": []
+      },
+      {
+        "title": "Aggressiv kjøring - en litteraturstudie",
+        "tags": ["Article"],
+        "authors": ["Pål Ulleberg"],
+        "abstract": []
+      },
+      {
+        "title": "Validating the Norwegian Organizational Climate Measure (NOCM)",
+        "tags": ["Article"],
+        "authors": ["Thomas Hoff", "Cato Bjørkli", "Pål Ulleberg", "Roald Bjørklund"],
+        "abstract": ["The aim of the present article is to validate the Norwegian version of the Organizational Climate Measure (OCM). The original survey was translated and back translated, and administered to a Norwegian branch of an international service sector company (n=555). A confirmatory factor analysis was conducted to investigate the fit between the present da..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [58],
+    "reads": [30219],
+    "citations": [2777]
   }
 }

@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Anne-Charlotte Lilljeqvist",
-    "id": "19961",
+    "name": ["Anne-Charlotte Lilljeqvist"],
+    "id": ["19961"],
     "keywords": [],
     "position": ["Emeritus"],
     "img": {},
@@ -33,5 +33,14 @@
         "url": "https://api.cristin.no/v2/results/135204"
       }
     ]
+  },
+  "rg": {
+    "id": "Granger_Anne-Charlotte",
+    "name": "Granger Anne-charlotte",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Science Po Lyon | sciencespolyonfr, Science Po Lyon, Department of Political Science",
+    "keywords": ["Political Participation"],
+    "works": [],
+    "degree": [null]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Dr. Ziada Ayorech",
-    "id": "ofmGsQcAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Dr. Ziada Ayorech"],
+    "id": ["ofmGsQcAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -487,8 +487,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-8372-421X",
-    "name": "Ziada Ayorech",
+    "orcid": ["0000-0002-8372-421X"],
+    "name": ["Ziada Ayorech"],
     "distinctions": [],
     "education": [
       {
@@ -627,11 +627,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ziada Ayorech",
-    "id": "1275063",
+    "name": ["Ziada Ayorech"],
+    "id": ["1275063"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", null],
-    "img": "https://api.cristin.no/v2/persons/1275063/picture",
+    "img": ["https://api.cristin.no/v2/persons/1275063/picture"],
     "works": [
       {
         "type": "Academic lecture",
@@ -703,8 +703,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Associations of DNA-Methylation Measures of Biological Aging With Social Disparities in Child and Adolescent Mental Health",
-        "journal": "Clinical Psychological Science",
-        "url": "https://api.cristin.no/v2/results/2181089"
+        "url": "https://api.cristin.no/v2/results/2181089",
+        "journal": "Clinical Psychological Science"
       },
       {
         "type": "Poster",
@@ -728,71 +728,71 @@
         "type": "Errata",
         "year": "2023",
         "title": "Author Correction: Gene-environment correlations and genetic confounding underlying the association between media use and mental health (Scientific Reports, (2023), 13, 1, (1030), 10.1038/s41598-022-25374-0)",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/2152117"
+        "url": "https://api.cristin.no/v2/results/2152117",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The structure of psychiatric comorbidity without selection and assortative mating",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143880"
+        "url": "https://api.cristin.no/v2/results/2143880",
+        "journal": "PsyArXiv"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Gene-environment correlations and genetic confounding underlying the association between media use and mental health",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/2141859"
+        "url": "https://api.cristin.no/v2/results/2141859",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/2141400"
+        "url": "https://api.cristin.no/v2/results/2141400",
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Why we need families in genomic research on developmental psychopathology",
-        "journal": "JCPP Advances",
-        "url": "https://api.cristin.no/v2/results/2116908"
+        "url": "https://api.cristin.no/v2/results/2116908",
+        "journal": "JCPP Advances"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143876"
+        "url": "https://api.cristin.no/v2/results/2143876",
+        "journal": "PsyArXiv"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Body mass index and childhood symptoms of depression, anxiety, and attention-deficit hyperactivity disorder: A within-family Mendelian randomization study",
-        "journal": "eLIFE",
-        "url": "https://api.cristin.no/v2/results/2102002"
+        "url": "https://api.cristin.no/v2/results/2102002",
+        "journal": "eLIFE"
       },
       {
         "type": "Abstract",
         "year": "2022",
         "title": "A trio-gcta study of indirect and direct genetic effects on hyperactivity, inattention, conduct problems, and oppositional-defiant behaviors",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2087337"
+        "url": "https://api.cristin.no/v2/results/2087337",
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Abstract",
         "year": "2022",
         "title": "Disentangling intrafamilial effects on maternal depression using trio-GCTA",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2087332"
+        "url": "https://api.cristin.no/v2/results/2087332",
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Abstract",
         "year": "2022",
         "title": "Are mothers' prenatal emotional symptoms influenced by the foetal genome? Exploring the possibility of child-to-parent effects during pregnancy",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2087326"
+        "url": "https://api.cristin.no/v2/results/2087326",
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Interview",
@@ -911,43 +911,43 @@
         "type": "Academic article",
         "year": "2022",
         "title": "A population-wide gene-environment interaction study on how genes, schools, and residential areas shape achievement",
-        "journal": "npj Science of learning",
-        "url": "https://api.cristin.no/v2/results/2067746"
+        "url": "https://api.cristin.no/v2/results/2067746",
+        "journal": "npj Science of learning"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "How interactions between ADHD and schools affect educational achievement: a family-based genetically sensitive study",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2055466"
+        "url": "https://api.cristin.no/v2/results/2055466",
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "On the importance of parenting in externalizing disorders: an evaluation of indirect genetic effects in families",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2042569"
+        "url": "https://api.cristin.no/v2/results/2042569",
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Abstract",
         "year": "2021",
         "title": "Investigating Heterogeneity in Depression Using Multiple Polygenic Scores",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2027865"
+        "url": "https://api.cristin.no/v2/results/2027865",
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Abstract",
         "year": "2021",
         "title": "Polygenic P: Characterising the role of general liability to psychopathology in maternal depression\r\n",
-        "journal": "Behavior Genetics",
-        "url": "https://api.cristin.no/v2/results/2027864"
+        "url": "https://api.cristin.no/v2/results/2027864",
+        "journal": "Behavior Genetics"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Early manifestations of genetic risk for neurodevelopmental disorders",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1946279"
+        "url": "https://api.cristin.no/v2/results/1946279",
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Poster",
@@ -1049,22 +1049,22 @@
         "type": "Abstract",
         "year": "2021",
         "title": "The causal effect of BMI on neurodevelopment: a within family Mendelian randomization study using MoBa",
-        "journal": "International Journal of Epidemiology",
-        "url": "https://api.cristin.no/v2/results/1941416"
+        "url": "https://api.cristin.no/v2/results/1941416",
+        "journal": "International Journal of Epidemiology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Genetic Liability for Schizophrenia and Childhood Psychopathology in the General Population",
-        "journal": "Schizophrenia Bulletin",
-        "url": "https://api.cristin.no/v2/results/1888410"
+        "url": "https://api.cristin.no/v2/results/1888410",
+        "journal": "Schizophrenia Bulletin"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Cyber-victimisation and mental health in young people: A co-twin control study",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/1896129"
+        "url": "https://api.cristin.no/v2/results/1896129",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Report",
@@ -1091,5 +1091,495 @@
         "url": "https://api.cristin.no/v2/results/1832939"
       }
     ]
+  },
+  "rg": {
+    "id": "Ziada-Ayorech",
+    "name": "Ziada Ayorech",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279523699511300-1443655051191_Q128/Ziada-Ayorech.jpg",
+    "affiliation": "Kings College London | KCL, Kings College London, MRC Social Genetic and Developmental Psychiatry Centre",
+    "keywords": ["Bipolar Disorder", "Neuropsychopharmacology", "Behavioral Neuroscience", "Psychopathology", "Psychopharmacology", "Mental Illness", "Behavioral Genetics", "Psychiatric Genetics", "Dopamine", "Behavioural Science"],
+    "works": [
+      {
+        "title": "WHY WE NEED FAMILIES IN GENOMIC STUDIES OF GENE-ENVIRONMENT INTERPLAY",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Rosa Cheesman", "Ziada Ayorech", "Espen Moen Eilertsen", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "F33. DIRECT AND INDIRECT EFFECTS OF FAMILY MEMBERS ON MOTHER'S DEPRESSION: AN ACCELERATED LONGITUDINAL DESIGN USING OVER 25, 000 GENOTYPED TRIOS",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Ziada Ayorech", "Espen Moen Eilertsen", "Rosa Cheesman", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "Disentangling direct and indirect genetic effects from partners and offspring on maternal depression using trio-GCTA",
+        "tags": ["Preprint"],
+        "date": "Sep 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Espen Moen Eilertsen", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Maternal depressive symptoms are highly prevalent and can negatively impact affected individuals and family members. Understanding aetiological influences on maternal depression, such as genetic liability, is key to inform treatment and prevention efforts. In the present study, we quantified direct and indirect genetic effects (i.e., when genetic v..."]
+      },
+      {
+        "title": "Associations of DNA-Methylation Measures of Biological Aging With Social Disparities in Child and Adolescent Mental Health",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Laurel Raffington", "Peter T. Tanksley", "Liza Vinnik", "Kathryn Paige Harden"],
+        "abstract": ["Children who experience environmental adversities are at increased risk of both internalizing and externalizing disorders. Epigenetic mechanisms may regulate the influence of environmental adversities on mental health. We examined the hypothesis that salivary DNA-methylation patterns of pace of biological aging (Dunedin pace of biological aging [Du..."]
+      },
+      {
+        "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Ziada Ayorech", "Rosa Cheesman", "Espen M. Eilertsen", "Eivind Ystrom"],
+        "abstract": ["Within-family studies typically assess indirect genetic effects of parents on children, however social support theory points to a critical role of partners and children on women's depression. To address this research gap and account for the high heterogeneity of depression, we calculated a general psychiatric factor using eleven major psychiatric p..."]
+      },
+      {
+        "title": "Author Correction: Gene-environment correlations and genetic confounding underlying the association between media use and mental health",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Ziada Ayorech", "Jessie Baldwin", "Jean-Baptiste Pingault", "Robert Plomin"],
+        "abstract": []
+      },
+      {
+        "title": "Parental body mass index and offspring childhood body size and eating behaviour: causal inference via parental comparisons and extended children of twins structural equation modelling",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Tom A Bond", "Tom A Mcadams", "Nicole M Warrington", "David M Evans"],
+        "abstract": ["Background\nThe intergenerational transmission of obesity-related traits could propagate an accelerating cycle of obesity, if parental adiposity causally influences offspring adiposity via intrauterine or periconceptional mechanisms. We aimed to establish whether associations between parental peri-pregnancy body mass index (BMI) and offspring birth..."]
+      },
+      {
+        "title": "Why we need families in genomic research on developmental psychopathology",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Rosa Cheesman", "Ziada Ayorech", "Espen Moen Eilertsen", "Eivind Ystrom"],
+        "abstract": ["Background\nFundamental questions about the roles of genes, environments, and their interplay in developmental psychopathology have traditionally been the domain of twin and family studies. More recently, the rapidly growing availability of large genomic datasets, composed of unrelated individuals, has generated novel insights. However, there are ma..."]
+      },
+      {
+        "title": "Gene-environment correlations and genetic confounding underlying the association between media use and mental health",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Ziada Ayorech", "Jessie Baldwin", "Jean-Baptiste Pingault", "Robert Plomin"],
+        "abstract": ["The increase in online media use and mental health problems have prompted investigations into their association, although most literature is focussed on deleterious effects. We assessed the aetiology of media use and mental health associations ( M age = 22.14, SD = 0.85) using twin (n = 4000 pairs) and polygenic score methods (n = 6000 unrelated in..."]
+      },
+      {
+        "title": "The structure of psychiatric comorbidity without selection and assortative mating",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Ziada Ayorech", "Fartein Ask Torvik", "Rosa Cheesman", "Eivind Ystrom"],
+        "abstract": ["The widespread comorbidity observed across psychiatric disorders may be the result of processes such as assortative mating, gene-environment correlation, or selection into population studies. Between-family analyses of comorbidity are subject to these sources of bias, whereas within-family analyses are not. Because of Mendelian inheritance, alleles..."]
+      },
+      {
+        "title": "Body mass index and childhood symptoms of depression, anxiety, and attention-deficit hyperactivity disorder: A within-family Mendelian randomization study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Amanda Hughes", "Eleanor Sanderson", "Tim Morris", "Neil M Davies"],
+        "abstract": ["Background: \nHigher BMI in childhood is associated with emotional and behavioural problems, but these associations may not be causal. Results of previous genetic studies imply causal effects but may reflect influence of demography and the family environment.\n\nMethods: \nThis study used data on 40,949 8-year-old children and their parents from the No..."]
+      },
+      {
+        "title": "VARIANCE QUANTITATIVE TRAIT LOCI MAPPING IN THE MOBA COHORT: DETECTING INTERACTION EFFECTS INVOLVED IN DEVELOPMENTAL OUTCOMES",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Christopher Rayner", "Yasmin Ahmadzadeh", "Ziada Ayorech", "Tom A Mcadams"],
+        "abstract": []
+      },
+      {
+        "title": "T100. COUNTERACTING CHILD AND PARENT GENETIC EFFECTS HELP EXPLAIN THE MISSING HERITABILITY OF CHILDHOOD PSYCHOPATHOLOGY",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Rosa Cheesman", "Ziada Ayorech", "Espen Moen Eilertsen", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "T2. A TRIO-GCTA STUDY OF INDIRECT AND DIRECT GENETIC EFFECTS ON HYPERACTIVITY, INATTENTION, CONDUCT PROBLEMS, AND OPPOSITIONAL-DEFIANT BEHAVIORS",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Espen Moen Eilertsen", "Rosa Cheesman", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "DISENTANGLING INTRAFAMILIAL GENETIC EFFECTS ON MATERNAL DEPRESSION USING TRIO-GCTA",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Ludvig Daae Bjørndal", "Espen Moen Eilertsen", "Jessie Baldwin", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "T44. ARE MOTHERS’ PRENATAL EMOTIONAL SYMPTOMS INFLUENCED BY THE FOETAL GENOME? EXPLORING THE POSSIBILITY OF CHILD-TO-PARENT EFFECTS DURING PREGNANCY",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Yasmin Ahmadzadeh", "Espen Moen Eilertsen", "Daniel Wechsler", "Tom A Mcadams"],
+        "abstract": []
+      },
+      {
+        "title": "A population-wide gene-environment interaction study on how genes, schools, and residential areas shape achievement",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Rosa Cheesman", "Nicolai T. Borgen", "Torkild H. Lyngstad", "Eivind Ystrom"],
+        "abstract": ["A child’s environment is thought to be composed of different levels that interact with their individual genetic propensities. However, studies have not tested this theory comprehensively across multiple environmental levels. Here, we quantify the contributions of child, parent, school, neighbourhood, district, and municipality factors to achievemen..."]
+      },
+      {
+        "title": "On the importance of parenting in externalizing disorders: an evaluation of indirect genetic effects in families",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Espen Moen Eilertsen", "Rosa Cheesman", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Background: \nTheoretical models of the development of childhood externalizing disorders emphasize the role of parents. Empirical studies have not been able to identify specific aspects of parental behaviors explaining a considerable proportion of the observed individual differences in externalizing problems. The problem is complicated by the contri..."]
+      },
+      {
+        "title": "How interactions between ADHD and schools affect educational achievement: a family‐based genetically sensitive study",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Rosa Cheesman", "Espen Moen Eilertsen", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Background: \nChildren with ADHD tend to achieve less than their peers in school. It is unknown whether schools moderate this association. Nonrandom selection of children into schools related to variations in their ADHD risk poses a methodological problem.\n\nMethods: \nWe linked data on ADHD symptoms of inattention and hyperactivity and parent-child A..."]
+      },
+      {
+        "title": "How genes, schools, and residential areas shape achievement: A population-wide gene-environment interaction study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Rosa Cheesman", "Nicolai Borgen", "Torkild Lyngstad", "Eivind Ystrom"],
+        "abstract": ["A child’s environment is thought to be composed of different levels that interact with individual genetic propensities, with less advantaged environments suppressing genetic effects on achievement. However, studies have not tested this theory comprehensively across multiple environmental levels. Here, we quantify the contributions of child, parent,..."]
+      },
+      {
+        "title": "The winding roads to adulthood: A twin study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Kaili Rimfeld", "Margherita Malanchini", "Amy Packer", "Robert Plomin"],
+        "abstract": ["Aims: \nHere we report the results of the first systematic investigation of genetic and environmental influences on 57 psychological traits covering major issues in emerging adulthood such as aspirations, thoughts and attitudes, relationships and personality. We also investigate how these traits relate to physical and mental health, educational atta..."]
+      },
+      {
+        "title": "How interactions between ADHD and schools affect educational achievement: a family-based genetically sensitive study",
+        "tags": ["Preprint"],
+        "date": "Nov 2021",
+        "authors": ["Rosa Cheesman", "Espen Moen Eilertsen", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Background: Children with ADHD tend to achieve less than their peers in school. It is unknown whether schools moderate this ADHD deficit. Selection into schools poses a methodological problem.Methods: We linked data on ADHD symptoms of inattention and hyperactivity and parent-child ADHD polygenic scores (PGS) from the Norwegian Mother, Father, and..."]
+      },
+      {
+        "title": "Media and Mental Health: How DNA contributes to the good and bad side of online media use",
+        "tags": ["Preprint"],
+        "date": "Oct 2021",
+        "authors": ["Ziada Ayorech", "Jessie Baldwin", "Jean-Baptiste Pingault", "Robert Plomin"],
+        "abstract": ["Co-occurring national rises in online media use and mental health problems have prompted investigations into their association, although most of this literature is focussed on the deleterious effects of media exposure. We assessed phenotypic associations between media use and mental health in young adulthood (M age= 22.14) and their aetiology using..."]
+      },
+      {
+        "title": "Early manifestations of genetic risk for neurodevelopmental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Ragna Bugge Askeland", "Laurie Hannigan", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background: \nAttention deficit/hyperactivity disorder (ADHD), autism spectrum disorder (autism) and schizophrenia are highly heritable neurodevelopmental disorders, affecting the lives of many individuals. It is important to increase our understanding of how the polygenic risk for neurodevelopmental disorders manifests during childhood in boys and..."]
+      },
+      {
+        "title": "TU14. GENOME-WIDE ASSOCIATION STUDY OF CHILDHOOD SOCIAL COMMUNICATION AND REPETITIVE BEHAVIOR IN THE NORWEGIAN MOTHER, FATHER AND CHILD STUDY (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Ragna Askeland", "Elizabeth Corfield", "Varun Warrier", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "W30. INVESTIGATING HETEROGENEITY IN DEPRESSION USING MULTIPLE POLYGENIC SCORES",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Ziada Ayorech", "Rosa Cheesman", "Espen Moen Eilertsen", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "The causal effects of body mass index (BMI) on childhood symptoms of depression, anxiety disorder, and attention-deficit hyperactivity disorder: a within family Mendelian randomization study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Amanda Hughes", "Tim Morris", "Ziada Ayorech", "Neil M Davies"],
+        "abstract": ["Objectives: Higher BMI in childhood predicts neurodevelopmental and emotional problems, but it is unclear if these associations are causal. Previous genetic studies imply causal effects of childhood BMI on depression and attention-deficit hyperactivity disorder (ADHD), but these observations might also reflect effects of demography and the family e..."]
+      },
+      {
+        "title": "Developmental milestones in early childhood and genetic liability to neurodevelopmental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Laurie Hannigan", "Ragna Bugge Askeland", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background\nTiming of developmental milestones, such as age at first walking, is associated with later diagnoses of neurodevelopmental disorders. However, its relationship to genetic risk for neurodevelopmental disorders in the general population is unknown. Here, we investigate associations between attainment of early-life language and motor develo..."]
+      },
+      {
+        "title": "Socially stratified DNA-methylation profiles are associated with disparities in child and adolescent mental health",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Laurel Raffington", "Peter T. Tanksley", "Liza Vinnik", "Kathryn Paige Harden"],
+        "abstract": ["Importance: Economic and racial inequality is linked to disparities in children's mental health. Biomarkers that reflect these social disparities are lacking.\nObjective: We examined the hypothesis that salivary DNA-methylation patterns of higher inflammation and faster pace of biological aging are economically, racially and ethnically stratified an..."]
+      },
+      {
+        "title": "399The causal effect of BMI on neurodevelopment: a within family Mendelian randomization study using MoBa",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Amanda Hughes", "Tim Morris", "Ziada Ayorech", "Alexandra Havdahl"],
+        "abstract": ["Background\nHigher BMI in childhood predicts subsequent neurodevelopmental and emotional problems, but it is unclear if associations are causal. Observational studies are vulnerable to reverse causation and confounding. Mendelian randomization (MR) studies with unrelated individuals can also suffer from familial biases, such as dynastic effects (“ge..."]
+      },
+      {
+        "title": "Childhood phenotypic manifestations of genetic risk for anorexia nervosa in the Norwegian Mother, Father and Child Cohort Study (MoBa)",
+        "tags": ["Preprint"],
+        "date": "Mar 2021",
+        "authors": ["Ziada Ayorech", "Hunna J Watson", "Zeynep Yilmaz", "Neil M Davies"],
+        "abstract": ["Anorexia nervosa (AN) polygenic liability has been associated with mental health traits, eating problems, and body mass index (BMI) in adolescence and adulthood, but little is known about its manifestations in early childhood. We explore AN polygenic score (PGS) associations with six childhood domains: BMI, eating problems, neurodevelopment, emotio..."]
+      },
+      {
+        "title": "The winding roads to adulthood: a twin study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Kaili Rimfeld", "Margherita Malanchini", "Amy Packer", "Robert Plomin"],
+        "abstract": ["In the 21st century, emerging adulthood has stretched from the late teens through the twenties. Although this extended transition to adulthood can create stress, it can also offer opportunities to explore vocations and relationships that provide a better fit to individuals proclivities, including their genetic propensities.\nHere we report the resul..."]
+      },
+      {
+        "title": "Genetic Liability for Schizophrenia and Childhood Psychopathology in the General Population",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Laurie Hannigan", "Ragna Bugge Askeland", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Genetic liability for schizophrenia is associated with psychopathology in early life. It is not clear if these associations are time dependent during childhood, nor if they are specific across different forms of psychopathology. Using genotype and questionnaire data on children (N = 15 105) from the Norwegian Mother, Father and Child Cohort Study,..."]
+      },
+      {
+        "title": "Early manifestations of genetic risk for neurodevelopmental disorders",
+        "tags": ["Preprint"],
+        "date": "Nov 2020",
+        "authors": ["Ragna Bugge Askeland", "Laurie Hannigan", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background Attention deficit/hyperactivity disorder (ADHD), autism spectrum disorder (autism), and schizophrenia, are highly heritable neurodevelopmental disorders, affecting the lives of many individuals. To improve prevention and treatment, it is important to increase our understanding of how the polygenic risk for neurodevelopmental disorders ma..."]
+      },
+      {
+        "title": "Developmental milestones in early childhood and genetic liability to neurodevelopmental disorders",
+        "tags": ["Preprint"],
+        "date": "Sep 2020",
+        "authors": ["Laurie Hannigan", "Ragna Bugge Askeland", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background\nEarly developmental milestones, such as the age at first walking or talking, are associated with later diagnoses of neurodevelopmental disorders, but the relationship to genetic risk for neurodevelopmental disorders are unknown. Here, we investigate associations between genetic liability to autism spectrum disorder (autism), attention de..."]
+      },
+      {
+        "title": "Genetic liability for schizophrenia and childhood psychopathology in the general population",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Laurie Hannigan", "Ragna Bugge Askeland", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background\nGenetic liability for schizophrenia is associated with psychopathology in early life. It is not clear if these associations are time-dependent during childhood, nor if they are specific across different forms of psychopathology.\nMethods\nUsing genotype and questionnaire data on children (N = 15,105) from the Norwegian Mother, Father, and..."]
+      },
+      {
+        "title": "Cyber-victimisation and mental health in young people: A co-twin control study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Jessie Baldwin", "Ziada Ayorech", "Frühling Rijsdijk", "Jean-Baptiste Pingault"],
+        "abstract": ["Background\nThe rise of social media use in young people has sparked concern about the impact of cyber-victimisation on mental health. Although cyber-victimisation is associated with mental health problems, it is not known whether such associations reflect genetic and environmental confounding.\n\nMethods\nWe used the co-twin control design to test the..."]
+      },
+      {
+        "title": "Predicting educational achievement from genomic measures and socioeconomic status",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Sophie von Stumm", "Emily Smith‐Woolley", "Ziada Ayorech", "Robert Plomin"],
+        "abstract": ["The two best predictors of children’s educational achievement available from birth are parents’ socioeconomic status (SES) and, recently, children’s inherited DNA differences that can be aggregated in genome‐wide polygenic scores (GPS). Here we chart for the first time the developmental interplay between these two predictors of educational achievem..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Mar 2019",
+        "authors": ["Margherita Malanchini", "Emily Smith-Woolley", "Ziada Ayorech", "Robert Plomin"],
+        "abstract": []
+      },
+      {
+        "title": "Predicting educational achievement from genomic measures and socioeconomic status",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Sophie von Stumm", "Emily Smith-Woolley", "Ziada Ayorech", "Robert Plomin"],
+        "abstract": ["The two best predictors of children's educational achievement available from birth are parents' socioeconomic status (SES) and, recently, children's inherited DNA differences that can be aggregated in genome-wide polygenic scores (GPS). Here we chart for the first time the developmental interplay between these two predictors of educational achievem..."]
+      },
+      {
+        "title": "SA95MEDIA AND MENTAL HEALTH: HOW DNA DIFFERENCES CONTRIBUTE TO THE GOOD AND BAD SIDE OF ONLINE MEDIA USE",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Ziada Ayorech", "Robert Plomin", "Sophie von Stumm"],
+        "abstract": []
+      },
+      {
+        "title": "Using DNA to Predict Educational Trajectories in Early Adulthood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Ziada Ayorech", "Robert Plomin", "Sophie von Stumm"],
+        "abstract": ["At the end of compulsory schooling, young adults decide on educational and occupational trajectories that impact their subsequent employability, health and even life expectancy. To understand the antecedents to these decisions, we follow a new approach that considers genetic contributions, which have largely been ignored before. Using genome-wide p..."]
+      },
+      {
+        "title": "The genetics of university success",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Emily Smith-Woolley", "Ziada Ayorech", "Philip S Dale", "Robert Plomin"],
+        "abstract": ["University success, which includes enrolment in and achievement at university, as well as quality of the university, have all been linked to later earnings, health and wellbeing. However, little is known about the causes and correlates of differences in university-level outcomes. Capitalizing on both quantitative and molecular genetic data, we perf..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Emily Smith-Woolley", "Ziada Ayorech", "Philip S Dale", "Robert Plomin"],
+        "abstract": []
+      },
+      {
+        "title": "Aggressive behaviour in childhood and adolescence: the role of smoking during pregnancy, evidence from four twin cohorts in the EU-ACTION consortium",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Margherita Malanchini", "Emily Smith-Woolley", "Ziada Ayorech", "Robert Plomin"],
+        "abstract": ["Background\nMaternal smoking during pregnancy (MSDP) has been linked to offspring's externalizing problems. It has been argued that socio-demographic factors (e.g. maternal age and education), co-occurring environmental risk factors, or pleiotropic genetic effects may account for the association between MSDP and later outcomes. This study provides a..."]
+      },
+      {
+        "title": "Malanchini et al. (2018) PsychMed SOM",
+        "tags": ["Data"],
+        "date": "Jun 2018",
+        "authors": ["Margherita Malanchini", "Emily Smith-Woolley", "Ziada Ayorech", "Robert Plomin"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary material",
+        "tags": ["Data"],
+        "date": "Sep 2017",
+        "authors": ["Ziada Ayorech", "Eva Krapohl", "Robert Plomin", "Sophie von Stumm"],
+        "abstract": []
+      },
+      {
+        "title": "Erratum to: Publication Trends Over 55 Years of Behavioral Genetic Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Ziada Ayorech", "Saskia Selzam", "Emily Smith-Woolley", "Robert Plomin"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic Influence on Intergenerational Educational Attainment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Ziada Ayorech", "Eva Krapohl", "Robert Plomin", "Sophie von Stumm"],
+        "abstract": ["Using twin (6,105 twin pairs) and genomic (5,825 unrelated individuals taken from the twin sample) analyses, we tested for genetic influences on the parent-offspring correspondence in educational attainment. Genetics accounted for nearly half of the variance in intergenerational educational attainment. A genomewide polygenic score (GPS) for years o..."]
+      },
+      {
+        "title": "Personalized Media: A Genetically Informative Investigation of Individual Differences in Online Media Use",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Online media use has become an increasingly important behavioral domain over the past decade. However, studies into the etiology of individual differences in media use have focused primarily on pathological use. Here, for the first time, we test the genetic influences on online media use in a UK representative sample of 16 year old twins, who were..."]
+      },
+      {
+        "title": "S2 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Factor analyses on media use variables.\n(DOCX)"]
+      },
+      {
+        "title": "S3 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Total variance explained in media use factor analysis.\n(DOCX)"]
+      },
+      {
+        "title": "S4 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Factor analyses on Facebook use variables.\n(DOCX)"]
+      },
+      {
+        "title": "S8 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Sex limitation sub-model comparisons: Factorized educational screen time.\n(DOCX)"]
+      },
+      {
+        "title": "S2 Fig",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Portion of questionnaire assessing Facebook use.\n(DOCX)"]
+      },
+      {
+        "title": "S1 Fig",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Portion of questionnaire assessing online media use.\n(DOCX)"]
+      },
+      {
+        "title": "S5 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Total variance explained in Facebook factor analysis.\n(DOCX)"]
+      },
+      {
+        "title": "S6 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Sex limitation model fitting results with 95% confidence intervals, depicting A, C and E estimates separately for males and females.\n(DOCX)"]
+      },
+      {
+        "title": "S7 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Sex limitation sub-model comparisons: Factorized entertainment screen time.\n(DOCX)"]
+      },
+      {
+        "title": "S10 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Sex limitation sub-model comparisons: Facebook Factor.\n(DOCX)"]
+      },
+      {
+        "title": "S1 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Proportion of time spent on different forms of media for total sample and across gender and zygosity.\n(DOCX)"]
+      },
+      {
+        "title": "S9 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Sex limitation sub-model comparisons: Factorized gaming.\n(DOCX)"]
+      },
+      {
+        "title": "S11 Table",
+        "tags": ["Data"],
+        "date": "Jan 2017",
+        "authors": ["Ziada Ayorech", "Sophie von Stumm", "Claire M A Haworth", "Robert Plomin"],
+        "abstract": ["Univariate genetic results.\n(DOCX)"]
+      },
+      {
+        "title": "Publication Trends Over 55 Years of Behavioral Genetic Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Ziada Ayorech", "Saskia Selzam", "Emily Smith-Woolley", "Robert Plomin"],
+        "abstract": ["We document the growth in published papers on behavioral genetics for 5-year intervals from 1960 through 2014. We used 1861 papers published in Behavior Genetics to train our search strategy which, when applied to Ovid PsychINFO, selected more than 45,000 publications. Five trends stand out: (1) the number of behavioral genetic publications has gro..."]
+      },
+      {
+        "title": "Genetics affects choice of academic subjects as well as achievement",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Kaili Rimfeld", "Ziada Ayorech", "Philip S Dale", "Robert Plomin"],
+        "abstract": ["We have previously shown that individual differences in educational achievement are highly heritable throughout compulsory education. After completing compulsory education at age 16, students in England can choose to continue to study for two years (A-levels) in preparation for applying to university and they can freely choose which subjects to stu..."]
+      },
+      {
+        "title": "Supplementary Information",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Kaili Rimfeld", "Ziada Ayorech", "Philip S Dale", "Robert Plomin"],
+        "abstract": []
+      },
+      {
+        "title": "Taking the fuel out of the fire: Evidence for the use of anti-inflammatory agents in the treatment of bipolar disorders",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Ziada Ayorech", "Derek K Tracy", "David Baumeister", "Giovanni Giaroli"],
+        "abstract": ["Inflammation has emerged as a potentially important factor - and thus putative pharmacological target - in the pathology of bipolar disorders. However to date no systematic evaluations of the efficacy of add on anti-inflammatory treatment for the depressive and manic episodes have been carried out.\nSixteen articles were ultimately identified - by c..."]
+      },
+      {
+        "title": "Vendor differences in alcohol consumption and the contribution of dopamine receptors to Pavlovian-conditioned alcohol-seeking in Long-Evans rats",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Lindsay M Sparks", "Joanna M Sciascia", "Ziada Ayorech", "Nadia Chaudhri"],
+        "abstract": ["Drug-associated environmental stimuli elicit craving in humans and drug-seeking in animals.\nWe tested the hypothesis that Pavlovian-conditioned alcohol-seeking is mediated by dopamine, using rats from two vendors.\nMale, Long-Evans rats (220-240 g) from Charles River (St-Constant, QC, Canada) and Harlan Laboratories (Indianapolis, IN, USA) received..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Philosophy", "in", "Behavioral", "Genetics"],
+    "bio": [],
+    "publications": [68],
+    "reads": [6470],
+    "citations": [466]
   }
 }

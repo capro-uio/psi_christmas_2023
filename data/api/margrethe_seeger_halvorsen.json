@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-2391-7594",
-    "name": "Margrethe S. Halvorsen",
+    "orcid": ["0000-0003-2391-7594"],
+    "name": ["Margrethe S. Halvorsen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,11 +18,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Margrethe Seeger Halvorsen",
-    "id": "24656",
+    "name": ["Margrethe Seeger Halvorsen"],
+    "id": ["24656"],
     "keywords": [],
     "position": ["Guest", "Associate professor", null],
-    "img": "https://api.cristin.no/v2/persons/24656/picture",
+    "img": ["https://api.cristin.no/v2/persons/24656/picture"],
     "works": [
       {
         "type": "Academic literature review",
@@ -404,5 +404,215 @@
         "url": "https://api.cristin.no/v2/results/502970"
       }
     ]
+  },
+  "rg": {
+    "id": "Margrethe-Halvorsen",
+    "name": "Margrethe Seeger Halvorsen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/360200524582913-1462889905888_Q128/Margrethe-Halvorsen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Therapeutic Alliance", "Psychotherapeutic Processes", "Counseling", "Psychological Assessment", "Psychopathology", "Eating Disorders", "Mental Illness", "Clinical Health Psychology", "Treatment", "Case Studies"],
+    "works": [
+      {
+        "title": "R E V I E W A transitional object for relatedness and self-development-A meta-synthesis of youths' experience of engagement in self- harm content online",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Line Indrevoll Stänicke", "Marte", "Marte Hjertås Hermansen", "Margrethe Seeger Halvorsen"],
+        "abstract": ["Studies report an increase in self-harm, and engagement in risk content online has gained growing attention. This study aims to synthesize qualitative studies on youths' (12-25 years of age) engagement in self-harm content online (SCO). We conducted a systematic database search of studies on first-person experience and included 16 studies. The meta..."]
+      },
+      {
+        "title": "Medication-free treatment in mental health care: How does it differ from traditional treatment?",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Kari Standal", "Ole André Solbakken", "Jorun Rugkåsa", "Kristin Sverdvik Heiervang"],
+        "abstract": ["Background\nNorwegian health authorities have implemented treatment units devoted to medication-free mental health treatment in all health regions to improve people’s freedom of choice. This article examines how medication-free treatment differs from treatment as usual across various central dimensions.\nMethods\nWe used a mixed-methods design that in..."]
+      },
+      {
+        "title": "Medication-free treatment in mental health care. How does it differ from traditional treatment?",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Kari Standal", "Ole André Solbakken", "Jorun Rugkåsa", "Kristin Sverdvik Heiervang"],
+        "abstract": ["Background: Norwegian health authorities have implemented treatment units devoted to medication-free mental health treatment in all health regions to improve people’s freedom of choice. This article examines how medication-free treatment differs from treatment as usual across various central dimensions.\nMethods: The design was a preplanned, paralle..."]
+      },
+      {
+        "title": "Possible paths to increase detection of child sexual abuse in child and adolescent psychiatry: a meta-synthesis of survivors’ and health professionals’ experiences of addressing child sexual abuse",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Signe Hjelen Stige", "Ann Christin Andersen", "Jorunn E. Halvorsen", "Ane Ugland Albaek"],
+        "abstract": ["Background\nEfforts are directed both towards prevention and early detection of Child sexual abuse (CSA). Yet, only about 50% of CSA survivors disclose before adulthood, and health professionals rarely are the first disclosure recipients. Increasing the detection rate of CSA within the context of Child and Adolescent Psychiatry (CAP) therefore repre..."]
+      },
+      {
+        "title": "Causality in psychotherapy research: Towards evidential pluralism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Hanne Weie Oddli", "Erik Stänicke", "Margrethe Seeger Halvorsen", "Tobias Gustum Lindstad"],
+        "abstract": ["Identifying causal relationships is at the heart of all scientific inquiry, and a means to evidence-based practices and to guide policymaking. However, being aware of the complexities of interactions and relationships, scientists and academics are cautious about claiming causality. Researchers applying methods that deviate from the experimental des..."]
+      },
+      {
+        "title": "Folkeopplysningens konklusjon er misvisende",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ole André Solbakken", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Hanne Strømme"],
+        "abstract": ["Folkeopplysningens siste episode presenterte en rekke problematiske påstander om effekten av psykoterapi. Heldigvis er påstandene allerede blitt imøtegått av en rekke fagpersoner, forfatterne av denne kommentaren inkludert, på flere arenaer i ettertid. Med dette innlegget ønsker vi å redegjøre mer detaljert for hvorfor konklusjonen fra Folkeopplysn..."]
+      },
+      {
+        "title": "Why Service Users Choose Medication-Free Psychiatric Treatment: A Mixed-Method Study of User Accounts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Kari Standal", "Ole André Solbakken", "Jorun Rugkåsa", "Kristin Sverdvik Heiervang"],
+        "abstract": ["Purpose: \nMedication has been a central part of treatment for severe mental disorders in Western medicine since the 1950s. In 2015, Norwegian Health Authorities decided that Norwegian health regions must have treatment units devoted to medication-free mental health treatment to enhance service users' freedom of choice. The need for these units has..."]
+      },
+      {
+        "title": "Future orientation in successful therapies: Expanding the concept of goal in the working alliance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Hanne Weie Oddli", "John McLeod", "Helene A. Nissen-Lie", "Margrethe Seeger Halvorsen"],
+        "abstract": ["Objective\nTo better understand how therapists facilitate client goal attainment in therapy, we analyzed therapists’ future‐oriented actions in good outcome cases in which clients recorded high ratings on goal items in the Working Alliance Inventory‐Short Revised.\n\nMethod\nWe selected clients who were within the clinical range (OQ‐45.2) at pretreatme..."]
+      },
+      {
+        "title": "What works for whom? Multidimensional individualized stuttering therapy (MIST)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Hilda Sønsterud", "Margrethe Seeger Halvorsen", "Kristin Billaud Feragen", "David Ward"],
+        "abstract": ["Purpose:\nThis study reports outcomes from a stuttering therapy approach that combines value and awareness-based elements from Acceptance and Commitment Therapy (ACT) with those of stuttering and speech modification interventions. The approach, entitled Multidimensional Individualized Stuttering Therapy (MIST), includes a combined clinician and clie..."]
+      },
+      {
+        "title": "Journal Pre-proof What works for whom? Multidimensional Individualized Stuttering Therapy (MIST)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Hilda Sønsterud", "Margrethe Seeger Halvorsen", "Kristin Billaud Feragen", "David Ward"],
+        "abstract": ["Purpose\nThis study reports outcomes from a stuttering therapy approach that combines value and awareness-based elements from Acceptance and Commitment Therapy (ACT) with those of stuttering and speech modification interventions. The approach, entitled Multidimensional Individualized Stuttering Therapy (MIST), includes a combined clinician and clien..."]
+      },
+      {
+        "title": "What do people search for in stuttering therapy: Personal goal-setting as a gold standard?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Hilda Sønsterud", "Kristin Billaud Feragen", "Melanie Kirmess", "David Ward"],
+        "abstract": ["Purpose: \nStuttering affects people in individual ways, and there are multiple factors which may influence a person's goals when seeking therapy. Even though there is a common consensus that speech-language pathologists should discuss the individual's goals and expectations for stuttering therapy and outcomes, few studies have systematically invest..."]
+      },
+      {
+        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Michael Helge Rønnestad", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["There is a need for studies that advance our knowledge of therapist eﬀectiveness, expanding the deﬁnition of what constitutes \ntherapeutic success. In the present study, four aspects of clinical outcome were analyzed using a sample of highly experienced \npsychotherapists (mean years of experience as therapy practitioners = 30) who also serve as cli..."]
+      },
+      {
+        "title": "The working alliance in stuttering treatment: a neglected variable?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Hilda Sønsterud", "Melanie Kirmess", "Kirsten Howells", "Margrethe Seeger Halvorsen"],
+        "abstract": ["Background\nMultiple factors can influence the working alliance and treatment outcome in speech and language therapy. The ‘working alliance’ is an important concept in treatment and can be described as the degree to which a treatment dyad is engaged in collaborative, purposive work. To date, relatively little attention has been paid to this concept..."]
+      },
+      {
+        "title": "“Do I exist in this world, really, or is it just her?” Youths’ perspectives of living with a sibling with anorexia nervosa",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Krister W Fjermestad", "A. E. Rø", "K. E. Espeland", "I. M. Halvorsen"],
+        "abstract": ["Little is known about how severe anorexia nervosa (AN) in youths affects siblings and siblings’ experiences of family-based treatment for AN. Thirteen youths (M age = 15.5 years, SD = 3.0; 23% boys) who had been co-admitted with their sibling with AN and parents at an inpatient clinic for eating disorders 3 to 6 years earlier participated in qualit..."]
+      },
+      {
+        "title": "How usual is treatment as usual? Experienced therapists’ reflections on participation in practice-based research",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Margrethe Seeger Halvorsen", "Kirsten Benum", "Hanne Weie Oddli", "John McLeod"],
+        "abstract": ["Studies have shown that many clinicians are skeptical about research and hesitant about participating in research. In the present study, we explored this issue by studying experienced therapists’ reflections on their participation in practice-based research. Data were drawn from a practice-based research study at the University of Oslo, Norway. Twe..."]
+      },
+      {
+        "title": "Therapist strategies early in therapy associated with good or poor outcomes among clients with low proactive agency",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Anna von der Lippe", "Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["Objective: Within a mixed methods program of research the present study aimed at expanding knowledge about interactions in the initial therapeutic collaboration by combining focus on client interpersonal style and therapist contribution. Method: The study involves in-depth analyses of therapist–client interactions in the initial two sessions of goo..."]
+      },
+      {
+        "title": "Conceptualizing the Complexity of Change in Psychotherapy: The Case of “Cora”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Margrethe Seeger Halvorsen", "John McLeod", "Kirsten Benum", "Hanne Haavind"],
+        "abstract": ["p>In this article we respond to the commentaries by Altman and Miller (2016), Bohart (2016), and Timulak and Keogh (2016) on our case of “Cora,” which involved over 121 psychotherapy sessions with a client with a history of severe relational trauma that had led to difficulty in forming close relationships, as well as a series of suicide attempts (H..."]
+      },
+      {
+        "title": "A Life-Saving Therapy: The Theory-Building Case of \"Cora\"",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Margrethe Seeger Halvorsen", "Kirsten Benum", "Hanne Haavind", "John McLeod"],
+        "abstract": ["p>The present paper presents a case study of long-term (121 sessions over three years), integrative therapy with \"Cora,\" a client with a history of severe relational trauma that had led to difficulty in forming close relationships, and a history of hospitalization resulting from a series of suicide attempts. Despite these challenges, Cora reported..."]
+      },
+      {
+        "title": "From Cumulative Strain to Available Resources: A Narrative Case Study of the Potential Effects of New Trauma Exposure on Recovery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Signe Hjelen Stige", "Margrethe Seeger Halvorsen"],
+        "abstract": ["This article presents a narrative case study of a client with a history of multiple traumas and severe symptomatology, coupled with an ongoing recovery process. A hermeneutical–phenomenological approach was used to analyze two interviews with the participant over a period of 1 year, following a trauma treatment program. Her husband’s suicide in bet..."]
+      },
+      {
+        "title": "Common Therapeutic Change Principles as \"Sensitizing Concepts\": A Key Perspective in Psychotherapy Integration and Clinical Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Hanne Weie Oddli", "Helene A. Nissen-Lie", "Margrethe Seeger Halvorsen"],
+        "abstract": ["In this article, we discuss the role of common therapeutic change principles in psychotherapy practice and clinical research. Elaborating on a recent debate between Hoffart and Hoffart (2014a, 2014b) and Goldfried (2014) in the Journal of Psychotherapy Integration regarding the scientific status of general therapy change principles, we discuss foca..."]
+      },
+      {
+        "title": "Expertise demonstrated.What does it mean to be an expert psychotherapist?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Hanne Weie Oddli", "Margrethe Seeger Halvorsen", "Michael Helge Rønnestad"],
+        "abstract": []
+      },
+      {
+        "title": "Kampen for tilværelsen. Refleksjoner fra en terapeut og terapiforsker i isødet.",
+        "tags": ["Chapter"],
+        "date": "Aug 2014",
+        "authors": ["Margrethe Seeger Halvorsen"],
+        "abstract": []
+      },
+      {
+        "title": "Terapeuten som emosjonelt anker",
+        "tags": ["Chapter"],
+        "date": "Jan 2013",
+        "authors": ["Kirsten Benum", "Margrethe Seeger Halvorsen"],
+        "abstract": []
+      },
+      {
+        "title": "Experienced Psychotherapists’ Reports of Their Assessments, Predictions, and Decision Making in the Early Phase of Psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["Thirteen highly experienced psychotherapists' retrospective accounts of their initial assessments, predictions, and decision making in recently completed psychotherapies were analyzed by the qualitative method of Grounded Theory. Three main categories were identified, reflecting conceptual, attitudinal, and procedural aspects of initial clinical ju..."]
+      },
+      {
+        "title": "Råbu, M. Halvorsen, M.S. & Haavind, H. (2011) Early relationship struggles: A case study of alliance formation and reparation. Counselling and Psychotherapy Research, 11, 23- 33 (Special issue: The contribution of systematic case study research to building an evidence base for counselling and psychotherapy).",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Marit Råbu", "Margrethe Seeger Halvorsen", "Hanne Haavind"],
+        "abstract": ["Aim: A good alliance established during the early sessions of psychotherapy will most likely lead to a good outcome. As a result, there is much to learn from a case in which both the patient and therapist regarded the alliance as being poor for an extended period (the first 15 sessions), yet still managed to develop a solid and stable alliance and..."]
+      },
+      {
+        "title": "Validation of the SASB Introject Surface in a Norwegian Clinical and Nonclinical Sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2007",
+        "authors": ["Jon T Monsen", "Anna von der Lippe", "Odd E Havik", "Dag Erik Eilertsen"],
+        "abstract": ["In this study, we examined the reliability and construct validity of the Structural Analysis of Social Behavior Introject Surface, Intrex long form A (SASB-IS; Benjamin, 1995) in 2 Norwegian samples. The fit of the 8 SASB-IS scales to the structural requirements of a circumplex model with relaxed equal spacing constraints was reasonably good in an..."]
+      },
+      {
+        "title": "Self-Image as a Moderator of Change in Psychotherapy1 Margrethe S. Halvorsen and Jon T. Monsen, Department of Psychology, University of Oslo, Oslo, Norway.",
+        "tags": ["Article"],
+        "date": "Mar 2007",
+        "authors": ["Margrethe Seeger Halvorsen", "Jon T Monsen"],
+        "abstract": ["This study used the Structural Analysis of Social Behavior (SASB) introject model to investigate the relationship between patients’ self-image at pretreatment and change during psychotherapy. Data were obtained from the Norwegian Multisite Study of Process and Outcome in Psychotherapy, including 233 completed therapies. The patients were classified..."]
+      },
+      {
+        "title": "The reliability of self-image change scores in psychotherapy research: An application of generalizability theory",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2006",
+        "authors": ["Margrethe Seeger Halvorsen", "Knut A Hagtvet", "Jon T Monsen"],
+        "abstract": ["The aim of this study was to estimate the reliability of the pre- to posttreatment change scores for 3 different self-image aspects, Attack, Love, and Control. To measure self-image, we used the Norwegian version of the introject surface of Benjamin's (1974) structural analysis of social behavior. The article introduces Generalizability (G-) theory..."]
+      }
+    ],
+    "degree": ["Dr.", "Psychol."],
+    "bio": [],
+    "publications": [28],
+    "reads": [9845],
+    "citations": [329]
   }
 }

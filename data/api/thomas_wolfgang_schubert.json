@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Thomas Schubert",
-    "id": "7KRAhcQAAAAJ",
-    "affiliation": "Professor of Social Psychology, Department of Psychology, University of Oslo",
+    "name": ["Thomas Schubert"],
+    "id": ["7KRAhcQAAAAJ"],
+    "affiliation": ["Professor of Social Psychology, Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -1116,8 +1116,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-4047-2403",
-    "name": "Wolfgang Schubert",
+    "orcid": ["0000-0002-4047-2403"],
+    "name": ["Wolfgang Schubert"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1137,8 +1137,8 @@
       {
         "type": "journal-article",
         "title": "Electrostatic charging phenomena on material web electro field meter measurements in a production machine and their interpretation",
-        "journal": "Journal of Electrostatics",
-        "url": "https://doi.org/10.1016/j.elstat.2022.103681"
+        "url": "https://doi.org/10.1016/j.elstat.2022.103681",
+        "journal": "Journal of Electrostatics"
       },
       {
         "type": "edited-book",
@@ -1156,8 +1156,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Thomas Wolfgang Schubert",
-    "id": "505386",
+    "name": ["Thomas Wolfgang Schubert"],
+    "id": ["505386"],
     "keywords": [],
     "position": ["Professor"],
     "img": {},
@@ -1488,5 +1488,15 @@
         "url": "https://api.cristin.no/v2/results/943616"
       }
     ]
+  },
+  "rg": {
+    "id": "Thomas_Wolfgang",
+    "name": "Thomas Wolfgang",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Lehigh University",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

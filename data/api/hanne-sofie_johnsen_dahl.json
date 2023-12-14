@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-5407-7172",
-    "name": "Hanne-Sofie J Dahl",
+    "orcid": ["0000-0002-5407-7172"],
+    "name": ["Hanne-Sofie J Dahl"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Hanne-Sofie Johnsen Dahl",
-    "id": "9481",
+    "name": ["Hanne-Sofie Johnsen Dahl"],
+    "id": ["9481"],
     "keywords": [],
     "position": ["University lecturer", "Associate professor", null],
     "img": {},
@@ -296,5 +296,341 @@
         "url": "https://api.cristin.no/v2/results/869464"
       }
     ]
+  },
+  "rg": {
+    "id": "Hanne-Sofie-Dahl",
+    "name": "Hanne-Sofie Johnsen Dahl",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272264868397073-1441924411766_Q128/Hanne-Sofie-Dahl.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychotherapy", "Psychodynamic Psychotherapy", "Psychotherapeutic Processes", "Therapeutic Alliance", "Therapeutic Outcomes", "Self-Report", "Psychometrics", "Psychological Techniques"],
+    "works": [
+      {
+        "title": "Countertransference in the treatment of patients with personality disorders: A longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Randi Breivik Øvstebø", "Gard Pedersen", "T Wilberg", "Elfrida Kvarstein"],
+        "abstract": []
+      },
+      {
+        "title": "Sociodemographic Predictors and Moderators of Treatment Outcomes of Psychotherapeutic Interventions for Young People with Mental Disorders: A Systematic Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Vera Gergov", "Tamara Prevendar", "Eleni Vousoura", "Stig Poulsen"],
+        "abstract": ["Despite the worrying prevalence of mental disorders among adolescents and young people, evidence on predictors of treatment outcome remains scarce. Systematic reviews have focused on specific disorders or treatment modalities and have not targeted this age group in particular. This systematic review presents an overview of the sociodemographic pred..."]
+      },
+      {
+        "title": "Examining Psychotherapeutic Processes with Depressed Adolescents: A Comparative Study of Two Psychodynamic Therapies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Ana Calderon", "Knut Arne Hooper Storeide", "Cecilie Elvejord", "Hanne-Sofie Johnsen Dahl"],
+        "abstract": ["To understand processes associated with better or poorer psychotherapy outcomes is vital. This study examined and contrasted interaction patterns between one therapist and two depressed 17-year-old girls, Johanna (good outcome) and Sonja (poor outcome), in short-term psychoanalytic therapies selected from an RCT. Outcome data were collected regardi..."]
+      },
+      {
+        "title": "Personality Disorders as a Possible Moderator of the Effects of Relational Interventions in Short-Term Psychoanalytic Psychotherapy with Depressed Adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Hans Ole Korsgaard", "Randi Ulberg", "Benjamin Hummelen", "Hanne-Sofie Johnsen Dahl"],
+        "abstract": ["A significant proportion of adolescents suffering from major depressive disorder (MDD) are likely to have a co-morbid personality disorder (PD). Short-term psychoanalytic psychotherapy (STPP) was found to be one treatment of choice for adolescents suffering from MDD.\n\nBackground: \nThe first experimental study of transference work-in teenagers (FEST..."]
+      },
+      {
+        "title": "Therapists’ Emotional Responses in Individual Therapy with Depressed Adolescents: An Evaluation of the Data Structure of the Feeling-Word Checklist—28",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Pernille Brøsholen", "Randi Ulberg", "Hanne-Sofie Johnsen Dahl", "Agneta Thorén"],
+        "abstract": ["Countertransference (CT) responses during therapy sessions can be understood as the therapist’s emotional reactions towards the patient. Within adolescents’ psychotherapy, little is known about the effects of the therapists’ feelings on treatment outcome. The Feeling-Word Checklist—28 (FWC-28) is a self-report questionnaire designed to evaluate the..."]
+      },
+      {
+        "title": "Therapist-guided internet-based psychodynamic therapy versus cognitive behavioural therapy for adolescent depression in Sweden: a randomised, clinical, non-inferiority trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Jakob Mechler", "Karin Lindqvist", "Per Carlbring", "Björn Philips"],
+        "abstract": ["Background\nAdolescent major depressive disorder (MDD) is highly prevalent and associated with lifelong adversity. Evidence-based treatments exist, but accessible treatment alternatives are needed. We aimed to compare internet-based psychodynamic therapy (IPDT) with an established evidence-based treatment (internet-based cognitive behavioural therap..."]
+      },
+      {
+        "title": "Parental Bonding and Relationships with Friends and Siblings in Adolescents with Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Sarah Christine Fahs", "Randi Ulberg", "Hanne-Sofie Johnsen Dahl", "Per Høglend"],
+        "abstract": ["According to attachment theory, the quality of the early child-parent bond determines the child’s interpersonal relationships later in life. Utilising data from The First Experimental Study of Transference Work-In Teenagers (FEST-IT), the current paper investigated the connection between the self-reported quality of bonding with mother and father a..."]
+      },
+      {
+        "title": "Do Sleep Disturbances Improve Following Psychoanalytic Psychotherapy for Adolescent Depression?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Thea Schønning", "Hanne-Sofie Johnsen Dahl", "Benjamin Hummelen", "Randi Ulberg"],
+        "abstract": ["Sleep disturbance is often a prominent symptom in adolescents diagnosed with major depressive disorder (MDD). Recent evidence indicates that short-term psychoanalytic psychotherapy (STPP) for depression may have an effect in reducing co-occurring sleep disturbance in youth. It is unknown if transference work (exploration of the patient–therapist re..."]
+      },
+      {
+        "title": "Psychotherapy Dropout: Using the Adolescent Psychotherapy Q-Set to Explore the Early In-Session Process of Short-Term Psychodynamic Psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Hanne Gotaas Fredum", "Felicitas Rost", "Randi Ulberg", "Hanne-Sofie Johnsen Dahl"],
+        "abstract": ["Research suggests that short-term psychodynamic psychotherapy (STPP) is an effective treatment for depression in adolescence, yet treatment dropout is a major concern and what leads to dropout is poorly understood. Whilst studies have begun to explore the role of patient and therapist variables, there is a dearth of research on the actual therapy p..."]
+      },
+      {
+        "title": "Conflicted Anger as a Central Dynamic in Depression in Adolescents—A Double Case Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Arne Kristian Henriksen", "Randi Ulberg", "Peter Tallberg", "Hanne-Sofie Johnsen Dahl"],
+        "abstract": ["The incidence of depression in teenagers has increased for many years and is one of the most common diagnosis in adolescent psychiatry. Effective and accessible psychotherapy methods need sustained attention since psychopharmaceutic treatment might be less effective in younger people than in adults. The First Experimental Study of Transference–In T..."]
+      },
+      {
+        "title": "The first experimental study of transference work–in teenagers (FEST–IT): a multicentre, observer- and patient-blind, randomised controlled component study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Randi Ulberg", "Benjamin Hummelen", "Anne Grete Hersoug", "Hanne-Sofie Johnsen Dahl"],
+        "abstract": ["Background\nLittle is known about the influence on outcome of exploration of the patient-therapist relationship (that is, transference work) in psychoanalytic psychotherapy. We hypothesized that depressed adolescents would have better long-term effects from psychoanalytic psychotherapy with than without transference work.\n\nMethods\nDepressed adolesce..."]
+      },
+      {
+        "title": "Erratum: Therapeutic Atmosphere in Psychotherapy Sessions. Int. J. Environ. Res. Public Health 2020, 17, 4105",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Marte L. Siegel", "Eva M. Gullestad Binder", "Hanne-Sofie Johnsen Dahl", "Randi Ulberg"],
+        "abstract": ["The authors wish to make the following correction to their paper [...]"]
+      },
+      {
+        "title": "Internet-based psychodynamic versus cognitive behaviour therapy for adolescents with depression: study protocol for a non-inferiority randomized controlled trial (the ERiCA study)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Jakob Mechler", "Karin Lindqvist", "Per Carlbring", "Björn Philips"],
+        "abstract": ["Background: \nAdolescent depression is a common mental health problem and there is an urgent need for effective and accessible treatments. Internet-based interventions solve many obstacles for seeking and receiving treatment, thus increasing access to effective treatments. Internet-based cognitive behavioural therapy (ICBT) for adolescent depression..."]
+      },
+      {
+        "title": "Internet-based psychodynamic versus cognitive behaviour therapy for adolescents with depression: study protocol for a non-inferiority randomized controlled trial (the ERiCA study)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Jakob Mechler", "Karin Lindqvist", "Per Carlbring", "Björn Philips"],
+        "abstract": ["BACKGROUND: Adolescent depression is a common mental health problem and there is an urgent need for effective and accessible treatments. Internet-based interventions solve many obstacles for seeking and receiving treatment, thus increasing access to effective treatments. Internet-based cognitive behavioural therapy (ICBT) for adolescent depression..."]
+      },
+      {
+        "title": "Therapeutic Atmosphere in Psychotherapy Sessions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Marte L. Siegel", "Eva M. Gullestad Binder", "Hanne-Sofie Johnsen Dahl", "Randi Ulberg"],
+        "abstract": ["There is uncertainty concerning what the active ingredients in psychotherapy are. The First Experimental Study of Transference interpretations (FEST) was a randomized controlled trial of the effects of transference work (TW) in psychodynamic psychotherapy. Women with low quality of object relations (QOR) showed a large positive effect of transferen..."]
+      },
+      {
+        "title": "Patient factors predict therapists' emotional countertransference differently depending on whether therapists use transference work in psychodynamic therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Helene A. Nissen-Lie", "Hanne-Sofie Johnsen Dahl", "Per Høglend"],
+        "abstract": ["Objective: Recently, studies have reported systematic relationships between the therapists’ emotional response/countertransference (CT) during therapy and a variety of patient characteristics, speaking to the communicative potential of CT. Within an RCT assessing the role of transference work (TW) in psychodynamic therapy, we investigated whether t..."]
+      },
+      {
+        "title": "Core conflictual relationship theme: the reliability of a simplified scoring procedure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Peter Tallberg", "Randi Ulberg", "Hanne-Sofie Johnsen Dahl", "Per Høglend"],
+        "abstract": ["Background: \nCreating a case formulation is an important and basic skill in psychotherapy meant to guide treatment. A patient's interpersonal pattern is an essential part of a case formulation. Core Conflictual Relationship Theme (CCRT) is a well-known structured method to describe interpersonal patterns. The CCRT method is based on the assumption..."]
+      },
+      {
+        "title": "Internet-based psychodynamic therapy versus cognitive behavior therapy for adolescents with depression: Study protocol for a non-inferiority randomized controlled trial (the ERiCA study)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Jakob Mechler", "Karin Lindqvist", "Per Carlbring", "Björn Philips"],
+        "abstract": ["Background: Adolescent depression is a common mental health problem and there is an urgent need for effective and accessible treatments. Internet-based interventions solve many obstacles for seeking and receiving treatment, thus increasing access to effective treatments. Internet-based cognitive behavioural therapy (ICBT) for adolescent depression..."]
+      },
+      {
+        "title": "Affect-Focused Psychodynamic Internet-Based Therapy for Adolescent Depression: Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Karin Lindqvist", "Jakob Mechler", "Peter Lilliengren", "Björn Philips"],
+        "abstract": ["Background\nAdolescent depression is one of the largest health issues in the world and there is a pressing need for effective and accessible treatments.\nObjective\nThis trial examines whether affect-focused internet-based psychodynamic therapy (IPDT) with therapist support is more effective than an internet-based supportive control condition on reduc..."]
+      },
+      {
+        "title": "Countertransference feelings and personality disorders: a psychometric evaluation of a brief version of the Feeling Word Checklist (FWC-BV)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Randi Breivik Øvstebø", "Theresa Wilberg", "J. Evensen", "Gard Pedersen"],
+        "abstract": ["Background: \nThe Feeling Word Checklist (FWC) is a self-report questionnaire designed to assess therapists' countertransference (CT) feelings. The primary aim of the study was to evaluate the psychometric properties of a brief, 12-item version of the Feeling Word Checklist (FWC-BV). The second aim was to validate the factor structure by examining t..."]
+      },
+      {
+        "title": "Affect-Focused Psychodynamic Internet-Based Therapy for Adolescent Depression: Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Karin Lindqvist", "Jakob Mechler", "Per Carlbring", "Björn Philips"],
+        "abstract": ["BACKGROUND: Adolescent depression is one of the largest health issues in the world and there is a pressing need for effective and accessible treatments. OBJECTIVE: This trial examines whether affect-focused internet-based psychodynamic therapy (IPDT) with therapist support is more effective than an internet-based supportive control condition on red..."]
+      },
+      {
+        "title": "Countertransference feelings and personality disorders: A psychometric evaluation of a brief version of the Feeling Word Checklist (FWC-BV)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Randi Breivik Øvstebø", "Theresa Wilberg", "Julie Evensen", "Gard Pedersen"],
+        "abstract": ["Background The Feeling Word Checklist (FWC) is a self-report questionnaire designed to assess therapists’ countertransference (CT) feelings. The primary aim of the study was to evaluate the psychometric properties of a brief, 12-item version of the Feeling Word Checklist (FWC-BV). The second aim was to validate the factor structure by examining the..."]
+      },
+      {
+        "title": "Core Conflictual Relationship Theme: The reliability of a simplified scoring procedure.",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Peter Tallberg", "Randi Ulberg", "Hanne-Sofie Johnsen Dahl", "Per Høglend"],
+        "abstract": ["Background: Creating a case formulation is an important and basic skill in psychotherapy meant to guide treatment. A patient’s interpersonal pattern is an essential part of a case formulation. Core Conflictual Relationship Theme (CCRT) is a well-known structured method to describe interpersonal patterns.\nThe CCRT method is based on the assumption t..."]
+      },
+      {
+        "title": "Countertransference feelings and personality disorders: A psychometric evaluation of a brief version of the Feeling Word Checklist (FWC-BV)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Randi Breivik Øvstebø", "Theresa Wilberg", "Julie Evensen", "Gard Pedersen"],
+        "abstract": ["Background The Feeling Word Checklist (FWC) is a self-report questionnaire designed to measure therapists’ countertransference (CT) feelings. The primary aim of the study was to evaluate the psychometric properties of a brief version of the Feeling Word Checklist (FWC-BV) comprising 12 feeling words. The second aim was to validate the factor struct..."]
+      },
+      {
+        "title": "Core Conflictual Relationship Theme: The reliability of a simplified scoring procedure.",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Peter Tallberg", "Randi Ulberg", "Hanne-Sofie Johnsen Dahl", "Per Høglend"],
+        "abstract": ["Background: Creating a case formulation is an important and basic skill in psychotherapy meant to guide treatment. A patient’s interpersonal pattern is an essential part of a case formulation. Core Conflictual Relationship Theme (CCRT) is a well-known structured method to describe interpersonal patterns. The CCRT method is based on the assumption t..."]
+      },
+      {
+        "title": "Countertransference feelings and personality disorders: A psychometric evaluation of a brief version of the Feeling Word Checklist (FWC-12)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Randi Breivik Øvstebø", "Theresa Wilberg", "Julie Evensen", "Gard Pedersen"],
+        "abstract": ["Background The Feeling Word Checklist (FWC) is a self-report questionnaire designed to measure therapists’ countertransference (CT) feelings. The primary aim of the study was to evaluate the psychometric properties of a brief version of the Feeling Word Checklist comprising twelve feeling words (FWC-12). The second aim was to validate the factor st..."]
+      },
+      {
+        "title": "Psychodynamic case formulations without technical language: a reliability study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Øystein Sørbye", "Hanne-Sofie Johnsen Dahl", "Tracy Eells", "Randi Ulberg"],
+        "abstract": ["Background\nTo bridge the gap between symptoms and treatment, constructing case formulations is essential for clinicians. Limited scientific value has been attributed to case formulations because of problems with quality, reliability, and validity. For understanding, communication, and treatment planning beyond each specific clinician-patient dyad,..."]
+      },
+      {
+        "title": "Appendix1ManualforsemistrukturertintervjuPFS.pdf",
+        "tags": ["Data"],
+        "date": "Mar 2019",
+        "authors": ["Randi Ulberg", "Hanne-Sofie Johnsen Dahl", "Johnsen Dahl", "Høglend Oslo"],
+        "abstract": []
+      },
+      {
+        "title": "Psykodynamisk kartlegging av ungdom og voksne ved hjelp av semistrukturert intervju og funksjonsskalaer M E L L A N R U M M E T NORDISK TIDSKRIFT FÖR BARN-OCH UNGDOMSPSYKOTERAPI NORDIC JOURNAL OF CHILD AND ADOLESCENT PSYCHOTHERAPY",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Randi Ulberg", "Hanne-Sofie Johnsen Dahl", "Johnsen Dahl", "Høglend Oslo"],
+        "abstract": ["Få redskaper finnes for å kartlegge og evaluere dynamisk endring i forbindelse med psykodynamisk terapi. Psykodynamiske funksjonsskalaer (PFS) er revidert og oversatt til norsk. Basert på et psykodynamisk intervju er skalaene egnet for kartlegging av dynamisk fingering hos ungdom og voksne. I denne artikkelen presenteres en revidert versjon av PFS..."]
+      },
+      {
+        "title": "Appendix2SkaringPsykodynamiskefunksjonsskalaerPFS.pdf",
+        "tags": ["Data"],
+        "date": "Mar 2019",
+        "authors": ["Randi Ulberg", "Hanne-Sofie Johnsen Dahl", "Johnsen Dahl", "Høglend Oslo"],
+        "abstract": []
+      },
+      {
+        "title": "Exploring In-Session Process with Qualitative and Quantitative Methods in Psychotherapy with an Adolescent",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Elisabeth Ness", "Hanne-Sofie Johnsen Dahl", "Kenneth L. Critchfield", "Randi Ulberg"],
+        "abstract": ["There is emerging evidence for the effect of psychotherapy in adolescents with depression. Research indicates that therapists often use techniques from different theoretical models when working with adults. Research on the therapy process in adolescents is scarce. We explore the therapist’s interventions in a time-limited psychodynamic adolescent t..."]
+      },
+      {
+        "title": "Assessment of dynamic change in psychotherapy with adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Elisabeth Ness", "Hanne-Sofie Johnsen Dahl", "Peter Tallberg", "Randi Ulberg"],
+        "abstract": ["Background\nDiagnostic interviews and questionnaires are commonly used in the assessment of adolescents referred to child and adolescent mental health services. Many of these rating scales are constructed for adults and focus on symptoms related to diagnosis. Psychodynamic Functioning Scales (PFS) focus on relational aspects and how the patients han..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jul 2018",
+        "authors": ["Elisabeth Ness", "Hanne-Sofie Johnsen Dahl", "Peter Tallberg", "Randi Ulberg"],
+        "abstract": []
+      },
+      {
+        "title": "Empirical support for the psychoanalytic concepts",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Randi Ulberg", "Hanne-Sofie Johnsen Dahl"],
+        "abstract": []
+      },
+      {
+        "title": "Does Insight Mediate Treatment and Enhance Outcome?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2017",
+        "authors": ["Randi Ulberg", "Svein Amlo", "Hanne-Sofie Johnsen Dahl", "Per Høglend"],
+        "abstract": ["According to psychoanalytic and psychodynamic theory, insight is an important mechanism that may lead to better interpersonal functioning. In this article, we have summarized empirical studies attempting to shed some light on insight as a putative mediator of treatment effects. Two case examples illustrate how improved insight might lead to clinica..."]
+      },
+      {
+        "title": "Relational interventions in psychotherapy: Development of a therapy process rating scale",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Randi Ulberg", "Elisabeth Ness", "Hanne-Sofie Johnsen Dahl", "Svein Amlo"],
+        "abstract": ["Background\nIn psychodynamic psychotherapy, one of the therapists’ techniques is to intervene on and encourage exploration of the patients’ relationships with other people. The impact of these interventions and the response from the patient are probably dependent on certain characteristics of the context in which the interventions are given and the..."]
+      },
+      {
+        "title": "Therapists' Inadequate Feelings and Long-Term Effect of Transference Work",
+        "tags": ["Article"],
+        "date": "Aug 2016",
+        "authors": ["Hanne-Sofie Johnsen Dahl", "Randi Ulberg", "Svein Friis", "Per Høglend"],
+        "abstract": ["Received: November 19, 2015\nAccepted: February 09, 2016\nPublished online: August 12, 2016\nIssue release date: August 2016"]
+      },
+      {
+        "title": "Beyond the Statistics: A Case Comparison Study of Victor and Tim",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Hanne-Sofie Johnsen Dahl", "Randi Ulberg", "Alice Marble", "Per Høglend"],
+        "abstract": ["The 2 treatments, in this case comparison study, are strategically chosen to illustrate one of many or a result from a randomized controlled study on the long-term effect of transference work (Høglend et al., 2006). Namely, the interaction between transference work, therapists’ self-reported parental countertransference, and patients’ personality p..."]
+      },
+      {
+        "title": "Does Therapists' Disengaged Feelings Influence the Effect of Transference Work? A Study on Countertransference: Does Therapists' Disengaged Feelings Influence the Effect of Transference Work? A Study on Countertransference",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Hanne-Sofie Johnsen Dahl", "Per Høglend", "Randi Ulberg", "Paul Crits-Christoph"],
+        "abstract": ["Key practitioner message: \nTherapists' emotional reactions to their patients (countertransference) seem to have a significant impact on both the treatment process and outcome of psychotherapy. Therapists' heightened level of disengaged feelings over a treatment period shows an adverse impact on the effect of transference work for all patients, and..."]
+      },
+      {
+        "title": "Kort om psykoterapiforskning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Hanne-Sofie Johnsen Dahl"],
+        "abstract": []
+      },
+      {
+        "title": "The Effects of the Therapist's Disengaged Feelings on the In-Session Process in Psychodynamic Psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Randi Ulberg", "Svein Amlo", "Anne Grete Hersoug", "Per Høglend"],
+        "abstract": ["The primary aim of this article was to explore the effects of the therapist's disengaged feelings (i.e., bored, tired of, sleepy, indifferent, aloof) in psychodynamic therapy. The Transference Work Scale was used in combination with the Defense Mechanism Rating Scales and Structural Analyses of Social Behavior to explore the in-session process in 2..."]
+      },
+      {
+        "title": "Long-Term Effects of Analysis of the Patient-Therapist Relationship in the Context of Patients' Personality Pathology and Therapists' Parental Feelings",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Hanne-Sofie Johnsen Dahl", "Jan Ivar Rossberg", "Paul Crits-Christoph", "Per Høglend"],
+        "abstract": ["Objective: \nAnalysis of the patient-therapist relationship (relationship work) is considered a core active ingredient in dynamic psychotherapy. However, there are contradictory findings as for whom and under what circumstances these interventions are beneficial. This study investigates long-term effects of relationship work in the context of patien..."]
+      },
+      {
+        "title": "Kvantitativ forskning på motoverføring -nyttig i terapirommet?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Hanne-Sofie Johnsen Dahl", "Dahl Oslo"],
+        "abstract": ["Hvordan vi kan forstå, bruke og arbeide med motoverføringen er noe som ofte diskuteres i veiledning, kliniske seminarer og i teoretiske artikler. Til tross for dette refereres det lite til empiriske studier av motoverføring i disse sammenhengene. Mange setter nok spørs-målstegn ved hvorvidt det er mulig å studere noe så mangefasettert som motoverfø..."]
+      },
+      {
+        "title": "Countertransference Feelings when Treating Teenagers. A Psychometric Evaluation of the Feeling Word Checklist–24",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Randi Ulberg", "Anette Aardal Falkenberg", "Taran Buran Naerdal", "Hanne-Sofie Johnsen Dahl"],
+        "abstract": ["The Feeling Word Checklist–24 (FWC–24) is a self–report questionnaire comprising 24 feeling words measuring therapists' emotional reactions towards patients. The aim of this study was to evaluate the psychometric properties in FWC–24in individual therapy with adolescents. Therapists (N 41) in four outpatient clinics filled in the FWC–24 (N 410) aft..."]
+      },
+      {
+        "title": "Countertransference feelings in one year of individual therapy: An evaluation of the factor structure in the Feeling Word Checklist-58",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Hanne-Sofie Johnsen Dahl", "Jan Ivar Rossberg", "Kjell-Petter Bøgwald", "Per Høglend"],
+        "abstract": ["Although countertransference phenomena have been given much attention within psychotherapy theory, single-case studies and clinical anecdotes, empirical research is still conspicuous by its absence. To assess the therapists' emotional reactions, which are understood to be part of the countertransference (CT), we used the Feeling Word Checklist 58 (..."]
+      },
+      {
+        "title": "Long-term effects of transference interpretation in dynamic psychotherapy of personality disorders",
+        "tags": ["Article"],
+        "date": "Oct 2011",
+        "authors": ["Per Høglend", "Hanne-Sofie Johnsen Dahl", "Anne Grete Hersoug", "John Christopher Perry"],
+        "abstract": ["Only a few treatment studies of personality disorders (PD) patients are on longer-term psychotherapy, general outcome measures are used, and follow-up periods are usually short. More studies of long-term therapies, using outcome measures of core psychopathology, are needed.\nThis study is a dismantling randomized controlled clinical trial, specifica..."]
+      }
+    ],
+    "degree": ["Phd"],
+    "bio": [],
+    "publications": [46],
+    "reads": [24447],
+    "citations": [402]
   }
 }

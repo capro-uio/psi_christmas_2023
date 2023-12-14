@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Cato Alexander Bjørkli",
-    "id": "wqtXdjYAAAAJ",
-    "affiliation": "Associate professor, Department of Psychology, University of Oslo",
+    "name": ["Cato Alexander Bjørkli"],
+    "id": ["wqtXdjYAAAAJ"],
+    "affiliation": ["Associate professor, Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -550,8 +550,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-3246-2379",
-    "name": "Cato Alexander Bjørkli",
+    "orcid": ["0000-0002-3246-2379"],
+    "name": ["Cato Alexander Bjørkli"],
     "distinctions": [],
     "education": [
       {
@@ -590,11 +590,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Cato Bjørkli",
-    "id": "11742",
+    "name": ["Cato Bjørkli"],
+    "id": ["11742"],
     "keywords": [],
     "position": ["Associate professor", "Guest", "Professor"],
-    "img": "https://api.cristin.no/v2/persons/11742/picture",
+    "img": ["https://api.cristin.no/v2/persons/11742/picture"],
     "works": [
       {
         "type": "Academic chapter/article/Conference paper",
@@ -606,15 +606,15 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Understanding the user experience of customer service chatbots: An experimental study of chatbot interaction design",
-        "journal": "International Journal of Human-Computer Studies",
-        "url": "https://api.cristin.no/v2/results/2025929"
+        "url": "https://api.cristin.no/v2/results/2025929",
+        "journal": "International Journal of Human-Computer Studies"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Implementation in Residential Youth Care: Providers’ Perspectives on Organizational Facilitators and Barriers",
-        "journal": "Residential Treatment for Children & Youth",
-        "url": "https://api.cristin.no/v2/results/1970977"
+        "url": "https://api.cristin.no/v2/results/1970977",
+        "journal": "Residential Treatment for Children & Youth"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -626,36 +626,36 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Understanding how chatbots work: An exploratory study of mental models in customer service chatbots.",
-        "journal": "IADIS International Journal on WWW/Internet",
-        "url": "https://api.cristin.no/v2/results/1962074"
+        "url": "https://api.cristin.no/v2/results/1962074",
+        "journal": "IADIS International Journal on WWW/Internet"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Organizational Factors Affecting Successful Implementation of Chatbots for Customer Service",
-        "journal": "Journal of Internet Commerce",
-        "url": "https://api.cristin.no/v2/results/1933229"
+        "url": "https://api.cristin.no/v2/results/1933229",
+        "journal": "Journal of Internet Commerce"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "A qualitative study exploring contributors to the success of a community of practice in rehabilitation",
-        "journal": "BMC Medical Education",
-        "url": "https://api.cristin.no/v2/results/1916758"
+        "url": "https://api.cristin.no/v2/results/1916758",
+        "journal": "BMC Medical Education"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2020",
         "title": "Implementation in Residential Youth Care: Providers Perspectives on Effective Leadership Behavior",
-        "journal": "Residential Treatment for Children & Youth",
-        "url": "https://api.cristin.no/v2/results/1915803"
+        "url": "https://api.cristin.no/v2/results/1915803",
+        "journal": "Residential Treatment for Children & Youth"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Implementation in Residential Youth Care: Providers Perspectives on Effective Leadership Behavior",
-        "journal": "Residential Treatment for Children & Youth",
-        "url": "https://api.cristin.no/v2/results/1900067"
+        "url": "https://api.cristin.no/v2/results/1900067",
+        "journal": "Residential Treatment for Children & Youth"
       },
       {
         "type": "Lecture",
@@ -666,8 +666,8 @@
         "type": "Academic article",
         "year": "2020",
         "title": "An Empirical evaluation of the relationship between human relations climate and readiness for change",
-        "journal": "Scandinavian Journal of Work and Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/1797154"
+        "url": "https://api.cristin.no/v2/results/1797154",
+        "journal": "Scandinavian Journal of Work and Organizational Psychology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -679,15 +679,15 @@
         "type": "Academic article",
         "year": "2019",
         "title": "An initial model of trust in chatbots for customer service – Findings from a questionnaire study",
-        "journal": "Interacting with computers",
-        "url": "https://api.cristin.no/v2/results/1720205"
+        "url": "https://api.cristin.no/v2/results/1720205",
+        "journal": "Interacting with computers"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "What makes users trust a chatbot for customer service? An exploratory interview study",
-        "journal": "Lecture Notes in Computer Science (LNCS)",
-        "url": "https://api.cristin.no/v2/results/1626870"
+        "url": "https://api.cristin.no/v2/results/1626870",
+        "journal": "Lecture Notes in Computer Science (LNCS)"
       },
       {
         "type": "Lecture",
@@ -709,29 +709,29 @@
         "type": "Academic article",
         "year": "2017",
         "title": "Organizational climate and investigation performance in the Norwegian police: A qualitative study",
-        "journal": "Journal of Investigative Psychology and Offender Profiling",
-        "url": "https://api.cristin.no/v2/results/1440787"
+        "url": "https://api.cristin.no/v2/results/1440787",
+        "journal": "Journal of Investigative Psychology and Offender Profiling"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "The relationship between the broader environment and the work system in a university setting: a systems approach",
-        "journal": "Studies in Higher Education",
-        "url": "https://api.cristin.no/v2/results/1263103"
+        "url": "https://api.cristin.no/v2/results/1263103",
+        "journal": "Studies in Higher Education"
       },
       {
         "type": "Abstract",
         "year": "2016",
         "title": "The use of virtual meetings and a project platform bring researchers and clinicians together in Knowledge Translation (KT)",
-        "journal": "International Journal of Integrated Care (IJIC)",
-        "url": "https://api.cristin.no/v2/results/1431218"
+        "url": "https://api.cristin.no/v2/results/1431218",
+        "journal": "International Journal of Integrated Care (IJIC)"
       },
       {
         "type": "Academic literature review",
         "year": "2016",
         "title": "The implementation of internet interventions for depression: A scoping review",
-        "journal": "Journal of Medical Internet Research",
-        "url": "https://api.cristin.no/v2/results/1396810"
+        "url": "https://api.cristin.no/v2/results/1396810",
+        "journal": "Journal of Medical Internet Research"
       },
       {
         "type": "Masters thesis",
@@ -761,8 +761,8 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Assessing knowledge-intensive work environment: General versus situation-specific instruments",
-        "journal": "European Journal of Work and Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/999656"
+        "url": "https://api.cristin.no/v2/results/999656",
+        "journal": "European Journal of Work and Organizational Psychology"
       },
       {
         "type": "Academic lecture",
@@ -812,22 +812,22 @@
         "type": "Academic article",
         "year": "2014",
         "title": "What We Talk About When We Talk About Design. Toward a Taxonomy of Design Competencies",
-        "journal": "FormAkademisk - Forskningstidsskriftet for design og designdidaktikk",
-        "url": "https://api.cristin.no/v2/results/1162805"
+        "url": "https://api.cristin.no/v2/results/1162805",
+        "journal": "FormAkademisk - Forskningstidsskriftet for design og designdidaktikk"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "Better Days - A randomized controlled trial of an internet-based positive psychology intervention",
-        "journal": "Journal of Positive Psychology",
-        "url": "https://api.cristin.no/v2/results/1132097"
+        "url": "https://api.cristin.no/v2/results/1132097",
+        "journal": "Journal of Positive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "Organizational climate in large-scale projects in the oil and gas industry: A competing values perspective",
-        "journal": "International Journal of Project Management",
-        "url": "https://api.cristin.no/v2/results/1054960"
+        "url": "https://api.cristin.no/v2/results/1054960",
+        "journal": "International Journal of Project Management"
       },
       {
         "type": "Academic lecture",
@@ -849,15 +849,15 @@
       {
         "type": "Feature article",
         "year": "2013",
-        "journal": "Dagens medisin",
-        "url": "https://api.cristin.no/v2/results/1074233"
+        "url": "https://api.cristin.no/v2/results/1074233",
+        "journal": "Dagens medisin"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Assessing a Norwegian Translation of the Organizational Climate Measure",
-        "journal": "Psychological Reports",
-        "url": "https://api.cristin.no/v2/results/1030498"
+        "url": "https://api.cristin.no/v2/results/1030498",
+        "journal": "Psychological Reports"
       },
       {
         "type": "Poster",
@@ -869,8 +869,8 @@
         "type": "Academic article",
         "year": "2013",
         "title": "Multilevel Growth Curve Analyses of Treatment Effects of a Web-Based Intervention for Stress Reduction: Randomized Controlled Trial",
-        "journal": "Journal of Medical Internet Research",
-        "url": "https://api.cristin.no/v2/results/1025228"
+        "url": "https://api.cristin.no/v2/results/1025228",
+        "journal": "Journal of Medical Internet Research"
       },
       {
         "type": "Academic lecture",
@@ -882,8 +882,8 @@
         "type": "Academic article",
         "year": "2012",
         "title": "Effects of socio-emotional stressors on ventilation rate and subjective workload during simulated CPR by lay rescuers",
-        "journal": "Applied Ergonomics",
-        "url": "https://api.cristin.no/v2/results/887288"
+        "url": "https://api.cristin.no/v2/results/887288",
+        "journal": "Applied Ergonomics"
       },
       {
         "type": "Masters thesis",
@@ -901,43 +901,43 @@
         "type": "Academic article",
         "year": "2011",
         "title": "Organizational Climate and Innovation in the Norwegian Service Sector",
-        "journal": "Scandinavian Journal of Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/831491"
+        "url": "https://api.cristin.no/v2/results/831491",
+        "journal": "Scandinavian Journal of Organizational Psychology"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Effect of socioemotional stress on the quality of cardiopulmonary resuscitation during advanced life support in a randomized manikin study",
-        "journal": "Critical Care Medicine",
-        "url": "https://api.cristin.no/v2/results/827192"
+        "url": "https://api.cristin.no/v2/results/827192",
+        "journal": "Critical Care Medicine"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Control strategies used by experienced marine navigators: observation of verbal conversations during navigation training",
-        "journal": "Cognition, Technology & Work",
-        "url": "https://api.cristin.no/v2/results/349493"
+        "url": "https://api.cristin.no/v2/results/349493",
+        "journal": "Cognition, Technology & Work"
       },
       {
         "type": "Academic article",
         "year": "2009",
         "title": "On the Validity of M-SWOT for Innovation Climate Development",
-        "journal": "Scandinavian Journal of Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/344009"
+        "url": "https://api.cristin.no/v2/results/344009",
+        "journal": "Scandinavian Journal of Organizational Psychology"
       },
       {
         "type": "Academic article",
         "year": "2009",
         "title": "An External Validation of Two Psychosocial Work Environment Surveys – A SWOT Approach",
-        "journal": "Scandinavian Journal of Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/344007"
+        "url": "https://api.cristin.no/v2/results/344007",
+        "journal": "Scandinavian Journal of Organizational Psychology"
       },
       {
         "type": "Abstract",
         "year": "2008",
         "title": "Socio-emotional stressors increase ventilation rate during advanced cardial life support in a manikin model",
-        "journal": "Circulation",
-        "url": "https://api.cristin.no/v2/results/505185"
+        "url": "https://api.cristin.no/v2/results/505185",
+        "journal": "Circulation"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -985,28 +985,28 @@
         "type": "Academic article",
         "year": "2007",
         "title": "A Case Study of a Touch Based Interface for In-Car Audio Systems",
-        "journal": "The Design Journal",
-        "url": "https://api.cristin.no/v2/results/365648"
+        "url": "https://api.cristin.no/v2/results/365648",
+        "journal": "The Design Journal"
       },
       {
         "type": "Academic article",
         "year": "2007",
         "title": "Activity theory as a supportive framework in design of navigation equipment",
-        "journal": "Activités",
-        "url": "https://api.cristin.no/v2/results/365616"
+        "url": "https://api.cristin.no/v2/results/365616",
+        "journal": "Activités"
       },
       {
         "type": "Academic article",
         "year": "2007",
-        "journal": "Activités",
-        "url": "https://api.cristin.no/v2/results/365614"
+        "url": "https://api.cristin.no/v2/results/365614",
+        "journal": "Activités"
       },
       {
         "type": "Academic article",
         "year": "2007",
         "title": "Control Situations in High Speed Craft Operation",
-        "journal": "Cognition, Technology & Work",
-        "url": "https://api.cristin.no/v2/results/365613"
+        "url": "https://api.cristin.no/v2/results/365613",
+        "journal": "Cognition, Technology & Work"
       },
       {
         "type": "Academic lecture",
@@ -1036,21 +1036,21 @@
         "type": "Academic article",
         "year": "2002",
         "title": "On Representations of In-Vehicle Information Systems - Effects of Handheld vs. Speech Based User Interfaces",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/412604"
+        "url": "https://api.cristin.no/v2/results/412604",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2002",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/412244"
+        "url": "https://api.cristin.no/v2/results/412244",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2002",
         "title": "Workload as Activity",
-        "journal": "Proceedings of the Nordic Ergonomics Society's 34th Annual Congress on Humans in a Complex Environment",
-        "url": "https://api.cristin.no/v2/results/412163"
+        "url": "https://api.cristin.no/v2/results/412163",
+        "journal": "Proceedings of the Nordic Ergonomics Society's 34th Annual Congress on Humans in a Complex Environment"
       },
       {
         "type": "Other product",
@@ -1076,5 +1076,317 @@
         "url": "https://api.cristin.no/v2/results/122029"
       }
     ]
+  },
+  "rg": {
+    "id": "Cato-Bjorkli",
+    "name": "Cato Bjørkli",
+    "img": "https://i1.rgstatic.net/ii/profile.image/771809750298625-1561025192027_Q128/Cato-Bjorkli.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Human Factors", "Clinical Trials", "Knowledge Translation", "Cognitive Ergonomics", "Usability", "Safety Management", "Cognitive Task Analysis", "Health Care Delivery"],
+    "works": [
+      {
+        "title": "Cultivating flexibility: The relationship between flexible organizational values, participation climate, and job attitudes from an employee perspective",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Marius Duhović Hafstad", "Henning Bang", "Cato Bjørkli", "Knut Inge Fostervold"],
+        "abstract": ["Adopting a flexible organizational culture can be a potential remedy for organizations that face globalization, technological advancements, and higher expectations from the workforce. However, research on the mechanism between organizational culture and its outcomes remain understudied. This study adopts an employee-centric approach, suggesting tha..."]
+      },
+      {
+        "title": "Chatbots as Part of Digital Government Service Provision – A User Perspective",
+        "tags": ["Chapter"],
+        "date": "Feb 2023",
+        "authors": ["Nadia Abbas", "Asbjørn Følstad", "Cato Bjørkli"],
+        "abstract": ["Chatbots are taken up as part of digital government service provision. While the success of chatbots for this purpose depends on these being accepted by their intended users, there is a lack of knowledge concerning user perceptions of such chatbots and the implications of these for intention to use. In response to this, an exploratory qualitative i..."]
+      },
+      {
+        "title": "Understanding the user experience of customer service chatbots: An experimental study of chatbot interaction design",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Isabel Kathleen Fornell Haugeland", "Asbjørn Følstad", "Cameron Taylor", "Cato Bjørkli"],
+        "abstract": ["Understanding the user experience of chatbots for customer service is essential to realize the potential of this technology. Such chatbots are typically designed for efficient and effective interactions, accentuating pragmatic quality, and there is a need to understand how to make these more pleasant and engaging, strengthening hedonic quality. One..."]
+      },
+      {
+        "title": "Implementation in Residential Youth Care: Providers’ Perspectives on Organizational Facilitators and Barriers",
+        "tags": ["Article"],
+        "date": "Dec 2021",
+        "authors": ["Linda Vaskinn", "Pamela Waaler", "Anneli Viktoria Mellblom", "John Kjøbli"],
+        "abstract": ["Youth in residential care often have high rates of emotional and behavioral problems, and a disrupted past with trauma and prior placements. There is a need for the residential youth care (RYC) services to adopt research-informed practices that may improve the outcomes for youth entering. Still, as RYCs can be a challenging setting to implement pra..."]
+      },
+      {
+        "title": "Organizational Factors Affecting Successful Implementation of Chatbots for Customer Service",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Juliana Zhang", "Asbjørn Følstad", "Cato Bjørkli"],
+        "abstract": ["While chatbots have become an important part of customer service operations, there is a knowledge gap concerning organizational aspects of chatbot implementation and management. In response to this gap, we present a study of organizational factors affecting successful chatbot implementation. The study involved six organizations that had implemented..."]
+      },
+      {
+        "title": "A qualitative study exploring contributors to the success of a community of practice in rehabilitation",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Jennifer L. Moore", "Cato Bjørkli", "Richard Tidemann Havdahl", "Jan Egil Nordvik"],
+        "abstract": ["Background\nCommunities of Practice (CoPs) focus on learning, knowledge sharing, and creation, and research indicates they can improve healthcare performance. This article describes the development of a CoP that focused on synthesizing and adapting evidence in Physical Medicine and Rehabilitation (PM&R). This study aimed to investigate the CoP membe..."]
+      },
+      {
+        "title": "Implementation in Residential Youth Care: Providers Perspectives on Effective Leadership Behavior",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Linda Vaskinn", "Anneli Viktoria Mellblom", "Pamela Waaler", "John Kjøbli"],
+        "abstract": ["Considering the high prevalence of mental health challenges among the residential youth care (RYC) population, it is imperative that research-informed interventions are implemented in this setting. However, little research is available regarding RYC implementation practices. Leadership is a vital influencer of implementation success. Therefore, the..."]
+      },
+      {
+        "title": "An Empirical Evaluation of the Relationship Between Human Relations Climate and Readiness for Change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Trond Myklebust", "Karoline Motland", "Alexander Garnås", "Knut Inge Fostervold"],
+        "abstract": ["Readiness for change is seen as an important factor in organisational change processes, but it is unclear how organisational climate might affect readiness for change. Addressing this important gap, the purpose of the study was to investigate the relationship between human relations climate, a dimension of the Quinn and Rohrbaugh’s competing values..."]
+      },
+      {
+        "title": "User Experiences and Perceptions of Internet Interventions for Depression",
+        "tags": ["Chapter"],
+        "date": "Jan 2020",
+        "authors": ["Filip Drozd", "Caroline Emilie Andersen", "Silje Marie Haga", "Cato Bjørkli"],
+        "abstract": ["The purpose of this chapter is to review qualitative research on user experiences with internet interventions for depression and present original results from in-depth interviews from a preventive unguided intervention for postpartum depression. The first part reviews the literature on qualitative studies of client experiences and perceptions of in..."]
+      },
+      {
+        "title": "An Initial Model of Trust in Chatbots for Customer Service—Findings from a Questionnaire Study",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["Cecilie Bertinussen Nordheim", "Asbjørn Følstad", "Cato Bjørkli"],
+        "abstract": ["Chatbots are predicted to play a key role in customer service. Users’ trust in such chatbots is critical for their uptake. However, there is a lack of knowledge concerning users’ trust in chatbots. To bridge this knowledge gap, we present a questionnaire study (N = 154) that investigated factors of relevance for trust in customer service chatbots...."]
+      },
+      {
+        "title": "What Makes Users Trust a Chatbot for Customer Service? An Exploratory Interview Study",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Asbjørn Følstad", "Cecilie Bertinussen Nordheim", "Cato Bjørkli"],
+        "abstract": ["Chatbots are increasingly offered as an alternative source of customer ser-vice. For users to take up chatbots for this purpose, it is important that users trust chatbots to provide the required support. However, there is currently a lack in knowledge regarding the factors that affect users' trust in chatbots. We present an interview study addressi..."]
+      },
+      {
+        "title": "Organizational climate and investigation performance in the Norwegian police: A qualitative study",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Jon Anders Lone", "Alexander Garnås", "Trond Myklebust", "Cato Bjørkli"],
+        "abstract": ["The present study aimed to identify organizational climate dimensions that are salient for police investigation performance and to explicate the mechanisms of the relationship between organizational climate and investigation performance. We conducted 38 semistructured interviews with participants at three job levels of police investigative work (ch..."]
+      },
+      {
+        "title": "User Experiences and Perceptions of Internet Interventions for Depression",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Filip Drozd", "Caroline Emilie Andersen", "Silje Marie Haga", "Cato Bjørkli"],
+        "abstract": ["The purpose of this chapter is to review qualitative research on user experiences with internet interventions for depression and present original results from in-depth interviews from a preventive unguided intervention for postpartum depression. The first part reviews the literature on qualitative studies of client experiences and perceptions of in..."]
+      },
+      {
+        "title": "The use of virtual meetings and a project platform bring researchers and clinicians together in Knowledge Translation (KT)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Jan Egil Nordvik", "Marie M Berg", "Julia Aneth Mbalilaki", "Jennifer Moore"],
+        "abstract": ["Purpose: The Regional Center for Knowledge Translation (RKR) in Health Region of South Eastern Norway created and implemented a knowledge translation (KT) project that consists of synthesizing and adapting literature for use in the health region. To facilitate a geographically diverse collaboration among clinicians, scientists and educators, we imp..."]
+      },
+      {
+        "title": "The Implementation of Internet Interventions for Depression: A Scoping Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Filip Drozd", "Linda Vaskinn", "Hans Bergsund", "Cato Bjørkli"],
+        "abstract": ["Background\nDepression is one of the most common mental health problems among adults, but effective treatments are not widely accessible. The Internet holds promise as a cost-effective and convenient delivery platform of interventions for depression. However, studies suggest that Internet interventions are not widely available in routine settings...."]
+      },
+      {
+        "title": "The Implementation of Internet Interventions for Depression - A Scoping Review (Multimedia Appendix 2 - List of Hand-Searched Journals)",
+        "tags": ["Data", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Filip Drozd", "Linda Vaskinn", "Hans Bergsund", "Cato Bjørkli"],
+        "abstract": []
+      },
+      {
+        "title": "The Implementation of Internet Interventions for Depression - A Scoping Review (Multimedia Appendix 1 - Search Strategy)",
+        "tags": ["Data", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Filip Drozd", "Linda Vaskinn", "Hans Bergsund", "Cato Bjørkli"],
+        "abstract": []
+      },
+      {
+        "title": "The Implementation of Internet Interventions for Depression - A Scoping Review (Multimedia Appendix 3 - Included References)",
+        "tags": ["Data", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Filip Drozd", "Linda Vaskinn", "Hans Bergsund", "Cato Bjørkli"],
+        "abstract": []
+      },
+      {
+        "title": "The relationship between the broader environment and the work system in a university setting: a systems approach",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Jon Anders Lone", "Anine Riege", "Roald Bjørklund", "Cato Bjørkli"],
+        "abstract": ["Recent work design theories propose that the work design configuration (i.e. ‘work system’) in an organization interacts with its broader social and economic environment. Nevertheless, there are few studies of how the broader environment affects the work system. In the present study, the authors used a qualitative theory-elaboration approach to inv..."]
+      },
+      {
+        "title": "Assessing knowledge-intensive work environment: General versus situation-specific instruments",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Jon Anders Lone", "Roald A. Bjørklund", "Kaja Larsen Østerud", "Cato Bjørkli"],
+        "abstract": ["The aim of the present study is to examine to what extent general and situation-specific work environment instruments capture the salient work characteristics in a knowledge-intensive context. We conducted qualitative open-ended interviews with 30 employees (24 men and six women) from a Norwegian university department. The information from the inte..."]
+      },
+      {
+        "title": "Organizational climate in large-scale projects in the oil and gas industry: A competing values perspective",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Martine B. Hannevik", "Jon Anders Lone", "Roald Bjørklund", "Thomas Hoff"],
+        "abstract": ["The aim of the present study was to identify central dimensions and develop a model of organizational climate in large-scale project organizations in the oil and gas industry. Interviews with 18 employees (15 men, 3 women) in a project organization in the Norwegian oil and gas industry were content-analyzed on two models: The global instrument, the..."]
+      },
+      {
+        "title": "Better Days - A randomized controlled trial of an internet-based positive psychology intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Filip Drozd", "Lia Ferschmann", "Bettina Nielsen", "Cato Bjørkli"],
+        "abstract": ["The internet seems promising for delivering interventions to enhance well-being in a normal population. The aim of this study was to test the effects of an internet-based positive psychology intervention targeting gratitude, pleasant activities, strengths, mastery, acts of kindness, optimism, flow, attributions, and mindfulness. One-hundred and twe..."]
+      },
+      {
+        "title": "Multilevel Growth Curve Analyses of Treatment Effects of a Web-Based Intervention for Stress Reduction: Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2013",
+        "authors": ["Filip Drozd", "Sabine Raeder", "Pål Kraft", "Cato Bjørkli"],
+        "abstract": ["Stress is commonly experienced by many people and it is a contributing factor to many mental and physical health conditions, However, few efforts have been made to develop and test the effects of interventions for stress.\nThe aim of this study was to examine the effects of a Web-based stress-reduction intervention on stress, investigate mindfulness..."]
+      },
+      {
+        "title": "Assessing a Norwegian Translation of the Organizational Climate Measure",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["Vilde Bernstrøm", "Jon Anders Lone", "Cato Bjørkli", "Thomas Hoff"],
+        "abstract": ["This study investigated the Norwegian translation of the Organizational Climate Measure developed by Patterson and colleagues. The Organizational Climate Measure is a global measure of organizational climate based on Quinn and Rohrbaugh's competing values model. The survey was administered to a Norwegian branch of an international service sector co..."]
+      },
+      {
+        "title": "The bodily basis of control in technically aided movement",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Kjell Ivar Øvergård", "Cato Bjørkli"],
+        "abstract": ["Introduction Human society is highly dependent on the existence and use of technical transportation devices. Goods are transported long distances by large cargo ships or by airplane. People commonly use trains, buses or commercial aeroplanes for personal transport. Technical transportation vehicles allow for longer and faster movement than would be..."]
+      },
+      {
+        "title": "Effects of socio-emotional stressors on ventilation rate and subjective workload during simulated CPR by lay rescuers",
+        "tags": ["Article"],
+        "date": "Dec 2011",
+        "authors": ["Cato Bjørkli", "Kjell Ivar Øvergård", "Conrad Arnfinn Bjørshol", "Thomas Hoff"],
+        "abstract": ["Several studies have documented the occurrence of high ventilation rates during cardiopulmonary resuscitation, but to date, there have been no scientific investigation of the causes of hyperventilation. The objective of the current study was to test the effects of socio-emotional stressors on lay rescuers' ventilation rate in a simulated resuscitat..."]
+      },
+      {
+        "title": "Organizational climate and innovation in the Norwegian service sector",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Jon Anders Lone", "Cato Bjørkli", "Roald A Bjørklund", "Thomas Hoff"],
+        "abstract": []
+      },
+      {
+        "title": "Socio-emotional stress does not affect the quality of cardiopulmonary resuscitation in simulated advanced life support",
+        "tags": ["Article"],
+        "date": "Dec 2010",
+        "authors": ["Conrad Arnfinn Bjørshol", "Helge Myklebust", "Nilsen K.", "Kjetil Sunde"],
+        "abstract": []
+      },
+      {
+        "title": "Effect of socioemotional stress on the quality of cardiopulmonary resuscitation during advanced life support in a randomized manikin study",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Conrad Arnfinn Bjørshol", "Helge Myklebust", "Kjetil Lønne Nilsen", "Kjetil Sunde"],
+        "abstract": ["The aim of this study was to evaluate whether socioemotional stress affects the quality of cardiopulmonary resuscitation during advanced life support in a simulated manikin model.\nA randomized crossover trial with advanced life support performed in two different conditions, with and without exposure to socioemotional stress.\nThe study was conducted..."]
+      },
+      {
+        "title": "Control strategies used by experienced marine navigators: Observation of verbal conversations during navigation training",
+        "tags": ["Article"],
+        "date": "Sep 2010",
+        "authors": ["Kjell Ivar Øvergård", "Cato Bjørkli", "Bjarte Roed", "Thomas Hoff"],
+        "abstract": ["This article investigates the relationship between the control situation framework, as presented by Bjørkli et al. (Cogn Technol\nWork 9:67–80, 2007), and observed operator action and communication in high-speed craft operation in the Norwegian Royal Navy.\nThe reported data include two series of events during sailing in the Norwegian archipelago whe..."]
+      },
+      {
+        "title": "An External Validation of Two Psychosocial Work Environment Surveys - A SWOT Approach",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Thomas Hoff", "Per Straumsheim", "Cato Bjørkli", "Roald A. Bjørklund"],
+        "abstract": ["The present article attempts to conceptually validate two established surveys for measuring psychosocial work environment; The General Nordic Questionnaire for Psychological and Social Factors at Work (QPSNordic), and the Organizational Climate Measure (OCM). Five respondents in a financial institution were asked to reflect freely on the topic of t..."]
+      },
+      {
+        "title": "On the Validity of M-SWOT for Innovation Climate Development",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Thomas Hoff", "Ellen Flakke", "Anne-Karin Larsen", "Roald A. Bjørklund"],
+        "abstract": ["The idea behind M-SWOT is to assess the organization by way of mapping the participants\" responses to open and general questions onto specific, research based models in a particular domain; in this case innovation climate. The present article attempts to conceptually validate SWOT by way of providing a link to the Organizational Climate Measure (OC..."]
+      },
+      {
+        "title": "Control situations in high-speed craft operation",
+        "tags": ["Article"],
+        "date": "Jun 2007",
+        "authors": ["Cato Bjørkli", "Kjell Ivar Øvergård", "Bjarte Roed", "Thomas Hoff"],
+        "abstract": ["The control situation framework presented by Petersen (Cogn Technol Work 6(4):266–274, 2004) is elaborated upon in the context of military high-speed craft navigation. An observational study was done on a military\nnavigational exercise in Indre Folda, a stretch of particularly demanding confined waters in Norway. The concept of control\nstrategies i..."]
+      },
+      {
+        "title": "Activity theory as a supportive framework in design of navigation equipment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2007",
+        "authors": ["Cato Bjørkli", "Bjarte Roed", "Hans Vanhauwaert Bjelland", "Thomas Hoff"],
+        "abstract": ["This study reports on the use of Activity Theory as a supportive framework in a design process. Crews on Fast Patrol Boats in the Royal Norwegian Navy were observed during high-speed navigation in coastal waters. The unit of analysis was the navigation team of five persons in their work. Activity was regarded as situated actions shaped by tools, ob..."]
+      },
+      {
+        "title": "La théorie de l'activité comme aide à la conception d'équipement de navigation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2007",
+        "authors": ["Cato Bjørkli", "Bjarte Roed", "Hans Vanhauwaert Bjelland", "Thomas Hoff"],
+        "abstract": ["Activity theory as a supportive framework in design of navigation equipment This study reports on the use of Activity Theory as a supportive framework in a design process. Crews on Fast Patrol Boats in the Royal Norwegian Navy were observed during high-speed navigation in coastal waters. The unit of analysis was the navigation team of five persons..."]
+      },
+      {
+        "title": "A Case Study of a Touch-based Interface for In-car Audio Systems",
+        "tags": ["Article"],
+        "date": "Mar 2007",
+        "authors": ["Hans Vanhauwaert Bjelland", "Thomas Hoff", "Cato Bjørkli", "Kjell Ivar Øvergård"],
+        "abstract": ["Current in-car audio systems are part of a demanding driver-vehicle interaction that is responsible for a high number of traffic accidents. This paper addresses this issue and describes some common problems regarding current in-car audio systems. A project is presented which was initiated to explore alternative interfaces using touch-based interact..."]
+      },
+      {
+        "title": "Behavioural Adaptation to Adaptive Front Lighting Systems (AFS): A Six Day Driving Simulator Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Gunnar Deinboll Jenssen", "Cato Bjørkli", "Kristian Sakshaug", "Terje Moen"],
+        "abstract": ["As part of the CLARESCO research programme initiated by the European Commission under the Fifth Framework Programme, SINTEF Transport Safety and informatics have performed a driving simulator study of behavioral adaptation to the Adaptive Front-Lighting System (AFS). The main focus of this exploratory Six day SINTEF study is to investigate to what..."]
+      },
+      {
+        "title": "Joint Cognitive Systems at Sea: A Study of High Speed Craft Operation",
+        "tags": ["Thesis"],
+        "date": "Jan 2007",
+        "authors": ["Cato Bjørkli"],
+        "abstract": []
+      },
+      {
+        "title": "Comparison of trajectory variation and speed for real and simulator-based high-speed navigation",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2005",
+        "authors": ["Kjell Ivar Øvergård", "Cato Bjørkli", "Thomas Hoff", "Joakim Dahlman"],
+        "abstract": ["A comparison of high-speed craft navigation in simulated and real settings was performed. Three route-segments differing in complexity was analyzed by comparing the speed and trajectory variance between the simulator-based navigation and the real navigation. Significant differences in speed and trajectory variance was found, but these differences w..."]
+      },
+      {
+        "title": "Exploring the embodied-mind approach to user experience",
+        "tags": ["Conference Paper"],
+        "date": "Oct 2002",
+        "authors": ["Thomas Hoff", "Trond Are Øritsland", "Cato Bjørkli"],
+        "abstract": ["This paper presents context-free and technology-free descriptions of basic elements of user experience from an embodied-mind perspective. The Ecological Interaction Properties suggested refer both to aspects of the user as well as aspects of the interface. Examples of the explanatory power of the approach compared to that of contemporary concepts i..."]
+      },
+      {
+        "title": "Exploring the embodied-mind approach to user experience",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2002",
+        "authors": ["Thomas Hoff", "Trond Are Øritsland", "Cato Bjørkli"],
+        "abstract": []
+      },
+      {
+        "title": "Trygghet, monotoni og sikkerhet i krisesituasjoner og ved normal ferdsel",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Gunnar D Jenssen", "Cato Bjørkli", "Marianne Flø"],
+        "abstract": []
+      },
+      {
+        "title": "Validating the Norwegian Organizational Climate Measure (NOCM)",
+        "tags": ["Article"],
+        "authors": ["Thomas Hoff", "Cato Bjørkli", "Pål Ulleberg", "Roald Bjørklund"],
+        "abstract": ["The aim of the present article is to validate the Norwegian version of the Organizational Climate Measure (OCM). The original survey was translated and back translated, and administered to a Norwegian branch of an international service sector company (n=555). A confirmatory factor analysis was conducted to investigate the fit between the present da..."]
+      }
+    ],
+    "degree": [null],
+    "publications": [43],
+    "reads": [27665],
+    "citations": [815]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2401-797X",
-    "name": "Emily Gabriela Vira",
+    "orcid": ["0000-0002-2401-797X"],
+    "name": ["Emily Gabriela Vira"],
     "distinctions": [],
     "education": [
       {
@@ -76,8 +76,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Emily Gabriela Vira",
-    "id": "1434143",
+    "name": ["Emily Gabriela Vira"],
+    "id": ["1434143"],
     "keywords": [],
     "position": ["Guest", "Research fellow"],
     "img": {},
@@ -90,5 +90,54 @@
         "url": "https://api.cristin.no/v2/results/2106606"
       }
     ]
+  },
+  "rg": {
+    "id": "Emily-Gabriela-Vira",
+    "name": "Emily Gabriela Vira",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281096457687-1668156321175_Q128/Emily-Gabriela-Vira.jpg",
+    "affiliation": "Norwegian Institute of Public Health, Department of Mental Health and Suicide",
+    "keywords": ["Study Design", "Longitudinal Data Analysis", "Structural Equation Modeling", "Data Collection", "Intervention Development", "Lifespan Development", "Developmental Psychology", "Statistical Analysis", "Quantitative Data Analysis", "Research Methodology"],
+    "works": [
+      {
+        "title": "Adapted, Adopted, and Novel Interventions: A Whole-Population Meta-Analytic Replication of Intervention Effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2023",
+        "authors": ["Tina M. Olsson", "Ulrica Von Thiele Schwarz", "Henna Hasson", "Knut Sundell"],
+        "abstract": "Background\nA challenge to implementation is management of the adaptation-fidelity dilemma or the balance between adopting an intervention with fidelity while assuring fit when transferred between contexts. A prior meta-analysis found that adapted interventions produce larger effects than novel and adopted interventions. This study attempts to repli..."
+      },
+      {
+        "title": "Cultural Adaptation of Interventions and the a Priori Assessment of Intervention Fit: Exploring Measurement Invariance for American and Swedish Youth Leaving Care",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Russell Turner", "Emily Gabriela Vira", "Martin Bergström", "Tina M. Olsson"],
+        "abstract": "Purpose\nThere is a growing literature on the importance of cultural adaptation of research-supported social work interventions. Few studies have however offered systematic methods for the a priori assessment of intervention fit in a new context. The current study explores the use of measurement invariance analyses to help identify whether key theor..."
+      },
+      {
+        "title": "Adapted and novel interventions are more effective than adopted interventions: a meta-analytic replication of controlled social intervention research across prevention level and setting",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Tina M. Olsson", "Ulrica Von Thiele Schwarz", "Henna Hasson", "Knut Sundell"],
+        "abstract": "Background. Several approaches to the implementation of evidence-based interventions (EBIs) are currently in use. EBIs may be adapted or adopted from previous settings or novel interventions may be developed to achieve public health goals. Within the intervention and implementation literature, a major unsolved dilemma relates to the management of a..."
+      },
+      {
+        "title": "Swedish Middle School Students’ Resilience During the COVID-19 Pandemic: A Cross-Lagged Study",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Emily Gabriela Vira"],
+        "abstract": "This poster was based on my Master's thesis focusing on Swedish middle school students psychosocial resilience during the COVID-19 pandemic."
+      },
+      {
+        "title": "Swedish middle school students’ psychosocial well-being during the COVID-19 pandemic: A longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Emily Gabriela Vira", "Therése Skoog"],
+        "abstract": "Child well-being concerns amidst the COVID-19 pandemic have been reported from countries with strict lockdowns and school closures. Sweden's middle school students attended school as normal during the pandemic, but it is still unknown how their well-being has changed during the pandemic. This study aimed to assess differences in Swedish students' p..."
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": "My research revolves around the mental health and well-being of youth. I am currently a part of the Kort project where we are investigating the effectiveness of a recently developed evidence-based transdiagnostic intervention. We are using an intensive longitudinal design to track changes in adolescents' emtoion regulation skills before and during the intervention period, we will assess whether these changes relate to improving youths' well-being and reducing youths' mental health problems. I am currently planning out my masters' thesis design and will be working with a large data set with variables that have been meseasured at two time points. Intially I thought of just using a general cross lagged panel model, however after some reading I understood that a RI-CLPM controls for stable trait variables. Though it seems that the model is identified with at least three time points? I cannot find a direct clear answer to this question. ",
+    "publications": [5],
+    "reads": [1325],
+    "citations": [13]
   }
 }

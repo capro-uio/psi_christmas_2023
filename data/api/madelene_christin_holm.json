@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Madelene Holm",
-    "id": "qSBIHbkAAAAJ",
-    "affiliation": "PhD candidate in psychology, University of Oslo",
+    "name": ["Madelene Holm"],
+    "id": ["qSBIHbkAAAAJ"],
+    "affiliation": ["PhD candidate in psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -63,8 +63,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-3642-6364",
-    "name": "Madelene  Holm",
+    "orcid": ["0000-0003-3642-6364"],
+    "name": ["Madelene  Holm"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -75,8 +75,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Madelene Christin Holm",
-    "id": "1318645",
+    "name": ["Madelene Christin Holm"],
+    "id": ["1318645"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -89,5 +89,15 @@
         "url": "https://api.cristin.no/v2/results/2075738"
       }
     ]
+  },
+  "rg": {
+    "id": "Fera-Christin",
+    "name": "Fera Christin",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

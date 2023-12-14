@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Gernot Walter Ernst",
-    "id": "aHHmGBIAAAAJ",
-    "affiliation": "Vestre Viken Hospital Trust; Psychological Insititute, University of Oslo",
+    "name": ["Gernot Walter Ernst"],
+    "id": ["aHHmGBIAAAAJ"],
+    "affiliation": ["Vestre Viken Hospital Trust; Psychological Insititute, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -943,8 +943,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-6733-2665",
-    "name": "Peter Ernst",
+    "orcid": ["0000-0001-6733-2665"],
+    "name": ["Peter Ernst"],
     "distinctions": [],
     "education": [
       {
@@ -952,10 +952,10 @@
         "country": "AT"
       },
       {
-        "start": "1986",
-        "position": "ao. Univ.-Prof.",
         "organisation": "Universität Wien",
-        "country": "AT"
+        "country": "AT",
+        "start": "1986",
+        "position": "ao. Univ.-Prof."
       }
     ],
     "employment": [
@@ -964,10 +964,10 @@
         "country": "AT"
       },
       {
-        "start": "1986",
-        "position": "ao. Univ.-Prof.",
         "organisation": "Universität Wien",
-        "country": "AT"
+        "country": "AT",
+        "start": "1986",
+        "position": "ao. Univ.-Prof."
       }
     ],
     "membership": [],
@@ -2059,8 +2059,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Gernot Walter Ernst",
-    "id": "5058",
+    "name": ["Gernot Walter Ernst"],
+    "id": ["5058"],
     "keywords": [],
     "position": ["Researcher", null],
     "img": {},
@@ -2226,5 +2226,215 @@
         "url": "https://api.cristin.no/v2/results/937382"
       }
     ]
+  },
+  "rg": {
+    "id": "Gernot-Walter",
+    "name": "Gernot Walter",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279105867141123-1443555432968_Q128/Gernot-Walter.jpg",
+    "affiliation": "Kreiskliniken DarmstadtDieburg, Zentrum für Seelische Gesundheit",
+    "keywords": ["Aggression", "Violence", "Violence Prevention", "Psychiatry", "Clinical Psychiatric Nursing", "Psychiatric Nursing"],
+    "works": [
+      {
+        "title": "DGPPN-Pilotstudie zur Implementierung der S3-Leitlinie „Verhinderung von Zwang: Prävention und Therapie aggressiven Verhaltens bei Erwachsenen“DGPPN pilot study on the implementation of the S3 guideline “Prevention of coercion: prevention and therapy of aggressive behavior in adults”",
+        "tags": ["Article"],
+        "date": "Dec 2021",
+        "authors": ["Andreas Bechdolf", "Felix Bühling-Schindowski", "Stefan Weinmann", "Tilman Steinert"],
+        "abstract": ["Objective\nTo investigate whether implementation recommendations derived from the German guidelines “Prevention of coercion” can be implemented on acute psychiatric wards by means of implementation consultants into ward work and if this contributes to an increased level of adherence to guideline intervention recommendations approved by the DGPPN (De..."]
+      },
+      {
+        "title": "Können Zwang und Gewalt wirksam reduziert werden?: Eine Studie über die Effekte der Leitlinienimplementierung",
+        "tags": ["Article"],
+        "date": "Nov 2020",
+        "authors": ["Dorothea Sauter", "Gernot Walter", "Michael Mayer", "Tilman Steinert"],
+        "abstract": ["Zusammenfassung. 2018 wurde die S3-Leitlinie „Verhinderung von Zwang: Prävention und Therapie aggressiven Verhaltens bei Erwachsenen“ durch die Deutsche Gesellschaft für Psychiatrie, Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN) veröffentlicht (DGPPN, 2019). Obwohl Leitlinien eine wissenschaftlich fundierte klinische Orientierungshilfe..."]
+      },
+      {
+        "title": "Prävention von Zwang und Gewalt Leitlinienempfehlungen in die Praxis bringen",
+        "tags": ["Article"],
+        "date": "Sep 2020",
+        "authors": ["Dorothea Sauter", "Michael Mayer", "Gernot Walter", "Tilman Steinert"],
+        "abstract": ["Eingedenk der Gewalt und des Unrechts, die psy-chisch erkrankten Menschen im Namen der Psy-chiatrie und durch in der Psychiatrie Tätige in der Vergangenheit angetan worden sind, muss dem professionellen Umgang mit aggressivem Verhalten heute unsere besondere Aufmerksamkeit und Sorg-falt gelten, um Zwangsmaßnahmen entbehrlich zu machen\" (DGPPN, 2019..."]
+      },
+      {
+        "title": "Root Cause Analysis: plenty roots = plenty ideas - a mindful view with the NOW-Model Background and Context: workshop and poster",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Gernot Walter", "Johannes Nau", "Nico Oud"],
+        "abstract": ["for didactical reasons the NOW-Model was developed to\nemphasize the actual present situation of client or staff (“here and now”)."]
+      },
+      {
+        "title": "Measuring de-escalation by using the De- escalating Aggressive Behaviour Scale (DABS)",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Johannes Nau", "Gernot Walter", "Nico Oud"],
+        "abstract": ["Oslo, Octobre 2019:\n\nWe tested the scale in a group with 13 international Research colleagues from all over the world by using 4 Videos (subtitles in English)."]
+      },
+      {
+        "title": "191027 Interactive Poster Oslo - NOW-Model",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Nico Oud", "Johannes Nau", "Gernot Walter"],
+        "abstract": ["Implications for practice, research, education & training,\norganisation/management, policy and guidance\nUsing mindfulness to identify internal, interactive and environmental conditions may\nenable balance or to regain balance. The model highlights interaction, behaviors and\norganizational processes, their interferences and correlations. The NOW-Mode..."]
+      },
+      {
+        "title": "Aggression, Gewalt und Aggressionsmanagement - Lehr- und Praxishandbuch zur Gewaltprävention für Pflege- Gesundheits- und Sozialberufe",
+        "tags": ["Book"],
+        "date": "Oct 2019",
+        "authors": ["Johannes Nau", "Gernot Walter", "Nico Oud"],
+        "abstract": []
+      },
+      {
+        "title": "Entwicklungen im Aggressionsmanagement in Europa",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Nico Oud", "Gernot Walter"],
+        "abstract": []
+      },
+      {
+        "title": "Title : 100 Percent Mindfulness instead of 0-Tolerance-the NOW-Model",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Johannes Nau", "Gernot Walter", "Nico Oud"],
+        "abstract": ["Keywords : Aggression management, environmental factors, interaction, personal factors, problem solving, sense of security and equilibrium Subtheme : 2. Creating cultures that minimize aggression and violence Abstract : Background and Context: The concept of zero-tolerance may support the creation of a good-bad dichotomy with an upper-lower-differe..."]
+      },
+      {
+        "title": "Gewaltfreie Pflege - Praxishandbuch zum Umgang mit aggressiven und potentiell gewalttätigen Patienten",
+        "tags": ["Book"],
+        "date": "Feb 2018",
+        "authors": ["Johannes Nau", "Nico Oud", "Gernot Walter"],
+        "abstract": ["Inhalt\n\nPflege-, Sozial- und Gesundheitsberufe sehen sich zunehmend an vielen Stellen des Gesundheitswesens mit aggressiven und potenziell gewalttätigen Patienten konfrontiert. Sie müssen daher nach Möglichkeiten suchen, um Aggressionen vorzubeugen, aggressive Ausbrüche zu verhindern und im Fall von Gewalttätigkeit Schaden von sich und anderen abwe..."]
+      },
+      {
+        "title": "Gewaltfreie Pflege",
+        "tags": ["Book"],
+        "date": "Jan 2018",
+        "authors": ["Johannes Nau", "Nico Oud", "Gernot Walter"],
+        "abstract": []
+      },
+      {
+        "title": "The NOW-Model",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Johannes Nau", "Gernot Walter", "Nico Oud"],
+        "abstract": []
+      },
+      {
+        "title": "The inspiring NOW-Model",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Johannes Nau", "Gernot Walter", "Nico Oud"],
+        "abstract": ["• The NOW-Model is applicable for self-supervision, analysis on client, team and/or institutional level. • You may test by yourself: you, your team, your clients will get new ideas for analyzing what happened and for planning what to do. • It’s for free!"]
+      },
+      {
+        "title": "Verhalten in kritischen Situationen",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Johannes Nau", "Gernot Walter", "Nico Oud"],
+        "abstract": ["In von Gewalt geprägten Situationen bestimmen die Beteiligten mit ihren Entscheidungen den weiteren\nVerlauf der Konfrontation. Verhaltensmuster, mit denen normalerweise auf aggressive Situationen reagiert\nwird, können dann oft nicht die geeigneten Gestaltungsimpulse auslösen. Aktion und Reaktion zu verstehen,\nhilft bei der richtigen Weichenstellung..."]
+      },
+      {
+        "title": "Aggression macht Angst - Angst macht Aggression",
+        "tags": ["Chapter"],
+        "date": "May 2014",
+        "authors": ["Johannes Nau", "Gernot Walter"],
+        "abstract": ["Angst- und Panikstörungen nehmen weltweit stark zu: Neben den Depressionen gelten Angst-Erkrankungen als ein Phänomen der heutigen Zeit. In Deutschland sind allein 10% der Bevölkerung betroffen. Ängste begleiten zudem eine Fülle anderer psychiatrischer Erkrankungen und Pflegephänomene. Patienten im Krankenhaus fühlen sich mit ihren Sorgen und Ängst..."]
+      },
+      {
+        "title": "Walter, G., Nau, J., & Oud, N. (2013). Kompetenter Umgang mit Aggression: Mitarbeiterschulung und Führung sind Schlüsselfaktoren. Psychosozial(12), 34-3",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Gernot Walter", "Johannes Nau", "Nico Oud"],
+        "abstract": ["Mitarbeiterschulung und Führung sind Schlüsselfaktoren.\nDie Autoren erörtern in ihrem Beitrag, dass viel getan werden kann,\num angemessen mit Aggression und Gewalt umzugehen."]
+      },
+      {
+        "title": "Gernot Walter, Johannes Nau & Nico Oud (Herausgeber) Aggression und Aggressionsmanagement -Praxishandbuch für Gesundheits- und Sozialberufe 2012 Huber Verlag ISBN 9783456850733",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Gernot Walter", "Johannes Nau", "Nico Oud"],
+        "abstract": ["For more information see here:\n\nhttp://www.amazon.de/Aggression-Aggressionsmanagement-Praxishandbuch-Gesundheits-Sozialberufe/dp/3456850735"]
+      },
+      {
+        "title": "Reflecting and discussing aggression in health care using the NOW-Model",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2011",
+        "authors": ["Gernot Walter", "Nico Oud", "Johannes Nau"],
+        "abstract": []
+      },
+      {
+        "title": "Testing and discussing the NOW-Model (Workshop and Poster)",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2011",
+        "authors": ["Johannes Nau", "Nico Oud", "Gernot Walter"],
+        "abstract": []
+      },
+      {
+        "title": "[Violence - (not) a topic in health care facilities, 2. Escalating spiral? - without me!]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2011",
+        "authors": ["Johannes Nau", "Gernot Walter", "Nico Oud"],
+        "abstract": ["Agression und Gewalt gegenüber Pflegepersonal wird kaum kommuniziert\nund ist doch allgegenwärtig. Der erste Teil von insgesamt\nzwei Artikeln führte in der Juni-Ausgabe in den wissenschaftlichen\nKenntnisstand zur Problemlage ein und bot Klärendes zu den Begriffen\nAggression und Gewalt an. Aber wie sollen Pflegende auf gewalttätige\nÜbergriffe reagier..."]
+      },
+      {
+        "title": "[Violence - (not) an issue in health care facilities: almost everyone is affected - almost all are silent]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Johannes Nau", "Gernot Walter", "Nico Oud"],
+        "abstract": []
+      },
+      {
+        "title": "Explaining, Reflecting and Managing Aggression and Violence in Health Care using the Now-Model",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2010",
+        "authors": ["Johannes Nau", "Nico Oud", "Gernot Walter"],
+        "abstract": []
+      },
+      {
+        "title": "Therapeutische Maßnahmen bei aggressivem Verhalten in der Psychiatrie und Psychotherapie",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Regina Ketelsen", "Gernot Walter"],
+        "abstract": ["Nach einem Überblick zu aggressivem Verhalten im psychiatrischen Behandlungskontext, mögliche Folgen für Mitarbeiter, die Anwendung von Zwangsmaßnahmen und Folgen für die betroffenen Patienten wird die Leitlinie „Therapeutische Maßnahmen bei aggressivem Verhalten in der Psychiatrie und Psychotherapie” vorgestellt. Diese Leitlinie wurde in einer int..."]
+      },
+      {
+        "title": "Health & Safety - Safety Management & Training",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Mar 2007",
+        "authors": ["Gernot Walter", "Nico Oud"],
+        "abstract": []
+      },
+      {
+        "title": "Ausbildung zum Berater und internen Trainer für Aggressions- und Sicherhaitsmanagement",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2006",
+        "authors": ["Gernot Walter", "Nico Oud", "Wolfgang Schrenk"],
+        "abstract": []
+      },
+      {
+        "title": "[Aggression and power in psychiatry]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2003",
+        "authors": ["Gernot Walter", "Nico Oud"],
+        "abstract": []
+      },
+      {
+        "title": "Aggression und Gewalt in der Psychaitrie",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2003",
+        "authors": ["Gernot Walter", "Nico Oud"],
+        "abstract": []
+      },
+      {
+        "title": "[Psychiatry: psychiatric nurses find themselves in s college in Great Britain. Eleven pilgrims come to the south of Scotland]",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Gernot Walter"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [29],
+    "reads": [8425],
+    "citations": [22]
   }
 }

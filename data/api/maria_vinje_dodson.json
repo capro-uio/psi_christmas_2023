@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Maria Vinje Dodson",
-    "id": "560699",
+    "name": ["Maria Vinje Dodson"],
+    "id": ["560699"],
     "keywords": [],
     "position": ["Adviser"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Maria_Vinje",
+    "name": "Maria Vinje",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "NordTrøndelag University College",
+    "keywords": ["Teaching and Learning", "Pedagogy"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-6841-7545",
-    "name": "Aili Røtterud Løchen",
+    "orcid": ["0000-0002-6841-7545"],
+    "name": ["Aili Røtterud Løchen"],
     "distinctions": [],
     "education": [
       {
@@ -19,10 +19,10 @@
       },
       {
         "start": "2015",
-        "end": "2016",
         "position": "Research Assistant",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "employment": [
@@ -40,10 +40,10 @@
       },
       {
         "start": "2015",
-        "end": "2016",
         "position": "Research Assistant",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "membership": [],
@@ -67,8 +67,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Aili Røtterud Løchen",
-    "id": "1021884",
+    "name": ["Aili Røtterud Løchen"],
+    "id": ["1021884"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -81,5 +81,39 @@
         "url": "https://api.cristin.no/v2/results/2129196"
       }
     ]
+  },
+  "rg": {
+    "id": "Aili-Rotterud-Lochen",
+    "name": "Aili Rotterud Lochen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281118774731-1675862939112_Q128/Aili-Rotterud-Lochen.jpg",
+    "affiliation": "Oslo Univerisity Hospital",
+    "keywords": ["R", "R Programming", "Magnetic Resonance Imaging", "Neuropsychological Assessment", "Brain Imaging", "Abnormal Psychology", "Psychotherapy"],
+    "works": [
+      {
+        "title": "Visual processing deficits in patients with schizophrenia spectrum and bipolar disorders and associations with psychotic symptoms, and intellectual abilities",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Aili Rotterud Lochen", "Knut K. Kolskår", "Ann-Marie G de Lange", "Dag Alnæs"],
+        "abstract": ["Objective: \nLow-level sensory disruption is hypothesized as a precursor to clinical and cognitive symptoms in severe mental disorders. We compared visual discrimination performance in patients with schizophrenia spectrum disorder or bipolar disorder with healthy controls, and investigated associations with clinical symptoms and IQ.\n\nMethods: \nPatie..."]
+      },
+      {
+        "title": "Spatial Frequency Discrimination in Patients with Schizophrenia Spectrum and Bipolar Disorders: Evidence of Early Visual Processing Deficits and Associations with Intellectual Abilities",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Aili Rotterud Lochen", "Knut K. Kolskår", "Ann-Marie G de Lange", "Dag Alnæs"],
+        "abstract": []
+      },
+      {
+        "title": "Spatial frequency discrimination in patients with schizophrenia spectrum and bipolar disorders: Evidence of early visual processing deficits and associations with intellectual abilities",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Aili Rotterud Lochen", "Knut Kolskaar", "Ann-Marie G de Lange", "Dag Alnaes"],
+        "abstract": ["Objective: Low-level sensory disruption is hypothesized as a precursor to clinical and cognitive symptoms in severe mental disorders. We compared visual discrimination performance in patients with schizophrenia spectrum disorder or bipolar disorder with healthy controls, and investigated associations with clinical symptoms and IQ.\nMethods: Patients..."]
+      }
+    ],
+    "degree": [null],
+    "publications": [3],
+    "reads": [120],
+    "citation": [1]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-8490-5365",
-    "name": "Knut Ivar  Karevold",
+    "orcid": ["0000-0001-8490-5365"],
+    "name": ["Knut Ivar  Karevold"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Knut Ivar Karevold",
-    "id": "6411",
+    "name": ["Knut Ivar Karevold"],
+    "id": ["6411"],
     "keywords": [],
     "position": ["Associate professor ii", "Associate professor"],
     "img": {},
@@ -96,5 +96,131 @@
         "url": "https://api.cristin.no/v2/results/338397"
       }
     ]
+  },
+  "rg": {
+    "id": "Knut-Karevold",
+    "name": "Knut Ivar Karevold",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279572726730753-1443666740227_Q128/Knut-Karevold.jpg",
+    "affiliation": "Institute of Climate Psychology",
+    "keywords": ["Team Development", "Leadership", "Leadership Development", "Organizational Development", "Change Management", "Organizational Leadership", "Organizational Learning", "Project Management", "Work Psychology", "Innovation"],
+    "works": [
+      {
+        "title": "Managers’ Beliefs about False Performance Reports: How High Goals and Low Performance Levels Can Be Unethical Warning Signals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Knut Ivar Karevold"],
+        "abstract": ["This study examines managers’ beliefs about how goals and performance levels can motivate overstatement of accomplishments and compares if managers’ moral assumptions are consistent with research showing that goals can motivate low and as well as high performers to unethically overstate achievements. Seven hundred thirty-eight top- and mid-level ma..."]
+      },
+      {
+        "title": "A608 Using choice architecture interventions to nudge costumers towards healthier food purchase in real-life grocery stores. A review.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Helena Berz Slapø", "Samira Lekhal", "Alexander Schjøll", "Knut Ivar Karevold"],
+        "abstract": []
+      },
+      {
+        "title": "Simple Eco-Labels to Nudge Customers Toward the Most Environmentally Friendly Warm Dishes: An Empirical Study in a Cafeteria SettingData_Sheet_1.zip",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Helena Berz Slapø", "Knut Ivar Karevold"],
+        "abstract": ["Background: Food production and consumption contributes to one third of households' environmental impact. The environmental impact of different food categories varies and in general environmental footprint of meat is high than fish and vegetable options. Environmental food labels have been suggested as a means to sway consumption patterns. The purp..."]
+      },
+      {
+        "title": "Atferdsøkonomiske virkemidler i helsefremmende arbeid: hvordan kan utforming av restauranter og kantiner fremme sunnere valg?",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Samira Lekhal", "Annechen Bahr Bugge", "Alexander Schjøll", "Knut Ivar Karevold"],
+        "abstract": []
+      },
+      {
+        "title": "Fish versus Meat – Nudging the Healthier Choice of Food in Hotel Lunch Buffets",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Hilde Mobekk", "Knut Ivar Karevold", "Huy Tran", "Kjersti Stjernen"],
+        "abstract": ["One of the objectives of the Norwegian National Action Plan for Healthy Diets (2017-2021) is to increase the intake of fish. The aim of this study was to encourage hotel guests to choose more fish and less\nmeat by altering the choice architecture of hotel lunch buffets with the use of placement and labeling nudges. An experimental study was conduct..."]
+      },
+      {
+        "title": "First Foods Are Frequently Selected Most but in Smaller Amounts: Long‐Term from Nordic Cafeteria",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Brian Wansink", "Knut Ivar Karevold", "Huy Tran"],
+        "abstract": ["Food order influences what people select on single occasion, but does it persist over the long term, does it influence what else people select, does it influence how much food is served, and whether health‐related signage can influence food choice behaviors? Over a three‐month period, food choice behaviors (what to select and how much to serve) of..."]
+      },
+      {
+        "title": "How Health‐Related Signs Unexpectedly Promote Healthy Choices: Long‐term Conclusion for Nordic Cafeteria",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Brian Wansink", "Knut Ivar Karevold", "Steffen Kallbekken", "Huy Tran"],
+        "abstract": ["Signs promoting healthy choices are becoming increasingly common in restaurants and buffets. Although some people avoid foods with healthy signs, could these signs guide them to take other healthy foods that do not have such signs? In analyzing the food taken by 4,521 guests at lunch buffets we found that when health‐related signs (“Eat Smart”) wer..."]
+      },
+      {
+        "title": "Make‐It‐Yourself (MIY) Food Stations: Long‐Term Healthy Lessons from Nordic Cafeterias",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Huy Quoc Tran", "Brian Wansink", "Knut Ivar Karevold"],
+        "abstract": ["Do Make‐It‐Yourself (MIY) food stations in the cafeterias lead people to eat healthier or do they lead people to eat more? This three‐month study involving 11,870 lunch guests in nine Nordic hotels shows that 4% more diners selected Caesar salad when it was presented in a “Make It Yourself” station as opposed to premade option. Unfortunately, MIY s..."]
+      },
+      {
+        "title": "Nordic Solutions to Increase Fruit and Vegetable Consumption: Lessons from Four Years of Retail Behavioral Economics Interventions",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Brian Wansink", "Knut Ivar Karevold", "Huy Tran"],
+        "abstract": ["Can the sales of fruits and vegetables be sustainably increased by the introduction of new selections and packaging (product promotion), or by changes in layout and structure in stores (display promotion)? This study aims to examine the effect of such interventions on sales of fruits and sales of vegetables respectively. New selections and packagin..."]
+      },
+      {
+        "title": "Supermarket Interventions that Encourage Sustainable Healthy Habits: Long Term Learning of Fresh Fish Sales in Grocery Stores",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Brian Wansink", "Knut Ivar Karevold", "Huy Tran"],
+        "abstract": ["Guiding shoppers to purchase healthier and more environmentally sustainable food – such as fresh fish instead of beef – could possibly be accomplished by offering new selections at new prices or by changing the structure, signage, and service within a store itself. Of the 581 Norwegian grocery stores included in this long‐term study, 437 stores app..."]
+      },
+      {
+        "title": "Vegan “Decoy” Entrées Lead Cafeteria Diners to Take Healthier Other Foods",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Huy Tran", "Brian Wansink", "Knut Ivar Karevold"],
+        "abstract": ["Could a vegan entrée in a buffet serve as a decoy that primes disinterested meat lovers to choose healthier lunch even if they ignore the entrée itself? To examine this, over a five week period a worksite buffet in Finland two configurations were alternatively set up: 1) a vegan entrée was followed by a fish entrée, a vegetable side dish, and a bee..."]
+      },
+      {
+        "title": "Hvordan påvirke forbruker til å velge sunnere mat?: Endringer i omgivelsene kan fremme sunnere valg",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Knut Ivar Karevold", "Samira Lekhal", "Helena Berz Slapø"],
+        "abstract": []
+      },
+      {
+        "title": "Fra kunnskap til handling - Mulighetsrommet: Hvordan påvirke forbrukere til å velge sunnere?",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Knut Ivar Karevold", "Annechen Bahr Bugge", "Øydis Ueland", "Samira Lekhal"],
+        "abstract": ["Background: A healthy diet is important for quality of life and wellbeing \nHealthy food choices and good diets have a positive impact on health and wellbeing, while unhealthy diets are among the main risk factors for disease and loss of good living years in Norway and the rest of the world. The global burden of disease project shows that unhealthy..."]
+      },
+      {
+        "title": "General practitioners´ views on leadership roles and challenges in primary health care: a qualitative study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Ivan Spehar", "Hege Sjøvik", "Knut Ivar Karevold", "Jan Frich"],
+        "abstract": ["Objective: To explore general practitioners’ (GPs) views on leadership roles and leadership challenges in general practice and primary health care.\n\nDesign: We conducted focus groups (FGs) with 17 GPs.\n\nSetting: Norwegian primary health care.\n\nSubjects: 17 GPs who attended a 5 d course on leadership in primary health care.\n\nResults: Our study sugge..."]
+      },
+      {
+        "title": "Progress framing and sunk costs: How managers’ statements about project progress reveal their investment intentions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2010",
+        "authors": ["Knut Ivar Karevold", "Karl Halvor Teigen"],
+        "abstract": ["This study explores how managers’ framing of project progress can reveal investment intentions. In three experiments managers were asked to evaluate hypothetical progress statements related to a failing project. Experiment 1 showed that past-oriented statements, describing the amount of work done and amount of budget and time spent (75%), were perc..."]
+      },
+      {
+        "title": "Looking back versus looking ahead: Framing of time and work at different stages of a project",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2005",
+        "authors": ["Karl Halvor Teigen", "Knut Ivar Karevold"],
+        "abstract": ["Progress on a well-defined project can be described along a task dimension in terms of amount done, or as amount of work still to be completed. Time-limited projects can also be described on a temporal dimension in terms of time spent versus time left. Five experiments are reported showing that such frames have predictable implications for speakers..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [16],
+    "reads": [1433],
+    "citations": [129]
   }
 }

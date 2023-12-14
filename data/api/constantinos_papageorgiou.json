@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Konstantinos Papageorgiou",
-    "id": "s5a5COsAAAAJ",
-    "affiliation": "",
+    "name": ["Konstantinos Papageorgiou"],
+    "id": ["s5a5COsAAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -802,8 +802,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Constantinos Papageorgiou",
-    "id": "1318540",
+    "name": ["Constantinos Papageorgiou"],
+    "id": ["1318540"],
     "keywords": [],
     "position": ["Associate professor"],
     "img": {},
@@ -892,5 +892,14 @@
         "url": "https://api.cristin.no/v2/results/1917410"
       }
     ]
+  },
+  "rg": {
+    "id": "Constantinos-Papageorgiou",
+    "name": "Constantinos Papageorgiou",
+    "img": "https://i1.rgstatic.net/ii/profile.image/803713891438595-1568631732655_Q128/Constantinos-Papageorgiou.jpg",
+    "affiliation": "Aristotle University of Thessaloniki | AUTH, Aristotle University of Thessaloniki, Department of History Pholosophy and Sociology of Law",
+    "keywords": ["Human Rights and Democracy"],
+    "works": [],
+    "degree": [null]
   }
 }

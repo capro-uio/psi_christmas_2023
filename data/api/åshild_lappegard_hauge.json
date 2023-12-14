@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Åshild Lappegard Hauge",
-    "id": "DQBpbhkAAAAJ",
-    "affiliation": "SINTEF Byggforsk, Høgskolen i Innlandet",
+    "name": ["Åshild Lappegard Hauge"],
+    "id": ["DQBpbhkAAAAJ"],
+    "affiliation": ["SINTEF Byggforsk, Høgskolen i Innlandet"],
     "data": {
       "publications": [
         {
@@ -892,8 +892,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1607-3354",
-    "name": "Åshild Lappegard Hauge",
+    "orcid": ["0000-0003-1607-3354"],
+    "name": ["Åshild Lappegard Hauge"],
     "distinctions": [],
     "education": [
       {
@@ -1091,11 +1091,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Åshild Lappegard Hauge",
-    "id": "40201",
+    "name": ["Åshild Lappegard Hauge"],
+    "id": ["40201"],
     "keywords": ["Environmental psykology"],
     "position": ["Professor", "Guest", "Guest", "Associate professor", null],
-    "img": "https://api.cristin.no/v2/persons/40201/picture",
+    "img": ["https://api.cristin.no/v2/persons/40201/picture"],
     "works": [
       {
         "type": "Chapter",
@@ -1130,16 +1130,16 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2142757",
         "title": "Ethics of Climate Change Adaptation—The Case of Torrential Rains in Norway",
-        "journal": "Buildings",
-        "url": "https://api.cristin.no/v2/results/2142757"
+        "journal": "Buildings"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2142380",
         "title": "User evaluation of a national web portal for climate change adaptation – A qualitative case study of the Knowledge Bank",
-        "journal": "Climate Services",
-        "url": "https://api.cristin.no/v2/results/2142380"
+        "journal": "Climate Services"
       },
       {
         "type": "Interview",
@@ -1149,16 +1149,16 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2140743",
         "title": "User perspectives on reuse of construction products in Norway: Results of a national survey",
-        "journal": "Journal of Cleaner Production",
-        "url": "https://api.cristin.no/v2/results/2140743"
+        "journal": "Journal of Cleaner Production"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2139724",
         "title": "The Meaning of the Physical Environment in Child and Adolescent Therapy: A Qualitative Study of the Outdoor Care Retreat",
-        "journal": "Ecopsychology",
-        "url": "https://api.cristin.no/v2/results/2139724"
+        "journal": "Ecopsychology"
       },
       {
         "type": "Report",
@@ -1168,34 +1168,34 @@
       {
         "type": "Masters thesis",
         "year": "2022",
-        "title": "Unattainable or sustainable? A qualitative exploration of the barriers and drivers of reuse in the Norwegian building industry through a psychological framework.",
-        "url": "https://api.cristin.no/v2/results/2167024"
+        "url": "https://api.cristin.no/v2/results/2167024",
+        "title": "Unattainable or sustainable? A qualitative exploration of the barriers and drivers of reuse in the Norwegian building industry through a psychological framework."
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Expanding open science: ​Qualitative research as a point of departure",
-        "url": "https://api.cristin.no/v2/results/2090662"
+        "url": "https://api.cristin.no/v2/results/2090662",
+        "title": "Expanding open science: ​Qualitative research as a point of departure"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2081024",
         "title": "‘Students like me less in digital lectures’ – Teachers’ experiences with teaching in digital learning environments for large student groups during the Covid-19 pandemic",
-        "journal": "UNIPED",
-        "url": "https://api.cristin.no/v2/results/2081024"
+        "journal": "UNIPED"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "The influence of natural environment in child therapy – analytical generalization of a qualitative case study ",
-        "url": "https://api.cristin.no/v2/results/2076778"
+        "url": "https://api.cristin.no/v2/results/2076778",
+        "title": "The influence of natural environment in child therapy – analytical generalization of a qualitative case study "
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2073241",
         "title": "Exploring life with autism: Quality of Life, daily functioning and compensatory strategies from childhood to emerging adulthood: A qualitative study protocol",
-        "journal": "Frontiers in Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2073241"
+        "journal": "Frontiers in Psychiatry"
       },
       {
         "type": "Interview",
@@ -1205,8 +1205,8 @@
       {
         "type": "Feature article",
         "year": "2022",
-        "journal": "Kommunalteknikk",
-        "url": "https://api.cristin.no/v2/results/2055281"
+        "url": "https://api.cristin.no/v2/results/2055281",
+        "journal": "Kommunalteknikk"
       },
       {
         "type": "Lecture",
@@ -1216,20 +1216,20 @@
       {
         "type": "Popular scientific article",
         "year": "2022",
-        "journal": "Sonja magasin",
-        "url": "https://api.cristin.no/v2/results/2038263"
+        "url": "https://api.cristin.no/v2/results/2038263",
+        "journal": "Sonja magasin"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Affordances for Agency in a Nature-based Outdoor Activity Program: A Qualitative Study of ‘Nature School’ for Childhood Critical Illness Survivors",
-        "url": "https://api.cristin.no/v2/results/2036513"
+        "url": "https://api.cristin.no/v2/results/2036513",
+        "title": "Affordances for Agency in a Nature-based Outdoor Activity Program: A Qualitative Study of ‘Nature School’ for Childhood Critical Illness Survivors"
       },
       {
         "type": "Report",
         "year": "2022",
-        "title": "Insurance loss data for improved climate change adaptation. Conditions for data sharing and utilization",
-        "url": "https://api.cristin.no/v2/results/2032969"
+        "url": "https://api.cristin.no/v2/results/2032969",
+        "title": "Insurance loss data for improved climate change adaptation. Conditions for data sharing and utilization"
       },
       {
         "type": "Lecture",
@@ -1239,15 +1239,15 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2028030",
         "title": "Certification dissonance: Contradictions between environmental values and certification scheme requirements in small-scale companies",
-        "journal": "Journal of Cleaner Production",
-        "url": "https://api.cristin.no/v2/results/2028030"
+        "journal": "Journal of Cleaner Production"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1998246"
+        "url": "https://api.cristin.no/v2/results/1998246",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Interview",
@@ -1262,14 +1262,14 @@
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Environmental Certification: Contradictions and Dissonance",
-        "url": "https://api.cristin.no/v2/results/1960551"
+        "url": "https://api.cristin.no/v2/results/1960551",
+        "title": "Environmental Certification: Contradictions and Dissonance"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Environmental certification: Experiences of contradictions between environmental values and requirements from certification schemes",
-        "url": "https://api.cristin.no/v2/results/1960546"
+        "url": "https://api.cristin.no/v2/results/1960546",
+        "title": "Environmental certification: Experiences of contradictions between environmental values and requirements from certification schemes"
       },
       {
         "type": "Lecture",
@@ -1284,14 +1284,14 @@
       {
         "type": "Feature article",
         "year": "2021",
-        "journal": "Psykologisk.no",
-        "url": "https://api.cristin.no/v2/results/1945837"
+        "url": "https://api.cristin.no/v2/results/1945837",
+        "journal": "Psykologisk.no"
       },
       {
         "type": "Chapter",
         "year": "2021",
-        "title": "Universal design of office workplace - for people with mild mental disorders",
-        "url": "https://api.cristin.no/v2/results/1945404"
+        "url": "https://api.cristin.no/v2/results/1945404",
+        "title": "Universal design of office workplace - for people with mild mental disorders"
       },
       {
         "type": "Lecture",
@@ -1301,9 +1301,9 @@
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1931129",
         "title": "Living with strangers: exploring motivations and stated preferences for considering co-housing and shared living in Bergen, Norway",
-        "journal": "Housing and Society",
-        "url": "https://api.cristin.no/v2/results/1931129"
+        "journal": "Housing and Society"
       },
       {
         "type": "Report",
@@ -1313,8 +1313,8 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "journal": "Tidsskrift for boligforskning",
-        "url": "https://api.cristin.no/v2/results/1916044"
+        "url": "https://api.cristin.no/v2/results/1916044",
+        "journal": "Tidsskrift for boligforskning"
       },
       {
         "type": "Masters thesis",
@@ -1339,40 +1339,40 @@
       {
         "type": "Feature article",
         "year": "2020",
-        "journal": "Psykologisk.no",
-        "url": "https://api.cristin.no/v2/results/1858704"
+        "url": "https://api.cristin.no/v2/results/1858704",
+        "journal": "Psykologisk.no"
       },
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "Developing the therapeutic potential of nature cabins in outpatient and inpatient care ",
-        "url": "https://api.cristin.no/v2/results/1856816"
+        "url": "https://api.cristin.no/v2/results/1856816",
+        "title": "Developing the therapeutic potential of nature cabins in outpatient and inpatient care "
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1854159",
         "title": "Klimatilpasning – hvordan få det til å skje? Betydningen av læring i nettverk= Climate adaptation – how to make it happen? The meaning of learning in networks",
-        "journal": "Kart og Plan",
-        "url": "https://api.cristin.no/v2/results/1854159"
+        "journal": "Kart og Plan"
       },
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "Reuse of building materials - Networking strategies for social innovation",
-        "url": "https://api.cristin.no/v2/results/1851020"
+        "url": "https://api.cristin.no/v2/results/1851020",
+        "title": "Reuse of building materials - Networking strategies for social innovation"
       },
       {
         "type": "Feature article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1850969",
         "title": "The Outdoor Care Retreat",
-        "journal": "Tidsskrift for Den norske legeforening",
-        "url": "https://api.cristin.no/v2/results/1850969"
+        "journal": "Tidsskrift for Den norske legeforening"
       },
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "Symbol aesthetics as an approach to influence both well-being and environmental behavior",
-        "url": "https://api.cristin.no/v2/results/1850879"
+        "url": "https://api.cristin.no/v2/results/1850879",
+        "title": "Symbol aesthetics as an approach to influence both well-being and environmental behavior"
       },
       {
         "type": "Academic lecture",
@@ -1382,32 +1382,32 @@
       {
         "type": "Feature article",
         "year": "2020",
-        "journal": "Psykologisk.no – Scandinavian Psychologist",
-        "url": "https://api.cristin.no/v2/results/1803616"
+        "url": "https://api.cristin.no/v2/results/1803616",
+        "journal": "Psykologisk.no – Scandinavian Psychologist"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2020",
-        "journal": "Byggeindustrien",
-        "url": "https://api.cristin.no/v2/results/1802393"
+        "url": "https://api.cristin.no/v2/results/1802393",
+        "journal": "Byggeindustrien"
       },
       {
         "type": "Feature article",
         "year": "2020",
-        "journal": "Kommunal rapport",
-        "url": "https://api.cristin.no/v2/results/1782801"
+        "url": "https://api.cristin.no/v2/results/1782801",
+        "journal": "Kommunal rapport"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2020",
-        "title": "Public-Private Cooperation for Climate Adaptation - Providing Insurance Loss Data to the Municipalities",
-        "url": "https://api.cristin.no/v2/results/1781258"
+        "url": "https://api.cristin.no/v2/results/1781258",
+        "title": "Public-Private Cooperation for Climate Adaptation - Providing Insurance Loss Data to the Municipalities"
       },
       {
         "type": "Lecture",
         "year": "2019",
-        "title": "Universal design of workplace environments for employees with milder mental disorders ",
-        "url": "https://api.cristin.no/v2/results/1755788"
+        "url": "https://api.cristin.no/v2/results/1755788",
+        "title": "Universal design of workplace environments for employees with milder mental disorders "
       },
       {
         "type": "Lecture",
@@ -1422,9 +1422,9 @@
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1744022",
         "title": "Process-related risks in refurbishment of dwellings using\r\nprefabricated wall elements with integrated PV and\r\nventilation ducts",
-        "journal": "IOP Conference Series: Earth and Environmental Science (EES)",
-        "url": "https://api.cristin.no/v2/results/1744022"
+        "journal": "IOP Conference Series: Earth and Environmental Science (EES)"
       },
       {
         "type": "Lecture",
@@ -1434,14 +1434,14 @@
       {
         "type": "Lecture",
         "year": "2019",
-        "title": "Selection of key performance indicators (KPIs) in the transition towards low-carbon urban communities",
-        "url": "https://api.cristin.no/v2/results/1736308"
+        "url": "https://api.cristin.no/v2/results/1736308",
+        "title": "Selection of key performance indicators (KPIs) in the transition towards low-carbon urban communities"
       },
       {
         "type": "Lecture",
         "year": "2019",
-        "title": "Attitudes in Norwegian insurance companies towards sharing loss data. SIWI World Water Week",
-        "url": "https://api.cristin.no/v2/results/1725627"
+        "url": "https://api.cristin.no/v2/results/1725627",
+        "title": "Attitudes in Norwegian insurance companies towards sharing loss data. SIWI World Water Week"
       },
       {
         "type": "Lecture",
@@ -1451,8 +1451,8 @@
       {
         "type": "Feature article",
         "year": "2019",
-        "journal": "Kommunal rapport",
-        "url": "https://api.cristin.no/v2/results/1714263"
+        "url": "https://api.cristin.no/v2/results/1714263",
+        "journal": "Kommunal rapport"
       },
       {
         "type": "Lecture",
@@ -1467,14 +1467,14 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2019",
-        "title": "Selection of key performance indicators (KPIs) in the transition towards low-carbon urban communities",
-        "url": "https://api.cristin.no/v2/results/1705886"
+        "url": "https://api.cristin.no/v2/results/1705886",
+        "title": "Selection of key performance indicators (KPIs) in the transition towards low-carbon urban communities"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2019",
-        "journal": "Byggeindustrien",
-        "url": "https://api.cristin.no/v2/results/1696962"
+        "url": "https://api.cristin.no/v2/results/1696962",
+        "journal": "Byggeindustrien"
       },
       {
         "type": "Interview",
@@ -1484,15 +1484,15 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2019",
-        "journal": "Vannspeilet",
-        "url": "https://api.cristin.no/v2/results/1688435"
+        "url": "https://api.cristin.no/v2/results/1688435",
+        "journal": "Vannspeilet"
       },
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1685228",
         "title": "A climate services perspective on Norwegian stormwater-related databases",
-        "journal": "Climate Services",
-        "url": "https://api.cristin.no/v2/results/1685228"
+        "journal": "Climate Services"
       },
       {
         "type": "Interview",
@@ -1512,9 +1512,9 @@
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1670263",
         "title": "Developing a scenario calculator for smart energy communities in Norway: Identifying gaps between vision and practice",
-        "journal": "Sustainable Cities and Society (SCS)",
-        "url": "https://api.cristin.no/v2/results/1670263"
+        "journal": "Sustainable Cities and Society (SCS)"
       },
       {
         "type": "Interview",
@@ -1524,20 +1524,20 @@
       {
         "type": "Report",
         "year": "2018",
-        "title": "Toolkit Testing in the Planning of Smart Energy Communities. PI-SEC Report 1.3 / 2.3 : Municipal practice and project planning",
-        "url": "https://api.cristin.no/v2/results/1845178"
+        "url": "https://api.cristin.no/v2/results/1845178",
+        "title": "Toolkit Testing in the Planning of Smart Energy Communities. PI-SEC Report 1.3 / 2.3 : Municipal practice and project planning"
       },
       {
         "type": "Report",
         "year": "2018",
-        "title": "Toolkit for the planning of smart energy communities. PI-SEC report 2.3. Challenges and best practices from\r\ntesting of the PI-SEC Planning Wheel",
-        "url": "https://api.cristin.no/v2/results/1845169"
+        "url": "https://api.cristin.no/v2/results/1845169",
+        "title": "Toolkit for the planning of smart energy communities. PI-SEC report 2.3. Challenges and best practices from\r\ntesting of the PI-SEC Planning Wheel"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2018",
-        "journal": "Naturen",
-        "url": "https://api.cristin.no/v2/results/1661897"
+        "url": "https://api.cristin.no/v2/results/1661897",
+        "journal": "Naturen"
       },
       {
         "type": "Interview",
@@ -1617,20 +1617,20 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2018",
-        "title": "Value sharing model for urban development",
-        "url": "https://api.cristin.no/v2/results/1641326"
+        "url": "https://api.cristin.no/v2/results/1641326",
+        "title": "Value sharing model for urban development"
       },
       {
         "type": "Popular scientific article",
         "year": "2018",
-        "journal": "SINTEF Byggforsk kunnskapssystemer. Byggforskserien",
-        "url": "https://api.cristin.no/v2/results/1640322"
+        "url": "https://api.cristin.no/v2/results/1640322",
+        "journal": "SINTEF Byggforsk kunnskapssystemer. Byggforskserien"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Attitudes in Norwegian insurance companies towards sharing loss data – Public -private cooperation for improved climate adaptation",
-        "url": "https://api.cristin.no/v2/results/1638994"
+        "url": "https://api.cristin.no/v2/results/1638994",
+        "title": "Attitudes in Norwegian insurance companies towards sharing loss data – Public -private cooperation for improved climate adaptation"
       },
       {
         "type": "Interview",
@@ -1650,16 +1650,100 @@
       {
         "type": "Abstract",
         "year": "2018",
+        "url": "https://api.cristin.no/v2/results/1631436",
         "title": "Framing Co-Creation of Social Responsibility in the Case of Climate Adaptation",
-        "journal": "Working Papers Series on Social Responsibility, Ethics and Sustainable Business",
-        "url": "https://api.cristin.no/v2/results/1631436"
+        "journal": "Working Papers Series on Social Responsibility, Ethics and Sustainable Business"
       },
       {
         "type": "Lecture",
         "year": "2018",
-        "title": "Attitudes in Norwegian insurance companies towards sharing loss data",
-        "url": "https://api.cristin.no/v2/results/1631431"
+        "url": "https://api.cristin.no/v2/results/1631431",
+        "title": "Attitudes in Norwegian insurance companies towards sharing loss data"
       }
     ]
+  },
+  "rg": {
+    "id": "Jostein-Lappegard",
+    "name": "Jostein Lappegård",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277721465802765-1443225365477_Q128/Jostein-Lappegard.jpg",
+    "affiliation": "UiT The Arctic University of Norway, Department of Clinical Medicine IKM",
+    "keywords": ["Epidemiological Analysis"],
+    "works": [
+      {
+        "title": "Red Cell Distribution Width and Risk of Atrial Fibrillation and Subsequent Thromboembolism: The Tromsø Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Erin Mathiesen Hald", "Maja-Lisa Løchen", "Jostein Lappegård", "John-Bjarne Hansen"],
+        "abstract": ["Introduction Red cell distribution width (RDW) is associated with cardiovascular diseases, including atrial fibrillation (AF) and venous thromboembolism (VTE). Whether RDW is a risk marker for thromboembolic events in AF patients is scarcely known. We aimed to assess the association between RDW and the risk of AF, and AF-related VTE and ischemic st..."]
+      },
+      {
+        "title": "Plasma hepcidin is associated with future risk of venous thromboembolism",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Trygve Sølberg Ellingsen", "Jostein Lappegård", "Thor Ueland", "John-Bjarne Hansen"],
+        "abstract": ["Key Points\nIron deficiency may explain the association between RDW and risk of VTE. Contrary to the hypothesis, increasing plasma levels of hepcidin, a biomarker of iron stores, were associated with increased risk of VTE."]
+      },
+      {
+        "title": "Impact of Chronic Inflammation, Assessed by hs-CRP, on the Association between Red Cell Distribution Width and Arterial Cardiovascular Disease: The Tromsø Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Jostein Lappegård", "Trygve Sølberg Ellingsen", "Kristian Hindberg", "John-Bjarne Hansen"],
+        "abstract": ["Red cell distribution width (RDW), a measure of variability in size of circulating erythrocytes, is associated with arterial cardiovascular disease (CVD), but the underlying mechanism remains unclear. We aimed to investigate the impact of chronic inflammation as measured by high-sensitivity C-reactive protein (hs-CRP) on this relationship, and expl..."]
+      },
+      {
+        "title": "The association between red cell distribution width and venous thromboembolism is not explained by myocardial infarction, stroke, or cancer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Trygve Sølberg Ellingsen", "Jostein Lappegård", "Tove Skjelbakken", "John-Bjarne Hansen"],
+        "abstract": ["Essentials\nRed cell distribution width (RDW) is associated with future risk of venous thromboembolism (VTE).\nStrong interrelations between RDW and other VTE‐related diseases may explain this relationship.\nCause‐specific analyses were performed to asses risk estimates of VTE by RDW.\nThe association between RDW and VTE was not explained by myocardial..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Trygve Sølberg Ellingsen", "Jostein Lappegård", "Tove Skjelbakken", "John-Bjarne Hansen"],
+        "abstract": []
+      },
+      {
+        "title": "Red cell distribution width is associated with future risk of incident stroke. The Tromsø Study",
+        "tags": ["Article"],
+        "date": "Aug 2015",
+        "authors": ["Jostein Lappegård", "Trygve Sølberg Ellingsen", "Tove Skjelbakken", "John-Bjarne Hansen"],
+        "abstract": ["Red cell distribution width (RDW), a measure of the variability in size of the circulating erythrocytes, is associated with cardiovascular morbidity and mortality. We aimed to investigate whether RDW was associated with incident stroke and case fatality in subjects recruited from the general population. Baseline characteristics were obtained from 2..."]
+      },
+      {
+        "title": "Impact of red cell distribution width on future risk of cancer and all-cause mortality among cancer patients - the Tromso Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Trygve Sølberg Ellingsen", "Jostein Lappegård", "Tove Skjelbakken", "John-Bjarne Hansen"],
+        "abstract": []
+      },
+      {
+        "title": "Red cell distribution width and carotid atherosclerosis progression. The Tromsø Study",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Jostein Lappegård", "Trygve Sølberg Ellingsen", "Anders Vik", "John-Bjarne Hansen"],
+        "abstract": ["Red cell distribution width (RDW), a measure of the size variability of circulating erythrocytes, is associated with cardiovascular morbidity and mortality. We aimed to investigate whether RDW was associated with progression of atherosclerotic plaques in subjects recruited from the general population. Baseline characteristics, including RDW, were c..."]
+      },
+      {
+        "title": "Red cell distribution width is associated with incident venous thromboembolism (VTE) and case-fatality after VTE in a general population",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Trygve Sølberg Ellingsen", "Jostein Lappegård", "Tove Skjelbakken", "John-Bjarne Hansen"],
+        "abstract": ["Recent studies suggest an association between red cell distribution width (RDW) and incident venous thromboembolism (VTE). We aimed to investigate the impact of RDW on risk of incident and recurrent VTE, and case-fatality, in a general population. RDW was measured in 26,223 participants enrolled in the Tromsø Study in 1994-1995. Incident and recurr..."]
+      },
+      {
+        "title": "Red Cell Distribution Width Is Associated With Incident Myocardial Infarction in a General Population: The Tromso Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Tove Skjelbakken", "Jostein Lappegård", "Trygve Sølberg Ellingsen", "John-Bjarne Hansen"],
+        "abstract": ["Background\nRed cell distribution width (RDW), a measure of the variability in size of circulating erythrocytes, is associated with mortality and adverse outcome in selected populations with cardiovascular disease. It is scarcely known whether RDW is associated with incident myocardial infarction (MI). We aimed to investigate whether RDW was associa..."]
+      }
+    ],
+    "degree": ["MD", "PhD", "student"],
+    "bio": [],
+    "publications": [10],
+    "reads": [664],
+    "citations": [263]
   }
 }

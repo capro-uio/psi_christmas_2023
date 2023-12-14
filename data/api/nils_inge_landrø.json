@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Nils Inge Landrø",
-    "id": "P7E4VKYAAAAJ",
-    "affiliation": "Professor i Nevropsykology ved Universitetet i Oslo",
+    "name": ["Nils Inge Landrø"],
+    "id": ["P7E4VKYAAAAJ"],
+    "affiliation": ["Professor i Nevropsykology ved Universitetet i Oslo"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-0354-5148",
-    "name": "Nils Inge Landrø",
+    "orcid": ["0000-0003-0354-5148"],
+    "name": ["Nils Inge Landrø"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -939,11 +939,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Nils Inge Landrø",
-    "id": "22060",
+    "name": ["Nils Inge Landrø"],
+    "id": ["22060"],
     "keywords": ["Memory", "Aging", "Neuropsychology", "Aphasia", "Psychopathology", "Psychology of Law", "Schizophrenia", "Dementia", "Dementia, aging"],
     "position": ["Professor", "Professor", "Guest"],
-    "img": "https://api.cristin.no/v2/persons/22060/picture",
+    "img": ["https://api.cristin.no/v2/persons/22060/picture"],
     "works": [
       {
         "type": "Poster",
@@ -955,64 +955,64 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Executive Functions in a Population of Individuals with CHARGE Syndrome: Findings from Performance-Based and Rating Scale Measures According to a 3-Factor Model",
-        "journal": "Developmental Neurorehabilitation",
-        "url": "https://api.cristin.no/v2/results/2193069"
+        "url": "https://api.cristin.no/v2/results/2193069",
+        "journal": "Developmental Neurorehabilitation"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The assessment and diagnosis of intellectual disability when development is atypical. A Norwegian population study of individuals with CHARGE syndrome",
-        "journal": "International Journal of Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2190594"
+        "url": "https://api.cristin.no/v2/results/2190594",
+        "journal": "International Journal of Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Cognitive predictors of stress-induced mood malleability in depression",
-        "journal": "Anxiety, Stress, & Coping",
-        "url": "https://api.cristin.no/v2/results/2179368"
+        "url": "https://api.cristin.no/v2/results/2179368",
+        "journal": "Anxiety, Stress, & Coping"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Combining antidepressants and attention bias modification in primary health care (DEPTREAT): Protocol for a pragmatic randomized controlled trial",
-        "journal": "Contemporary Clinical Trials",
-        "url": "https://api.cristin.no/v2/results/2175163"
+        "url": "https://api.cristin.no/v2/results/2175163",
+        "journal": "Contemporary Clinical Trials"
       },
       {
         "type": "Errata",
         "year": "2023",
         "title": "Corrigendum: Acceptance and commitment therapy preceded by attention bias modification on residual symptoms in depression: a 12-month follow-up (Frontiers in Psychology, (2019), 10, (1995), 10.3389/fpsyg.2019.01995)",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2171987"
+        "url": "https://api.cristin.no/v2/results/2171987",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Examining attentional functioning in depression using a personalized network approach: A proof-of-principle study",
-        "journal": "Psychiatry Research Communications",
-        "url": "https://api.cristin.no/v2/results/2167117"
+        "url": "https://api.cristin.no/v2/results/2167117",
+        "journal": "Psychiatry Research Communications"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The long-term effects of ABM on symptom severity in patients with recurrent depression: A randomized sham-controlled trial",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/2167055"
+        "url": "https://api.cristin.no/v2/results/2167055",
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Problematic Internet Use among Adults: A Cross-Cultural Study in 15 Countries",
-        "journal": "Journal of Clinical Medicine",
-        "url": "https://api.cristin.no/v2/results/2151203"
+        "url": "https://api.cristin.no/v2/results/2151203",
+        "journal": "Journal of Clinical Medicine"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The association between depression symptoms and reduced executive functioning is primarily linked by fatigue",
-        "journal": "Psychiatry Research Communications",
-        "url": "https://api.cristin.no/v2/results/2140158"
+        "url": "https://api.cristin.no/v2/results/2140158",
+        "journal": "Psychiatry Research Communications"
       },
       {
         "type": "Academic lecture",
@@ -1024,8 +1024,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "The effect of attention bias modification on depressive symptoms in a comorbid sample: a randomized controlled trial",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2103107"
+        "url": "https://api.cristin.no/v2/results/2103107",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Poster",
@@ -1037,127 +1037,127 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Virtual Ontogeny of Cortical Growth Preceding Mental Illness",
-        "journal": "Biological Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2103125"
+        "url": "https://api.cristin.no/v2/results/2103125",
+        "journal": "Biological Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Impulsivity and aggression in suicide ideators and suicide attempters of high and low lethality",
-        "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2094531"
+        "url": "https://api.cristin.no/v2/results/2094531",
+        "journal": "BMC Psychiatry"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2022",
         "title": "Cognitive rehabilitation in post-COVID-19 condition: A study protocol for a randomized controlled trial",
-        "journal": "Contemporary Clinical Trials",
-        "url": "https://api.cristin.no/v2/results/2061109"
+        "url": "https://api.cristin.no/v2/results/2061109",
+        "journal": "Contemporary Clinical Trials"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The effect of sexual abuse and dissociation on suicide attempt",
-        "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2023421"
+        "url": "https://api.cristin.no/v2/results/2023421",
+        "journal": "BMC Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Perceptions Underlying Addictive Technology Use Patterns: Insights for Cognitive-Behavioural Therapy",
-        "journal": "International Journal of Environmental Research and Public Health (IJERPH)",
-        "url": "https://api.cristin.no/v2/results/2022796"
+        "url": "https://api.cristin.no/v2/results/2022796",
+        "journal": "International Journal of Environmental Research and Public Health (IJERPH)"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Characteristics associated with the discrepancy between subjective and objective executive functioning in depression",
-        "journal": "Applied neuropsychology: Adult",
-        "url": "https://api.cristin.no/v2/results/1934770"
+        "url": "https://api.cristin.no/v2/results/1934770",
+        "journal": "Applied neuropsychology: Adult"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Self-reported Memory Problems 8 Months After COVID-19 Infection",
-        "journal": "JAMA Network Open",
-        "url": "https://api.cristin.no/v2/results/1927795"
+        "url": "https://api.cristin.no/v2/results/1927795",
+        "journal": "JAMA Network Open"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Symptom severity moderates the outcome of attention bias modification for depression: An exploratory study",
-        "journal": "Journal of Psychiatric Research",
-        "url": "https://api.cristin.no/v2/results/1917531"
+        "url": "https://api.cristin.no/v2/results/1917531",
+        "journal": "Journal of Psychiatric Research"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Is perceived control of depression related to therapy outcome for depression? A longitudinal study",
-        "journal": "Journal of Psychiatric Research",
-        "url": "https://api.cristin.no/v2/results/1915994"
+        "url": "https://api.cristin.no/v2/results/1915994",
+        "journal": "Journal of Psychiatric Research"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Comparing objective cognitive impairments in patients with peripheral neuropathic pain or fibromyalgia",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/1869723"
+        "url": "https://api.cristin.no/v2/results/1869723",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Errata",
         "year": "2020",
         "title": "Publisher Correction: Common brain disorders are associated with heritable patterns of apparent aging of the brain (Nature Neuroscience, (2019), 22, 10, (1617-1623), 10.1038/s41593-019-0471-7)",
-        "journal": "Nature Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2031849"
+        "url": "https://api.cristin.no/v2/results/2031849",
+        "journal": "Nature Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Psychological Flexibility in Depression Relapse Prevention: Processes of Change and Positive Mental Health in Group-Based ACT for Residual Symptoms",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1878325"
+        "url": "https://api.cristin.no/v2/results/1878325",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "MINDFLEX Training for Cognitive Flexibility in Chronic Pain: A Randomized, Controlled Cross-Over Trial",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1869721"
+        "url": "https://api.cristin.no/v2/results/1869721",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Cognitive control in suicide ideators and suicide attempters",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1867794"
+        "url": "https://api.cristin.no/v2/results/1867794",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Virtual Histology of Cortical Thickness and Shared Neurobiology in 6 Psychiatric Disorders",
-        "journal": "JAMA psychiatry",
-        "url": "https://api.cristin.no/v2/results/1865159"
+        "url": "https://api.cristin.no/v2/results/1865159",
+        "journal": "JAMA psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The genetic architecture of human brainstem structures and their involvement in common brain disorders",
-        "journal": "Nature Communications",
-        "url": "https://api.cristin.no/v2/results/1863855"
+        "url": "https://api.cristin.no/v2/results/1863855",
+        "journal": "Nature Communications"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Predictors of long-term improvement following cognitive remediation in a sample with elevated depressive symptoms",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1829326"
+        "url": "https://api.cristin.no/v2/results/1829326",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Norwegian Acceptance and Action Questionnaire (NAAQ): A psychometric evaluation",
-        "journal": "Journal of Contextual Behavioral Science",
-        "url": "https://api.cristin.no/v2/results/1828042"
+        "url": "https://api.cristin.no/v2/results/1828042",
+        "journal": "Journal of Contextual Behavioral Science"
       },
       {
         "type": "Poster",
@@ -1169,85 +1169,85 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Goal management training as a cognitive remediation intervention in depression: A randomized controlled trial",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/1820000"
+        "url": "https://api.cristin.no/v2/results/1820000",
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Letter to the editor",
         "year": "2020",
         "title": "Attention and executive functions are not associated with unemployment in patients with major depressive disorder",
-        "journal": "Psychiatry Research",
-        "url": "https://api.cristin.no/v2/results/1814675"
+        "url": "https://api.cristin.no/v2/results/1814675",
+        "journal": "Psychiatry Research"
       },
       {
         "type": "Academic literature review",
         "year": "2020",
         "title": "ENIGMA MDD: seven years of global neuroimaging studies of major depression through worldwide data sharing",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1813609"
+        "url": "https://api.cristin.no/v2/results/1813609",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Exploring the Links between Specific Depression Symptoms and Brain Structure: A Network Study",
-        "journal": "Psychiatry and Clinical Neurosciences",
-        "url": "https://api.cristin.no/v2/results/1759908"
+        "url": "https://api.cristin.no/v2/results/1759908",
+        "journal": "Psychiatry and Clinical Neurosciences"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Neuropsychological tests of immediate verbal recall and psychomotor speed have significant effects on cold-pressor pain tolerance in the Tromsø study",
-        "journal": "European Journal of Pain",
-        "url": "https://api.cristin.no/v2/results/1808069"
+        "url": "https://api.cristin.no/v2/results/1808069",
+        "journal": "European Journal of Pain"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Cross-cultural validation of the compulsive internet use scale in four forms and eight languages",
-        "journal": "CyberPsychology, Behavior and Social Networking",
-        "url": "https://api.cristin.no/v2/results/1802985"
+        "url": "https://api.cristin.no/v2/results/1802985",
+        "journal": "CyberPsychology, Behavior and Social Networking"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Attentional bias modification is associated with fMRI response toward negative stimuli in individuals with residual depression: a randomized controlled trial",
-        "journal": "Journal of Psychiatry & Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1796367"
+        "url": "https://api.cristin.no/v2/results/1796367",
+        "journal": "Journal of Psychiatry & Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Brain connectome mapping of complex human traits and their polygenic architecture using machine learning",
-        "journal": "Biological Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1755555"
+        "url": "https://api.cristin.no/v2/results/1755555",
+        "journal": "Biological Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Interpersonal problems as a predictor of pain catastrophizing in patients with chronic pain",
-        "journal": "Scandinavian Journal of Pain",
-        "url": "https://api.cristin.no/v2/results/1755064"
+        "url": "https://api.cristin.no/v2/results/1755064",
+        "journal": "Scandinavian Journal of Pain"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Effects of the Collaborative Assessment and Management of Suicidality (CAMS) Model: A Secondary Analysis of Moderation and Influencing Factors",
-        "journal": "Archives of Suicide Research",
-        "url": "https://api.cristin.no/v2/results/1753049"
+        "url": "https://api.cristin.no/v2/results/1753049",
+        "journal": "Archives of Suicide Research"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Neuropsychological functions of verbal recall and psychomotor speed significantly affect pain tolerance",
-        "journal": "European Journal of Pain",
-        "url": "https://api.cristin.no/v2/results/1739083"
+        "url": "https://api.cristin.no/v2/results/1739083",
+        "journal": "European Journal of Pain"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Multimodal fusion of structural and functional brain imaging in depression using linked independent component analysis",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1733992"
+        "url": "https://api.cristin.no/v2/results/1733992",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Poster",
@@ -1259,71 +1259,71 @@
         "type": "Academic literature review",
         "year": "2019",
         "title": "Is (poly-) substance use associated with impaired inhibitory control? A mega-analysis controlling for confounders",
-        "journal": "Neuroscience and Biobehavioral Reviews",
-        "url": "https://api.cristin.no/v2/results/1718581"
+        "url": "https://api.cristin.no/v2/results/1718581",
+        "journal": "Neuroscience and Biobehavioral Reviews"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Acceptance and Commitment Therapy Preceded by Attention Bias Modification on Residual Symptoms in Depression: A 12-Month Follow-Up",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1717838"
+        "url": "https://api.cristin.no/v2/results/1717838",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Common brain disorders are associated with heritable patterns of apparent aging of the brain",
-        "journal": "Nature Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1717835"
+        "url": "https://api.cristin.no/v2/results/1717835",
+        "journal": "Nature Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Attentional bias modification is associated with fMRI response toward negative stimuli in individuals with residual depression: a randomized controlled trial",
-        "journal": "Journal of Psychiatry & Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1717611"
+        "url": "https://api.cristin.no/v2/results/1717611",
+        "journal": "Journal of Psychiatry & Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Predicting cognitive and mental health traits and their polygenic architecture using large-scale brain connectomics",
-        "journal": "Nature Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1714276"
+        "url": "https://api.cristin.no/v2/results/1714276",
+        "journal": "Nature Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Effects of Attentional Bias Modification on residual symptoms in depression: A randomized controlled trial",
-        "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1698142"
+        "url": "https://api.cristin.no/v2/results/1698142",
+        "journal": "BMC Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Managing suicidality within specialized care: A randomized controlled trial",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/1689969"
+        "url": "https://api.cristin.no/v2/results/1689969",
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Neuropsychological dysfunction in chronic fatigue syndrome and the relation between objective and subjective findings",
-        "journal": "Neuropsychology",
-        "url": "https://api.cristin.no/v2/results/1681651"
+        "url": "https://api.cristin.no/v2/results/1681651",
+        "journal": "Neuropsychology"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Attention Bias Modification in Remitted Depression Is Associated With Increased Interest and Leads to Reduced Adverse Impact of Anxiety Symptoms and Negative Cognition",
-        "journal": "Clinical Psychological Science",
-        "url": "https://api.cristin.no/v2/results/1667604"
+        "url": "https://api.cristin.no/v2/results/1667604",
+        "journal": "Clinical Psychological Science"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "A Prospective Test of the Metacognitive Model of Depression in Previously Depressed Individuals",
-        "journal": "Cognitive Therapy and Research",
-        "url": "https://api.cristin.no/v2/results/1620431"
+        "url": "https://api.cristin.no/v2/results/1620431",
+        "journal": "Cognitive Therapy and Research"
       },
       {
         "type": "Poster",
@@ -1335,15 +1335,15 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Within-network connectivity in the salience network after attention bias modification training in residual depression: Report from a preregistered clinical trial",
-        "journal": "Frontiers in Human Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1679963"
+        "url": "https://api.cristin.no/v2/results/1679963",
+        "journal": "Frontiers in Human Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Measurement invariance of the short version of the problematic mobile phone use questionnaire (PMPUQ-SV) across eight languages",
-        "journal": "International Journal of Environmental Research and Public Health (IJERPH)",
-        "url": "https://api.cristin.no/v2/results/1675373"
+        "url": "https://api.cristin.no/v2/results/1675373",
+        "journal": "International Journal of Environmental Research and Public Health (IJERPH)"
       },
       {
         "type": "Poster",
@@ -1355,42 +1355,42 @@
         "type": "Academic article",
         "year": "2018",
         "title": "The relationship between improvement in insomnia severity and long-term outcomes in the treatment of chronic fatigue",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1617080"
+        "url": "https://api.cristin.no/v2/results/1617080",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "journal": "Tidsskrift for Den norske legeforening",
-        "url": "https://api.cristin.no/v2/results/1608203"
+        "url": "https://api.cristin.no/v2/results/1608203",
+        "journal": "Tidsskrift for Den norske legeforening"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Acceptance and Commitment Therapy preceded by an experimental Attention Bias Modification procedure in recurrent depression: Study protocol for a randomized controlled trial",
-        "journal": "Trials",
-        "url": "https://api.cristin.no/v2/results/1596388"
+        "url": "https://api.cristin.no/v2/results/1596388",
+        "journal": "Trials"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Data-driven clustering reveals a link between symptoms and functional brain connectivity in depression",
-        "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-        "url": "https://api.cristin.no/v2/results/1588531"
+        "url": "https://api.cristin.no/v2/results/1588531",
+        "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Superior outcomes following cervical fusion vs. multimodal rehabilitation in a subgroup of randomized Whiplash-Associated-Disorders (WAD) patients indicating somatic pain origin. Comparison of outcome assessments made by four examiners from different disciplines",
-        "journal": "Scandinavian Journal of Pain",
-        "url": "https://api.cristin.no/v2/results/1570869"
+        "url": "https://api.cristin.no/v2/results/1570869",
+        "journal": "Scandinavian Journal of Pain"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "The effect of insomnia on neuropsychological functioning in patients with comorbid symptoms of pain, fatigue, and mood disorders",
-        "journal": "Archives of Clinical Neuropsychology",
-        "url": "https://api.cristin.no/v2/results/1518994"
+        "url": "https://api.cristin.no/v2/results/1518994",
+        "journal": "Archives of Clinical Neuropsychology"
       },
       {
         "type": "Poster",
@@ -1407,98 +1407,98 @@
         "type": "Academic article",
         "year": "2017",
         "title": "Neurocognitive effects of an omega-3 fatty acid and vitamins E+C in schizophrenia: A randomised controlled trial",
-        "journal": "Prostaglandins, Leukotrienes and Essential Fatty Acids",
-        "url": "https://api.cristin.no/v2/results/1518973"
+        "url": "https://api.cristin.no/v2/results/1518973",
+        "journal": "Prostaglandins, Leukotrienes and Essential Fatty Acids"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Processes in acceptance and commitment therapy and the rehabilitation of chronic fatigue",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/1483846"
+        "url": "https://api.cristin.no/v2/results/1483846",
+        "journal": "Scandinavian Journal of Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Interventions for Subjects with Depressive Symptoms with or without Unhealthy Alcohol Use: Are There Different Patterns of Change?",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1476361"
+        "url": "https://api.cristin.no/v2/results/1476361",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Is overestimation of body size associated with neuropsychological weaknesses in anorexia nervosa?",
-        "journal": "European Eating Disorders Review",
-        "url": "https://api.cristin.no/v2/results/1474809"
+        "url": "https://api.cristin.no/v2/results/1474809",
+        "journal": "European Eating Disorders Review"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Fatigue and cognition: Pupillary responses to problem-solving in early multiple sclerosis patients",
-        "journal": "Brain and Behavior",
-        "url": "https://api.cristin.no/v2/results/1473480"
+        "url": "https://api.cristin.no/v2/results/1473480",
+        "journal": "Brain and Behavior"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Dysfunctional Metacognitive Beliefs Are Associated with Decreased Executive Control",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1473165"
+        "url": "https://api.cristin.no/v2/results/1473165",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Do executive functions predict binge-drinking patterns? Evidence from a longitudinal study in young adulthood",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1467128"
+        "url": "https://api.cristin.no/v2/results/1467128",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Inhibitory control and response monitoring are not systematically related to weekly alcohol consumption in the general population",
-        "journal": "Psychopharmacology",
-        "url": "https://api.cristin.no/v2/results/1453654"
+        "url": "https://api.cristin.no/v2/results/1453654",
+        "journal": "Psychopharmacology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Effectiveness of working memory training among subjects currently on sick leave due to complex symptoms",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1428452"
+        "url": "https://api.cristin.no/v2/results/1428452",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Levels of alcohol use and depression severity as predictors of missed therapy sessions in cognitive behavioral psycho-educational group treatment for depression",
-        "journal": "Addiction Research and Theory",
-        "url": "https://api.cristin.no/v2/results/1365915"
+        "url": "https://api.cristin.no/v2/results/1365915",
+        "journal": "Addiction Research and Theory"
       },
       {
         "type": "Academic literature review",
         "year": "2016",
         "title": "Functional brain alterations in anorexia nervosa: A scoping review",
-        "journal": "Journal of Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/1428750"
+        "url": "https://api.cristin.no/v2/results/1428750",
+        "journal": "Journal of Eating Disorders"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Brain volumes and regional cortical thickness in young females with anorexia nervosa",
-        "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1414313"
+        "url": "https://api.cristin.no/v2/results/1414313",
+        "journal": "BMC Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Collaborative Assessment and Management of Suicidality (CAMS) compared to treatment as usual (TAU) for suicidal patients: Study protocol for a randomized controlled trial",
-        "journal": "Trials",
-        "url": "https://api.cristin.no/v2/results/1400986"
+        "url": "https://api.cristin.no/v2/results/1400986",
+        "journal": "Trials"
       },
       {
         "type": "Popular scientific article",
         "year": "2016",
-        "journal": "BestPractice Norge",
-        "url": "https://api.cristin.no/v2/results/1386971"
+        "url": "https://api.cristin.no/v2/results/1386971",
+        "journal": "BestPractice Norge"
       },
       {
         "type": "Academic lecture",
@@ -1531,29 +1531,29 @@
         "type": "Academic article",
         "year": "2016",
         "title": "Metacognitions are associated with subjective memory problems in individuals on sick leave due to chronic fatigue",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1369147"
+        "url": "https://api.cristin.no/v2/results/1369147",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Binge drinking is characterized by decisions favoring positive and discounting negative consequences",
-        "journal": "Addiction Research and Theory",
-        "url": "https://api.cristin.no/v2/results/1348054"
+        "url": "https://api.cristin.no/v2/results/1348054",
+        "journal": "Addiction Research and Theory"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Which facets of impulsivity predict binge drinking?",
-        "journal": "Addictive Behaviors Reports",
-        "url": "https://api.cristin.no/v2/results/1344692"
+        "url": "https://api.cristin.no/v2/results/1344692",
+        "journal": "Addictive Behaviors Reports"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Cognitive rehabilitation in multiple sclerosis: A randomized controlled trial",
-        "journal": "Acta Neurologica Scandinavica",
-        "url": "https://api.cristin.no/v2/results/1325331"
+        "url": "https://api.cristin.no/v2/results/1325331",
+        "journal": "Acta Neurologica Scandinavica"
       },
       {
         "type": "Academic lecture",
@@ -1565,65 +1565,779 @@
         "type": "Academic article",
         "year": "2015",
         "title": "Low to moderate average alcohol consumption and binge drinking in early pregnancy: Effects on choice reaction time and information processing time in five-year-old children",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1340028"
+        "url": "https://api.cristin.no/v2/results/1340028",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Goal attainment in cognitive rehabilitation in MS patients",
-        "journal": "Neuropsychological Rehabilitation",
-        "url": "https://api.cristin.no/v2/results/1331548"
+        "url": "https://api.cristin.no/v2/results/1331548",
+        "journal": "Neuropsychological Rehabilitation"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Subjective memory complaints among patients on sick leave are associated with symptoms of fatigue and anxiety.",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1313678"
+        "url": "https://api.cristin.no/v2/results/1313678",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Binge drinkers are fast, able to stop - But they fail to adjust",
-        "journal": "Journal of the International Neuropsychological Society",
-        "url": "https://api.cristin.no/v2/results/1299594"
+        "url": "https://api.cristin.no/v2/results/1299594",
+        "journal": "Journal of the International Neuropsychological Society"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Inhibition and response to error in remitted major depression",
-        "journal": "Psychiatry Research",
-        "url": "https://api.cristin.no/v2/results/1295033"
+        "url": "https://api.cristin.no/v2/results/1295033",
+        "journal": "Psychiatry Research"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "A longitudinal study of disability, cognition and gray matter atrophy in early multiple sclerosis patients according to evidence of disease activity",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1292221"
+        "url": "https://api.cristin.no/v2/results/1292221",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Eye and hand motor interactions with the Symbol Digit Modalities Test in early multiple sclerosis",
-        "journal": "Multiple Sclerosis and Related Disorders",
-        "url": "https://api.cristin.no/v2/results/1277203"
+        "url": "https://api.cristin.no/v2/results/1277203",
+        "journal": "Multiple Sclerosis and Related Disorders"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "A particular effect of sleep, but not pain or depression, on the blood-oxygen-level dependent response during working memory tasks in patients with chronic pain",
-        "journal": "Journal of Pain Research",
-        "url": "https://api.cristin.no/v2/results/1265016"
+        "url": "https://api.cristin.no/v2/results/1265016",
+        "journal": "Journal of Pain Research"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Are poor set-shifting abilities associated with a higher frequency of body checking in anorexia nervosa ?",
-        "journal": "Journal of Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/1240662"
+        "url": "https://api.cristin.no/v2/results/1240662",
+        "journal": "Journal of Eating Disorders"
       }
     ]
+  },
+  "rg": {
+    "id": "Nils-Landro",
+    "name": "Nils Inge Landrø",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Neuropsychology", "Memory", "Executive Function", "Cognitive Neuroscience", "Learning", "Affective Neuroscience", "Information Processing"],
+    "works": [
+      {
+        "title": "Cognitive Control in Suicide Ideators and Suicide Attempters",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Silje Støle Broke", "Nils Inge Landrø", "Vegard Øksendal Haaland"],
+        "abstract": ["There is a need to understand more of the risk factors involved in the process from suicide ideation to suicide attempt. Cognitive control processes may be important factors in assessing vulnerability to suicide. A version of the Stroop procedure, Delis–Kaplan Executive Function System (D-KEFS) Color–Word Interference Test (CWIT) and Behavior Ratin..."]
+      },
+      {
+        "title": "MINDflex Training for Cognitive Flexibility in Chronic Pain: A Randomized, Controlled Cross-Over Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Henrik Borsting Jacobsen", "Ole Klungsøyr", "Nils Inge Landrø", "Bryan Roche"],
+        "abstract": ["Impairments in executive functioning are prevalent in chronic pain conditions, with cognitive inflexibility being the most frequently reported. The current randomized, cross-over trial, piloted a computerized cognitive training (CCT) program based on Relational Frame Theory, targeting improvement in cognitive flexibility. At baseline, 73 chronic pa..."]
+      },
+      {
+        "title": "Psychological Flexibility in Depression Relapse Prevention: Processes of Change and Positive Mental Health in Group-Based ACT for Residual Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Tom Ostergaard", "Tobias Lundgren", "Robert Zettle", "Vegard Øksendal Haaland"],
+        "abstract": ["Relapse rates following a depressive episode are high, with limited treatments available aimed at reducing such risk. Acceptance and commitment therapy (ACT) is a cognitive-behavioral approach that has gained increased empirical support in treatment of depression, and thus represents an alternative in relapse prevention. Psychological flexibility (..."]
+      },
+      {
+        "title": "Norwegian Acceptance and Action Questionnaire (NAAQ): A psychometric evaluation.",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Tom Ostergaard", "Tobias Lundgren", "Robert Zettle", "Vegard Øksendal Haaland"],
+        "abstract": ["The Acceptance and Action Questionnaire (AAQ-II) aims to measure psychological flexibility (PF), described as the ability to act according to chosen values while consciously being in contact with present moment experiences that might function as obstacles. To date, the psychometric properties of a Norwegian translated version of the AAQ-II (NAAQ) h..."]
+      },
+      {
+        "title": "Attentional bias modification is associated with fMRI response toward negative stimuli in individuals with residual depression: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Eva Hilland", "Nils Inge Landrø", "Catherine Harmer", "Rune Jonassen"],
+        "abstract": ["Background: \nAttentional bias modification (ABM) may lead to more adaptive emotion perception and emotion regulation. Understanding the neural basis of these effects may lead to greater precision for the development of future treatments. Task-related functional MRI (fMRI) after ABM training has not been investigated in depression so far. The main a..."]
+      },
+      {
+        "title": "Within-Network Connectivity in the Salience Network After Attention Bias Modification Training in Residual Depression: Report From a Preregistered Clinical Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Eva Hilland", "Nils Inge Landrø", "Catherine Harmer", "Rune Jonassen"],
+        "abstract": ["Alterations in resting state networks (RSNs) are associated with emotional- and attentional control difficulties in depressed individuals. Attentional bias modification (ABM) training may lead to more adaptive emotional processing in depression, but little is known about the neural underpinnings associated with ABM. In the current study a sample of..."]
+      },
+      {
+        "title": "Dysfunctional Metacognitive Beliefs Are Associated with Decreased Executive Control",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2017",
+        "authors": ["Brage Kraft", "Rune Jonassen", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["Dysfunctional metacognitive beliefs (“metacognitions”) and executive control are important factors in mental disorders such as depression and anxiety, but the relationship between these concepts has not been studied systematically. We examined whether there is an association between metacognitions and executive control and hypothesized that decreas..."]
+      },
+      {
+        "title": "Effectiveness of Working Memory Training among Subjects Currently on Sick Leave Due to Complex Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Julie Kristine Aasvik", "Astrid Woodhouse", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["Introduction: The current study examined if adaptive working memory training (Cogmed QM) has the potential to improve inhibitory control, working memory capacity, and perceptions of memory functioning in a group of patients currently on sick leave due to symptoms of pain, insomnia, fatigue, depression and anxiety. Participants who were referred to..."]
+      },
+      {
+        "title": "Levels of alcohol use and depression severity as predictors of missed therapy sessions in cognitive behavioural psycho-educational group treatment for depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Cecilie Skule", "Torkil Berge", "Espen Moen Eilertsen", "Nils Inge Landrø"],
+        "abstract": ["In this study, we investigate levels of depression and levels of alcohol use as predictors of unstable attendance in a therapeutic intervention. A sample of 154 patients scoring a mean of 26 on BDI-II attended a cognitive behavioural psycho-educational group treatment – ‘Coping and relapse prevention of depression’. We investigated the influence of..."]
+      },
+      {
+        "title": "Metacognitions Are Associated with Subjective Memory Problems in Individuals on Sick Leave due to Chronic Fatigue",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Henrik Borsting Jacobsen", "Julie Kristine Aasvik", "Petter C. Borchgrevink", "Tore C. Stiles"],
+        "abstract": ["Background: \nSubjective cognitive impairments are frequent, but poorly understood in patients with chronic fatigue. We hypothesized that maladaptive metacognitive beliefs at baseline were associated with baseline subjective cognitive impairments, that they predict subjective cognitive impairments at treatment termination, and that a reduction in ma..."]
+      },
+      {
+        "title": "Binge drinking is characterized by decisions favoring positive and discounting negative consequences",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Ragnhild Bø", "Joel Billieux", "Nils Inge Landrø"],
+        "abstract": ["Background: Decision making in binge drinkers is both risky and disadvantageous; however, previous operationalization of binge drinking has failed to capture the dimensionality of the phenomenon, differentiate drinking pattern from actual alcohol consumption and control for the influence of other substance use and general executive ability. Therefo..."]
+      },
+      {
+        "title": "Which facets of impulsivity predict binge drinking?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Ragnhild Bø", "Joel Billieux", "Nils Inge Landrø"],
+        "abstract": ["Background: Impulsive binge drinking is a serious public health issue, and to reveal predisposing factors to this consumption pattern is, therefore, required. Impulsivity-related traits are important predictors of alcohol use and abuse. Nonetheless, previous research in binge drinking has been confounded by various definitions and cut-off scores, i..."]
+      },
+      {
+        "title": "Binge Drinkers Are Fast, Able to Stop - but They Fail to Adjust",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Ragnhild Bø", "Martin Aker", "Joel Billieux", "Nils Inge Landrø"],
+        "abstract": ["Binge drinking leads to brain damage. However, at present few studies have taken into account the continuity in the binge drinking phenomenon, and treated binge drinking as a clearly separable category from other types of drinking patterns. The aim of the present study was to investigate whether severity of binge drinking can predict specific neuro..."]
+      },
+      {
+        "title": "Inhibition and response to error in remitted major depression",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Martin Aker", "Ragnhild Bø", "Catherine Harmer", "Nils Inge Landrø"],
+        "abstract": ["Depression is a common illness which tends to have a relapsing progression. Revealing vulnerability factors is an important step towards improved treatment and prevention. Previous studies of individuals in remission indicate that inhibitory control is more strongly impaired than other cognitive functions. Studies have mostly used Stroop tasks; it..."]
+      },
+      {
+        "title": "Subjective memory complaints among patients on sick leave are associated with symptoms of fatigue and anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Julie Kristine Aasvik", "Astrid Woodhouse", "Henrik Borsting Jacobsen", "Nils Inge Landrø"],
+        "abstract": ["Objective: \nThe aim of this study was to identify symptoms associated with subjective memory complaints (SMCs) among subjects who are currently on sick leave due to symptoms of chronic pain, fatigue, depression, anxiety, and insomnia.\n\nMethods: \nThis was a cross-sectional study, subjects (n = 167) who were currently on sick leave were asked to comp..."]
+      },
+      {
+        "title": "Eye and hand motor interactions with the Symbol Digit Modalities Test in early multiple sclerosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Gro O Nygaard", "Sigrid A De Rodez Benavent", "Hanne Flinstad Harbo", "Elisabeth Gulowsen Celius"],
+        "abstract": ["Purpose: \nEye and hand motor dysfunction may be present early in the disease course of relapsing-remitting multiple sclerosis (RRMS), and can affect the results on visual and written cognitive tests. We aimed to test for differences in saccadic initiation time (SI time) between RRMS patients and healthy controls, and whether SI time and hand motor..."]
+      },
+      {
+        "title": "Altered Cognitive Control Activations after Moderate-to-Severe Traumatic Brain Injury and Their Relationship to Injury Severity and Everyday-Life Function",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Alexander Olsen", "Jan Ferenc Brunner", "Kari Anne Indredavik Evensen", "Asta Kristine Håberg"],
+        "abstract": ["This study investigated how the neuronal underpinnings of both adaptive and stable cognitive control processes are affected\nby traumatic brain injury (TBI). Functional magnetic resonance imaging (fMRI) was undertaken in 62 survivors of moderate-to-severe\nTBI (>1 year after injury) and 68 healthy controls during performance of a continuous performan..."]
+      },
+      {
+        "title": "A particular effect of sleep, but not pain or depression, on the blood-oxygen-level dependent response during working memory tasks in patients with chronic pain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Nicolas-Andreas L Elvemo", "Nils Inge Landrø", "Petter C Borchgrevink", "Asta Kristine Håberg"],
+        "abstract": ["Background: \nPatients with chronic pain (CP) are often reported to have deficits in working memory. Pain impairs working memory, but so do depression and sleep problems, which are also common in CP. Depression has been linked to changes in brain activity in CP during working memory tasks, but the effect of sleep problems on working memory performan..."]
+      },
+      {
+        "title": "A Longitudinal Study of Disability, Cognition and Gray Matter Atrophy in Early Multiple Sclerosis Patients According to Evidence of Disease Activity.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Gro O Nygaard", "Elisabeth Gulowsen Celius", "Sigrid A de Rodez Benavent", "Hanne Flinstad Harbo"],
+        "abstract": ["New treatment options may make \"no evidence of disease activity\" (NEDA: no relapses or disability progression and no new/enlarging MRI lesions, as opposed to \"evidence of disease activity\" (EDA) with at least one of the former), an achievable goal in relapsing-remitting multiple sclerosis (RRMS). The objective of the present study was to determine..."]
+      },
+      {
+        "title": "Serotonin transporter polymorphisms predict response inhibition in healthy volunteers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Nils Inge Landrø", "Rune Jonassen", "Luke Clark", "Tore C. Stiles"],
+        "abstract": ["Serotoninergic transmission is reliably implicated in inhibitory control processes. The aim of this study was to test the hypothesis if serotonin transporter polymorphisms mediate inhibitory control in healthy people. 141 healthy subjects, carefully screened for previous and current psychopathology, were genotyped for the 5-HTTLPR and rs25531 polym..."]
+      },
+      {
+        "title": "A single dose of antidepressant alters eye-gaze patterns across face stimuli in healthy women",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["Rune Jonassen", "Olga Chelnokova", "Catherine Harmer", "Nils Inge Landrø"],
+        "abstract": ["Background: \nEarly neurocognitive changes in emotional processing are seen following SSRI administration, which may be involved in mechanisms of action. However, the perceptual processes underpinning these effects have not been specified.\n\nMethods: \nIn a double-blind, placebo-controlled eye-tracking study, we assessed the effect of single dose of c..."]
+      },
+      {
+        "title": "Serotonin Transporter Polymorphisms (5-HTTLPR) in Emotion Processing Implications from Current Neurobiology",
+        "tags": ["Article"],
+        "date": "Jun 2014",
+        "authors": ["Rune Jonassen", "Nils Inge Landrø"],
+        "abstract": ["The candidate gene approach directly tests the effects of genetic variation within a potentially contributing gene in an association study. However, the candidate gene approach is limited by how much is known about the biology of the disease being investigated. The serotonin transporter gene SLC6A4 has been studied more than any other single candid..."]
+      },
+      {
+        "title": "Memory Versus Perception of Body Size in Patients with Anorexia Nervosa and Healthy Controls",
+        "tags": ["Article"],
+        "date": "Mar 2014",
+        "authors": ["Maria Overås", "Hilde Kapstad", "Cathrine Brunborg", "Bryan Lask"],
+        "abstract": ["The objective of this study was to compare body size estimation based on memory versus perception, in patients with anorexia nervosa (AN) and healthy controls, adjusting for possible confounders. Seventy-one women (AN: 37, controls: 35), aged 14-29 years, were assessed with a computerized body size estimation morphing program. Information was gathe..."]
+      },
+      {
+        "title": "Depressive Symptoms in People with and without Alcohol Abuse: Factor Structure and Measurement Invariance of the Beck Depression Inventory (BDI-II) Across Groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Cecilie Skule", "Pål Ulleberg", "Hilde Dallavara Lending", "Nils Inge Landrø"],
+        "abstract": ["This study explored differences in the factor structure of depressive symptoms in patients with and without alcohol abuse, and differences in the severity of depressive symptoms between the two groups. In a sample of 358 patients without alcohol problems and 167 patients with comorbid alcohol problems, confirmatory factor analysis revealed that the..."]
+      },
+      {
+        "title": "Brain structure alterations associated with weight changes in young females with anorexia nervosa: a case series",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Tone Seim Fuglset", "Tor Endestad", "Nils Inge Landrø", "Øyvind Rø"],
+        "abstract": ["Structural brain changes associated with starvation and clinical measurements were explored in four females with anorexia nervosa with different clinical course, at baseline and 1-year follow-up, after receiving intensive inpatient treatment at a specialized eating disorder unit. Global volume alterations were associated with weight changes. Region..."]
+      },
+      {
+        "title": "Patient and Parental Self-reports of Executive Functioning in a Sample of Young Female Adolescents with Anorexia Nervosa Before and After Cognitive Remediation Therapy",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Camilla Lindvall Dahlgren", "Bryan Lask", "Nils Inge Landrø", "Øyvind Rø"],
+        "abstract": ["Previous studies assessing the potency of cognitive remediation therapy (CRT) have largely focused on performance-based assessments and how these change during the course of the intervention. Little is known of behavioural manifestations of such changes, and no previous studies have studied parental reports before and after CRT.\nPatient and parenta..."]
+      },
+      {
+        "title": "Response to letter to the Editor",
+        "tags": ["Article"],
+        "date": "Dec 2013",
+        "authors": ["Nils Inge Landrø", "Egil A Fors", "Lindis L Våpenstad", "Petter C Borchgrevink"],
+        "abstract": []
+      },
+      {
+        "title": "Cognition is only minimally impaired in Spinocerebellar ataxia type 14 (SCA14): A neuropsychological study of ten Norwegian subjects compared to intrafamilial controls and population norm",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Iselin Marie Wedding", "Jeanette Koht", "Espen Dietrichs", "Chantal Tallaksen"],
+        "abstract": ["There is an increasing awareness of the role of the cerebellum not only in motor, but also in cognitive and emotional functions. Spinocerebellar ataxia type 14 (SCA14) is an autosomal dominant hereditary ataxia characterized by a relatively pure cerebellar phenotype. Cognitive impairment has been reported in studies with phenotype descriptions of S..."]
+      },
+      {
+        "title": "Paper 2",
+        "tags": ["Data"],
+        "date": "Oct 2013",
+        "authors": ["Camilla Lindvall Dahlgren", "Bryan Lask", "Nils Inge Landrø", "Øyvind Rø"],
+        "abstract": []
+      },
+      {
+        "title": "Neuropsychological functioning in adolescents with anorexia nervosa before and after cognitive remediation therapy: A feasibility trial",
+        "tags": ["Article"],
+        "date": "Sep 2013",
+        "authors": ["Camilla Lindvall Dahlgren", "Bryan Lask", "Nils Inge Landrø", "Øyvind Rø"],
+        "abstract": ["To investigate neuropsychological functioning in adolescents with anorexia nervosa (AN) before and after receiving cognitive remediation therapy (CRT).\nTwenty young females with AN participated in an individually-delivered CRT treatment program. Neuropsychological and psychiatric assessments were administered before and after treatment. Weight, dep..."]
+      },
+      {
+        "title": "Dissociative experiences in patients with borderline personality disorder",
+        "tags": ["Chapter"],
+        "date": "Jun 2013",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Verbal fluency in anorexia nervosa",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Kristin Stedal", "Nils Inge Landrø", "Bryan Lask"],
+        "abstract": ["Verbal fluency performance is commonly evaluated in clinical neuropsychology, in particular for assessment of executive functioning. Fluency is usually assessed by the person's ability to produce as many words as possible from a given cue within a specific timeframe. The cues are typically phonemic, e.g. words beginning with a specific letter, or s..."]
+      },
+      {
+        "title": "The extent of neurocognitive dysfunction in a multidisciplinary pain centre population. Is there a relation between reported and tested neuropsychological functioning?",
+        "tags": ["Article"],
+        "date": "Feb 2013",
+        "authors": ["Nils Inge Landrø", "Egil A Fors", "Lindis L Våpenstad", "Petter C Borchgrevink"],
+        "abstract": ["Patients with chronic nonmalignant pain syndromes frequently report cognitive dysfunction, in particular with respect to concentration and attention. Such complaints have, in general, been attributed to depressive symptoms. In this study we showed that cognitive complaints in chronic pain patients are significantly associated with objective test pe..."]
+      },
+      {
+        "title": "The Functional Topography and Temporal Dynamics of Overlapping and Distinct Brain Activations for Adaptive Task Control and Stable Task-set Maintenance during Performance of an fMRI-adapted Clinical Continuous Performance Test",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Alexander Olsen", "Jan Ferenc Brunner", "Kari Anne Indredavik Evensen", "Asta Kristine Håberg"],
+        "abstract": ["Previous studies have demonstrated that stable and adaptive attention processes are mediated by partly overlapping, but distinct, brain areas. Dorsal medial PFC and anterior insula may form a \"core network\" for attention control, which is believed to operate on both temporal scales. However, both the existence of such a network as well as the uniqu..."]
+      },
+      {
+        "title": "The effects of acute tryptophan depletion on impulsivity and mood in adolescents engaging in non-suicidal self-injury",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Linn T Fikke", "Annika Melinder", "Nils Inge Landrø"],
+        "abstract": ["Non-suicidal self-injury (NSSI) is associated with impaired emotion regulation and impulsivity. Low serotonin (5-hydroxytryptamine) function is associated with NSSI, impaired emotion regulation and impulsivity. We investigated the effects of experimentally lowered 5-hydroxytryptamine activity, via acute tryptophan depletion (ATD), on impulsive acti..."]
+      },
+      {
+        "title": "Associations between serotonin transporter polymorphisms and cognitive processing applying the Emo 1-back task",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Rune Jonassen", "Kari Bente Foss Haug", "Tor Endestad", "Nils Inge Landrø"],
+        "abstract": ["Down regulation of serotonin transporter (5-HTT) expression has been associated with brain function and major depression. The aim of this study was to explore the allelic variation (short and long) of the 5-HTTLPR polymorphism in attention bias associated with top-down processing of emotion. One hundred sixty-two healthy participants underwent geno..."]
+      },
+      {
+        "title": "Cerebellum - more than motor control? Cognition in spinocerebellar ataxia type 14",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2012",
+        "authors": ["Iselin Marie Wedding", "Jeanette Koht", "Nils Inge Landrø", "Chantal Tallaksen"],
+        "abstract": []
+      },
+      {
+        "title": "An Examination of the Ravello Profile - A Neuropsychological Test Battery for Anorexia Nervosa",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Kristin Stedal", "Ian Frampton", "Nils Inge Landrø", "Bryan Lask"],
+        "abstract": ["The Ravello Profile test battery was developed to ensure a consistent methodology when researching neuropsychological functioning in anorexia nervosa (AN). To date, 157 patients with AN have been assessed with the full Ravello Profile. The present review is the first study to systematically investigate the tests included in the battery. Fifteen exp..."]
+      },
+      {
+        "title": "The Neuropsychological Profile of Children, Adolescents, and Young Adults with Anorexia Nervosa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Kristin Stedal", "Mark Rose", "Ian Frampton", "Bryan Lask"],
+        "abstract": ["The neuropsychological profile of a sample of 155 patients with a clinical diagnosis of anorexia nervosa was assessed using\na test battery specifically developed for such patients. The current findings suggest that the patients display a common neuropsychological\nprofile including both strengths and weaknesses when compared with published norms. Th..."]
+      },
+      {
+        "title": "Polymorphisms of the BDNF gene show neither association with multiple sclerosis susceptibility nor clinical course",
+        "tags": ["Article"],
+        "date": "Mar 2012",
+        "authors": ["I-L Mero", "Cathrine Smestad", "Benedicte Alexandra Lie", "Hanne Flinstad Harbo"],
+        "abstract": ["Brain-derived neurotrophic factor (BDNF) has been proposed a protective role in multiple sclerosis (MS) in several studies. The val(66)met polymorphism alters the function of the BDNF protein, and has along with rs56164415 previously been reported to be associated with MS. We genotyped BDNF SNPs val(66)met and rs56164415 in 2149 Norwegian MS patien..."]
+      },
+      {
+        "title": "The effects of the serotonin transporter polymorphism and age on frontal white matter integrity in healthy adult women",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2012",
+        "authors": ["Rune Jonassen", "Tor Endestad", "Alexander Neumeister", "Nils Inge Landrø"],
+        "abstract": ["Studies of populations at genetic risk have the potential to explore the underlying structural and functional mechanisms in the development of psychological disorders. The polymorphic region (5-HTTLPR) in the serotonin transporter gene (SLC6A4) has been associated with major depression (MDD) (Caspi et al., 2003). In healthy women, variation in the..."]
+      },
+      {
+        "title": "Serotonin Transporter Polymorphism Modulates N-Back Task Performance and fMRI BOLD Signal Intensity in Healthy Women",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Rune Jonassen", "Tor Endestad", "Alexander Neumeister", "Nils Inge Landrø"],
+        "abstract": ["Exploring intermediate phenotypes within the human brain's functional and structural circuitry is a promising approach to explain the relative contributions of genetics, complex behaviors and neural mechanisms in the development of major depressive disorder (MDD). The polymorphic region 5-HTTLPR in the serotonin transporter gene (SLC6A4) has been s..."]
+      },
+      {
+        "title": "Exploring the relationship between white matter microstructure and working memory functioning following stroke: A single case study of computerized cognitive training",
+        "tags": ["Article"],
+        "date": "Jul 2011",
+        "authors": ["Jan Egil Nordvik", "Anne-Kristine Schanke", "Kristine Walhovd", "Nils Inge Landrø"],
+        "abstract": ["Cognitive impairment is a well-known consequence of acquired brain injuries, including stroke. Computerized cognitive training (CCT) is a rehabilitation approach intended to enhance cognitive functioning. It is unclear whether CCT leads to generalized cognitive improvements in daily life functioning, or if the subjects improve performance only on t..."]
+      },
+      {
+        "title": "Cognitive Performance and Specific Deficits in OCD Symptom Dimensions: II. Spatial Memory and Impaired Recognition of Visuospatial Object Locations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2011",
+        "authors": ["Winand H Dittrich", "Thomas Johansen", "Naomi A Fineberg", "Nils Inge Landrø"],
+        "abstract": ["Objective: To investigate spatial recognition abilities and working memory in obsessive–compulsive disorder (OCD) patients grouped according to their primary symptom dimensions. Memory has always occupied a central position in OCD research, mainly because of the notion that faulty memory processes could mediate many of the repetitive compul-sive ri..."]
+      },
+      {
+        "title": "Cognitive Performance and Specific Deficits in OCD Symptom Dimensions: III. Decision-making and Impairments in Risky Choices",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2011",
+        "authors": ["Winand H Dittrich", "Thomas Johansen", "Nils Inge Landrø", "Naomi A Fineberg"],
+        "abstract": ["Objective: To investigate ambiguous and risky decision-making in obsessive–compulsive disorder (OCD) patients grouped according to established primary symptom dimensions. The difficulties of OCD patients in real-life quite often seem related to situations of decision-making, for example, whether to check the door or clean the house. Decision-making..."]
+      },
+      {
+        "title": "Executive functions are impaired in adolescents engaging in non-suicidal self-injury",
+        "tags": ["Article"],
+        "date": "Mar 2011",
+        "authors": ["Linn T Fikke", "Annika Melinder", "Nils Inge Landrø"],
+        "abstract": ["The aim of this study was to investigate three main aspects of executive functions (EFs), i.e. shifting, updating and inhibition, in adolescents engaging in non-suicidal self-injury (NSSI) as compared with healthy controls.\nEFs were assessed using the Intra/Extradimensional Set Shift, the Spatial Working Memory (SWM) Test and the Stop Signal Test (..."]
+      },
+      {
+        "title": "Verbal Memory Functions in Unipolar Major Depression With and Without Co-Morbid Anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Pia Lyche", "Rune Jonassen", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["The aim of this study was to examine both executive control of verbal working memory and verbal learning as well as long-term storage function in outpatients with major depressive disorder (n = 61) compared to healthy controls (n = 92). A total of 37 patients had no co-morbid anxiety disorder, whereas 24 had a co-morbid anxiety disorder. Both patie..."]
+      },
+      {
+        "title": "Attentional Functions in Major Depressive Disorders With and Without Comorbid Anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2011",
+        "authors": ["Pia Lyche", "Rune Jonassen", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["The aim of this study was to explore if the divergent results regarding attentional functions in patients with mood disorders\nare due to selective impairments in higher level or more basic and distinctive attentional subcomponents. We compared outpatients\nwith current major depressive disorders (MDD; n = 37) and MDD with comorbid anxiety disorder (..."]
+      },
+      {
+        "title": "Errorless learning and working memory: The impact of errors, distractors, and memory span load on immediate recall in healthy adults",
+        "tags": ["Article"],
+        "date": "Feb 2011",
+        "authors": ["Jan Egil Nordvik", "Anne-Kristine Schanke", "Nils Inge Landrø"],
+        "abstract": ["Errorless learning represents an important contribution to current neuropsychological rehabilitation. Previous research has mainly explained the benefits of errorless learning through properties of long-term memory. This study aims to explore how errors affect immediate recall performance. A new, supplementary perspective focusing on the role of wo..."]
+      },
+      {
+        "title": "Cognitive Control Functions in Unipolar Major Depression with and without Co-Morbid Anxiety Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Pia Lyche", "Rune Jonassen", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["Background: \nImpaired cognitive control functions have been demonstrated in both major depression (MDD) and anxiety disorder (A), but few studies have systematically examined the impact of MDD with co-morbid A (MDDA), which is the main aim of this study.\n\nMethod: \nWe compared patients with MDD with (MDDA; n = 24) and without co-morbid A (n = 37) to..."]
+      },
+      {
+        "title": "Driving functions in a video simulator in chronic non-malignant pain patients using and not using codeine",
+        "tags": ["Article"],
+        "date": "Oct 2010",
+        "authors": ["Halvard K Nilsen", "Nils Inge Landrø", "Stein Kaasa", "Petter C Borchgrevink"],
+        "abstract": ["A considerable number of Europeans suffer from chronic pain and are using opioids, particularly of the weak type. It is a clinical impression that many of these are driving or wish to drive a car. The aims of this study were to investigate if codeine influences driving ability in a simulator, and to examine if chronic pain per se might impair such..."]
+      },
+      {
+        "title": "Cognitive performance and specific deficits in OCD symptom dimensions: I. Olfactory perception and impaired recognition of disgust",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2010",
+        "authors": ["Winand H Dittrich", "Thomas Johansen", "Nils Inge Landrø", "Yvonne M Goder¹"],
+        "abstract": ["Objective: To investigate the ability of patients with obsessive-compulsive disorder (OCD) in identifying pleasant and disgusting smells. Methods: Participants were 55 OCD patients and 80 healthy controls, also matched for history of cigarette smoking. They were administered a smell identification test consisting of a subsample of 13 smells from th..."]
+      },
+      {
+        "title": "Cognitive impairment after three decades of multiple sclerosis",
+        "tags": ["Article"],
+        "date": "Mar 2010",
+        "authors": ["C Smestad", "L Sandvik", "Nils Inge Landrø", "Elisabeth Gulowsen Celius"],
+        "abstract": ["Population-based studies of cognitive impairment in patients with multiple sclerosis (MS) with long disease duration are limited. The aim of this study was to evaluate long-term outcome and the predictors of cognitive impairment in a cohort of patients with MS.\nPatients living in Oslo, Norway, with definite MS and onset in 1940-1980 alive on 1 May..."]
+      },
+      {
+        "title": "The short (S) allele of the serotonin transporter polymorphism and acute tryptophan depletion both increase impulsivity in men",
+        "tags": ["Article"],
+        "date": "Feb 2010",
+        "authors": ["Espen Walderhaug", "Aryeh Isaac Herman", "Andres Magnusson", "Nils Inge Landrø"],
+        "abstract": ["Reduced serotonergic neurotransmission is implicated in impulsive behavior. We studied the triallelic system of the serotonin transporter gene linked polymorphic region (5-HTTLPR) and acute manipulation of serotonin together to further delineate the mechanisms by which serotonergic neurotransmission affects impulsivity. Fifty-two healthy participan..."]
+      },
+      {
+        "title": "Patients with problematic opioid use can be weaned from codeine without pain escalation",
+        "tags": ["Article"],
+        "date": "Nov 2009",
+        "authors": ["H K Nilsen", "Tore C. Stiles", "Nils Inge Landrø", "P C Borchgrevink"],
+        "abstract": ["Brief treatments for chronic non-malignant pain patients with problematic opioid use are warranted. The aims of the present study were to investigate (1) whether it is possible to withdraw codeine use in such patients with a brief cognitive-behavioural therapy (CBT), (2) whether this could be done without pain escalation and reduction in quality of..."]
+      },
+      {
+        "title": "836 COGNITIVE FUNCTIONING AND DRIVING IN A SIMULATOR AMONG CHRONIC PAIN PATIENTS WITH OR WITHOUT OPIOID TREATMENT",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["H. Nilsen", "Nils Inge Landrø", "S. Kaasa", "P. Borchgrevink"],
+        "abstract": []
+      },
+      {
+        "title": "766 NEUROPSYCHOLOGICAL FUNCTIONING IN CHRONIC PAIN: COMPLAINTS AND OBJECTIVE TEST PERFORMANCE",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["L.L. Larsen", "Ø. Øistensen Holthe", "Nils Inge Landrø", "P.C. Borchgrevink"],
+        "abstract": []
+      },
+      {
+        "title": "Reduced insight in bipolar I disorder: Neurofunctional and neurostructural correlates. A preliminary study",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Monica Varga", "A Babovic", "Kjell Flekkøy", "S Opjordsmoen"],
+        "abstract": ["To correlate measures of insight for own psychopathology to structural and functional brain imaging findings in 21 patients with DSM-IV bipolar I disorder.\nInsight was assessed using the Scale to Assess Unawareness of Mental Disorder (SUMD). Resting single photon emission computed tomography (SPECT) and computed tomography (CT) was conducted in pat..."]
+      },
+      {
+        "title": "Pathological dissociation and neuropsychological functioning in borderline personality disorder",
+        "tags": ["Article"],
+        "date": "May 2009",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": ["Transient, stress-related severe dissociative symptoms or paranoid ideation is one of the criteria defining the borderline personality disorder (BPD). Examinations of the neuropsychological correlates of BPD reveal various findings. The purpose of this study was to investigate the association between dissociation and neuropsychological functioning..."]
+      },
+      {
+        "title": "Selective deficit in executive functioning among patients with borderline personality disorder",
+        "tags": ["Article"],
+        "date": "Mar 2009",
+        "authors": ["Vegard Øksendal Haaland", "L Esperaas", "Nils Inge Landrø"],
+        "abstract": ["The aim of this study was to investigate the functioning of patients with borderline personality disorder (BPD) compared to healthy controls on five neuropsychological domains, with regard to the possible effect of differences in IQ.Method\nOut-patients and in-patients with BPD (n=35) and healthy comparison subjects (n=35) were tested with an extens..."]
+      },
+      {
+        "title": "Proton magnetic resonance spectroscopy and cognition in patients with spastin mutations",
+        "tags": ["Article"],
+        "date": "Feb 2009",
+        "authors": ["A.K. Erichsen", "Andres Server", "Nils Inge Landrø", "Chantal M E Tallaksen"],
+        "abstract": ["The hereditary spastic paraplegias (HSP) are heterogeneous neurodegenerative disorders characterized by progressive spasticity and weakness in the lower limbs. Axonal loss in the long corticospinal tracts has been shown. Supraspinal symptoms and findings in the most common dominant HSP type, SPG4, support the theory that the disease also causes cer..."]
+      },
+      {
+        "title": "Verbal memory and verbal fluency in adolescents with schizophrenia spectrum disorders",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Nils Inge Landrø", "Torill Ueland"],
+        "abstract": ["Although impaired verbal memory and verbal fluency are frequently found in adults with schizophrenia, there has been a paucity of studies investigating adolescents with schizophrenia. Thus, the aim of the present study was to investigate the main subcomponents of verbal memory and verbal fluency in adolescents with schizophrenia spectrum disorders...."]
+      },
+      {
+        "title": "A Sequencing-Based Survey of Functional APAF1 Alleles in a Large Sample of Individuals with Affective Illness and Population Controls",
+        "tags": ["Article"],
+        "date": "Dec 2009",
+        "authors": ["Zenab Amin", "Katarzyna Kanarek", "Evgeny Krupitsky", "Jaakko Lappalainen"],
+        "abstract": ["Rare apoptosis-promoting functional variants in the apoptosis protease activating factor 1 (APAF1) gene were recently reported to co-segregate with major depression in male members of families from Utah. In order to estimate the impact of these variants on risk for major depressive disorder (MDD) in the general population, we surveyed the frequency..."]
+      },
+      {
+        "title": "A synergic effect between lowered serotonin and novel situations on impulsivity measured by CPT",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2008",
+        "authors": ["Espen Walderhaug", "Nils Inge Landrø", "Andres Magnusson"],
+        "abstract": ["Rapid tryptophan depletion studies investigate serotonin using amino acid precursor depletion, which transiently reduces the brain level of serotonin. This study compares the effects of serotonin reduction given on the first test day (when the situation is novel) with the effects of serotonin reduction given on the second test day (when the environ..."]
+      },
+      {
+        "title": "Interactive Effects of Sex and 5-HTTLPR on Mood and Impulsivity During Tryptophan Depletion in Healthy People",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2007",
+        "authors": ["Espen Walderhaug", "Andres Magnusson", "Alexander Neumeister", "Nils Inge Landrø"],
+        "abstract": ["Serotonin (5-HT) plays a central role in mood regulation and impulsivity. We studied whether healthy men and women react differently on mood and impulsivity measures during acute tryptophan depletion (ATD). We also studied the relative contribution of a functional length triallelic polymorphism in the promoter region of the serotonin transporter, d..."]
+      },
+      {
+        "title": "Premorbid Psychosocial Functioning in Borderline Personality Disorder",
+        "tags": ["Poster"],
+        "date": "Sep 2007",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Decision making as measured with the Iowa Gambling Task in patients with borderline personality disorder",
+        "tags": ["Article"],
+        "date": "Aug 2007",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": ["Affective instability is a core dimension of borderline personality disorder. The somatic marker hypothesis suggests that emotions play a crucial role in decision making. In this preliminary study, decision making was assessed in individuals with borderline personality disorder. Patients with borderline personality disorder (n = 20) and healthy com..."]
+      },
+      {
+        "title": "Executive Functions in Patients with Borderline Personality Disorder",
+        "tags": ["Poster"],
+        "date": "Jul 2007",
+        "authors": ["Vegard Øksendal Haaland", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Norwegian Norms and Factor-Structure of Phonemic and Semantic Word List Generation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Jens Egeland", "Nils Inge Landrø", "Evelin Tjemsland", "Kjersti Walbaekken"],
+        "abstract": ["Word list generation (WLG) tasks are used world wide as measures of executive function, although the tests are sensitive also to deficits in other cognitive functions. Norms derived from English-speaking samples are often used in Norway, even though the consequences of language differences are not yet been assessed. The reliability of WLG testing i..."]
+      },
+      {
+        "title": "687 EFFECTS OF CHRONIC NONMALIGNANT PAIN AND A SHORT-ACTING OPIOID ON PERFORMANCE IN A DRIVING SIMULATOR",
+        "tags": ["Article"],
+        "date": "Sep 2006",
+        "authors": ["H. K. Nilsen", "Nils Inge Landrø", "Gunnar D Jenssen", "P. C. Borchgrevink"],
+        "abstract": []
+      },
+      {
+        "title": "Neuropsychological test profiles in schizophrenia and non-psychotic depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2006",
+        "authors": ["Bjørn Rishovd Rund", "Kjetil Sundet", "Arve Asbjørnsen", "Kenneth Hugdahl"],
+        "abstract": ["The study examined to what degree schizophrenia is characterized by a neuropsychological (NP) test profile specific in shape and level compared with depression and normal functioning.\nFifty-three patients with schizophrenia, 45 with non-psychotic depression, and 50 normals were assessed with a comprehensive NP test battery and clinical instruments...."]
+      },
+      {
+        "title": "Cortisol level predict executive and memory function in depression, symptom level predicts psychomotor speed",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Jens Egeland", "Anders Lund", "Nils Inge Landrø", "Kirsten Irene Stordal"],
+        "abstract": ["Objective: On a group level depression is related to hypercortisolism and to psychomotor retardation, executive dysfunction and memory impairment. However, intra-group heterogeneity is substantial. Why some are impaired while others remain in the normal range, is not clear. The present study aims at discerning the relative contribution of present s..."]
+      },
+      {
+        "title": "Opioid switching from oral slow release morphine to oral methadone may improve pain control in chronic non-malignant pain: A nine-month follow-up study",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Olav Magnus S Fredheim", "Stein Kaasa", "Ola Dale", "Peter C Borchgrevink"],
+        "abstract": ["Twelve patients with poor pain control or unacceptable side effects during treatment with morphine were switched to methadone and followed for nine months in this open prospective study. Primary outcomes were patient preference for opioid and pain control while physical, cognitive and role functioning were secondary outcomes. The morphine dose was..."]
+      },
+      {
+        "title": "Validation of distinct amnesic and executive type memory deficit in a psychiatric sample based on retrieval performance",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2005",
+        "authors": ["Jens Egeland", "Nils Inge Landrø", "Kjetil Sundet", "Bjørn Rishovd Rund"],
+        "abstract": ["Studies of localized brain dysfunctions have revealed connections between patterns of cognitive dysfunction and specific profiles of memory impairment. The amnesic type of memory impairment is defined by deficits in both free recall and recognition memory, whereas the dysexecutive memory impairment is characterized by retrieval deficits, i.e. a dis..."]
+      },
+      {
+        "title": "Frequency and characteristics of recurrent major depressed patients with unimpaired executive functions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2005",
+        "authors": ["Kirsten Irene Stordal", "Astri J Lundervold", "Arnstein Mykletun", "Anders Lund"],
+        "abstract": ["Major depression is associated with impairment of cognitive functions, and especially higher-order cognitive processes referred to as executive functions (EF). Whether this is a general finding is unclear. Patients without EF impairment may have different treatment needs than patients with EF impairment, and will probably have a better everyday fun..."]
+      },
+      {
+        "title": "General psychopathology is more important for executive functioning than diagnosis",
+        "tags": ["Article"],
+        "date": "Feb 2005",
+        "authors": ["Kirsten Irene Stordal", "Arnstein Mykletun", "Arve Asbjørnsen", "Anders Lund"],
+        "abstract": ["Impaired executive functioning (EF) has often been reported in patients with major depression or schizophrenia. We hypothesize that the variance in EF is more affected by level of general psychopathology than by diagnosis.\nForty-three patients with major depression and 47 with schizophrenia were included. EF was measured with Wisconsin Card Sorting..."]
+      },
+      {
+        "title": "Early visual information processing in schizophrenia compared to recurrent depression",
+        "tags": ["Article"],
+        "date": "Jul 2004",
+        "authors": ["Bjørn Rishovd Rund", "Jens Egeland", "Kjetil Sundet", "Kirsten Irene Stordal"],
+        "abstract": ["Patients with schizophrenia have repeatedly shown deficits in early visual processing using backward masking (VBM) tasks. Whether this represents a specific dysfunction in schizophrenia is an unsolved question. Patients with recurrent unipolar depression represent an interesting comparison group to examine the question of specificity, but have neve..."]
+      },
+      {
+        "title": "Cognitive functioning in adolescents with schizophrenia spectrum disorders",
+        "tags": ["Article"],
+        "date": "Jun 2004",
+        "authors": ["Torill Ueland", "Merete Glenne Øie", "Nils Inge Landrø", "Bjørn Rishovd Rund"],
+        "abstract": ["In contrast to studies of cognitive functioning in adults with schizophrenia, there has been a relative paucity of studies assessing adolescents with schizophrenia. We investigated cognitive functioning in 22 adolescents with schizophrenia spectrum disorders compared with 30 healthy adolescents. The patient group demonstrated impaired performance o..."]
+      },
+      {
+        "title": "Brain Activation Measured With fMRI During a Mental Arithmetic Task in Schizophrenia and Major Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2004",
+        "authors": ["Kenneth Hugdahl", "Bjørn Rishovd Rund", "Anders Lund", "Tormod Thomsen"],
+        "abstract": ["The authors used functional magnetic resonance imaging (fMRI) to investigate brain activation in patients with schizophrenia and major depression while they performed two tasks-a vigilance task and a mental arithmetic task-that differed in cognitive complexity.\nIn the vigilance task, the participants had to press a response button whenever a specif..."]
+      },
+      {
+        "title": "Depressive symptoms account for deficient information processing speed but not for impaired working memory in early phase multiple sclerosis (MS)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2004",
+        "authors": ["Nils Inge Landrø", "Elisabeth Gulowsen Celius", "Helge Sletvold"],
+        "abstract": ["Depressive symptoms may influence neuropsychological functioning negatively. A substantial proportion of multiple sclerosis (MS) patients exhibit neuropsychological impairments and depressive symptomatology is more common in MS as compared to healthy controls and to other neurological diseases. The objectives of the present study were to assess inf..."]
+      },
+      {
+        "title": "Impairment across executive functions in recurrent major depression",
+        "tags": ["Article"],
+        "date": "Jan 2004",
+        "authors": ["Kirsten Irene Stordal", "Astri J Lundervold", "Jens Egeland", "Anders Lund"],
+        "abstract": ["Depression is associated with impairment of cognitive functions, and especially executive functions (EFs). Despite the fact that most depressed patients experience recurrence of episodes, the pattern and the severity of executive impairment have not been well characterized in this group of depressed patients. We asked if and to what extent these pa..."]
+      },
+      {
+        "title": "Attention profile in schizophrenia compared with depression: Differential effects of processing speed, selective attention and vigilance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2003",
+        "authors": ["Jens Egeland", "Bjørn Rishovd Rund", "Kjetil Sundet", "Kenneth Hugdahl"],
+        "abstract": ["The aim of the study is to investigate whether subjects with schizophrenia and major depression display attention deficits for different reasons.\nSubjects with schizophrenia (n = 53), recurrent major depression (n = 50) and normal controls (n = 50) were administered with 11 measures of processing speed, selective attention and vigilance. Indices of..."]
+      },
+      {
+        "title": "Attentional and executive dysfunctions in schizophrenia and depression: Evidence from dichotic listening performance",
+        "tags": ["Article"],
+        "date": "May 2003",
+        "authors": ["Kenneth Hugdahl", "Bjørn Rishovd Rund", "Anders Lund", "Kjetil Sundet"],
+        "abstract": ["We compared performance on a dichotic listening (DL) task between schizophrenic, depressed, and healthy control subjects. A variant of the traditional DL paradigm was used in which the subjects were required to focus attention either on the left (forced-left condition) or right (forced-right condition) ear stimulus.\nThe subjects were 51 patients wi..."]
+      },
+      {
+        "title": "Sensitivity and Specificity of Memory Dysfunction in Schizophrenia: A Comparison With Major Depression",
+        "tags": ["Article"],
+        "date": "Mar 2003",
+        "authors": ["Jens Egeland", "Kjetil Sundet", "Bjørn Rishovd Rund", "Kirsten Irene Stordal"],
+        "abstract": ["Fifty-three schizophrenic subjects were compared to 50 patients with major depression and 50 normal controls on measures of working memory, declarative memory and malingering. The schizophrenic group scored 1-2 SDs below controls on all measures, while depressive patients exposed only lesser deficits in working memory and free recall. The memory de..."]
+      },
+      {
+        "title": "Lowering of serotonin by rapid tryptophan depletion increases impulsiveness in normal individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2003",
+        "authors": ["Espen Walderhaug", "Hilde Lunde", "Jan Egil Nordvik", "Andres Magnusson"],
+        "abstract": ["Reduced serotonergic activity has been associated with impulsive behavior; however, intervention studies have been scarce.\nTo examine whether induced lowering of serotonin (5-HT) levels would increase behavioral measures of impulsivity.\nTwenty-four healthy young males ingested a mixture of the essential amino acids except for tryptophan in a balanc..."]
+      },
+      {
+        "title": "\"Normalization\" of brain activation schizophrenia. An fMRI study",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Anders Lund", "Rune A Kroken", "Tormod Thomsen", "Arve Asbjørnsen"],
+        "abstract": []
+      },
+      {
+        "title": "Memory deficits in young schizophrenics with normal general intellectual function",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Nils Inge Landrø", "Emily Pape-Ellefsen", "Karl Otto Hagland", "Torleiv Odland"],
+        "abstract": ["The aim of the present study was to examine different dimensions of memory functioning in young schizophrenics with normal general intellectual abilities. Thirty-three patients with schizophrenia and 33 healthy controls were included in the study. The results suggest that immediate short-term memory is intact, though there emerged a working memory..."]
+      },
+      {
+        "title": "Honig's model of working memory and brain activation: An fMRI study",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Nils Inge Landrø", "Bjørn Rishovd Rund", "Anders Lund", "Kenneth Hugdahl"],
+        "abstract": ["The present study investigated changes in neuronal activation with fMRI related to Honig's model of working memory, which is much less studied compared with other working memory models. In contrast to other studies which have applied recognition procedures, the primary aim with the present study was to examine brain activation when subjects had to..."]
+      },
+      {
+        "title": "Honig's model of working memory and brain activation: an fMRI study",
+        "tags": ["Article"],
+        "date": "Dec 2001",
+        "authors": ["Nils Inge Landrø", "Bjørn Rishovd Rund", "Anders Lund", "Kenneth Hugdahl"],
+        "abstract": ["The present study investigated changes in neuronal activation with fMRI related to Honig's model of working memory, which is much less studied compared with other working memory models. In contrast to other studies which have applied recognition procedures, the primary aim with the present study was to examine brain activation when subjects had to..."]
+      },
+      {
+        "title": "Neuropsychological function in nonpsychotic unipolar major depression",
+        "tags": ["Article"],
+        "date": "Oct 2001",
+        "authors": ["Nils Inge Landrø", "Tore C. Stiles", "H Sletvold"],
+        "abstract": ["To examine neuropsychological deficits in unmedicated patients with a nonpsychotic unipolar major depressive disorder.\nAlthough cognitive deficits in depression have been reported in several studies, most previous studies have concentrated on a few areas of cognition in more or less heterogenous groups of depressives.\nTwenty-two nonhospitalized pat..."]
+      },
+      {
+        "title": "Reduced frontal and increased parietal lobe fMRI activation in schizophrenic patients during a mental arithmetic task",
+        "tags": ["Article"],
+        "date": "Jun 2001",
+        "authors": ["Kenneth Hugdahl", "Tormod Thomsen", "Anders Lund", "N. Mjellem"],
+        "abstract": []
+      },
+      {
+        "title": "Separating mental arithmetic from working memory: An fMRI-study",
+        "tags": ["Article"],
+        "date": "May 2000",
+        "authors": ["Kenneth Hugdahl", "Tormod Thomsen", "Nils Inge Landrø", "Bjarne Erik Roscher"],
+        "abstract": ["Lesion studies have implicated the role of the left parietal cortex in mental arithmetic operations, like subtraction and addition”. \nBrain imaging studies on healthy individuals have however reported increased activation in both parietal and frontal cortex, and \non both the left and right side’.“. A possible explanation for the discrepant findings..."]
+      },
+      {
+        "title": "Memory Functioning and Emotional Changes in Early Phase Multiple Sclerosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2000",
+        "authors": ["Nils Inge Landrø", "Helge Sletvold", "Elisabeth Gulowsen Celius"],
+        "abstract": ["Memory functioning and emotional changes were evaluated in 26 early phase multiple sclerosis (MS) patients, as compared with\n24 healthy controls. There were no significant differences between the groups with respect to age, education, verbal intelligence,\nor general visual information processing abilities. The MS group performed significantly below..."]
+      },
+      {
+        "title": "Learning styles in schizophrenia",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["Jens Egeland", "Kjetil Sundet", "N. Mjellem", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "fMRI study: Brain activation in schizophrenic patients and healthy subjects during a working memory test",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["N. Mjellem", "Anders Lund", "Kenneth Hugdahl", "A. Lundervold"],
+        "abstract": []
+      },
+      {
+        "title": "Memory functioning in patients with primary fibromyalgia and major depression and health controls",
+        "tags": ["Article"],
+        "date": "Apr 1997",
+        "authors": ["Nils Inge Landrø", "Tore C. Stiles", "Helge Sletvold"],
+        "abstract": ["Memory functioning was assessed in 25 primary fibromyalgia (FM) patients by comparing them with 22 major depressed patients and 18 healthy controls. A broad range of short- and long-term memory tasks were included. Both major depressed and FM patients were significantly impaired on long-term memory tasks requiring effortful processing, compared to..."]
+      },
+      {
+        "title": "Stability in cognitive dysfunctions in schizophrenic patients",
+        "tags": ["Article"],
+        "date": "Apr 1997",
+        "authors": ["Bjørn Rishovd Rund", "Nils Inge Landrø", "Anne Lill Ørbeck"],
+        "abstract": ["The purpose of the present study was to classify cognitive dysfunctions in schizophrenic subjects according to a trait/state model. A sample of 15 patients was examined on 10 different cognitive measures in two distinctly different phases: an acute psychotic state and partial remission. To determine the degree of dysfunction at the two stages of il..."]
+      },
+      {
+        "title": "Memory in schizophrenia and affective disorders",
+        "tags": ["Article"],
+        "date": "Apr 1995",
+        "authors": ["Bjørn Rishovd Rund", "Nils Inge Landrø"],
+        "abstract": ["The purpose of the present study was to investigate the stability of memory and information processing in schizophrenics and affectively disturbed patients. Twenty-two schizophrenics, eight affectives and 14 normal controls were tested twice, with an interval of approximately one year. Results showed that normals performed better than schizophrenic..."]
+      },
+      {
+        "title": "Information processing in primary fibromyalgia, major depression and healthy controls",
+        "tags": ["Article"],
+        "date": "Feb 1995",
+        "authors": ["H Sletvold", "Tore C. Stiles", "Nils Inge Landrø"],
+        "abstract": ["To assess the information processing capabilities in 25 patients with primary fibromyalgia (FM) by comparing them with 22 patients with major depression and 18 healthy controls.\nA broad range of tasks related to various subcomponents of information processing were included.\nOur results indicated that patients with primary FM in general share with d..."]
+      },
+      {
+        "title": "Mueller-Lyer illusion and size estimation performance in schizophrenics compared to normal controls",
+        "tags": ["Article"],
+        "date": "Oct 1994",
+        "authors": ["Bjørn Rishovd Rund", "Nils Inge Landrø", "Anne Lill Orbeck", "Gjermund Nysveen"],
+        "abstract": ["A size estimation (SE) paradigm and the Mueller-Lyer (ML) illusion were used to examine perceptual disturbances in schizophrenics. 35 reliably diagnosed (DSM III-R) schizophrenics were compared to 20 subjects with no history of psychiatric illness. Perceptual distortions found in previous studies of schizophrenics were only to a certain extent conf..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [105],
+    "reads": [15357],
+    "citations": [4249]
   }
 }

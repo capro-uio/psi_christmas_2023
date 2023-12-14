@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Olav Vassend",
-    "id": "vSd5epAAAAAJ",
-    "affiliation": "Professor of psychology, University of Oslo",
+    "name": ["Olav Vassend"],
+    "id": ["vSd5epAAAAAJ"],
+    "affiliation": ["Professor of psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -791,8 +791,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-8630-1645",
-    "name": "Olav Vassend",
+    "orcid": ["0000-0001-8630-1645"],
+    "name": ["Olav Vassend"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -803,11 +803,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Olav Mandt Vassend",
-    "id": "21678",
+    "name": ["Olav Mandt Vassend"],
+    "id": ["21678"],
     "keywords": [],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/21678/picture",
+    "img": ["https://api.cristin.no/v2/persons/21678/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1415,5 +1415,124 @@
         "url": "https://api.cristin.no/v2/results/1492884"
       }
     ]
+  },
+  "rg": {
+    "id": "Hillebrand-Olav",
+    "name": "Hillebrand Olav",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "GeorgAugustUniversität Göttingen | GAUG, GeorgAugustUniversität Göttingen, Department of Applied Geology",
+    "keywords": ["Hydrogeology", "Hydrogeochemistry", "Aquifer", "Water Quality", "Drinking Water Quality", "Water Chemistry", "Groundwater", "Indicators", "Water", "Environment"],
+    "works": [
+      {
+        "title": "Potenziale der Nutzung organischer Spurenstoffe als Indikatoren in Grundwasserleitern",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Roland Reh", "Karsten Nödler", "Hillebrand Olav", "Tobias Licha"],
+        "abstract": ["Zusammenfassung\nDie Bewertung von Risiken für die Trinkwasserversorgung erfordert eine grundlegende hydrogeologische Modellvorstellung des Einzugsgebiets. Aufgrund der großen Heterogenität ist in Kluft- und Karstgrundwasserleitern die Anwendung ergänzender hydrogeochemischer Methoden unumgänglich. Die Aussagekraft und Anwendbarkeit der üblicherweis..."]
+      },
+      {
+        "title": "RiSKWa - Verbundprojekt AGRO: Risikomanagement von Spurenstoffen und Krankheitserregern in ländlichen Karsteinzugsgebieten : Schlussbericht - Sachbericht",
+        "tags": ["Book"],
+        "date": "Jan 2016",
+        "authors": ["Hillebrand Olav", "Abteilung Angewandte Geologie Geowissenschaftliches Zentrum", "Tobias Licha", "Sandra ( VerfasserIn ) Oehlmann"],
+        "abstract": []
+      },
+      {
+        "title": "Preliminary results on the dynamics of particles and their size distribution at a karst spring during a snowmelt event",
+        "tags": ["Article"],
+        "date": "May 2015",
+        "authors": ["Ferry Schiperski", "Johannes Zirlewagen", "Hillebrand Olav", "Traugott J Scheytt"],
+        "abstract": ["Recharge events in karst catchments are often accompanied by rapid changes of electrical conductivity, temperature or turbidity in associated karst springs. Turbidity is usually used as a proxy for suspended matter. However, it is not capable to characterize suspended matter in detail as it lumps signals of particles of a wide range of sizes. Chang..."]
+      },
+      {
+        "title": "Charakterisierung zweier Karstsysteme mithilfe organischer Spurenstoffe",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Roland Reh", "Hillebrand Olav", "Tobias Geyer", "Martin Sauter"],
+        "abstract": ["In der vorliegenden Arbeit wird das Auftreten organischer Spurenstoffe in zwei hinsichtlich der geologischen Verhältnisse und der Flächennutzung unterschiedlichen Karstgebieten diskutiert.\n\nIn einem urban geprägten, moderat verkarsteten Quelleinzugsgebiet mit einer hohen Anzahl lokaler Eintragsquellen (beispielsweise Altlasten, Kanalleckagen) ist g..."]
+      },
+      {
+        "title": "Multitracer experiment to evaluate the attenuation of selected organic micropollutants in a karst aquifer",
+        "tags": ["Article"],
+        "date": "Nov 2014",
+        "authors": ["Hillebrand Olav", "Karsten Nödler", "Martin Sauter", "Tobias Licha"],
+        "abstract": ["The increasing pressure on drinking water resources necessitates an efficient management of potential and actual drinking water resources. Karst aquifers play a key role in the supply of the world's population with drinking water. Around one quarter of all drinking water is produced from these types of aquifers. Unfortunately due to the aquifer cha..."]
+      },
+      {
+        "title": "Charakterisierung des Transports organischer Spurenstoffe in zwei Karstsystemen- Ein Vergleich.",
+        "tags": ["Article"],
+        "date": "Aug 2014",
+        "authors": ["Roland Reh", "Hillebrand Olav", "Tobias Geyer", "Martin Sauter"],
+        "abstract": []
+      },
+      {
+        "title": "Investigating the dynamics of two herbicides at a karst spring in Germany: Consequences for sustainable raw water management",
+        "tags": ["Article"],
+        "date": "Jun 2014",
+        "authors": ["Hillebrand Olav", "Karsten Nödler", "Tobias Geyer", "Tobias Licha"],
+        "abstract": ["While karst aquifers are considered as rapid flow and transport systems, their high potential for long-term storage is often ignored. However, to achieve a sustainable raw water quality for drinking water production, the understanding of this potential is highly essential. In this study, the transport dynamics of the two herbicides metazachlor and..."]
+      },
+      {
+        "title": "Occurrence and fate of the angiotensin II receptor antagonist transformation product valsartan acid in the water cycle - A comparative study with selected β-blockers and the persistent anthropogenic wastewater indicators carbamazepine and acesulfame",
+        "tags": ["Article"],
+        "date": "Sep 2013",
+        "authors": ["Karsten Nödler", "Hillebrand Olav", "Krzysztof R. Idzik", "Tobias Licha"],
+        "abstract": ["The substantial transformation of the angiotensin II receptor antagonist valsartan to the transformation product 2'-(2H-tetrazol-5-yl)-[1,1'-biphenyl]-4-carboxylic acid (referred to as valsartan acid) during the activated sludge process was demonstrated in the literature and confirmed in the here presented study. However, there was a severe lack of..."]
+      },
+      {
+        "title": "The challenge of sample-stabilisation in the era of multi-residue analytical methods: A practical guideline for the stabilisation of 46 organic micropollutants in aqueous samples",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Hillebrand Olav", "Shadha Musallam", "Laura Scherer", "Tobias Licha"],
+        "abstract": ["Water sample storage and stabilisation may affect data quality, if samples are managed improperly. In this study three stabilising strategies are evaluated for 46 relevant organic micro-pollutants: addition of the biocides (i) copper sulphate and (ii) sodium azide to water samples directly after sampling with subsequent sample storage as liquid pha..."]
+      },
+      {
+        "title": "Chemograph analysis of two herbicides in a German karst aquifer",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["Hillebrand Olav", "Karsten Nödler", "Tobias Licha", "Tobias Geyer"],
+        "abstract": ["The dynamic of spring discharge of mature karst aquifers shows after\nstrong precipitation events: Karst spring discharge increases rapidly\nand strongly, the chemical composition of the spring water is altered\nand contaminants may be transported from the land-surface towards the\nspring with the percolating rainwater. Contrary to rapid water\ntranspor..."]
+      },
+      {
+        "title": "Particles in a karstic spring, Swabian Alb: Physicochemical and hydraulic effects during a snow melt event.",
+        "tags": ["Conference Paper"],
+        "date": "Apr 2013",
+        "authors": ["Ferry Schiperski", "Johannes Zirlewagen", "Hillebrand Olav", "Tobias Licha"],
+        "abstract": ["The studied karst spring 'Gallusquelle' is located on the Swabian Alb in\nSouthwest Germany. The catchment area of the 'Gallusquelle' measures\nabout 45 km². An average annual discharge of 0.5 m³/s serves\ndrinking water to about 40,000 people via a waterworks. The study is\npart of the research project 'AGRO' (www.projekt-agro.de). The main\nobjective..."]
+      },
+      {
+        "title": "Estimating the input of wastewater-born micropollutants in a rural karst catchment (Gallusquelle, Germany)",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["Johannes Zirlewagen", "Hillebrand Olav", "Karsten Nödler", "Tobias Licha"],
+        "abstract": ["The main focus of the AGRO research project is on the use of various\nmicropollutants as indicators (e.g. for wastewater) in the catchment of\nthe karst spring Gallusquelle, Swabian Alb. For modeling the\nmicropollutants' fate in the subsurface and their occurrence in spring\nwater, reliable estimates of the spatio-temporal input, i.e. input\nfunctions,..."]
+      },
+      {
+        "title": "Identification of the attenuation potential of a karst aquifer by an artificial dualtracer experiment with caffeine",
+        "tags": ["Article"],
+        "date": "Jul 2012",
+        "authors": ["Hillebrand Olav", "Karsten Nödler", "Tobias Licha", "Tobias Geyer"],
+        "abstract": ["Little is known with respect to the attenuation capacity of karst aquifers. Even less is known about the risk posed by emerging micropollutants in these systems. In order to identify the attenuation potential of karst aquifers in-situ and to estimate the risk posed by micropollutants, a dualtracer test was conducted in this study in order to invest..."]
+      },
+      {
+        "title": "Multitracer test for the determination of transport and in-situ degradation of organic micro-contaminants in karst aquifers on the example of caffeine",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["Hillebrand Olav", "Karsten Nödler", "Tobias Licha", "T. Geyer"],
+        "abstract": ["The application of organic micro-contaminants as indicators for\ncontamination sources in aquifers and surface-water bodies has been\nincreasingly discussed in the literature over the last years. One of the\nproposed substances was caffeine. It served as indicator for\nwastewater-leakage to various systems. As well, wastewater volumes could\nbe estimate..."]
+      },
+      {
+        "title": "Caffeine as an indicator for the quantification of untreated wastewater in karst systems",
+        "tags": ["Article"],
+        "date": "Nov 2011",
+        "authors": ["Hillebrand Olav", "Karsten Nödler", "Tobias Licha", "Tobias Geyer"],
+        "abstract": ["Contamination from untreated wastewater leakage and related bacterial contamination poses a threat to drinking water quality. However, a quantification of the magnitude of leakage is difficult. The objective of this work is to provide a highly sensitive methodology for the estimation of the mass of untreated wastewater entering karst aquifers with..."]
+      }
+    ],
+    "degree": ["Dr.", "rer.", "nat."],
+    "bio": [],
+    "publications": [15],
+    "reads": [1043],
+    "citations": [457]
   }
 }

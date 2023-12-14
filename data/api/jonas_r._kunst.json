@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Jonas R. Kunst",
-    "id": "fdtqcw4AAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo",
+    "name": ["Jonas R. Kunst"],
+    "id": ["fdtqcw4AAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -1121,8 +1121,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-2409-4246",
-    "name": "Natalia Kunst",
+    "orcid": ["0000-0002-2409-4246"],
+    "name": ["Natalia Kunst"],
     "distinctions": [],
     "education": [
       {
@@ -1139,31 +1139,31 @@
       },
       {
         "start": "2020",
-        "end": "2022",
         "position": "Postdoctoral Research Fellow",
         "organisation": "Harvard Medical School",
-        "country": "US"
+        "country": "US",
+        "end": "2022"
       },
       {
         "start": "2017",
-        "end": "2020",
         "position": "PhD Candidate",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2019",
-        "end": "2020",
         "position": "Postgraduate Research Fellow",
         "organisation": "Yale School of Medicine",
-        "country": "US"
+        "country": "US",
+        "end": "2020"
       },
       {
         "start": "2018",
-        "end": "2019",
         "position": "Visiting PhD Candidate",
         "organisation": "Yale University School of Public Health",
-        "country": "US"
+        "country": "US",
+        "end": "2019"
       }
     ],
     "employment": [
@@ -1181,31 +1181,31 @@
       },
       {
         "start": "2020",
-        "end": "2022",
         "position": "Postdoctoral Research Fellow",
         "organisation": "Harvard Medical School",
-        "country": "US"
+        "country": "US",
+        "end": "2022"
       },
       {
         "start": "2017",
-        "end": "2020",
         "position": "PhD Candidate",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2019",
-        "end": "2020",
         "position": "Postgraduate Research Fellow",
         "organisation": "Yale School of Medicine",
-        "country": "US"
+        "country": "US",
+        "end": "2020"
       },
       {
         "start": "2018",
-        "end": "2019",
         "position": "Visiting PhD Candidate",
         "organisation": "Yale University School of Public Health",
-        "country": "US"
+        "country": "US",
+        "end": "2019"
       }
     ],
     "membership": [],
@@ -1384,8 +1384,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jonas R. Kunst",
-    "id": "420315",
+    "name": ["Jonas R. Kunst"],
+    "id": ["420315"],
     "keywords": [],
     "position": ["Professor"],
     "img": {},
@@ -2049,5 +2049,15 @@
         "url": "https://api.cristin.no/v2/results/895852"
       }
     ]
+  },
+  "rg": {
+    "id": "Jonas-R",
+    "name": "Jonas R.",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Innsbruck | UIBK, University of Innsbruck, Unit for Concrete Structures and Bridge Design",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

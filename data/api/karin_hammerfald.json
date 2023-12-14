@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0004-1550-2967",
-    "name": "Karin Hammerfald",
+    "orcid": ["0009-0004-1550-2967"],
+    "name": ["Karin Hammerfald"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Karin Hammerfald",
-    "id": "1412691",
+    "name": ["Karin Hammerfald"],
+    "id": ["1412691"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -48,5 +48,54 @@
         "url": "https://api.cristin.no/v2/results/2123738"
       }
     ]
+  },
+  "rg": {
+    "id": "Karin-Hammerfald",
+    "name": "Karin Hammerfald",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281122704415-1677505559432_Q128/Karin-Hammerfald.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychotherapy", "Counseling", "Clinical Psychiatry", "Treatment Outcome", "Psychological Assessment", "Mental Disorders", "Supervision", "Internet-based CBT", "Suicide Prevention", "Psychotherapeutic Processes"],
+    "works": [
+      {
+        "title": "Using Machine Learning to Recommend Personalized Modular Treatments for Common Mental Health Disorders",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2023",
+        "authors": ["Fabian Schmidt", "Karin Hammerfald", "Henrik Jahren", "Vladimir Vlassov"],
+        "abstract": ["So far, initial treatment recommendations for\ninternet-based cognitive behavioral therapy (iCBT) decision support were mostly high-level or static. Personalized treatment\nrecommendations could pave the way toward better treatment\noutcomes and adaptive treatments by leveraging information\nfrom past patients. We explore the disadvantages of multi-cla..."]
+      },
+      {
+        "title": "Individual differences in the cortisol response to stress in young healthy men: Testing the roles of perceived stress reactivity and threat appraisal using multiphase latent growth curve modeling",
+        "tags": ["Article"],
+        "date": "Mar 2011",
+        "authors": ["Wolff Schlotz", "Karin Hammerfald", "Ulrike Ehlert", "Jens Gaab"],
+        "abstract": ["Individual differences in stress reactivity and cognitive appraisal processes are thought to explain part of the heterogeneity in stress responses. This study investigated how perceived typical stress reactivity and momentary cognitive appraisal affect salivary cortisol responses to a laboratory performance stressor with social evaluation in 66 mal..."]
+      },
+      {
+        "title": "Persistent effects of cognitive-behavioral stress management on cortisol responses to acute stress in healthy subjects – A randomized controlled trial",
+        "tags": ["Article"],
+        "date": "May 2006",
+        "authors": ["Karin Hammerfald", "C Eberle", "M Grau", "Jens Gaab"],
+        "abstract": ["Psychosocial stress leads to a release of cortisol. While this psychoneuroendocrine response helps to maintain physiological as well as psychological equilibrium under stress, exaggerated secretion of cortisol has been shown to have negative effects on somatic health and cognitive functioning. The study set out to examine the long-term effects of c..."]
+      },
+      {
+        "title": "Stress susceptibility and the endocrine stress response",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Karin Hammerfald", "J Gaab", "Ulrike Ehlert"],
+        "abstract": []
+      },
+      {
+        "title": "Reproductive function of anorexia nervosa patients 6–10 years after treatment",
+        "tags": ["Article"],
+        "date": "Oct 2000",
+        "authors": ["J Russell", "Suzanne Abraham", "Karin Hammerfald", "P Beumont"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Doctor", "of", "Psychology"],
+    "bio": [],
+    "publications": [5],
+    "reads": [745],
+    "citations": [236]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0007-6646-5547",
-    "name": "Yimenu Yitayih",
+    "orcid": ["0009-0007-6646-5547"],
+    "name": ["Yimenu Yitayih"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Yimenu Yitayih",
-    "id": "1250950",
+    "name": ["Yimenu Yitayih"],
+    "id": ["1250950"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -27,5 +27,40 @@
         "url": "https://api.cristin.no/v2/results/1888165"
       }
     ]
+  },
+  "rg": {
+    "id": "Beminet-Yimenu",
+    "name": "Beminet Yimenu",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Debre Markos University, Department of Medicine",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Clinical Outcomes and Predictors of Patients with Fracture in Debre Markos Comprehensive Specialized Hospital, North West Ethiopia: A Prospective Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Beminet Yimenu", "Belayneh Mengist"],
+        "abstract": "Background: \nFracture continues to be a major public health concern in many parts of the developing world that results in several consequences and complications including lifelong morbidity and mortality. This study aimed to assess clinical outcomes of patients following fracture in Debre Markos Comprehensive Specialized Hospital, North West Ethiop..."
+      },
+      {
+        "title": "SARS-CoV-2 infection and venous thromboembolism after surgery: an international prospective cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Dmitri Nepogodiev", "Joana Ff Simoes", "Elizabeth Li", "Precious G T Mutambanengwe"],
+        "abstract": "SARS-CoV-2 has been associated with an increased rate of venous thromboembolism in critically ill patients.Since surgical patients are already at higher risk of venous thromboembolism than general populations, thisstudy aimed to determine if patients with peri-operative or prior SARS-CoV-2 were at further increased risk ofvenous thromboembolism. We..."
+      },
+      {
+        "title": "Timing of surgery following SARS-CoV-2 infection: an international prospective cohort study.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Dmitri Nepogodiev", "Joana Ff Simoes", "Elizabeth Li", "Precious G T Mutambanengwe"],
+        "abstract": "Peri-operative SARS-CoV-2 infection increases postoperative mortality. The aim of this study was to determine the optimal duration of planned delay before surgery in patients who have had SARS-CoV-2 infection. This international, multicentre, prospective cohort study included patients undergoing elective or emergency surgery during October 2020. Su..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [3],
+    "reads": [8488],
+    "citations": [5]
   }
 }

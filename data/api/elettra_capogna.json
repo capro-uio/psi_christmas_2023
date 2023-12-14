@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-8847-2461",
-    "name": "Elettra Capogna",
+    "orcid": ["0000-0002-8847-2461"],
+    "name": ["Elettra Capogna"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -30,8 +30,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Elettra Capogna",
-    "id": "1261942",
+    "name": ["Elettra Capogna"],
+    "id": ["1261942"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -58,5 +58,15 @@
         "url": "https://api.cristin.no/v2/results/2045692"
       }
     ]
+  },
+  "rg": {
+    "id": "Tirino-Elettra",
+    "name": "Tirino Elettra",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Sapienza University of Rome | la sapienza, Sapienza University of Rome, Department of Social Sciences DISS",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

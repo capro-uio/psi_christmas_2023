@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Hilde Kristin Flata",
-    "id": "1360728",
+    "name": ["Hilde Kristin Flata"],
+    "id": ["1360728"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -16,9 +16,19 @@
       {
         "type": "Feature article",
         "year": "2020",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1993166"
+        "url": "https://api.cristin.no/v2/results/1993166",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       }
     ]
+  },
+  "rg": {
+    "id": "Hilde_Kristin_Kvinge",
+    "name": "Hilde Kristin Kvinge",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Norwegian University of Life Sciences NMBU, Department of Landscape Architecture and Spatial Planning ILP",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

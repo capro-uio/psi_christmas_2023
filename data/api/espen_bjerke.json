@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Espen Bjerke",
-    "id": "10573",
+    "name": ["Espen Bjerke"],
+    "id": ["10573"],
     "keywords": [],
     "position": ["Guest", "Head physician"],
     "img": {},
@@ -81,5 +81,159 @@
         "url": "https://api.cristin.no/v2/results/338930"
       }
     ]
+  },
+  "rg": {
+    "id": "Espen-Bjerke",
+    "name": "Espen Bjerke",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272365594607639-1441948426732_Q128/Espen-Bjerke.jpg",
+    "affiliation": "Helse SørØst, Sykehuset Østfold HF Klinikk for psykisk helsevern",
+    "keywords": ["Addiction", "Interpersonal", "Prescription", "Benzodiazepines", "Psychotherapy", "Psychoanalysis"],
+    "works": [
+      {
+        "title": "Færre tvangsinnleggelser i psykisk helsevern?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Espen Bjerke", "Kari Gjelstad", "Torleif Ruud"],
+        "abstract": []
+      },
+      {
+        "title": "Specific relationships between symptoms and interpersonal problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Espen Bjerke", "Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Associations between symptoms and interpersonal problems, assessed with the Symptom Check List-90 (SCL-90-R) and the Inventory of Interpersonal problems – 64 items version (IIP-64), are examined in a large psychiatric outpatient sample. On basis of the IIP-64-scores, the sample was divided into 8 subgroups, comprising different types of predominant..."]
+      },
+      {
+        "title": "Relasjonens betydning i psykoterapi",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "Mellommenneskelige problemer hos pasienter i psykiatrisk helsevern",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "Interpersonal problems among psychiatric outpatients. A study of interpersonal problems and their associations with symptoms and forms of self-relatedness.",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Espen Bjerke"],
+        "abstract": ["This study examines the specific kinds of interpersonal problems, including their associations with symptoms and self-image, characteristic of a general psychiatric outpatient population. The interpersonal perspective may offer valuable diagnostic information, and it is regarded as compatible with other theoretical approaches to psychopathology, as..."]
+      },
+      {
+        "title": "Self-Relatedness and Interpersonal Problems in a Large Psychiatric Outpatient Sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Espen Bjerke", "Ole André Solbakken", "Svein Friis", "E Bjerke"],
+        "abstract": ["Interpersonal-and self-relatedness problems are strongly correlated on a global level. However, few studies have examined associations between distinct forms of interpersonal problems and specific types of problems in self-relatedness. We hypothesized that patients with domineering interpersonal problems would exhibit a more positive self-image tha..."]
+      },
+      {
+        "title": "Compulsory hospitalisation in mental health care in Østfold in 2000 and 2010",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Kristine Tøgersen", "Espen Bjerke", "Kari Gjelstad", "Torleif Ruud"],
+        "abstract": ["Background: \nFor many years, it has been an objective of national public health policy in Norway to reduce the number of compulsory hospitalisations under the Norwegian Mental Health Care Act. Uncertain data quality and inadequate reporting have made it difficult to obtain reliable measurements of hospitalisation trends. We have examined changes in..."]
+      },
+      {
+        "title": "Are There Specific Relationships Between Symptom Patterns and Interpersonal Problems Among Psychiatric Outpatients?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Espen Bjerke", "Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Associations between symptoms and interpersonal problems, assessed with the Symptom Checklist-90 (SCL-90-R) and the Inventory of Interpersonal Problems-64-item version (IIP-64), are examined in a large psychiatric outpatient sample. On the basis of the IIP-64 scores, the sample was divided into 8 subgroups, made up of different types of predominant..."]
+      },
+      {
+        "title": "Høres (ut)?",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "Glem ikke Marevanen!",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "André Bjerke og psykoanalysen",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "Interpersonal problems among 988 Norwegian psychiatric outpatients. A study of pretreatment self-reports",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Espen Bjerke", "Roger Sandvik Hansen", "Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["No studies, to our knowledge, have examined what specific kinds of interpersonal problems characterize a general psychiatric outpatient population. Do they differ from the normal population in any specific way, apart from the expected \"more of everything\"? The aim of this study was to map and categorize a large psychiatric outpatient sample with re..."]
+      },
+      {
+        "title": "Mellommenneskelige problemer og psykoterapi",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "[Do we need the superego?].",
+        "tags": ["Article"],
+        "date": "Feb 2009",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "Trenger vi overjeget?",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "[Psychotherapy supervisors in Norway]",
+        "tags": ["Article"],
+        "date": "Mar 2003",
+        "authors": ["Egil W Martinsen", "Espen Bjerke"],
+        "abstract": ["Background. From 1972/73, supervision in psychotherapy from a qualified supervisor has been a requirement in the training of residents in psychiatry in Norway. For long there have been too few supervisors, and the majority have been based in the Oslo area. Material and methods. All authorized supervisors in psychotherapy in Norway (n = 144) receive..."]
+      },
+      {
+        "title": "[Sigmund Freud and Harald Schjelderup--views on telepathy and parapsychology].",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      },
+      {
+        "title": "Victim of fate? A presentation of the concept of “fate neurosis”",
+        "tags": ["Article"],
+        "date": "Jan 1995",
+        "authors": ["Espen Bjerke", "Espen"],
+        "abstract": ["Psychoanalytic therory about “the psychopathology of fate” is referred to, and also Freud's description of fate-compulsion (in Anglo-Saxon literature renamed “fate neurosis”), and Roy Schafer's concept of “disclaiming”. The material from an analysis is compared with a short story by Somerset Maugham: “The Force of Circumstances”, which preoccupied..."]
+      },
+      {
+        "title": "[Effect of feedback and self-evaluation on the prescription of addictive drugs]",
+        "tags": ["Article"],
+        "date": "Sep 1991",
+        "authors": ["Espen Bjerke", "J Aga", "Arild Bjørndal"],
+        "abstract": ["Prescribing of anti-anxiety benzodiazepines was registered in five one month periods in 1989 and 1990 in Moss, a medium-sized Norwegian town. The general practitioners received feed-back on their own prescribing habits and were offered an opportunity to meet colleagues in a self-evaluation group. The results indicate that GPs are influenced by such..."]
+      },
+      {
+        "title": "[Electrotherapy in serious depression. Is the dexamethasone suppression test useful in evaluating the indications for such treatment?]",
+        "tags": ["Article"],
+        "date": "Jun 1986",
+        "authors": ["Espen Bjerke"],
+        "abstract": []
+      }
+    ],
+    "degree": ["MD,", "PhD,", "Psychoanalyst", "IPA"],
+    "bio": "Espen Bjerke currently works at the Sykehuset Østfold HF, Klinikk for psykisk helsevern, Helse Sør-Øst. Espen does research in Psychiatry and Personality Psychology. His most recent publication is: 'Less use of compulsory hospitalisation in mental health care? ('Færre tvangsinnleggelser i psykisk helsevern?').",
+    "publications": [20],
+    "reads": [1429],
+    "citations": [44]
   }
 }

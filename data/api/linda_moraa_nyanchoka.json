@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Linda Nyanchoka",
-    "id": "fW16n78AAAAJ",
-    "affiliation": "Cancer Registry of Norway",
+    "name": ["Linda Nyanchoka"],
+    "id": ["fW16n78AAAAJ"],
+    "affiliation": ["Cancer Registry of Norway"],
     "data": {
       "publications": [
         {
@@ -131,8 +131,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-0822-6736",
-    "name": "Linda Nyanchoka",
+    "orcid": ["0000-0003-0822-6736"],
+    "name": ["Linda Nyanchoka"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -176,8 +176,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Linda Moraa Nyanchoka",
-    "id": "540981",
+    "name": ["Linda Moraa Nyanchoka"],
+    "id": ["540981"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", null],
     "img": {},
@@ -210,5 +210,15 @@
         "url": "https://api.cristin.no/v2/results/1502515"
       }
     ]
+  },
+  "rg": {
+    "id": "Lydia-Moraa",
+    "name": "Lydia Moraa",
+    "img": "https://i1.rgstatic.net/ii/profile.image/278918746656781-1443510819417_Q128/Lydia-Moraa.jpg",
+    "affiliation": "University of Nairobi | UON, University of Nairobi, Department of Conservative and Prosthetic Dentistry",
+    "keywords": ["Dentistry"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

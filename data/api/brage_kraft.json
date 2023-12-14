@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Brage Kraft",
-    "id": "JUIqsusAAAAJ",
-    "affiliation": "Associate Professor @ OsloMet",
+    "name": ["Brage Kraft"],
+    "id": ["JUIqsusAAAAJ"],
+    "affiliation": ["Associate Professor @ OsloMet"],
     "data": {
       "publications": [
         {
@@ -235,8 +235,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-1978-5501",
-    "name": "Brage Kraft",
+    "orcid": ["0000-0002-1978-5501"],
+    "name": ["Brage Kraft"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -247,8 +247,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Brage Kraft",
-    "id": "678632",
+    "name": ["Brage Kraft"],
+    "id": ["678632"],
     "keywords": [],
     "position": ["Guest", "Associate professor"],
     "img": {},
@@ -262,146 +262,155 @@
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Exploring the relationship between multiple dimensions of subjective socioeconomic status and self-reported physical and mental health: the mediating role of affect",
         "journal": "Frontiers in Public Health",
-        "url": "https://api.cristin.no/v2/results/2182153"
+        "url": "https://api.cristin.no/v2/results/2182153",
+        "title": "Exploring the relationship between multiple dimensions of subjective socioeconomic status and self-reported physical and mental health: the mediating role of affect"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Cognitive predictors of stress-induced mood malleability in depression",
         "journal": "Anxiety, Stress, & Coping",
-        "url": "https://api.cristin.no/v2/results/2179368"
+        "url": "https://api.cristin.no/v2/results/2179368",
+        "title": "Cognitive predictors of stress-induced mood malleability in depression"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Examining attentional functioning in depression using a personalized network approach: A proof-of-principle study",
         "journal": "Psychiatry Research Communications",
-        "url": "https://api.cristin.no/v2/results/2167117"
+        "url": "https://api.cristin.no/v2/results/2167117",
+        "title": "Examining attentional functioning in depression using a personalized network approach: A proof-of-principle study"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "The long-term effects of ABM on symptom severity in patients with recurrent depression: A randomized sham-controlled trial",
         "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/2167055"
+        "url": "https://api.cristin.no/v2/results/2167055",
+        "title": "The long-term effects of ABM on symptom severity in patients with recurrent depression: A randomized sham-controlled trial"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "The association between depression symptoms and reduced executive functioning is primarily linked by fatigue",
         "journal": "Psychiatry Research Communications",
-        "url": "https://api.cristin.no/v2/results/2140158"
+        "url": "https://api.cristin.no/v2/results/2140158",
+        "title": "The association between depression symptoms and reduced executive functioning is primarily linked by fatigue"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Developmental changes in the structure of shyness and internalizing symptoms from early to middle childhood: A network analysis",
         "journal": "Child Development",
-        "url": "https://api.cristin.no/v2/results/2138523"
+        "url": "https://api.cristin.no/v2/results/2138523",
+        "title": "Developmental changes in the structure of shyness and internalizing symptoms from early to middle childhood: A network analysis"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Developmental changes in the structure of shyness and internalizing symptoms from early to middle childhood: A network analysis",
         "journal": "Child Development",
-        "url": "https://api.cristin.no/v2/results/2129275"
+        "url": "https://api.cristin.no/v2/results/2129275",
+        "title": "Developmental changes in the structure of shyness and internalizing symptoms from early to middle childhood: A network analysis"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "The effect of attention bias modification on depressive symptoms in a comorbid sample: a randomized controlled trial",
         "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2103107"
+        "url": "https://api.cristin.no/v2/results/2103107",
+        "title": "The effect of attention bias modification on depressive symptoms in a comorbid sample: a randomized controlled trial"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "The effect of attentional bias modification on attentional bias change is related to increased emotional reactivity",
-        "url": "https://api.cristin.no/v2/results/2113758"
+        "url": "https://api.cristin.no/v2/results/2113758",
+        "title": "The effect of attentional bias modification on attentional bias change is related to increased emotional reactivity"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Prenatal dietary inflammation, language problems, and ADHD symptoms: Moderating role of polygenic risk. Poster presentation at the 26th Biennial Meeting of the International Society for the Study of Beharvioral Development ",
-        "url": "https://api.cristin.no/v2/results/2084126"
+        "url": "https://api.cristin.no/v2/results/2084126",
+        "title": "Prenatal dietary inflammation, language problems, and ADHD symptoms: Moderating role of polygenic risk. Poster presentation at the 26th Biennial Meeting of the International Society for the Study of Beharvioral Development "
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Subjective Socioeconomic Status, Cognitive Abilities, and Personal Control: Associations With Health Behaviours",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2019567"
+        "url": "https://api.cristin.no/v2/results/2019567",
+        "title": "Subjective Socioeconomic Status, Cognitive Abilities, and Personal Control: Associations With Health Behaviours"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Symptom severity moderates the outcome of attention bias modification for depression: An exploratory study",
         "journal": "Journal of Psychiatric Research",
-        "url": "https://api.cristin.no/v2/results/1917531"
+        "url": "https://api.cristin.no/v2/results/1917531",
+        "title": "Symptom severity moderates the outcome of attention bias modification for depression: An exploratory study"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
-        "title": "Explaining socioeconomic disparities in health behaviours: A review of biopsychological pathways involving stress and inflammation",
         "journal": "Neuroscience and Biobehavioral Reviews",
-        "url": "https://api.cristin.no/v2/results/1915930"
+        "url": "https://api.cristin.no/v2/results/1915930",
+        "title": "Explaining socioeconomic disparities in health behaviours: A review of biopsychological pathways involving stress and inflammation"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Exploring the Links between Specific Depression Symptoms and Brain Structure: A Network Study",
         "journal": "Psychiatry and Clinical Neurosciences",
-        "url": "https://api.cristin.no/v2/results/1759908"
+        "url": "https://api.cristin.no/v2/results/1759908",
+        "title": "Exploring the Links between Specific Depression Symptoms and Brain Structure: A Network Study"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Are unpopular children more likely to get sick? Longitudinal links between popularity and infectious diseases in early childhood\r\n",
         "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1727856"
+        "url": "https://api.cristin.no/v2/results/1727856",
+        "title": "Are unpopular children more likely to get sick? Longitudinal links between popularity and infectious diseases in early childhood\r\n"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Effects of Attentional Bias Modification on residual symptoms in depression: A randomized controlled trial",
         "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1698142"
+        "url": "https://api.cristin.no/v2/results/1698142",
+        "title": "Effects of Attentional Bias Modification on residual symptoms in depression: A randomized controlled trial"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Attention Bias Modification in Remitted Depression Is Associated With Increased Interest and Leads to Reduced Adverse Impact of Anxiety Symptoms and Negative Cognition",
         "journal": "Clinical Psychological Science",
-        "url": "https://api.cristin.no/v2/results/1667604"
+        "url": "https://api.cristin.no/v2/results/1667604",
+        "title": "Attention Bias Modification in Remitted Depression Is Associated With Increased Interest and Leads to Reduced Adverse Impact of Anxiety Symptoms and Negative Cognition"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "A Prospective Test of the Metacognitive Model of Depression in Previously Depressed Individuals",
         "journal": "Cognitive Therapy and Research",
-        "url": "https://api.cristin.no/v2/results/1620431"
+        "url": "https://api.cristin.no/v2/results/1620431",
+        "title": "A Prospective Test of the Metacognitive Model of Depression in Previously Depressed Individuals"
       },
       {
         "type": "Poster",
         "year": "2017",
-        "title": "Attentional Bias Modification reduces symptom severity in major depression: Preliminary analysis from an ongoing longitudinal RCT study. ",
-        "url": "https://api.cristin.no/v2/results/1717860"
+        "url": "https://api.cristin.no/v2/results/1717860",
+        "title": "Attentional Bias Modification reduces symptom severity in major depression: Preliminary analysis from an ongoing longitudinal RCT study. "
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Dysfunctional Metacognitive Beliefs Are Associated with Decreased Executive Control",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1473165"
+        "url": "https://api.cristin.no/v2/results/1473165",
+        "title": "Dysfunctional Metacognitive Beliefs Are Associated with Decreased Executive Control"
       },
       {
         "type": "Poster",
         "year": "2016",
-        "title": "Attention bias modification reduces symptom severity in Major Depression. Preliminary analysis from an ongoing longitudinal RCT study",
-        "url": "https://api.cristin.no/v2/results/1385377"
+        "url": "https://api.cristin.no/v2/results/1385377",
+        "title": "Attention bias modification reduces symptom severity in Major Depression. Preliminary analysis from an ongoing longitudinal RCT study"
       }
     ]
+  },
+  "rg": {
+    "id": "Brage-Kraft-2",
+    "name": "Brage Kraft",
+    "img": "https://i1.rgstatic.net/ii/profile.image/340232877690882-1458129247918_Q128/Brage-Kraft-2.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychotherapy"],
+    "works": [],
+    "degree": [null]
   }
 }

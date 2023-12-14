@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-1210-5021",
-    "name": "Ann-Cathrin Coenen",
+    "orcid": ["0000-0003-1210-5021"],
+    "name": ["Ann-Cathrin Coenen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
         "type": "journal-article",
         "year": "2023",
         "title": "How are acculturation orientations associated among majority-group members? The moderating role of ideology and levels of identity",
-        "journal": "International Journal of Intercultural Relations",
-        "url": "https://doi.org/10.1016/j.ijintrel.2023.101857"
+        "url": "https://doi.org/10.1016/j.ijintrel.2023.101857",
+        "journal": "International Journal of Intercultural Relations"
       }
     ],
     "services": [],
@@ -27,8 +27,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ann-Cathrin Coenen",
-    "id": "1329285",
+    "name": ["Ann-Cathrin Coenen"],
+    "id": ["1329285"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -55,5 +55,46 @@
         "url": "https://api.cristin.no/v2/results/1869510"
       }
     ]
+  },
+  "rg": {
+    "id": "Ann-Cathrin-Coenen",
+    "name": "Ann-Cathrin Coenen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1179445247385600-1658213068621_Q128/Ann-Cathrin-Coenen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "How are acculturation orientations associated among majority-group members? The moderating role of ideology and levels of identity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Jonas R. Kunst", "Ann-Cathrin Coenen", "Aleksander Gundersen", "Milan Obaidi"],
+        "abstract": "Research in the emerging field of majority-group acculturation has investigated the predictors that explain why some majority-group members adopt whereas others reject the cultures of minority-group members. The present research investigated an issue that has received comparably little attention. Specifically, with a sample of 2205 majority-group m..."
+      },
+      {
+        "title": "Terrorism and Political Violence ISSN: (Print) ( What Makes a Terrorist? Muslims' and non- Muslims' Lay Perceptions of Risk Factors and Their Consequences for Counter-terrorism Policy Support",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Jonas R. Kunst", "Milan Obaidi", "Ann-Cathrin Coenen", "Paul Gill"],
+        "abstract": "The question of why people become terrorists has preoccupied scholars and policy makers for decades. Yet, very little is known about how lay people perceive individuals at risk of becoming terrorists. In two studies conducted in the U.K., we aimed to fill this gap. Study 1 showed that Muslims and non- Muslims perceived a potential minority-group te..."
+      },
+      {
+        "title": "What makes a terrorist? Muslims’ and non-Muslims’ lay perceptions of risk factors and their consequences for counter-terrorism policy support",
+        "tags": ["Preprint"],
+        "date": "Aug 2021",
+        "authors": ["Jonas R. Kunst", "Milan Obaidi", "Ann-Cathrin Coenen", "Paul Gill"],
+        "abstract": "The question of why people become terrorists has preoccupied scholars and policy makers for decades. Yet, very little is known about how lay people perceive individuals at risk of becoming terrorists. In two studies conducted in the U.K., we aimed to fill this gap. Study 1 showed that Muslims and non-Muslims perceived a potential minority-group ter..."
+      },
+      {
+        "title": "Ethnic diversity and extremist attitudes in soccer teams: A multi-level investigation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Ann-Cathrin Coenen", "Jonas R. Kunst"],
+        "abstract": "It has been argued that sports contexts may be suitable venues for reducing intercultural hostility, including its more extreme forms, yet empirical evidence remains scarce. The present study investigated the main and interactive influence of two sets of factors on support for violent extremism: (a) ethnic diversity of teams, that is, the heterogen..."
+      }
+    ],
+    "degree": [null],
+    "publications": [4],
+    "reads": [472],
+    "citations": [3]
   }
 }

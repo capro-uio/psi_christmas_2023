@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-7574-1784",
-    "name": "Cecilie  Skule",
+    "orcid": ["0000-0001-7574-1784"],
+    "name": ["Cecilie  Skule"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anne Cecilie Skule",
-    "id": "20178",
+    "name": ["Anne Cecilie Skule"],
+    "id": ["20178"],
     "keywords": [],
     "position": ["Associate professor", null],
     "img": {},
@@ -61,5 +61,53 @@
         "url": "https://api.cristin.no/v2/results/1118071"
       }
     ]
+  },
+  "rg": {
+    "id": "Cecilie-Skule-2",
+    "name": "Cecilie Skule",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Diakonhjemmet Hospital Norway, Voksenpsykiatrisk avdeling Vinderen",
+    "keywords": ["Comorbidity"],
+    "works": [
+      {
+        "title": "Is Perceived Control of Depression Related to Therapy Outcome for Depression? A Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Pål Ulleberg", "Torkil Berge", "Hilde Dallavara Lending", "Nils Inge Landrø"],
+        "abstract": "Background\nThe present study followed a group of patients over a two-year period after they had received a cognitive behavioral psychoeducational intervention targeting patients’ ability to cope with depression. The main aims were to examine whether a change in both depressive symptoms and in the perceived control of depression occurred and the rel..."
+      },
+      {
+        "title": "Interventions for Subjects with Depressive Symptoms with or without Unhealthy Alcohol Use: Are There Different Patterns of Change?",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Cecilie Skule", "Pål Ulleberg", "Torkil Berge", "Nils Inge Landrø"],
+        "abstract": "Background: It has been suggested that alcohol problems negatively affect therapeutic interventions for depression. This study examines the patterns of change in depressive symptoms following an intervention for depression, in participants with or without comorbid unhealthy alcohol use.\nMethods: Depressive symptoms (BDI–II), perceived control of de..."
+      },
+      {
+        "title": "Levels of alcohol use and depression severity as predictors of missed therapy sessions in cognitive behavioural psycho-educational group treatment for depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Cecilie Skule", "Torkil Berge", "Espen Moen Eilertsen", "Nils Inge Landrø"],
+        "abstract": "In this study, we investigate levels of depression and levels of alcohol use as predictors of unstable attendance in a therapeutic intervention. A sample of 154 patients scoring a mean of 26 on BDI-II attended a cognitive behavioural psycho-educational group treatment – ‘Coping and relapse prevention of depression’. We investigated the influence of..."
+      },
+      {
+        "title": "Alcohol Use is Not Directly Related to the Perceived Control of Depressive Symptoms in Patients with Depressive Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Cecilie Skule", "Hilde Dallavara Lending", "Pål Ulleberg", "Nils Inge Landrø"],
+        "abstract": "Treatment-seeking patients (N = 233) were recruited as they started a course of relapse prevention and coping with depression. The mean Beck depression inventory (BDI-II) score was 26 points, indicating a moderate degree of depression. The sample was recruited from different outpatient clinics and screened for alcohol-related problems with the alco..."
+      },
+      {
+        "title": "Depressive Symptoms in People with and without Alcohol Abuse: Factor Structure and Measurement Invariance of the Beck Depression Inventory (BDI-II) Across Groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Cecilie Skule", "Pål Ulleberg", "Hilde Dallavara Lending", "Nils Inge Landrø"],
+        "abstract": "This study explored differences in the factor structure of depressive symptoms in patients with and without alcohol abuse, and differences in the severity of depressive symptoms between the two groups. In a sample of 358 patients without alcohol problems and 167 patients with comorbid alcohol problems, confirmatory factor analysis revealed that the..."
+      }
+    ],
+    "degree": [null],
+    "publications": [5],
+    "reads": [772],
+    "citations": [26]
   }
 }

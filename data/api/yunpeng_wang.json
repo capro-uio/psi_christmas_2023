@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Yunpeng Wang",
-    "id": "RZHqNA8AAAAJ",
-    "affiliation": "Associate Professor, University of Oslo",
+    "name": ["Yunpeng Wang"],
+    "id": ["RZHqNA8AAAAJ"],
+    "affiliation": ["Associate Professor, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -1199,8 +1199,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-9344-4070",
-    "name": "Yunpeng  Wang",
+    "orcid": ["0000-0001-9344-4070"],
+    "name": ["Yunpeng  Wang"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1211,8 +1211,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Yunpeng Wang",
-    "id": "323373",
+    "name": ["Yunpeng Wang"],
+    "id": ["323373"],
     "keywords": [],
     "position": ["Associate professor", "Research fellow"],
     "img": {},
@@ -1910,5 +1910,61 @@
         "url": "https://api.cristin.no/v2/results/1368307"
       }
     ]
+  },
+  "rg": {
+    "id": "Yunpeng-Wang-15",
+    "name": "Yunpeng Wang",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of St Andrews, School of Chemistry",
+    "keywords": ["Chromatography", "Natural Product Chemistry", "Natural Product Drug Discovery", "Extraction", "Mass Spectrometry", "PCR", "Proteins", "Enzyme Activity", "Cloning", "Protein Purification"],
+    "works": [
+      {
+        "title": "A marine viral halogenase that iodinates diverse substrates",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Danai-Stella Gkotsi", "Hannes Ludewig", "Sunil V. Sharma", "Rebecca J M Goss"],
+        "abstract": "Oceanic cyanobacteria are the most abundant oxygen-generating phototrophs on our planet and are therefore important to life. These organisms are infected by viruses called cyanophages, which have recently shown to encode metabolic genes that modulate host photosynthesis, phosphorus cycling and nucleotide metabolism. Herein we report the characteriz..."
+      },
+      {
+        "title": "Direct Photosynthetic Production of Plastic Building Block Chemicals from CO2",
+        "tags": ["Chapter"],
+        "date": "Aug 2018",
+        "authors": ["Xinyu Song", "Yunpeng Wang", "Jinjin Diao", "Weiwen Zhang"],
+        "abstract": "Hydroxy acids have attracted attention as building block chemicals due to their roles as precursors for the production of various pharmaceuticals, vitamins, antibiotics, and flavor compounds as well as monomers for biodegradable plastic polyesters. The current approach to hydroxy acid production relies on nonrenewable fossil resources such as petro..."
+      },
+      {
+        "title": "Proteomic and metabolomic analyses reveal metabolic responses to 3-hydroxypropionic acid synthesized internally in cyanobacterium Synechocystis sp. PCC 6803",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Yunpeng Wang", "Lei Chen", "Weiwen Zhang"],
+        "abstract": "Background\n3-hydroxypropionic acid (3-HP) is an important platform chemical with a wide range of applications. In our previous study, the biosynthetic pathway of 3-HP was constructed and optimized in cyanobacterium Synechocystis sp. PCC 6803, which led to 3-HP production directly from CO2 at a level of 837.18 mg L⁻¹ (348.8 mg/g dry cell weight). As..."
+      },
+      {
+        "title": "Biosynthesis of platform chemical 3-hydroxypropionic acid (3-HP) directly from CO2 in cyanobacterium Synechocystis sp. PCC 6803",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Yunpeng Wang", "Tao Sun", "Xingyan Gao", "Weiwen Zhang"],
+        "abstract": "3-hydroxypropionic acid (3-HP) is an important platform chemical with a wide range of applications. So far large-scale production of 3-HP has been mainly through petroleum-based chemical processes, whose sustainability and environmental issues have attracted widespread attention. With the ability to fix CO2 directly, cyanobacteria have been enginee..."
+      },
+      {
+        "title": "Establishment and optimization of a wheat germ cell-free protein synthesis system and its application in venom kallikrein",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Yunpeng Wang", "Wen-Tao Xu", "Xiaohong Kou", "Kunlun Huang"],
+        "abstract": "Wheat germ cell-free protein synthesis systems have the potential to synthesize functional proteins safely and with high accuracy, but the poor energy supply and the instability of mRNA templates reduce the productivity of this system, which restricts its applications. In this report, phosphocreatine and pyruvate were added to the system to supply..."
+      },
+      {
+        "title": "Isolation and characterisation of a kallikrein-like enzyme from Agkistrodon halys pallas snake venom",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Yanan Zhang", "Wen-Tao Xu", "Biao Ma", "Yunbo Luo"],
+        "abstract": "Viper snake venoms contain a great variety of toxic proteins. These components mediate their toxicity by either stimulating or inhibiting the haemostatic system of human victims or experimental animals, resulting in common clinical complications of blood clotting or uncontrolled haemorrhage. Therefore it is deemed important to isolate the active co..."
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [6],
+    "reads": [1132],
+    "citations": [233]
   }
 }

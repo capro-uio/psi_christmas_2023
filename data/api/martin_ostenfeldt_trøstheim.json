@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Martin Trøstheim",
-    "id": "TVzs5bEAAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo. Oslo University Hospital.",
+    "name": ["Martin Trøstheim"],
+    "id": ["TVzs5bEAAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo. Oslo University Hospital."],
     "data": {
       "publications": [
         {
@@ -414,8 +414,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-6021-6714",
-    "name": "Martin Trøstheim",
+    "orcid": ["0000-0002-6021-6714"],
+    "name": ["Martin Trøstheim"],
     "distinctions": [],
     "education": [
       {
@@ -494,8 +494,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Martin Ostenfeldt Trøstheim",
-    "id": "1182068",
+    "name": ["Martin Ostenfeldt Trøstheim"],
+    "id": ["1182068"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -550,5 +550,33 @@
         "url": "https://api.cristin.no/v2/results/1732693"
       }
     ]
+  },
+  "rg": {
+    "id": "Caroline-Ostenfeldt",
+    "name": "Caroline Kamuk Ostenfeldt",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Southern Denmark | SDU, University of Southern Denmark, Department of Mathematics and Computer Science",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Corrigendum to “Development of hypomelanotic macules is associated with constitutive activated mTORC1 in tuberous sclerosis complex” [Mol. Genet. Metab. 120(4) (Apr 2017) 384–391]",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["L.B. Møller", "Bitten Schönewolf-Greulich", "Thomas Rosengren", "Uffe Birk Jensen"],
+        "abstract": []
+      },
+      {
+        "title": "Development of hypomelanotic macules is associated with constitutive activated mTORC1 in tuberous sclerosis complex",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Lisbeth Birk Møller", "Bitten Schönewolf-Greulich", "Thomas Rosengren", "Uffe Birk Jensen"],
+        "abstract": ["TSC1 and TSC2 are genes mutated in the syndrome TSC (tuberous sclerosis complex). We describe a 3-generation family with 17 affected members, all presenting classic TSC features except renal manifestations. The disease segregates with a silent substitution in TSC2, c.4149C > T, p.(Ser1838Ser), which leads to the formation of an active donor splice..."]
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": [],
+    "publications": [2],
+    "reads": [29],
+    "citations": [4]
   }
 }

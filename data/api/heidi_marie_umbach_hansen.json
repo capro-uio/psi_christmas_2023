@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Heidi Marie Umbach Hansen",
-    "id": "TKiNLEQAAAAJ",
-    "affiliation": "Doctoral Research Fellow, University of Oslo",
+    "name": ["Heidi Marie Umbach Hansen"],
+    "id": ["TKiNLEQAAAAJ"],
+    "affiliation": ["Doctoral Research Fellow, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -70,8 +70,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0009-0002-3949-8128",
-    "name": "Heidi Marie Umbach Hansen",
+    "orcid": ["0009-0002-3949-8128"],
+    "name": ["Heidi Marie Umbach Hansen"],
     "distinctions": [],
     "education": [
       {
@@ -96,8 +96,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Heidi Marie Umbach Hansen",
-    "id": "515501",
+    "name": ["Heidi Marie Umbach Hansen"],
+    "id": ["515501"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -130,5 +130,47 @@
         "url": "https://api.cristin.no/v2/results/1850422"
       }
     ]
+  },
+  "rg": {
+    "id": "Heidi-Marie-Umbach-Hansen-2",
+    "name": "Heidi Marie Umbach Hansen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/959816679817217-1605849537044_Q128/Heidi-Marie-Umbach-Hansen-2.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Presynaptic increase in IP3 receptor type 1 concentration in the early phase of hippocampal synaptic plasticity",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["Håvard Ringsevjen", "Heidi Marie Umbach Hansen", "Suleman Hussain", "Svend Davanger"],
+        "abstract": "The inositol 1,4,5-trisphosphate receptor (IP3R) subtype IP3R1 is highly enriched in the brain, including hippocampal neurons. It plays an important function in regulating intracellular calcium concentrations. Residing on the smooth endoplasmic reticulum (sER), the IP3R1 mobilizes calcium into the cytosol upon binding the intracellular signaling mo..."
+      },
+      {
+        "title": "Differences Between Flash Glucose Monitor and Fingerprick Measurements",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Odd Martin Staal", "Heidi Marie Umbach Hansen", "Sverre  Christian Christiansen", "Øyvind Stavdahl"],
+        "abstract": "Freestyle Libre (FL) is a factory calibrated Flash Glucose Monitor (FGM). We investigated Mean Absolute Relative Difference (MARD) between Self Monitoring of Blood Glucose (SMBG) and FL measurements in the first day of sensor wear in 39 subjects with Type 1 diabetes. The overall MARD was 12.3%, while the individual MARDs ranged from 4% to 25%. Five..."
+      },
+      {
+        "title": "Characterisation of the errors between SMBG and a Flash Glucose Monitor in the first day of use",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Odd Martin Staal", "Sverre C. Christiansen", "Heidi Marie Umbach Hansen", "Øyvind Stavdahl"],
+        "abstract": "Comparison of Flash Glucose Monitor (FGM) measurements to frequent Self Monitor Blood Glucose measurements (SMBG) in the first day of use. Investigation of bias and lag."
+      },
+      {
+        "title": "A nonmusician with severe Alzheimer's Dementia learns a new song",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["Amee Baird", "Heidi Marie Umbach Hansen", "Bill Thompson"],
+        "abstract": "The hallmark symptom of Alzheimer’s Dementia (AD) is impaired memory, but memory for familiar music can be preserved. We explored whether a non-musician with severe AD could learn a new song. A 91 year old woman (NC) with severe AD was taught anun familiar song. We assessed her delayed song recall (24 hours and 2 weeks), music cognition, and also d..."
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": "Behavioral genetics of musical abilities, mental health and well-being",
+    "publications": [4],
+    "reads": [1238],
+    "citations": [62]
   }
 }

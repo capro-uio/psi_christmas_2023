@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-2899-9760",
-    "name": "Kari Evelin Arellano Lorentzen",
+    "orcid": ["0000-0003-2899-9760"],
+    "name": ["Kari Evelin Arellano Lorentzen"],
     "distinctions": [],
     "education": [
       {
@@ -13,66 +13,66 @@
       },
       {
         "start": "2023",
-        "end": "2027",
         "position": "PhD candidate",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2027"
       },
       {
         "start": "2015",
-        "end": "2018",
         "position": "Specialist in clinical adult psychology",
         "organisation": "Psychologist Kari Lorentzen, Private Practice",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2013",
-        "end": "2015",
         "position": "Psychologist/ specialist clinical adult psychology",
         "organisation": "Akershus University Hospital",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       },
       {
         "start": "2008",
-        "end": "2013",
         "position": "Director of youth home/ psychologist/ professional responsable/ professional controller",
         "organisation": "Aleris/ Interactive Child Welfare",
-        "country": "NO"
+        "country": "NO",
+        "end": "2013"
       },
       {
         "start": "2005",
-        "end": "2008",
         "position": "Psychologist",
         "organisation": "Akershus University Hospital ",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       },
       {
         "start": "2004",
-        "end": "2005",
         "position": "Psychologist",
         "organisation": "The Church City Mission",
-        "country": "NO"
+        "country": "NO",
+        "end": "2005"
       },
       {
         "start": "2004",
-        "end": "2004",
         "position": "Research assistant",
         "organisation": "CODEPU Human rights organization",
-        "country": "CL"
+        "country": "CL",
+        "end": "2004"
       },
       {
         "start": "2002",
-        "end": "2002",
         "position": "Licensed psychologist",
         "organisation": "King Edward VIII Hospital",
-        "country": "ZA"
+        "country": "ZA",
+        "end": "2002"
       },
       {
         "start": "1997",
-        "end": "1997",
         "position": "Milieu therapist",
         "organisation": "Accra Psychiatric Hospital",
-        "country": "GH"
+        "country": "GH",
+        "end": "1997"
       }
     ],
     "employment": [
@@ -84,66 +84,66 @@
       },
       {
         "start": "2023",
-        "end": "2027",
         "position": "PhD candidate",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2027"
       },
       {
         "start": "2015",
-        "end": "2018",
         "position": "Specialist in clinical adult psychology",
         "organisation": "Psychologist Kari Lorentzen, Private Practice",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2013",
-        "end": "2015",
         "position": "Psychologist/ specialist clinical adult psychology",
         "organisation": "Akershus University Hospital",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       },
       {
         "start": "2008",
-        "end": "2013",
         "position": "Director of youth home/ psychologist/ professional responsable/ professional controller",
         "organisation": "Aleris/ Interactive Child Welfare",
-        "country": "NO"
+        "country": "NO",
+        "end": "2013"
       },
       {
         "start": "2005",
-        "end": "2008",
         "position": "Psychologist",
         "organisation": "Akershus University Hospital ",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       },
       {
         "start": "2004",
-        "end": "2005",
         "position": "Psychologist",
         "organisation": "The Church City Mission",
-        "country": "NO"
+        "country": "NO",
+        "end": "2005"
       },
       {
         "start": "2004",
-        "end": "2004",
         "position": "Research assistant",
         "organisation": "CODEPU Human rights organization",
-        "country": "CL"
+        "country": "CL",
+        "end": "2004"
       },
       {
         "start": "2002",
-        "end": "2002",
         "position": "Licensed psychologist",
         "organisation": "King Edward VIII Hospital",
-        "country": "ZA"
+        "country": "ZA",
+        "end": "2002"
       },
       {
         "start": "1997",
-        "end": "1997",
         "position": "Milieu therapist",
         "organisation": "Accra Psychiatric Hospital",
-        "country": "GH"
+        "country": "GH",
+        "end": "1997"
       }
     ],
     "membership": [
@@ -159,15 +159,15 @@
       },
       {
         "start": "2011",
-        "membership": "IAYT certified yogatherapist",
         "organisation": "IAYT International associaltion of yogatherapists",
-        "country": "US"
+        "country": "US",
+        "membership": "IAYT certified yogatherapist"
       },
       {
         "start": "2003",
-        "membership": "Psychologist",
         "organisation": "The Norwegian Psychological Association",
-        "country": "NO"
+        "country": "NO",
+        "membership": "Psychologist"
       }
     ],
     "works": {},
@@ -212,8 +212,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Kari Evelin Arellano Lorentzen",
-    "id": "1322648",
+    "name": ["Kari Evelin Arellano Lorentzen"],
+    "id": ["1322648"],
     "keywords": ["Cultural psychology", "Clinical psychology", "Existential psychology"],
     "position": ["Research fellow", null],
     "img": {},
@@ -232,8 +232,8 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2023",
-        "journal": "Tidsskrift for psykisk helsearbeid",
-        "url": "https://api.cristin.no/v2/results/2142488"
+        "url": "https://api.cristin.no/v2/results/2142488",
+        "journal": "Tidsskrift for psykisk helsearbeid"
       },
       {
         "type": "Lecture",
@@ -244,8 +244,8 @@
         "type": "Article in business/trade/industry journal",
         "year": "2022",
         "title": "How we do it in Norway: A golden middle way for quality development of in-patient services as applied to acute adolescent psychiatry",
-        "journal": "BJPsych International",
-        "url": "https://api.cristin.no/v2/results/2025255"
+        "url": "https://api.cristin.no/v2/results/2025255",
+        "journal": "BJPsych International"
       },
       {
         "type": "Lecture",
@@ -261,8 +261,8 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2021",
-        "journal": "Tidsskrift for psykisk helsearbeid",
-        "url": "https://api.cristin.no/v2/results/2142489"
+        "url": "https://api.cristin.no/v2/results/2142489",
+        "journal": "Tidsskrift for psykisk helsearbeid"
       },
       {
         "type": "Lecture",
@@ -283,8 +283,8 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2018",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2143763"
+        "url": "https://api.cristin.no/v2/results/2143763",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Lecture",
@@ -295,9 +295,19 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2014",
-        "journal": "PsykOpp Nytt",
-        "url": "https://api.cristin.no/v2/results/2144107"
+        "url": "https://api.cristin.no/v2/results/2144107",
+        "journal": "PsykOpp Nytt"
       }
     ]
+  },
+  "rg": {
+    "id": "Kari_Arellano",
+    "name": "Kari Arellano",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "St Louis College of Pharmacy, Department of Pharmacy Practice",
+    "keywords": ["Clinical Pharmacy"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

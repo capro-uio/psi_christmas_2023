@@ -2,11 +2,32 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Pia Aursand",
-    "id": "1318591",
+    "name": ["Pia Aursand"],
+    "id": ["1318591"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Nazmun-Akter-Pia",
+    "name": "Nazmun Akter Pia",
+    "img": "https://i1.rgstatic.net/ii/profile.image/737257778606080-1552787360959_Q128/Nazmun-Akter-Pia.jpg",
+    "affiliation": "University of Texas at Arlington | UTA, University of Texas at Arlington, School of Urban and Public Affairs",
+    "keywords": ["Urban Planning", "Urban Sustainability", "City Planning", "Architecture", "Housing"],
+    "works": [
+      {
+        "title": "Rethinking Residential Neighborhood in Dhaka, Bangladesh: Jane Jacobs’s Urban Design Principles for Improving Livability",
+        "tags": ["Chapter"],
+        "date": "Jun 2022",
+        "authors": ["Nazmun Akter Pia"],
+        "abstract": "Dhaka, the capital of Bangladesh, is a dysfunctional city partly due to political crisis but, more importantly, because of poor planning decisions and lack of vision for community design. It is also one of the least livable cities in the world, however, a vibrant network of self-sufficient neighborhoods can gradually improve the city’s condition. C..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [28],
+    "citations": [0]
   }
 }

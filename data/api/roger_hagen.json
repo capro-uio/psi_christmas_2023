@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Roger Hagen",
-    "id": "ws6M9HAAAAAJ",
-    "affiliation": "Professor i psykologi NTNU",
+    "name": ["Roger Hagen"],
+    "id": ["ws6M9HAAAAAJ"],
+    "affiliation": ["Professor i psykologi NTNU"],
     "data": {
       "publications": [
         {
@@ -903,8 +903,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1824-6271",
-    "name": "Roger Hagen",
+    "orcid": ["0000-0003-1824-6271"],
+    "name": ["Roger Hagen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -920,8 +920,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Roger Hagen",
-    "id": "39609",
+    "name": ["Roger Hagen"],
+    "id": ["39609"],
     "keywords": [],
     "position": ["Professor", null, "Professor", null],
     "img": {},
@@ -1532,5 +1532,628 @@
         "url": "https://api.cristin.no/v2/results/1257365"
       }
     ]
+  },
+  "rg": {
+    "id": "Roger-Hagen",
+    "name": "Roger Hagen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/864623536373760-1583153723217_Q128/Roger-Hagen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychopathology", "Psychological Assessment", "Psychotherapeutic Processes", "Counseling", "Mental Illness", "Treatment", "Clinical Assessment", "Psychoeducation", "Personality Assessment", "Behavioral Psychology"],
+    "works": [
+      {
+        "title": "Patient motivation and adherence in metacognitive therapy for major depressive disorder: an observational study",
+        "tags": ["Article"],
+        "date": "Dec 2023",
+        "authors": ["Espen R. Lassen", "Susanne Aabel Lia", "Ingrid Hjertaas", "Stian Solem"],
+        "abstract": ["The aim of this observational study was to examine the predic-tive and discriminant validity of patient motivation and adher-ence in metacognitive therapy (MCT) for depression. Motivational development for recovered- and non-recovered patients was also investigated. Motivation in sessions 1, 4, and 7 was measured using the Motivational Interviewing..."]
+      },
+      {
+        "title": "Editorial: Progress in Understanding and Treating Distress, Sleep, and Personality in Heart and Lung Disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["John Munkhaugen", "Costas Papageorgiou", "Roger Hagen", "Toril Dammen"],
+        "abstract": []
+      },
+      {
+        "title": "Correction: An empirical investigation of the associations between metacognition, mindfulness experiential avoidance, depression, and anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Torstein Ådnøy", "Stian Solem", "Roger Hagen", "Audun Havnen"],
+        "abstract": []
+      },
+      {
+        "title": "An empirical investigation of the associations between metacognition, mindfulness experiential avoidance, depression, and anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Torstein Ådnøy", "Stian Solem", "Roger Hagen", "Audun Havnen"],
+        "abstract": ["Background\nThe aims of this study were to explore the possible relation between metacognition, mindfulness, and experiential avoidance, as well as their association with symptoms of anxiety and depression.\n\nMethods\nCross-sectional data was collected from a community sample (N = 364) who completed the Metacognitions Questionnaire-30 (MCQ-30), the Fi..."]
+      },
+      {
+        "title": "Effectiveness of 'motivational interviewing' on sick leave: a randomized controlled trial in a social insurance setting",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Lene Aasdahl", "Martin Inge Standal", "Roger Hagen", "Margreth Grotle"],
+        "abstract": ["Objective: \nThis study aimed to evaluate the effectiveness of motivational interviewing (MI) - a counselling approach offered by caseworkers at the Norwegian Labor and Welfare Administration (NAV) - on return to work (RTW) for individuals sick-listed for ≥8 weeks due to any diagnoses. MI was compared to usual case management and an active control d..."]
+      },
+      {
+        "title": "Measuring Resilience in Long-term Sick-listed Individuals: Validation of the Resilience Scale for Adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Martin Inge Standal", "Odin Hjemdal", "Vegard Stolsmo Foldal", "Frederick Anyan"],
+        "abstract": ["Return to work from long-term sick leave is influenced by personal and social factors, which can be measured by resilience, a construct that describe healthy adaptation against adversity. This study aimed to validate the validity and psychometric properties of the resilience scale for adults in a sample of long-term sick-listed individuals, and to..."]
+      },
+      {
+        "title": "Nicotine use and non-pathological alcohol use and their relationship to affective symptoms and sleep disturbances in bipolar disorder",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Stine Holmstul Glastad", "Sofie R Aminoff", "Roger Hagen", "Trine Vik Lagerberg"],
+        "abstract": ["Background: \nThe use of alcohol and nicotine can negatively impact the course of bipolar disorder (BD), but there is limited knowledge about how symptoms and sleep disturbances is related to concurrent nicotine use and non-pathological use of alcohol.\n\nMethods: \nWe investigated how nicotine use and non-pathological use of alcohol relates to affecti..."]
+      },
+      {
+        "title": "Effectiveness of adding motivational interviewing or a stratified vocational advice intervention to usual case management on return to work for people with musculoskeletal disorders: the MI-NAV randomised controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Fiona Aanesen", "Margreth Grotle", "Tarjei Rysstad", "Britt Elin Øiestad"],
+        "abstract": ["Objectives: \nTo evaluate if adding motivational interviewing (MI) or a stratified vocational advice intervention (SVAI) to usual case management (UC), reduced sickness absence over 6 months for workers on sick leave due to musculoskeletal disorders.\n\nMethods: \nWe conducted a three-arm parallel pragmatic randomised controlled trial including 514 emp..."]
+      },
+      {
+        "title": "Folkeopplysningens konklusjon er misvisende",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ole André Solbakken", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Hanne Strømme"],
+        "abstract": ["Folkeopplysningens siste episode presenterte en rekke problematiske påstander om effekten av psykoterapi. Heldigvis er påstandene allerede blitt imøtegått av en rekke fagpersoner, forfatterne av denne kommentaren inkludert, på flere arenaer i ettertid. Med dette innlegget ønsker vi å redegjøre mer detaljert for hvorfor konklusjonen fra Folkeopplysn..."]
+      },
+      {
+        "title": "Depression, Anxiety, Insomnia, and Quality of Life in a Representative Community Sample of Older Adults Living at Home",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Leif Edward Ottesen Kennair", "Roger Hagen", "Odin Hjemdal", "Stian Solem"],
+        "abstract": ["Background\nThe aim of the study was to explore symptoms of anxiety and depression, insomnia, and quality of life in a Norwegian community sample of older adults.\n\nMethods\nA representative sample ( N = 1069) was drawn from home-dwelling people of 60 years and above, living in a large municipality in Norway (Trondheim).\n\nResults\nBased on established..."]
+      },
+      {
+        "title": "Metacognitions and brooding predict depressive symptoms in a community adolescent sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Helene Pedersen", "Ingrid Grønnæss", "Mons Bendixen", "Leif Edward Ottesen Kennair"],
+        "abstract": ["Depressive symptoms are prevalent in adolescence, and girls have higher levels of depressive symptoms and depressive disorder than boys. Rumination and especially brooding, seem to be a central maintaining factor of depressive symptoms, where metacognitions about rumination play a prominent role in maintaining depressive rumination. There is a sex..."]
+      },
+      {
+        "title": "Barriers and Facilitators for Implementing Motivational Interviewing as a Return to Work Intervention in a Norwegian Social Insurance Setting: A Mixed Methods Process Evaluation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Vegard Stolsmo Foldal", "Marit Solbjør", "Martin Inge Standal", "Lene Aasdahl"],
+        "abstract": ["Purpose The aim of this study was to evaluate potential barriers and facilitators for implementing motivational interviewing (MI) as a return to work (RTW) intervention in a Norwegian social insurance setting. Methods A mixed-methods process evaluation was conducted alongside a randomized controlled trial involving MI sessions delivered by social i..."]
+      },
+      {
+        "title": "Fidelity of a Motivational Interviewing Intervention for Improving Return to Work for People with Musculoskeletal Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Ida Løchting", "Roger Hagen", "Christine K. Monsen", "Gunnhild Bagøien"],
+        "abstract": ["The objective of this study was to conduct a fidelity evaluation of a motivational interviewing (MI) intervention delivered by social insurance caseworkers, in a three-arm randomized controlled trial (RCT) for improving return to work for people on sick leave with musculoskeletal disorders. The caseworkers received six days of MI training, includin..."]
+      },
+      {
+        "title": "Metacognitive therapy versus cognitive–behavioral therapy in adults with generalized anxiety disorder: A 9‐year follow‐up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Stian Solem", "Adrian Wells", "Leif Edward Ottesen Kennair", "Odin Hjemdal"],
+        "abstract": ["Objective\nMetacognitive therapy (MCT) and cognitive–behavior therapy (CBT) are effective treatments for generalized anxiety disorder. In this study, we followed-up patients who had previously participated in a randomized controlled trial of MCT compared against CBT.\n\nMethod\nWe collected 9-year follow-up data on 39 out of 60 original patients (i.e.,..."]
+      },
+      {
+        "title": "Subgroups of Long-Term Sick-Listed Based on Prognostic Return to Work Factors Across Diagnoses: A Cross-Sectional Latent Class Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Martin Inge Standal", "Lene Aasdahl", "Chris Jensen", "Ingebrigt Meisingset"],
+        "abstract": ["Comorbidity is common among long-term sick-listed and many prognostic factors for return to work (RTW) are shared across diagnoses. RTW interventions have small effects, possibly due to being averaged across heterogeneous samples. Identifying subgroups based on prognostic RTW factors independent of diagnoses might help stratify interventions. The a..."]
+      },
+      {
+        "title": "Validity of a Norwegian version of the Desire Thinking Questionnaire (DTQ): Associations with problem drinking, nicotine dependence, and problematic social media use",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Stian Solem", "Henrik Pedersen", "Frikk Nesse", "Marcantonio M Spada"],
+        "abstract": ["The aim of the current study was to test the validity of the Norwegian version of the Desire Thinking Questionnaire (DTQ). Three cross-sectional surveys were conducted investigating the psychometric properties of the DTQ in alcohol use (N = 588), nicotine use (N = 446) and social media use (N = 359). Principal components and confirmatory factor ana..."]
+      },
+      {
+        "title": "Workplace flexibility important for part-time sick leave selection—an exploratory cross-sectional study of long-term sick listed in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Martin Inge Standal", "Odin Hjemdal", "Lene Aasdahl", "Roger Hagen"],
+        "abstract": ["Background\nPart-time sick leave (PTSL) where sick-listed individuals work a percentage corresponding to their remaining work capabilities is often used to promote return to work. The effects of PTSL are uncertain due to participant selection on personal and social factors, which are not easily captured by evaluations that primarily rely on register..."]
+      },
+      {
+        "title": "Health, Work, and Family Strain - Psychosocial Experiences at the Early Stages of Long-Term Sickness Absence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Martin Inge Standal", "Vegard Stolsmo Foldal", "Roger Hagen", "Marit Solbjør"],
+        "abstract": ["Background\nKnowledge about the psychosocial experiences of sick-listed workers in the first months of sick leave is sparse even though early interventions are recommended. The aim of this study was to explore psychosocial experiences of being on sick leave and thoughts about returning to work after 8–12 weeks of sickness absence.Methods\nSixteen ind..."]
+      },
+      {
+        "title": "Change in personality traits and facets (NEO‐PI‐R) following metacognitive therapy or cognitive behavior therapy for generalized anxiety disorder: Results from a randomized controlled trial",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Leif Edward Ottesen Kennair", "Stian Solem", "Roger Hagen", "Odin Hjemdal"],
+        "abstract": ["Objective\nWe aimed to discover whether psychological treatment for Generalized Anxiety Disorder (GAD) was associated with changes in the big five personality traits and their facets.\n\nMethod\nPatients with GAD were randomized either to receive cognitive behaviour therapy (CBT, n = 28) or metacognitive therapy (MCT, n = 32). Before and after 12 sessi..."]
+      },
+      {
+        "title": "Protective and Vulnerability Factors in Self-Esteem: The Role of Metacognitions, Brooding, and Resilience",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Roger Hagen", "Audun Havnen", "Odin Hjemdal", "Stian Solem"],
+        "abstract": ["The aim of the current study was to explore protective (resilience) and vulnerability factors (dysfunctional metacognitions and brooding) for self-esteem. A total of 725 participants were included in a cross-sectional study. A path analysis revealed five paths to self-esteem. The three main paths were as follows: (1) symptoms −> metacognitions −> b..."]
+      },
+      {
+        "title": "PTSD relapse in Veterans of Iraq and Afghanistan: A systematic review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Erik Eng Berge", "Roger Hagen", "Joar Øveraas Halvorsen"],
+        "abstract": ["This systematic review examines studies published between 2003, the initial invasion of Iraq, and 2018 related to the long-term treatment outcomes for Veterans of Iraq and Afghanistan suffering from combat-related posttraumatic stress disorder (PTSD). More specifically this review attempts to estimate the rate at which Veterans experience the retur..."]
+      },
+      {
+        "title": "Positive and negative metacognitions about alcohol: Validity of the Norwegian PAMS and NAMS",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Arne Garvik Janssen", "Leif Edward Ottesen Kennair", "Roger Hagen", "Stian Solem"],
+        "abstract": ["A growing body of research has demonstrated that metacognitions are associated with alcohol use and other addictive behaviours. In the present study (N = 588), we investigated the validity of the Positive Alcohol Metacognitions Scale (PAMS) and the Negative Alcohol Metacognitions Scale (NAMS). The results supported two-factor solutions for both the..."]
+      },
+      {
+        "title": "Sick-listed workers’ experiences with motivational interviewing in the return to work process: a qualitative interview study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Vegard Stolsmo Foldal", "Martin Inge Standal", "Lene Aasdahl", "Marit Solbjør"],
+        "abstract": ["Background: \nWhen returning to work after being on long-term sick leave, individuals may experience varying levels of motivation and self-efficacy. Motivational interviewing (MI) is a counseling style that aims to increase motivation towards change, and it may be useful in the return to work (RTW) process. The aim of this study was to explore sick-..."]
+      },
+      {
+        "title": "Metacognitive Therapy for Depression: A 3-Year Follow-Up Study Assessing Recovery, Relapse, Work Force Participation, and Quality of Life",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Stian Solem", "Leif Edward Ottesen Kennair", "Roger Hagen", "Odin Hjemdal"],
+        "abstract": ["A major challenge in the treatment of depression has been high relapse rates following treatment. The current study reports results from a 3-year follow-up of patients treated with metacognitive therapy (MCT). Thirty-four of the 39 patients enrolled in the original study attended assessment (participation rate of 87%). There were large reductions i..."]
+      },
+      {
+        "title": "A Randomized Controlled Trial of Metacognitive Therapy for Depression: Analysis of 1-Year Follow-Up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Odin Hjemdal", "Stian Solem", "Roger Hagen", "Adrian Wells"],
+        "abstract": ["This paper reports the 1-year follow-up results from a randomized controlled trial (RCT), which examined the efficacy of metacognitive therapy (MCT) for unipolar depression compared to a waiting condition. Thirty-nine patients with major depression were offered MCT and were divided into two conditions; immediate MCT with 10 weekly sessions or a wai..."]
+      },
+      {
+        "title": "What Lies Beneath Trait-Anxiety? Testing the Self-Regulatory Executive Function Model of Vulnerability",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Henrik Nordahl", "Odin Hjemdal", "Roger Hagen", "Adrian Wells"],
+        "abstract": ["Vulnerability to psychological disorder can be assessed with constructs such as trait anxiety and neuroticism which among others are transdiagnostic risk factors. However, trait-anxiety and related concepts have been criticised because they don't illuminate the etiological mechanisms of psychopathology. In contrast, the metacognitive (S-REF) model..."]
+      },
+      {
+        "title": "Kognitiv atferdsbehandling av generalisert angstlidelse og depresjon hos eldre",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Stian Solem", "Roger Hagen", "Leif Edward Ottesen Kennair", "Odin Hjemdal"],
+        "abstract": ["Cognitive behaviour therapy for older adults with generalised anxiety disorder and depression – Should new interventions be tested?\nResearch on treatment of generalised anxiety disorder and depression among older adults (60+) has some challenges. Treatment guidelines recommend pharmacological treatment and cognitive behaviour therapy (CBT), but the..."]
+      },
+      {
+        "title": "Metacognitive therapy versus cognitive–behavioural therapy in adults with generalised anxiety disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Hans M Nordahl", "Thomas D Borkovec", "Roger Hagen", "Adrian Wells"],
+        "abstract": ["Background\nCognitive–behavioural therapy (CBT) is the treatment of choice for generalised anxiety disorder (GAD), yielding significant improvements in approximately 50% of patients. There is significant room for improvement in the outcomes of treatment, especially in recovery.\n\nAims\nWe aimed to compare metacognitive therapy (MCT) with the gold stan..."]
+      },
+      {
+        "title": "Metacognitive Therapy for Depression Reduces Interpersonal Problems: Results From a Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Eivind Rauø Strand", "Roger Hagen", "Odin Hjemdal", "Stian Solem"],
+        "abstract": ["Interpersonal problems are significantly elevated in patients with depression. Metacognitive therapy (MCT) for depression does not address interpersonal problems but is associated with large reduction in depressive symptoms. The main aim of the current study was to explore whether MCT leads to improvements in interpersonal problems in patients with..."]
+      },
+      {
+        "title": "Population-Based Associations Among Cannabis Use, Anxiety, and Depression in Norwegian Adolescents",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Charlotte Kaasbøll", "Roger Hagen", "Rolf Wilhelm Gråwe"],
+        "abstract": ["Objective: The aim of the study was to explore the use of cannabis among Norwegian adolescents and examine associations with self-reported symptoms of anxiety and depression, age, and dose/frequency of use. Methods: A total of 36,714 Norwegian adolescents between the ages of 13 and 17 completed a cross-sectional national survey. Results: Cannabis u..."]
+      },
+      {
+        "title": "Motivational interviewing in long-term sickness absence: Study protocol of a randomized controlled trial followed by qualitative and economic studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Lene Aasdahl", "Vegard Stolsmo Foldal", "Martin Inge Standal", "Egil A Fors"],
+        "abstract": ["Background: \nMotivational interviewing (MI), mainly used and shown effective in health care (substance abuse, smoking cessation, increasing exercise and other life style changes), is a collaborative conversation (style) about change that could be useful for individuals having problems related to return to work (RTW). The aim of this paper is to des..."]
+      },
+      {
+        "title": "T3. METACOGNITIVE BELIEFS IN SEVERE MENTAL DISORDERS",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Tiril Østefjells", "Ingrid Melle", "Sofie R Aminoff", "Jan Ivar Rossberg"],
+        "abstract": ["Background\nAffective dysregulation and psychotic experiences or symptoms often co-occur in the general population as well as in bipolar and psychotic disorders, suggesting a complex interplay. Early trauma is hypothesised to be important for the aetiology of both, and individuals with early traumatic experiences often develop disorders characterise..."]
+      },
+      {
+        "title": "The role of metacognition and obsessive-compulsive symptoms in psychosis: An analogue study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Kristen Hagen", "Stian Solem", "Håvard Berg Opstad", "Roger Hagen"],
+        "abstract": ["Background\nSeveral studies have indicated that obsessive-compulsive disorder (OCD) is a common comorbidity in patients with psychotic disorders, but there is sparse knowledge about the relationship between symptoms of OCD and psychotic symptoms. Metacognitions which guides thinking and coping is theorized to be a transdiagnostic component central f..."]
+      },
+      {
+        "title": "Worry and Metacognitions as Predictors of Anxiety Symptoms: A Prospective Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Truls Ryum", "Leif Edward Ottesen Kennair", "Odin Hjemdal", "Stian Solem"],
+        "abstract": ["Both worry and metacognitive beliefs have been found to be related to the development\nof anxiety, but metacognitive theory (Wells and Matthews, 1994; Wells, 2009) suggest\nthat metacognitive beliefs may play a more prominent role. The aim of the present\nprospective study was to examine whether worry, metacognitive beliefs or the interaction\nbetween..."]
+      },
+      {
+        "title": "Metacognitive beliefs mediate the effect of emotional abuse on depressive and psychotic symptoms in severe mental disorders",
+        "tags": ["Article"],
+        "date": "Apr 2017",
+        "authors": ["Tiril Østefjells", "June Ullevoldsæter Lystad", "Akiah Ottesen", "Jan Ivar Rossberg"],
+        "abstract": ["Background\nEarly trauma is linked to higher symptom levels in bipolar and psychotic disorders, but the translating mechanisms are not well understood. This study examines whether the relationship between early emotional abuse and depressive symptoms is mediated by metacognitive beliefs about thoughts being uncontrollable/dangerous, and whether this..."]
+      },
+      {
+        "title": "Metacognitive Therapy for Depression in Adults: A Waiting List Randomized Controlled Trial with Six Months Follow-Up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Roger Hagen", "Odin Hjemdal", "Stian Solem", "Adrian Wells"],
+        "abstract": ["This randomized controlled trial examines the efficacy of metacognitive therapy (MCT) for depression. Thirty-nine patients with depression were randomly assigned to immediate MCT (10 sessions) or a 10-week wait list period (WL). The WL-group received 10 sessions of MCT after the waiting period. Two participants dropped out from WL and none dropped..."]
+      },
+      {
+        "title": "Metakognisjoner og symptomer på kroppsdysmorfisk lidelse [english: Metacognitions and body dysmorphic disorder symptoms]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["stine reiersen", "Stian Solem", "Roger Hagen", "Peter L Fisher"],
+        "abstract": ["It is important to investigate whether metacognition is related to body dysmorphic disorder (BDD) as this has been found in related disorders such as obsessive-compulsive disorder. Our study tested whether metacognition along with unhelpful coping behaviors and avoidance explained significant variance in BDD symptoms after controlling for age, gend..."]
+      },
+      {
+        "title": "An exploration of metacognitive beliefs and thought control strategies in bipolar disorder",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Tiril Østefjells", "Ingrid Melle", "Sofie R Aminoff", "Jan Ivar Rossberg"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitive Therapy in Major Depression: An Open Trial of Comorbid Cases",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Odin Hjemdal", "Roger Hagen", "Stian Solem", "Adrian Wells"],
+        "abstract": ["This open trial investigated the effects of metacognitive therapy (MCT) in patients with severe major depressive disorder and comorbid psychiatric disorder. Ten patients were treated with MCT over 10 sessions and were assessed with measures of depression, anxiety, rumination, and metacognitions at pre- and posttreatment and at 6 months follow-up. N..."]
+      },
+      {
+        "title": "The metacognitive model of depression: An empirical test in a large Norwegian sample",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Stian Solem", "Roger Hagen", "Jonas J. Hoksnes", "Odin Hjemdal"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitive Therapy Applications in Social Phobia: An Exploratory Study of the Individual and Combined Effects of the Attention Training Technique and Situational Attentional Refocusing",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Patrick A. Vogel", "Roger Hagen", "Odin Hjemdal", "Adrian Wells"],
+        "abstract": ["Individuals with Social Anxiety Disorder have difficulty disengaging from self-processing in social situations. Metacognitive therapy interventions for enhancing attentional control were administered to a convenience sample of 24 with a Social Anxiety Disorder diagnosis. Using a cross-over design, 11 participants were given four weekly sessions of..."]
+      },
+      {
+        "title": "The University of Rhode Island Change Assessment as Predictor of Treatment Outcome and Dropout in Outpatients with Obsessive-Compulsive Disorder Treated with Exposure and Response Prevention",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Stian Solem", "Åsta S Husby", "Åshild Tellefsen Håland", "Roger Hagen"],
+        "abstract": ["Received: August 16, 2015\nAccepted: September 28, 2015\nPublished online: January 26, 2016\nIssue release date: February 2016"]
+      },
+      {
+        "title": "Psykiske lidelser",
+        "tags": ["Book"],
+        "date": "Jan 2016",
+        "authors": ["Roger Hagen", "Leif Edward Ottesen Kennair"],
+        "abstract": []
+      },
+      {
+        "title": "Unhelpful metacognitive beliefs in early psychosis are associated with affective symptoms and childhood social adjustment",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Tiril Østefjells", "Ingrid Melle", "Roger Hagen", "Jan Ivar Rossberg"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitions and Mindful Attention Awareness in Depression: A Comparison Of Currently Depressed, Previously Depressed and Never Depressed Individuals",
+        "tags": ["Article"],
+        "date": "Oct 2015",
+        "authors": ["Stian Solem", "Roger Hagen", "Catharina Elisabeth Arfwedson Wang", "Marianne Berg Halvorsen"],
+        "abstract": ["The primary aim of the study was to test (1) how metacognition relates to the concept of mindful attention awareness, and (2) whether metacognitions or mindful attention awareness best predicted symptoms of depression. Data was collected from three samples: currently depressed (n = 37), previously depressed (n = 81) and never depressed controls (n..."]
+      },
+      {
+        "title": "Emotional distress and sense of coherence in women completing a motivational program in five countries. A prospective study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Torunn Højdahl", "Jeanette H Magnus", "Ibrahimu Mdala", "Eva Langeland"],
+        "abstract": ["Purpose\n– The purpose of this paper is to investigate changes in, and associations between, sense of coherence (SOC) and emotional distress in women who participated in an accredited motivational program (VINN) in correctional institutions in five countries.\n\nDesign/methodology/approach\n– A prospective study with a pre- and post-test design include..."]
+      },
+      {
+        "title": "A Metacognitive Perspective on Mindfulness: An Empirical Investigation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Stian Solem", "Susanne Lund-Høie", "Odin Hjemdal", "Adrian Wells"],
+        "abstract": ["The primary aim of this study was to explore how metacognition, as implicated in Wells and Matthews' metacognitive theory of emotional disorder, might relate to the concept of mindfulness, and whether metacognition or mindfulness best predicted symptoms of emotional disorder.\nData was collected from 224 community controls on the Five Facet Mindfuln..."]
+      },
+      {
+        "title": "Schizophrenia and Metacognition: An Investigation of Course of Illness and Metacognitive Beliefs Within a First Episode Psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2015",
+        "authors": ["Stephen F Austin", "Ole Mors", "Merete Nordentoft", "Adrian Wells"],
+        "abstract": ["The Self Regulatory Executive Function (S-REF) model implicates maladaptive metacognitive beliefs and processes in the predisposition and/or maintenance of positive psychotic symptoms. In the model, metacognitive beliefs guide cognitive and behavioural responses to cognitive experiences. This study tested for relationships between course of illness..."]
+      },
+      {
+        "title": "Personlighetspsykologi",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Leif Edward Ottesen Kennair", "Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Personlighetspsykologi - en introduksjon.",
+        "tags": ["Chapter"],
+        "date": "Jan 2015",
+        "authors": ["Leif Edward Ottesen Kennair", "Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitive beliefs in early psychosis",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Tiril Østefjells", "Ingrid Melle", "Roger Hagen", "Jan Ivar Rossberg"],
+        "abstract": ["Previous studies have shown that patients with schizophrenia exhibit higher levels of maladaptive metacognitive beliefs than patients with other psychiatric diagnoses (e.g. depression, anxiety disorders). To our knowledge, no studies have explored metacognitive beliefs in early psychosis.\n\nThe main aims of this study were to i) examine differences..."]
+      },
+      {
+        "title": "Metacognition in eating disorders: Comparison of women with eating disorders, self-reported history of eating disorders or psychiatric problems, and healthy controls",
+        "tags": ["Article"],
+        "date": "Nov 2014",
+        "authors": ["Siri Olstad", "Stian Solem", "Odin Hjemdal", "Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitions and Thought Control Strategies in Unipolar Major Depression: A Comparison of Currently Depressed, Previously Depressed, and Never-Depressed Individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Marianne Berg Halvorsen", "Roger Hagen", "Odin Hjemdal", "Catharina Elisabeth Arfwedson Wang"],
+        "abstract": ["Few studies have explored the importance of worry-related metacognitions and thought control strategies in major depressive disorder. The present study explored how metacognitions and thought control strategies differentiated currently depressed (n = 37), previously depressed (n = 81) and never-depressed individuals (n = 50). Discriminant function..."]
+      },
+      {
+        "title": "Mental health and substance use problems among patients in substance use disorder treatment as reported by patients versus treatment personnel",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Tone Helene Bergly", "Roger Hagen", "Rolf Wilhelm Gråwe"],
+        "abstract": ["Objective: We examined and compared mental health and substance use problems among patients in substance use disorder treatment as reported by both patients and treatment personnel, and explored the feasibility of the quadrant model in addressing severity of mental health and substance use based on reports by treatment personnel.\nMethods: Patients..."]
+      },
+      {
+        "title": "Domains and Perceived Benefits of Treatment Among Patients With and Without Co-Occurring Disorders in Inpatient Substance Use Treatment",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Tone Helene Bergly", "Rolf Wilhelm Gråwe", "Roger Hagen"],
+        "abstract": ["Objective: Persons with substance use disorders often have comorbid psychiatric problems, and treating all problem domains is important for treatment success and recovery. This study examined reported interventions provided to patients as well as patients’ reports of domains of help received, perceived areas of greatest benefit, and satisfaction wi..."]
+      },
+      {
+        "title": "Psykoterapi - Tilnærminger og metoder",
+        "tags": ["Book"],
+        "date": "Jan 2014",
+        "authors": ["Leif Edward Ottesen Kennair", "Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Psykoterapi: En innledning",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Leif Edward Ottesen Kennair", "Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Psychological and interpersonal distress among patients with substance use disorders: Are these factors associated with continued use and do they change during treatment?",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Annette Hassel", "Trond Nordfjærn", "Roger Hagen"],
+        "abstract": ["Aim: This study aimed to test whether self-efficacy, interpersonal problems and psychological distress are significantly associated with substance use and if the factors associated with substance use are the same factors that are subject to change in treatment for patients with substance use disorders (SUDs).\nMethods: The sample consisted of 346 re..."]
+      },
+      {
+        "title": "Introduction: A Symptom-based Approach",
+        "tags": ["Chapter"],
+        "date": "Sep 2013",
+        "authors": ["Roger Hagen", "Douglas Turkington"],
+        "abstract": []
+      },
+      {
+        "title": "The therapeutic alliance in cognitive behavioral therapy for psychosis: A Symptom-based Approach",
+        "tags": ["Chapter"],
+        "date": "Sep 2013",
+        "authors": ["Live E. C. Hoaas", "Sara Eidsbø Lindholm", "Torkil Berge", "Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitive Therapy for Generalized Anxiety Disorder: Nature, Evidence and an Individual Case Illustration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2013",
+        "authors": ["Odin Hjemdal", "Roger Hagen", "Hans M Nordahl", "Adrian Wells"],
+        "abstract": ["Metacognitive therapy (MCT) is based on over 25 years of research focusing on the processes that contribute to the development and maintenance of psychological disorders. The approach identifies a common set of processes in psychopathology, and MCT shows promising results in effectively treating a range of disorders. This paper presents the central..."]
+      },
+      {
+        "title": "Cognitive Behaviour Therapy for Psychotic Symptoms: A Randomized Controlled Effectiveness Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Bodil Kråkvik", "Rolf Wilhelm Gråwe", "Roger Hagen", "Tore C. Stiles"],
+        "abstract": ["Background: \nCognitive behavioural therapy for psychosis (CBTp) is currently a recommended form of psychosocial treatment for persons suffering from persistent psychotic symptoms. It has been argued that effect sizes from efficacy studies cannot be generalized to real clinical settings.\n\nAims: \nOur aim was to evaluate whether the positive results f..."]
+      },
+      {
+        "title": "Cognitive Biases Questionnaire for Psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2013",
+        "authors": ["Emmanuelle R Peters", "Steffen Moritz", "Matthias Schwannauer", "Philippa Garety"],
+        "abstract": ["Objective: \nThe Cognitive Biases Questionnaire for psychosis (CBQp) was developed to capture 5 cognitive distortions (jumping to conclusions, intentionalising, catastrophising, emotional reasoning, and dichotomous thinking), which are considered important for the pathogenesis of psychosis. Vignettes were adapted from the Cognitive Style Test (CST),..."]
+      },
+      {
+        "title": "The dimensional structure of SCL-90-R in a sample of patients with substance use disorder",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Tone Helene Bergly", "Trond Nordfjærn", "Roger Hagen"],
+        "abstract": ["Aim: To test the dimensional structure of the Symptom Check List-90-Revised (SCL-90-R) among inpatients with substance use disorders (SUD), and to examine whether the Global Severity Index (GSI) scores discriminated between SUD patients and a general Norwegian population sample. The concurrent validity of the SCL-90-R was also examined. Methods: Th..."]
+      },
+      {
+        "title": "Cognitive Behavior Therapy in First-Episode Psychosis With a Focus on Depression, Anxiety, and Self-Esteem",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Nasrettin Sönmez", "Roger Hagen", "Ole A Andreassen", "Jan Ivar Rossberg"],
+        "abstract": ["Although several reviews show that cognitive behavioral therapy (CBT) is an effective treatment for patients with chronic psychosis, the effects of CBT on patients with a first-episode psychosis are less clear. Patients undergoing a first-episode psychosis are unique in that not only are they struggling with the symptoms of the disease, but also th..."]
+      },
+      {
+        "title": "The Predictive Validity of the URICA in a Sample of Patients in Substance Use Treatment",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Tone Helene Bergly", "Marianne Stallvik", "Hans M Nordahl", "Roger Hagen"],
+        "abstract": ["Objectives: This study aimed to measure motivation for substance use treatment by using the University of Rhode Island Change Assessment (URICA). The composite URICA scores for Readiness To Change (RTC) and Committed Action (CA) were used to investigate their predictive validity regarding whether patients were still in substance use treatment 3 mon..."]
+      },
+      {
+        "title": "\"VINN\" -An accredited motivational program promoting convicted women's sense of coherence and coping",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Torunn Højdahl", "Jeanette H Magnus", "Roger Hagen", "Eva Langeland"],
+        "abstract": ["This article aims to present a motivational program addressing rehabilitative needs specific to convicted women. The article shows how Antonovsky's theory of Salutogenesis, its main concepts of Sense of Coherence and General Resistance Resources, are used as theoretical framework of this correctional program. Social cognitive theory (self-efficacy)..."]
+      },
+      {
+        "title": "Preventing depression, which story does the evidence tell? A theoretical paper",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Sara Hjulstad Bækkerud", "Odin Hjemdal", "Roger Hagen"],
+        "abstract": ["Depression implies both an individual suffering and high financial costs for society. Even though evidence shows that some forms of psychological treatment for depression could be effective, there is still a large potential for improvement because a significant proportion of the patients in treatment studies do not convalesce and many patients that..."]
+      },
+      {
+        "title": "Ryumpbi",
+        "tags": ["Data"],
+        "date": "Nov 2012",
+        "authors": ["Truls Ryum", "Patrick A Vogel", "Roger Hagen", "Tore C. Stiles"],
+        "abstract": []
+      },
+      {
+        "title": "Mot en felles grunn: En transdiagnostisk tilnærming til psykologisk behandling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Roger Hagen", "Sverre Urnes Johnson", "Even Rognan", "Odin Hjemdal"],
+        "abstract": []
+      },
+      {
+        "title": "Metakognitiv terapi ved depresjon",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Odin Hjemdal", "Roger Hagen"],
+        "abstract": ["I stedet for å jobbe med innholdet i den deprimerte personens tanker, sikter metakognitiv terapi mot å redusere selve grubleprosessen."]
+      },
+      {
+        "title": "Exposure to teacher bullying in schools: A study of patients with personality disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2011",
+        "authors": ["Toril Monsvold", "Mons Bendixen", "Roger Hagen", "Anne Helvik"],
+        "abstract": ["The aim of this study was to examine the level and affect of exposure to teacher bullying in primary and secondary schools on patients with personality disorders (PD).\nThe study group contained 116 people (18-60 years old); 49 patients diagnosed with PD undergoing psychiatric treatment in 10 different psychiatric outpatient clinics in the Southern..."]
+      },
+      {
+        "title": "CBT for psychosis. A symptom-based approach.",
+        "tags": ["Book"],
+        "date": "Jan 2011",
+        "authors": ["Rolf Wilhelm Gråwe", "Roger Hagen", "Turkinngton D.", "Berge T."],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive Behavior Therapy",
+        "tags": ["Chapter"],
+        "date": "Jan 2011",
+        "authors": ["Roger Hagen", "Odin Hjemdal"],
+        "abstract": ["Over the last five decades, cognitive behavioral therapy (CBT) has shown to be an effective psychotherapeutic treatment approach for many different psychiatric disorders. This article gives a short presentation of CBT, its theoretical rational and the most central constructs, along with a presentation of some of the most fundamental therapeutic tec..."]
+      },
+      {
+        "title": "Perceived Group Climate as a Predictor of Long-Term Outcome in a Randomized Controlled Trial of Cognitive-Behavioural Group Therapy for Patients with Comorbid Psychiatric Disorders",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["Truls Ryum", "Roger Hagen", "Hans M Nordahl", "Tore C. Stiles"],
+        "abstract": ["Research on group therapy indicates that various dimensions of the helpful relationship qualities (cohesion, climate, empathy, alliance) are associated with outcome. However, the use of a wide variety of empirical scales makes comparisons between studies as well as generalizations somewhat difficult. Although a generic, trans-theoretical measure su..."]
+      },
+      {
+        "title": "The Better Life Program: Effects of group skills training for persons with severe mental illness and substance use disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2009",
+        "authors": ["Rolf Wilhelm Gråwe", "Roger Hagen", "Bente Espeland", "Kim Mueser"],
+        "abstract": ["Objectives: Despite the widespread use of group interventions for treating dual disorders, few standardized programs have been empirically validated. This study evaluated a manualized group skills training intervention for clients with dual disorders, the Better Life Program, in order to determine its feasibility and changes in substance abuse and..."]
+      },
+      {
+        "title": "Innføring i personlighetspsykologi",
+        "tags": ["Book"],
+        "date": "Jan 2009",
+        "authors": ["Roger Hagen", "Tor E Nysaeter", "Leif Edward Ottesen Kennair"],
+        "abstract": []
+      },
+      {
+        "title": "Continuing Education Quiz: Behavioral Experiments in the Treatment of Paranoid Schizophrenia: A Single Case Study (Hagen & Nordahl)",
+        "tags": ["Article"],
+        "date": "Aug 2008",
+        "authors": ["Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Behavioral Experiments in the Treatment of Paranoid Schizophrenia: A Single Case Study",
+        "tags": ["Article"],
+        "date": "Aug 2008",
+        "authors": ["Roger Hagen", "Hans M Nordahl"],
+        "abstract": ["Since the first description of cognitive therapy of paranoid delusions appeared in the literature, the empirical support for cognitive behavioral therapy in treating psychotic symptoms has been widely established. The aim of the present case study is to show how the behavioral experiment can be used as a powerful tool to change delusional thinking..."]
+      },
+      {
+        "title": "Memories of early attachment: the use of PBI as a predictor of outcome in Pesso-Boyden System Psychomotor (PBSP) group therapy, Cognitive-Behavioural Group Therapy (CBGT), Individual Cognitive-Behavioural Therapy (CBT) and Individual Treatment As Usual (TAU) with adult out-patients",
+        "tags": ["Article"],
+        "date": "Jul 2008",
+        "authors": ["Truls Ryum", "Patrick A Vogel", "Roger Hagen", "Tore C. Stiles"],
+        "abstract": ["To examine the predictive validity of the Parental Bonding Instrument (PBI) for outcome in individual and group psychotherapy.\nData from four different clinical trials were combined, yielding a total of 105 patients. After controlling for gender, age and initial symptomatic distress, the predictive validity of the PBI subscales was investigated usi..."]
+      },
+      {
+        "title": "Kognitiv terapi ved rusmisbruk",
+        "tags": ["Chapter"],
+        "date": "Jan 2008",
+        "authors": ["Roger Hagen", "Rolf Wilhelm Gråwe"],
+        "abstract": []
+      },
+      {
+        "title": "Group and individual based cognitive behavioural therapy for severe psychiatric disorders : The challenge of complex and comorbid disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Kognitiv terapi ved schizofreni",
+        "tags": ["Chapter"],
+        "date": "Jan 2007",
+        "authors": ["Rolf Wilhelm Gråwe", "Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive-behavioural treatment of depression in patients with psychotic disorders",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Roger Hagen", "Hans M Nordahl", "Rolf Wilhelm Gråwe"],
+        "abstract": ["Objective. The aim of the study was to assess the effectiveness of cognitive–behavior group therapy in a sample of patients with co-morbid depression and psychotic disorders.Method. Participants in this study were referred from either the psychiatric in- or outpatient clinic at the psychiatric university hospital in Trondheim. Self-report assessmen..."]
+      },
+      {
+        "title": "A randomized trial of cognitive group therapy vs. Waiting list for patients with comorbid psychiatric disorders: Effects of cognitive group therapy after treatment and six and 12 months follow up",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2005",
+        "authors": ["Roger Hagen", "Hans M Nordahl", "Lena Kristiansen", "Gunnar Morken"],
+        "abstract": ["The aim of the study was to assess the effectiveness of cognitive group therapy compared to a waiting list in a sample of patients with heterogeneous non-psychotic disorders. Participants in this study were referred from either the psychiatric in- or outpatient clinic at the psychiatric university hospital in Trondheim, Norway. The patients were as..."]
+      },
+      {
+        "title": "Mestring av depresjon - Et lærings- og mestringsprogram i serien På vei til et bedre liv.",
+        "tags": ["Book"],
+        "date": "Jan 2005",
+        "authors": ["Rolf Wilhelm Gråwe", "Roger Hagen"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive group therapy for persons with anxiety and depression. P35",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2002",
+        "authors": ["Roger Hagen", "Hans M Nordahl", "Gunnar Morken", "Lena Kristiansen"],
+        "abstract": ["The main objective of the study was to assess the effects of cognitive group therapy in heterogeneous groups of patients with anxiety disorders, unipolar and bipolar depression and cluster C personality disorders (n¾32). The treatment consisted of 2 weekly sessions for 8 weeks. Psychotherapy was assessed at baseline, after treatment and at 6 and 12..."]
+      }
+    ],
+    "degree": ["Professor"],
+    "bio": "Roger Hagen currently works at the Department of Psychology, Norwegian University of Science and Technology. Roger does research in Abnormal Psychology, Behavioural Science and Clinical Psychology. '",
+    "publications": [87],
+    "reads": [47026],
+    "citations": [1200]
   }
 }

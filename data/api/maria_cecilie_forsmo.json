@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Maria Cecilie Forsmo",
-    "id": "1630679",
+    "name": ["Maria Cecilie Forsmo"],
+    "id": ["1630679"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Hanna-Cecilie",
+    "name": "Hanna Cecilie",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Copenhagen Business School, Department of IT Management",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

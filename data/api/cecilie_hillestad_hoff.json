@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Cecilie Hillestad Hoff",
-    "id": "1231006",
+    "name": ["Cecilie Hillestad Hoff"],
+    "id": ["1231006"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -16,5 +16,25 @@
         "url": "https://api.cristin.no/v2/results/1981679"
       }
     ]
+  },
+  "rg": {
+    "id": "Cecilie-Hoff",
+    "name": "Cecilie Hillestad Hoff",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1102726465363969-1639921885172_Q128/Cecilie-Hoff.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Counseling", "Treatment", "Psychotherapeutic Processes", "Therapeutic Alliance"],
+    "works": [
+      {
+        "title": "Learning Processes and Acquisition of Knowledge and Skills in Training and Supervision of Psychotherapy and Counselling: A Study Protocol for a Scoping Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Hanne Weie Oddli", "Erkki Heinonen", "Stephan Hau", "Hanne Strømme"],
+        "abstract": "Background: Increased awareness of the individual therapist’s vital contribution to\ntreatment processes and outcome, and the potential role of training and supervision in\nthis respect, warrants a close look at the empirical and theoretical literature on teaching\nand learning of therapists and counselors.\nMethods: A scoping review of the literature..."
+      }
+    ],
+    "degree": [null],
+    "publication": [1],
+    "reads": [283],
+    "citations": [0]
   }
 }

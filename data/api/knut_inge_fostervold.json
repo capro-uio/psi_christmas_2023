@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-7330-9290",
-    "name": "Knut Inge Fostervold",
+    "orcid": ["0000-0002-7330-9290"],
+    "name": ["Knut Inge Fostervold"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Knut Inge Fostervold",
-    "id": "22357",
+    "name": ["Knut Inge Fostervold"],
+    "id": ["22357"],
     "keywords": ["Labour", "Working life", "Dyslexia", "Psychometrics / Applied statistics", "Research method", "Ergonomics", "Perception, sight"],
     "position": ["Professor", "Associate professor", "Associate professor"],
-    "img": "https://api.cristin.no/v2/persons/22357/picture",
+    "img": ["https://api.cristin.no/v2/persons/22357/picture"],
     "works": [
       {
         "type": "Academic lecture",
@@ -29,8 +29,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Enhancing self-reported assessment of working conditions in policing: Revisiting the psychometric properties and applications of the police stress questionnaire",
-        "journal": "Psychological Reports",
-        "url": "https://api.cristin.no/v2/results/2190260"
+        "url": "https://api.cristin.no/v2/results/2190260",
+        "journal": "Psychological Reports"
       },
       {
         "type": "Academic lecture",
@@ -48,8 +48,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Office design, telework from home, and self-certified sickness absence: A cross-sectional study of main and moderating effects in a nationally representative sample",
-        "journal": "Scandinavian Journal of Work, Environment and Health",
-        "url": "https://api.cristin.no/v2/results/2108344"
+        "url": "https://api.cristin.no/v2/results/2108344",
+        "journal": "Scandinavian Journal of Work, Environment and Health"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -61,50 +61,50 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Implementing integrative lighting in conventional office luminaires: Effects on melatonin secretion and sleepiness",
-        "journal": "Lighting Research and Technology",
-        "url": "https://api.cristin.no/v2/results/2074359"
+        "url": "https://api.cristin.no/v2/results/2074359",
+        "journal": "Lighting Research and Technology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Students’ time management and procrastination in the wake of the pandemic",
-        "journal": "Educational Psychology",
-        "url": "https://api.cristin.no/v2/results/2056393"
+        "url": "https://api.cristin.no/v2/results/2056393",
+        "journal": "Educational Psychology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "A longitudinal study of human–chatbot relationships",
-        "journal": "International Journal of Human-Computer Studies",
-        "url": "https://api.cristin.no/v2/results/2048581"
+        "url": "https://api.cristin.no/v2/results/2048581",
+        "journal": "International Journal of Human-Computer Studies"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Does age matter? Examining age-dependent differences in at-fault collisions after attending a refresher course for older drivers",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/2023607"
+        "url": "https://api.cristin.no/v2/results/2023607",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Put your feet up: The impact of personality traits, job pressure,\r\nand social support on the need for recovery after work",
-        "journal": "Current Psychology",
-        "url": "https://api.cristin.no/v2/results/2009777"
+        "url": "https://api.cristin.no/v2/results/2009777",
+        "journal": "Current Psychology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "A Scoping review of stress measurements and psychometry in police research",
-        "journal": "Journal of Police and Criminal Psychology",
-        "url": "https://api.cristin.no/v2/results/2008741"
+        "url": "https://api.cristin.no/v2/results/2008741",
+        "journal": "Journal of Police and Criminal Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Individual versus general structured\r\nfeedback to improve agreement in grant\r\npeer review: a randomized controlled trial",
-        "journal": "Research Integrity and Peer Review",
-        "url": "https://api.cristin.no/v2/results/1979630"
+        "url": "https://api.cristin.no/v2/results/1979630",
+        "journal": "Research Integrity and Peer Review"
       },
       {
         "type": "Academic lecture",
@@ -116,8 +116,8 @@
         "type": "Academic article",
         "year": "2021",
         "title": "My chatbot companion – a study of human-chatbot relationships",
-        "journal": "International Journal of Human-Computer Studies",
-        "url": "https://api.cristin.no/v2/results/1886056"
+        "url": "https://api.cristin.no/v2/results/1886056",
+        "journal": "International Journal of Human-Computer Studies"
       },
       {
         "type": "Academic lecture",
@@ -129,8 +129,8 @@
         "type": "Academic article",
         "year": "2020",
         "title": "An Empirical evaluation of the relationship between human relations climate and readiness for change",
-        "journal": "Scandinavian Journal of Work and Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/1797154"
+        "url": "https://api.cristin.no/v2/results/1797154",
+        "journal": "Scandinavian Journal of Work and Organizational Psychology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -142,15 +142,15 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Effects of roadwork characteristics and drivers? individual differences on speed preferences in a rural work zone",
-        "journal": "Accident Analysis and Prevention",
-        "url": "https://api.cristin.no/v2/results/1735414"
+        "url": "https://api.cristin.no/v2/results/1735414",
+        "journal": "Accident Analysis and Prevention"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Discomfort glare and psychological stress during computer work: subjective responses and associations between neck pain and trapezius muscle blood flow",
-        "journal": "International Archives of Occupational and Environmental Health",
-        "url": "https://api.cristin.no/v2/results/1718064"
+        "url": "https://api.cristin.no/v2/results/1718064",
+        "journal": "International Archives of Occupational and Environmental Health"
       },
       {
         "type": "Poster",
@@ -162,15 +162,15 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Speed preferences in work zones: the combined effect of visible roadwork activity, personality traits, attitudes, risk perception and driving style",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/1676755"
+        "url": "https://api.cristin.no/v2/results/1676755",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Human Gaze-Parameters as an Indicator of Mental Workload",
-        "journal": "Advances in Intelligent Systems and Computing",
-        "url": "https://api.cristin.no/v2/results/1610505"
+        "url": "https://api.cristin.no/v2/results/1610505",
+        "journal": "Advances in Intelligent Systems and Computing"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -181,14 +181,14 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2018",
-        "journal": "Helserådet",
-        "url": "https://api.cristin.no/v2/results/1629417"
+        "url": "https://api.cristin.no/v2/results/1629417",
+        "journal": "Helserådet"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2018",
-        "journal": "Helserådet",
-        "url": "https://api.cristin.no/v2/results/1629412"
+        "url": "https://api.cristin.no/v2/results/1629412",
+        "journal": "Helserådet"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -200,8 +200,8 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Visual and psychological stress during computer work in healthy, young females' physiological responses",
-        "journal": "International Archives of Occupational and Environmental Health",
-        "url": "https://api.cristin.no/v2/results/1596448"
+        "url": "https://api.cristin.no/v2/results/1596448",
+        "journal": "International Archives of Occupational and Environmental Health"
       },
       {
         "type": "Academic lecture",
@@ -213,8 +213,8 @@
         "type": "Academic article",
         "year": "2017",
         "title": "Evaluation of parenting interventions to prevent violence against children in Colombia - a randomised controlled trial",
-        "journal": "Journal of Interpersonal Violence",
-        "url": "https://api.cristin.no/v2/results/1564137"
+        "url": "https://api.cristin.no/v2/results/1564137",
+        "journal": "Journal of Interpersonal Violence"
       },
       {
         "type": "Academic lecture",
@@ -226,8 +226,8 @@
         "type": "Academic article",
         "year": "2017",
         "title": "Analysing the influence of visible roadwork activity on drivers’ speed choice at work zones using a video-based experiment",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/1438807"
+        "url": "https://api.cristin.no/v2/results/1438807",
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Poster",
@@ -251,8 +251,8 @@
         "type": "Abstract",
         "year": "2015",
         "title": "Visual and Psychological Stress during Computer Work",
-        "journal": "Scandinavian Journal of Optometry and Visual Science",
-        "url": "https://api.cristin.no/v2/results/1353772"
+        "url": "https://api.cristin.no/v2/results/1353772",
+        "journal": "Scandinavian Journal of Optometry and Visual Science"
       },
       {
         "type": "Academic lecture",
@@ -327,8 +327,8 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Evolutionary adaptations: Theoretical and practical implications for visual ergonomics",
-        "journal": "Work : A journal of Prevention, Assesment and rehabilitation",
-        "url": "https://api.cristin.no/v2/results/1071853"
+        "url": "https://api.cristin.no/v2/results/1071853",
+        "journal": "Work : A journal of Prevention, Assesment and rehabilitation"
       },
       {
         "type": "Academic lecture",
@@ -345,8 +345,8 @@
         "type": "Academic article",
         "year": "2012",
         "title": "Cognitive components and the ability to ignore and adapt to irrelevant stimuli: a key factor in open plan offices?",
-        "journal": "Work : A journal of Prevention, Assesment and rehabilitation",
-        "url": "https://api.cristin.no/v2/results/920728"
+        "url": "https://api.cristin.no/v2/results/920728",
+        "journal": "Work : A journal of Prevention, Assesment and rehabilitation"
       },
       {
         "type": "Poster",
@@ -358,8 +358,8 @@
         "type": "Academic article",
         "year": "2011",
         "title": "Effects of Cultural Diversity on Trust and its Consequences for Team Processes and Outcomes in Ad Hoc Distributed Teams",
-        "journal": "Scandinavian Journal of Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/871461"
+        "url": "https://api.cristin.no/v2/results/871461",
+        "journal": "Scandinavian Journal of Organizational Psychology"
       },
       {
         "type": "Academic anthology/Conference proceedings",
@@ -370,15 +370,15 @@
       {
         "type": "Popular scientific article",
         "year": "2009",
-        "journal": "Ramazzini: norsk tidsskrift for arbeids- og miljømedisin",
-        "url": "https://api.cristin.no/v2/results/456277"
+        "url": "https://api.cristin.no/v2/results/456277",
+        "journal": "Ramazzini: norsk tidsskrift for arbeids- og miljømedisin"
       },
       {
         "type": "Academic article",
         "year": "2009",
         "title": "Maximum vs. minimum values: Preferences of speakers and listeners for upper and lower limit estimates",
-        "journal": "Acta Psychologica",
-        "url": "https://api.cristin.no/v2/results/355136"
+        "url": "https://api.cristin.no/v2/results/355136",
+        "journal": "Acta Psychologica"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -395,15 +395,15 @@
         "type": "Academic article",
         "year": "2008",
         "title": "Gender Profiles of Internet and Mobile Phone Use among Norwegian Adolescents",
-        "journal": "Seminar.net - Media, technology and lifelong learning",
-        "url": "https://api.cristin.no/v2/results/361269"
+        "url": "https://api.cristin.no/v2/results/361269",
+        "journal": "Seminar.net - Media, technology and lifelong learning"
       },
       {
         "type": "Academic article",
         "year": "2008",
         "title": "Proportions of direct and indirect indoor lighting - The effect on health, well-being and cognitive performance of office workers",
-        "journal": "Lighting Research and Technology",
-        "url": "https://api.cristin.no/v2/results/358302"
+        "url": "https://api.cristin.no/v2/results/358302",
+        "journal": "Lighting Research and Technology"
       },
       {
         "type": "Academic lecture",
@@ -415,22 +415,22 @@
         "type": "Academic article",
         "year": "2007",
         "title": "Single- Limit Interval Estimates as Reference Points",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/661075"
+        "url": "https://api.cristin.no/v2/results/661075",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2007",
         "title": "More than, less than, or between: How upper and lower bounds determine subjective interval estimates",
-        "journal": "Journal of Behavioral Decision Making",
-        "url": "https://api.cristin.no/v2/results/373104"
+        "url": "https://api.cristin.no/v2/results/373104",
+        "journal": "Journal of Behavioral Decision Making"
       },
       {
         "type": "Academic article",
         "year": "2007",
         "title": "Knobology in use: an experimental evaluation of ergonomics recommendations",
-        "journal": "Ergonomics",
-        "url": "https://api.cristin.no/v2/results/372939"
+        "url": "https://api.cristin.no/v2/results/372939",
+        "journal": "Ergonomics"
       },
       {
         "type": "Poster",
@@ -465,8 +465,8 @@
         "type": "Academic article",
         "year": "2006",
         "title": "Work with visual display units: Long-term health effects of high and downward line-of-sight in ordinary office environments",
-        "journal": "International Journal of Industrial Ergonomics",
-        "url": "https://api.cristin.no/v2/results/411948"
+        "url": "https://api.cristin.no/v2/results/411948",
+        "journal": "International Journal of Industrial Ergonomics"
       },
       {
         "type": "Academic anthology/Conference proceedings",
@@ -521,8 +521,8 @@
         "type": "Academic article",
         "year": "2003",
         "title": "VDU-work with downward gaze: the emperor's new clothes or scientifically sound?",
-        "journal": "International Journal of Industrial Ergonomics",
-        "url": "https://api.cristin.no/v2/results/434362"
+        "url": "https://api.cristin.no/v2/results/434362",
+        "journal": "International Journal of Industrial Ergonomics"
       },
       {
         "type": "Doctoral dissertation",
@@ -540,8 +540,8 @@
         "type": "Academic article",
         "year": "2001",
         "title": "VDU-screen filters: Remedy or the ubiquitous Hawthorne effect?",
-        "journal": "International Journal of Industrial Ergonomics",
-        "url": "https://api.cristin.no/v2/results/442716"
+        "url": "https://api.cristin.no/v2/results/442716",
+        "journal": "International Journal of Industrial Ergonomics"
       },
       {
         "type": "Textbook",
@@ -556,8 +556,8 @@
       {
         "type": "Academic article",
         "year": "2000",
-        "journal": "Arbete Människa Miljö & Nordisk Ergonomi",
-        "url": "https://api.cristin.no/v2/results/442719"
+        "url": "https://api.cristin.no/v2/results/442719",
+        "journal": "Arbete Människa Miljö & Nordisk Ergonomi"
       },
       {
         "type": "Academic lecture",
@@ -608,8 +608,8 @@
         "type": "Academic article",
         "year": "1997",
         "title": "Postural load during VDU work. A comparison between various work postures",
-        "journal": "Ergonomics",
-        "url": "https://api.cristin.no/v2/results/452282"
+        "url": "https://api.cristin.no/v2/results/452282",
+        "journal": "Ergonomics"
       },
       {
         "type": "Academic lecture",
@@ -624,5 +624,466 @@
         "url": "https://api.cristin.no/v2/results/135304"
       }
     ]
+  },
+  "rg": {
+    "id": "Knut-Inge-Fostervold",
+    "name": "Knut Inge Fostervold",
+    "img": "https://i1.rgstatic.net/ii/profile.image/318131061362688-1452859763203_Q128/Knut-Inge-Fostervold.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Work Psychology", "Ergonomics", "Psychological Assessment", "Lighting", "Usability", "Energy Efficiency", "Psychological Testing", "Human Machine Interaction", "User Experience", "Industrial Psychology"],
+    "works": [
+      {
+        "title": "Evolutionary adaptations: Theoretical and practical implications for visual ergonomics",
+        "tags": ["Article"],
+        "date": "Nov 2013",
+        "authors": ["Knut Inge Fostervold", "Reidulf G. Watten", "Frode Volden"],
+        "abstract": ["The literature discussing visual ergonomics often mention that human vision is adapted to light emitted by the sun. However, the theoretical and practical implications of this viewpoint is seldom discussed and taken into account.\nThe paper discusses some of the main theoretical implications of an evolutionary approach to visual ergonomics.\nBased on..."]
+      },
+      {
+        "title": "Defining Sustainable and “Decent” Work for Human Factors and Ergonomics",
+        "tags": ["Chapter"],
+        "date": "Aug 2018",
+        "authors": ["Knut Inge Fostervold", "Peter Christian Koren", "Odd Viggo Nilsen"],
+        "abstract": ["Sustainable work is a vital factor in the transition towards global sustainability. The term itself, as well as its relations to work content, working conditions, and quality of life are somewhat vague. Applying a resources management perspective, Fostervold, Koren and Nilsen aim at bridging the long-term needs of the three main work-life stakehold..."]
+      },
+      {
+        "title": "Put your feet up: The impact of personality traits, job pressure, and social support on the need for recovery after work",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Knut Inge Fostervold", "Reidulf G. Watten"],
+        "abstract": ["The need for recovery after work (NFR) is an important warning of work-related fatigue. NFR is linked to prolonged work-related efforts and depletion of resources, creating a need for temporary respite from work demands. The aim of the current study was to investigate the relationships between NFR and the five-factor model (FFM), comprising the per..."]
+      },
+      {
+        "title": "Students’ time management and procrastination in the wake of the pandemic",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Knut Inge Fostervold", "Sten Ludvigsen", "Helge I Strømsø"],
+        "abstract": ["On March 12, 2020, Norwegian universities closed campus areas and reorganised teaching to digital environments due to the COVID-19 pandemic. In a sample of 8,907 university students, we investigated how aspects of students’ self-regulation were affected by their motivation, perceived stress, working conditions, and remote teaching offered in the ne..."]
+      },
+      {
+        "title": "Implementing integrative lighting in conventional office luminaires: Effects on melatonin secretion and sleepiness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Knut Inge Fostervold", "Dag Erik Eilertsen"],
+        "abstract": ["The discovery of intrinsically photosensitive retinal ganglion cells in the eye and their interaction with melatonin has shown that light has significant effects beyond vision. The present study compared the effect of an integrative lighting system, providing low-intensity melanopic illuminance with the effect of an ordinary, qualitatively equivale..."]
+      },
+      {
+        "title": "Enhancing Self-Reported Assessment of Working Conditions in Policing: Revisiting the Psychometric Properties and Applications of the Police Stress Questionnaire",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Knut Inge Fostervold", "Brita Bjørkelo"],
+        "abstract": ["Objectives\nPolicing is recognized as a highly stressful occupation, encompassing stressors not commonly encountered in other fields. In response, police-specific stress scales have been developed and used when studying police work. Despite changes in the composition of police personnel, most studies examining police working conditions focus on swor..."]
+      },
+      {
+        "title": "Cultivating flexibility: The relationship between flexible organizational values, participation climate, and job attitudes from an employee perspective",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Marius Duhović Hafstad", "Henning Bang", "Cato Bjørkli", "Knut Inge Fostervold"],
+        "abstract": ["Adopting a flexible organizational culture can be a potential remedy for organizations that face globalization, technological advancements, and higher expectations from the workforce. However, research on the mechanism between organizational culture and its outcomes remain understudied. This study adopts an employee-centric approach, suggesting tha..."]
+      },
+      {
+        "title": "The dialectical relationship between burnout and work engagement: A network approach",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Marius Duhović Hafstad", "Omid V. Ebrahimi", "Knut Inge Fostervold"],
+        "abstract": ["Based on previous empirical evidence, scholars have argued for a dialectical relationship between burnout and work engagement. However, these conclusions largely rely on latent variable models, which have inherent limitations due to strong hierarchical assumptions about data. As a result, previous findings should be considered preliminary indicatio..."]
+      },
+      {
+        "title": "Office design, telework from home, and self-certified sickness absence: A cross-sectional study of main and moderating effects in a nationally representative sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Randi Hovden Borge", "Håkon A Johannessen", "Knut Inge Fostervold", "Morten Birkeland Nielsen"],
+        "abstract": ["Objectives: \nThis study aimed to investigate (i) the main effects of office design and access to telework from home (TWFH) on self-certified sickness absence and (ii) the moderating effects of access to TWFH on the relationship between office design and self-certified sickness absence.\n\nMethods: \nThe study used cross-sectional survey data from a na..."]
+      },
+      {
+        "title": "A longitudinal study of human–chatbot relationships",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Marita Bjaaland Skjuve", "Asbjørn Følstad", "Knut Inge Fostervold", "Petter Bae Brandtzaeg"],
+        "abstract": ["Social chatbots have become more advanced, paving the way for human–chatbot relationships (HCRs). Although this phenomenon has already received some research attention, the results have been contradictory, and there is uncertainty regarding how to understand HCR formation. To provide the needed knowledge on this phenomenon, we conducted a qualitati..."]
+      },
+      {
+        "title": "Does age matter? Examining age-dependent differences in at-fault collisions after attending a refresher course for older drivers",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Pål Ulleberg", "Torkel Bjørnskau", "Knut Inge Fostervold"],
+        "abstract": ["The “Driver 65+” course is a voluntary refresher course offered to all drivers aged 65 years or older in Norway. The current study estimated differences in at-fault motor vehicle collisions (MVCs) between older drivers who had attended in the course and older drivers who had not attended the course.\n\nMethods\nTwo samples of drivers were selected fro..."]
+      },
+      {
+        "title": "A Scoping Review of Stress Measurements and Psychometry in Police Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Lillis Rabbing", "Brita Bjørkelo", "Knut Inge Fostervold", "Bjørn Lau"],
+        "abstract": ["Despite a growing body of research, there is no systematic body of evidence that establishes the rigour of existing measures of stress among police. The aim of this scoping review was to investigate (1) the diversity of stress measures used in police research and (2) the psychometric properties of such measures and the ways in which they are utilis..."]
+      },
+      {
+        "title": "How Can a Chatbot Support Human Resource Management? Exploring the Operational Interplay",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Tina Taule", "Asbjørn Følstad", "Knut Inge Fostervold"],
+        "abstract": ["Chatbots are increasingly taken up to support organizational functions and processes, particularly in support of the Human Resource Management (HRM) function. However, there is a lack of knowledge on the organizational implications of this support – in particular the operational interplay between the chatbot, the HRM function, and the organization..."]
+      },
+      {
+        "title": "Individual versus general structured feedback to improve agreement in grant peer review: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Jan-Ole Hesselberg", "Knut Inge Fostervold", "Pål Ulleberg", "Ida C Svege"],
+        "abstract": ["Background\nVast sums are distributed based on grant peer review, but studies show that interrater reliability is often low. In this study, we tested the effect of receiving two short individual feedback reports compared to one short general feedback report on the agreement between reviewers.\n\nMethods\nA total of 42 reviewers at the Norwegian Foundat..."]
+      },
+      {
+        "title": "Colour Preferences and Personality Traits",
+        "tags": ["Preprint"],
+        "date": "May 2021",
+        "authors": ["Reidulf G. Watten", "Knut Inge Fostervold"],
+        "abstract": ["Colours are important features in human and natural environments and are related to several psychological functions. However, a possible relation between colour preferences and personality traits is scarcely investigated. The aim of the present study was to find out whether differences in preferences for colours also reflected differences in Big Fi..."]
+      },
+      {
+        "title": "Individual versus general structured feedback to improve agreement in grant peer review: A randomized controlled trial",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Jan-Ole Hesselberg", "Knut Inge Fostervold", "Pål Ulleberg", "Ida C Svege"],
+        "abstract": ["Background\nVast sums are distributed based on grant peer review, but studies show that interrater reliability is often low. In this study, we tested the effect of receiving a short individual feedback report compared to a short general feedback report on the agreement between reviewers.MethodsA total of 42 reviewers at the Norwegian Foundation Dam..."]
+      },
+      {
+        "title": "My Chatbot Companion - a Study of Human-Chatbot Relationships",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Marita Bjaaland Skjuve", "Asbjørn Følstad", "Knut Inge Fostervold", "Petter Bae Brandtzaeg"],
+        "abstract": ["There has been a recent surge of interest in social chatbots, and human–chatbot relationships (HCRs) are becoming more prevalent, but little knowledge exists on how HCRs develop and may impact the broader social context of the users. Guided by Social Penetration Theory, we interviewed 18 participants, all of whom had developed a friendship with a s..."]
+      },
+      {
+        "title": "Time to Help? Contextualizing Trajectories of Organizational Citizenship Behavior",
+        "tags": ["Article"],
+        "date": "Aug 2020",
+        "authors": ["Sabine Raeder", "Felix Anker Klein", "Knut Inge Fostervold"],
+        "abstract": ["Organizational citizenship behavior (OCB) has been found to vary over time, but its longitudinal development has remained unexplored. Drawing from event system theory and human capital theory, we investigate the development of OCB over time and contextualize it with events in the organization that affect employees and their work tasks and with reso..."]
+      },
+      {
+        "title": "An Empirical Evaluation of the Relationship Between Human Relations Climate and Readiness for Change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Trond Myklebust", "Karoline Motland", "Alexander Garnås", "Knut Inge Fostervold"],
+        "abstract": ["Readiness for change is seen as an important factor in organisational change processes, but it is unclear how organisational climate might affect readiness for change. Addressing this important gap, the purpose of the study was to investigate the relationship between human relations climate, a dimension of the Quinn and Rohrbaugh’s competing values..."]
+      },
+      {
+        "title": "Police stress studies around the world – measurements that work",
+        "tags": ["Presentation"],
+        "date": "Feb 2020",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Knut Inge Fostervold", "Brita Bjørkelo"],
+        "abstract": ["Police work has become increasingly demanding and complex. Beside heightened pressure for efficiency employees in the police service need to handle a wide array of operational and organisational challenges in their profession (Shane, 2010; Berg et al., 2005). The impact of work stressors on employees in the police is well documented and some tasks..."]
+      },
+      {
+        "title": "Discomfort glare and psychological stress during computer work: subjective responses and associations between neck pain and trapezius muscle blood flow",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Randi Mork", "Helle K Falkenberg", "Knut Inge Fostervold", "Hanne-Mari Schiøtz Thorud"],
+        "abstract": ["Purpose\nExposure to additional environmental stress during computer work, such as visual and psychological demands, is associated with increased eye and neck discomfort, altered moods, and reduced well-being. The aim of this study is to elucidate further how subjective responses in healthy, young females with normal binocular vision are affected by..."]
+      },
+      {
+        "title": "Offices",
+        "tags": ["Chapter"],
+        "date": "Jan 2020",
+        "authors": ["Jan Vilhelm Bakke", "Knut Inge Fostervold"],
+        "abstract": ["This chapter covers the following issues: air quality, thermal conditions and ventilation. It comprises ventilation, human and other sources of pollution and energy load, cooling and humidification, microbial and organic pollutions. Open shelves, fleecy surfaces, carpets and office machines can add to pollutions. An addendum is included with Norweg..."]
+      },
+      {
+        "title": "Effects of roadwork characteristics and drivers' individual differences on speed preferences in a rural work zone",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Renata Torquato Steinbakk", "Pål Ulleberg", "Fridulv Sagberg", "Knut Inge Fostervold"],
+        "abstract": ["Work zone safety from a psychological perspective has received little attention in scientific literature. Therefore, the present study aims to explore the influence of roadwork characteristics and drivers' individual differences in terms of personality traits and self-assessment of driving skills on speed preferences in a rural work zone. Eight hun..."]
+      },
+      {
+        "title": "Norwegian Police Service Employee Study",
+        "tags": ["Poster"],
+        "date": "May 2019",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Brita Bjørkelo", "Knut Inge Fostervold"],
+        "abstract": ["Potential sources of strain at work are often divided into operational and organisational demands (Berg et al., 2005; Shane, 2010). In the police service the former, job-specific conditions, may include traumatic events and threats to physical and mental health, shift work, and overtime. The latter, organisational demands, affects all organisationa..."]
+      },
+      {
+        "title": "Challenging and Demanding Work: Operative and Organisational Work Demands and Individual and Organisational Resources as Predictors of Health and Work Engagement in the Norwegian Police Service",
+        "tags": ["Presentation"],
+        "date": "Feb 2019",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Brita Bjørkelo", "Knut Inge Fostervold"],
+        "abstract": ["The project focuses on specific differences in working conditions that are of importance for mental and musculoskeletal health and for work engagement and mastery of work at the Norwegian Police Service"]
+      },
+      {
+        "title": "Speed preferences in work zones: The combined effect of visible roadwork activity, personality traits, attitudes, risk perception and driving style",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Renata Torquato Steinbakk", "Pål Ulleberg", "Fridulv Sagberg", "Knut Inge Fostervold"],
+        "abstract": ["One of the most common safety issues at work zones is high speed variation. Nevertheless, few studies have addressed psychological variables to deepen the understanding of drivers’ speed choice in work zones. The present study examined whether work zones represent a type of situation that may trigger the expression of certain personality traits res..."]
+      },
+      {
+        "title": "Subjective Evaluation of the Physical Work Environment and the Influence of Personality: Volume II: Safety and Health, Slips, Trips and Falls",
+        "tags": ["Chapter"],
+        "date": "Jan 2019",
+        "authors": ["Knut Inge Fostervold", "Anne-Marie Halberg"],
+        "abstract": ["Subjective evaluations of physical working conditions are common in the field of human factors and ergonomics (HFE). The aim of this study was to investigate the effect of personality factors on judgements of important physical factors in the work environment. The sample consisted of 80 informants working in a white-collar organization. User evalua..."]
+      },
+      {
+        "title": "Human Gaze-Parameters as an Indicator of Mental Workload: Volume X: Auditory and Vocal Ergonomics, Visual Ergonomics, Psychophysiology in Ergonomics, Ergonomics in Advanced Imaging",
+        "tags": ["Chapter"],
+        "date": "Jan 2019",
+        "authors": ["Frode Volden", "Viveka De Alwis Edirisinghe", "Knut Inge Fostervold"],
+        "abstract": ["In this study we have investigated which eye-parameters that most reliably can indicate increased mental workload. Being able to detect high mental workload in individuals, allows for early detection of potentially dangerous situations, and possibly adjustment of the information flow that creates the high workload. N-back memory tasks with four dif..."]
+      },
+      {
+        "title": "Visual and psychological stress during computer work in healthy, young females—physiological responses",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Randi Mork", "Helle K Falkenberg", "Knut Inge Fostervold", "Hanne-Mari Schiøtz Thorud"],
+        "abstract": ["Purpose: \nAmong computer workers, visual complaints, and neck pain are highly prevalent. This study explores how occupational simulated stressors during computer work, like glare and psychosocial stress, affect physiological responses in young females with normal vision.\n\nMethods: \nThe study was a within-subject laboratory experiment with a counter..."]
+      },
+      {
+        "title": "Evaluation of Parenting Interventions to Prevent Violence Against Children in Colombia: A Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Ane-Marthe Solheim Skar", "Lorraine Sherr", "Ana Macedo", "Knut Inge Fostervold"],
+        "abstract": ["The effects of the International Child Development Programme (ICDP) and the specific addition of a violence prevention module were observed in a preidentified population in Colombia where children are experiencing high levels of violence. Participants were 176 parents of 3- to 4-year-olds attending child centers who were randomly allocated to one o..."]
+      },
+      {
+        "title": "Belysning og universell utforming",
+        "tags": ["Book"],
+        "date": "Oct 2017",
+        "authors": ["Thor Husby", "Åsne Fjellanger", "Knut Inge Fostervold", "Gjermund Sjøsåsen"],
+        "abstract": []
+      },
+      {
+        "title": "Kontorlandskap - arbeidsmiljøfaglig veiledning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Jan Vilhelm Bakke", "Knut Inge Fostervold"],
+        "abstract": ["Kontorlandskap har blitt lansert som gunstig for arbeidstakere og team med samarbeid som krever løpende kontakt. For fagprofesjonelt\narbeid som krever konsentrasjon og uforstyrret korttidshukommelse ser dette imidlertid ut til å fungere dårlig. Slike arbeidsoppgaver\nkrever hovedsakelig individuell innsats der samspill mellom andre arbeidstakere ikk..."]
+      },
+      {
+        "title": "Kontorbelysning",
+        "tags": ["Book"],
+        "date": "Jun 2017",
+        "authors": ["Morten Olav Berg", "Lars-Fredrik Forberg", "Mari Gaasemyr", "Michael Ramm Østgaard"],
+        "abstract": ["Formålet med publikasjonen Kontorbelysning er å gi råd og veiledning for hvordan planlegging og prosjektering as gode belysningsanlegg på arbeidsplasser kan gjennomføres. Den gir videre nyttige beskrivelser av prosesser frem til vellykkede løsninger."]
+      },
+      {
+        "title": "Analysing the influence of visible roadwork activity on drivers’ speed choice at work zones using a video-based experiment",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Renata Torquato Steinbakk", "Pål Ulleberg", "Fridulv Sagberg", "Knut Inge Fostervold"],
+        "abstract": ["The present study used a video-based experimental design to investigate the influence of visible roadwork activity on speed preferences at work zones. Four videos from real work zones in Norway were used. Two roadwork areas were filmed at two moments – with and without visible roadwork activity. A total of 815 drivers watched two videos and answere..."]
+      },
+      {
+        "title": "Self-perceived health and the impact of psychosocial work factors.",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Cecilie Henriksen", "Knut Inge Fostervold", "Odd Viggo Nilsen"],
+        "abstract": ["Self-perceived health (SPH) has received increasing attention in the discussion of employee health and sickness absence. The present study investigated how psychosocial work related factors influence SPH. The study utilized structural equation modelling (SEM) to analyse a large cross sectional questionnaire survey in the educational sector in Norwa..."]
+      },
+      {
+        "title": "Lys i læringsmiljø",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Barbara Matusiak", "Knut Inge Fostervold", "Lars-Fredrik Forberg", "Thor Husby"],
+        "abstract": ["This publication is written in Norwegian"]
+      },
+      {
+        "title": "Universell utforming og omgivelser. Tverrfaglige, kritiske og miljøpsykologiske perspektiver.",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Reidulf G. Watten", "Knut Inge Fostervold", "Frode Volden"],
+        "abstract": ["Den bærende ideen bak universell utforming er å søke en best mulig tilrettelegging av våre omgivelser slik at alle mennesker kan inkluderes i normalsamfunnet - uansett funksjonsnivå. Universell utforming har lenge vært et viktig satsningsområde i Norge, noe som bl.a. gjenspeiles i innføringen av diskriminerings- og tilgjengelighetsloven i 2009. God..."]
+      },
+      {
+        "title": "Lighting quality in learning environments: premises for new guidelines",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Knut Inge Fostervold", "T Husby"],
+        "abstract": ["New schools and rehabilitation of old schools represents huge investments. This paper discusses premises for good lighting quality in learning environments and stresses the importance of understanding human capabilities and limitations as evolutionary adaptations. The paper point toward that vision must be considered as work and that poor lighting..."]
+      },
+      {
+        "title": "Cognitive components and the ability to ignore and adapt to irrelevant stimuli: A key factor in open plan offices?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Knut Inge Fostervold"],
+        "abstract": ["Employees differ in their apperception of open plan offices. Despite this, individual differences have been sparsely treated in the literature discussing effects of office design. The aim of the present study was to investigate how stimulus screening, working memory, and attention interrelate and affect important factors in the work environment. Th..."]
+      },
+      {
+        "title": "Kampen School - Evaluation of pupils' performance and perceived health and well-being before and after school retrofitting",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Mads Mysen", "Hugo Lewi Hammer", "Jonny Nersveen", "Knut Inge Fostervold"],
+        "abstract": ["Retrofitting of Kampen School in Norway has been a demonstration project where new concepts for energy efficient ventilation and lighting are integrated. Before retrofitting, the school had a mechanically balanced ventilation system that provided each classroom with approximately 120 liter/second of fresh air. After retrofitting, the school has dem..."]
+      },
+      {
+        "title": "Effects of cultural diversity on trust and its consequences for team processes and outcomes in ad hoc distributed teams",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Anne Lise Bjørnstad", "Knut Inge Fostervold", "Pål Ulleberg"],
+        "abstract": ["This quasi-experimental study explores trust as a mediator, explaining how cultural diversity may affect team processes and outcomes in distributed ad hoc teams. Data were collected both through self-report and direct behavioral measures from a military sample. Our results demonstrate significantly lower trust in culturally heterogeneous distribute..."]
+      },
+      {
+        "title": "ENERGY EFFICIENT LIGHTING SYSTEMS - CONSEQUENCES FOR ENVIRONMENT, HEALTH AND HUMAN FACTORS",
+        "tags": ["Chapter"],
+        "date": "Mar 2010",
+        "authors": ["Pål J. Larsen", "Erlend Lillelien", "Knut Inge Fostervold", "Morten Olav Berg"],
+        "abstract": ["Providing optimal lighting for the user’s needs at all times is the lighting system’s first and foremost task. Increasing energy prices and concern over greenhouse gas emissions have motivated the development of more energy-efficient ways to fulfil those needs. A fully automated and adaptive lighting control system allows us to do this. It is impor..."]
+      },
+      {
+        "title": "Maximum vs. minimum values: Preferences of speakers and listeners for upper and lower limit estimates",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["Anne-Marie Halberg", "Karl Halvor Teigen", "Knut Inge Fostervold"],
+        "abstract": ["Estimates about uncertain quantities can be expressed in terms of lower limits (more than X, minimum X), or upper limits (less than Y, maximum Y). It has been shown that lower limit statements generally occur much more often than upper limit statements (Halberg & Teigen, 2009). However, in a conversational context, preferences for upper and lower l..."]
+      },
+      {
+        "title": "Gender Profiles of Internet and Mobile Phone Use among Norwegian Adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2008",
+        "authors": ["Reidulf G. Watten", "Jo Kleiven", "Knut Inge Fostervold", "Frode Volden"],
+        "abstract": ["The aim of this current project was to investigate gender profiles in the use of Information and Communication Technology (ICT), primarily the Internet and mobile phones, and problems encountered in the use of these technologies. The sample survey consisted of teenagers, 4294 15-16 year olds (2067 females and 2227 males) from two counties in Easter..."]
+      },
+      {
+        "title": "Proportions of direct and indirect indoor lighting -- The effect on health, well-being and cognitive performance of office workers",
+        "tags": ["Article"],
+        "date": "Sep 2008",
+        "authors": ["Knut Inge Fostervold", "Jonny Nersveen"],
+        "abstract": ["Indirect lighting has been recommended as a way to accommodate lighting needs in offices. To investigate this recommendation, the effect of four ceiling-mounted lighting schemes providing inverse proportions of direct and indirect lighting were studied in ordinary office environments. The study used a 4×3 mixed randomised-repeated design. Dependent..."]
+      },
+      {
+        "title": "Barn og unges IKT-bruk : kjønnsforskjeller og elektronisk mobbing",
+        "tags": ["Chapter"],
+        "date": "Jan 2008",
+        "authors": ["Reidulf G. Watten", "Knut Inge Fostervold", "Jo Kleiven", "Frode Volden"],
+        "abstract": []
+      },
+      {
+        "title": "Visual Ergonomics for Children",
+        "tags": ["Chapter"],
+        "date": "Jan 2008",
+        "authors": ["Knut Inge Fostervold", "Dennis R.  Ankrum"],
+        "abstract": []
+      },
+      {
+        "title": "Knobology in use: An experimental evaluation of ergonomics recommendations",
+        "tags": ["Article"],
+        "date": "Jun 2007",
+        "authors": ["Kjell Ivar Øvergård", "Knut Inge Fostervold", "Hans Vanhauwaert Bjelland", "Thomas Hoff"],
+        "abstract": ["The scientific basis for ergonomics recommendations for controls has usually not been related to active goal-directed use. The present experiment tests how different knob sizes and torques affect operator performance. The task employed is to control a pointer by the use of a control knob, and is as such an experimentally defined goal-directed task..."]
+      },
+      {
+        "title": "Single-limit estimates as reference points",
+        "tags": ["Article"],
+        "date": "Apr 2007",
+        "authors": ["Karl Halvor Teigen", "Anne-Marie Halberg", "Knut Inge Fostervold"],
+        "abstract": ["People often describe uncertain quantities by suggesting a lower or upper limit of an uncertainty interval, rather than the complete range. Five studies are reported, which demonstrate how interval limits function as provisional reference points (PRP), conferring evaluative meanings to the target objects, by suggesting downward or upward comparison..."]
+      },
+      {
+        "title": "More than, less than, or minimum, maximum: How upper and lower bounds determine subjective interval estimates",
+        "tags": ["Article"],
+        "date": "Apr 2007",
+        "authors": ["Karl Halvor Teigen", "Anne-Marie Halberg", "Knut Inge Fostervold"],
+        "abstract": ["Uncertain quantities can be described by single-point estimates of lower interval bounds (X1), upper interval bounds (X2), two-bound estimates (separate estimates of X1 and X2), and by ranges (X1−X2). A price estimation task showed that single-bound estimates phrased as “T costs more than X1” and “T costs less than X2,” yielded much larger interval..."]
+      },
+      {
+        "title": "Work with visual display units: Long-term health effects of high and downward line-of-sight in ordinary office environments",
+        "tags": ["Article"],
+        "date": "Apr 2006",
+        "authors": ["Knut Inge Fostervold", "Arne Aarås", "Ivar Lie"],
+        "abstract": ["This study investigated the long-term effects of vertical monitor placement in 150 ordinary offices workers. Random assignment was used in creating a high line-of-sight (HLS) group (n=75) and a downward line-of-sight (DLS) (n=75) group. The line-of-sight to the midpoint of the screen was 15° below horizontal for the HLS-group and 30° for the DLS-gr..."]
+      },
+      {
+        "title": "An intervention study of the impact of supply air filters on perceived air quality and health symptoms in a primary school",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Mads Mysen", "Knut Inge Fostervold", "Peter G. Schild"],
+        "abstract": ["A reversed intervention field-study was conducted in a modern Norwegian primary school with balanced ventilation with very low pressure-drop and ground-coupled supply air duct. The used supply air filter bank was removed for one week to investigate the effect on perceived air quality (PAQ). The pupils were blind to the intervention. Removing the fi..."]
+      },
+      {
+        "title": "VDU work with downward gaze: The emperor's new clothes or scientifically sound?",
+        "tags": ["Article"],
+        "date": "Mar 2003",
+        "authors": ["Knut Inge Fostervold"],
+        "abstract": ["Lower monitor placements, with gaze angles to the centre of the screen 30–45° below the horizontal line are proposed as an alternative to higher monitor placements advocated by prevailing guidelines. A scientific basis for this proposition has been established within a comprehensive theoretical framework, founded on an ecological systemic approach..."]
+      },
+      {
+        "title": "VDU-screen filters: Remedy or the ubiquitous Hawthorne effect?",
+        "tags": ["Article"],
+        "date": "Feb 2001",
+        "authors": ["Knut Inge Fostervold", "Erik Buckmann", "Ivar Lie"],
+        "abstract": ["The claim that visual display units (VDU)-screen filters improve health by reducing exposure to electrical fields and/or improving screen legibility was investigated by introducing VDU screen filters into an office environment. The study design was quasi-experimental, with the first part conducted according to a simulated control group design with..."]
+      },
+      {
+        "title": "Vision and Body, Integrated Systems in Systemic Interplay",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2000",
+        "authors": ["Knut Inge Fostervold"],
+        "abstract": ["Based on an ecological analysis of the visual system, a systemic model is proposed linking visual stress and symptoms in other parts of the body. The model links the interaction between the oculomotor system and other body muscles to the slow-acting mechanism of Scohr's two-step theory of vergence control. Implications of the model have been examin..."]
+      },
+      {
+        "title": "Accommodation/vergence/fixation disparity and synergism of head, neck and shoulders",
+        "tags": ["Chapter"],
+        "date": "Jan 2000",
+        "authors": ["Ivar Lie", "Reidulf G. Watten", "Knut Inge Fostervold"],
+        "abstract": ["The integration of scanning eye movements with head and body movements as well as the synergetic interaction of accommodation and convergence have been known for a long time. Surprisingly, little interest, if any, has been devoted to the possible interaction between vergence/accommodation and other body muscles. Experimental evidence suggesting the..."]
+      },
+      {
+        "title": "Variation of sitting posture in work with VDU's. The effect of downward gaze.",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 1999",
+        "authors": ["Knut Inge Fostervold", "Ivar Lie"],
+        "abstract": []
+      },
+      {
+        "title": "Postural load during VDU work: A comparison between various work postures",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 1997",
+        "authors": ["Arne Aarås", "Knut Inge Fostervold", "Ola Ro", "Stig Larsen"],
+        "abstract": ["The aim of this study was to compare the postural load during VDU work in the following work postures: (1) Supporting and not supporting the forearms on the table top, (2) Sitting and standing positions, and (3) Sightline to the centre of the screen at an angle of 15 degrees and 30 degrees below the horizontal. The muscle load from the upper part o..."]
+      },
+      {
+        "title": "Symptom clusters among VDU — Workers: Part of the Norwegian field study: The VDU workplace — A new ergonomic concept",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1995",
+        "authors": ["Knut Inge Fostervold", "I. Lie", "Stig Larsen", "A. Vågland"],
+        "abstract": ["Publisher Summary This chapter presents a filed study that searches for symptom clusters among video display units (VDU)-workers participating in an on-going field study in Norway. The present paper is based on the symptom questionnaire administered as a part of the baseline measurements in this field study. The field study design includes the foll..."]
+      },
+      {
+        "title": "VDT - Work With Different Gaze Inclination.",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 1995",
+        "authors": ["Ivar Lie", "Knut Inge Fostervold"],
+        "abstract": []
+      },
+      {
+        "title": "Barnet i AlkoholforskningenBarnet i alkoholforskningen: Barnet i alkoholforskningen. En översikt över nordisk samhälls- och beteendevetenskaplig forskning kring barn och alkohol.Edgren-HenrichsonNinaNAD-publikation nr 26. Helsingfors1993. 67 s.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 1994",
+        "authors": ["Knut Inge Fostervold"],
+        "abstract": []
+      },
+      {
+        "title": "Book Review: Familjebehandling inom Rusomsorgen i NordenFamiljebehandling inom rusomsorgen i Norden: Familiebehandling in nen rusomsorgen i Norden. HauglandBente Storm & RosenqvistPia (red.) NAD-publikation nr 25. Helsingfors1993. 138 s.",
+        "tags": ["Article"],
+        "date": "Oct 1994",
+        "authors": ["Knut Inge Fostervold"],
+        "abstract": []
+      },
+      {
+        "title": "Book Review: Flodhästen i vardagsrummetFlodhästen i vardagsrummet: Flodhästen i vardagsrummet. Om medberoende och om mötet med barnet inom oss. HellstenTommyFörsamlingsförbundets Förlag Ab, Helsingfors1993. 158 s. och Verbum Förlag AB, Stockholm 1993. 158 s.",
+        "tags": ["Article"],
+        "date": "Feb 1994",
+        "authors": ["Knut Inge Fostervold"],
+        "abstract": []
+      },
+      {
+        "title": "ENERGY EFFICIENT LIGHTING SYSTEMS CONSEQUENCES FOR ENVIROMENT, HEALTH AND HUMAN FACTORS",
+        "tags": ["Article"],
+        "authors": ["Knut Inge Fostervold", "Erlend Lillelien", "Mjøs Tor", "Berg Morten Olav"],
+        "abstract": ["This project was introduced at the CIE 2007 session in Beijing as a poster and we now wish to present a paper with the results from this unique intervention study. Providing optimal lighting for the user's needs at all times is the lighting systems first and foremost task. With today's increasing energy prices and the awareness the effect that incr..."]
+      }
+    ],
+    "degree": ["Dr.", "psychol."],
+    "bio": [],
+    "publications": [64],
+    "reads": [13604],
+    "citations": [866]
   }
 }

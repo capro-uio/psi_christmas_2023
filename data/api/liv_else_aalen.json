@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Liv Else Aalen",
-    "id": "340413",
+    "name": ["Liv Else Aalen"],
+    "id": ["340413"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Nynne-Liv",
+    "name": "Nynne Liv",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Copenhagen",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

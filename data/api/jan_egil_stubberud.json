@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-9592-8589",
-    "name": "Jan Stubberud",
+    "orcid": ["0000-0001-9592-8589"],
+    "name": ["Jan Stubberud"],
     "distinctions": [],
     "education": [
       {
@@ -17,9 +17,9 @@
       },
       {
         "start": "2005",
-        "end": "2015",
         "organisation": "Sunnaas Sykehus HF",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       }
     ],
     "employment": [
@@ -35,9 +35,9 @@
       },
       {
         "start": "2005",
-        "end": "2015",
         "organisation": "Sunnaas Sykehus HF",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       }
     ],
     "membership": [],
@@ -76,11 +76,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jan Egil Stubberud",
-    "id": "323099",
+    "name": ["Jan Egil Stubberud"],
+    "id": ["323099"],
     "keywords": [],
     "position": ["Professor", null, "Research Scientist", "Professor"],
-    "img": "https://api.cristin.no/v2/persons/323099/picture",
+    "img": ["https://api.cristin.no/v2/persons/323099/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -705,5 +705,68 @@
         "url": "https://api.cristin.no/v2/results/1390233"
       }
     ]
+  },
+  "rg": {
+    "id": "Jan-Egil-Brattgjerd",
+    "name": "Jan Egil Brattgjerd",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Orthopaedics ORTHO",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Intermediate Dynamic Compression and Decreased Posterior Tilt With Interlocked Pins in Femoral Neck Fixation in Synthetic Bone",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Jan Egil Brattgjerd", "Sanyalak Niratisairak", "Harald Steen", "Knut Str⊘ms⊘e"],
+        "abstract": "Fixation failure with resulting nonunion is the key complication after femoral neck fixation. It can be avoided by permitting dynamic compression and reducing rotation and posterior tilt of the femoral head. To achieve this, a novel implant that features an interlocking plate with 3 hook-pins (The Hansson Pinloc? System) was developed from the orig..."
+      },
+      {
+        "title": "Interlocked Pins Increase Strength by a Lateral Spread of Load in Femoral Neck Fixation: a Cadaver Study",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Jan Egil Brattgjerd", "Sanyalak Niratisairak", "Harald Steen", "K Strømsøe"],
+        "abstract": "PURPOSE OF THE STUDY To improve the important torsional, bending and compressive stability in femoral neck fixation, locking plates have been the latest contribution. However, increased strength by restricted fracture motion may come at expense of an altered load distribution and failure patterns. Within locking plate technology, the important inte..."
+      },
+      {
+        "title": "Increased stability by a novel femoral neck interlocking plate compared to conventional fixation methods. A biomechanical study in synthetic bone",
+        "tags": ["Article"],
+        "date": "Apr 2020",
+        "authors": ["Jan Egil Brattgjerd", "Harald Steen", "Knut Strømsøe"],
+        "abstract": "Background\nStable fixation promotes union in the common femoral neck fractures, but high non-union rates due to fixation failure remain with traditional fixations. To enhance stability, a plate interlocking pins, but without further fixation to femur has been developed. To our knowledge, no comparison to other conventional fixation methods has been..."
+      },
+      {
+        "title": "The stabilising effect by a novel cable cerclage configuration in long cephalomedullary nailing of subtrochanteric fractures with a posteromedial wedge",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Pavel Mukherjee", "Jan Egil Brattgjerd", "Sanyalak Niratisairak", "Harald Steen"],
+        "abstract": "Background: \nClinical studies suggest that an adjunctive cerclage in intramedullary nailing of subtrochanteric fractures improves the outcome. Despite this, to what extent various cerclage configurations influences the fixation strength, remains undocumented. We tested the hypothesis that the stability of subtrochanteric fractures with a posteromed..."
+      },
+      {
+        "title": "High correlation between mechanical properties and bone mineral parameters in embalmed femurs after long-term storage",
+        "tags": ["Article"],
+        "date": "Sep 2018",
+        "authors": ["Bryan Wright", "Lydia Ragan", "Sanyalak Niratisairak", "Jan Egil Brattgjerd"],
+        "abstract": "Background: \nFresh frozen human femurs are considered \"the gold standard\" in biomechanical studies of hip fractures, resembling the in vivo situation mostly. A more readily available alternative is formalin embalmed femurs. However, to which extent formalin affects key features of bone; its mechanical properties, bone mineral content and their mutu..."
+      },
+      {
+        "title": "Increased torsional stability by a novel femoral neck locking plate. The role of plate design and pin configuration in a synthetic bone block model",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Jan Egil Brattgjerd", "Martin Loferer", "Sanyalak Niratisairak", "Knut Strømsøe"],
+        "abstract": "Background: \nIn undisplaced femoral neck fractures, internal fixation remains the main treatment, with mechanical failure as a frequent complication. As torsional stable fixation promotes femoral neck fracture healing, the Hansson Pinloc® System with a plate interlocking pins, was developed from the original hook pins. Since its effect on torsional..."
+      },
+      {
+        "title": "Vitamin D Use and Health Outcomes After Surgery for Hip Fracture",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Sheila Sprague", "Gerard P. Slobogean", "Earl Bogoch", "Christine Dobb"],
+        "abstract": "Daily administration of vitamin D is important for maintaining bone homeostasis. The orthopedic community has shown increased interest in vitamin D supplementation and patient outcomes after fracture. The current study used data from a large hip fracture trial to determine the proportion of patients who consistently used vitamin D after hip fractur..."
+      }
+    ],
+    "degree": ["M.D.", "PhD"],
+    "bio": [],
+    "publications": [7],
+    "reads": [1709],
+    "citations": [33]
   }
 }

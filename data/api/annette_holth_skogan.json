@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-8215-6396",
-    "name": "Annette Holth Skogan",
+    "orcid": ["0000-0002-8215-6396"],
+    "name": ["Annette Holth Skogan"],
     "distinctions": [],
     "education": [
       {
@@ -119,8 +119,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Annette Holth Skogan",
-    "id": "2969",
+    "name": ["Annette Holth Skogan"],
+    "id": ["2969"],
     "keywords": [],
     "position": ["Associate professor", null, null, null],
     "img": {},
@@ -242,5 +242,123 @@
         "url": "https://api.cristin.no/v2/results/132594"
       }
     ]
+  },
+  "rg": {
+    "id": "Annette-Skogan",
+    "name": "Annette Holth Skogan",
+    "img": "https://i1.rgstatic.net/ii/profile.image/278693000826883-1443456997612_Q128/Annette-Skogan.jpg",
+    "affiliation": "Vestre Viken Hospital Trust, Department of menta health and addiction",
+    "keywords": ["Cognitive Neuropsychology", "Cognitive Development", "Executive Function", "Neuropsychological Assessment", "Clinical Neuropsychology", "Cognitive Neuroscience", "Memory", "Clinical Psychology", "Learning and Memory", "Sleep, Memory and Learning"],
+    "works": [
+      {
+        "title": "Patients’ long-term perspectives on gains and losses after temporal lobe resection for epilepsy",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Eli Berit Kyte", "Annette Holth Skogan", "Åsne Bjøråsen Baklid", "Kristin Å Alfstad"],
+        "abstract": []
+      },
+      {
+        "title": "Screening of attention and executive functions in pediatric patients at a tertiary epilepsy center",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Lisa Evju Hauger", "Morten I Lossius", "Kari M Aaberg", "Annette Holth Skogan"],
+        "abstract": ["Objective: \nExecutive dysfunction is prevalent in children with epilepsy, and associated with poor psychosocial outcome. Sensitive and time effective tools are needed, which capture executive dysfunction across a wide range of impairment. The present study evaluates the applicability of EpiTrack Junior® (EpiTrackJr) as a screening tool at a tertiar..."]
+      },
+      {
+        "title": "Health-related quality of life in adults with drug-resistant focal epilepsy treated with modified Atkins diet in a randomized clinical trial",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Magnhild Kverneland", "Karl Otto Nakken", "Dag Hofoss", "Morten Ingvar Lossius"],
+        "abstract": ["Ketogenic diet, a high-fat, low-carbohydrate diet, is an established treatment for patients with severe epilepsy. We have previously reported a moderate reduction in seizure frequency after treatment with a modified Atkins diet. This study aimed to see whether dietary therapy impacts the patients' health-related quality of life (HRQOL). In a random..."]
+      },
+      {
+        "title": "Use of screening tools to assess comorbidities and adverse events in patients with epilepsy. A European Reference Network for Rare and Complex Epilepsies (EpiCARE) survey",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Oliver Henning", "Kristin Å Alfstad", "Cecilie Johannessen Landmark", "Annette Holth Skogan"],
+        "abstract": ["Purpose\nAs comorbidities can affect treatment decisions, quality of life, and prognosis in epilepsy, it is important that they are detected and addressed as soon as possible. Screening tools can help by rapidly assessing various additional challenges in epilepsy.\n\nMethods\nTo map the use and perceived benefit of different screening instruments for q..."]
+      },
+      {
+        "title": "Cognitive change after DBS in refractory epilepsy: A randomized‐controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Einar Heminghyt", "Helle Herrman", "Annette Holth Skogan", "Erik Taubøll"],
+        "abstract": ["Objectives: \nDeep brain stimulation of the anterior thalamic nucleus (ANT-DBS) reduces seizure frequency in patients with refractory epilepsy. There are, however, few studies on treatment-related changes in cognitive functions. The main objective of this study was to investigate cognitive changes in patients receiving ANT-DBS. We also explored whet..."]
+      },
+      {
+        "title": "Prenatal phthalate exposures and executive function in preschool children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Giehae Choi", "Gro Dehli Villanger", "Samantha Drover", "Stephanie M. Engel"],
+        "abstract": ["Background\nPrenatal phthalate exposure has been linked with altered neurodevelopment, including externalizing behaviors and attention-deficit hyperactivity disorder (ADHD). However, the implicated metabolite, neurobehavioral endpoint, and child sex have not always been consistent across studies, possibly due to heterogeneity in neurodevelopmental i..."]
+      },
+      {
+        "title": "Prenatal exposure to perfluoroalkyl substances and associations with symptoms of attention-deficit/hyperactivity disorder and cognitive functions in preschool children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Thea Steen Skogheim", "Gro Dehli Villanger", "Kjell Vegard Fjeldheim Weyde", "Heidi Aase"],
+        "abstract": ["Background: \nPerfluoroalkyl substances (PFASs) are persistent organic pollutants that are suspected to be neurodevelopmental toxicants, but epidemiological evidence on neurodevelopmental effects of PFAS exposure is inconsistent. We investigated the associations between prenatal exposure to PFASs and symptoms of attention-deficit/hyperactivity disor..."]
+      },
+      {
+        "title": "Ungdom og ADHD",
+        "tags": ["Chapter"],
+        "date": "Jun 2019",
+        "authors": ["Lin Sørensen", "Annette Holth Skogan"],
+        "abstract": []
+      },
+      {
+        "title": "Updated developmental norms for fine motor functions as measured by finger tapping speed and the Grooved Pegboard Test",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Annette Holth Skogan", "Beate Oerbeck", "Cathrine Christiansen", "Jens Egeland"],
+        "abstract": []
+      },
+      {
+        "title": "The influence of maternal dietary exposure to dioxins and PCBs during pregnancy on ADHD symptoms and cognitive functions in Norwegian preschool children",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Ida Henriette Caspersen", "Heidi Aase", "Guido Biele", "Helle K Knutsen"],
+        "abstract": ["Background: \nPolychlorinated dibenzo-p-dioxins/dibenzofurans (dioxins) and polychlorinated biphenyls (PCBs) are persistent organic pollutants (POPs) with potentially adverse impact on child neurodevelopment. Whether the potential detrimental effects of dioxins and PCBs on neurodevelopment are of specific or unspecific character is not clear.\n\nObjec..."]
+      },
+      {
+        "title": "Eksekutiv funksjon i tidlig førskolealder- funn fra den norske ADHD-studien",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Annette Holth Skogan", "Kristin Romvig Overgaard", "Nina Rohrer-Baumgartner", "Jens Egeland"],
+        "abstract": ["Aim: The main aim of the research presented in this article was to contribute to our understanding of executive function (EF) in early preschool years, and of possible associations between deficits in EF and the development of commonly occurring disorders such as Attention-Deficit/Hyperactivity Disorder (ADHD) and Oppositional-Defiant Disorder (ODD..."]
+      },
+      {
+        "title": "Parent ratings of executive function in young preschool children with symptoms of attention-deficit/-hyperactivity disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Annette Holth Skogan", "Pal Zeiner", "Jens Egeland", "Heidi Aase"],
+        "abstract": ["Background\nRecent research has demonstrated that deficits in basic, self-regulatory processes, or executive function (EF), may be related to symptoms of attention-deficit/hyperactivity disorder (ADHD) already during the preschool period. As the majority of studies investigating these relations in young children have been based primarily on clinical..."]
+      },
+      {
+        "title": "Factor structure of the Behavior Rating Inventory of Executive Functions (BRIEF-P) at age three years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Annette Holth Skogan", "Jens Egeland", "Pal Zeiner", "Heidi Aase"],
+        "abstract": ["The preschool period is an important developmental period for the emergence of cognitive self-regulatory skills or executive functions (EF). To date, evidence regarding the structure of EF in preschool children has supported both unitary and multicomponent models. The aim of the present study was to test the factor structure of early EF as measured..."]
+      },
+      {
+        "title": "Does IQ influence Associations between ADHD Symptoms and other Cognitive Functions in young Preschoolers?",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Nina Rohrer-Baumgartner", "Pal Zeiner", "Jens Egeland", "Heidi Aase"],
+        "abstract": ["Background\nWorking memory, inhibition, and expressive language are often impaired in ADHD and many children with ADHD have lower IQ-scores than typically developing children. The aim of this study was to test whether IQ-score influences associations between ADHD symptoms and verbal and nonverbal working memory, inhibition, and expressive language,..."]
+      },
+      {
+        "title": "Inhibition and working memory in young preschool children with symptoms of ADHD and/or oppositional-defiant disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Annette Holth Skogan", "Pal Zeiner", "Jens Egeland", "Heidi Aase"],
+        "abstract": ["Background: \nEarly symptoms of attention deficit/hyperactivity disorder (ADHD) and oppositional-defiant disorder (ODD) are associated with deficits in cognitive self-regulatory processes or executive functions (EF)s. However, the hypothesis that neurocognitive deficits underlying the two disorders are already evident during early preschool years st..."]
+      }
+    ],
+    "degree": ["Clinical", "neuropsychologist,", "PhD"],
+    "publications": [15],
+    "reads": [3221],
+    "citations": [311]
   }
 }

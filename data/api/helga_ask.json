@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Helga Ask",
-    "id": "G_mYnMEAAAAJ",
-    "affiliation": "Norwegian Institute of Public Health",
+    "name": ["Helga Ask"],
+    "id": ["G_mYnMEAAAAJ"],
+    "affiliation": ["Norwegian Institute of Public Health"],
     "data": {
       "publications": [
         {
@@ -1072,8 +1072,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-2055-0654",
-    "name": "Helga Ask",
+    "orcid": ["0000-0002-2055-0654"],
+    "name": ["Helga Ask"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1084,11 +1084,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Helga Ask",
-    "id": "5053",
+    "name": ["Helga Ask"],
+    "id": ["5053"],
     "keywords": ["Anxiety", "Depression", "Eating Disorders", "Mental Health", "Molecular genetics", "Mental Health", "Behavioural Genetics", "Quantitative genetics", "Youth and mental health"],
     "position": ["Associate professor", "Researcher", null],
-    "img": "https://api.cristin.no/v2/persons/5053/picture",
+    "img": ["https://api.cristin.no/v2/persons/5053/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1730,5 +1730,719 @@
         "url": "https://api.cristin.no/v2/results/1714188"
       }
     ]
+  },
+  "rg": {
+    "id": "Helga-Ask",
+    "name": "Helga Ask",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277614162923530-1443199782765_Q128/Helga-Ask.jpg",
+    "affiliation": "Norwegian Institute of Public Health, Centre for genetic epidemiology and mental health",
+    "keywords": ["Statistical Genetics", "Behavioral Genetics", "Adolescent Mental Health", "Marriage", "Developmental Psychopathology", "Psychology of Adolescence", "Psychopathology", "Psychological Assessment", "Mental Illness", "Child and Adolescent Psychiatry"],
+    "works": [
+      {
+        "title": "Common Etiological Sources of Anxiety, Depression, and Somatic Complaints in Adolescents: A Multiple Rater twin Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Helga Ask", "Trine Waaktaar", "Karoline B Seglem", "Svenn Torgersen"],
+        "abstract": ["Somatic complaints in children and adolescents may be considered part of a broader spectrum of internalizing disorders that include anxiety and depression. Previous research on the topic has focused mainly on the relationship between anxiety and depression without investigating how common somatic symptoms relate to an underlying factor and its etio..."]
+      },
+      {
+        "title": "Genetic and Environmental Influences on Adolescents' Smoking Involvement: A Multi-informant Twin Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Karoline B Seglem", "Trine Waaktaar", "Helga Ask", "Svenn Torgersen"],
+        "abstract": ["Studying monozygotic and dizygotic adoles-cent twin pairs of both sexes reared together, the present study examined the extent to which the variance in smoking involvement is attributable to genetic and envi-ronmental effects, and to what extent there are sex differ-ences in the etiology. Questionnaire data on how often the adolescent had ever smok..."]
+      },
+      {
+        "title": "Non-random Mating and Convergence Over Time for Mental Health, Life Satisfaction, and Personality: The Nord-Trondelag Health Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Helga Ask", "Mariann Idstad", "Bo Engdahl", "Kristian Tambs"],
+        "abstract": ["Earlier studies have shown evidence for various sources of observed spousal similarity regarding different traits and characteristics. We explored the relative contribution of non-random mating and convergence to spouse similarity with respect to global mental health, life satisfaction, optimism, and type A personality. We used population-based dat..."]
+      },
+      {
+        "title": "Effects of Sample Handling and Analytical Procedures on Thyroid Hormone Concentrations in Pregnant Women's Plasma",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["Gro Dehli Villanger", "Emily Learner", "Matthew P Longnecker", "Stephanie M Engel"],
+        "abstract": ["Background: \nMaternal thyroid function is a critical mediator of fetal brain development. Pregnancy-related physiologic changes and handling conditions of blood samples may influence thyroid hormone biomarkers. We investigated the reliability of thyroid hormone biomarkers in plasma of pregnant women under various handling conditions.\n\nMethods: \nWe..."]
+      },
+      {
+        "title": "Genotype-environment interplay in associations between maternal drinking and offspring emotional and behavioral problems - CORRIGENDUM",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2023",
+        "authors": ["Laurie John Hannigan", "Ingunn Olea Lund", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Conduct disorder - a comprehensive exploration of comorbidity patterns, genetic and environmental risk factors",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Natalia Tesli", "Piotr Jahołkowski", "Unn K Haukvik", "Ole A Andreasssen"],
+        "abstract": []
+      },
+      {
+        "title": "Correction: Incidence rates of treated mental disorders before and during the COVID-19 pandemic—a nationwide study comparing trends in the period 2015 to 2021",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Pia Jensen", "Bo Engdahl", "Kristin Gustavson", "Ragnar Nesvåg"],
+        "abstract": []
+      },
+      {
+        "title": "Genotype-environment interplay in associations between maternal drinking and offspring emotional and behavioral problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Laurie John Hannigan", "Ingunn Olea Lund", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": ["Background\nWhile maternal at-risk drinking is associated with children's emotional and behavioral problems, there is a paucity of research that properly accounts for genetic confounding and gene–environment interplay. Therefore, it remains uncertain what mechanisms underlie these associations. We assess the moderation of associations between matern..."]
+      },
+      {
+        "title": "COVID-19 illness severity and 2-year prevalence of physical symptoms: an observational study in Iceland, Sweden, Norway and Denmark",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Qing Shen", "Emily E. Joyce", "Omid V. Ebrahimi", "Unnur Valdimarsdóttir"],
+        "abstract": ["Background:\nAlthough the persistence of physical symptoms after SARS-CoV-2 infection is a major public health concern, evidence from large observational studies beyond one year post diagnosis remain scarce. We aimed to assess the prevalence of physical symptoms in relation to acute illness severity up to more than 2-years after diagnosis of COVID-1..."]
+      },
+      {
+        "title": "Intrauterine Growth and Offspring Neurodevelopmental Traits: A Mendelian Randomization Analysis of the Norwegian Mother, Father and Child Cohort Study (MoBa)",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Shannon D'Urso", "Gunn-Helen Moen", "Daniel Liang-Dar Hwang", "Alexandra Havdahl"],
+        "abstract": ["Importance\nConventional epidemiological analyses have suggested that lower birth weight is associated with later neurodevelopmental difficulties; however, it is unclear whether this association is causal.\n\nObjective\nTo investigate the relationship between intrauterine growth and offspring neurodevelopmental difficulties.\n\nDesign, Setting, and Parti..."]
+      },
+      {
+        "title": "Mental Distress Among Norwegian Adults During the COVID-19 Pandemic: Predictors in Initial Response and Subsequent Trajectories",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Li Lu", "Laurie Hannigan", "Ragnhild E Brandlistuen", "Helga Ask"],
+        "abstract": ["Objectives: To identify factors associated with change in mental distress at the onset of the COVID-19 pandemic, relative to pre-pandemic levels, and with changes during the following 1.5 years.\nMethods: The prospective Norwegian Mother, Father and Child Cohort Study collected eight waves of data during the pandemic (March 2020–September 2021) in 1..."]
+      },
+      {
+        "title": "Contact with primary care physicians among adults with pre-existing common mental health problems during the COVID-19 pandemic: a registry-based study from Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Pia Jensen", "Christian Madsen", "Lars Johan Hauge", "Ragnar Nesvåg"],
+        "abstract": ["Background\nDuring the COVID-19 pandemic, individuals with pre-existing mental health problems may have experienced additional stress, which could worsen symptoms or trigger relapse. Thus, this study aimed to investigate if the number of consultations with general practitioners (GPs) among individuals with a pre-existing common mental health problem..."]
+      },
+      {
+        "title": "W60. INVESTIGATING THE RELATIONSHIP BETWEEN SLEEP PHENOTYPES AND NEURODEVELOPMENTAL CONDITIONS IN CHILDREN AND ADOLESCENTS FROM THE NORWEGIAN MOTHER, FATHER, AND CHILD COHORT STUDY (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Elizabeth Corfield", "Laurie Hannigan", "Ted Reichborn-Kjennerud", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "T57. TESTING INTRAUTERINE EFFECTS OF VITAMIN-D AND OMEGA-3 LEVELS ON OFFSPRING NEURODEVELOPMENTAL TRAITS IN THE NORWEGIAN MOTHER, FATHER AND CHILD COHORT STUDY",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Robyn Wootton", "Kyle Dack", "Lucy Riglin", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic and phenotypic heterogeneity in early neurodevelopmental traits in the Norwegian Mother, Father and Child Cohort Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Laura Hegemann", "Elizabeth Corfield", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": ["Different neurodevelopmental conditions such as autism and ADHD frequently co-occur. Overlapping traits and shared genetic liability are potential explanations. We examine this using data from the population-based Norwegian Mother, Father, and Child Cohort study (MoBa), leveraging item-level data to explore the phenotypic factor structure and genet..."]
+      },
+      {
+        "title": "Disentangling direct and indirect genetic effects from partners and offspring on maternal depression using trio-GCTA",
+        "tags": ["Preprint"],
+        "date": "Sep 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Espen Moen Eilertsen", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Maternal depressive symptoms are highly prevalent and can negatively impact affected individuals and family members. Understanding aetiological influences on maternal depression, such as genetic liability, is key to inform treatment and prevention efforts. In the present study, we quantified direct and indirect genetic effects (i.e., when genetic v..."]
+      },
+      {
+        "title": "The relationship between screen-based behaviors and adolescent mental health: a phenotypic and genetic analysis",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Evgeniia Frei", "Piotr Jahołkowski", "Pravesh Parekh", "Olav B Smeland"],
+        "abstract": ["Objective\nTechnological advances made screen devices readily available, with adolescents spending an increasing amount of time on screens. Despite rising concerns, evidence on the relationship between screen-based activities and adolescent mental health remains inconsistent.\n\nMethod\nUsing self-reports from the Norwegian Mother, Father, and Child Co..."]
+      },
+      {
+        "title": "Incidence rates of treated mental disorders before and during the COVID-19 pandemic—a nationwide study comparing trends in the period 2015 to 2021",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Pia Jensen", "Bo Engdahl", "Kristin Gustavson", "Ragnar Nesvåg"],
+        "abstract": ["Background\nThere is a concern that exposure to psychosocial stressors during the COVID-19 pandemic may have led to a higher incidence of mental disorders. Thus, this study aimed to compare trends in incidence rates of depressive disorder, anxiety disorders, obsessive–compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and eating disor..."]
+      },
+      {
+        "title": "Childhood maltreatment and subsequent risk of hospitalization or death due to COVID-19: a cohort study in the UK Biobank",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Yue Wang", "Fenfen Ge", "Thor Aspelund", "Unnur A Valdimarsdottir"],
+        "abstract": ["Childhood maltreatment has been associated with some infection-related outcomes, yet its potential role in severe COVID-19 outcomes has not been addressed. Therefore, leveraging longitudinal data from the population-based UK Biobank (N=151,427), our study aimed to explore the association between childhood maltreatment and severe COVID-19 outcomes (..."]
+      },
+      {
+        "title": "Supplementary materials for \"Elevated symptoms of depression and anxiety among family members and friends of critically ill COVID-19 patients - an observational study of five cohorts across four countries\" Lovik A et al_LancetRHE 2023",
+        "tags": ["Data"],
+        "date": "Sep 2023",
+        "authors": ["Anikó Lovik", "Juan González Hijon", "Asle Hoffart", "Fang Fang"],
+        "abstract": ["More detailed descriptives for each participating cohort and sensitivity analyses - all materials are referenced within the main text"]
+      },
+      {
+        "title": "Elevated symptoms of depression and anxiety among family members and friends of critically ill COVID-19 patients - an observational study of five cohorts across four countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Anikó Lovik", "Juan González Hijon", "Asle Hoffart", "Fang Fang"],
+        "abstract": ["Background. Little is known regarding the mental health impact of having a significant person (family member and/or close friend) with COVID-19 of different severity.\nMethods. The study included five prospective cohorts from four countries (Iceland, Norway, Sweden, and the UK) with self-reported data on COVID-19 and symptoms of depression and anxie..."]
+      },
+      {
+        "title": "The genetic architecture of differentiating behavioural and emotional problems in early life",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Adrian Dahl Askelund", "Laura Hegemann", "Andrea G Allegrini", "Laurie Hannigan"],
+        "abstract": ["Early in life, behavioural and cognitive traits associated with risk for developing a psychiatric condition are broad and undifferentiated. As children develop, these traits differentiate into characteristic clusters of symptoms and behaviours that ultimately form the basis of diagnostic categories. Understanding this differentiation process - in t..."]
+      },
+      {
+        "title": "Parental drinking, mental health and educational level, and offspring’s subsequent prescription drugs treatment for sleep problems. A longitudinal HUNT survey and registry study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Ingunn Olea Lund", "Njål Andersen", "Helga Ask", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Background\nParental drinking, mental health and family socioeconomic status are all associated with offspring sleep problems, but there is a paucity of research that considers the effect of risk factors, as they co-occur within and across families. Also, sleep problems are closely linked with mental health problems. Disentangling the effects on one..."]
+      },
+      {
+        "title": "Exploring the differentiation of behavioural and emotional problems across childhood: A prospective longitudinal cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Adrian Dahl Askelund", "Helga Ask", "Eivind Ystrom", "Laurie Hannigan"],
+        "abstract": ["Background\nAn individual's overall burden of behavioural and emotional problems across childhood is associated with increased likelihood of later mental health conditions. However, the relative extent of behavioural versus emotional problems ‐ that is, the extent to which the domains are differentiated from one another ‐ may provide additional info..."]
+      },
+      {
+        "title": "Developmental manifestations of polygenic risk for bipolar disorder from infancy to middle childhood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Ragna Bugge Askeland", "Laurie Hannigan", "Kevin S O'Connell", "Alexandra Havdahl"],
+        "abstract": ["Knowledge on how genetic risk for bipolar disorder manifests in developmental, emotional or behavioral traits during childhood is lacking. This issue is important to address to inform early detection and intervention efforts. We investigated whether polygenic risk for bipolar disorder is associated with developmental outcomes during early to middle..."]
+      },
+      {
+        "title": "Effects of urban living environments on mental health in adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Jiayuan Xu", "Nana Liu", "Elli Polemiti", "George Ogoh"],
+        "abstract": ["Urban-living individuals are exposed to many environmental factors that may combine and interact to influence mental health. While individual factors of an urban environment have been investigated in isolation, no attempt has been made to model how complex, real-life exposure to living in the city relates to brain and mental health, and how this is..."]
+      },
+      {
+        "title": "COVID-19 illness severity and 2-year prevalence of physical symptoms: an observational study in Iceland, Sweden, Norway and Denmark",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Qing Shen", "Emily E. Joyce", "Omid V. Ebrahimi", "Unnur Valdimarsdóttir"],
+        "abstract": ["Background. \nPersistence of physical symptoms after SARS-CoV-2 infection is a major public health concern, although evidence from large observational studies remain scarce. We aimed to assess the prevalence of physical symptoms in relation to acute illness severity up to more than 2-years after diagnosis of COVID-19.\nMethods. \nThis multinational st..."]
+      },
+      {
+        "title": "Incidence rates of treated mental disorders before and during the COVID-19 pandemic - a nationwide study comparing trends in the period 2015 to 2021",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Pia Jensen", "Bo Engdahl", "Kristin Gustavson", "Ragnar Nesvåg"],
+        "abstract": ["Background: There is a concern that exposure to psychosocial stressors during the COVID-19 pandemic may have led to a higher incidence of mental disorders. Thus, this study aimed to compare trends in incidence rates of depressive disorder, anxiety disorders, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and eating diso..."]
+      },
+      {
+        "title": "Examining Intergenerational Risk Factors for Conduct Problems Using Polygenic Scores in the Norwegian Mother, Father and Child Cohort Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Leonard Frach", "Wikus Barkhuizen", "Andrea G Allegrini", "Jean-Baptiste Pingault"],
+        "abstract": ["Conduct problems in children and adolescents affect individuals, families, and their environment. The aetiology of conduct problems involves a combination of genetic and environmental risk factors, many of which are inherently linked to parental characteristics given parents’ central role in children’s lives across development. It is important to d..."]
+      },
+      {
+        "title": "Elevated symptoms of depression and anxiety among family members and friends of critically ill COVID-19 patients - An observational study of five cohorts across four countries",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Anikó Lovik", "Juan González Hijon", "Asle Hoffart", "Fang Fang"],
+        "abstract": ["Background\nLittle is known regarding the mental health impact of having a significant person (family member and/or close friend) with COVID-19 of different severity.\n\nMethods\nThe study included five prospective cohorts from four countries (Iceland, Norway, Sweden, and the UK) with self-reported data on COVID-19 and symptoms of depression and anxiet..."]
+      },
+      {
+        "title": "Intergenerational effects of parental educational attainment on parenting and childhood educational outcomes: Evidence from MoBa using within-family Mendelian randomization",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Alexandra Havdahl", "Amanda Hughes", "Eleanor Sanderson", "Neil M Davies"],
+        "abstract": ["The intergenerational transmission of educational attainment from parents to their children is one of the most important and studied relationships in social science. Longitudinal studies have found strong associations between parents' and their children's educational outcomes, which could be due to the effects of parents. Here we provide new eviden..."]
+      },
+      {
+        "title": "Mental distress among Norwegian adults during the Covid-19 pandemic: predictors of initial response and subsequent trajectories",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Li Lu", "Laurie Hannigan", "Ragnhild E Brandlistuen", "Helga Ask"],
+        "abstract": ["Background: Understanding factors associated with mental distress during a pandemic is imperative for planning interventions to reduce the negative mental health impact of future crises. Our aim was to identify factors associated with change in levels of mental distress in the Norwegian adult population at the onset of the Covid–19 pandemic, relati..."]
+      },
+      {
+        "title": "Contact with primary care physicians among adults with pre-existing common mental health problems during the COVID-19 pandemic: a registry-based study from Norway",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Pia Jensen", "Christian Madsen", "Lars Johan Hauge", "Ragnar Nesvåg"],
+        "abstract": ["Background: During the COVID-19 pandemic, individuals with pre-existing mental health problems may have experienced additional stress, which could worsen symptoms or trigger relapse.\nObjective: To investigate if the number of consultations with general practitioners (GPs) among individuals with a pre-existing common mental health problem during the..."]
+      },
+      {
+        "title": "Genotype-environment interplay in associations between maternal drinking and offspring emotional and behavioral problems",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Laurie John Hannigan", "Ingunn Olea Lund", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": ["Objective: We assess the moderation of associations between maternal at-risk drinking and childhood emotional and behavioral problems by common genetic variants linked to environmental sensitivity (genotype-environment interaction), while accounting for shared genetic risk between mothers and offspring (genotype-environment correlation). Method: We..."]
+      },
+      {
+        "title": "Body mass index and childhood symptoms of depression, anxiety, and attention-deficit hyperactivity disorder: A within-family Mendelian randomization study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Amanda Hughes", "Eleanor Sanderson", "Tim Morris", "Neil M Davies"],
+        "abstract": ["Background: \nHigher BMI in childhood is associated with emotional and behavioural problems, but these associations may not be causal. Results of previous genetic studies imply causal effects but may reflect influence of demography and the family environment.\n\nMethods: \nThis study used data on 40,949 8-year-old children and their parents from the No..."]
+      },
+      {
+        "title": "Parental drinking, mental health and educational level, and offspring’s subsequent prescription drugs treatment for sleep problems. A Longitudinal HUNT Survey and Registry Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ingunn Olea Lund", "Njål Andersen", "Helga Ask", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Background\nParental drinking, mental health and family socioeconomic status are all associated with offspring sleep problems, but there is a paucity of research that considers the effect of several risk factors together, as they co-occur within and across families. Also, sleep problems are closely linked with mental health problems and disentanglin..."]
+      },
+      {
+        "title": "Genetic nurture versus genetic transmission of risk for ADHD traits in the Norwegian Mother, Father and Child Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Jean-Baptiste Pingault", "Wikus Barkhuizen", "Biyao Wang", "Alexandra Havdahl"],
+        "abstract": ["Identifying mechanisms underlying the intergenerational transmission of risk for attention-deficit/hyperactivity disorder (ADHD) traits can inform interventions and provide insights into the role of parents in shaping their children’s outcomes. We investigated whether genetic transmission and genetic nurture (environmentally mediated effects) under..."]
+      },
+      {
+        "title": "Childhood temperamental, emotional, and behavioral characteristics associated with mood and anxiety disorders in adolescence: A prospective study",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Nora R. Bakken", "Laurie J. Hannigan", "Alexey Shadrin", "Alexandra Havdahl"],
+        "abstract": ["Background: \nMood and anxiety disorders account for a large share of the global burden of disability. Some studies suggest that early signs may emerge already in childhood. However, there is a lack of well-powered, prospective studies investigating how and when childhood mental traits and trajectories relate to adolescent mood and anxiety disorders..."]
+      },
+      {
+        "title": "36. THE GENOMICS OF PSYCHIATRIC SYMPTOM DIFFERENTIATION IN EARLY LIFE",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Adrian Dahl Askelund", "Laura Hegemann", "Elizabeth Corfield", "Laurie John Hannigan"],
+        "abstract": []
+      },
+      {
+        "title": "INDIRECT GENETIC INFLUENCES ON MENTAL DISTRESS IN MOTHER-FATHER-OFFSPRING TRIOS DURING THE COVID-19 LOCKDOWN",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Johanne Pettersen", "Laurie Hannigan", "Espen Moen Eilertsen", "Helga Ask"],
+        "abstract": []
+      },
+      {
+        "title": "DISENTANGLING INTRAFAMILIAL GENETIC EFFECTS ON MATERNAL DEPRESSION USING TRIO-GCTA",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Ludvig Daae Bjørndal", "Espen Moen Eilertsen", "Jessie Baldwin", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "T93. POLYGENIC SCORES FOR MENTAL DISORDERS AND ADOLESCENT LEVEL OF MENTAL DISTRESS DURING THE FIRST YEAR OF THE COVID-19 PANDEMIC",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Johanne Pettersen", "Laurie Hannigan", "Kristin Gustavson", "Helga Ask"],
+        "abstract": []
+      },
+      {
+        "title": "GENETIC PROFILE OF THE NORWEGIAN MOTHER, FATHER, AND CHILD COHORT STUDY (MOBA): RESULTS FROM THE MOBAPSYCHGEN PIPELINE",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Elizabeth Corfield", "Alexey Shadrin", "Oleksandr Frei", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "52. LATENT POLYGENIC PROFILE ANALYSIS (LPPA) AS A TOOL FOR DIMENSION REDUCTION AND EXPLORING THE PHENOTYPIC CORRELATES OF OVERLAPPING GENETIC LIABILITIES",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Laurie Hannigan", "Laura Hegemann", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "DIRECT AND INDIRECT GENETIC EFFECTS OF PARENTAL MENTAL HEALTH ON CHILDHOOD EMOTIONAL PROBLEMS IN THE NORWEGIAN MOTHER, FATHER, AND CHILD COHORT STUDY (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Robyn Wootton", "Hannah Sallis", "Joanna Martin", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "T98. GENE-ENVIRONMENT INTERPLAY IN ASSOCIATIONS BETWEEN MATERNAL AT-RISK DRINKING AND EARLY CHILDHOOD EMOTIONAL AND BEHAVIOURAL DEVELOPMENT IN THE NORWEGIAN MOTHER, FATHER, AND CHILD COHORT STUDY",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Laurie Hannigan", "Ingunn Olea Lund", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "PHENOTYPIC AND GENETIC HETEROGENEITY OF POSTPARTUM DEPRESSION SUBTYPES",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Anna Bauer", "Piotr Jahołkowski", "Lu Yi", "Helga Ask"],
+        "abstract": []
+      },
+      {
+        "title": "74. DEVELOPMENTAL MANIFESTATIONS OF POLYGENIC RISK FOR BIPOLAR DISORDER FROM INFANCY TO MIDDLE CHILDHOOD",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Ragna Askeland", "Laurie Hannigan", "Elizabeth Corfield", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "T92. ASSOCIATION BETWEEN THE GENETIC LIABILITY TO PSYCHIATRIC DISORDERS AND COVID-19 ILLNESS SEVERITY",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Kadri Kõiv", "Urmo Võsa", "Elis Haan", "for the COVIDMENT consortium"],
+        "abstract": []
+      },
+      {
+        "title": "Beyond the \"p\" factor: exploring the role of symptom differentiation across childhood in the emergence of psychopathology",
+        "tags": ["Preprint"],
+        "date": "Sep 2022",
+        "authors": ["Adrian Dahl Askelund", "Helga Ask", "Eivind Ystrom", "Laurie John Hannigan"],
+        "abstract": ["Background\nDifferent mental health conditions have many risk factors in common. Recently, the “p” factor has become a popular model to explain this common aetiology. Yet, despite their shared aetiology, differentiated symptom profiles provide clinicians with a basis to assign distinct diagnoses. Here, we explore how psychiatric symptoms begin to di..."]
+      },
+      {
+        "title": "Associations Between Pregnancy-Related Predisposing Factors for Offspring Neurodevelopmental Conditions and Parental Genetic Liability to Attention-Deficit/Hyperactivity Disorder, Autism, and Schizophrenia: The Norwegian Mother, Father and Child Cohort Study (MoBa)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Alexandra Havdahl", "Robyn E. Wootton", "Beate Leppert", "Evie Stergiakouli"],
+        "abstract": ["Importance: \nSeveral maternal exposures during pregnancy are considered predisposing factors for offspring neurodevelopmental conditions. However, many of these exposures may be noncausal and biased by maternal genetic liability.\n\nObjective: \nTo assess whether pregnancy-related predisposing factors for offspring neurodevelopmental conditions are as..."]
+      },
+      {
+        "title": "The Norwegian Mother, Father, and Child cohort study (MoBa) genotyping data resource: MoBaPsychGen pipeline v.1",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Elizabeth Corfield", "Oleksandr Frei", "Alexey Shadrin", "Alexandra Havdahl"],
+        "abstract": ["BACKRGROUND: The Norwegian Mother, Father, and Child Cohort Study (MoBa) is a population-based pregnancy cohort, which includes approximately 114,500 children, 95,200 mothers, and 75,200 fathers. Genotyping of MoBa has been conducted through multiple research projects, spanning several years; using varying selection criteria, genotyping arrays, and..."]
+      },
+      {
+        "title": "The Norwegian Mother, Father, and Child cohort study (MoBa) genotyping data resource: MoBaPsychGen pipeline v.1",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Elizabeth Corfield", "Oleksandr Frei", "Alexey Shadrin", "Alexandra Havdahl"],
+        "abstract": ["Background\nThe Norwegian Mother, Father, and Child Cohort Study (MoBa) is a population-based pregnancy cohort, which includes approximately 114,500 children, 95,200 mothers, and 75,200 fathers.\nGenotyping of MoBa has been conducted through multiple research projects, spanning several years; using varying selection criteria, genotyping arrays, and g..."]
+      },
+      {
+        "title": "Within-sibship genome-wide association analyses decrease bias in estimates of direct genetic effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Laurence J. Howe", "Michel G. Nivard", "Tim Morris", "Neil M Davies"],
+        "abstract": ["Estimates from genome-wide association studies (GWAS) of unrelated individuals capture effects of inherited variation (direct effects), demography (population stratification, assortative mating) and relatives (indirect genetic effects). Family-based GWAS designs can control for demographic and indirect genetic effects, but large-scale family datase..."]
+      },
+      {
+        "title": "Association between work situation and life satisfaction during the COVID-19 pandemic: prospective cohort study in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Ellen Øen Carlsen", "Ida Henriette Caspersen", "Helga Ask", "Per Magnus"],
+        "abstract": ["Objectives: \nTo estimate the impact of being laid off from work, having to work from home or having been diagnosed with COVID-19 on self-reported satisfaction with life.\n\nDesign: \nNationwide population-based cohort study.\n\nSetting: \nNorway.\n\nParticipants: \nWe followed more than 80 000 participants in an ongoing cohort study, the Norwegian Mother, F..."]
+      },
+      {
+        "title": "Genome-wide Association Meta-analysis of Childhood and Adolescent Internalizing Symptoms",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Eshim S Jami", "Anke R. Hammerschlag", "Hill Fung Ip", "Christel M. Middeldorp"],
+        "abstract": ["Objective\nTo investigate the genetic architecture of internalizing symptoms in childhood and adolescence.\n\nMethod\nIn 22 cohorts, multiple univariate genome-wide association studies (GWASs) were performed using repeated assessments of internalizing symptoms, in a total of 64,561 children aged between 3 and 18. Results were aggregated in meta-analyse..."]
+      },
+      {
+        "title": "Parental drinking, mental health and education, and extent of offspring’s healthcare utilisation for anxiety/depression: A HUNT survey and registry study",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Ingunn Olea Lund", "Njål Andersen", "Marte Handal", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Aims\nCertain risk constellations of parental drinking, mental health and years of education are prospectively associated with offspring’s risk for a diagnosis of anxiety/depression, but it remains unknown how they may relate to other aspects of offspring’s mental health. We examined whether such risk constellations were also prospectively associate..."]
+      },
+      {
+        "title": "Childhood temperamental, emotional, and behavioral predictors of clinical mood and anxiety disorders in adolescence",
+        "tags": ["Preprint"],
+        "date": "Mar 2022",
+        "authors": ["Nora Refsum Bakken", "Laurie Hannigan", "Alexey Shadrin", "Alexandra Havdahl"],
+        "abstract": ["Background\nMood and anxiety disorders, often emerging during adolescence, account for a large share of the global burden of disability. Prospectively assessed premorbid early signs and trajectories can provide useful insights for early detection and development of these disorders.\n\nMethods\nUsing the health registry linked Norwegian Mother, Father a..."]
+      },
+      {
+        "title": "Acute COVID-19 severity and mental health morbidity trajectories in patient populations of six nations: an observational study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Ingibjörg Magnúsdóttir", "Anikó Lovik", "Anna Bára Unnarsdóttir", "Unnur Valdimarsdóttir"],
+        "abstract": ["Background\nLong-term mental and physical health consequences of COVID-19 (long COVID) are a persistent public health concern. Little is still known about the long-term mental health of non-hospitalised patients with COVID-19 with varying illness severities. Our aim was to assess the prevalence of adverse mental health symptoms among individuals dia..."]
+      },
+      {
+        "title": "Risk of attention‐deficit hyperactivity disorder in offspring of mothers with infections during pregnancy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Kjersti Mæhlum Walle", "Ragna B. Askeland", "Kristin Gustavson", "Helga Ask"],
+        "abstract": ["Background: \nMaternal infections during pregnancy are common events that have been suggested to be risk factors for Attention-deficit hyperactivity disorder (ADHD) in offspring. Only a few studies have been conducted to date and results are conflicting. The current study investigates the associations between specific groups of prenatal maternal inf..."]
+      },
+      {
+        "title": "Educational attainment and mortality in schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Martin Tesli", "Eirik Degerud", "Oleguer Plana-Ripoll", "Oyvind Naess"],
+        "abstract": ["Background: \nIndividuals suffering from schizophrenia have a reduced life expectancy with cardiovascular disease (CVD) as a major contributor. Low educational attainment is associated with schizophrenia as well as with all-cause and CVD mortality. However, it is unknown to what extent low educational attainment can explain the increased mortality i..."]
+      },
+      {
+        "title": "Acute COVID-19 severity and 16-month mental morbidity trajectories in patient populations of six nations",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Ingibjörg Magnúsdóttir", "Anikó Lovik", "Anna Bára Unnarsdóttir", "Unnur Valdimarsdóttir"],
+        "abstract": ["BACKGROUND\nThe aim of this multinational study was to assess the development of adverse mental health symptoms among individuals diagnosed with COVID-19 in the general population by acute infection severity up to 16 months after diagnosis.\nMETHODS\nParticipants consisted of 247 249 individuals from seven cohorts across six countries (Denmark, Estoni..."]
+      },
+      {
+        "title": "Intergenerational transmission of parental neuroticism to emotional problems in 8‐year‐old children: Genetic and environmental influences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Helga Ask", "Espen Moen Eilertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": ["Background: \nChildren of parents with high levels of neuroticism tend to have high neuroticism themselves as well as increased risk of experiencing symptoms of anxiety and depression. It is not yet clear how much of this link is attributable to a potential effect of parent on child (e.g., via a socializing effect) versus to shared genetic risk. We..."]
+      },
+      {
+        "title": "Cohort Profile: COVIDMENT: COVID-19 cohorts on mental health across six nations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Anna Bára Unnarsdóttir", "Anikó Lovik", "Chloe Fawns-Ritchie", "Unnur Valdimarsdóttir"],
+        "abstract": ["Key features\n\nCOVIDMENT [www.covidment.is] is a NordForsk-funded research collaboration across six nations, with the overarching aim to significantly advance current knowledge on mental morbidity trajectories associated with the coronavirus disease 2019 (COVID-19) in the general population and in specific risk groups.\n\nFrom March 2020 through Augus..."]
+      },
+      {
+        "title": "Genome-wide association study identifies new locus associated with OCD",
+        "tags": ["Preprint"],
+        "date": "Oct 2021",
+        "authors": ["Nora I. Strom", "Dongmei Yu", "Zachary Gerring", "Manuel Mattheisen"],
+        "abstract": ["Obsessive-compulsive disorder (OCD) is a heritable disorder, but no definitive, replicated OCD susceptibility loci have yet been identified by any genome-wide association study (GWAS). Here, we report results from a GWAS in the largest OCD case-control sample (N = 14,140 OCD cases and N = 562,117 controls) to date. We explored the genetic architect..."]
+      },
+      {
+        "title": "Early manifestations of genetic risk for neurodevelopmental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Ragna Bugge Askeland", "Laurie Hannigan", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background: \nAttention deficit/hyperactivity disorder (ADHD), autism spectrum disorder (autism) and schizophrenia are highly heritable neurodevelopmental disorders, affecting the lives of many individuals. It is important to increase our understanding of how the polygenic risk for neurodevelopmental disorders manifests during childhood in boys and..."]
+      },
+      {
+        "title": "TU14. GENOME-WIDE ASSOCIATION STUDY OF CHILDHOOD SOCIAL COMMUNICATION AND REPETITIVE BEHAVIOR IN THE NORWEGIAN MOTHER, FATHER AND CHILD STUDY (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Ragna Askeland", "Elizabeth Corfield", "Varun Warrier", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "The causal effects of body mass index (BMI) on childhood symptoms of depression, anxiety disorder, and attention-deficit hyperactivity disorder: a within family Mendelian randomization study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Amanda Hughes", "Tim Morris", "Ziada Ayorech", "Neil M Davies"],
+        "abstract": ["Objectives: Higher BMI in childhood predicts neurodevelopmental and emotional problems, but it is unclear if these associations are causal. Previous genetic studies imply causal effects of childhood BMI on depression and attention-deficit hyperactivity disorder (ADHD), but these observations might also reflect effects of demography and the family e..."]
+      },
+      {
+        "title": "Developmental milestones in early childhood and genetic liability to neurodevelopmental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Laurie Hannigan", "Ragna Bugge Askeland", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background\nTiming of developmental milestones, such as age at first walking, is associated with later diagnoses of neurodevelopmental disorders. However, its relationship to genetic risk for neurodevelopmental disorders in the general population is unknown. Here, we investigate associations between attainment of early-life language and motor develo..."]
+      },
+      {
+        "title": "399The causal effect of BMI on neurodevelopment: a within family Mendelian randomization study using MoBa",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Amanda Hughes", "Tim Morris", "Ziada Ayorech", "Alexandra Havdahl"],
+        "abstract": ["Background\nHigher BMI in childhood predicts subsequent neurodevelopmental and emotional problems, but it is unclear if associations are causal. Observational studies are vulnerable to reverse causation and confounding. Mendelian randomization (MR) studies with unrelated individuals can also suffer from familial biases, such as dynastic effects (“ge..."]
+      },
+      {
+        "title": "Common Genetic Variation And Age at Onset Of Anorexia Nervosa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Hunna J Watson", "Laura M Thornton", "Zeynep Yilmaz", "Cynthia M. Bulik"],
+        "abstract": ["Background\nGenetics and biology may influence the age at onset of anorexia nervosa (AN). The aims of this study were to determine whether common genetic variation contributes to AN age at onset and to investigate the genetic associations between age at onset of AN and age at menarche.\n\nMethods\nA secondary analysis of the Psychiatric Genomics Consor..."]
+      },
+      {
+        "title": "Genetic and environmental contributions to co-occurring ADHD and emotional problems in school-aged children",
+        "tags": ["Article"],
+        "date": "Aug 2021",
+        "authors": ["Kristin Gustavson", "Fartein Ask Torvik", "Espen Moen Eilertsen", "Line C. Gjerde"],
+        "abstract": ["Children with attention deficit hyperactivity disorder (ADHD) often experience co-occurring emotional problems. ADHD with this comorbidity is associated with poorer outcomes than ADHD without comorbidity. Better understanding of the etiology of comorbidity could improve prevention of negative outcomes for children with ADHD. The sample consisted of..."]
+      },
+      {
+        "title": "Acetaminophen use during pregnancy and offspring attention deficit hyperactivity disorder – a longitudinal sibling control study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Kristin Gustavson", "Eivind Ystrom", "Helga Ask", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background: \nMaternal acetaminophen use during pregnancy is associated with increased risk of ADHD in the child. This could reflect causal influence of acetaminophen on fetal neurodevelopment or could be due to confounding factors. The aim of the current study was to examine unmeasured familial confounding factors of this association.\n\nMethods: \nWe..."]
+      },
+      {
+        "title": "Childhood phenotypic manifestations of genetic risk for anorexia nervosa in the Norwegian Mother, Father and Child Cohort Study (MoBa)",
+        "tags": ["Preprint"],
+        "date": "Mar 2021",
+        "authors": ["Ziada Ayorech", "Hunna J Watson", "Zeynep Yilmaz", "Neil M Davies"],
+        "abstract": ["Anorexia nervosa (AN) polygenic liability has been associated with mental health traits, eating problems, and body mass index (BMI) in adolescence and adulthood, but little is known about its manifestations in early childhood. We explore AN polygenic score (PGS) associations with six childhood domains: BMI, eating problems, neurodevelopment, emotio..."]
+      },
+      {
+        "title": "Identifying intergenerational risk factors for ADHD symptoms using polygenic scores in the Norwegian Mother, Father and Child Cohort",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Jean-Baptiste Pingault", "Wikus Barkhuizen", "Biyao Wang", "Alexandra Havdahl"],
+        "abstract": ["Importance: Knowledge of the mechanisms underlying the intergenerational transmission of risk for attention-deficit/hyperactivity disorder (ADHD) symptoms can inform psychosocial interventions.\nObjective: To investigate whether parental genetic risk factors associate with their children's ADHD symptoms due to genetic transmission of risk or due to..."]
+      },
+      {
+        "title": "Parental Drinking, Mental Health, and Education; The Association with Offspring’s Recurring contact with Healthcare Services for Anxiety/Depression. A longitudinal Combined HUNT Survey and Health Registry Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Ingunn Olea Lund", "Njål Andersen", "Marte Handal", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Background and aims: Previous research have shown that certain risk constellations of parental drinking, mental health, and years of education were prospectively associated with increased risk of offspring receiving a diagnosis and/or treatment for anxiety/depression. We know less about how such constellations may relate to other aspects of offspri..."]
+      },
+      {
+        "title": "Genetic contributions to anxiety disorders: Where we are and where we are heading",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Helga Ask", "Rosa Cheesman", "Eshim S Jami", "Heike Weber"],
+        "abstract": ["Anxiety disorders are among the most common psychiatric disorders worldwide. They often onset early in life, with symptoms and consequences that can persist for decades. This makes anxiety disorders some of the most debilitating and costly disorders of our time. Although much is known about the synaptic and circuit mechanisms of fear and anxiety, r..."]
+      },
+      {
+        "title": "Genetic Liability for Schizophrenia and Childhood Psychopathology in the General Population",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Laurie Hannigan", "Ragna Bugge Askeland", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Genetic liability for schizophrenia is associated with psychopathology in early life. It is not clear if these associations are time dependent during childhood, nor if they are specific across different forms of psychopathology. Using genotype and questionnaire data on children (N = 15 105) from the Norwegian Mother, Father and Child Cohort Study,..."]
+      },
+      {
+        "title": "The association between work situation and life satisfaction during the COVID-19 pandemic: prospective cohort study in Norway",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Ellen Øen Carlsen", "Ida Henriette Caspersen", "Helga Ask", "Per Magnus"],
+        "abstract": ["Objectives\nTo analyse the population effects on life quality of being laid off from work, having to work from home, or having been diagnosed with COVID-19.\n\nDesign\nNationwide population-based cohort study.\n\nSetting\nNorway.\n\nParticipants\nWe followed more than 80,000 participants in an ongoing cohort study, the Norwegian Mother, Father and Child Coho..."]
+      },
+      {
+        "title": "Early manifestations of genetic risk for neurodevelopmental disorders",
+        "tags": ["Preprint"],
+        "date": "Nov 2020",
+        "authors": ["Ragna Bugge Askeland", "Laurie Hannigan", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background Attention deficit/hyperactivity disorder (ADHD), autism spectrum disorder (autism), and schizophrenia, are highly heritable neurodevelopmental disorders, affecting the lives of many individuals. To improve prevention and treatment, it is important to increase our understanding of how the polygenic risk for neurodevelopmental disorders ma..."]
+      },
+      {
+        "title": "Developmental milestones in early childhood and genetic liability to neurodevelopmental disorders",
+        "tags": ["Preprint"],
+        "date": "Sep 2020",
+        "authors": ["Laurie Hannigan", "Ragna Bugge Askeland", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background\nEarly developmental milestones, such as the age at first walking or talking, are associated with later diagnoses of neurodevelopmental disorders, but the relationship to genetic risk for neurodevelopmental disorders are unknown. Here, we investigate associations between genetic liability to autism spectrum disorder (autism), attention de..."]
+      },
+      {
+        "title": "Genome-wide association meta-analysis of childhood and adolescent internalising symptoms",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Eshim S Jami", "Anke R Hammerschlag", "Hill Fung Ip", "Christel M Middeldorp"],
+        "abstract": ["Internalising symptoms in childhood and adolescence are as heritable as adult depression and anxiety, yet little is known of their molecular basis. This genome-wide association meta-analysis of internalising symptoms included repeated observations from 64,641 individuals, aged between 3 and 18. The N-weighted meta-analysis of overall internalising..."]
+      },
+      {
+        "title": "OP96 The causal effect of BMI on neurodevelopment: a within family mendelian randomization study using MoBa",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2020",
+        "authors": ["Amanda Hughes", "Helga Ask", "T Tesli", "A Havdahl"],
+        "abstract": ["Background\nChildhood obesity is linked to poorer emotional health and neurodevelopmental problems but it is unclear if these associations are causal. Observational study designs are vulnerable to reverse causation and confounding. Mendelian randomization (MR) studies with even large numbers of unrelated individuals can suffer from familial biases,..."]
+      },
+      {
+        "title": "Incidence of diagnosed pediatric anxiety disorders and use of prescription drugs: a nation-wide registry study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Helga Ask", "Marte Handal", "Lars Johan Hauge", "Svetlana Skurtveit"],
+        "abstract": ["The aim of this study was to calculate time trends in incidence of diagnosed anxiety disorders, including obsessive–compulsive disorder, and post-traumatic stress disorder, and to examine changes in use of prescribed drugs in the Norwegian pediatric population. Furthermore, we aimed to investigate whether comorbid mental disorders are associated wi..."]
+      },
+      {
+        "title": "Genetic liability for schizophrenia and childhood psychopathology in the general population",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Laurie Hannigan", "Ragna Bugge Askeland", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": ["Background\nGenetic liability for schizophrenia is associated with psychopathology in early life. It is not clear if these associations are time-dependent during childhood, nor if they are specific across different forms of psychopathology.\nMethods\nUsing genotype and questionnaire data on children (N = 15,105) from the Norwegian Mother, Father, and..."]
+      },
+      {
+        "title": "Investigation of Shared Genetic Risk Between ADHD and Cardiometabolic Traits in a Norwegian Family Cohort Using Polygenic Transmission Disequilibrium Test",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Martin Tesli", "Laurie Hannigan", "Elizabeth Corfield", "Ted Reichborn-Kjennerud"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic Associations Between Childhood Psychopathology and Adult Depression and Associated Traits in 42 998 Individuals: A Meta-Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Wonuola Akingbuwa", "Anke R. Hammerschlag", "Eshim S Jami", "Amy Perry"],
+        "abstract": ["Importance\nAdult mood disorders are often preceded by behavioral and emotional problems in childhood. It is yet unclear what explains the associations between childhood psychopathology and adult traits.\n\nObjective\nTo investigate whether genetic risk for adult mood disorders and associated traits is associated with childhood disorders.\n\nDesign, Sett..."]
+      },
+      {
+        "title": "Marriage and cohabiting rates among people with childhood sensorineural hearing loss in a large Norwegian cohort: results from the SHINT and the HUNT study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Mariann Idstad", "Helga Ask", "Bo Engdahl"],
+        "abstract": ["Objective: To investigate the association between childhood sensorineural hearing loss (SNHL) and cohabiting/marriage rates in a large Norwegian cohort.\nDesign: This study is based on data from the School Hearing Investigation in Nord-Trøndelag (SHINT), data from the Nord-Trøndelag Health Study (HUNT), and registry data on marital status from Stati..."]
+      },
+      {
+        "title": "Mechanisms linking parental educational attainment with child ADHD, depression, and academic problems: a study of extended families in The Norwegian Mother, Father and Child Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Fartein Ask Torvik", "Espen Moen Eilertsen", "Tom A Mcadams", "Eivind Ystrom"],
+        "abstract": ["Background: \nLow educational attainment in parents is associated with child psychopathology. It is not clear whether the associations are due to risk factors that family members share or due to effects of maternal or paternal education on the offspring. We investigate whether associations between maternal and paternal educational attainment and chi..."]
+      },
+      {
+        "title": "Intergenerational Transmission of Parental Neuroticism to Emotional Problems in 8-Year Old Children: Genetic and Environmental Mechanisms",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Helga Ask", "Espen Moen Eilertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "75 POLYGENIC RISK FOR ADHD AND EXPOSURES DURING PREGNANCY IN THE NORWEGIAN MOTHER AND CHILD COHORT STUDY (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Alexandra Havdahl", "Laurie Hannigan", "Ragna Bugge Askeland", "Ted Reichborn-Kjennerud"],
+        "abstract": []
+      },
+      {
+        "title": "T70EARLY MANIFESTATIONS OF GENETIC RISK FOR NEURODEVELOPMENTAL DISORDERS",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Ragna Askeland", "Laurie Hannigan", "Helga Ask", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "S5INVESTIGATION OF SHARED GENETIC RISK BETWEEN CARDIOMETABOLIC MORBIDITY AND ATTENTION DEFICIT HYPERACTIVITY DISORDER IN A NORWEGIAN FAMILY COHORT USING POLYGENIC TRANSMISSION DISEQUILIBRIUM TEST",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Martin Tesli", "Elizabeth Corfield", "Tetyana Zayats", "Ted Reichborn-Kjennerud"],
+        "abstract": []
+      },
+      {
+        "title": "M70 EXPLORING THE ASSOCIATIONS BETWEEN HEALTH-RELATED POLYGENIC SCORES AND PARTICIPATION IN THE NORWEGIAN MOTHER AND CHILD PREGNANCY COHORT (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Helga Ask", "Laurie Hannigan", "Neil M Davies", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Change in physical activity is not associated with change in mental distress among adolescents: the Tromsø study: Fit Futures",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Ida Marie Opdal", "Bente Morseth", "Bjørn Helge Handegård", "Kamilla Rognmo"],
+        "abstract": ["Background: \nPrevious research shows that physical activity has a protective effect on mental distress in adults, but the relationship is less researched and seems more ambiguous for adolescents. Studies in this field have typically been cross-sectional by design and based on self-reported physical activity measures, which are known to be vulnerabl..."]
+      },
+      {
+        "title": "Maternal fever during pregnancy and offspring attention deficit hyperactivity disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Kristin Gustavson", "Helga Ask", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Maternal fever during pregnancy is associated with several adverse child outcomes. We investigated associations between maternal fever and ADHD among offspring, as well as the sub-dimensions of ADHD - inattention and hyperactivity/impulsivity. Data came from the Norwegian Mother and Child Cohort Study, including more than 114,000 children. Informat..."]
+      },
+      {
+        "title": "Association of Gestational Age at Birth With Symptoms of Attention-Deficit/Hyperactivity Disorder in Children",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Helga Ask", "Kristin Gustavson", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Importance\nPreterm birth is associated with an increased risk of attention-deficit/hyperactivity disorder (ADHD); however, it is unclear to what extent this association can be explained by shared genetic and environmental risk factors and whether gestational age at birth is similarly related to inattention and hyperactivity/impulsivity and to the s..."]
+      },
+      {
+        "title": "Sex differences in genetic and environmental contributions to alcohol consumption from early adolescence to young adulthood",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Karoline B Seglem", "Trine Waaktaar", "Helga Ask", "Svenn Torgersen"],
+        "abstract": ["Aims: \nTo estimate genetic and environmental contributions to alcohol consumption from early adolescence to young adulthood, and test whether gender moderates these effects.\n\nDesign: \nLongitudinal twin cohort design.\n\nSetting: \nPopulation-based sample from Norway.\n\nParticipants: \nA total of 2862 male and female twins, aged 14-22 years, were assesse..."]
+      },
+      {
+        "title": "Samtaler med barn",
+        "tags": ["Research", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Helga Ask", "Anne Kjeldsen"],
+        "abstract": ["I denne kunnskapsoversikten belyses forskjellige modeller, metoder og teknikker for profesjonelle samtaler med barn. Familieterapeuter, politi, advokater og forskere kan gjennom mer kunnskap bli i bedre stand til å bruke ulike samtaleteknikker.\nRapporten viser at det finnes mange modeller, protokoller og veiledere til hjelp i barnesamtaler ved vitn..."]
+      },
+      {
+        "title": "Associations between Parental Hearing Impairment and Children’s Mental Health: Results from the Nord-Trøndelag Health Study",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Ingrid Borren", "Kristian Tambs", "Kristin Gustavson", "Jon Martin Sundet"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [113],
+    "reads": [14424],
+    "citations": [1129]
   }
 }

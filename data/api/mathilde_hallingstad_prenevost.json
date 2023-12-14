@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Mathilde Hallingstad Prenevost",
-    "id": "leYWMOEAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Mathilde Hallingstad Prenevost"],
+    "id": ["leYWMOEAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -44,8 +44,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-2451-1262",
-    "name": "Mathilde Hallingstad Prenevost",
+    "orcid": ["0000-0003-2451-1262"],
+    "name": ["Mathilde Hallingstad Prenevost"],
     "distinctions": [],
     "education": [
       {
@@ -81,8 +81,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Mathilde Hallingstad Prenevost",
-    "id": "817650",
+    "name": ["Mathilde Hallingstad Prenevost"],
+    "id": ["817650"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -108,5 +108,47 @@
         "url": "https://api.cristin.no/v2/results/1488316"
       }
     ]
+  },
+  "rg": {
+    "id": "Mathilde-Prenevost",
+    "name": "Mathilde Hallingstad Prenevost",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281198093835-1697189272828_Q128/Mathilde-Prenevost.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "First insights into infants' and children's aha-experiences: A parent report study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2024",
+        "authors": ["Josefine Haugen", "Mathilde Hallingstad Prenevost", "Ida Nilsen", "Rolf Reber"],
+        "abstract": "This study provides first insights into aha-experiences in infancy and childhood. In two studies, a content analysis of parental reports from two different populations, a Norwegian sample and an international sample of English-speaking parents, was conducted. Parents described 606 aha-stories of their children (age 3 weeks to 16 years). Three main..."
+      },
+      {
+        "title": "Children's Aha-Experiences First Insights into Infants' and Children's Aha-Experiences: A Parent Report Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Josefine Haugen", "Mathilde Hallingstad Prenevost", "Ida Nilsen", "Rolf Reber"],
+        "abstract": "Previous research has revealed that aha-experiences improve learning and enhance motivation. Hence, knowledge about aha-experiences in children may enable educators to enhance learning experiences. The current study aims to provide a basic knowledge about aha-experiences in children, for example, at what age they appear and on which topics. To answ..."
+      },
+      {
+        "title": "Young Children’s Understanding of Affective Implications of Insight",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Mathilde Hallingstad Prenevost", "Josefine Haugen", "Ida Nilsen", "Rolf Reber"],
+        "abstract": "Insight includes a sudden understanding often followed by a characteristic set of epistemic feelings, including positive affect. As the first study of children’s understanding of insight, we investigate whether young children understand that having an insight for a solution in a problem-solving scenario leads to positive affect. Children aged 4-8 y..."
+      },
+      {
+        "title": "Couples coping with chronic pain: How do intercouple interactions relate to pain coping?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Mathilde Hallingstad Prenevost", "Silje E Reme"],
+        "abstract": "Background and aims\nPain is not merely an isolated experience occurring within the person. It takes place in a wider social context, including the immediate social relationships that the person is a part of. The aim of this paper is to provide an overview of how intercouple interactions might influence pain coping in couples coping with chronic pai..."
+      }
+    ],
+    "degree": ["Master", "of", "Philosophy"],
+    "bio": [],
+    "publications": [4],
+    "reads": [360],
+    "citations": [16]
   }
 }

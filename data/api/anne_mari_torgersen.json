@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Anne Mari Torgersen",
-    "id": "22552",
+    "name": ["Anne Mari Torgersen"],
+    "id": ["22552"],
     "keywords": [],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/22552/picture",
+    "img": ["https://api.cristin.no/v2/persons/22552/picture"],
     "works": [
       {
         "type": "Chapter",
@@ -16,140 +16,140 @@
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Temperamental adaptability, persistence, and regularity: Parental ratings of Norwegian infants aged 6 to 12 months, with some implications for preventive practice.",
-        "url": "https://api.cristin.no/v2/results/1591428"
+        "url": "https://api.cristin.no/v2/results/1591428",
+        "title": "Temperamental adaptability, persistence, and regularity: Parental ratings of Norwegian infants aged 6 to 12 months, with some implications for preventive practice."
       },
       {
         "type": "Academic article",
         "year": "2018",
+        "url": "https://api.cristin.no/v2/results/1591416",
         "title": "Temperamental adaptability, persistence, and regularity: Parental ratings of Norwegian infants aged 6 to 12 months, with some implications for preventive practice",
-        "journal": "Infant Mental Health Journal",
-        "url": "https://api.cristin.no/v2/results/1591416"
+        "journal": "Infant Mental Health Journal"
       },
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1378670",
         "title": "A longitudinal study of twins from birth to adulthood",
-        "journal": "Norsk Epidemiologi",
-        "url": "https://api.cristin.no/v2/results/1378670"
+        "journal": "Norsk Epidemiologi"
       },
       {
         "type": "Academic article",
         "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1312189",
         "title": "Managing group supervision with beginning therapists: What can experienced supervisors tell us?",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/1312189"
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2014",
+        "url": "https://api.cristin.no/v2/results/1192905",
         "title": "Multiple births and maternal mental health from pregnancy to 5 years after birth: a longitudinal population-based cohort study",
-        "journal": "Norsk Epidemiologi",
-        "url": "https://api.cristin.no/v2/results/1192905"
+        "journal": "Norsk Epidemiologi"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1106073"
+        "url": "https://api.cristin.no/v2/results/1106073",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Poster",
         "year": "2012",
-        "title": "Twins' relationship in retrospect: Does zygosity matter ?",
-        "url": "https://api.cristin.no/v2/results/948522"
+        "url": "https://api.cristin.no/v2/results/948522",
+        "title": "Twins' relationship in retrospect: Does zygosity matter ?"
       },
       {
         "type": "Poster",
         "year": "2011",
-        "title": "Attachment in adult twins: Genetic influence on twins' close relationship",
-        "url": "https://api.cristin.no/v2/results/900462"
+        "url": "https://api.cristin.no/v2/results/900462",
+        "title": "Attachment in adult twins: Genetic influence on twins' close relationship"
       },
       {
         "type": "Academic article",
         "year": "2011",
+        "url": "https://api.cristin.no/v2/results/862570",
         "title": "Binge alchohol exposure once a week in early pregnancy predicts temperament and sleeping problems in infants",
-        "journal": "Early Human Development",
-        "url": "https://api.cristin.no/v2/results/862570"
+        "journal": "Early Human Development"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/844377"
+        "url": "https://api.cristin.no/v2/results/844377",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/345900",
         "title": "Nondisclosure in group supervision: The supervisor perspective",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/345900"
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/345899",
         "title": "Mutual assumptions and facts about nondisclosure among clinical supervisors and students: A comparative analysis",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/345899"
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/345898",
         "title": "Nondisclosure in group supervision: The supervisee perspective",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/345898"
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/343060",
         "title": "Mutual assumptions and facts about nondisclosure among clinical supervisors and students: A comparative analysis",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/343060"
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/342111",
         "title": "Nondisclosure in psychotherapy group supervision: The supervisee perspective",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/342111"
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/342110",
         "title": "Nondisclosure in psychotherapy group supervision: The supervisor perspective",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/342110"
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2007",
+        "url": "https://api.cristin.no/v2/results/393553",
         "title": "A pilot study of attachment patterns in adult twins",
-        "journal": "Attachment & Human Development",
-        "url": "https://api.cristin.no/v2/results/393553"
+        "journal": "Attachment & Human Development"
       },
       {
         "type": "Academic anthology/Conference proceedings",
         "year": "2007",
-        "title": "Gene. Brain. Behavior",
-        "url": "https://api.cristin.no/v2/results/3709"
+        "url": "https://api.cristin.no/v2/results/3709",
+        "title": "Gene. Brain. Behavior"
       },
       {
         "type": "Editorial",
         "year": "2006",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/490870"
+        "url": "https://api.cristin.no/v2/results/490870",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2006",
-        "journal": "Tidsskrift for ungdomsforskning",
-        "url": "https://api.cristin.no/v2/results/376865"
+        "url": "https://api.cristin.no/v2/results/376865",
+        "journal": "Tidsskrift for ungdomsforskning"
       },
       {
         "type": "Poster",
         "year": "2005",
-        "title": "Attachment in Adult Twins",
-        "url": "https://api.cristin.no/v2/results/126094"
+        "url": "https://api.cristin.no/v2/results/126094",
+        "title": "Attachment in Adult Twins"
       },
       {
         "type": "Academic monograph",
@@ -159,59 +159,240 @@
       {
         "type": "Academic lecture",
         "year": "2003",
-        "title": "Sleep and breastfeeding in twins and singletons. Foredrag",
-        "url": "https://api.cristin.no/v2/results/196075"
+        "url": "https://api.cristin.no/v2/results/196075",
+        "title": "Sleep and breastfeeding in twins and singletons. Foredrag"
       },
       {
         "type": "Academic lecture",
         "year": "2003",
-        "title": "Sleep and breastfeeading in twins and singeltons",
-        "url": "https://api.cristin.no/v2/results/155889"
+        "url": "https://api.cristin.no/v2/results/155889",
+        "title": "Sleep and breastfeeading in twins and singeltons"
       },
       {
         "type": "Academic article",
         "year": "2002",
+        "url": "https://api.cristin.no/v2/results/975085",
         "title": "Temperament in children with Down syndrome and in prematurely born children",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/975085"
+        "journal": "Scandinavian Journal of Psychology"
       },
       {
         "type": "Academic article",
         "year": "2001",
+        "url": "https://api.cristin.no/v2/results/437617",
         "title": "Why do identical twins differ in personality: Shared environment reconsidered",
-        "journal": "Twin research",
-        "url": "https://api.cristin.no/v2/results/437617"
+        "journal": "Twin research"
       },
       {
         "type": "Academic lecture",
         "year": "2001",
-        "title": "Developmental trends in sleep behavior : A twin study across 30 years",
-        "url": "https://api.cristin.no/v2/results/191411"
+        "url": "https://api.cristin.no/v2/results/191411",
+        "title": "Developmental trends in sleep behavior : A twin study across 30 years"
       },
       {
         "type": "Academic lecture",
         "year": "2001",
-        "title": "Developmental trends in sleep behavior: A twin study across 30 years",
-        "url": "https://api.cristin.no/v2/results/148594"
+        "url": "https://api.cristin.no/v2/results/148594",
+        "title": "Developmental trends in sleep behavior: A twin study across 30 years"
       },
       {
         "type": "Academic lecture",
         "year": "1998",
-        "title": "Infant sleep rythm in twins and singletons",
-        "url": "https://api.cristin.no/v2/results/209299"
+        "url": "https://api.cristin.no/v2/results/209299",
+        "title": "Infant sleep rythm in twins and singletons"
       },
       {
         "type": "Academic lecture",
         "year": "1997",
-        "title": "Cultural influence on sleep rythm in infants",
-        "url": "https://api.cristin.no/v2/results/208605"
+        "url": "https://api.cristin.no/v2/results/208605",
+        "title": "Cultural influence on sleep rythm in infants"
       },
       {
         "type": "Academic lecture",
         "year": "1996",
-        "title": "Sleep behavior in infant twins and singletons",
-        "url": "https://api.cristin.no/v2/results/207917"
+        "url": "https://api.cristin.no/v2/results/207917",
+        "title": "Sleep behavior in infant twins and singletons"
       }
     ]
+  },
+  "rg": {
+    "id": "Anne-Torgersen",
+    "name": "Anne Mari Torgersen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/733091937124353-1551794146143_Q128/Anne-Torgersen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Child Development", "Psychological Assessment", "Psychopathology", "Psychology of Adolescence", "Mental Illness", "Clinical Assessment", "Treatment", "Psychotherapeutic Processes", "Counseling", "Personality Assessment"],
+    "works": [
+      {
+        "title": "TEMPERAMENTAL ADAPTABILITY, PERSISTENCE, AND REGULARITY: PARENTAL RATINGS OF NORWEGIAN INFANTS AGED 6 TO 12 MONTHS, WITH SOME IMPLICATIONS FOR PREVENTIVE PRACTICE: Temperamental Adaptability, Persistence, and Regularity",
+        "tags": ["Article"],
+        "date": "Feb 2018",
+        "authors": ["Kåre S. Olafsen", "Stein Erik Ulvund", "Anne Mari Torgersen", "Vibeke Moe"],
+        "abstract": ["Data: \nThe temperament dimensions of persistence, adaptability, and regularity had acceptable or close-to-acceptable reliabilities in the U.S. study as well as in this study, and also were unifactorial in confirmatory factor analysis. These dimensions are the focus in this article. Findings concerning parents' differential ratings of their infants..."]
+      },
+      {
+        "title": "A longitudinal study of twins from birth to adulthood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Anne Mari Torgersen"],
+        "abstract": ["Temperamental variation in infancy was the starting point for this longitudinal study of twins followed from\nbirth to adulthood. The influence of early individuality on later development was a research question in the\nfollow-ups, and by choosing twins as a group, it was possible to uncover the effect of environmental and\ngenetic factors at the diff..."]
+      },
+      {
+        "title": "Managing group supervision with beginning therapists: What can experienced supervisors tell us?",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Sissel Reichelt", "Jan Skjerve", "Geir Nielsen", "Anne Mari Torgersen"],
+        "abstract": ["While group supervision in psychotherapy training has gained increasing attention, particularly in university settings, research on the group format is still scarce. The aim of the present, interview-based, qualitative study was to explore how group supervision is managed by experienced supervisors. Sixteen supervisors were interviewed. All partici..."]
+      },
+      {
+        "title": "Multiple births and maternal mental health from pregnancy to 5 years after birth: A longitudinal population-based cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Eivind Ystrom", "Ted Reichborn-Kjennerud", "Kristian Tambs", "Kristin Gustavson"],
+        "abstract": ["Background: There is a lack of population-based studies on multiple births and maternal mental health. Having a high-risk pregnancy by bearing two or more children is a stressful life event, and the challenges of parenting two or more children probably also lead to a high level of parental stress. There are a few results on multiple births and mate..."]
+      },
+      {
+        "title": "Parents of preterm-born children; sources of stress and worry and experiences with an early intervention programme – a qualitative study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2013",
+        "authors": ["Nina M Kynø", "Ingrid Helen Ravn", "Rolf Lindemann", "Tonje Gundersen"],
+        "abstract": ["Preterm-born children are at increased risk of adverse developmental outcomes, and their parents may experience increased stress levels. The Mother-Infant Transaction Program (MITP) is an early intervention that aims to enhance the parent-infant relationship and child development. The present study investigated differences in parents' experience of..."]
+      },
+      {
+        "title": "Experienced supervisors' view on clinical group supervision with student therapists",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Jan Skjerve", "Sissel Reichelt", "Geir Nielsen", "Anne Mari Torgersen"],
+        "abstract": ["Traditionally, clinical supervision has been practiced mostly in a dyadic form, that is, as individual supervision. However, over the past decades, group supervision has gained increasing attention. Today, many training sites prefer the group format, even though its research base is still scarce. The aim of this study was to explore clinical group..."]
+      },
+      {
+        "title": "Effect of an early intervention programme on development of moderate and late preterm infants at 36 months: A randomized controlled study",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Nina M Kynø", "Ingrid Helen Ravn", "Rolf Lindemann", "Anne Mari Torgersen"],
+        "abstract": []
+      },
+      {
+        "title": "Binge alcohol exposure once a week in early pregnancy predicts temperament and sleeping problems in the infant",
+        "tags": ["Article"],
+        "date": "Jul 2011",
+        "authors": ["Astrid Alvik", "Anne Mari Torgersen", "Odd O Aalen", "Rolf Lindemann"],
+        "abstract": ["Prenatal alcohol exposure can cause several cognitive and behavioral difficulties. Few studies have investigated the associations with infant temperament or sleeping patterns. Our aim was to study potential associations between early prenatal binge exposure and infant temperament and sleeping pattern.\nIn a population based longitudinal study, repre..."]
+      },
+      {
+        "title": "Mutual assumptions and facts about nondisclosure among clinical supervisors and students in group supervision: A comparative analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2009",
+        "authors": ["Geir Nielsen", "Jan Skjerve", "Claus Haugaard Jacobsen", "Anne Mari Torgersen"],
+        "abstract": ["In the two preceding papers in this issue of Nordic Psychology the authors report findings from studies of nondisclosure among student therapists and clinical supervisors. The findings were reported separately for each group. In this article, the two sets of findings are compared, so as to draw a picture of mutual assumptions and facts about nondis..."]
+      },
+      {
+        "title": "Nondisclosure in psychotherapy group supervision: The supervisor perspective",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2009",
+        "authors": ["Jan Skjerve", "Geir Nielsen", "Claus Haugaard Jacobsen", "Anne Mari Torgersen"],
+        "abstract": ["The aim of this study was to investigate aspects of nondisclosure in a sample of 30 psychotherapy supervisors, working within a group format of supervision of student therapists. The study constituted one part of a larger study, with the other, parallel part addressing nondisclosure in supervisees. The participants were recruited from seven univers..."]
+      },
+      {
+        "title": "Nondisclosure in psychotherapy group supervision: The supervisee perspective",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2009",
+        "authors": ["Sissel Reichelt", "Siri Erika Gullestad", "Bjørg Røed Hansen", "Jan Skjerve"],
+        "abstract": ["The aim of this study was to investigate aspects of nondisclosure in a sample of 55 student therapists, working within a group format of supervision. The study constituted one part of a larger study, with the other, parallel part addressing nondisclosure in supervisors. The participants were recruited from seven university-based training clinics in..."]
+      },
+      {
+        "title": "Det kliniske intervjuet, bind I (The clinical interview; volume I)",
+        "tags": ["Book"],
+        "date": "Jan 2009",
+        "authors": ["Michael Helge Rønnestad", "Anna von der Lippe", "Gullestad", "Jordahl"],
+        "abstract": []
+      },
+      {
+        "title": "Nondisclosure in psychotherapy group supervision: The supervisee perspective",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Sissel Reichelt", "S.E. Gullestad", "B.R. Hansen", "J. Skjerve"],
+        "abstract": ["The aim of this study was to investigate aspects of nondisclosure in a sample of 55 student therapists, working within a group format of supervision. The study constituted one part of a larger study, with the other, parallel part addressing nondisclosure in supervisors. The participants were recruited from seven university-based training clinics in..."]
+      },
+      {
+        "title": "Nondisclosure in psychotherapy group supervision: The supervisor perspective",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["J. Skjerve", "Geir Nielsen", "C.H.J. Bsen", "Anne Mari Torgersen"],
+        "abstract": ["The aim of this study was to investigate aspects of nondisclosure in a sample of 55 student therapists, working within a group format of supervision. The study constituted one part of a larger study, with the other, parallel part addressing nondisclosure in supervisors. The participants were recruited from seven university-based training clinics in..."]
+      },
+      {
+        "title": "Mutual assumptions and facts about nondisclosure among clinical supervisors and students in group supervision: A comparative analysis",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Geir Nielsen", "J. Skjerve", "Claus Haugaard Jacobsen", "Anne Mari Torgersen"],
+        "abstract": ["In the two preceding papers in this issue of Nordic Psychology the authors report findings from studies of nondisclosure among student therapists and clinical supervisors. The findings were reported separately for each group. In this article, the two sets of findings are compared, so as to draw a picture of mutual assumptions and facts about nondis..."]
+      },
+      {
+        "title": "A pilot study of attachment patterns in adult twins",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2007",
+        "authors": ["Anne Mari Torgersen", "Bjørg Grova", "Renate Sommerstad"],
+        "abstract": ["The hypothesis that attachment in adults is influenced by genetic factors was investigated. The within-pair differences in attachment representation in same-sex monozygotic and dizygotic twins were compared using the Adult Attachment Interview (AAI). The results showed a clear tendency toward monozygotic twins (n = 28) being more concordant than di..."]
+      },
+      {
+        "title": "Why do Identical Twins Differ in Personality: Shared Environment Reconsidered",
+        "tags": ["Article"],
+        "date": "Mar 2002",
+        "authors": ["Anne Mari Torgersen", "Harald Janson"],
+        "abstract": ["While heritability studies show that most of the variance in adult personality can be attributed to genetic or so-called nonshared environmental influence, this does not mean that shared events lack importance for the development of later personality differences. We studied the relationship between Big Five personality differences in monozygotic (M..."]
+      },
+      {
+        "title": "Temperament in children with Down syndrome and in prematurely born children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2002",
+        "authors": ["Egil Nygaard", "Lars Smith", "Anne Mari Torgersen"],
+        "abstract": ["Parents of three groups of children completed the Children's Behavior Questionnaire (CBQ). Participants were children with Down syndrome aged 4-11 years (n = 55), prematurely born children aged 5 years (n = 97), and a group of normally developing kindergarten children 5-7 years of age (n = 91). Mean levels and factor structures on the CBQ were comp..."]
+      },
+      {
+        "title": "Genetic and Environmental Influences on Temperament Development: Longitudinal Study of Twins from Infancy to Adolescence",
+        "tags": ["Chapter"],
+        "date": "Jan 1989",
+        "authors": ["Anne Mari Torgersen"],
+        "abstract": ["Genetic aspects of temperamental differences were studied in 43 pairs of twins seen at the ages of 2 months, 9 months, 6 years, and 15 years. Identical twin pairs showed closer similarity than nonidentical twin pairs at later ages, and reasons for this are suggested. The variables of Activity and Approach showed the most genetic influence and were..."]
+      },
+      {
+        "title": "Longitudinal Research on Temperament in Twins",
+        "tags": ["Article"],
+        "date": "Feb 1987",
+        "authors": ["Anne Mari Torgersen"],
+        "abstract": ["The changing influence of genetic factors of temperamental individuality has been studied longitudinally in a group of 44 same-sexed twin pairs at four different ages from infancy to puberty. Previous results showed that genetic factors seemed to play an important role in the development of temperamental characteristics when the twins were in infan..."]
+      },
+      {
+        "title": "Influence of Genetic Factors on Temperament Development in Early Childhood",
+        "tags": ["Article"],
+        "date": "Feb 1982",
+        "authors": ["Anne Mari Torgersen"],
+        "abstract": ["The temperamental development of 53 same-sexed twin pairs was studied when the twins were aged two months, nine months and six years. The results showed that hereditary factors seem to influence the development of temperament at all three age-levels studied, but that they influenced different temperamental traits to a varying degree. This paper emp..."]
+      },
+      {
+        "title": "Genetic Factors in Temperamental Individuality: A Longitudinal Study of Same-Sexed Twins from Two Months to Six Years of Age",
+        "tags": ["Article"],
+        "date": "Feb 1981",
+        "authors": ["Anne Mari Torgersen"],
+        "abstract": ["A previous publication reported a study of the genetic aspects of temperamental differences in a sample of 53 same-sexed infant twin pairs. In all of the 9 temperamental categories the MZ twin pairs were more alike than the DZ same-sexed twins at both 2 and 9 months of age. New temperamental data have been collected and analyzed on this same sample..."]
+      },
+      {
+        "title": "Genetic aspects of temperamental development: a follow-up study of twins from infancy to six years of age",
+        "tags": ["Article"],
+        "date": "Feb 1981",
+        "authors": ["Anne Mari Torgersen"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic Aspects of Temperamental Differences in Infants: A Study of Same-Sexed Twins",
+        "tags": ["Article"],
+        "date": "Feb 1978",
+        "authors": ["Anne Mari Torgersen", "Einer Kringlen"],
+        "abstract": ["A sample of 53 same-sexed twin pairs has been studied at 2 and 9 months with regard to the temperamental attributes of activity level, rhythmicity, approach/withdrawal, adaptability, intensity, threshold, mood, distractibility, and attention span/persistence. By comparing the MZ and DZ groups, we found that genetic factors play an important role in..."]
+      }
+    ],
+    "degree": [null],
+    "publications": [24],
+    "reads": [4472],
+    "citations": [519]
   }
 }

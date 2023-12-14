@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-5039-2346",
-    "name": "Juliana Jia Yu Zhang",
+    "orcid": ["0000-0001-5039-2346"],
+    "name": ["Juliana Jia Yu Zhang"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Juliana Jia Yu Zhang",
-    "id": "1383374",
+    "name": ["Juliana Jia Yu Zhang"],
+    "id": ["1383374"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -32,5 +32,15 @@
         "url": "https://api.cristin.no/v2/results/1933229"
       }
     ]
+  },
+  "rg": {
+    "id": "Jia-Yu-79",
+    "name": "Jia Yu",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281079837716-1660898048462_Q128/Jia-Yu-79.jpg",
+    "affiliation": "King University, humanities",
+    "keywords": ["Entrepreneurship"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

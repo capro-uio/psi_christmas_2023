@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1299-6760",
-    "name": "Hanne Weie Oddli",
+    "orcid": ["0000-0002-1299-6760"],
+    "name": ["Hanne Weie Oddli"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -63,11 +63,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Hanne Berit Weie Oddli",
-    "id": "9773",
+    "name": ["Hanne Berit Weie Oddli"],
+    "id": ["9773"],
     "keywords": [],
     "position": ["Guest", "Professor"],
-    "img": "https://api.cristin.no/v2/persons/9773/picture",
+    "img": ["https://api.cristin.no/v2/persons/9773/picture"],
     "works": [
       {
         "type": "Academic lecture",
@@ -79,15 +79,15 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Patient perspectives on working with preferences in psychotherapy: A consensual qualitative research study",
-        "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/2145502"
+        "url": "https://api.cristin.no/v2/results/2145502",
+        "journal": "Psychotherapy Research"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Bias in assessment of co-occurring mental disorder in individuals with intellectual disabilities: Theoretical perspectives and implications for clinical practice",
-        "journal": "Journal of Intellectual Disabilities",
-        "url": "https://api.cristin.no/v2/results/2117287"
+        "url": "https://api.cristin.no/v2/results/2117287",
+        "journal": "Journal of Intellectual Disabilities"
       },
       {
         "type": "Programme participation",
@@ -98,20 +98,20 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Causality in psychotherapy research: Towards evidential pluralism",
-        "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/2107136"
+        "url": "https://api.cristin.no/v2/results/2107136",
+        "journal": "Psychotherapy Research"
       },
       {
         "type": "Reader opinion piece",
         "year": "2022",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2071137"
+        "url": "https://api.cristin.no/v2/results/2071137",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Reader opinion piece",
         "year": "2022",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/2071132"
+        "url": "https://api.cristin.no/v2/results/2071132",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Programme participation",
@@ -122,15 +122,15 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Covert therapeutic micro-processes in non-recovered eating disorders with childhood trauma: an interpersonal process recall study",
-        "journal": "Journal of Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/2016536"
+        "url": "https://api.cristin.no/v2/results/2016536",
+        "journal": "Journal of Eating Disorders"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Learning Processes and Acquisition of Knowledge and Skills in Training and Supervision of Psychotherapy and Counselling: A Study Protocol for a Scoping Review",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1981679"
+        "url": "https://api.cristin.no/v2/results/1981679",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Doctoral dissertation",
@@ -142,8 +142,8 @@
         "type": "Academic article",
         "year": "2021",
         "title": "A Pluralistic Perspective on Research in Psychotherapy: Harnessing Passion, Difference and Dialogue to Promote Justice and Relevance",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1965328"
+        "url": "https://api.cristin.no/v2/results/1965328",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Doctoral dissertation",
@@ -155,119 +155,119 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Negotiating System Requirements to Secure Client Engagement – Therapist Strategies in Adolescent Psychotherapy Initiated by Others",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1949422"
+        "url": "https://api.cristin.no/v2/results/1949422",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Family members’ reflections upon a family-based inpatient treatment program for adolescent anorexia nervosa: a thematic analysis",
-        "journal": "Journal of Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/1904575"
+        "url": "https://api.cristin.no/v2/results/1904575",
+        "journal": "Journal of Eating Disorders"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Future orientation in successful therapies: Expanding the concept of goal in the working alliance",
-        "journal": "Journal of Clinical Psychology",
-        "url": "https://api.cristin.no/v2/results/1872435"
+        "url": "https://api.cristin.no/v2/results/1872435",
+        "journal": "Journal of Clinical Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "External support and personal agency - Young persons' reports on recovery after family-based inpatient treatment for anorexia nervosa: A qualitative descriptive study",
-        "journal": "Journal of Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/1891097"
+        "url": "https://api.cristin.no/v2/results/1891097",
+        "journal": "Journal of Eating Disorders"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Potentially traumatic experiences and behavioural symptoms in adults with autism and intellectual disability referred for psychiatric assessment",
-        "journal": "Research in Developmental Disabilities",
-        "url": "https://api.cristin.no/v2/results/1840736"
+        "url": "https://api.cristin.no/v2/results/1840736",
+        "journal": "Research in Developmental Disabilities"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "«In solitude is safeness»: a patient perspective on eating disorders in the context of multiple childhood trauma",
-        "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/1820351"
+        "url": "https://api.cristin.no/v2/results/1820351",
+        "journal": "Nordic Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "“Driven and Tense, Stressed Out and Anxious”: Clinicians’ Perceptions of Post-Traumatic Stress Disorder Symptom Expressions in Adults with Autism and Intellectual Disability",
-        "journal": "Journal of Mental Health Research in Intellectual Disabilities",
-        "url": "https://api.cristin.no/v2/results/1811094"
+        "url": "https://api.cristin.no/v2/results/1811094",
+        "journal": "Journal of Mental Health Research in Intellectual Disabilities"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "“If we do not look for it, we do not see it”: Clinicians' experiences and understanding of identifying post‐traumatic stress disorder in adults with autism and intellectual disability",
-        "journal": "JARID: Journal of applied research in intellectual disabilities",
-        "url": "https://api.cristin.no/v2/results/1806066"
+        "url": "https://api.cristin.no/v2/results/1806066",
+        "journal": "JARID: Journal of applied research in intellectual disabilities"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Clinicians’ retrospective perceptions of failure to detect sexual abuse in a young man with autism and mild intellectual disability",
-        "journal": "Journal of Intellectual & Developmental Disability",
-        "url": "https://api.cristin.no/v2/results/1747834"
+        "url": "https://api.cristin.no/v2/results/1747834",
+        "journal": "Journal of Intellectual & Developmental Disability"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Negotiating credibility: The peer review process in clinical research",
-        "journal": "Qualitative psychology journal",
-        "url": "https://api.cristin.no/v2/results/1520974"
+        "url": "https://api.cristin.no/v2/results/1520974",
+        "journal": "Qualitative psychology journal"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Minding the adolescent in family-based inpatient treatment for anorexia nervosa: a qualitative study of former inpatients' views on treatment collaboration and staff behaviors",
-        "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/1768964"
+        "url": "https://api.cristin.no/v2/results/1768964",
+        "journal": "BMC Psychology"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Family-based inpatient treatment for adolescent anorexia nervosa: a thematic analysis of former patients? post-treatment reflections",
-        "journal": "Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/1766706"
+        "url": "https://api.cristin.no/v2/results/1766706",
+        "journal": "Eating Disorders"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Implementation of attachment-based interventions in mental health and social welfare services: Therapist’s experiences from the Circle of Security-Virginia Family Intervention",
-        "journal": "Children and Youth Services Review",
-        "url": "https://api.cristin.no/v2/results/1759093"
+        "url": "https://api.cristin.no/v2/results/1759093",
+        "journal": "Children and Youth Services Review"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Change Processes Related to Long-Term Outcomes in Eating Disorders With Childhood Trauma: An Explorative Qualitative Study",
-        "journal": "Journal of Counseling Psychology",
-        "url": "https://api.cristin.no/v2/results/1733409"
+        "url": "https://api.cristin.no/v2/results/1733409",
+        "journal": "Journal of Counseling Psychology"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "From intention to action: A mixed methods study of clients’ experiences of goal‐oriented practices",
-        "journal": "Journal of Clinical Psychology",
-        "url": "https://api.cristin.no/v2/results/1714078"
+        "url": "https://api.cristin.no/v2/results/1714078",
+        "journal": "Journal of Clinical Psychology"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1690287"
+        "url": "https://api.cristin.no/v2/results/1690287",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Therapist strategies early in therapy associated with good or poor outcomes among clients with low proactive agency",
-        "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/1492506"
+        "url": "https://api.cristin.no/v2/results/1492506",
+        "journal": "Psychotherapy Research"
       },
       {
         "type": "Academic lecture",
@@ -297,28 +297,28 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
-        "journal": "Journal of Contemporary Psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1623296"
+        "url": "https://api.cristin.no/v2/results/1623296",
+        "journal": "Journal of Contemporary Psychotherapy"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Identification of Implementation Strategies Used for the Circle of Security-Virginia Family Model Intervention: Concept Mapping Study",
-        "journal": "JMIR Research Protocols",
-        "url": "https://api.cristin.no/v2/results/1591347"
+        "url": "https://api.cristin.no/v2/results/1591347",
+        "journal": "JMIR Research Protocols"
       },
       {
         "type": "Feature article",
         "year": "2017",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1530290"
+        "url": "https://api.cristin.no/v2/results/1530290",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "How Usual is Treatment as Usual? Experienced Therapists’ Reflections on Participation in Practice-based Research.",
-        "journal": "Counselling Psychology Quarterly",
-        "url": "https://api.cristin.no/v2/results/1518717"
+        "url": "https://api.cristin.no/v2/results/1518717",
+        "journal": "Counselling Psychology Quarterly"
       },
       {
         "type": "Academic lecture",
@@ -354,21 +354,21 @@
         "type": "Academic article",
         "year": "2017",
         "title": "Alliance formation in high-conflict custody\r\nmediation: a serial case analysis",
-        "journal": "Journal of Family Therapy",
-        "url": "https://api.cristin.no/v2/results/1479991"
+        "url": "https://api.cristin.no/v2/results/1479991",
+        "journal": "Journal of Family Therapy"
       },
       {
         "type": "Reader opinion piece",
         "year": "2017",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1446635"
+        "url": "https://api.cristin.no/v2/results/1446635",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Knowing-in-relation: How experienced therapists integrate different sources of knowledge in actual clinical practice",
-        "journal": "Journal of psychotherapy integration",
-        "url": "https://api.cristin.no/v2/results/1368728"
+        "url": "https://api.cristin.no/v2/results/1368728",
+        "journal": "Journal of psychotherapy integration"
       },
       {
         "type": "Academic lecture",
@@ -386,14 +386,14 @@
         "type": "Academic article",
         "year": "2016",
         "title": "Common therapeutic change principles as \"sensitizing concepts\": A key perspective in psychotherapy integration and clinical research",
-        "journal": "Journal of psychotherapy integration",
-        "url": "https://api.cristin.no/v2/results/1346187"
+        "url": "https://api.cristin.no/v2/results/1346187",
+        "journal": "Journal of psychotherapy integration"
       },
       {
         "type": "Popular scientific article",
         "year": "2016",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1335705"
+        "url": "https://api.cristin.no/v2/results/1335705",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic lecture",
@@ -425,8 +425,8 @@
       {
         "type": "Reader opinion piece",
         "year": "2015",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1278237"
+        "url": "https://api.cristin.no/v2/results/1278237",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Academic lecture",
@@ -460,8 +460,8 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Experienced Psychotherapists’ Reports of Their Assessments, Predictions, and Decision Making in the Early Phase of Psychotherapy",
-        "journal": "Psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1159687"
+        "url": "https://api.cristin.no/v2/results/1159687",
+        "journal": "Psychotherapy"
       },
       {
         "type": "Other",
@@ -512,8 +512,8 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Strategies used by experienced therapists to explore client goals in early sessions of psychotherapy",
-        "journal": "European Journal of Psychotherapy & Councelling",
-        "url": "https://api.cristin.no/v2/results/1138987"
+        "url": "https://api.cristin.no/v2/results/1138987",
+        "journal": "European Journal of Psychotherapy & Councelling"
       },
       {
         "type": "Chapter",
@@ -528,8 +528,8 @@
       {
         "type": "Reader opinion piece",
         "year": "2013",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1036959"
+        "url": "https://api.cristin.no/v2/results/1036959",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic lecture",
@@ -540,8 +540,8 @@
       {
         "type": "Abstract",
         "year": "2012",
-        "journal": "Mellanrummet: Tidsskrift om barn- og ungdomspsykoterapi",
-        "url": "https://api.cristin.no/v2/results/986952"
+        "url": "https://api.cristin.no/v2/results/986952",
+        "journal": "Mellanrummet: Tidsskrift om barn- og ungdomspsykoterapi"
       },
       {
         "type": "Doctoral dissertation",
@@ -553,8 +553,8 @@
         "type": "Academic article",
         "year": "2012",
         "title": "How experienced therapists introduce the technical aspects in the initital alliance formation: Powerful decision makers supporting clients' agency",
-        "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/869109"
+        "url": "https://api.cristin.no/v2/results/869109",
+        "journal": "Psychotherapy Research"
       },
       {
         "type": "Academic lecture",
@@ -571,20 +571,20 @@
       {
         "type": "Reader opinion piece",
         "year": "2009",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/492544"
+        "url": "https://api.cristin.no/v2/results/492544",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Reader opinion piece",
         "year": "2009",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/492247"
+        "url": "https://api.cristin.no/v2/results/492247",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Feature article",
         "year": "2009",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/479845"
+        "url": "https://api.cristin.no/v2/results/479845",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Popular scientific book",
@@ -594,62 +594,62 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2006",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1028311"
+        "url": "https://api.cristin.no/v2/results/1028311",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Interview Journal",
         "year": "2005",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1028537"
+        "url": "https://api.cristin.no/v2/results/1028537",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2005",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1028423"
+        "url": "https://api.cristin.no/v2/results/1028423",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2005",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1028316"
+        "url": "https://api.cristin.no/v2/results/1028316",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2005",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1028314"
+        "url": "https://api.cristin.no/v2/results/1028314",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2005",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1028309"
+        "url": "https://api.cristin.no/v2/results/1028309",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2004",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1028419"
+        "url": "https://api.cristin.no/v2/results/1028419",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic literature review",
         "year": "2003",
-        "journal": "Psykologisk tidsskrift",
-        "url": "https://api.cristin.no/v2/results/500481"
+        "url": "https://api.cristin.no/v2/results/500481",
+        "journal": "Psykologisk tidsskrift"
       },
       {
         "type": "Academic literature review",
         "year": "2002",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/500483"
+        "url": "https://api.cristin.no/v2/results/500483",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic literature review",
         "year": "2001",
-        "journal": "Fokus på familien",
-        "url": "https://api.cristin.no/v2/results/500482"
+        "url": "https://api.cristin.no/v2/results/500482",
+        "journal": "Fokus på familien"
       },
       {
         "type": "Non-fiction book",
@@ -657,5 +657,376 @@
         "url": "https://api.cristin.no/v2/results/13328"
       }
     ]
+  },
+  "rg": {
+    "id": "Hanne-Oddli",
+    "name": "Hanne Weie Oddli",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277087618387971-1443074244215_Q128/Hanne-Oddli.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Qualitative Methods", "Grounded Theory", "Psychotherapy", "Qualitative Analysis", "Mixed Methods", "Interviewing", "Qualitative Inquiry", "Clinical Psychology", "Research Methodology", "Academic Writing"],
+    "works": [
+      {
+        "title": "Common Therapeutic Change Principles as \"Sensitizing Concepts\": A Key Perspective in Psychotherapy Integration and Clinical Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Hanne Weie Oddli", "Helene A. Nissen-Lie", "Margrethe Seeger Halvorsen"],
+        "abstract": ["In this article, we discuss the role of common therapeutic change principles in psychotherapy practice and clinical research. Elaborating on a recent debate between Hoffart and Hoffart (2014a, 2014b) and Goldfried (2014) in the Journal of Psychotherapy Integration regarding the scientific status of general therapy change principles, we discuss foca..."]
+      },
+      {
+        "title": "Integrativ terapi",
+        "tags": ["Article"],
+        "date": "Dec 2023",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": ["Integrative psychotherapy is the most common approach to clinical practice. In this article we present the historical development of this broad and varied tradition, and describe the most commonly discussed forms of integration: technical eclectisism, the common factors approach, theoretical integration, and assmiliative integration. Furthermore, w..."]
+      },
+      {
+        "title": "Bias in assessment of co-occurring mental disorder in individuals with intellectual disabilities: Theoretical perspectives and implications for clinical practice",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Arvid Nikolai Kildahl", "Hanne Weie Oddli", "Sissel Berge Helverschou"],
+        "abstract": ["Influence from bias is unavoidable in clinical decision-making, and mental health assessment seems particularly vulnerable. Individuals with intellectual disabilities have increased risk of developing co-occurring mental disorder. Due to the inherent difficulties associated with intellectual disabilities, assessment of mental health in this populat..."]
+      },
+      {
+        "title": "Patient perspectives on working with preferences in psychotherapy: A consensual qualitative research study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Mick Cooper", "Gina Di Malta", "Sarah Knox", "Joshua K Swift"],
+        "abstract": ["Objective\nAssessing and accommodating patient preferences is integral to evidence-based practice. This qualitative study sought to explore patient perspectives and experiences of preference work in psychotherapy.\n\nMethods\nParticipants were 13 UK-based patients who had completed up to 24 sessions of a collaborative–integrative psychotherapy. Ten par..."]
+      },
+      {
+        "title": "Causality in psychotherapy research: Towards evidential pluralism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Hanne Weie Oddli", "Erik Stänicke", "Margrethe Seeger Halvorsen", "Tobias Gustum Lindstad"],
+        "abstract": ["Identifying causal relationships is at the heart of all scientific inquiry, and a means to evidence-based practices and to guide policymaking. However, being aware of the complexities of interactions and relationships, scientists and academics are cautious about claiming causality. Researchers applying methods that deviate from the experimental des..."]
+      },
+      {
+        "title": "Folkeopplysningens konklusjon er misvisende",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ole André Solbakken", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Hanne Strømme"],
+        "abstract": ["Folkeopplysningens siste episode presenterte en rekke problematiske påstander om effekten av psykoterapi. Heldigvis er påstandene allerede blitt imøtegått av en rekke fagpersoner, forfatterne av denne kommentaren inkludert, på flere arenaer i ettertid. Med dette innlegget ønsker vi å redegjøre mer detaljert for hvorfor konklusjonen fra Folkeopplysn..."]
+      },
+      {
+        "title": "Covert therapeutic micro-processes in non-recovered eating disorders with childhood trauma: an interpersonal process recall study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Malin Elisabeth Olofsson", "Karianne R Vrabel", "Asle Hoffart", "Hanne Weie Oddli"],
+        "abstract": ["Method\nTo uncover therapeutic micro-processes from the perspectives of eating disorder (ED) treatment non-responders with childhood trauma (CT) late effects, we explored in-session experiences of poor long-term outcome patients. Female inpatients aged 28–59 ( M = 40.2, SD = 5.0) from a randomised trial comparing Compassion Focused Therapy for EDs (..."]
+      },
+      {
+        "title": "Learning Processes and Acquisition of Knowledge and Skills in Training and Supervision of Psychotherapy and Counselling: A Study Protocol for a Scoping Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Hanne Weie Oddli", "Erkki Heinonen", "Stephan Hau", "Hanne Strømme"],
+        "abstract": ["Background: Increased awareness of the individual therapist’s vital contribution to\ntreatment processes and outcome, and the potential role of training and supervision in\nthis respect, warrants a close look at the empirical and theoretical literature on teaching\nand learning of therapists and counselors.\nMethods: A scoping review of the literature..."]
+      },
+      {
+        "title": "Integrasjon i psykoterapi.",
+        "tags": ["Chapter"],
+        "date": "Oct 2021",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": []
+      },
+      {
+        "title": "A Pluralistic Perspective on Research in Psychotherapy: Harnessing Passion, Difference and Dialogue to Promote Justice and Relevance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Kate Smith", "John McLeod", "Nicola Blunden", "Laura Anne Winter"],
+        "abstract": ["The adoption of a pluralistic perspective on research design, processes of data collection and analysis and dissemination of findings, has the potential to enable psychotherapy research to make a more effective contribution to building a just society. A review of the key features of the concept of pluralism is followed by a historical analysis of t..."]
+      },
+      {
+        "title": "Negotiating System Requirements to Secure Client Engagement – Therapist Strategies in Adolescent Psychotherapy Initiated by Others",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Signe Hjelen Stige", "Ingrid Eik", "Hanne Weie Oddli", "Christian Moltu"],
+        "abstract": ["Background: Many adolescent clients come to treatment reluctantly, at the initiative of others. Adolescents also quit therapy prematurely more often than adult clients do. This points to the value of finding good ways to engage adolescent clients in treatment and understanding more of what therapists do to achieve this task.\nMethods: We used focus..."]
+      },
+      {
+        "title": "Future orientation in successful therapies: Expanding the concept of goal in the working alliance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Hanne Weie Oddli", "John McLeod", "Helene A. Nissen-Lie", "Margrethe Seeger Halvorsen"],
+        "abstract": ["Objective\nTo better understand how therapists facilitate client goal attainment in therapy, we analyzed therapists’ future‐oriented actions in good outcome cases in which clients recorded high ratings on goal items in the Working Alliance Inventory‐Short Revised.\n\nMethod\nWe selected clients who were within the clinical range (OQ‐45.2) at pretreatme..."]
+      },
+      {
+        "title": "Family members’ reflections upon a family-based inpatient treatment program for adolescent anorexia nervosa: a thematic analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Jan-Vegard Nilsen", "Øyvind Rø", "Inger Halvorsen", "Trine Wiig Hage"],
+        "abstract": ["Background\nFamily-based outpatient treatment is usually recommended as the treatment of choice when a child develops anorexia nervosa. However, some young persons will inevitably require higher levels of care. Qualitative research on family perspectives may help inform strategies to adapt family-based practices into intensified treatment settings...."]
+      },
+      {
+        "title": "Potentially traumatic experiences and behavioural symptoms in adults with autism and intellectual disability referred for psychiatric assessment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Arvid Nikolai Kildahl", "Hanne Weie Oddli", "Sissel Berge Helverschou"],
+        "abstract": ["Background: Individuals with autism spectrum disorder (ASD) and intellectual disability (ID) more frequently experience potentially traumatic events (PTEs), and may be more vulnerable to trauma-related symptoms. However, it is unclear how such symptoms are captured on tools used for behavioural and psychiatric assessment in this population. \nAims:..."]
+      },
+      {
+        "title": "Sissel Reichelt – minneord",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": []
+      },
+      {
+        "title": "“Driven and Tense, Stressed Out and Anxious”: Clinicians’ Perceptions of Post-Traumatic Stress Disorder Symptom Expressions in Adults with Autism and Intellectual Disability",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Arvid Nikolai Kildahl", "Sissel Berge Helverschou", "Trine Lise Bakken", "Hanne Weie Oddli"],
+        "abstract": ["Introduction: Individuals with autism spectrum disorder (ASD) and intellectual disability (ID) seem to be at increased risk for post-traumatic stress disorder (PTSD), but knowledge is sparse regarding its identification in this population. Previous research indicates that certain symptoms of PTSD may be more easily recognized, and that identifying..."]
+      },
+      {
+        "title": "«In solitude is safeness»: a patient perspective on eating disorders in the context of multiple childhood trauma",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Malin Elisabeth Olofsson", "Hanne Weie Oddli", "Kari Anne R. Vrabel", "Asle Hoffart"],
+        "abstract": ["To capture the core pathology of eating disorders (EDs) in the context of multiple childhood trauma, the aim of this study was to describe variation and common features in the lived experiences of ED patients with childhood physical, emotional, and/or sexual abuse and neglect. Semi-structured interviews were conducted post-treatment with nine parti..."]
+      },
+      {
+        "title": "Clinicians’ perceptions of re-experiencing and avoidance symptoms in PTSD in adults with autism and ID",
+        "tags": ["Poster", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Arvid Nikolai Kildahl", "Sissel Berge Helverschou", "Hanne Weie Oddli"],
+        "abstract": ["Background:\nIndividuals with co-occurring autism spectrum disorder (ASD) and intellectual disability (ID) seem to be at increased risk for experiencing traumatic events, and for developing post-traumatic stress disorder (PTSD) following such events. A recent review indicates that symptoms of re-experiencing and avoidance are particularly challengin..."]
+      },
+      {
+        "title": "External support and personal agency - young persons’ reports on recovery after family-based inpatient treatment for anorexia nervosa: a qualitative descriptive study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Jan-Vegard Nilsen", "Trine Wiig Hage", "Øyvind Rø", "Hanne Weie Oddli"],
+        "abstract": ["Background: \nRecommended treatment for adolescent anorexia nervosa (AN) is usually family-based and an overarching treatment aim is to empower the parents to manage the difficult meals and aid their child toward recovery. While family-based treatment prioritize collaborating with the parents, understanding the young persons' views on recovery is al..."]
+      },
+      {
+        "title": "“If we do not look for it, we do not see it”: Clinicians' experiences and understanding of identifying post‐traumatic stress disorder in adults with autism and intellectual disability",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Arvid Nikolai Kildahl", "Sissel Berge Helverschou", "Trine Lise Bakken", "Hanne Weie Oddli"],
+        "abstract": ["Background: Individuals with autism spectrum disorder (ASD) and intellectual disability (ID) are at increased risk of potentially traumatic events and may be at increased risk of post‐traumatic stress disorder (PTSD). However, knowledge regarding identification of PTSD in this population is limited. The aim of this study was to investigate clinical..."]
+      },
+      {
+        "title": "Minding the adolescent in family-based inpatient treatment for anorexia nervosa: a qualitative study of former inpatients’ views on treatment collaboration and staff behaviors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Jan-Vegard Nilsen", "Trine Wiig Hage", "Øyvind Rø", "Hanne Weie Oddli"],
+        "abstract": ["Background: \nFor some young persons diagnosed with anorexia nervosa, treatment will inevitably involve phases where hospitalization is required. Inspired by the encouraging evidence-base for outpatient family-based treatment for adolescent anorexia nervosa, clinicians and program developers have started to incorporate outpatient family-based treatm..."]
+      },
+      {
+        "title": "Clinicians’ retrospective perceptions of failure to detect sexual abuse in a young man with autism and mild intellectual disability",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Arvid Nikolai Kildahl", "Sissel Berge Helverschou", "Hanne Weie Oddli"],
+        "abstract": ["Background: Individuals with intellectual disability (ID) and autism spectrum disorder (ASD) are at increased risk of sexual abuse. However, little is known about facilitating detection and disclosure. One year after discharge from a specialised psychiatric ward, a young man with mild ID and ASD disclosed previously unknown sexual abuse. The aim of..."]
+      },
+      {
+        "title": "Family-based inpatient treatment for adolescent anorexia nervosa: a thematic analysis of former patients’ post-treatment reflections",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Jan-Vegard Nilsen", "Trine Wiig Hage", "Øyvind Rø", "Hanne Weie Oddli"],
+        "abstract": ["This study investigated former patients’ experiences with family-based inpatient treatment. Interviews of thirty-seven patients diagnosed with anorexia nervosa during the admissions were conducted to examine their post-treatment perspectives. The accounts were analyzed by utilizing an inductive thematic analytic approach. The analysis yielded 4 mai..."]
+      },
+      {
+        "title": "Implementation of Attachment-Based Interventions in Mental Health and Social Welfare Services: Therapist’s Experiences from the Circle of Security-Virginia Family Intervention",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Bettina Nielsen", "Hanne Weie Oddli", "Kari Slinning", "Filip Drozd"],
+        "abstract": ["Closing the gap between attachment theory and clinical practice can be challenging. However, the developers of the original Circle of Security intervention have tried to do this as they developed their intervention. The Circle of Security-Virginia Family model is one version of Circle of Security that has been implemented across (anonymized country..."]
+      },
+      {
+        "title": "Change Processes Related to Long-Term Outcomes in Eating Disorders With Childhood Trauma: An Explorative Qualitative Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Malin Elisabeth Olofsson", "Hanne Weie Oddli", "Asle Hoffart", "Karianne R Vrabel"],
+        "abstract": ["To date, eating disorder (ED) treatments are lacking for ED patients with psychiatric sequelae of childhood trauma, and successful outcomes are scarce. Therefore, the aim of this study was to explore therapeutic change processes from a patient perspective in relation to good versus poor long-term ED outcome at 1-year follow-up. Outcome categories w..."]
+      },
+      {
+        "title": "From intention to action: A mixed methods study of clients’ experiences of goal‐oriented practices",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Gina Di Malta", "Hanne Weie Oddli", "Mick Cooper"],
+        "abstract": ["Objectives: \nGoal-oriented practices are central to many contemporary psychotherapies. The aim of this study was to explore clients' experiences of this work.\n\nDesign: \nMixed methods, with a main qualitative part and a smaller quantitative component. Participants were 22 clients in integrative psychotherapy (15 females, 6 males, 1 \"other\"). Semistr..."]
+      },
+      {
+        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Michael Helge Rønnestad", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["There is a need for studies that advance our knowledge of therapist eﬀectiveness, expanding the deﬁnition of what constitutes \ntherapeutic success. In the present study, four aspects of clinical outcome were analyzed using a sample of highly experienced \npsychotherapists (mean years of experience as therapy practitioners = 30) who also serve as cli..."]
+      },
+      {
+        "title": "Identification of Implementation Strategies Used for the Circle of Security-Virginia Family Model Intervention: Concept Mapping Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Bettina Nielsen", "Kari Slinning", "Hanne Weie Oddli", "Filip Drozd"],
+        "abstract": ["Background: A reoccurring finding from health and clinical services is the failure to\nimplement theory and research into practice and policy in appropriate and efficient ways,\nwhich is why it is essential to develop and identify implementation strategies, as they\nconstitute the ‘how–to’ component of translating and changing health practices.\nObject..."]
+      },
+      {
+        "title": "Negotiating Credibility: The Peer Review Process in Clinical Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs", "John McLeod"],
+        "abstract": ["While the practice of anonymous prepublication peer review has historically functioned as a central element in academic quality control, its validity and efficiency have come under increasing challenge. The aim of the study was to investigate the ways in which scientific knowledge in the field of psychotherapy research is shaped by reviewer and aut..."]
+      },
+      {
+        "title": "How usual is treatment as usual? Experienced therapists’ reflections on participation in practice-based research",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Margrethe Seeger Halvorsen", "Kirsten Benum", "Hanne Weie Oddli", "John McLeod"],
+        "abstract": ["Studies have shown that many clinicians are skeptical about research and hesitant about participating in research. In the present study, we explored this issue by studying experienced therapists’ reflections on their participation in practice-based research. Data were drawn from a practice-based research study at the University of Oslo, Norway. Twe..."]
+      },
+      {
+        "title": "Therapist strategies early in therapy associated with good or poor outcomes among clients with low proactive agency",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Anna von der Lippe", "Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["Objective: Within a mixed methods program of research the present study aimed at expanding knowledge about interactions in the initial therapeutic collaboration by combining focus on client interpersonal style and therapist contribution. Method: The study involves in-depth analyses of therapist–client interactions in the initial two sessions of goo..."]
+      },
+      {
+        "title": "Alliance formation in high-conflict custody mediation: A serial case analysis",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Peder Kjøs", "Hanne Weie Oddli"],
+        "abstract": ["Through an in-depth qualitative analysis of five cases of mandatory highconflict\ncustody mediation, we analysed interpersonal processes associated\nwith the early formation of a working alliance in a three-way interaction. The\nanalysis showed that the mediator efficiently managed the focus of the conversation\nand validated the parents’ perspectives,..."]
+      },
+      {
+        "title": "Knowing-in-Relation: How Experienced Therapists Integrate Different Sources of Knowledge in Actual Clinical Practice",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Hanne Weie Oddli", "John McLeod"],
+        "abstract": ["The present article elaborates on the concept of psychotherapy integration by approaching\nthe issue from the perspective of clinician activity within therapy sessions. Secondary\nanalysis of qualitative data on in-session behavior and posttreatment reflections\nof highly experienced, pluralistically informed therapists was carried out. The concept\nof..."]
+      },
+      {
+        "title": "Nytten av dekantering. Fagessay",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Hanne Weie Oddli"],
+        "abstract": ["Trenger vi utvikling av stadig nye terapimodeller, eller er det stort sett gammel vin på nye flasker?\nhttp://www.psykologtidsskriftet.no/index.php?seks_id=458339&a=3"]
+      },
+      {
+        "title": "Expertise demonstrated.What does it mean to be an expert psychotherapist?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Hanne Weie Oddli", "Margrethe Seeger Halvorsen", "Michael Helge Rønnestad"],
+        "abstract": []
+      },
+      {
+        "title": "Psykoterapeuten. En antologi om terapeutens rolle i psykoterapi",
+        "tags": ["Book"],
+        "date": "Aug 2014",
+        "authors": ["Anna von der Lippe", "Helene A. Nissen-Lie", "Hanne Weie Oddli"],
+        "abstract": []
+      },
+      {
+        "title": "Klinisk ekspertise: Hvordan bruker erfarne terapeuter kunnskap?",
+        "tags": ["Chapter"],
+        "date": "Aug 2014",
+        "authors": ["Hanne Weie Oddli"],
+        "abstract": []
+      },
+      {
+        "title": "Strategies used by experienced therapists to explore client goals in early sessions of psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Hanne Weie Oddli", "John McLeod", "Sissel Reichelt", "Michael Helge Rønnestad"],
+        "abstract": ["The purpose of this study was to investigate the strategies used by highly experienced psychotherapists to explore client goals for psychotherapy during the first three sessions in treatments as usual. Transcripts from audio recordings of the initial three sessions of a sample of nine experienced therapists were analyzed using a modified constructi..."]
+      },
+      {
+        "title": "Fellesfaktordebatt på ville veier (Common factor debate astray)",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Helene A. Nissen-Lie", "Hanne Weie Oddli", "Bruce Wampold"],
+        "abstract": ["Betydningen av og forholdet mellom fellesfaktorer og spesifikke teknikker i psykoterapi er en av de mest sentrale diskusjonene innen psykoterapiforskningen. Debatten er i dag mer opptatt av hvordan fellesfaktorer og spesifikke teknikker henger sammen enn av å sette disse to opp mot hverandre. Denne utviklingen ønsker vi velkommen. \nI sitt innlegg i..."]
+      },
+      {
+        "title": "Å gjøre endring relevant - alliansen som knutepunkt",
+        "tags": ["Chapter"],
+        "date": "Jan 2013",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": []
+      },
+      {
+        "title": "Forskningsbasert kunnskap i klinisk praksis",
+        "tags": ["Chapter"],
+        "date": "Jan 2013",
+        "authors": ["Hanne Weie Oddli"],
+        "abstract": []
+      },
+      {
+        "title": "Experienced Psychotherapists’ Reports of Their Assessments, Predictions, and Decision Making in the Early Phase of Psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["Thirteen highly experienced psychotherapists' retrospective accounts of their initial assessments, predictions, and decision making in recently completed psychotherapies were analyzed by the qualitative method of Grounded Theory. Three main categories were identified, reflecting conceptual, attitudinal, and procedural aspects of initial clinical ju..."]
+      },
+      {
+        "title": "Hvordan erfarne terapeuter integrerer metoder og teknikker i det innledende alliansearbeidet: Improvisasjon og implisitte forhandlinger",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Hanne Weie Oddli"],
+        "abstract": []
+      },
+      {
+        "title": "How experienced therapists introduce the technical aspects in the initial alliance formation: Powerful decision makers supporting clients' agency",
+        "tags": ["Article"],
+        "date": "Nov 2011",
+        "authors": ["Hanne Weie Oddli", "Michael Helge Rønnestad"],
+        "abstract": ["The initial work on the technical aspects of the working alliance was explored in a naturalistic study of the practices of nine experienced teacher therapists. Using the qualitative method of Grounded theory, eight therapist action descriptions were identified, forming two categories: (1) Supporting the client's agency: (a) exploring the clients' s..."]
+      },
+      {
+        "title": "Å leve med forskjell",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": []
+      },
+      {
+        "title": "Fortsatt løgn",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Hanne Weie Oddli"],
+        "abstract": []
+      },
+      {
+        "title": "7 løgner om psykoterapi",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": []
+      },
+      {
+        "title": "Bygg din egen isme!",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": []
+      },
+      {
+        "title": "Å velge i et mangfold av terapimodeller. Momenter til en interpersonlig integrering av terapi",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": []
+      },
+      {
+        "title": "Ubehaget ved makt",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": []
+      },
+      {
+        "title": "Psykologien og vitenskapen. Moderne og postmoderne forståelse av terapi",
+        "tags": ["Book"],
+        "date": "Jan 1998",
+        "authors": ["Hanne Weie Oddli", "Peder Kjøs"],
+        "abstract": ["Through a comprehensive literature review the authors analyse how knowledge and practice is legitimized within the field of psychotherapy. The book provides an analysis of the attempt to establish a modern psychology, in which the natural sciences are considered more legitimate than other forms of knowledge. The modern view is contrasted with a pos..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [51],
+    "reads": [13990],
+    "citations": [397]
   }
 }

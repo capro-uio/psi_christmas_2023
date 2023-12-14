@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Erkki Heinonen",
-    "id": "qEHscW0AAAAJ",
-    "affiliation": "National Institute for Health and Welfare, Helsinki, Finland",
+    "name": ["Erkki Heinonen"],
+    "id": ["qEHscW0AAAAJ"],
+    "affiliation": ["National Institute for Health and Welfare, Helsinki, Finland"],
     "data": {
       "publications": [
         {
@@ -429,8 +429,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-8846-8983",
-    "name": "Erkki Heinonen",
+    "orcid": ["0000-0001-8846-8983"],
+    "name": ["Erkki Heinonen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -458,8 +458,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Erkki Heinonen",
-    "id": "1137603",
+    "name": ["Erkki Heinonen"],
+    "id": ["1137603"],
     "keywords": [],
     "position": ["Professor"],
     "img": {},
@@ -595,5 +595,110 @@
         "url": "https://api.cristin.no/v2/results/1711741"
       }
     ]
+  },
+  "rg": {
+    "id": "Erkki-Heinonen-2",
+    "name": "Erkki Heinonen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/585889633820672-1516698382025_Q128/Erkki-Heinonen-2.jpg",
+    "affiliation": "GE Healthcare, CCS",
+    "keywords": ["Ventilation", "Lung", "Pulmonary Embolism", "Respiratory Mechanics", "Spirometry", "Mechanical Ventilation"],
+    "works": [
+      {
+        "title": "Pulsed delivery of inhaled nitric oxide counteracts hypoxaemia during 2.5 hours of inhalation anaesthesia in dorsally recumbent horses",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Gorel Christina Nyman", "Tamara L Grubb", "Erkki Heinonen", "Marieann Högman"],
+        "abstract": ["The study aimed to investigate the effect of varying pulse lengths of inhaled nitric oxide (iNO), and 2.5 hours of continuous pulse-delivered iNO on pulmonary gas exchange in anaesthetized horses.\nExperimental study.\nSix Standardbred horses.\nHorses received acepromazine, detomidine, guaifenesin, thiopentone and isoflurane in oxygen, were positioned..."]
+      },
+      {
+        "title": "Volumetric or time-based capnography for excluding pulmonary embolism in outpatients?",
+        "tags": ["Article"],
+        "date": "Oct 2009",
+        "authors": ["Franck Verschuren", "Olivier Sanchez", "Marc Righini", "Frédéric Thys"],
+        "abstract": ["Volumetric capnography is technically more demanding but theoretically better than the time-based alveolar deadspace fraction (P(a)CO(2) - EtCO(2))/P(a)CO(2) as a bedside diagnostic tool for excluding pulmonary embolism (PE) in outpatients.\nWe compared both diagnostic accuracy in patients with a suspected PE and positive D-dimer enzyme-linked immun..."]
+      },
+      {
+        "title": "In vitro validation of a Pitot‐based flow meter for the measurement of respiratory volume and flow in large animal anaesthesia",
+        "tags": ["Article"],
+        "date": "May 2009",
+        "authors": ["Yves PS Moens DVM, PD, PhD, Diplomate ECVAA", "Peter Gootjes Ing", "Jean-Claude Ionita", "Urs Schatzmann"],
+        "abstract": ["Objective: \nTo remodel and validate commercially available monitors and their Pitot tube-based flow sensors for use in large animals, using in vitro techniques.\n\nStudy design: \nProspective, in vitro experiment.\n\nMethods: \nBoth the original and the remodelled sensor were studied with a reference flow generator. Measurements were taken of the static..."]
+      },
+      {
+        "title": "Physiologic responses and plasma endothelin-1 concentrations associated with abrupt cessation of nitric oxide inhalation in isoflurane-anesthetized horses",
+        "tags": ["Article"],
+        "date": "Apr 2008",
+        "authors": ["Tamara L Grubb", "Marieann Högman", "Anna Edner", "Gorel Christina Nyman"],
+        "abstract": ["To assess physiologic responses and plasma endothelin (ET)-1 concentrations associated with abrupt cessation of nitric oxide (NO) inhalation in isoflurane-anesthetized horses.\n6 healthy adult Standardbreds.\nHorses were anesthetized with isoflurane in oxygen and placed in dorsal recumbency. Nitric oxide was pulsed into the respiratory tract for 2.5..."]
+      },
+      {
+        "title": "Validation and Clinical Application of a First Order Step Response Equation for Nitrogen Clearance During FRC Measurement",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2008",
+        "authors": ["Gary Choncholas", "Soren Sondergaard", "Erkki Heinonen"],
+        "abstract": ["To derive a difference equation based on mass conservation and on alveolar tidal volumes for the calculation of Functional Residual Capacity. Derive an equation for the FRC from the difference equation. Furthermore, to derive and validate a step response equation as a solution of the difference equation within the framework of digital signal proces..."]
+      },
+      {
+        "title": "Volumetric capnography: Reliability and reproducibility in spontaneously breathing patients",
+        "tags": ["Article"],
+        "date": "Oct 2005",
+        "authors": ["Franck Verschuren", "Erkki Heinonen", "Didier Clause", "Giuseppe Liistro"],
+        "abstract": ["Volumetric capnography provides a breath-by-breath analysis of ventilation-perfusion imbalances and deadspace volumes. The technique has been best described in intubated and ventilated patients, but promising clinical applications also concern spontaneously breathing patients. The objective of the study was to verify the reliability and reproducibi..."]
+      },
+      {
+        "title": "Volumetric capnography as a bedside monitoring of thrombolysis in major pulmonary embolism",
+        "tags": ["Article"],
+        "date": "Dec 2004",
+        "authors": ["Franck Verschuren", "Erkki Heinonen", "Didier Clause", "Giuseppe Liistro"],
+        "abstract": ["To describe the use of volumetric capnography, a plot of expired CO(2) concentration against expired volume, in monitoring fibrinolytic treatment of major pulmonary embolism.\nTwo case reports in the emergency department of a teaching hospital.\nTwo conscious and spontaneously breathing patients (69- and 31-year-old women) with major pulmonary emboli..."]
+      },
+      {
+        "title": "Side Effects of Endotracheal Suction in Pressure- and Volume-Controlled Ventilation",
+        "tags": ["Article"],
+        "date": "Apr 2004",
+        "authors": ["Birgitta Almgren", "Carl-Johan Wickerts", "Erkki Heinonen", "Marieann Högman"],
+        "abstract": ["To investigate the effects of endotracheal suction in volume-controlled ventilation (VCV) and pressure-controlled ventilation (PCV) with an open suction system (OSS) or a closed suction system (CSS).\nRandomized comparison.\nAnimal research laboratory.\nTwelve healthy anesthetized pigs.\nThe effects of endotracheal suction during VCV and PCV with tidal..."]
+      },
+      {
+        "title": "267 Capnographie Volumétrique en salle d’urgence : validation de la méthode",
+        "tags": ["Article"],
+        "date": "Mar 2004",
+        "authors": ["Franck Verschuren", "Erkki Heinonen", "Didier Clause", "Marcus STAN Reynaert"],
+        "abstract": []
+      },
+      {
+        "title": "Administration of nitric oxide into open lung regions: delivery and monitoring",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2003",
+        "authors": ["Erkki Heinonen", "P Meriläinen", "Marieann Högman"],
+        "abstract": ["Pulsed administration of nitric oxide has proven effective in relieving pulmonary hypertension and in improving oxygenation. With this delivery method the nitric oxide administration to low ventilated lung regions is avoided with subsequent enhancement in oxygenation. This study presents (i) pulsed administration technique for nitric oxide during a..."]
+      },
+      {
+        "title": "Effect of different pulses of nitric oxide on venous admixture in the anaesthetized horse",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2002",
+        "authors": ["Erkki Heinonen", "Gorel Christina Nyman", "P Meriläinen", "Marieann Högman"],
+        "abstract": ["Dependent atelectatic lung areas open towards the end of inspiration when the lung opening pressure increases, and recollapse during expiration. We hypothesized that inhaled nitric oxide (NO) counteracts hypoxic vasoconstriction in these collapsing lung areas, resulting in increased pulmonary shunt perfusion.\nWe administered NO as a pulse and varie..."]
+      },
+      {
+        "title": "Synchronized delivery of inspired nitric oxide : Effects on oxygenation and pulmonary tension during artificial ventilation",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Erkki Heinonen"],
+        "abstract": []
+      },
+      {
+        "title": "Theoretical and experimental comparison of constant inspired concentration and pulsed delivery in NO therapy",
+        "tags": ["Article"],
+        "date": "Sep 2000",
+        "authors": ["Erkki Heinonen", "Marieann Högman", "P Meriläinen"],
+        "abstract": ["Inhaled NO therapy of artificially ventilated patients has been established as being based on constant inspired concentration of NO. In this study a new volumetrically controlled pulsed NO delivery mode is compared with the established concentration-based concept.\nTo evaluate the relationship between NO delivery parameters, alveolar NO fraction, an..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [13],
+    "reads": [1583],
+    "citations": [229]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2946-1148",
-    "name": "Line Solheim Kvamme",
+    "orcid": ["0000-0002-2946-1148"],
+    "name": ["Line Solheim Kvamme"],
     "distinctions": [],
     "education": [
       {
@@ -47,8 +47,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Euryph Line Solheim Kvamme",
-    "id": "1169042",
+    "name": ["Euryph Line Solheim Kvamme"],
+    "id": ["1169042"],
     "keywords": [],
     "position": ["Guest", "Research Scientist"],
     "img": {},
@@ -62,8 +62,8 @@
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Co-Designing an Emotion Regulation Intervention for Adolescents in Norwegian School Health Services:  The Kort Project ",
-        "url": "https://api.cristin.no/v2/results/2182432"
+        "url": "https://api.cristin.no/v2/results/2182432",
+        "title": "Co-Designing an Emotion Regulation Intervention for Adolescents in Norwegian School Health Services:  The Kort Project "
       },
       {
         "type": "Feature article",
@@ -74,35 +74,63 @@
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Common Practice Elements in Treatment Programs for Adolescents with Externalizing and Internalizing Problems: A Meta-Analysis",
         "journal": "Residential Treatment for Children & Youth",
-        "url": "https://api.cristin.no/v2/results/2041823"
+        "url": "https://api.cristin.no/v2/results/2041823",
+        "title": "Common Practice Elements in Treatment Programs for Adolescents with Externalizing and Internalizing Problems: A Meta-Analysis"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Practice elements in treatment programs for adolescents with externalizing and internalizing problems",
-        "url": "https://api.cristin.no/v2/results/2040022"
+        "url": "https://api.cristin.no/v2/results/2040022",
+        "title": "Practice elements in treatment programs for adolescents with externalizing and internalizing problems"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Practice elements in residential programs for adolescents with externalizing and internalizing problems: A meta-analysis",
-        "url": "https://api.cristin.no/v2/results/2040021"
+        "url": "https://api.cristin.no/v2/results/2040021",
+        "title": "Practice elements in residential programs for adolescents with externalizing and internalizing problems: A meta-analysis"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
-        "title": "Striving for happily ever after – supportive interventions for youth leaving residential placement – a systematic review",
         "journal": "Child and Adolescent Mental Health",
-        "url": "https://api.cristin.no/v2/results/1930701"
+        "url": "https://api.cristin.no/v2/results/1930701",
+        "title": "Striving for happily ever after – supportive interventions for youth leaving residential placement – a systematic review"
       },
       {
         "type": "Poster",
         "year": "2019",
-        "title": "Happily Ever After? What Works For Youth Who Are Leaving Out-Of-Home Care? A Systematic Review Of Reviews.",
-        "url": "https://api.cristin.no/v2/results/1787691"
+        "url": "https://api.cristin.no/v2/results/1787691",
+        "title": "Happily Ever After? What Works For Youth Who Are Leaving Out-Of-Home Care? A Systematic Review Of Reviews."
       }
     ]
+  },
+  "rg": {
+    "id": "Line-Solheim-Kvamme-2",
+    "name": "Line Solheim Kvamme",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1038550321618944-1624621100602_Q128/Line-Solheim-Kvamme-2.jpg",
+    "affiliation": "Regionsenter for barn og unges psykiske helse | RBUP, Regionsenter for barn og unges psykiske helse, Research Group for Treatment and Prevention",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Common Practice Elements in Treatment Programs for Adolescents with Externalizing and Internalizing Problems: A Meta-Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Line Solheim Kvamme", "serap keles", "Ragnhild Bang Nes", "John Kjøbli"],
+        "abstract": "There is a pressing need for effective interventions targeting mental disorders for service-involved youth across child welfare, correctional and mental health residential settings. Identifying effective common practice elements (CPEs) is a promising direction toward developing effective, flexible, and feasible therapeutic interventions. The aims o..."
+      },
+      {
+        "title": "Review: Striving for happily ever after – supportive interventions for youth leaving residential placement – a systematic review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Line Solheim Kvamme", "Pamela Waaler", "Siri Saugestad Helland", "John Kjøbli"],
+        "abstract": "Background: \nYouth who reenter communities after forensic or residential care are overrepresented in prevalence rates for mental disorders, delinquency, incarceration, low academic achievement, and unemployment. Supportive interventions that aid youth in the reentry to their communities can be crucial for successful reintegration. In systematic rev..."
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": [],
+    "publications": [2],
+    "reads": [357],
+    "citations": [3]
   }
 }

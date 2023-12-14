@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-0111-8970",
-    "name": "Liva Jenny Martinussen",
+    "orcid": ["0000-0002-0111-8970"],
+    "name": ["Liva Jenny Martinussen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Liva Jenny Martinussen",
-    "id": "1021944",
+    "name": ["Liva Jenny Martinussen"],
+    "id": ["1021944"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -47,5 +47,15 @@
         "url": "https://api.cristin.no/v2/results/1732146"
       }
     ]
+  },
+  "rg": {
+    "id": "Eliza-Liva",
+    "name": "Eliza Liva",
+    "img": "https://i1.rgstatic.net/ii/profile.image/886290337763328-1588319491387_Q128/Eliza-Liva.jpg",
+    "affiliation": "Latvia University of Agriculture | LLU, Latvia University of Agriculture, Program in Veterinary Medicine",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

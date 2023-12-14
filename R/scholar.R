@@ -1,4 +1,6 @@
-library(tidyverse)
+library(dplyr)
+library(stringr)
+
 `%||%` <- function(x, y) {
   if (!is.null(x)) x else y
 }
@@ -10,7 +12,7 @@ search_gid <- function(name){
     httr2::req_url_path_append("/citations") |> 
     httr2::req_url_query(
       view_op="search_authors",
-      mauthors=str_replace_all(name, " ", "+"),
+      mauthors=gsub(" ", "+", name),
       hl="en") |> 
     httr2::req_user_agent("CAPRO@capro.dev") |>
     httr2::req_perform()

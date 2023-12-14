@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0008-1748-2639",
-    "name": "Ingvil Laberg Holthe",
+    "orcid": ["0009-0008-1748-2639"],
+    "name": ["Ingvil Laberg Holthe"],
     "distinctions": [],
     "education": [
       {
@@ -25,8 +25,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ingvil Laberg Holthe",
-    "id": "1021818",
+    "name": ["Ingvil Laberg Holthe"],
+    "id": ["1021818"],
     "keywords": [],
     "position": ["University lecturer", null],
     "img": {},
@@ -44,52 +44,52 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2153225",
         "title": "Children’s, parents’, and teachers’ experiences of the feasibility of a telerehabilitation intervention for children with acquired brain injury in the chronic phase – a qualitative study of acceptability and participation in the Child In Context Intervention (CICI)",
-        "journal": "BMC Health Services Research",
-        "url": "https://api.cristin.no/v2/results/2153225"
+        "journal": "BMC Health Services Research"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "The Child in Context Intervention (CICI) Study: special education and other educational support for children with acquired brain injury in the chronic stage - associations with cognition, brain injury symptoms and time since insult",
-        "url": "https://api.cristin.no/v2/results/2141087"
+        "url": "https://api.cristin.no/v2/results/2141087",
+        "title": "The Child in Context Intervention (CICI) Study: special education and other educational support for children with acquired brain injury in the chronic stage - associations with cognition, brain injury symptoms and time since insult"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Symposium: Goal-Oriented and Individualized Rehabilitation after Brain Injury",
-        "url": "https://api.cristin.no/v2/results/2140931"
+        "url": "https://api.cristin.no/v2/results/2140931",
+        "title": "Symposium: Goal-Oriented and Individualized Rehabilitation after Brain Injury"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Families´self-reported challenges in daily life in the chronic stage of pediatric brain injury",
-        "url": "https://api.cristin.no/v2/results/2140030"
+        "url": "https://api.cristin.no/v2/results/2140030",
+        "title": "Families´self-reported challenges in daily life in the chronic stage of pediatric brain injury"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2129209",
         "title": "Almost half of children and adolescents had unmet need 6 months after their traumatic brain injury",
-        "journal": "Acta Paediatrica",
-        "url": "https://api.cristin.no/v2/results/2129209"
+        "journal": "Acta Paediatrica"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "journal": "Ergoterapeuten",
-        "url": "https://api.cristin.no/v2/results/2090955"
+        "url": "https://api.cristin.no/v2/results/2090955",
+        "journal": "Ergoterapeuten"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Treating Chronic Symptoms of Pediatric Acquired Brain Injury Through a Telehealth Intervention:A feasibility Study of the Child in Context Intervention (CICI)",
-        "url": "https://api.cristin.no/v2/results/2090869"
+        "url": "https://api.cristin.no/v2/results/2090869",
+        "title": "Treating Chronic Symptoms of Pediatric Acquired Brain Injury Through a Telehealth Intervention:A feasibility Study of the Child in Context Intervention (CICI)"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "A qualitative interview study of feasibility and acceptability of a telerehabilitation intervention for children with acquired brain injury: The Child In Context Intervention (CICI)",
-        "url": "https://api.cristin.no/v2/results/2090567"
+        "url": "https://api.cristin.no/v2/results/2090567",
+        "title": "A qualitative interview study of feasibility and acceptability of a telerehabilitation intervention for children with acquired brain injury: The Child In Context Intervention (CICI)"
       },
       {
         "type": "Academic lecture",
@@ -99,47 +99,47 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2022",
-        "journal": "Ergoterapeuten",
-        "url": "https://api.cristin.no/v2/results/2088697"
+        "url": "https://api.cristin.no/v2/results/2088697",
+        "journal": "Ergoterapeuten"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2025025",
         "title": "Feasibility and Acceptability of a Complex Telerehabilitation Intervention for Pediatric Acquired Brain Injury: The Child in Context Intervention (CICI)",
-        "journal": "Journal of Clinical Medicine",
-        "url": "https://api.cristin.no/v2/results/2025025"
+        "journal": "Journal of Clinical Medicine"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2017213",
         "title": "Neuropsychological Impairment, Brain Injury Symptoms, and Health-Related Quality of Life After Pediatric TBI in Oslo",
-        "journal": "Frontiers in Neurology",
-        "url": "https://api.cristin.no/v2/results/2017213"
+        "journal": "Frontiers in Neurology"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2005053",
         "title": "Rehabilitation for children with chronic acquired brain injury in the Child in Context Intervention (CICI) study: study protocol for a randomized controlled trial",
-        "journal": "Trials",
-        "url": "https://api.cristin.no/v2/results/2005053"
+        "journal": "Trials"
       },
       {
         "type": "Poster",
         "year": "2021",
-        "title": "INTERVENTION ACCEPTABILITY AS EXPERIENCED\r\nFROM CHILDREN WITH ABI AND THEIR PARENTS AND TEACHERS\r\nQuality feasibility\r\ndata related to The Child in Context Intervention (CICI) RCT study",
-        "url": "https://api.cristin.no/v2/results/1941165"
+        "url": "https://api.cristin.no/v2/results/1941165",
+        "title": "INTERVENTION ACCEPTABILITY AS EXPERIENCED\r\nFROM CHILDREN WITH ABI AND THEIR PARENTS AND TEACHERS\r\nQuality feasibility\r\ndata related to The Child in Context Intervention (CICI) RCT study"
       },
       {
         "type": "Poster",
         "year": "2021",
-        "title": "Treating Chronic Symptoms of Pediatric Acquired Brain Injury Through a Telehealth Intervention: A Feasibility Study of \r\nthe Child in Context Intervention (CICI)\r\n",
-        "url": "https://api.cristin.no/v2/results/1941156"
+        "url": "https://api.cristin.no/v2/results/1941156",
+        "title": "Treating Chronic Symptoms of Pediatric Acquired Brain Injury Through a Telehealth Intervention: A Feasibility Study of \r\nthe Child in Context Intervention (CICI)\r\n"
       },
       {
         "type": "Poster",
         "year": "2021",
-        "title": "The Child in Context Intervention (CICI) Study:\r\nProtocol for a randomized controlled trial evaluating the effectiveness of a goal oriented and\r\nindividualized rehabilitation for children with chronic acquired brain injury",
-        "url": "https://api.cristin.no/v2/results/1941149"
+        "url": "https://api.cristin.no/v2/results/1941149",
+        "title": "The Child in Context Intervention (CICI) Study:\r\nProtocol for a randomized controlled trial evaluating the effectiveness of a goal oriented and\r\nindividualized rehabilitation for children with chronic acquired brain injury"
       },
       {
         "type": "Academic lecture",
@@ -154,9 +154,9 @@
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1921023",
         "title": "Epidemiology of traumatic brain injury in children 15 years and younger in South-Eastern Norway in 2015–16. Implications for prevention and follow-up needs",
-        "journal": "European journal of paediatric neurology",
-        "url": "https://api.cristin.no/v2/results/1921023"
+        "journal": "European journal of paediatric neurology"
       },
       {
         "type": "Lecture",
@@ -166,17 +166,688 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1794610",
         "title": "The feasibility and acceptability of Goal Management Training of executive functions in children with spina bifida and acquired brain injury",
-        "journal": "Neuropsychological Rehabilitation",
-        "url": "https://api.cristin.no/v2/results/1794610"
+        "journal": "Neuropsychological Rehabilitation"
       },
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/2090987",
         "title": "Norwegian adolescent reference data for a cognitive screening \r\nbattery with relevance to driving capacity",
-        "journal": "Nevropsykologi : Medlemsblad for Norsk Nevropsykologisk Forening",
-        "url": "https://api.cristin.no/v2/results/2090987"
+        "journal": "Nevropsykologi : Medlemsblad for Norsk Nevropsykologisk Forening"
       }
     ]
+  },
+  "rg": {
+    "id": "Jon-Laberg",
+    "name": "Jon Christian Laberg",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272697334693894-1442027519128_Q128/Jon-Laberg.jpg",
+    "affiliation": "University of Bergen | UiB, University of Bergen, Department of Psychosocial Science",
+    "keywords": ["Health Psychology", "Social Psychology", "Self-efficacy", "Addiction Research", "Cross Cultural Psychology", "Environmental Psychology", "Eating Disorders"],
+    "works": [
+      {
+        "title": "Long-Term Reactions to the Loss of a Close Friend in an Extreme Terror Incident",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["Iren Johnsen", "Kari Madeleine Stabell Dyregrov", "Stig Berge Matthiesen", "Jon Christian Laberg"],
+        "abstract": ["This article presents results from one of the first longitudinal studies exploring the effects of losing a close friend to traumatic death, focusing on complicated grief over time and how this is affected by avoidant behavior and rumination about the loss. The sample consists of 88 persons (76% women and 24% men, mean age = 21) who lost a close fri..."]
+      },
+      {
+        "title": "Norwegian adaptation of the DRS-Dispositional Resilience Scale for measuring hardiness under stress",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Paul Bartone", "Jarle Eid", "Sigurd Hystad", "Jon Christian Laberg"],
+        "abstract": ["Fulbright research was conducted in Norway from August 2006 through March of 2007, focused on developing a cross-culturally valid and reliable measure of psychological hardiness. Hardiness was first described by Kobasa (1979) as a set of personality variables (summarized as commitment, control and challenge) associated with continued good health un..."]
+      },
+      {
+        "title": "Hardiness, avoidance coping, and alcohol consumption in war veterans: A moderated-mediation study: Hardiness, avoidance coping and alcohol",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Paul Bartone", "Bjorn H. Johnsen", "Jarle Eid", "Jon Christian Laberg"],
+        "abstract": ["Military personnel often engage in excessive alcohol use after returning from deployments. Thus far, research has paid scant attention to personality factors that may increase or diminish the risk for increased alcohol consumption in this population. The present study explores how psychological hardiness, avoidance coping, and stress exposure may i..."]
+      },
+      {
+        "title": "Facing spousal cancer during child-rearing years: The short-term effects of the Cancer-PEPSONE programme—a single-center randomized controlled trial",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Mette Senneseth", "Atle Dyregrov", "Jon Christian Laberg", "May Aasebø Hauken"],
+        "abstract": ["Objective: \nTo measure the short-term effects of the Cancer-PEPSONE programme (CPP) on the partners' received and perceived social support, psychological distress and quality of life (QOL), as well as explore the role of received social support as a mediator of the intervention effects.\n\nMethods: \nOpen single-center randomized controlled trial, tri..."]
+      },
+      {
+        "title": "Facing Spousal Cancer During Child-Rearing Years: Do Social Support and Hardiness Moderate the Impact of Psychological Distress on Quality of Life?",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Mette Senneseth", "May Aasebø Hauken", "Stig Berge Matthiesen", "Jon Christian Laberg"],
+        "abstract": ["Background: \nPartners of cancer patients report psychological distress and reduced quality of life. However, partners' mental health status and quality of life during child-rearing years and the influence of social support and hardiness on their well-being have not yet been studied.\n\nObjective: \nThe aim of this study was to describe psychological d..."]
+      },
+      {
+        "title": "Should the population limit its exposure to media coverage after a terrorist attack?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Reidar Nevdal", "Halvor Wennesland Gravdal", "Jon Christian Laberg", "Kari Madeleine Stabell Dyregrov"],
+        "abstract": ["This study investigates the relationship between media exposure to the terrorist attacks in Norway on July 22, 2011 and post-traumatic stress reactions (PTSR) three years after the attacks. The sample consisted of two groups of parents not present during the attacks. The bereaved parents lost a child during the attacks, while the control group was..."]
+      },
+      {
+        "title": "Psychological Hardiness and Avoidance Coping Are Related to Risky Alcohol Use in Returning Combat Veterans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Paul Bartone", "Jarle Eid", "Sigurd Hystad", "Bjorn H. Johnsen"],
+        "abstract": ["This study examines psychological hardiness and avoidance coping as predictors of risk for alcohol abuse in military personnel following war-zone deployment. U.S. Army soldiers returning from Afghanistan completed questionnaire surveys during their first week home, and again seven to nine months later. The Time 1 survey was administered in paper fo..."]
+      },
+      {
+        "title": "The combined influence of hardiness and cohesion on mental health in a military peacekeeping mission: A prospective study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Ådne G. Thomassen", "Sigurd Hystad", "Bjørn Helge Johnsen", "Jarle Eid"],
+        "abstract": ["A large number of studies have shown that hardiness and cohesion are associated with mental health in a military context. However, most of them are presented without controlling for baseline mental health symptoms, which is their most significant source of error. The present study investigates the combined effect of hardiness and cohesion in a pros..."]
+      },
+      {
+        "title": "Stressors, social support and military performance in a modern war scenario",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Christian Moldjord", "Jon Christian Laberg", "Torbjorn Rundmo"],
+        "abstract": ["The present study examined differences in stressors, coping strategies, and military performance in two groups deployed in the same war scenario, but with operative and psychologically different challenges.\nA total of 173 military personnel participated in the study. Questionnaires measuring stress, coping strategies and military performance were a..."]
+      },
+      {
+        "title": "Psychosocial functioning after losing a close friend in an extreme terror incident",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Iren Johnsen", "Jon Christian Laberg", "Stig Berge Matthiesen", "Kari Madeleine Stabell Dyregrov"],
+        "abstract": ["Do candidate risk factors for complicated grief, and associations with other problems after traumatic deaths (e.g., homicide, suicide, disaster, or accident), also apply to bereaved friends? In this article we present results from a study on 76 bereaved friends’ situation after the killings at Utøya 22nd July 2011, and focus on grief and trauma rea..."]
+      },
+      {
+        "title": "Big five, hardiness and social judgment as predictors of leader performance, 2009, Leadership & Organization Development Journal",
+        "tags": ["Data", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Paul Bartone", "Jarle Eid", "Bjorn Helge Johnsen", "Scott Snook"],
+        "abstract": []
+      },
+      {
+        "title": "Psychopathy and the ability to read the “language of the eyes”: Divergence in the psychopathy construct",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Asle Makoto Sandvik", "Anita Lill Hansen", "Bjørn Helge Johnsen", "Jon Christian Laberg"],
+        "abstract": ["The capacity to interpret others people's behavior and mental states is a vital part of human social communication. This ability, also called mentalizing or Theory of Mind (ToM), may also serve as a protective factor against aggression and antisocial behavior. This study investigates the relationship between two measures of psychopathy (clinical as..."]
+      },
+      {
+        "title": "Hardiness Profiles: Defining Clusters of the Dispositional Resilience Scale and Their Relation to Soldiers’ Health",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Bjørn H. Johnsen", "Sigurd Hystad", "Paul Bartone", "Jarle Eid"],
+        "abstract": ["K-means cluster analysis was performed on a Norwegian infantry battalion deployed in Kosovo. A four-cluster solution was obtained. The High Hardy cluster showed high scores on all three facets of hardiness. The Low Hardy cluster showed low scores on all facets. The Sensation Seeking cluster was described as low on control and commitment but high on..."]
+      },
+      {
+        "title": "Type of Musical Soundtrack Affects Behavior in Gambling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Rune Mentzoni", "Jon Christian Laberg", "Geir Scott Brunborg", "Ståle Pallesen"],
+        "abstract": ["Background and aims: \nA long existing notion is that the presence of music might affect gambling behavior. In spite of this, little empirical research on the subject exists. The main aim of the present study was to corroborate and elaborate on the existing findings concerning gambling and music through a laboratory based experiment.\n\nMethods: \nA no..."]
+      },
+      {
+        "title": "New Screening Tools for Early Detection of Alcohol Abuse Risk in the Military",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Paul Bartone", "Jarle Eid", "Sigurd Hystad", "Bjorn H. Johnsen"],
+        "abstract": ["INTRODUCTION: A major problem facing military personnel and veterans is alcohol abuse, which can devastate individual lives, and also drives up health care costs and degrades the readiness of military forces. Alcohol and substance abuse in turn contribute to a range of other negative outcomes including depression, family violence and suicide. Effec..."]
+      },
+      {
+        "title": "The impact of military identity on Norwegian junior officer students",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Rino Bandlitz Johansen", "Jon Christian Laberg", "Monica Martinussen"],
+        "abstract": ["The present study examines the influence of military identity on military performance, and the potential of military identity to predict military performance beyond military ethos, organizational commitment, and hardiness in Norwegian petty officer students. Dependent variables were (1) overall performance, (2) petty officer potential, and (3) lead..."]
+      },
+      {
+        "title": "Military Identity as Predictor of Perceived Military Competence and Skills",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Rino Bandlitz Johansen", "Jon Christian Laberg", "Monica Martinussen"],
+        "abstract": ["Recent radical changes in the application of military power and service patterns have triggered demands for a change in military identity. This article aimed to examine the ability of military identity to predict perceived military performance and attitudes beyond the contributions of personality traits and Hardiness in Norwegian military academy c..."]
+      },
+      {
+        "title": "Measuring Military Identity: Scale Development and Psychometric Evaluations",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Rino Bandlitz Johansen", "Jon Christian Laberg", "Monica Martinussen"],
+        "abstract": ["Our purpose was to perform a psychometric evaluation of a new 33-item questionnaire developed in Norway. To evaluate it we assessed its internal consistency, performed an exploratory factor analysis, and investigated aspects of construct validity. We also examined test-retest reliability. A second purpose was to investigate whether or not individua..."]
+      },
+      {
+        "title": "An Experimental Study of Social Norms in Situation",
+        "tags": ["Article"],
+        "date": "Nov 2012",
+        "authors": ["Kristian Firing", "Ragnheidur Karlsdottir", "Jon Christian Laberg", "Robert A. Wicklund"],
+        "abstract": ["This study explores the effect of social norms in a military situation at the Royal Norwegian Air Force Academy. During the wintertime, standing on a wharf, officers were given the offer of jumping into the ocean or not. In the experiment (n=75), having an anti-jump norm induced by a confederate, the jump rate decreased from 76% to 51%. One implica..."]
+      },
+      {
+        "title": "Short-Term Effects of a Writing Intervention Among Adolescents in Gaza",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2012",
+        "authors": ["Ida  Ingridsdatter Lange-Nielsen", "Silje Kolltveit", "Abdel Aziz", "Jon Christian Laberg"],
+        "abstract": ["This study evaluates the effect of a short-term group intervention titled Writing for Recovery in Gaza. Adolescents (N = 139) aged 12–17 were randomly assigned to an intervention or to a waiting list group. Levels of distress were assessed at baseline and at posttest. A follow-up assessment was conducted 5 months after both groups had received the..."]
+      },
+      {
+        "title": "Personal Characteristics and Social Identity as Predictors of Risk Taking among Military Officers: An Empirical Study",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Kristian Firing", "Jon Christian Laberg"],
+        "abstract": []
+      },
+      {
+        "title": "Tempo in electronic gaming machines affects behavior among at-risk gamblers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2012",
+        "authors": ["Rune Mentzoni", "Jon Christian Laberg", "Geir Scott Brunborg", "Ståle Pallesen"],
+        "abstract": ["Background and aims: Electronic gaming machines (EGM) may be a particularly addictive form of gambling, and gambling speed is believed to contribute to the addictive potential of such machines. The aim of the current study was to generate more knowledge concerning speed as a structural characteristic in gambling, by comparing the effects of three d..."]
+      },
+      {
+        "title": "Risk factors for PTSD, anxiety, and depression among adolescents in Gaza",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["Silje Kolltveit", "Ida Ingridsdatter Lange-Nielsen", "Abdel Aziz", "Jon Christian Laberg"],
+        "abstract": ["The present study examined among adolescents in Gaza the relationship between exposure to war stressors and psychological distress as well as the effects of age, gender, and socioeconomic status. Data were collected from a sample of 139 adolescents 12 to 17 years old. Results showed that adolescents reported elevated levels of intrusion, avoidance,..."]
+      },
+      {
+        "title": "Leadership, psychological capital and safety research: Conceptual issues and future research questions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Jarle Eid", "Kathryn Mearns", "Gerry Larsson", "Bjørn Helge Johnsen"],
+        "abstract": ["In this theory-driven literature review we examine how leadership and emerging research in positive organizational behaviour (POB) may inform our understanding of human mechanisms that affect safety outcomes. According to authentic leadership theory, leader self-awareness and self-regulation processes are vital mechanisms in the leader–follower exc..."]
+      },
+      {
+        "title": "Effects of sequential win occurrence on subsequent gambling behaviour and urges.",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Rune Mentzoni", "Jon Christian Laberg", "Geir Scott Brunborg", "Mark D Griffiths"],
+        "abstract": []
+      },
+      {
+        "title": "Psychological Hardiness Predicts Admission Into Norwegian Military Officer Schools",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2011",
+        "authors": ["Sigurd Hystad", "Jarle Eid", "Jon Christian Laberg", "Paul Bartone"],
+        "abstract": ["We examined the role of hardiness in predicting admission into Norwegian Military Officer Schools with data from officer applicants (N = 1,111) who completed a questionnaire containing dispositional hardiness measures (Bartone, 19952.\nBartone , P. T. A short hardiness scale . Paper presented at the Annual Convention of the American Psychological So..."]
+      },
+      {
+        "title": "Identity in situation: Differences between police and military",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Kristian Firing", "Ragnheidur Karlsdottir", "Jon Christian Laberg"],
+        "abstract": ["This paper examines a case study of a military exercise conducted among cadets at four academies: the Norwegian Air Force, Navy, Army, and Police Academies (n = 128). When the cadets were presented with a case-study situation, we induced reflection as a mediating process for the actions they chose to take. While standing half-naked and blind-folded..."]
+      },
+      {
+        "title": "Positive organizational behaviour and safety science: conceptual issues and future research questions",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Jarle Eid", "Kathryn Mearns", "G. Larsson", "B.H. Johnsen"],
+        "abstract": []
+      },
+      {
+        "title": "Attentional biases among pathological gamblers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Helge Molde", "Ståle Pallesen", "Bjørn Sætrevik", "Bjørn-Helge Johnsen"],
+        "abstract": ["Pictorial stimuli were presented in a Stroop task paradigm that enabled the recording of attentional bias. The sample comprised 33 pathological slot machine gamblers (PG) and 22 control participants. The design of the study had one between-subjects factor – Group (PGs vs control), and two within-subject factors: (1) Stimulus meaning (win-related ga..."]
+      },
+      {
+        "title": "Psykologisk hardførhet predikerer soldaters motivasjonsutvikling under en 200 km lang skimarsj",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Asle Makoto Sandvik", "Rune Gjeldnes", "Sigurd Hystad", "Bjørn Helge Johnsen"],
+        "abstract": []
+      },
+      {
+        "title": "Training for the unexpected: How reflection transforms hard action into learning experiences",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Kristian Firing", "Jon Christian Laberg"],
+        "abstract": []
+      },
+      {
+        "title": "Psychometric properties of the revised Norwegian Dispositional Resilience (Hardiness) Scale",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2009",
+        "authors": ["Sigurd Hystad", "Jarle Eid", "Bjørn Helge Johnsen", "Paul Bartone"],
+        "abstract": ["Hystad, S. W., Eid, J., Johnsen, B. H., Laberg, J. C. & Bartone, P. T. (2010) Psychometric properties of the revised Norwegian dispositional resilience (hardiness) scale. Scandinavian Journal of Psychology, 51, 237–245.\nIn the 30 years that have elapsed since it was first introduced, the concept of hardiness has continued to attract the attention a..."]
+      },
+      {
+        "title": "Social influence in military leadership training",
+        "tags": ["Article"],
+        "date": "Oct 2009",
+        "authors": ["Kristian Firing", "Ragnheidur Karlsdottir", "Jon Christian Laberg"],
+        "abstract": ["Purpose\nThe purpose of this paper is to develop a renewed understanding of social influence in the military by exploring officers' decision‐making processes in a stressful situation. The intention is to develop self‐awareness as a central leadership capability in authentic leadership.\n\nDesign/methodology/approach\nDuring wintertime in Norway, standi..."]
+      },
+      {
+        "title": "Primærforebyggende alkoholundervisning i ungdomsskolen: Positive korttidseffekter",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2009",
+        "authors": ["Britt Unni Wilhelmsen", "Jon Christian Laberg"],
+        "abstract": ["strong> \nSAMMENDRAG Et forebyggende prosjekt om alkohol for 13-14 åringer er gjennomført ved Universitetet i Bergen.\nMålsettingen for prosjektet var å utsette debutalder for drikking og redusere eksperimentering med alkohol.\nElevene deltok i 10 timer prosjektorientert undervisning, som bygget på korrigering av elevenes alkoholforventninger\nog flert..."]
+      },
+      {
+        "title": "Academic Stress and Health: Exploring the Moderating Role of Personality Hardiness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2009",
+        "authors": ["Sigurd Hystad", "Jarle Eid", "Jon Christian Laberg", "Paul Bartone"],
+        "abstract": ["Attending university is a pleasurable experience for many students. Yet for others it represents a highly stressful time of extensive studying and pressure to meet the requirements of academia. Academic stress is associated with a variety of negative outcomes such as physical illness and deteriorating mental health. This paper explores the capacity..."]
+      },
+      {
+        "title": "Psychometric properties of the Norwegian Impact of Event Scale-Revised in a non-clinical sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2009",
+        "authors": ["Jarle Eid", "Gerry Larsson", "Bjørn Helge Johnsen", "Berit Carlstedt"],
+        "abstract": ["Despite the widespread use of the Impact of Event Scale to measure post-traumatic stress symptoms, psychometric evaluations of the scale have revealed mixed findings.\nThe aim of the present study is to provide new empirical evidence and examine the factor structure, reliability, and predictive validity of the Norwegian version of the IES-R.\nPosttra..."]
+      },
+      {
+        "title": "Big five personality factors, hardiness, and social judgment as predictors of leader performance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2009",
+        "authors": ["Paul Bartone", "Jarle Eid", "Bjorn Helge Johnsen", "Scott Snook"],
+        "abstract": ["Purpose\nThe purpose of this paper is to evaluate the influence of psychological hardiness, social judgment, and “Big Five” personality dimensions on leader performance in US military academy cadets at West Point.\n\nDesign/methodology/approach\nArmy cadets were studied in two different organizational contexts, i.e. summer field training and during aca..."]
+      },
+      {
+        "title": "A chart review study of male alcoholics differentiated by personality disorder",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Jon Christian Laberg"],
+        "abstract": ["The goal of this study was to compare a group of alcoholics with a diagnosis of borderline personality disorder (BPD) with alcoholics with a diagnosis of mixed personality disorder (MXPD). From a sample of 46 inpatients in a substance abuse treatment center, rediagnosed in accordance with Axes I and II of DSM-III, three groups were formed. Group 1..."]
+      },
+      {
+        "title": "Measurement equivalence in Norwegian and American hardiness scales",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Sigurd Hystad", "Jarle Eid", "J. I. Brevik", "Paul Bartone"],
+        "abstract": []
+      },
+      {
+        "title": "Outcome of Pharmacological Treatments of Pathological Gambling",
+        "tags": ["Article"],
+        "date": "Sep 2007",
+        "authors": ["Ståle Pallesen", "Helge Molde", "Helga Myrseth", "Fred Holsten"],
+        "abstract": ["Although several qualitative reviews on pharmacological interventions for pathological gambling have been published, no quantitative review of this field has been conducted.\nStudies of pharmacological interventions of pathological gambling were identified by computer searches in the PsychINFO and MEDLINE databases covering the period from 1966 to J..."]
+      },
+      {
+        "title": "Cross-cultural adaptation of the DRS-15 Dispositional Resilience Scale (psychological hardiness)*",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2007",
+        "authors": ["Paul Bartone", "Jarle Eid", "Bjørn Helge Johnsen", "Sigurd Hystad"],
+        "abstract": ["DIF (Differential Item Functioning) analysis strategies were applied in order to create an improved Norwegian hardiness (resilience) measure. Hardiness is a personality style marked by high levels of commitment, control and challenge (Kobasa, 1979). Hardiness is associated with highly resilient, healthy responses to stress (Maddi & Kobasa, 1984). A..."]
+      },
+      {
+        "title": "Cross-cultural adaptation of the DRS-15 Dispositional Resilience Scale (psychological hardiness)*",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Aug 2007",
+        "authors": ["Paul Bartone", "Jarle Eid", "Bjørn Helge Johnsen", "Sigurd Hystad"],
+        "abstract": ["Describes Fulbright research in Norway to develop an improved version of the DRS-15 hardiness scale that is easily adaptable to different languages and cultures."]
+      },
+      {
+        "title": "International adaptation of a brief human resiliency (hardiness) scale",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Paul Bartone", "Helge Johnsen", "Jarle Eid", "Jan Sommerfeldt-Pettersen"],
+        "abstract": ["As noted in the 2006 Quadrennial Defense Review, international partnerships are increasingly important to the security and welfare of the United States and its allies. Without strong international cooperation, global terrorist threats cannot be effectively countered. Military medicine has long been in the forefront of international bridge-building..."]
+      },
+      {
+        "title": "Predictors of Self-Efficacy in a Norwegian Battalion Prior to Deployment in an International Operation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2005",
+        "authors": ["Ole Asbjorn Solberg", "Jon Christian Laberg", "Bjorn Helge Johnsen", "Jarle Eid"],
+        "abstract": ["The primary objective of this study was to explore the relevance of 4 proposed predictors of self-efficacy (Jerusalem & Schwarzer, 1986; Leganger, Kraft, & Roysamb, 2000) in a Norwegian Infantry Battalion preparing for a peacekeeping mission in Kosovo (N = 482). A hierarchical regression model was computed, and the 4 proposed predictor variables we..."]
+      },
+      {
+        "title": "Cognitive processes in planning and judgements under sleep deprivation and time pressure",
+        "tags": ["Article"],
+        "date": "Feb 2005",
+        "authors": ["Therese Kobbeltvedt", "Wibecke Brun", "Jon Christian Laberg"],
+        "abstract": ["Cadets’ planning and judgements were experimentally examined in four simulated rescue operations during military ranger training. We examined the effects of sleep deprivation (SD), affect, time pressure, and need for cognition (NFC) on cadets’ planning of a rescue operation, and their self-judgements of security, probability of success, and quality..."]
+      },
+      {
+        "title": "Bridge resource management training: Enhancing shared mental models and task performance",
+        "tags": ["Chapter"],
+        "date": "Jan 2005",
+        "authors": ["Wibecke Brun", "Bjørn Helge Johnsen", "Jon Christian Laberg", "Therese Kobbeltvedt"],
+        "abstract": []
+      },
+      {
+        "title": "Militær Identitet under internasjonale operasjoner",
+        "tags": ["Article"],
+        "date": "Jan 2005",
+        "authors": ["Jon Christian Laberg", "Jon T. Ingjaldsson", "Therese Kobbeltvedt", "J. G. Horverak"],
+        "abstract": []
+      },
+      {
+        "title": "Militær Identitet og internasjonale operasjoner",
+        "tags": ["Chapter"],
+        "date": "Jan 2005",
+        "authors": ["Jon Christian Laberg", "J. G. Horverak", "Therese Kobbeltvedt"],
+        "abstract": []
+      },
+      {
+        "title": "Forskning om rusrelaterte problemer",
+        "tags": ["Book"],
+        "date": "Jan 2005",
+        "authors": ["Jon Christian Laberg", "Therese Kobbeltvedt"],
+        "abstract": []
+      },
+      {
+        "title": "Measuring and modelling risk in a naturalistic setting",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2004",
+        "authors": ["Therese Kobbeltvedt", "Wibecke Brun", "Jon Christian Laberg"],
+        "abstract": ["Two studies were undertaken to investigate risk perception in a military context. A questionnaire elicited cadets' (n = 136) ratings of three categories of critical incidents (threats, constraints, and suffering among civilians) on nine qualitative risk dimensions adapted from the 'Psychometric risk paradigm' along with perceived personal risk, gen..."]
+      },
+      {
+        "title": "Reduced heart rate variability in chronic alcohol abuse: Relationship with negative mood, chronic thought suppression, and compulsive drinking",
+        "tags": ["Article"],
+        "date": "Jan 2004",
+        "authors": ["Jon T Ingjaldsson", "Jon Christian Laberg", "Julian F Thayer"],
+        "abstract": ["Previous research suggests that heart rate variability (HRV) may be an important factor in various maladaptive psychological conditions.\nThis study was conducted to investigate vagal tone assessed as tonic vagally mediated heart rate variability in alcoholic (n = 49) and control subjects (n = 45).\nAlcoholic subjects had faster heart rate and lower..."]
+      },
+      {
+        "title": "Craving for alcohol and pre-attentive processing of alcohol stimuli",
+        "tags": ["Article"],
+        "date": "Aug 2003",
+        "authors": ["Jon T Ingjaldsson", "Julian F Thayer", "Jon Christian Laberg"],
+        "abstract": ["The present study was designed to test the hypothesis of unconscious attending to alcohol-related information in alcoholics experiencing a high level of craving for alcohol. Subjects included a group of alcoholics (n=34) divided by a median split on a craving measure into two groups labeled as 'high craving' (n=18) and 'low craving' (n=16) alcoholi..."]
+      },
+      {
+        "title": "Preattentive processing of alcohol stimuli",
+        "tags": ["Article"],
+        "date": "May 2003",
+        "authors": ["Jon T Ingjaldsson", "Julian F Thayer", "Jon Christian Laberg"],
+        "abstract": ["An experiment was conducted to test the automatic analysis of briefly presented alcohol stimuli in alcohol-dependent individuals. Alcoholics and controls were exposed to four different conditions: two brief (30 ms) and two long (130 ms) exposure conditions, each containing alcoholic and non-alcoholic pictures. Heart rate (HR) interbeat intervals we..."]
+      },
+      {
+        "title": "Attentional and physiological characteristics of patients with dental anxiety",
+        "tags": ["Article"],
+        "date": "Feb 2003",
+        "authors": ["Bjørn Helge Johnsen", "Julian F Thayer", "Jon Christian Laberg", "Einar Berg"],
+        "abstract": ["Twenty patients with dental anxiety were investigated while seated in a dental chair in a dental clinic. Heart rate (HR), heart rate variability (HRV), and skin conductance level (SCL) were recorded while the patients were exposed to scenes of dental treatment as well as a Stroop attentional task. Results showed an attentional bias with longer manu..."]
+      },
+      {
+        "title": "Dichotic listening and sleep deprivation: Vigilance effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2003",
+        "authors": ["Bjørn Helge Johnsen", "Jon Christian Laberg", "Jarle Eid", "Kenneth Hugdahl"],
+        "abstract": ["Twelve sleep-deprived and 13 non-deprived Navy cadets were tested with the dichotic listening procedure for effects of sleep deprivation on hemispheric asymmetry and sustained attention. Consonant-vowel syllables were presented to the subjects in three different conditions, a divided (non-forced) attention condition, a forced right ear and a forced..."]
+      },
+      {
+        "title": "Grunnleggende prosesser i situasjonsbevissthet: Norsk militær forskning",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Anita Lill Hansen", "Bjørn Helge Johnsen", "Jarle Eid", "Jon Christian Laberg"],
+        "abstract": []
+      },
+      {
+        "title": "Betydningen av felles mentale modeller for beslutningstaking i operative team",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2003",
+        "authors": ["Wibecke Brun", "Belinda Ekkornås", "Therese Kobbeltvedt", "Bjørn Helge Johnsen"],
+        "abstract": []
+      },
+      {
+        "title": "The effect of sensitization and coping style on post-traumatic stress symptoms and quality of life: Two longitudinal studies",
+        "tags": ["Article"],
+        "date": "May 2002",
+        "authors": ["Bjørn Helge Johnsen", "Jarle Eid", "Jon Christian Laberg", "Julian F Thayer"],
+        "abstract": ["The present study investigated the effects of multiple trauma exposure and coping style on post-traumatic stress symptoms and quality of life. It was hypothesized that sensitization would occur in subjects repeatedly exposed to life-threatening situations (study 1), and different coping styles would act as a resilience or facilitating factor in sym..."]
+      },
+      {
+        "title": "Factors Influencing Small-Unit Cohesion in Norwegian Navy Officer Cadets",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2002",
+        "authors": ["Paul Bartone", "Bjørn Helge Johnsen", "Jarle Eid", "Jon Christian Laberg"],
+        "abstract": ["Although cohesion is frequently believed to improve performance in military units, few studies have sought to determine what factors contribute to its formation. In this study, a quasi-experimental design was used to evaluate the effects of several factors on small-unit cohesion in 162 Norwegian Navy officer cadets (aged 20-31 yrs). Cohesion levels..."]
+      },
+      {
+        "title": "Risiko og sikkerhet under internasjonale operasjoner",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Therese Kobbeltvedt", "Wibecke Brun", "Bjørn Helge Johnsen", "Jon Christian Laberg"],
+        "abstract": []
+      },
+      {
+        "title": "Methodological issues attached to the alcohol Stroop paradigm: comments on a paper by Sharma, Albery & Cook (2001)",
+        "tags": ["Article"],
+        "date": "Oct 2001",
+        "authors": ["W. Miles Cox", "Emmanuel Pothos", "Bjørn Helge Johnsen", "Jon Christian Laberg"],
+        "abstract": []
+      },
+      {
+        "title": "A comparison of three questionnaires (EAT-12, EDI, and EDE-Q) for assessment of eating problems in healthy female adolescents",
+        "tags": ["Article"],
+        "date": "Feb 2001",
+        "authors": ["Birthe K. Engelsen", "Jon Christian Laberg"],
+        "abstract": ["On the basis of the restraint theory and the continuum hypothesis of eating disorders, the objective of this paper was twofold. First, subjects who, on the basis of items from the Eating Disorder Examination Questionnaire (EDE-Q) which are generated from DSM-III-R diagnostic criteria, fulfilled the diagnostic criteria for anorexia nervosa (AN) and..."]
+      },
+      {
+        "title": "Risikopersepsjon, belastning og helse blant befal og mannskaper i et geværkompani i Norbn II/KFOR.",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["Jon Christian Laberg", "W. Brun", "Jarle Eid", "Therese Kobbeltvedt"],
+        "abstract": []
+      },
+      {
+        "title": "Shared mental models and task performance: Studying the effect of crew and bridge resource management training program.",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["Wibecke Brun", "Jarle Eid", "Bjørn Helge Johnsen", "Therese Kobbeltvedt"],
+        "abstract": []
+      },
+      {
+        "title": "Alcoholics' selective attention to alcohol stimuli: Automated processing?",
+        "tags": ["Article"],
+        "date": "Feb 2000",
+        "authors": ["Kjell Morten Stormark", "Jon Christian Laberg", "Helge Nordby Ph.D", "Kenneth Hugdahl"],
+        "abstract": ["This study investigated alcoholics' selective attention to alcohol words in a version of the Stroop color-naming task.\nAlcoholic subjects (n = 23) and nonalcoholic control subjects (n = 23) identified the color of Stroop versions of alcohol, emotional, neutral and color words. Manual reaction times (RTs), skin conductance responses (SCRs) and heart..."]
+      },
+      {
+        "title": "Coping with Interrogations",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2000",
+        "authors": ["Jon Christian Laberg", "Jarle Eid", "Bjørn Helge Johnsen", "Kenneth K. Zachariassen"],
+        "abstract": ["Sun Tzu (circa 490 BC/1988), among others, has emphasized the importance of obtaining information about the enemy from those who know the enemy best. Throughout the history of warfare, the capturing and interrogation of enemy soldiers has thus provided a vital source of information (Keegan, 1993). A prisoner of war (POW) can potentially provide inv..."]
+      },
+      {
+        "title": "Alcohol outcome expectancies in adolescence",
+        "tags": ["Article"],
+        "date": "Nov 1998",
+        "authors": ["Britt Unni Wilhelmsen", "Jon Christian Laberg", "Hahas Hasbullah Aas"],
+        "abstract": ["Objective This paper reports a cross-sectional study examining the influence of alcohol outcome expectancies and alcohol use on intention to abstain from drinking in a group of adolescents. Method Data were collected from seventh graders (n = 955) in Bergen, Norway. A self-administered questionnaire comprised questions on frequency of alcohol use,..."]
+      },
+      {
+        "title": "Coping Strategies and Mental Health Problems in a Military Unit",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 1998",
+        "authors": ["Bjørn Helge Johnsen", "Jon Christian Laberg", "Jarle Eid"],
+        "abstract": ["The aim of the present study was to investigate the effect of different coping styles on the development of self-reported mental health problems in a radically changing context. This was investigated, using a longitudinal design, by following soldiers from before entering service to 8 months of service. Based on their scores on the 30-item General..."]
+      },
+      {
+        "title": "Heart rate responses indicate locked-in attention in alcoholics immediately prior to drinking",
+        "tags": ["Article"],
+        "date": "Mar 1998",
+        "authors": ["Kjell Morten Stormark", "Jon Christian Laberg", "Helge Nordby Ph.D", "Kenneth Hugdahl"],
+        "abstract": ["Twenty alcohol-dependent subjects and 10 social drinkers were tested in two experimental conditions: (a) when they were informed that their drinks contained alcohol and (b) when they were informed that their drinks were soft drinks. When told \"alcohol,\" alcoholics evidenced a heart rate (HR) acceleration, whereas control subjects were unaffected by..."]
+      },
+      {
+        "title": "Attentional bias in active smokers, abstinent smokers, and nonsmokers",
+        "tags": ["Article"],
+        "date": "Nov 1997",
+        "authors": ["Bjorn Helge Johnsen", "Julian F Thayer", "Jon Christian Laberg", "Arve Asbjørnsen"],
+        "abstract": ["Attentional bias was studied with a modified version of the Stroop test in active smokers, abstinent smokers, and nonsmokers. The task was color-naming of incongruent color-words, smoking-related words, and neutral words. The results showed that the active smokers used longer verbal reaction time (VRT) to smoking-related words compared to abstinent..."]
+      },
+      {
+        "title": "Autonomic cued reactivity in alcoholics: The effect of olfactory stimuli",
+        "tags": ["Article"],
+        "date": "Sep 1995",
+        "authors": ["Kjell Morten Stormark", "Jon Christian Laberg", "Tormod Bjerland", "Kenneth Hugdahl"],
+        "abstract": ["The present study was designed to investigate autonomic cued reactivity to olfactory alcohol stimuli in alcoholics. Twenty outpatient alcoholics and 20 social drinkers were exposed to high- and low-potency alcohol and neutral odors. The alcoholics showed greater skin conductance responses and increased heart rate acceleration responses to the high-..."]
+      },
+      {
+        "title": "Predicting Adolescents' Intentions to Drink Alcohol: Outcome Expectancies and Self-Efficacy",
+        "tags": ["Article"],
+        "date": "Jun 1995",
+        "authors": ["Henrik Aas", "Knut-Inge Klepp", "Jon Christian Laberg", "Leif Edvard Aarø"],
+        "abstract": ["This article examines the relationship between intention to drink alcohol, alcohol outcome expectancies and alcohol-related self-efficacy among Norwegian adolescents. The relationship of expectancies, intention and self-efficacy was assessed for respondents of different ages and different drinking experience.\nData were collected from all seventh an..."]
+      },
+      {
+        "title": "Health behaviours among adolescents: Towards a hypothesis of two dimensions",
+        "tags": ["Article"],
+        "date": "Mar 1995",
+        "authors": ["Leif Edvard Aarø", "Jon Christian Laberg", "Bente Wold"],
+        "abstract": ["Most previous studies addressing the issue of inter-relationships between health behaviours have shown that such behaviours\nare inter-correlated. No consensus has yet emerged, however, regarding the number and nature of underlying dimensions. If\nhealth behaviours can be shown to reflect a small number of underlying dimensions, it would indicate tha..."]
+      },
+      {
+        "title": "Evaluation of two Student and Teacher involved Alcohol Prevention Programmes",
+        "tags": ["Article"],
+        "date": "Oct 1994",
+        "authors": ["Britt Unni Wilhelmsen", "Jon Christian Laberg", "Knut-Inge Klepp"],
+        "abstract": ["Two versions of a school-based alcohol prevention programme for 7th grade students were evaluated against a non-treated comparison condition. Both programme versions were based on a social-cognitive theory approach to alcohol prevention, and differed in the level of role-specifications for participating teachers and peer leaders. Twelve schools wit..."]
+      },
+      {
+        "title": "Alcoholics' attentional bias in the processing of alcohol-related words",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 1994",
+        "authors": ["Bjørn Helge Johnsen", "Jon Christian Laberg", "W. Miles Cox", "Kenneth Hugdahl"],
+        "abstract": ["Studied attentional bias for alcohol-related (AR) words in 13 alcoholic men and 17 matched control Ss with a modified version of the Stroop Color and Word Test that included color-interfering, AR, and neutral words. Results indicate that (1) alcoholic Ss responded more slowly to all word categories than control Ss, (2) both alcoholic and control Ss..."]
+      },
+      {
+        "title": "Electromyographic activation and proportion of fast versus slow twitch muscle fibers: A genetic disposition for psychogenic muscle tension?",
+        "tags": ["Article"],
+        "date": "Aug 1993",
+        "authors": ["Sven Svebak", "Eli T. Braathen", "Ole M. Sejersted", "Jon Christian Laberg"],
+        "abstract": ["17 right-handed males volunteered for an experiment that compared task-related patterns of electromyographic (EMG) activation with data from muscle biopsy on proportion of slow-twitch ((ST) aerobic) to fast-twitch ((FT) anaerobic) muscle fibers. The biopsy was taken from the right-leg gastrocnemius muscle after EMG measurement from that area of the..."]
+      },
+      {
+        "title": "Habituation of electrodermal reactivity to visual alcohol stimuli in alcoholics",
+        "tags": ["Article"],
+        "date": "Jul 1993",
+        "authors": ["Kjell Morten Stormark", "Jon Christian Laberg", "Tormod Bjerland", "Kenneth Hugdahl"],
+        "abstract": ["This study address the question of cued reactivity in alcoholics. Twenty alcoholic in-patients and 20 control subjects were presented with repeated exposures to a alcohol-related (A) and a neutral (B) slide, in either an ABA or BAB sequence. Skin Conductance Level (SCL) and Skin Conductance Responses (SCR) were recorded. Alcohol-dependent subjects..."]
+      },
+      {
+        "title": "Competing perspectives on drug use: The Dutch experience.",
+        "tags": ["Article"],
+        "date": "Mar 1993",
+        "authors": ["Jon Christian Laberg"],
+        "abstract": ["Review of book: Competing Perspectives on Drug Use: The Dutch Experience by Govert Frank van de Wijngaart, Amsterdam/Lisse: Swets & Zetlinger B.V., 1991, 142 pp. Reviewed by Jon C. Laberg. (PsycINFO Database Record (c) 2012 APA, all rights reserved)"]
+      },
+      {
+        "title": "Effects of Visual Alcohol Cues on Alcoholics' Autonomic Arousal",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 1992",
+        "authors": ["Jon Christian Laberg", "Kenneth Hugdahl", "Kjell Morten Stormark", "Henrik Aas"],
+        "abstract": ["Determined whether visual alcohol cues alone (slides showing drinking environments and alcohol beverage bottles) were sufficient to elicit autonomic arousal. 82 male alcoholics (aged 25–64 yrs) were shown alcohol-related or control slides while electrodermal responses were being recorded. Each slide was presented for 4 sec and interstimulus interva..."]
+      },
+      {
+        "title": "Effects of mood on heart rate reactivity in bulimia nervosa",
+        "tags": ["Article"],
+        "date": "Mar 1991",
+        "authors": ["Jon Christian Laberg", "G. Terence Wilson Ph.D", "Kathleen Eldredge M.S", "Helge Nordby Ph.D"],
+        "abstract": ["Subjects were shown a series of slides before and after a negative mood-induction procedure while their heart rate was recorded. Self-reports of mood, craving, and self-efficacy were obtained before and after each series of picture presentations. Significant effects on mood confirmed the effectiveness of the mood-induction procedure in both groups...."]
+      },
+      {
+        "title": "Anorexia Nervosa and Bulimia Nervosa",
+        "tags": ["Article"],
+        "date": "Nov 1990",
+        "authors": ["Inge Jarl Støylen", "Jon Christian Laberg"],
+        "abstract": ["Støylen IJ, Laberg JC. Anorexia Nervosa and Bulimia Nervosa. Perspectives on etiology and cognitive behavior therapy. Acta Psychiatr Scand Suppl. 361, Vol. 82. 1990: 52–58.\nThis article gives a brief historical introduction to the field of eating disorders. Anorexia Nervosa (AN) and Bulimia Nervosa (BN) are seen from a sociocultural point of view,..."]
+      },
+      {
+        "title": "Anorexia nervosa and bulimia nervosa. Perspectives on etiology and cognitive behavior therapy",
+        "tags": ["Article"],
+        "date": "Feb 1990",
+        "authors": ["I J Støylen", "Jon Christian Laberg"],
+        "abstract": ["This article gives a brief historical introduction to the field of eating disorders. Anorexia Nervosa (AN) and Bulimia Nervosa (BN) are seen from a sociocultural point of view, and the current emphasis on slimness is regarded as an important factor in the etiology of eating disorders. A short description of the central features of BN is given, and..."]
+      },
+      {
+        "title": "What is presented, and what prevented, in cue exposure and response prevention with alcohol dependent subjects?",
+        "tags": ["Article"],
+        "date": "Feb 1990",
+        "authors": ["Jon Christian Laberg"],
+        "abstract": ["The following questions, pertaining to cue reactivity in alcoholics, are discussed: (a) What cues are relevant to alcoholics' drinking? Previous research has been concerned with the obvious: bottles, glasses, pub/bar environments, and other visual cues. Presumably more potent cues, that is, smell, taste and internal effects, subtle stimuli like soc..."]
+      },
+      {
+        "title": "Expectancy and tolerance: A study of acute alcohol intoxication using the balanced placebo design",
+        "tags": ["Article"],
+        "date": "Oct 1989",
+        "authors": ["Jon Christian Laberg", "T Löberg"],
+        "abstract": ["Interactive effects of expectancy and alcohol dose on CNS functioning were examined in subjects differing in degree of dependence on alcohol, using the balanced placebo design. Male subjects (N = 30), 10 severely-, 10 moderately- and 10 nondependent on alcohol, were tested with the Klove-Matthews Motor Steadiness Battery before and after drinking...."]
+      },
+      {
+        "title": "Reports from research centres--20. Alcohol research at the Hjellestad Clinic",
+        "tags": ["Article"],
+        "date": "Oct 1989",
+        "authors": ["Jon Christian Laberg", "S Fauske", "T Løberg"],
+        "abstract": ["Treatment and research efforts at the Hjellestad Clinic are based on a biobehavioural model of the addictions. The treatment program encompasses life-style changes and relapse prevention, and extensive assessment for the purpose of the treatment choices. The clinic is treating nearly 1500 patients a year. Psychological and medical research projects..."]
+      },
+      {
+        "title": "Alcohol Research at the Hjellestad Clinic",
+        "tags": ["Article"],
+        "date": "Sep 1989",
+        "authors": ["Jon Christian Laberg", "SVERRE FAUSKE", "TOR LØBERG"],
+        "abstract": ["Treatment and research efforts at the Hjellestad Clinic are based on a biobehavioural model of the addictions. The treatment program encompasses life-style changes and relapse prevention, and extensive assessment for the purpose of the treatment choices. The clinic is treating nearly 1500 patients a year. Psychological and medical research projects..."]
+      },
+      {
+        "title": "Do drinking experiments have a negative effect on alcholics' recovery?",
+        "tags": ["Article"],
+        "date": "Jan 1989",
+        "authors": ["T Løberg", "Jon Christian Laberg", "S Andresen", "G Larsen"],
+        "abstract": ["A representative sample of 14 male alcoholics who participated in an experimental drinking study were interviewed 1 year after discharge. Four subjects were abstinent, six were significantly improved and four were unimproved. At follow-up, average amount consumed was significantly reduced from 96.5 to 44.8 Standard Units (SU)/week; consumption had..."]
+      },
+      {
+        "title": "Do Drinking Experiments have a Negative Effect on Alcoholics’ Recovery?",
+        "tags": ["Article"],
+        "date": "Dec 1988",
+        "authors": ["TOR LØSBERG", "Jon Christian Laberg", "SVERRE ANDRESEN", "GUNNAR LARSEN"],
+        "abstract": ["SummaryA representative sample of 14 male alcoholics who participated in an experimental drinking study were interviewed 1 year after discharge. Four subjects were abstinent, six were significantly improved and four were unimproved. At follow-up, average amount consumed was significantly reduced from 96.5 to 44.8 Standard Units (SU)/week; consumpti..."]
+      },
+      {
+        "title": "Laberg JC, Ellertsen B. Psychophysiological indicators of craving in alcoholics: effects of cue exposure. Br J Addict 82: 1341-1348",
+        "tags": ["Article"],
+        "date": "Dec 1987",
+        "authors": ["Jon Christian Laberg", "BJØRN ELLERTSEN"],
+        "abstract": ["Autonomic arousal, as indicated by Skin Conductance, and heart rate parameters, was evaluated in 16 detoxified male alcoholics before and after intake of a standard priming dose of alcohol/soft drink. After priming, patients were given cue exposure, i.e. presentations of preferred beverage bottles containing original content or non-alcohol fluid of..."]
+      },
+      {
+        "title": "Alcohol and expectancy: Subjective, psychophysiological and behavioral responses to alcohol stimuli in severely, moderately and non-dependent drinkers",
+        "tags": ["Article"],
+        "date": "Jan 1987",
+        "authors": ["Jon Christian Laberg"],
+        "abstract": ["Thirty male subjects, 10 severely and 10 moderately alcohol dependent, along with 10 non-dependent controls, were studied in four experimental drinking conditions. Each subject participated in each condition. All subjects received a priming dose of 2 ml 40% vodka/kg or placebo, and a drinking test of 1 ml 40% vodka/kg 45 minutes later. Subjects wer..."]
+      },
+      {
+        "title": "Skin conductance responses in alcoholics: Effects of cue exposure conditions",
+        "tags": ["Article"],
+        "date": "Aug 1986",
+        "authors": ["Jon Christian Laberg"],
+        "abstract": []
+      },
+      {
+        "title": "Instructed versus pharmacological effects of alcohol in alcoholics and social drinkers",
+        "tags": ["Article"],
+        "date": "Feb 1981",
+        "authors": ["Geir Berg", "Jon Christian Laberg", "Arvid Skutle", "Arne Öman"],
+        "abstract": ["Twelve alcoholics and 12 social drinkers were studied in an experiment where instructions about alcohol or placebo were orthogonally crossed with administration of alcohol or placebo in a Balanced Placebo Design. Three subjects were simultaneously observed while watching soccer games on the TV together and having free access to a mixed drink, which..."]
+      },
+      {
+        "title": "En eksperimentell undersøkelse av tenning og kontrolltap hos alkoholavhengige",
+        "tags": ["Article"],
+        "date": "Nov 1977",
+        "authors": ["Geir Berg", "Jon Christian Laberg", "Arvid Skutle"],
+        "abstract": ["Tre mannlige pasienter med diagnosen alkomani deltok i en undersøkelse hvor stoff (alkohol/plaeebo) og instruksjon (\"får alkohol\"/\"får alkoholfritt\") var de uavhengige variabler. Forsøspersonene hadde/ved hver av alkoholsesjonene tilgang til maksimum 12 cl (40 %) vodka utblandet i 84 cl mineralvann til en styrke på 6.7 % alkohol. Resultatene viste..."]
+      },
+      {
+        "title": "Expectancy and Classical Conditioning in Alcoholics Craving",
+        "tags": ["Article"],
+        "authors": ["Jon Christian Laberg"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [94],
+    "reads": [38984],
+    "citations": [3394]
   }
 }

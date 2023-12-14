@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Gia Đình Hr",
-    "id": "nuI1MZcAAAAJ",
-    "affiliation": "… #giadinhhr #hr #tuyendung Địa chỉ: Khu E6 Đô thị mới Cầu Giấy, Phạm Hùng, Mễ Trì, Nam …",
+    "name": ["Gia Đình Hr"],
+    "id": ["nuI1MZcAAAAJ"],
+    "affiliation": ["… #giadinhhr #hr #tuyendung Địa chỉ: Khu E6 Đô thị mới Cầu Giấy, Phạm Hùng, Mễ Trì, Nam …"],
     "data": {
       "publications": [
         {
@@ -52,8 +52,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-8209-3543",
-    "name": "Dinh Hung Vu",
+    "orcid": ["0000-0001-8209-3543"],
+    "name": ["Dinh Hung Vu"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -64,11 +64,20 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Dinh Hung Vu",
-    "id": "1408368",
+    "name": ["Dinh Hung Vu"],
+    "id": ["1408368"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Dinh-Hung",
+    "name": "Đinh Hung",
+    "img": "https://i1.rgstatic.net/ii/profile.image/606634955001862-1521644452481_Q128/Dinh-Hung.jpg",
+    "affiliation": "University of Science and Technology of Ha Noi",
+    "keywords": ["Electrical & Electronics Engineering", "Control Theory"],
+    "works": [],
+    "degree": ["Bachelor", "of", "Engineering"]
   }
 }

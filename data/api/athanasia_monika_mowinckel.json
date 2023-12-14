@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Athanasia Monika Mowinckel",
-    "id": "7NkxgWQAAAAJ",
-    "affiliation": "Staff scientist at Center for Lifespan Changes in Brain and Cognition, University of Oslo",
+    "name": ["Athanasia Monika Mowinckel"],
+    "id": ["7NkxgWQAAAAJ"],
+    "affiliation": ["Staff scientist at Center for Lifespan Changes in Brain and Cognition, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -848,8 +848,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-5756-0223",
-    "name": "Athanasia Monika Mowinckel",
+    "orcid": ["0000-0002-5756-0223"],
+    "name": ["Athanasia Monika Mowinckel"],
     "distinctions": [
       {
         "start": "2019",
@@ -867,17 +867,17 @@
       },
       {
         "start": "2016",
-        "end": "2017",
         "position": "Researcher / Project Manager",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2017"
       },
       {
         "start": "2011",
-        "end": "2012",
         "position": "Research assistant and lab-technician",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2012"
       }
     ],
     "employment": [
@@ -889,17 +889,17 @@
       },
       {
         "start": "2016",
-        "end": "2017",
         "position": "Researcher / Project Manager",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2017"
       },
       {
         "start": "2011",
-        "end": "2012",
         "position": "Research assistant and lab-technician",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2012"
       }
     ],
     "membership": [
@@ -951,15 +951,15 @@
         "type": "journal-article",
         "year": "2022",
         "title": "Relationship between cerebrospinal fluid neurodegeneration biomarkers and temporal brain atrophy in cognitively healthy older adults",
-        "journal": "Neurobiology of Aging",
-        "url": "https://doi.org/10.1016/j.neurobiolaging.2022.04.010"
+        "url": "https://doi.org/10.1016/j.neurobiolaging.2022.04.010",
+        "journal": "Neurobiology of Aging"
       },
       {
         "type": "journal-article",
         "year": "2020",
         "title": "Visualization of Brain Statistics With R Packages ggseg and ggseg3d",
-        "journal": "Advances in Methods and Practices in Psychological Science",
-        "url": "https://doi.org/10.1177/2515245920928009"
+        "url": "https://doi.org/10.1177/2515245920928009",
+        "journal": "Advances in Methods and Practices in Psychological Science"
       },
       {
         "type": "other",
@@ -1042,11 +1042,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Athanasia Monika Mowinckel",
-    "id": "420242",
+    "name": ["Athanasia Monika Mowinckel"],
+    "id": ["420242"],
     "keywords": ["ADHD", "FMRI", "Decision making"],
     "position": ["Researcher"],
-    "img": "https://api.cristin.no/v2/persons/420242/picture",
+    "img": ["https://api.cristin.no/v2/persons/420242/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1353,5 +1353,494 @@
         "url": "https://api.cristin.no/v2/results/937601"
       }
     ]
+  },
+  "rg": {
+    "id": "Athanasia-Mowinckel",
+    "name": "Athanasia Monika Mowinckel",
+    "img": "https://i1.rgstatic.net/ii/profile.image/572974869565440-1513619262846_Q128/Athanasia-Mowinckel.jpg",
+    "affiliation": "University of Oslo, Department of Psychology Center of Lifespan Changes in Brain and Cognition",
+    "keywords": ["Psychopharmacology", "Cognitive Neuroscience", "Cognitive Neuropsychology", "Neuroimaging", "Magnetic Resonance", "Learning", "Data Analysis", "Quantitative Analysis", "R Statistical Package", "Executive Function"],
+    "works": [
+      {
+        "title": "Network-specific effects of age and in-scanner subject motion: A resting-state fMRI study of 238 healthy adults",
+        "tags": ["Article"],
+        "date": "Aug 2012",
+        "authors": ["Athanasia Monika Mowinckel", "Thomas Espeseth", "Lars T Westlye"],
+        "abstract": ["Cognitive aging is accompanied by a range of structural and functional differences in the brain, even in the absence of neurodegenerative disease. Functional magnetic resonance imaging (fMRI) studies have reported increased bilateral activation during task performance in elderly participants compared to their younger counterparts, particularly in f..."]
+      },
+      {
+        "title": "A Meta-Analysis of Decision-Making and Attention in Adults With ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Espen Moen Eilertsen", "Guido Biele"],
+        "abstract": ["Deficient reward processing has gained attention as an important aspect of ADHD, but little is known about reward-based decision-making (DM) in adults with ADHD. This article summarizes research on DM in adult ADHD and contextualizes DM deficits by comparing them to attention deficits.\nMeta-analytic methods were used to calculate average effect siz..."]
+      },
+      {
+        "title": "The Influence of Methylphenidate on Brain Processes During Decision-Making in Adults with ADHD",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Sigurd Ziegler", "Guido Biele"],
+        "abstract": ["Background: ADHD is associated with diminished dopamine function, and treatment with methylphenidate (MPH) is thought to alleviate this dysfunction. On a functional level, dopamine is consistently implicated in decision-making (DM) mechanisms, including reinforcement learning and choice. Given dopamine’s role in both ADHD and DM, DM deficits in ADH..."]
+      },
+      {
+        "title": "The Influence of Methylphenidate Medication on Reversal Learning in Adults with ADHD",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Athanasia Monika Mowinckel", "Mats Fredriksen", "Guido Biele"],
+        "abstract": ["Neurobiological theories of ADHD assume that a deficient dopaminergic system is a key cause of ADHD symptoms. Impaired reinforcement learning (RL) is one such symptom and is associated with dopaminergic signalling of prediction errors. Methylphenidate treatment alleviates ADHD symptoms by manipulating the dopaminergic system, and should thus also i..."]
+      },
+      {
+        "title": "Meta-analysis of deficiencies in three domains of decision-making in adult ADHD",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Athanasia Monika Mowinckel", "Sigurd Ziegler", "Espen Moen Eilertsen", "Guido Biele"],
+        "abstract": ["Objectives: Impaired decision-making (DM) has received modest attention in adult ADHD. Tests of DM could prove useful in diagnostics and advance the understanding of pathogenesis. To provide an overview of current DM research in adult ADHD, we conducted a meta-analysis for three DM domains (delayed reward (DR), risky DM and reinforcement learning (..."]
+      },
+      {
+        "title": "Accelerated brain change in healthy adults is associated with genetic risk for Alzheimer's disease and uncovers adult lifespan memory decline",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["James Michael Roe", "Didac Vidal-Piñeiro", "Øystein Sørensen", "Yunpeng Wang"],
+        "abstract": ["Across healthy adult life our brains undergo gradual structural change in a pattern of atrophy that resembles accelerated brain changes in Alzheimer's disease (AD). Here, using four polygenic risk scores for AD (PRS-AD) in a longitudinal adult lifespan sample aged 30 to 89 years (2-7 timepoints), we show that healthy individuals who lose brain volu..."]
+      },
+      {
+        "title": "CSF neurodegeneration biomarkers predict MTL atrophy over time in cognitively healthy older adults",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Didac Vidal-Piñeiro", "Elettra Capogna", "Kaj Blennow", "Anders M Fjell"],
+        "abstract": ["Background\nStructural decline in the medial temporal lobe is an unspecific biomarker of neurodegeneration, assessed in normal older adults (OA) and Alzheimer’s Disease (AD). We investigated, in OA, whether CSF biomarkers of neurodegeneration (t‐tau, NFL, Ng, FABP3) predict longitudinal brain atrophy, whether this association is moderated by core AD..."]
+      },
+      {
+        "title": "Back to the future: omnipresence of fetal influence on the human brain through the lifespan",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": ["Human fetal development has been associated with brain health at later stages. It is unknown whether growth in utero, as indexed by birth weight (BW), relates consistently to lifespan brain characteristics and changes, and to what extent these influences are of a genetic or environmental nature. Here we show remarkably stable and life-long positive..."]
+      },
+      {
+        "title": "Back to the future: omnipresence of fetal influence on the human brain through the lifespan",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": ["Human fetal development has been associated with brain health at later stages. It is unknown whether growth in utero, as indexed by birth weight (BW), relates consistently to lifespan brain characteristics and changes, and to what extent these influences are of a genetic or environmental nature. Here we show remarkably stable and life-long positive..."]
+      },
+      {
+        "title": "Prenatal development has stable and consistent effects on the human brain throughout the lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Kristine Beate Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": ["Human fetal development has been associated with brain health at later stages. It is unknown whether and how consistently growth in utero, as indexed by birth weight (BW), relates to lifespan brain characteristics and changes, and to what extent these influences are of a genetic and/or environmental nature. We hypothesized that associations of BW a..."]
+      },
+      {
+        "title": "People's interest in brain health testing: Findings from an international, online cross-sectional survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Rebecca Bruu Carver", "Nanna Fredheim", "Athanasia Monika Mowinckel", "Isabelle Budin-Ljøsne"],
+        "abstract": ["Brain health entails mental wellbeing and cognitive health in the absence of brain disorders. The past decade has seen an explosion of tests, cognitive and biological, to predict various brain conditions, such as Alzheimer's Disease. In line with these current developments, we investigated people's willingness and reasons to—or not to—take a hypoth..."]
+      },
+      {
+        "title": "Hippocampal-cortical functional connectivity during memory encoding and retrieval",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Liisa Raud", "Markus Handal Sneve", "Didac Vidal-Piñeiro", "Anders M. Fjell"],
+        "abstract": ["Memory encoding and retrieval are critical sub-processes of episodic memory. While the hippocampus is involved in both, its connectivity with the neocortex during memory processing in humans has been elusive. This is partially due to variations in demands in common memory tasks, which inevitably recruit cognitive processes other than episodic memor..."]
+      },
+      {
+        "title": "Associations of depression and regional brain structure across the adult lifespan: Pooled analyses of six population-based and two clinical cohort studies in the European Lifebrain consortium",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Julia Binnewies", "Laura Nawijn", "Andreas M Brandmaier", "Brenda W.J.H. Penninx"],
+        "abstract": ["Objective\nMajor depressive disorder has been associated with lower prefrontal thickness and hippocampal volume, but it is unknown whether this association also holds for depressive symptoms in the general population. We investigated associations of depressive symptoms and depression status with brain structures across population-based and patient-c..."]
+      },
+      {
+        "title": "Brain aging differs with cognitive ability regardless of education",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Kristine Walhovd", "Lars Nyberg", "Ulman Lindenberger", "Anders M. Fjell"],
+        "abstract": ["Higher general cognitive ability (GCA) is associated with lower risk of neurodegenerative disorders, but neural mechanisms are unknown. GCA could be associated with more cortical tissue, from young age, i.e. brain reserve, or less cortical atrophy in adulthood, i.e. brain maintenance. Controlling for education, we investigated the relative associat..."]
+      },
+      {
+        "title": "Cognitive and hippocampal changes weeks and years after memory training",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Anne Cecilie Sjøli Bråthen", "Øystein Sørensen", "Ann-Marie G de Lange", "Kristine Walhovd"],
+        "abstract": ["While immediate effects of memory-training are widely reported in young and older adults, less is known regarding training-dependent hippocampal plasticity across multiple intervention phases, and long-term maintenance of such. Here, 157 healthy young and older adults underwent a training-intervention including two 10 weeks periods of episodic-memo..."]
+      },
+      {
+        "title": "Correction: Individual variations in ‘Brain Age’ relate to early-life factors more than to longitudinal brain change",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Didac Vidal-Piñeiro", "Yunpeng Wang", "Stine K Krogsrud", "Anders Fjell"],
+        "abstract": []
+      },
+      {
+        "title": "Public perceptions of brain health: an international, online cross-sectional survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Isabelle Budin-Ljøsne", "Athanasia Monika Mowinckel", "Barbara Bodorkos Friedman", "Maria Teresa Ferretti"],
+        "abstract": ["Objectives\nTo investigate public perspectives on brain health.\n\nDesign\nCross-sectional multilanguage online survey.\n\nSetting\nLifebrain posted the survey on its website and social media and shared it with stakeholders. The survey was open from 4 June 2019 to 31 August 2020.\n\nParticipants\nn=27 590 aged ≥18 years from 81 countries in five continents c..."]
+      },
+      {
+        "title": "Relationship between cerebrospinal fluid neurodegeneration biomarkers and temporal brain atrophy in cognitively healthy older adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Didac Vidal-Piñeiro", "Øystein Sørensen", "Kaj Blennow", "Anders Martin Fjell"],
+        "abstract": ["It is unclear whether cerebrospinal fluid (CSF) biomarkers of neurodegeneration predict brain atrophy in cognitively healthy older adults, whether these associations can be explained by phosphorylated tau181 (p-tau) and the 42 amino acid form of amyloid-ꞵ (Aꞵ42) biomarkers, and which neural substrates may drive these associations. We addressed thes..."]
+      },
+      {
+        "title": "Sleep duration and brain structure – phenotypic associations and genotypic covariance",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Anders Fjell", "Øystein Sørensen", "Yunpeng Wang", "Kristine Walhovd"],
+        "abstract": ["The question of how much sleep is best for the brain attracts scientific and public interest, and there is concern that insuficient sleep leads to poorer brain health. However, it is unknown how much sleep is sufficient and how much is too much. We analyzed 51,295 brain magnetic resonnance images from 47,039 participants, and calculated the self-re..."]
+      },
+      {
+        "title": "No Association Between Loneliness, Episodic Memory and Hippocampal Volume Change in Young and Healthy Older Adults: A Longitudinal European Multicenter Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Cristina Solé Padullés", "Dídac Macià", "Micael Andersson", "David Bartrés-Faz"],
+        "abstract": ["Background\nLoneliness is most prevalent during adolescence and late life and has been associated with mental health disorders as well as with cognitive decline during aging. Associations between longitudinal measures of loneliness and verbal episodic memory and brain structure should thus be investigated.\n\nMethods\nWe sought to determine association..."]
+      },
+      {
+        "title": "Sleep duration and brain structure – phenotypic associations and genotypic covariance",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Anders M. Fjell", "Øystein Sørensen", "Yunpeng Wang", "Kristine Beate Walhovd"],
+        "abstract": ["The question of how much sleep is best for the brain attracts scientific and public interest, and there is concern that insuficient sleep leads to poorer brain health. However, it is unknown how much sleep is sufficient and how much is too much. We analyzed 51,295 brain magnetic resonnance images from 47,039 participants, and calculated the self-re..."]
+      },
+      {
+        "title": "Brain aging differs with cognitive ability regardless of education",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Kristine Beate Walhovd", "Lars Nyberg", "Ulman Lindenberger", "Anders M. Fjell"],
+        "abstract": ["Higher general cognitive ability (GCA) is associated with lower risk of neurodegenerative disorders, but neural mechanisms are unknown. GCA could be associated with more cortical tissue, from young age, i.e. brain reserve, or less cortical atrophy in adulthood, i.e. brain maintenance. Controlling for education, we investigated the relative associat..."]
+      },
+      {
+        "title": "Author Correction: Asymmetric thinning of the cerebral cortex across the adult lifespan is accelerated in Alzheimer’s disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["James Michael Roe", "Didac Vidal-Piñeiro", "Øystein Sørensen", "Michael Vacher"],
+        "abstract": []
+      },
+      {
+        "title": "Decision‐tree–testing cognition‐MRI associations to define and differentiate cognitive reserve and brain maintenance",
+        "tags": ["Article"],
+        "date": "Dec 2021",
+        "authors": ["Lidia Vaqué-Alcázar", "María Cabello-Toscano", "Tetiana Gorbach", "David Bartrés-Faz"],
+        "abstract": ["Background\nCognitive reserve (CR) and brain maintenance (BM) represent heuristic concepts defining general mechanisms that may underlie successful cognition in advanced age. However, a robust differentiation of both models employing a unified approach is lacking. Within the framework of a recent NIH‐funded study (R24‐AG061421) from the Reserve & Re..."]
+      },
+      {
+        "title": "Individual variations in ‘brain age’ relate to early-life factors more than to longitudinal brain change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Didac Vidal-Piñeiro", "Yunpeng Wang", "Stine K Krogsrud", "Anders Fjell"],
+        "abstract": ["Brain age is a widely used index for quantifying individuals’ brain health as deviation from a normative brain aging trajectory. Higher-than-expected brain age is thought partially to reflect above-average rate of brain aging. Here, we explicitly tested this assumption in two independent large test datasets (UK Biobank [main] and Lifebrain [replica..."]
+      },
+      {
+        "title": "Relationships between apparent cortical thickness and working memory across the lifespan - Effects of genetics and socioeconomic status",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Stine K Krogsrud", "Athanasia Monika Mowinckel", "Donatas Sederevicius", "Anders M. Fjell"],
+        "abstract": ["Working memory (WM) supports several higher-level cognitive abilities, yet we know less about factors associated with development and decline in WM compared to other cognitive processes. Here, we investigated lifespan changes in WM capacity and their structural brain correlates, using a longitudinal sample including 2358 magnetic resonance imaging..."]
+      },
+      {
+        "title": "Education and Income Show Heterogeneous Relationships to Lifespan Brain and Cognitive Differences Across European and US Cohorts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Kristine Walhovd", "Anders M Fjell", "Yunpeng Wang", "Andreas M Brandmaier"],
+        "abstract": ["Higher socio-economic status (SES) has been proposed to have facilitating and protective effects on brain and cognition. We ask whether relationships between SES, brain volumes and cognitive ability differ across cohorts, by age and national origin. European and US cohorts covering the lifespan were studied (4–97 years, N = 500 000; 54 000 w/brain..."]
+      },
+      {
+        "title": "The genetic organization of longitudinal subcortical volumetric change is stable throughout the lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Anders Martin Fjell", "Hakon Grydeland", "Yunpeng Wang", "Kristine Beate Walhovd"],
+        "abstract": ["Development and aging of the cerebral cortex show similar topographic organization and are governed by the same genes. It is unclear whether the same is true for subcortical regions, which follow fundamentally different ontogenetic and phylogenetic principles. We tested the hypothesis that genetically governed neurodevelopmental processes can be tr..."]
+      },
+      {
+        "title": "Brain age relates to early life factors but not to accelerated brain aging",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Didac Vidal-Piñeiro", "Yunpeng Wang", "Stine K Krogsrud", "Anders M Fjell"],
+        "abstract": ["Brain age is a widely used index for quantifying individuals brain health as deviation from a normative brain aging trajectory. Higher than expected brain age is thought partially to reflect above-average rate of brain aging. We explicitly tested this assumption in two large datasets and found no association between cross-sectional brain age and st..."]
+      },
+      {
+        "title": "Asymmetric thinning of the cerebral cortex across the adult lifespan is accelerated in Alzheimer’s disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["James Michael Roe", "Didac Vidal-Piñeiro", "Øystein Sørensen", "René Westerhausen"],
+        "abstract": ["Aging and Alzheimer’s disease (AD) are associated with progressive brain disorganization. Although structural asymmetry is an organizing feature of the cerebral cortex it is unknown whether continuous age- and AD-related cortical degradation alters cortical asymmetry. Here, in multiple longitudinal adult lifespan cohorts we show that higher-order c..."]
+      },
+      {
+        "title": "Cellular correlates of cortical thinning throughout the lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Didac Vidal-Piñeiro", "Nadine Parker", "Jean Shin", "Anders M. Fjell"],
+        "abstract": ["Cortical thinning occurs throughout the entire life and extends to late-life neurodegeneration, yet the neurobiological substrates are poorly understood. Here, we used a virtual-histology technique and gene expression data from the Allen Human Brain Atlas to compare the regional profiles of longitudinal cortical thinning through life (4004 magnetic..."]
+      },
+      {
+        "title": "Within-session verbal learning slope is predictive of lifespan delayed recall, hippocampal volume, and memory training benefit, and is heritable",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Kristine Walhovd", "Anne Cecilie Sjøli Bråthen", "Matthew S Panizzon", "Anders M. Fjell"],
+        "abstract": ["Memory performance results from plasticity, the ability to change with experience. We show that benefit from practice over a few trials, learning slope, is predictive of long-term recall and hippocampal volume across a broad age range and a long period of time, relates to memory training benefit, and is heritable. First, in a healthy lifespan sampl..."]
+      },
+      {
+        "title": "Visualization of Brain Statistics With R Packages ggseg and ggseg3d",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Athanasia Monika Mowinckel", "Didac Vidal-Piñeiro"],
+        "abstract": ["There is an increased emphasis on visualizing neuroimaging results in more intuitive ways. Common statistical tools for dissemination of these results, such as bar charts, lack the spatial dimension that is inherent in neuroimaging data. Here we present two packages for the statistical software R that integrate this spatial component. The ggseg and..."]
+      },
+      {
+        "title": "The Functional Foundations of Episodic Memory Remain Stable Throughout the Lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Didac Vidal-Piñeiro", "Markus Handal Sneve", "Inge K Amlien", "Anders M Fjell"],
+        "abstract": ["It has been suggested that specific forms of cognition in older age rely largely on late-life specific mechanisms. Here instead, we tested using task-fMRI (n = 540, age 6–82 years) whether the functional foundations of successful episodic memory encoding adhere to a principle of lifespan continuity, shaped by developmental, structural, and evolutio..."]
+      },
+      {
+        "title": "Poor Self-Reported Sleep is Related to Regional Cortical Thinning in Aging but not Memory Decline—Results From the Lifebrain Consortium",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Anders M Fjell", "Øystein Sørensen", "Inge K Amlien", "Kristine Walhovd"],
+        "abstract": ["We examined whether sleep quality and quantity are associated with cortical and memory changes in cognitively healthy participants across the adult lifespan. Associations between self-reported sleep parameters (Pittsburgh Sleep Quality Index, PSQI) and longitudinal cortical change were tested using five samples from the Lifebrain consortium (n = 22..."]
+      },
+      {
+        "title": "Education and income show heterogeneous relationships to lifespan brain and cognitive differences across European and US cohorts",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Kristine Walhovd", "Anders M. Fjell", "Yunpeng Wang", "Andreas M Brandmaier"],
+        "abstract": ["Socio-economic status (SES) has been proposed to have facilitating and protective effects on brain and cognition. Here we show that relationships between SES, brain volumes and general cognitive ability differ significantly across European and US cohorts (4-97 years, N ≈ 500,000; 54,000 with brain imaging). Education was positively related to intra..."]
+      },
+      {
+        "title": "Meta-analysis of generalized additive models in neuroimaging studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Øystein Sørensen", "Andreas M Brandmaier", "Dídac Macià", "Anders Fjell"],
+        "abstract": ["Analyzing data from multiple neuroimaging studies has great potential in terms of increasing statistical power, enabling detection of effects of smaller magnitude than would be possible when analyzing each study separately and also allowing to systematically investigate between-study differences. Restrictions due to privacy or proprietary data as w..."]
+      },
+      {
+        "title": "Genetic risk for Alzheimer disease predicts hippocampal volume through the human lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Kristine Walhovd", "Anders M. Fjell", "Øystein Sørensen", "Yunpeng Wang"],
+        "abstract": ["Objective\nTo test the hypothesis that genetic risk for Alzheimer disease (AD) may represent a stable influence on the brain from early in life, rather than being primarily age dependent, we investigated in a lifespan sample of 1,181 persons with a total of 2,690 brain scans, whether higher polygenic risk score (PGS) for AD and presence of APOE ε4 w..."]
+      },
+      {
+        "title": "Longitudinal association between hippocampus atrophy and episodic‐memory decline in non‐demented APOE ε4 carriers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Tetiana Gorbach", "Sara Pudas", "David Bartrés-Faz", "Lars Nyberg"],
+        "abstract": ["Introduction: \nThe apolipoprotein E (APOE) ε4 allele is the main genetic risk factor for Alzheimer's disease (AD), accelerated cognitive aging, and hippocampal atrophy, but its influence on the association between hippocampus atrophy and episodic-memory decline in non-demented individuals remains unclear.\n\nMethods: \nWe analyzed longitudinal (two to..."]
+      },
+      {
+        "title": "The Global Brain Health Survey: Development of a Multi-Language Survey of Public Views on Brain Health",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Isabelle Budin-Ljøsne", "Barbara Bodorkos Friedman", "Sana Suri", "Larysa Zasiekina"],
+        "abstract": ["Background: Brain health is a multi-faceted concept used to describe brain physiology, cognitive function, mental health and well-being. Diseases of the brain account for one third of the global burden of disease and are becoming more prevalent as populations age. Diet, social interaction as well as physical and cognitive activity are lifestyle fac..."]
+      },
+      {
+        "title": "Asymmetric thinning of the cerebral cortex across the adult lifespan is accelerated in Alzheimer's Disease",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["James Michael Roe", "Didac Vidal-Piñeiro", "Øystein Sørensen", "Rene Westerhausen"],
+        "abstract": ["Normal aging and Alzheimer’s Disease (AD) are accompanied by large-scale alterations in brain organization that undermine brain function. Although hemispheric asymmetry is a global organizing feature of cortex thought to promote brain efficiency, current descriptions of cortical thinning in aging and AD have largely overlooked cortical asymmetry. C..."]
+      },
+      {
+        "title": "The genetic organization of subcortical volumetric change is stable throughout the lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Anders M Fjell", "Hakon Grydeland", "Yunpeng Wang", "Kristine Beate Walhovd"],
+        "abstract": ["While development and aging of the cerebral cortex show a similar topographic organization and are mainly governed by the same genes, it is unclear whether the same is true for subcortical structures, which follow fundamentally different ontogenetic and phylogenetic principles than the cerebral cortex. To test the hypothesis that genetically govern..."]
+      },
+      {
+        "title": "Lifespan trajectories of relative corpus callosum thickness: Regional differences and cognitive relevance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["V.M. Danielsen", "Didac Vidal-Piñeiro", "Athanasia Monika Mowinckel", "R. Westerhausen"],
+        "abstract": ["The cerebral hemispheres are specialized for different cognitive functions and receive divergent information from the sensory organs, so that the interaction between the hemispheres is a crucial aspect of perception and cognition. At the same time, the major fiber tract responsible for this interaction, the corpus callosum, shows a structural devel..."]
+      },
+      {
+        "title": "Self-reported sleep problems are related to cortical thinning in aging but not memory decline and amyloid-β accumulation - results from the Lifebrain consortium",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Anders M. Fjell", "Øystein Sørensen", "Inge K Amlien", "Kristine Beate Walhovd"],
+        "abstract": ["Background\nOlder persons with poor sleep are more likely to develop neurodegenerative disease, but the causality underlying this association is unclear. To move towards explanation, we examine whether sleep quality and quantity are similarly associated with brain changes across the adult lifespan.\n\nMethods\nAssociations between self-reported sleep p..."]
+      },
+      {
+        "title": "Cellular correlates of cortical thinning throughout the lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Didac Vidal-Piñeiro", "Nadine Parker", "J. Shin", "AM Fjell"],
+        "abstract": ["Cortical thinning occurs throughout the entire life and extends to late-life neurodegeneration, yet the neurobiological substrates are poorly understood. Here, we used a virtual-histology technique and gene expression data from the Allen Human Brain Atlas to compare the regional profiles of longitudinal cortical thinning through life (4004 MRIs) wi..."]
+      },
+      {
+        "title": "Lifespan trajectories of relative corpus callosum thickness: regional differences and cognitive relevance.",
+        "tags": ["Preprint"],
+        "date": "Mar 2020",
+        "authors": ["Vilde M. Danielsen", "Didac Vidal Pineiro", "Athanasia Monika Mowinckel", "René Westerhausen"],
+        "abstract": ["The cerebral hemispheres are specialized for different cognitive functions and receive divergent information from the sensory organs, so that the interaction between the hemispheres is a crucial aspect of perception and cognition. At the same time, the major fiber tract responsible for this interaction, the corpus callosum, shows a structural devel..."]
+      },
+      {
+        "title": "Meta-Analysis of Generalized Additive Models in Neuroimaging Studies",
+        "tags": ["Preprint"],
+        "date": "Feb 2020",
+        "authors": ["Øystein Sørensen", "Andreas M Brandmaier", "Dídac Macià", "Anders Fjell"],
+        "abstract": ["Analyzing data from multiple neuroimaging studies has great potential in terms of increasing statistical power, enabling detection of effects of smaller magnitude than would be possible when analyzing each study separately and also allowing to systematically investigate between-study differences. Restrictions due to privacy or proprietary data as w..."]
+      },
+      {
+        "title": "The functional foundations of episodic memory remain stable throughout the lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Didac Vidal-Piñeiro", "Markus Handal Sneve", "Inge K Amlien", "Anders M Fjell"],
+        "abstract": ["It is suggested that the functional mechanisms behind specific forms of cognition, particularly episodic memory, may be dynamic over the lifespan and that cognitive preservation or decay in older age thus relies on age-specific mechanisms such as compensatory processes. Here instead, we tested whether the functional foundations of successful episod..."]
+      },
+      {
+        "title": "Visualisation of Brain Statistics with R-packages ggseg and ggseg3d",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Athanasia Monika Mowinckel", "Didac Vidal-Piñeiro"],
+        "abstract": ["There is an increased emphasis on visualizing neuroimaging results in more intuitive ways. Common statistical tools for dissemination, such as bar charts, lack the spatial dimension that is inherent in neuroimaging data. Here we present two packages for the statistical software R, ggseg and ggseg3d, that integrate this spatial component. The ggseg..."]
+      },
+      {
+        "title": "Self-reported sleep relates to hippocampal atrophy across the adult lifespan – results from the Lifebrain consortium",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Anders M Fjell", "Øystein Sørensen", "Inge K Amlien", "Kristine Walhovd"],
+        "abstract": ["Objectives\nPoor sleep is associated with multiple age-related neurodegenerative and neuropsychiatric conditions. The hippocampus plays a special role in sleep and sleep-dependent cognition, and accelerated hippocampal atrophy is typically seen with higher age. Hence, it is critical to establish how the relationship between sleep and hippocampal vol..."]
+      },
+      {
+        "title": "Volumetric and microstructural regional changes of the hippocampus underlying development of recall performance after extended retention intervals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Anders M Fjell", "Markus Handal Sneve", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["Performance on recall tests improves through childhood and adolescence, in part due to structural maturation of the medial temporal cortex. Although partly different processes support successful recall over shorter vs. longer intervals, recall is usually tested after less than an hour. The aim of the present study was to test whether there are uniq..."]
+      },
+      {
+        "title": "Self-reported sleep relates to hippocampal atrophy across the adult lifespan - results from the Lifebrain consortium",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Anders M Fjell", "Øystein Sørensen", "Inge K Amlien", "Kristine Beate Walhovd"],
+        "abstract": ["Background\nPoor sleep is associated with multiple age-related neurodegenerative and neuropsychiatric conditions. The hippocampus plays a special role in sleep and sleep-dependent cognition, and accelerated hippocampal atrophy is typically seen with higher age. Hence, it is critical to establish how the relationship between sleep and hippocampal vol..."]
+      },
+      {
+        "title": "Genetic risk for Alzheimer`s disease predicts hippocampal volume through the lifespan",
+        "tags": ["Preprint"],
+        "date": "Jul 2019",
+        "authors": ["Kristine Beate Walhovd", "Anders Martin Fjell", "Øystein Sørensen", "Yunpeng Wang"],
+        "abstract": ["INTRODUCTION\nIt is unknown whether genetic risk for Alzheimer’s disease (AD) represents a stable influence on the brain from early in life, or whether effects are age-dependent. It is critical to characterize the effects of genetic risk factors on the primary neural substrate of AD, the hippocampus, throughout life.\n\nMETHODS\nRelations of polygenic..."]
+      },
+      {
+        "title": "Volumetric and microstructural regional changes of the hippocampus underlying development of extended delay long-term memory",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Anders M Fjell", "Markus Handal Sneve", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["Episodic memory function improves through childhood and adolescence, in part due to structural maturation of the medial temporal cortex. Although partly different processes support long-term memory over shorter vs. longer intervals, memory is usually assessed after less than an hour. The aim of the present study was to test whether there are unique..."]
+      },
+      {
+        "title": "Continuity and Discontinuity in Human Cortical Development and Change From Embryonic Stages to Old Age",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex is highly regionalized, and this feature emerges from morphometric gradients in the cerebral vesicles during embryonic development. We tested if this principle of regionalization could be traced from the embryonic development to the human life span. Data-driven fuzzy clustering was used to identify regions of coordinated l..."]
+      },
+      {
+        "title": "Maintained Frontal Activity Underlies High Memory Function Over 8 Years in Aging",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Didac Vidal-Piñeiro", "Markus Handal Sneve", "Lars Nyberg", "Anders M Fjell"],
+        "abstract": ["Aging is characterized by substantial average decline in memory performance. Yet contradictory explanations have been given for how the brains of high-performing older adults work: either by engagement of compensatory processes such as recruitment of additional networks or by maintaining young adults' patterns of activity. Distinguishing these comp..."]
+      },
+      {
+        "title": "TESTING MAINTENANCE AND COMPENSATION NOTIONS IN NORMAL AGING: AGE-RELATED CORRELATES OF ASSOCIATIVE ENCODING SUCCESS",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Didac Vidal-Piñeiro", "Markus Handal Sneve", "Lars Nyberg", "Anders M. Fjell"],
+        "abstract": []
+      },
+      {
+        "title": "Continuity and discontinuity in human cortical development and change from embryonic stages to old age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex is highly regionalized. We aimed to test whether principles of regionalization could be traced from embryonic development throughout the human lifespan. A data-driven fuzzy-clustering approach was used to identify regions of coordinated longitudinal development of cortical surface area (SA) and thickness (CT) over 1.5 year..."]
+      },
+      {
+        "title": "Healthy minds 0-100 years: Optimising the use of European brain imaging cohorts (“Lifebrain”)",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Kristine Walhovd", "Fjell AM", "Westerhausen R.", "Barbara Bodorkós"],
+        "abstract": ["The main objective of \"Lifebrain\" is to identify the determinants of brain, cognitive and mental (BCM) health at different stages of life. By integrating, harmonising and enriching major European neuroimaging studies across the life span, we will merge fine-grained BCM health measures of more than 5,000 individuals. Longitudinal brain imaging, gene..."]
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Results from all Bayesian Linear Mixed Models."]
+      },
+      {
+        "title": "Inline supplementary table 1",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Model descriptions. Syntax description of the three competing models for each of the three dependent measures. The first parenthesis describes the term of interest, where one estimates intercepts for each node or edge (node pairs).Note that for the task betas, each parameter (intercept, gain, loss, difficulty, accuracy) is hierarchically nested und..."]
+      },
+      {
+        "title": "Supplementary Material 3",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": []
+      },
+      {
+        "title": "Increased default-mode variability is related to reduced task-performance and is evident in adults with ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Insufficient suppression and connectivity of the default mode network (DMN) is a potential mediator of cognitive dysfunctions across various disorders, including attention deficit/hyperactivity disorder (ADHD). However, it remains unclear if alterations in sustained DMN suppression, variability and connectivity during prolonged cognitive engagement..."]
+      },
+      {
+        "title": "Modelling ADHD: A review of ADHD theories through their predictions for computational models of decision-making and reinforcement learning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Sigurd Ziegler", "Mads Lund Pedersen", "Athanasia Monika Mowinckel", "Guido Biele"],
+        "abstract": ["Attention Deficit Hyperactivity Disorder (ADHD) is characterized by altered Decision-making (DM) and reinforcement learning (RL), for which competing theories propose alternative explanations. Computational modelling contributes to understanding DM and RL by integrating behavioural and neurobiological findings, and could elucidate pathogenic mechan..."]
+      },
+      {
+        "title": "Re: Kronisk utmattelsessyndrom og erfaring med Lightning Process",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Athanasia Monika Mowinckel"],
+        "abstract": []
+      },
+      {
+        "title": "The effects of methylphenidate on brain procesess during cost/benefit decision making",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Sigurd Ziegler", "Guido Biele"],
+        "abstract": ["Objectives\nAttention Deficit/Hyperactivity Disorder (ADHD) is commonly treated with the central stimulant methylphenidate (MPH). MPH affects the dopamine (DA) system of the brain, which is also involved in decision-making (DM). Despite clear theoretical and empirical indications for DM problems in adults with ADHD, current understanding of the invo..."]
+      },
+      {
+        "title": "The Influence of Methylphenidate Medication on Reversal Learning in Adults with ADHD",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Athanasia Monika Mowinckel", "Mats Fredriksen", "Guido Biele"],
+        "abstract": ["Neurobiological theories of ADHD assume that a deficient dopaminergic system is a key cause of ADHD symptoms. Impaired reinforcement learning (RL) is one such symptom and is associated with dopaminergic signalling of prediction errors. Methylphenidate treatment alleviates ADHD symptoms by manipulating the dopaminergic system, and should thus also i..."]
+      },
+      {
+        "title": "Default mode resting-state functional connectivity of the aging brain",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Athanasia Monika Mowinckel"],
+        "abstract": ["The term functional connectivity is used to describe which parts of the brain work together on a process, and might aid the understanding of how the processing systems in the human brain are fundamentally organised. The default mode network (DMN) is a constellation of cortical structures that has shown remarkable reliability as a resting-state netw..."]
+      }
+    ],
+    "degree": ["BA", "MPhil", "PhD"],
+    "publications": [68],
+    "reads": [15407],
+    "citations": [1077]
   }
 }

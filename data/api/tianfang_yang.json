@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Tianfang (Frank) Yang",
-    "id": "oOx1V70AAAAJ",
-    "affiliation": "Genentech-Roche",
+    "name": ["Tianfang (Frank) Yang"],
+    "id": ["oOx1V70AAAAJ"],
+    "affiliation": ["Genentech-Roche"],
     "data": {
       "publications": [
         {
@@ -81,8 +81,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-5119-3963",
-    "name": "Tianfang Yang",
+    "orcid": ["0000-0001-5119-3963"],
+    "name": ["Tianfang Yang"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -93,11 +93,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Tianfang Yang",
-    "id": "1671669",
+    "name": ["Tianfang Yang"],
+    "id": ["1671669"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Tianfang-Yang",
+    "name": "Tianfang Yang",
+    "img": "https://i1.rgstatic.net/ii/profile.image/354120218234881-1461440247314_Q128/Tianfang-Yang.jpg",
+    "affiliation": "William  Mary | WM, William  Mary, Department of Psychology",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

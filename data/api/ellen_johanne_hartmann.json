@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1066-5319",
-    "name": "Ellen Hartmann",
+    "orcid": ["0000-0002-1066-5319"],
+    "name": ["Ellen Hartmann"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ellen Johanne Hartmann",
-    "id": "22681",
+    "name": ["Ellen Johanne Hartmann"],
+    "id": ["22681"],
     "keywords": ["Projective Methods", "Psychoanalysis", "Psychopathology", "Henrik Ibsen", "Rorschach", "Projective tests", "Dynamic- and integrative psychotherapy"],
     "position": ["Emeritus", "Professor"],
-    "img": "https://api.cristin.no/v2/persons/22681/picture",
+    "img": ["https://api.cristin.no/v2/persons/22681/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -506,5 +506,26 @@
         "url": "https://api.cristin.no/v2/results/444693"
       }
     ]
+  },
+  "rg": {
+    "id": "Ellen-Johanne-Kvalsvik",
+    "name": "Ellen-Johanne Kvalsvik",
+    "img": "https://i1.rgstatic.net/ii/profile.image/320849096183809-1453507793167_Q128/Ellen-Johanne-Kvalsvik.jpg",
+    "affiliation": "UiT The Arctic University of Norway, Department of Tourism and Northern Studies",
+    "keywords": ["Interviewing", "Qualitative Analysis", "Academic Writing", "Report Writing", "Research Proposal Writing", "Article Writing"],
+    "works": [
+      {
+        "title": "The Art of Performing Sound in Sámi Tourism Decolonising Sápmi by Sounding Care in Verdde Tourism",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Ellen-Johanne Kvalsvik"],
+        "abstract": "Waitt and Duffy (2010) emphasised the loss of information in tourism research by arguing that a new understanding of knowledge, social power and interconnection between actors and tourism can be uncovered by focusing our attention on the ear and the world of sound. This thesis focuses on the importance of sound and soundscape in Sámi tourism. Inspi..."
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": "I am currently one year into my PhD in Nature-based Tourism. I work with sensuous ethnographies (Pink, 2015). I am looking for the materiality of lead acting Arctic materials, following the lines (Ingold, 2007; 2016) of these materials from nature through the hunter, gatherer, fisherman, farmer through the hands of the craftsman and the story of the host. My research hence focus on a sensuous ecology of foodstuff in places.",
+    "publication": [1],
+    "reads": [175],
+    "citations": [0]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Inge Amlien",
-    "id": "cwQrekcAAAAJ",
-    "affiliation": "Senior Engineer at the Center for Lifespan Changes in Brain and Cognition - UiO",
+    "name": ["Inge Amlien"],
+    "id": ["cwQrekcAAAAJ"],
+    "affiliation": ["Senior Engineer at the Center for Lifespan Changes in Brain and Cognition - UiO"],
     "data": {
       "publications": [
         {
@@ -822,8 +822,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-8508-9088",
-    "name": "Inge Kasbohm Amlien",
+    "orcid": ["0000-0002-8508-9088"],
+    "name": ["Inge Kasbohm Amlien"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1146,8 +1146,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Inge Amlien",
-    "id": "10239",
+    "name": ["Inge Amlien"],
+    "id": ["10239"],
     "keywords": [],
     "position": ["Senior engineer"],
     "img": {},
@@ -1536,5 +1536,719 @@
         "url": "https://api.cristin.no/v2/results/336719"
       }
     ]
+  },
+  "rg": {
+    "id": "A-Inge",
+    "name": "A. Ken Inge",
+    "img": "https://i1.rgstatic.net/ii/profile.image/545467809398789-1507061068949_Q128/A-Inge.jpg",
+    "affiliation": "Stockholm University | SU, Stockholm University, Department of Materials and Environmental Chemistry",
+    "keywords": ["Crystallography", "Structural Chemistry", "Crystal Engineering", "Single Crystal X-ray Diffraction", "Hydrothermal Synthesis", "Synchrotron X-Ray Diffraction", "Structure Determination", "Inorganic Synthesis", "Metal Organic Frameworks", "Powder X-ray Diffraction"],
+    "works": [
+      {
+        "title": "Discovery and In Situ Crystallization Studies of Cerium-Based Metal-Organic Frameworks with V-Shaped Linker Molecules",
+        "tags": ["Article"],
+        "date": "Dec 2023",
+        "authors": ["Jonas Gosch", "Virginia Guiotto", "Felix Steinke", "Norbert Stock"],
+        "abstract": []
+      },
+      {
+        "title": "Electrochromism in Isoreticular Metal–Organic Framework Thin Films with Record High Coloration Efficiency",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Amol Kumar", "Jingguo Li", "A. Ken Inge", "Sascha Ott"],
+        "abstract": []
+      },
+      {
+        "title": "Solubility and Stability of Hexanuclear Ce(IV)–O Clusters",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Jonas Gosch", "Erik Svensson Grape", "Cesare Atzori", "Norbert Stock"],
+        "abstract": []
+      },
+      {
+        "title": "Sugar‐Assisted Kinetic Resolutions in Metal/Chiral Amine Co‐Catalyzed α‐Allylations and [4+2] Cycloadditions: Highly Enantioselective Synthesis of Sugar and Chromane Derivatives",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Kaiheng Zhang", "Chrislaura Bellini Carmo", "Luca Deiana", "Armando Cordova"],
+        "abstract": ["Functionalized triose-, furanose and chromane-derivatives were synthesized by the titled reactions. The sugar-assisted kinetic resolution/C-C bond-forming cascade processes generate a functionalized sugar derivative with a quaternary stereocenter in a highly enantioselective fashion (up to >99% ee) by using a simple combination of metal and chiral..."]
+      },
+      {
+        "title": "High Proton Conductivity of a Bismuth Phosphonate Metal–Organic Framework with Unusual Topology",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Pablo Salcedo-Abraira", "Catalina Biglione", "Sérgio M. F. Vilela", "Patricia Horcajada"],
+        "abstract": []
+      },
+      {
+        "title": "Lewis Acid‐catalyzed Ring‐opening Alcoholysis of Cyclohexene Oxide: The Role of Open Metal Sites in the Bi‐based Metal‐Organic Framework SU‐101",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Juan Luis Obeso", "José Flores", "Catalina v. Flores", "Carolina Leyva"],
+        "abstract": ["SU‐101 was screened for the acid‐catalyzed ring‐opening alcoholysis of cyclohexene oxide. Results indicated access to open metal sites within SU‐101, a fundamental requirement (Lewis acid Bi ⁺³ sites) for this reaction. In addition, SU‐101 exhibited high chemical stability, demonstrated by retaining its crystalline structure after the reaction. The..."]
+      },
+      {
+        "title": "Removal of pharmaceutical pollutants from effluent by a plant-based metal–organic framework",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Erik Svensson Grape", "Antonio J. Chacón-García", "Sara Rojas", "A. Ken Inge"],
+        "abstract": ["Emerging organic contaminants (EOCs), such as pharmaceutical compounds, are of growing environmental concern, and there is a need to develop new materials and technologies for their efficient removal. Here we developed a highly porous and stable zirconium–ellagate framework, denoted SU-102, which was used to remove EOCs from water, including real m..."]
+      },
+      {
+        "title": "Porous Salts Containing Cationic Al24-Hydroxide-Acetate Clusters from Scalable, Green and Aqueous Synthesis Routes",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Bastian Achenbach", "Erik Svensson Grape", "Mohammad Wahiduzzaman", "Norbert Stock"],
+        "abstract": ["The solution chemistry of aluminum is highly complex and various polyoxocations are known. Here we report on the facile synthesis of a cationic Al24 cluster that forms porous salts of composition [Al24(OH)56(CH3COO)12]X4, denoted CAU-55-X, with X = Cl-, Br-, I-, HSO4-. Three-dimensional electron diffraction was employed to determine the crystal str..."]
+      },
+      {
+        "title": "Grüne, wasserbasierte, und skalierbare Synthesen von porösen Salzen mit kationischen Al24-Hydroxid-Acetat-Clustern",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Bastian Achenbach", "Erik Svensson Grape", "Mohammad Wahiduzzaman", "Norbert Stock"],
+        "abstract": ["Die Chemie von Al ³⁺ ‐Ionen in wässriger Lösung ist sehr komplex und führte bereits zu verschiedenen Polyoxokationen. In diesem Artikel wird die einfache Synthese von porösen Salzen der Zusammensetzung [Al 24 (OH) 56 (CH 3 COO) 12 ]X 4 (CAU‐55‐X, mit X=Cl ⁻ , Br ⁻ , I ⁻ , HSO 4 ⁻ ) beschrieben, welche einen kationischen Al 24 ‐Cluster enthalten. Di..."]
+      },
+      {
+        "title": "Synthesis, Crystal Structure, and Photocatalytic Properties of Two Isoreticular Ce(IV)-MOFs with an Infinite Rod-Shaped Inorganic Building Unit",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Jonas Gosch", "Diletta Morelli Venturi", "Erik Svensson Grape", "Norbert Stock"],
+        "abstract": ["The use of the V-shaped linker molecules 4,4'-oxydibenzoic acid (H2ODB) and 4,4'-carbonyldibenzoic acid (H2CDB) led to the discovery of two isoreticular Ce(IV)-based metal-organic frameworks (MOFs) of composition [CeO(H2O)(L)], L = ODB2-, CDB2-, denoted CAU-58 (CAU = Christian-Albrechts-University). The recently developed Ce-MOF synthesis approach..."]
+      },
+      {
+        "title": "Stereospecific Photoredox-Catalyzed Vinylations to Function-alized Alkenes and C-Glycosides",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Kumar Bhaskar Pal", "Ester Maria Di Tommaso", "A. Ken Inge", "Berit Olofsson"],
+        "abstract": ["We report an efficient radical-mediated C-C coupling through photoredox-catalyzed reactions of 4-alkyl-dihydropyridines (DHPs) and vinylbenziodoxol(on)es (VBX, VBO). This transition-metal-free and mild photocatalytic method has excellent functional group tolerance and affords vinylated products in good yields, with complete retention of the alkene..."]
+      },
+      {
+        "title": "Stereospecific Photoredox‐Catalyzed Vinylations to Function­alized Alkenes and C‐Glycosides",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Kumar Bhaskar Pal", "Ester Maria Di Tommaso", "A. Ken Inge", "Berit Olofsson"],
+        "abstract": ["We report an efficient radical‐mediated C−C coupling through photoredox‐catalyzed reactions of 4‐alkyl‐dihydropyridines (DHPs) and vinylbenziodoxol(on)es (VBX, VBO). This transition‐metal‐free and mild photocatalytic method has excellent functional group tolerance and affords vinylated products in good yields, with complete retention of the alkene..."]
+      },
+      {
+        "title": "Stereoselective Photoredox-Catalyzed Vinylations to Function-alized Alkenes and C-Glycosides",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Kumar Bhaskar Pal", "Ester Maria Di Tommaso", "A. Ken Inge", "Berit Olofsson"],
+        "abstract": ["We have disclosed two efficient radical-mediated C-C couplings through photoredox-catalyzed reactions of 4-alkyl-1,4-DHPs and vinylbenziodoxol(on)es (VBX, VBO). This transition-metal-free and mild photocatalytic method has excellent functional group tolerance and affords vinylated products in good yields, with excellent stereoselectivities where th..."]
+      },
+      {
+        "title": "Stereoselective Photoredox-Catalyzed Vinylations to Function-alized Alkenes and C-Glycosides",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Kumar Bhaskar Pal", "Ester Maria Di Tommaso", "A. Ken Inge", "Berit Olofsson"],
+        "abstract": ["We have disclosed two efficient radical-mediated C-C couplings through photoredox-catalyzed reactions of 4-alkyl-1,4-DHPs and vinylbenziodoxol(on)es (VBX, VBO). This transition-metal-free and mild photocatalytic method has excellent functional group tolerance and affords vinylated products in good yields, with excellent stereoselectivities where th..."]
+      },
+      {
+        "title": "Su-101 for the Removal of Pharmaceutical Active Compounds by the Combination of Adsorption/Photocatalytic Processes",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Patricia Horcajada", "Antonio J. Chacón-García", "Sara Rojas", "Yolanda Pérez Cortés"],
+        "abstract": []
+      },
+      {
+        "title": "Synthesis, Structure and Magnetic Properties of Two Bis(oxalato)cuprate(II) Salts with Pyridinium Type Counter Ions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Cyrielle L.F. Dazem", "A. Ken Inge", "Dominique Luneau", "Justin Nenwa"],
+        "abstract": ["Mono-and a di-protonated pyridine type cations have been used for the synthesis of two bis(oxalato)cuprate(II) salts, (C 5 H 7 N 2 O) 2 [Cu(C 2 O 4) 2 ] (C 5 H 7 N 2 O = 2-amino-3-hydroxypyridinium) 1 and C 13 H 16 N 2 [Cu(C 2 O 4) 2 ] (C 13 H 16 N 2 = 4,4'-tetramethylenedipyridinium) 2. In the crystal structures, C 2 O 4 2-adopts different coordin..."]
+      },
+      {
+        "title": "Structure of the active ingredient of Pepto-Bismol by 3D ED and STEM imaging",
+        "tags": ["Article"],
+        "date": "Aug 2022",
+        "authors": ["Erik Svensson Grape", "V. Rooth", "M. Nero", "A. Ken Inge"],
+        "abstract": []
+      },
+      {
+        "title": "Efficient removal of aqueous pharmaceutical pollutants by a robust anionic zirconium ellagate framework",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Erik Svensson Grape", "Antonio J. Chacón", "Sara Rojas", "A. Ken Inge"],
+        "abstract": ["Emerging organic contaminants (EOCs) in water, such as pharmaceutical compounds, are of growing environmental concern and there is a need to develop new materials and technologies for their efficient removal. A highly porous and exceptionally stable anionic zirconium ellagate metal-organic framework (MOF), denoted SU-102, was developed and utilized..."]
+      },
+      {
+        "title": "Synthesis of α,γ-Chiral Trifluoromethylated Amines through the Stereospecific Isomerization of α-Chiral Allylic Amines",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Víctor García-Vázquez", "Pablo Martinez-Pardo", "Alexandru Postole", "Belén Martín-Matute"],
+        "abstract": ["Chiral γ-branched aliphatic amines are present in a large number of pharmaceuticals and natural products. However, enantioselective methods to access these compounds are scarce and mainly rely on the use of designed chiral transition-metal complexes. Herein, we combined an organocatalytic method for the stereospecific isomerization of chiral allyli..."]
+      },
+      {
+        "title": "Chiral Lanthanum Metal–Organic Framework with Gated CO 2 Sorption and Concerted Framework Flexibility",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Francoise M. Amombo Noa", "Erik Svensson Grape", "Michelle Åhlén", "Lars Öhrström"],
+        "abstract": ["A metal-organic framework (MOF) CTH-17 based on lanthanum(III) and the conformationally chiral linker 1,2,3,4,5,6-hexakis(4-carboxyphenyl)benzene, cpb6-: [La2(cpb)]·1.5dmf was prepared by the solvothermal method in dimethylformamide (dmf) and characterized by variable-temperature X-ray powder diffraction (VTPXRD), variable-temperature X-ray single-..."]
+      },
+      {
+        "title": "Stimuli-responsive Enaminitrile Molecular Switches as Tunable AIEgens Covering the Chromaticity Space and Acting as Vapor Sensors",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Yansong Ren", "Alexander Kravchenko", "Sheng Xie", "Olof Ramstrom"],
+        "abstract": ["A family of responsive enaminitrile molecular switches showing tunable turn-on fluorescence upon switching and aggregation is reported. When activated by the addition of acid/base, isomerization around the C=C bond could be effectuated, resulting in complete and reversible switching to the E- or Z-isomers. Typical aggregation-induced emission (AIE)..."]
+      },
+      {
+        "title": "Structure of the active pharmaceutical ingredient bismuth subsalicylate",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Erik Svensson Grape", "Victoria Rooth", "Mathias Nero", "A. Ken Inge"],
+        "abstract": ["Structure determination of pharmaceutical compounds is invaluable for drug development but remains challenging for those that form as small crystals with defects. Bismuth subsalicylate, among the most commercially significant bismuth compounds, is an active ingredient in over-the-counter medications such as Pepto-Bismol, used to treat dyspepsia and..."]
+      },
+      {
+        "title": "Microscopic Insights into Cation-Coupled Electron Hopping Transport in a Metal–Organic Framework",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Ashleigh T. Castner", "Hao Su", "Erik Svensson Grape", "Sascha Ott"],
+        "abstract": ["Electron transport through metal-organic frameworks by a hopping mechanism between discrete redox active sites is coupled to diffusion-migration of charge-balancing counter cations. Experimentally determined apparent diffusion coefficients, Deapp, that characterize this form of charge transport thus contain contributions from both processes. While..."]
+      },
+      {
+        "title": "Synthesis of alpha,gamma-Chiral Trifluoromethylated Amines through the Stereospecific Isomerization of alpha-Chiral Allylic Amines",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Victor García-Vázquez", "Pablo Martinez-Pardo", "Alexandru Postole", "Belén Martín-Matute"],
+        "abstract": ["Chiral gamma-branched aliphatic amines are present in a large number of pharmaceuticals and natural products. However, enanti-oselective methods to access these compounds are scarce, and rely on the use of designed chiral transition-metal complexes. Herein, we have combined an organocatalytic method for the stereospecific isomerization of chiral al..."]
+      },
+      {
+        "title": "Sacrificial W Facilitates Self‐Reconstruction with Abundant Active Sites for Water Oxidation",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Ke Fan", "Haiyuan Zou", "Yunxuan Ding", "Licheng Sun"],
+        "abstract": ["Water oxidation is an important reaction for multiple renewable energy conversion and storage‐related devices and technologies. High‐performance and stable electrocatalysts for the oxygen evolution reaction (OER) are urgently required. Bimetallic (oxy)hydroxides have been widely used in alkaline OER as electrocatalysts, but their activity is still..."]
+      },
+      {
+        "title": "Synthesis, crystal structure, and topology of a polycatenated bismuth coordination polymer",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Erik Svensson Grape", "Niklas Ruser", "Victoria Rooth", "Norbert Stock"],
+        "abstract": ["Solvothermal reaction of Bi(NO 3 ) 3 ·5H 2 O with the flexible ligand 1,3,5-tris[4-(carboxyphenyl)oxamethyl]-2,4,6-trimethylbenzene (H 3 TBTC) in methanol at 120 °C for 1 h led to the formation of a novel coordination polymer (CP) with the composition of Bi(TBTC). The structure of the microcrystalline material was determined through three-dimension..."]
+      },
+      {
+        "title": "Solvent Dependency in Stereoselective δ‐Lactam Formation of Chiral α‐Fluoromalonate Derivatives: Stereodivergent Synthesis of Heterocycles with Fluorine Containing Quaternary Stereocenters Adjacent to Tertiary Stereocenters",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Kaiheng Zhang", "Xiang Sheng", "Luca Deiana", "Armando Cordova"],
+        "abstract": ["The discovery and investigation of solvent dependency in stereoselective intramolecular amidation of chiral 5‐aminofunctionalized‐2‐fluoromalonate ester derivatives, which gives access to highly functionalized δ‐lactams with a quaternary fluorine‐containing stereocenter, is disclosed. Experimental work together with density functional theory calcul..."]
+      },
+      {
+        "title": "Simple Approach to Macrocyclic Carbonates with Fast Polymerization Rates and Their Polymer-to-Monomer Regeneration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Jin Huang", "Peter Olsén", "Erik Svensson Grape", "Karin Odelius"],
+        "abstract": ["Designing polymeric materials for closed-loop material streams is the key to achieving a circular society. Here, a library of macrocyclic carbonates (MCs) was designed by a facile and direct one-pot, two-step synthesis approach without the use of a solvent at a 10 g scale. We demonstrate that anionic polymerization with tert-butoxide enables the ul..."]
+      },
+      {
+        "title": "Heteroepitaxially Grown Two-Dimensional Metal-Organic Framework and Its Derivative for Electrocatalytic Oxygen Reduction Reaction",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Meiling Huo", "Tu Sun", "Yanzhi Wang", "Jing-Shuang Dang"],
+        "abstract": ["Two-dimensional (2D) metal-organic frameworks (MOFs) have become a hot topic recently for their high surface areas, larger number of exposed active sites, and improved conductivity. Combination of different 2D MOFs..."]
+      },
+      {
+        "title": "High Proton Conductivity of a Bismuth Phosphonate Mof with Unusual Topology",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Pablo Salcedo-Abraira", "Catalina Biglione", "Sérgio M. F. Vilela", "Patricia Horcajada"],
+        "abstract": []
+      },
+      {
+        "title": "Structure of the active pharmaceutical ingredient bismuth subsalicylate",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Erik Svensson Grape", "Victoria Rooth", "Mathias Nero", "A. Ken Inge"],
+        "abstract": ["Structure determination of pharmaceutical compounds is invaluable for drug development but is challenging for those that form as small crystals with defects. Bismuth subsalicylate (BSS), among the most commercially significant bismuth compounds, is an active ingredient in over-the-counter medications such as Pepto-Bismol, used to treat dyspepsia an..."]
+      },
+      {
+        "title": "Structure of the active pharmaceutical ingredient bismuth subsalicylate",
+        "tags": ["Preprint"],
+        "date": "Oct 2021",
+        "authors": ["Erik Svensson Grape", "Victoria Rooth", "Mathias Nero", "A. Ken Inge"],
+        "abstract": ["Structure determination of pharmaceutical compounds is invaluable for drug development but is challenging for those that form as small crystals with defects. Bismuth subsalicylate (BSS), among the most commercially significant bismuth compounds, is an active ingredient in over-the-counter medications such as Pepto-Bismol, used to treat dyspepsia an..."]
+      },
+      {
+        "title": "Stable CAAC‐based Ruthenium Complexes for Dynamic Olefin Metathesis Under Mild Conditions",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Alexander Kravchenko", "Brian J J Timmer", "A. Ken Inge", "Olof Ramström"],
+        "abstract": ["A series of olefin metathesis catalysts bearing cyclic (alkyl)(amino)carbene (CAAC) ligands of varying size and steric demand has been synthesized and evaluated in ring‐closing‐, self‐, and cross‐metathesis reactions at room temperature. The catalysts were also probed for potential applications in dynamic covalent chemistry. The majority of the cat..."]
+      },
+      {
+        "title": "Electron diffraction for the promotion of stable and green metal–organic frameworks",
+        "tags": ["Article"],
+        "date": "Aug 2021",
+        "authors": ["Erik Svensson Grape", "Tania Hidalgo Crespo", "Patricia Horcajada", "A. Ken Inge"],
+        "abstract": []
+      },
+      {
+        "title": "Structure of the active pharmaceutical ingredient bismuth subsalicylate",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Erik Svensson Grape", "Victoria Rooth", "Mathias Nero", "A. Ken Inge"],
+        "abstract": ["Structure determination of pharmaceutical compounds is invaluable for drug development but is challenging for materials that form as small crystals with defects. Bismuth subsalicylate (BSS), among the most commercially significant bismuth compounds, is an active ingredient in over-the-counter medications such as Pepto-Bismol (genericized trademark)..."]
+      },
+      {
+        "title": "Structure of the active pharmaceutical ingredient bismuth subsalicylate",
+        "tags": ["Preprint"],
+        "date": "Jul 2021",
+        "authors": ["Erik Svensson Grape", "Victoria Rooth", "Mathias Nero", "A. Ken Inge"],
+        "abstract": ["Structure determination of pharmaceutical compounds is invaluable for drug development but is challenging for materials that form as small crystals with defects. Bismuth subsalicylate (BSS), among the most commercially significant bismuth compounds, is an active ingredient in over-the-counter medications such as Pepto-Bismol (genericized trademark)..."]
+      },
+      {
+        "title": "Toward Sustainable Li-Ion Battery Recycling: Green Metal–Organic Framework as a Molecular Sieve for the Selective Separation of Cobalt and Nickel",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Jędrzej Piątek", "Tetyana Budnyak", "Susanna Monti", "Adam Slabon"],
+        "abstract": ["The growing demand for Li-ion batteries (LIBs) has made their postconsumer recycling an imperative need toward the recovery of valuable metals, such as cobalt and nickel. Nevertheless, their recovery and separation from active cathode materials in LIBs, via an efficient and environmentally friendly process, have remained a challenge. In this work,..."]
+      },
+      {
+        "title": "Isoreticular Chemistry of Group 13 Metal–Organic Framework Compounds Based on V-Shaped Linker Molecules: Exceptions to the Rule?",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Timo Rabe", "Erik Svensson Grape", "Hauke Rohr", "Norbert Stock"],
+        "abstract": []
+      },
+      {
+        "title": "A Tunable Multivariate Metal-Organic Framework as a Platform for Designing Photocatalysts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Yang Wang", "Hao Lv", "Erik Svensson Grape", "Zhehao Huang"],
+        "abstract": ["Catalysts for photochemical reactions underlie many foundations in our lives, from natural light harvesting to modern energy storage and conversion, including processes such as water photolysis by TiO2. Recently, metal-organic frameworks (MOFs) have attracted large interest within the chemical research community, as their structural variety and tun..."]
+      },
+      {
+        "title": "Surface and bulk reconstruction of CoW sulfides during pH-universal electrocatalytic hydrogen evolution",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Ke Fan", "Haiyuan Zou", "Dharanipragada Aditya", "Licheng Sun"],
+        "abstract": ["Electrocatalytic water splitting is an efficient means of producing energy carriers, such as H2. The hydrogen evolution reaction (HER) requires high-efficiency electrocatalysts. Understanding the active site structures of the HER electrocatalysts is essential for the rational design and development of water splitting devices. In this study, porous..."]
+      },
+      {
+        "title": "Metal‐Dependent and Selective Crystallization of CAU‐10 and MIL‐53 Frameworks through Linker Nitration",
+        "tags": ["Cover Page"],
+        "date": "Apr 2021",
+        "authors": ["Timo Rabe", "Erik Svensson Grape", "Tobias A. Engesser", "Norbert Stock"],
+        "abstract": ["Starting from 5‐hydroxyisophthalic acid (not shown), in situ nitration leads to different nitrated linker molecules that selectively react with Ga3+ or Al3+ ions to Ga‐MIL‐53 and Al‐CAU‐10 type frameworks, respectively. The pale blue and orange light path represents the crystallization of the respective MOF. More information can be found in the Ful..."]
+      },
+      {
+        "title": "Metal‐Dependent and Selective Crystallization of CAU‐10 and MIL‐53 Frameworks through Linker Nitration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Timo Rabe", "Erik Svensson Grape", "Tobias A. Engesser", "Norbert Stock"],
+        "abstract": ["The reaction of V‐shaped linker molecule 5‐hydroxyisophthalic acid (H2L0), with Al or Ga nitrate under almost identical reaction conditions leads to the nitration of the linker and subsequent formation of MOFs with CAU‑10 or MIL‐53 type framework of composition [Al(OH)(L)], denoted as Al‐CAU‐10‐L0,2,4,6 or [Ga(OH)(L)], denoted as Ga‐MIL‐53‐L2, resp..."]
+      },
+      {
+        "title": "3D electron diffraction as an important technique for structure elucidation of metal-organic frameworks and covalent organic frameworks",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Zhehao Huang", "Erik Svensson Grape", "Li Jian", "Xiaodong Zou"],
+        "abstract": ["Metal-organic frameworks (MOFs) and covalent organic frameworks (COFs) have emerged as the most widely investigated classes of porous materials during the past two decades. The almost unlimited combination of building units (metal clusters and organic molecules) endows highly tuneable porosities and functionalities that are appealing for a wide sco..."]
+      },
+      {
+        "title": "Exploring the influence of atomic level structure, porosity, and stability of bismuth( iii ) coordination polymers on electrocatalytic CO 2 reduction",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Sara Frank", "Erik Svensson Grape", "Espen Boejesen", "Nina Lock"],
+        "abstract": ["The study maps out the dependence of porosity, bismuth-to-carbon ratio and chemical stability of bismuth-based MOFs on electrocatalytic CO 2 reduction."]
+      },
+      {
+        "title": "SU-101_SI.pdf",
+        "tags": ["Data"],
+        "date": "Nov 2020",
+        "authors": ["Erik Svensson Grape", "José Flores", "Tania Hidalgo", "A. Ken Inge"],
+        "abstract": []
+      },
+      {
+        "title": "Cover Feature: Molecular Functionalization of NiO Nanocatalyst for Enhanced Water Oxidation by Electronic Structure Engineering (ChemSusChem 22/2020)",
+        "tags": ["Article"],
+        "date": "Nov 2020",
+        "authors": ["Lizhou Fan", "Biaobiao Zhang", "Zhen Qiu", "Licheng Sun"],
+        "abstract": ["The Cover Feature shows an efficient NiO‐C6F5 water oxidation catalyst, which was constructed by molecular functionalization at the nanoparticle surface. By rational electronic modulation, a comprehensive understanding on structure–activity was discovered. More information can be found in the Full Paper by L. Fan et al."]
+      },
+      {
+        "title": "Molecular Functionalization of NiO Nanocatalyst for Enhanced Water Oxidation by Electronic Structure Engineering",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Licheng Sun", "Lizhou Fan", "Biaobiao Zhang", "Tomas Edvinsson"],
+        "abstract": ["Tuning the local environment of nanomaterial-based catalysts has emerged as an effective approach to optimize their oxygen evolution reaction (OER) performance, yet the controlled electronic modulation around surface active sites remains a grand challenge. Herein, we achieve directed electronic modulation of NiO nanoparticles by simple surface mole..."]
+      },
+      {
+        "title": "A Robust and Biocompatible Bismuth Ellagate MOF Synthesized Under Green Ambient Conditions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Erik Svensson Grape", "José Flores", "Tania Hidalgo", "A. Ken Inge"],
+        "abstract": ["The first bio-inspired microporous metal-organic framework (MOF) synthesized using ellagic acid, a common natural anti-oxidant and polyphenol building unit, is presented. Bi2O(H2O)2(C14H2O8)·nH2O (SU-101) was inspired by bismuth phenolate metallodrugs, and was synthesized entirely from non-hazardous or edible reagents under ambient aqueous conditio..."]
+      },
+      {
+        "title": "A Tetratopic Phosphonic Acid for the Synthesis of Permanently Porous MOFs: Reactor Size-Dependent Product Formation and Crystal Structure Elucidation via Three-Dimensional Electron Diffraction",
+        "tags": ["Article"],
+        "date": "Sep 2020",
+        "authors": ["Stephan Wöhlbrandt", "Christoph Meier", "Helge Reinsch", "Norbert Stock"],
+        "abstract": ["Following the strategy of installing porosity in coordination polymers predefined by linker geometry, we employed the new tetratopic linker molecule 1,1,2,2-tetrakis[4-phosphonophenyl]ethylene (H8TPPE) for the synthesis of new porous metal phosphonates. A high-throughput study was carried out using Ni2+ and Co2+ as metal ions, and a very strong inf..."]
+      },
+      {
+        "title": "Observation of Three Different Linker Conformers in a Scandium Ferrocenedicarboxylate Coordination Polymer",
+        "tags": ["Article"],
+        "date": "Aug 2020",
+        "authors": ["Jannick Benecke", "Erik Svensson Grape", "Tobias A. Engesser", "Helge Reinsch"],
+        "abstract": ["Electron and powder diffraction were combined to elucidate the structure of the new coordination polymer [Sc2(FcDC)3] based on 1,1’-ferrocenedicarboxylate (FcDC2-), denoted as CAU-50. Remarkably, three different conformers of the very..."]
+      },
+      {
+        "title": "Polymorphous Indium Metal–Organic Frameworks Based on a Ferrocene Linker: Redox Activity, Porosity, and Structural Diversity",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["Jannik Benecke", "Erik Svensson Grape", "Alexander Fuß", "Helge Reinsch"],
+        "abstract": ["The metallocene-based linker molecule 1,1'-ferrocenedicarboxylic acid (H2FcDC) was used to synthesize four different polymorphs of composition [In(OH)(FeC12H8O4)]. Using conventional solvent-based synthesis methods and varying the synthetic parameters such as metal source, reaction temperature, and solvent, two different MOFs and one 1D-coordinatio..."]
+      },
+      {
+        "title": "An Expandable Hydrogen-Bonded Organic Framework Characterized by Three-Dimensional Electron Diffraction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Peng Cui", "Erik Svensson Grape", "Peter R. Spackman", "Andrew I. Cooper"],
+        "abstract": ["A molecular crystal of a 2-D hydrogen-bonded organic framework (HOF) undergoes an unusual structural transformation after solvent removal from the crystal pores during activation. The conformationally flexible host molecule, ABTPA, adapts its molecular conformation during activation to initiate a framework expansion. The microcrystalline activated..."]
+      },
+      {
+        "title": "A Scandium MOF with an Unprecedented Inorganic Building Unit, Delimiting the Micropore Windows",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Pia Rönfeldt", "Erik Svensson Grape", "A. Ken Inge", "Norbert Stock"],
+        "abstract": ["A new scandium metal-organic framework (Sc-MOF) with the composition of [Sc(OH)(OBA)], denoted as Sc-CAU-21, was prepared under solvothermal reaction conditions using 4,4'-oxidibenzoic acid (H2OBA) as the ligand. Single-crystal structure determination revealed the presence of the new inorganic building unit (IBU) {Sc8(μ-OH)8(O2C)16}. It is composed..."]
+      },
+      {
+        "title": "Switching O−O bond formation mechanism between WNA and I2M pathways by modifying the Ru-bda backbone ligands of water-oxidation catalysts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Biaobiao Zhang", "Shaoqi Zhan", "Tianqi Liu", "Licheng Sun"],
+        "abstract": ["Understanding the seven coordination and O−O coupling pathway of the distinguished Ru-bda catalysts is essential for the development of next generation efficient water-oxidation catalysts based on earth-abundant metals. This work reports the synthesis, characterization and catalytic properties of a monomeric ruthenium catalyst Ru-bnda (H2bnda = 2,2..."]
+      },
+      {
+        "title": "New Scandium containing Coordination Polymers with Linear Linker Molecules: Crystal Structures and Luminescence Properties",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Pia Rönfeldt", "Niklas Ruser", "Helge Reinsch", "Norbert Stock"],
+        "abstract": ["Two new scandium containing coordination polymers, with the formula ((CH 3 ) 2 NH 2 )[Sc(BPDC) 2 ] ( 1 ) and [Sc(OH) (BPyDC)] ( 2 ) were solvothermally synthesized by using the linear linker molecules biphenyl‐4,4′‐dicarboxylic acid (H 2 BPDC) and 2,2′‐bipyridine‐5,5′‐dicarboxylic acid (H 2 BPyDC). Crystal structures were determined from single‐cry..."]
+      },
+      {
+        "title": "Metal-Organic Frameworks with Hexakis(4-carboxyphenyl)benzene – Extensions to Reticular Chemistry and Introducing Foldable Nets",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Francoise M. Amombo Noa", "Erik Svensson Grape", "Steffen Marc Bruells", "Lars Öhrström"],
+        "abstract": ["Nine metal-organic frameworks have been prepared with the hexagon-shaped linker 1′,2′,3′,4′,5′,6′-hexakis(4-carboxyphenyl)benzene (H6cpb) by solvothermal reactions in dimethylformamide (dmf) or dimethylacetamide (dmac) with acetic acid or formic acid as modulators: [Bi2(cpb)(acetato)2(dmf)2]∙2dmf CTH-6 forms a rtl-net; 2(H2NMe2)[Cu2(cpb)] CTH-7 for..."]
+      },
+      {
+        "title": "Water-based Synthesis and Properties of a Scandium 1,4-Naphthalenedicarboxylate",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Pia Rönfeldt", "Helge Reinsch", "Erik Svensson Grape", "Norbert Stock"],
+        "abstract": ["A new scandium naphthalenedicarboxylate with the framework composition [Sc2(1,4‐NDC)3] (H2‐1,4‐NDC = 1,4‐naphthalenedicarboxylic acid) was obtained under hydrothermal synthesis conditions. A structure model could be developed by a combination of 3D electron diffraction measurements and computationally assisted structure determination, which was fur..."]
+      },
+      {
+        "title": "Promoting the Fe(VI) active species generation by structural and electronic modulation of efficient iron oxide based water oxidation catalyst without Ni or Co",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Lizhou Fan", "Biaobiao Zhang", "Brian J J Timmer", "Licheng Sun"],
+        "abstract": ["Fe is considered as a promising alternative for OER catalysts owing to its high natural abundance and low cost. Due to the low conductivity and sluggish catalytic kinetics, the catalytic efficiency of Fe-rich catalysts is far from less abundant Ni, Co-rich alternatives and has been hardly improved without the involvement of Ni or Co. The lower acti..."]
+      },
+      {
+        "title": "Silver Triggering Activity of Heterogeneous Palladium Catalyst in Oxidative Carbonylation Reactions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Jan-E Bäckvall", "Man-Bo Li", "Ying Yang", "Armando Cordova"],
+        "abstract": ["A silver-triggered heterogeneous Pd-catalyzed oxi-dative carbonylation has been developed. This hetero-ge-neous pro-cess exhibited high efficiency, good recyclability, and was utilized for a one-pot construction of polycyclic compounds with multi-chiral cen--ters. AgOTf was used to remove chloride ions in the hetero-ge-neous catalyst Pd-AmP-CNC, ge..."]
+      },
+      {
+        "title": "Silver Triggering Activity of Heterogeneous Palladium Catalyst in Oxidative Carbonylation Reactions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Jan-E Bäckvall", "Man-Bo Li", "Ying Yang", "Armando Cordova"],
+        "abstract": ["Silberpfeil: Eine durch Silber ausgelöste, heterogene, Pd‐katalysierte oxidative Carbonylierung von Allenamiden ermöglicht den Aufbau von Pyrrolidonen und polycyclischen Verbindungen mit mehreren Stereozentren. Der Katalysator (Pd‐AmP‐CNC) kann mindestens 9‐mal ohne Aktivitätsverlust verwendet werden. Das Ag‐Salz entfernt Cl von Pd‐AmP‐CNC und erze..."]
+      },
+      {
+        "title": "Hexahydroxytriphenylene for the Synthesis of Group 13 MOFs – a New Inorganic Building Unit in a β-cristobalite Type Structure",
+        "tags": ["Article"],
+        "date": "Feb 2020",
+        "authors": ["Sebastian Leubner", "Viktor E. G. Bengtsson", "A. Ken Inge", "Norbert Stock"],
+        "abstract": ["Two new, microporous MOFs of framework composition ((CH 3 ) 2 NH 2 ) 2 [M 3 O(HHTP)(HHTP•)], M = Al ³⁺ , Ga ³⁺ , H 6 HHTP = 2,3,6,7,10,11-hexahydroxytriphenylene, are described. Electron diffraction combined with molecular simulations show that these compounds crystallize in the..."]
+      },
+      {
+        "title": "Permanent porosity and role of sulfonate groups in coordination networks constructed from a new polyfunctional phosphonato-sulfonate linker molecule",
+        "tags": ["Article"],
+        "date": "Feb 2020",
+        "authors": ["Stephan Wöhlbrandt", "Angela Igeska", "Erik Svensson Grape", "Norbert Stock"],
+        "abstract": ["The new linker molecule (H2O3PCH2)2N-CH2C6H4SO3H, (4-{[bis(phosphonomethyl)amino]methyl}benzene-sulfonic acid, H5L), bearing both phosphonic and sulfonic acid groups, was employed for the synthesis of new coordination polymers (CPs). Four new CPs of composition [Mg(H3L)(H2O)2]∙H2O (1), [Mg2(HL)(H2O)6]∙2H2O (2), [Ba(H3L)(H2O)]∙H2O (3) and [Pb2(HL)]∙..."]
+      },
+      {
+        "title": "Amorphous WO 3 Induced Lattice Distortion for a Low-Cost and Highly-Efficient Electrocatalyst for Overall Water Splitting in Acid",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Ke Fan", "min he", "Dharanipragada Aditya", "Jiaguo Yu"],
+        "abstract": ["The development of highly active and durable catalysts for water oxidation under acidic conditions, is necessary but challenging for renewable energy conversion. Ir-based catalysts are highly efficient for water oxidation in acid, but their application in large scale is hindered by the high cost and scarcity of iridium. Herein, we use an amorphous..."]
+      },
+      {
+        "title": "Highly Diastereoselective Palladium-Catalyzed Oxidative Cascade Carbonylative Carbocyclization of Enallenols",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Daniels Posevins", "Man-Bo Li", "Erik Svensson Grape", "Jan-E Bäckvall"],
+        "abstract": ["A palladium-catalyzed oxidative cascade carbonylative carbocyclization of enallenols was developed. Under mild reaction conditions, a range of cis-fused [5,5] bicyclic γ-lactones and γ-lactams with a 1,3-diene motif were obtained in good yields with high diastereoselectivity. The obtained lactone/lactam products are viable substrates for a stereose..."]
+      },
+      {
+        "title": "A Breathing Metal-Organic Framework Based on Flexible Inorganic Building Units",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Erik Svensson Grape", "Hongyi (Justin) Xu", "Ocean Cheung", "A. Ken Inge"],
+        "abstract": ["Five novel bismuth carboxylate coordination polymers were synthesized from biphenyl-3,4´,5-tricarboxylic acid (H3BPT) and [1,1´:4´,1´´]terphenyl-3,3´´,5,5´´-tetracarboxylic acid (H4TPTC). One of the phases, [Bi(BPT)]·2MeOH (denoted SU-100, as synthesized), is the first example, to the best of our knowledge, of a reversibly flexible bismuth-based me..."]
+      },
+      {
+        "title": "Breathing metal–organic frameworks based on flexible inorganic building units",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Erik Svensson Grape", "Victoria Rooth", "Hongyi (Justin) Xu", "A. Ken Inge"],
+        "abstract": []
+      },
+      {
+        "title": "Cover Feature: Catalytic Enantioselective Synthesis of Bicyclic Lactam N , S -Acetals in One Pot by Cascade Transformations (Eur. J. Org. Chem. /2019)",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Kaiheng Zhang", "Luca Deiana", "Erik Svensson Grape", "Armando Cordova"],
+        "abstract": ["The Cover Feature shows a versatile strategy for the enantioselective synthesis of bicyclic lactam N,S‐acetals by one‐pot cascade transformations. The transformations between readily available substrates is promoted by chiral amines and creates bicyclic or tricyclic lactam N,S‐acetals with high chemo‐ and stereoselectivity (up to >99.5:0.5 d.r. and..."]
+      },
+      {
+        "title": "Catalytic Enantioselective Synthesis of Bicyclic Lactam N,S-Acetals in One Pot by Cascade Transformations",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Kaiheng Zhang", "Luca Deiana", "Erik Svensson Grape", "Armando Cordova"],
+        "abstract": ["A versatile strategy for the enantioselective synthesis of bicyclic lactam N,S‐acetals by one‐pot cascade transformations is disclosed. The transformation of readily available substrates is promoted by chiral amines and creates bicyclic or tricyclic lactam N,S‐acetals with high chemo‐ and stereoselectivity (up to > 99.5:0.5 dr and > 99 % ee) in one..."]
+      },
+      {
+        "title": "A metal–organic framework for efficient water-based ultra-low-temperature-driven cooling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Dirk Lenzen", "Jingjing Zhao", "Sebastian-Johannes Ernst", "Norbert Stock"],
+        "abstract": ["Efficient use of energy for cooling applications is a very important and challenging field in science. Ultra-low temperature actuated (Tdriving < 80 °C) adsorption-driven chillers (ADCs) with water as the cooling agent are one environmentally benign option. The nanoscale metal-organic framework [Al(OH)(C6H2O4S)] denoted CAU-23 was discovered that p..."]
+      },
+      {
+        "title": "Five New Coordination Polymers with a Bifunctional Phosphonate‐Sulfonate Linker Molecule",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["Stephan Wöhlbrandt", "Ole Beyer", "Helge Reinsch", "Norbert Stock"],
+        "abstract": ["The bifunctional linker molecule [5‐(phosphonomethyl)‐2,4‐bis(sulfonomethyl)phenyl]methanesulfonic acid (HO3S‐CH2)3‐C6H2‐CH2PO3H2 (abbreviated as H5L4) was employed in systematic high‐throughput investigations in order to discover new coordination polymers (CPs). Employing 27 metal salts of 17 different metals in this investigation, five new compou..."]
+      },
+      {
+        "title": "Metal-Organic Frameworks as Catalysts for Organic Synthesis: A Critical Perspective",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Vlad Pascanu", "Greco González Miera", "A. Ken Inge", "Belen Martin-Matute"],
+        "abstract": ["Recent advances in organic chemistry and materials chemistry have enabled the porosity of new materials to be accurately controlled on the nanometer scale. In this context, metal-organic frameworks (MOFs) have rapidly become one of the most attractive classes of solid supports currently under investigation in heterogeneous catalysis. Their unpreced..."]
+      },
+      {
+        "title": "In situ XAS study of the local structure and oxidation state evolutions of palladium in a reduced graphene oxide supported Pd(II) carbene complex during an undirected C−H acetoxylation reaction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Ning Yuan", "Maitham Majeed", "Eva Bajnoczi", "Ingmar Persson"],
+        "abstract": ["In situ X-ray absorption spectroscopy (XAS) investigations have been performed to provide insights into the reaction mechanism of a palladium(II) catalyzed undirected C–H acetoxylation reaction in the presence of an oxidant. A Pd(II) N-heterocyclic carbene complex -stacked onto reduced graphene oxide (rGO) was used as catalyst. The Pd speciation d..."]
+      },
+      {
+        "title": "Chemodivergent and Diastereoselective Synthesis of γ-Lactones and γ-Lactams: A Heterogeneous Palladium-Catalyzed Oxidative Tandem Process",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Man-Bo Li", "A. Ken Inge", "Daniels Posevins", "Jan-E Bäckvall"],
+        "abstract": ["A palladium-catalyzed oxidative tandem process of enallenols was accomplished within a homogeneous/heterogeneous catalysis manifold, setting the stage for highly chemodivergent and diastereoselective synthesis of γ-lactones and γ-lactams under mild conditions. Synthesis of optically pure cyclopentenone-fused γ-lactones bearing two chiral centers wa..."]
+      },
+      {
+        "title": "Multistimuli-Responsive Enaminitrile Molecular Switches Displaying H+-Induced Aggregate Emission, Metal Ion-Induced Turn-On Fluorescence, and Organogelation Properties",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Yansong Ren", "Sheng Xie", "Erik Svensson Grape", "Olof Ramstrom"],
+        "abstract": ["Multistimuli-responsive enaminitrile-based configurational switches displaying aggregation-induced emission (AIE), fluorescence turn-on effects, and super-gelation properties are presented. The E-isomers dominated (> 97%) in neutral/basic solution, and the structures underwent precisely controlled switching around the enamine C=C bond upon addition..."]
+      },
+      {
+        "title": "A Porous Cobalt Tetraphosphonate Metal-Organic Framework: Accurate Structure and Guest Molecule Location Determined by Continuous-Rotation Electron Diffraction",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Bin Wang", "Timo Rhauderwiek", "A. Ken Inge", "Xiaodong Zou"],
+        "abstract": ["Single crystal electron diffraction has shown to be powerful for structure determination of nano‐ and submicron‐sized crystals that are too small to be studied by single crystal X‐ray diffraction. However, it has been very challenging to obtain high quality electron diffraction data from beam sensitive crystals such as metal‐organic frameworks (MOF..."]
+      },
+      {
+        "title": "Lignin Based Molecular Materials – a Zinc Vanillate with a Hydrogen Bonded 4‐ and 8‐connected Net with a New Topology",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Jurjen Spekreijse", "A. Ken Inge", "Lars Öhrström"],
+        "abstract": ["Vanillic acid, C8H8O4, is a possible product from a future biorefinery with lignin as raw material. Two coordination compounds with this ligand in two different protonation states were prepared: 1 [Zn(C8H7O4)2(H2O)2] and 2 [Co2(C8H6O4)2(H2O)6] ⋅ 2H2O. Both compounds form extended 3D structures with strong hydrogen bonds. A high symmetry 8‐ and 4‐co..."]
+      },
+      {
+        "title": "A novel bismuth-containing metal–organic framework: the first example of a flexible bismuth MOF",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Erik Svensson Grape", "Hongyi (Justin) Xu", "Ocean Cheung", "A. Ken Inge"],
+        "abstract": []
+      },
+      {
+        "title": "Solvomorphism in the active pharmaceutical ingredient bismuth subgallate: microporous 1D, 2D and 3D coordination polymers",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["A. Ken Inge", "Victoria Rooth", "Erik Svensson Grape", "Tom Willhammar"],
+        "abstract": []
+      },
+      {
+        "title": "Design and synthesis of dopant-free organic hole-transport materials for perovskite solar cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Licheng Sun", "Linqin Wang", "Cheng yi Bing", "Lars Kloo"],
+        "abstract": ["Two novel dopant-free hole-transport materials (HTMs) with spiro[dibenzo[c,h]xanthene-7,9'-fluorene] (SDBXF) skeletons were prepared via facile synthesis routes. A power conversion efficiency of 15.9% in perovskite solar cells is attained by using one HTM without dopants, which is much higher than nondoped Spiro-OMeTAD-based devices (10.8%). The cr..."]
+      },
+      {
+        "title": "Probing the Evolution of Palladium Species in Pd@MOF Catalysts during the Heck Coupling Reaction: An Operando X-ray Absorption Spectroscopy Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Ning Yuan", "Vlad Pascanu", "Zhehao Huang", "Xiaodong Zou"],
+        "abstract": ["The mechanism of the Heck C–C coupling reaction catalyzed by Pd@MOFs has been investigated using operando X-ray absorption spectroscopy (XAS) and powder X-ray diffraction (PXRD) combined with transmission electron microscopy (TEM) analysis and nuclear magnetic resonance (¹H NMR) kinetic studies. A custom-made reaction cell was used allowing operand..."]
+      },
+      {
+        "title": "Synthesis, Transformation, Catalysis, and Gas Sorption Investigations on the Bismuth Metal–Organic Framework CAU-17",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Milan Köppen", "Amarajothi Dhakshinamoorthy", "A. Ken Inge", "Norbert Stock"],
+        "abstract": ["Very few microporous bismuth metal‐organic frameworks have been discovered to date, and of these no detailed experimental characterization of the synthesis and properties have been reported until now for the only one which can be prepared from inexpensive starting materials: CAU‐17 [Bi(BTC)(H2O)], with H3BTC = trimesic acid. In situ X‐ray powder di..."]
+      },
+      {
+        "title": "Solvent dependent formation of three new Bi-MOFs using a tetracarboxylic acid",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Milan Köppen", "Vanessa Meyer", "Jonas Ångström", "Norbert Stock"],
+        "abstract": ["Systematic solvent screening using high-throughput solvothermal syntheses with bismuth nitrate pentahydrate and 1,2,4,5-tertrakis-(4-carboxyphenyl)benzene (H4TCPB) led to three new porous Bi-MOFs [Bi2(H2TCPB)(TCPB)(H2O)2]·xH2O (CAU-31), (NH2(CH3)2)[Bi(TCPB)(H2O)]·xH2O (CAU-32) and [Bi4(O)2(OH)2(H2TCPB) (TCPB)(H2O)2]·xH2O (CAU-33). Compounds CAU-31,..."]
+      },
+      {
+        "title": "Bismuth coordination polymers: from centuries-old medicines to unprecedented topological complexity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["A. Ken Inge", "Yunchen Wang", "Sofia Takki", "Norbert Stock"],
+        "abstract": []
+      },
+      {
+        "title": "Versatile Heterogeneous Palladium Catalysts for Diverse Carbonylation Reactions under Atmospheric CO Pressure",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Marta Vico Solano", "Greco González Miera", "Vlad Pascanu", "Belén Martín-Matute"],
+        "abstract": ["Herein, we report a versatile carbonylation protocol using heterogeneous Pd(0) nanoparticles supported on the metal-organic frameworks (MOFs) MIL-88B-NH2 (Fe / Cr). The synthesis of a vast array of carbonyls, including amides, esters, carboxylic acids, as well as α-ketoamides, was achieved through mono- and dicarbonylation reactions. The selectivit..."]
+      },
+      {
+        "title": "A multi-purpose reaction cell for the investigation of reactions under solvothermal conditions",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["N. Heidenreich", "U. Rütt", "M. Köppen", "Norbert Stock"],
+        "abstract": ["A new versatile and easy-to-use remote-controlled reactor setup aimed at the analysis of chemical reactions under solvothermal conditions has been constructed. The reactor includes a heating system that can precisely control the temperature inside the reaction vessels in a range between ambient temperature and 180 °C. As reaction vessels, two sizes..."]
+      },
+      {
+        "title": "SI: A Water Based Synthesis of Ultrathin Hydrated Vanadium Pentoxide Nanosheets for Lithium Battery Application: Free Standing Electrodes or Conventionally Casted Electrodes?",
+        "tags": ["Data"],
+        "date": "Sep 2017",
+        "authors": ["Ahmed S. Etman", "A. Ken Inge", "Xu Jiaru", "Junliang Sun"],
+        "abstract": []
+      },
+      {
+        "title": "A Water Based Synthesis of Ultrathin Hydrated Vanadium Pentoxide Nanosheets for Lithium Battery Application: Free Standing Electrodes or Conventionally Casted Electrodes?",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Ahmed S. Etman", "A. Ken Inge", "Xu Jiaru", "Junliang Sun"],
+        "abstract": ["Ultrathin hydrated vanadium pentoxide (V2O5·nH2O) nanosheets are fabricated via a water based exfoliation technique. The exfoliation process involves reflux of the precursor, 1:4 mixture of VO2 and V2O5, in water at 80 °C for 24 h. Operando and ex situ X-ray diffraction (XRD) studies are conducted to follow the structural changes during the exfolia..."]
+      },
+      {
+        "title": "Investigation of the Effect of Polar Functional Groups on the Crystal Structures of Indium MOFs",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Martin Krüger", "Martin Albat", "A. Ken Inge", "Norbert Stock"],
+        "abstract": ["Three new In-MOFs with -NH2 and/or -NO2 functionality are reported using 2-amino- (H2BDC-NH2), 2-nitro- (H2BDC-NO2) and 2-amino-5-nitroterephthalic acid (H2BDC-NH2/NO2). Their structures were determined from single crystal X-ray diffraction data. The structure of the first In-MOF of composition [In(BDC-NH3)(BDC-NH2)]∙1.6DMF∙1.9H2O (In-BDC-NH2; DMF..."]
+      },
+      {
+        "title": "Design and Synthesis of Theranostic Antibiotic Nanodrugs that Display Enhanced Antibacterial Activity and Luminescence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Sheng Xie", "Sesha Sarathchandra Manuguri", "Giampiero Proietti", "Mingdi Yan"],
+        "abstract": ["Significance\nThe work described represents a strategy in the design and development of theranostic pure nanodrugs for combating drug-resistant bacteria. The significance of this work includes: ( i ) a modular synthetic strategy for the preparation of ciprofloxacin derivatives in high yields in one step at room temperature without any catalysts; ( i..."]
+      },
+      {
+        "title": "Elucidation of the Elusive Structure and Formula of the Active Pharmaceutical Ingredient Bismuth Subgallate by Continuous Rotation Electron Diffraction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Yunchen Wang", "Sofia Takki", "Ocean Cheung", "A. Ken Inge"],
+        "abstract": ["Bismuth subgallate has been used in wound and gastrointestinal therapy for over a century. The combination of continuous rotation electron diffraction and sample cooling finally revealed its structure as a coordination polymer. The structure provides insight regarding its formula, poor solubility, acid resistance and previously unreported gas sorpt..."]
+      },
+      {
+        "title": "Polymorphous Al-MOFs Based on V-Shaped Linker Molecules: Synthesis, Properties, and in Situ Investigation of Their Crystallization",
+        "tags": ["Article"],
+        "date": "Apr 2017",
+        "authors": ["Martin Krüger", "A. Ken Inge", "Helge Reinsch", "Norbert Stock"],
+        "abstract": ["The in situ and systematic high-throughput investigation of the system Al(3+)/4,4'-benzophenonedicarboxylic acid (H2BPDC)/DMF/H2O in the presence of various additives was carried out, and a new Al-MOF of composition [Al(OH)(BPDC)], denoted as CAU-21-BPDC, was obtained. Its crystal structure was determined from single-crystal X-ray diffraction data..."]
+      },
+      {
+        "title": "Effect of partial linker fluorination and linker extension on structure and properties of the Al-MOF CAU-10",
+        "tags": ["Article"],
+        "date": "Apr 2017",
+        "authors": ["Martin Krüger", "Helge Reinsch", "A. Ken Inge", "Norbert Stock"],
+        "abstract": ["The systematic investigation of the solvothermal system Al³⁺/5-fluoroisophthalic acid (H2mBDC-5F)/isophthalic acid (H2mBDC)/DMF/H2O through a mixed-linker approach led to new mixed-linker CAU-10 derivatives containing 11, 28 and 44% of fluorinated linker molecules (denoted as CAU-10-H/F11, CAU-10-H/F28 and CAU-10-H/F44, respectively), as determined..."]
+      },
+      {
+        "title": "Synthesis and crystal structure of three new bismuth(III) arylsulfonatocarboxylates",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Martin Albat", "A. Ken Inge", "Norbert Stock"],
+        "abstract": ["Three new bismuth arylsulfonatocarboxylates [Bi(OH)(SB)] (1), [Bi4(ST)2(HST)O2(H2O)2]·H2O (2) and [Bi4(ST)2O3(H2O)2] (3) were synthesized under solvothermal reaction conditions at 180°C using the potassium or sodium salt of 4-sulfobenzoic acid (H2SB) and 2-sulfoterephthalic acid (H3ST), respectively. The compounds were characterized in detail and t..."]
+      },
+      {
+        "title": "A Germanate with a Collapsible Open-Framework",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["A. Ken Inge", "Kirsten Elvira Christensen", "Tom Willhammar", "Xiaodong Zou"],
+        "abstract": ["A novel open-framework germanate, SU-65 (SU = Stockholm University), with 24-ring channels and a very low framework density of 8.9 Ge atoms per 1000 Å³ was synthesized under hydro-solvothermal conditions. The framework of SU-65 is built of 5-connected Ge7 clusters decorating the fee net and is a framework orientation isomer to ASU-16. Half of the 8..."]
+      },
+      {
+        "title": "Dihydroxybenzoquinone as Linker for the Synthesis of Permanently Porous Aluminum Metal-Organic Frameworks",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Selda Halis", "A. Ken Inge", "Niklas Dehning", "Norbert Stock"],
+        "abstract": ["Two new dihydroxybenzoquinone-based metal-organic frameworks, ((CH3)2NH2)3[Al4(L1)3(L1(•))3]·3DMF (1, denoted CAU-20) and ((CH3)2NH2)3[Al4(L2)3(L2(•))3]·9DMF (2, denoted CAU-20-Cl2), were synthesized at 120 °C in DMF using 2,5-dihydroxy-p-benzoquinone ((C6H2(OH)2(O)2), H2L1) and 2,5-dichloro-3,6-dihydroxy-p-benzoquinone ((C6Cl2(OH)2(O)2), H2L2), re..."]
+      },
+      {
+        "title": "Unprecedented Topological Complexity in a Metal-Organic Framework Constructed from Simple Building Units",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["A. Ken Inge", "Milan Köppen", "Jie Su", "Norbert Stock"],
+        "abstract": ["A bismuth-based metal-organic framework (MOF), [Bi(BTC)(H2O)]·2H2O·MeOH denoted CAU-17, was synthesized and found to have an exceptionally complicated structure with helical Bi-O rods cross-linked by 1,3,5-benzenetricarboxylate (BTC3-) ligands. Five crystallographically independent 1D channels including two hexagonal channels, two rectangular chann..."]
+      },
+      {
+        "title": "New Al-MOFs Based on Sulfonyldibenzoate Ions - A Rare Example of Intralayer Porosity SuppInfo",
+        "tags": ["Data", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Nele Reimer", "Helge Reinsch", "A. Ken Inge", "Norbert Stock"],
+        "abstract": []
+      },
+      {
+        "title": "New Al-MOFs Based on Sulfonyldibenzoate Ions: A Rare Example of Intralayer Porosity",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Nele Reimer", "Helge Reinsch", "A. Ken Inge", "Norbert Stock"],
+        "abstract": ["A new sulfone-functionalized metal-organic framework [Al(OH)(SDBA)]·0.25DMF, denoted CAU-11, was synthesized using a V-shaped linker molecule 4,4'-sulfonyldibenzoic acid (H2SDBA). The crystal structure was solved from synchrotron X-ray powder diffraction data. Chains of trans corner-sharing AlO6 octahedra are interconnected by the carboxylate group..."]
+      },
+      {
+        "title": "SU-77: An Open-Framework Germanate Containing 12 × 10 × 10-Ring Channels Solved by Combining Rotation Electron Diffraction and Powder X-ray Diffraction",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Liang Fang", "Leifeng Liu", "Yifeng Yun", "Feifei Gao"],
+        "abstract": ["A novel open-framework germanate, denoted as SU-77, was prepared by hydrothermal synthesis using ethylenediamine as the structure directing agent. The as-synthesized SU-77 is monoclinic with space group P2(1)/a and a = 13.52427(5) angstrom, b = 12.64862(5) angstrom, c = 9.60578(3) angstrom, beta = 92.8599(4)degrees. The structure of SU-77 is built..."]
+      },
+      {
+        "title": "Synthesis and Structure determination of a new interrupted zeolite PKU-14",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Jie Liang", "Jie Su", "Ying Wang", "Jun Sun"],
+        "abstract": ["Zeolites have been extensively studied over many years due to their widely applications in catalysis, ion exchange, adsorption, and separation.[1] Knowing the structure of zeolite is important for understanding their properties and predicting possible applications of such materials. Structure determination of zeolites has remains challenging, as su..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "Our research focused on developing novel stable Metal-Organic Frameworks (MOFs) primarily with green starting materials and synthesis conditions. We try to use nontoxic metal cations combined with organic molecules derived from naturally occurring polyphenols. We utilize 3D electron diffraction, single crystal X-ray diffraction, and powder diffraction for structure determination.",
+    "publications": [118],
+    "reads": [13267],
+    "citations": [2862]
   }
 }

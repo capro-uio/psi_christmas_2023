@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Kristina Kymre",
-    "id": "1340750",
+    "name": ["Kristina Kymre"],
+    "id": ["1340750"],
     "keywords": [],
     "position": ["Adviser", "Adviser"],
     "img": {},
@@ -15,5 +15,33 @@
         "url": "https://api.cristin.no/v2/results/2079695"
       }
     ]
+  },
+  "rg": {
+    "id": "Nerry-Kristina",
+    "name": "Nerry Kristina",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281183287013-1692801151096_Q128/Nerry-Kristina.jpg",
+    "affiliation": "",
+    "keywords": ["Structural Equation Modeling", "PLS", "Quantitative Methods", "Statistical Analysis", "Quantitative Data Analysis", "Multivariate Data Analysis", "Data Analysis", "Linear Regression", "Multiple Linear Regression", "Marketing"],
+    "works": [
+      {
+        "title": "The Technology Acceptance Model of Mobile Payment Usage on Generation Z",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Nerry Kristina", "Ibnu Harris"],
+        "abstract": "The research aimed to support Technology Acceptance Model (TAM) theories such as Perceived Ease of Use (PEOU), Security (SECU), Brand Loyalty (BL), Behavioural Intention (BI), and the marketing models, Electronic Word of Mouth (EWOM), on the use of mobile payments of the Generation Z. The researchers used the quantitative method. Using a non-probab..."
+      },
+      {
+        "title": "ENTREPRENEURIAL FACTORS AND WORK ENVIRONMENT FACTORS FOR MILLENNIAL WOMEN'S PERFORMANCE",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Nerry Kristina", "Venny Venny", "Veny Vironika"],
+        "abstract": "In this modern era, women are starting to be involved in the millennial generation process today. The purpose of this study is to find out which are the most important given entrepreneurial factors which include innovation; motivation and work environment factors that include convenience and working conditions of women of the millennial generation...."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [2],
+    "reads": [50],
+    "citations": [8]
   }
 }

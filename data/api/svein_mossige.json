@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-5213-7776",
-    "name": "Svein Mossige",
+    "orcid": ["0000-0002-5213-7776"],
+    "name": ["Svein Mossige"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Svein Mossige",
-    "id": "307957",
+    "name": ["Svein Mossige"],
+    "id": ["307957"],
     "keywords": ["Child care", "Failure of care", "Resilience", "Domestic violence", "Child sexual abuse", "Suicidology and selfharm"],
     "position": ["Emeritus", "Researcher"],
     "img": {},
@@ -590,5 +590,361 @@
         "url": "https://api.cristin.no/v2/results/1564215"
       }
     ]
+  },
+  "rg": {
+    "id": "Svein-Mossige",
+    "name": "Svein Mossige",
+    "img": "https://i1.rgstatic.net/ii/profile.image/273663459065857-1442257861284_Q128/Svein-Mossige.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cognitive Psychology", "Qualitative Analysis", "Interviewing", "Thematic Analysis", "Narrative Analysis", "Psychopathology", "Child Development", "Adolescent Development", "Sociology", "Qualitative Inquiry"],
+    "works": [
+      {
+        "title": "“Treat me like a fellow human”: how young adults who blog about self-harm describe positive encounters with health care workers",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Astrid Dåstøl", "Line Indrevoll Stänicke", "Svein Mossige"],
+        "abstract": ["Self-harm is a major problem among young adults, and many do not seek help from health care services. Little is known about how patients who harm themselves experience positive encounters with health care workers. Blogs are a way of communicating personal experiences to a broader public and may provide an immediate expression of such experiences. W..."]
+      },
+      {
+        "title": "Psychosocial Functioning in Siblings of Children With Rare Disorders Compared to Controls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Svein Mossige", "Krister W Fjermestad"],
+        "abstract": ["Siblings of children with chronic disorders are at increased risk of psychosocial problems. The risk may be exacerbated when the chronic disorder is rare and limited medical knowledge is available, due to more uncertainty and feelings of isolation. We examined mental health, parent-child communication, child-parent relationship quality, and social..."]
+      },
+      {
+        "title": "Parent-child communication about emotions during SIBS: a joint intervention for siblings and parents of children with chronic disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Yngvild Bjartveit Haukeland", "Krister Westlye Fjermestad", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Quality of parent-child communication is associated with adjustment in siblings of children with chronic disorders. SIBS is an intervention aiming to increase parental listening, exploring, and validating behaviors while talking with siblings about their experiences. We examined parent-sibling communication during SIBS by describing: 1) Sibling-sel..."]
+      },
+      {
+        "title": "Siblings' Experience of Violence from Their Brother or Sister with a Neurodevelopmental Disorder",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Stian Orm", "Andrine Krogh Parken", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne"],
+        "abstract": ["Objectives: Neurodevelopmental disorders (NDD) are often characterized by impairments in social, emotional and moral understanding. Furthermore, children with NDD have problems with regulating intense emotions, which they experience more often than typically developing children. The result can be challenging behavior, including violence targeted at..."]
+      },
+      {
+        "title": "Evaluation of “SIBS”, An Intervention for Siblings and Parents of Children with Chronic Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Yngvild Bjartveit Haukeland", "Nikolai Olavi Czajkowski", "Krister Westlye Fjermestad", "Torun Marie Vatne"],
+        "abstract": ["Siblings of children with chronic disorders are at increased risk of experiencing family communication problems and poorer mental health. We assessed initial feasibility, acceptability, and outcomes of SIBS; a manual-based group intervention for siblings and parents of children with chronic disorders, aiming to improve parent-sibling communication..."]
+      },
+      {
+        "title": "Cyberbullying involvement and mental health problems among late adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Sara Skilbred Fjeld", "Silje E Reme", "Svein Mossige"],
+        "abstract": ["Exposure to cyberbullying is associated with psychological distress like depressive symptoms, self-injurious behavior and suicidal thoughts. Cyberbullying is thus a major challenge for public health. This study examines the prevalence of cyberbullying and explores the psychological characteristics of adolescents who have experienced cyberbullying...."]
+      },
+      {
+        "title": "Children’s Perspectives on the Experiences of Their Siblings with Chronic Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Krister W Fjermestad", "Yngvild Bjartveit Haukeland", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Knowledge about the experiences of children with chronic disorders (CCD) is often based on parent-report. Obtaining self-report from CCD may be challenging due to cognitive impairments associated with many disorders. We explored siblings’ perspectives on the experiences of their brothers and sisters with CCD, which represent a unique intrageneratio..."]
+      },
+      {
+        "title": "Vold i nære relasjoner: Forståelser, konsekvenser og tiltak",
+        "tags": ["Book", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Kristin Skjørten", "Elisiv Bakketeig", "Margunn Bjørnholt", "Svein Mossige"],
+        "abstract": ["Vold i nære relasjoner er i dag anerkjent som et alvorlig samfunnsproblem, 40 år etter at kvinnemishandling ble satt på dagsordenen. I årene som har gått, har det skjedd mye, både når det gjelder hvordan vi forstår volden, og når det gjelder hvordan vi forstår samfunnets håndtering av volden. Derfor er bokens røde tråd at vold i nære relasjoner må..."]
+      },
+      {
+        "title": "Vold i nære relasjoner – et felt i bevegelse",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Kristin Skjørten", "Elisiv Bakketeig", "Margunn Bjørnholt", "Svein Mossige"],
+        "abstract": ["This introductory chapter presents the developments in the changing field of violence in close relationships, a leitmotif in the book. Over time, we have gained a more pluralistic understanding of the violence. It has also been an increase in aid measures, as well as a movement from voluntary work towards public running of services. Moreover, there..."]
+      },
+      {
+        "title": "Kapittel 6. Ungdoms utsatthet for flere typer alvorlige hendelser: Forståelser, konsekvenser og tiltak",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Svein Mossige", "Lihong Huang"],
+        "abstract": []
+      },
+      {
+        "title": "Kapittel 4. Ungdommers fortelling om egen selvskading: Forståelser, konsekvenser og tiltak",
+        "tags": ["Chapter"],
+        "date": "Aug 2019",
+        "authors": ["Malin Pedersen Kvaale", "Svein Mossige"],
+        "abstract": []
+      },
+      {
+        "title": "The development of a joint parent-child intervention for siblings of children with chronic disorders",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Svein Mossige", "Krister W Fjermestad"],
+        "abstract": []
+      },
+      {
+        "title": "Resilience and Poly-Victimization among Two Cohorts of Norwegian Youth",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Lihong Huang", "Svein Mossige"],
+        "abstract": ["Previous research shows that there is a significant and positive relationship between being a victim of violence and experiencing high levels of psychological problems among young people. Conversely, resilience is negatively associated with psychological problems among young people in general, and this negative association is particularly strong am..."]
+      },
+      {
+        "title": "Kontakt på sosiale medier mellom foreldre og barn under offentlig omsorg",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Hilde A. Aamodt", "Svein Mossige"],
+        "abstract": []
+      },
+      {
+        "title": "Poly-victimization in a Norwegian adolescent population: Prevalence, social and psychological profile, and detrimental effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Svein Mossige", "Lihong Huang"],
+        "abstract": ["Background\nThis study focuses on poly-victimization, with the aim of providing a realistic estimation of the prevalence of lifetime victimization in a Norwegian adolescent population (ages 18–19 years).\n\nMethods\nBased upon the concept from previous research, we applied measures of child poly-victimization on Norwegian data obtained from a national..."]
+      },
+      {
+        "title": "Intersubjectively oriented, time-limited psychotherapy with children: how does the therapist evaluate the therapeutic process and what are the therapist’s tasks?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Marianne Haugvik", "Svein Mossige"],
+        "abstract": ["Based on the therapist’s evaluations of three therapies, this research aims to study the therapeutic process in intersubjectively oriented, time-limited psychotherapy with children. A primary objective is to further develop the therapy method. The study comprises therapies with children 6–11 years of age, who had experienced difficult family situat..."]
+      },
+      {
+        "title": "Barn og unges utsatthet for fysisk vold fra foreldre. Endringer i mild og grov vold fra 2007 til 2015",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Mette Løvgren", "Kari Stefansen", "Ingrid Smette", "Svein Mossige"],
+        "abstract": []
+      },
+      {
+        "title": "Vold og overgrep mot barn og unge. Omfang og utviklingstrekk 2007 - 2015",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Kari Stefansen", "Svein Mossige"],
+        "abstract": ["This study reports results from a survey on young people’s exposure to physical\nviolence from parents, violence between parents (children as witnesses to\nviolence), and sexual violence (UngVold 2015, conducted by NOVA). The\noverarching purpose of the study is to depict trends related to these three forms\nof violence. Knowledge about trends has been..."]
+      },
+      {
+        "title": "Resilience in young people living with violence and self-harm: Evidence from a Norwegian national youth survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Lihong Huang", "Svein Mossige"],
+        "abstract": ["The aim of this article is to explore the relationship between resilience and the psychological problems of young people who reported being victims of violence and who engaged in self-harm. We used data from a national survey conducted in 2007 asking young people in Norway (N=6,034; ages 18–19 years) about their experiences with violence during the..."]
+      },
+      {
+        "title": "Emotional Experiences Among Siblings of Children With Rare Disorders",
+        "tags": ["Article"],
+        "date": "Mar 2015",
+        "authors": ["Yngvild Bjartveit Haukeland", "Krister W Fjermestad", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Objective: \nThis research aimed to provide new knowledge about the emotional experiences of siblings of children with rare disorders. \n\nMethods: \nQualitative thematic analysis was conducted based on videotapes of 11 support groups for 58 siblings aged 7-17 years (Mage = 11.4 years, SD = 2.4) of children with rare disorders. \n\nResults: \nParticipants..."]
+      },
+      {
+        "title": "Kontakt på sosiale medier mellom foreldre og under offentlig omsorg. \"Det er jo morsomt for mamma å følge med på oss. Da ser hun at vi driver med idrett\".",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Hilde A. Aamodt", "Svein Mossige"],
+        "abstract": ["Formålet med dette prosjektet har vært å få mer kunnskap om kontaktengjennom sosiale medier mellom barn under offentlig omsorg og deres foreldre.Vi har vært opptatt av å få svar på hvil ke muligheter en slik kontakt gir, menogså hvilke utfordringer dette kan skape. I tillegg var vi opptatt av hvordanforeldre, barn, fosterforeldre, miljøper sonell o..."]
+      },
+      {
+        "title": "Suicidal ideation and self-harm among youths in Norway: Associations with verbal, physical and sexual abuse",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Svein Mossige", "Lihong Huang", "Melanie Straiton", "Katrina Roen"],
+        "abstract": ["Using data from a national survey (n = 6979) of young people in their last year in Norwegian secondary schools in 2007 (aged 18–19), this paper explores the relationship between sexual abuse and experiences of violence among young people in Norway and their reporting of suicidal ideation and self-harm. This investigation includes three types of abu..."]
+      },
+      {
+        "title": "Academic achievement in Norwegian secondary schools: The impact of violence during childhood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Lihong Huang", "Svein Mossige"],
+        "abstract": ["Using data from a national survey (N = 6,979) of young people in their last\nyear in Norwegian secondary schools in 2007 (aged 18 and 19), this paper examines\nthe effect of experience of violence including sexual abuse during childhood (before\nthe age of 13) on the later academic achievement of young people. This investigation\nincludes three types o..."]
+      },
+      {
+        "title": "Omfanget av seksuelle krenkelser og overgrep i en norsk ungdomsbefolkning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Svein Mossige", "Lihong Huang"],
+        "abstract": ["span style=\"font-size: x-small; font-family: TimesNewRomanPS-BoldMT;\"> \nThe prevalence of sexual offences and abuse within a Norwegian youth population. The aim of this cross-sectional school-based study is to present and discuss the prevalence of sexual abuse within a Norwegian population of young people at the age of 18. Contrary to some earlier..."]
+      },
+      {
+        "title": "Det kliniske intervjuet: Bind II. Praksis med ulike klientgrupper",
+        "tags": ["Book"],
+        "date": "Jan 2011",
+        "authors": ["Anna von der Lippe", "Arne Holte", "Per Nerdrum", "Michael Helge Rønnestad"],
+        "abstract": []
+      },
+      {
+        "title": "What Constitutes a Good Working Alliance in Therapy with Children That May Have Been Sexually Abused?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Tine K. Jensen", "Hanne Haavind", "Wenke Gulbrandsen", "Odd Arne Tjersland"],
+        "abstract": ["The use of qualitative methods in a case by case study of fifteen psychotherapies with children allowed for inquiries into how the working alliance can be established when children are involved. Therapy hours were recorded, and the children’s, their caregivers’ and the therapists’ views about what happened during therapy were collected at the end o..."]
+      },
+      {
+        "title": "Pathways into the labour market for Norwegians with mobility disabilities",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2010",
+        "authors": ["Janikke Solstad Vedeler", "Svein Mossige"],
+        "abstract": ["This article explores pathways into working life for Norwegians with mobility disabilities through a life span approach. Semi-structured interviews were used to gather data from 15 employed individuals with mobility disabilities to gain an insight into their interpretation of events and conditions over the course of their life as either obstacles o..."]
+      },
+      {
+        "title": "Myter vedrorende alkoholisme:Tenning, tap av kontroll og spenningsreduksjon i lys av empiriske studier",
+        "tags": ["Article"],
+        "date": "Jul 2010",
+        "authors": ["Lasse Eeiksen", "Kjell G Johansem", "Svein Mossige"],
+        "abstract": ["Alkoholisme oppfattes innen den medisinske modellen som en sykdom. Vi vil ta for oss noen av de fenomener som inngår i denne oppfatningen og påpeke deres karakter av myter. Noen mulige motargumenter fra tilhengerne av sykdomsmodellen vil bli tatt opp og dröftet kort. Innledningen vil avsluttes med en kort redegjörelse for vår faglige tilnærmingsmåt..."]
+      },
+      {
+        "title": "«Medievold avler vold» - reell frykt eller moralsk panikk?",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jun 2010",
+        "authors": ["Kristin Ystmark Bjerkan", "Lars Roar Frøyland", "AINA WINSVOLD", "Svein Mossige"],
+        "abstract": ["No r s k i n s t i t u t t f o r f o r s k n i n g om oppvekst, velferd og aldring 8/2010 Denne rapporten er skrevet på oppdrag fra Barne-, likestillings-og inkluderingsdepartementet. Spørsmålet som belyses er om eksponering for vold i media fører til at forbrukere av slike medier blir mer voldelige enn dersom de ikke hadde valgt å eksponere seg fo..."]
+      },
+      {
+        "title": "Sexual Coercion Experience and Sexually Coercive Behavior: A Population Study of Swedish and Norwegian Male Youth",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2010",
+        "authors": ["Michael C Seto", "Cecilia Kjellgren", "Gisela Priebe", "Niklas Långström"],
+        "abstract": ["The authors tested the hypothesis that experiencing sexual coercion and engaging in sexually coercive behavior are positively associated in a representative sample totaling almost 4,000 Swedish or Norwegian male high school students (estimated response rate 80%). In both surveys, youths who had experienced sexual coercion were approximately three t..."]
+      },
+      {
+        "title": "The prevalence of sexual offences and abuse within a Norwegian youth population",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Svein Mossige", "Lihong Huang"],
+        "abstract": ["The aim of this cross-sectional school-based study is to present and discuss the prevalence of sexual abuse within a Norwegian population of young people at the age of 18. Contrary to some earlier Norwegian studies the response rate is fairly high and sexually abuse is more clearly defined. The results are compared with an earlier Norwegian study...."]
+      },
+      {
+        "title": "Responsible victims? Young people's understandings of agency and responsibility in sexual situations involving underage girls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2009",
+        "authors": ["Ingrid Smette", "Kari Stefansen", "Svein Mossige"],
+        "abstract": ["Most countries have a legal age of consent, setting the minimum age for the involvement of a young person in sexual relationships. Engaging in a sexual relationship with a person below this age is defined as abuse, even if the minor has consented. At the same time, underage young people often see themselves as knowledgeable agents across a range of..."]
+      },
+      {
+        "title": "Female Youth Who Sexually Coerce: Prevalence, Risk, and Protective Factors in Two National High School Surveys",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2009",
+        "authors": ["Cecilia Kjellgren", "Gisela Priebe", "Carl Goran Svedin", "Niklas Långström"],
+        "abstract": ["Sexual coercion is recognized as a serious societal problem. Correlates and risk factors of sexually abusive behavior in females are not well known.\nEtiological theory and empirical study of female perpetrators of sexual coercion are usually based on small or highly selected samples. Specifically, population-based data are needed to elucidate risk/..."]
+      },
+      {
+        "title": "A Validation Study of the Resilience Scale for Adolescents (READ)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2009",
+        "authors": ["Tilmann von Soest", "Svein Mossige", "Kari Stefansen", "Odin Hjemdal"],
+        "abstract": ["In this study, the validity of the recently developed 28-item Resilience Scale for Adolescents (READ) was examined. Survey\ndata from a representative sample of 6,723 Norwegian senior high school students between 18 and 20years of age were used\nfor this purpose. Validity and reliability were investigated by means of exploratory and confirmatory fact..."]
+      },
+      {
+        "title": "Vold mot \"homofil\" ungdom. Forekomst og fortolkninger [Violence against ‘gay’ youth. Prevalence and interpretations]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Kari Stefansen", "Kristinn Hegna", "Kirsti Valset", "Svein Mossige"],
+        "abstract": ["Using data from a large-scale study among young people, the paper explores the relationship between different dimensions or expressions of sexual orien- tation - identity, sexual experiences, love and attraction - and victimisation. Is there a pattern of increased risk for victimisation along these dimensions for young people with same-sex orientat..."]
+      },
+      {
+        "title": "From Betrayal to Support: A Case History of Incest",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2008",
+        "authors": ["Odd Arne Tjersland", "Wenke Gulbrandsen", "Monica Juuhl", "Sissel Reichelt"],
+        "abstract": ["Relational and systemic ideas about the treatment of sexual abuse within families are presented, followed by a case analysis of the therapeutic process with a young girl and the collaboration with her mother. Central elements in the therapeutic process are discussed related to the individual work with the child, the use of a reflecting colleague, a..."]
+      },
+      {
+        "title": "Seksuelle krenkelser via nettet - hvor stort er problemet?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["HELLE SUSEG", "Anne Skevik Grødem", "KIRSTI VALSET", "Svein Mossige"],
+        "abstract": []
+      },
+      {
+        "title": "Helping families when child sexual abuse is suspected but not proven",
+        "tags": ["Article"],
+        "date": "Apr 2006",
+        "authors": ["Odd Arne Tjersland", "Svein Mossige", "Wenke Gulbrandsen", "Sissel Reichelt"],
+        "abstract": ["This paper reports from a project investigating reactions within families when intra-familial child sexual abuse was suspected, and family members’ responses to a therapeutic approach. Data were obtained from therapeutic sessions and follow-up interviews with mothers, children and alleged perpetrators. Before treatment the mothers felt uncertain as..."]
+      },
+      {
+        "title": "Seksuell lavalder: til besvaer eller beskyttelse?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Svein Mossige", "Ingrid Smette", "Leila Torgersen"],
+        "abstract": ["Den seksuelle lavalder skal beskytte barn og ungdom mot handlinger som kan true deres integritet. I denne artikkelen stu-derer vi ungdoms holdninger til den seksuelle lavalder gjennom data fra et spørreskjema besvart av 4585 ungdommer i VK2 i videregående skoler. Resultatene viser at majoriteten av ung-dom mener at den nåvaerende lavalderen bør beh..."]
+      },
+      {
+        "title": "Reporting possible sexual abuse: A qualitative study on children's perspectives and the context for disclosure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Tine K. Jensen", "Wenke Gulbrandsen", "Svein Mossige", "Odd Arne Tjersland"],
+        "abstract": ["The present study investigated the context in which children were able to report their child sexual abuse experiences and the children's views as to what made it difficult to talk about abuse and what helped them in the disclosing process. The aim was to study disclosures as they were occurring in their natural settings.\nData were obtained from the..."]
+      },
+      {
+        "title": "Children's narratives of sexual abuse: What characterizes them and how do they contribute to meaning-making?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2005",
+        "authors": ["Svein Mossige", "Tine K. Jensen", "Wenke Gulbrandsen", "Odd Arne Tjersland"],
+        "abstract": ["Personal narratives from ten children who all claimed to have been sexually abused were analyzed and compared to narratives of stressful events the children produced in therapy sessions. The narratives were compared to each other along the following dimensions: level of elaboration, narrative structure, contextual embeddedness, and causal coherence..."]
+      },
+      {
+        "title": "From the System of Sexual Abuse to the System of Suspicion",
+        "tags": ["Article"],
+        "date": "Mar 2004",
+        "authors": ["Sissel Reichelt", "Odd Arne Tjersland", "Wenke Gulbrandsen", "Svein Mossige"],
+        "abstract": ["Compared to 30 years ago, people in Western society have, today, a height-ened sensitivity about sexual abuse of children. Although suspicions of such abuse are more easily aroused now, the task of finding conclusive evidence is still virtually impossible, and a strong focus on the legal aspects of abuse tends to take precedence over therapeutic ne..."]
+      },
+      {
+        "title": "Older adolescents positive attitudes toward younger adolescents as sexual partners",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2004",
+        "authors": ["Kristinn Hegna", "Svein Mossige", "Lars Wichstrøm"],
+        "abstract": ["The prevalence of older adolescents' positive attitudes toward younger sexual partners was investigated through three measures of self-reported hypothetical likelihood of having sex with preadolescents and younger adolescents (LSA), using a school-based cluster sample of 710 Norwegian 18- to 19-year-olds attending nonvocational high schools in Oslo..."]
+      },
+      {
+        "title": "Mødres og rettsvesenets historier ved mistanke om overgrep",
+        "tags": ["Article"],
+        "date": "Dec 2002",
+        "authors": ["Svein Mossige"],
+        "abstract": []
+      },
+      {
+        "title": "Bokanmeldelser",
+        "tags": ["Article"],
+        "date": "Aug 2002",
+        "authors": ["Erik Damgaard", "Svennik Høyer", "Svein Mossige", "Jarle Trondal"],
+        "abstract": []
+      },
+      {
+        "title": "Egocentrism and Inefficiency in the Communication of Families Containing Schizophrenic Members",
+        "tags": ["Article"],
+        "date": "Jan 1980",
+        "authors": ["Svein Mossige", "Rita Bast-Pettersen", "Rolv Mikkel Blakar"],
+        "abstract": ["Conceptual and methodological shortcomings of research on family and interactional psychopathology are owing mainly to the use of vague and ill-defined concepts of communication. Based on a theory of language use and communication within general social and cognitive psychology (e.g., Heider, Mead, Piaget, Rometvet) Blakar has outlined a methodology..."]
+      },
+      {
+        "title": "Mossige S, Bast Pettersen R, Blakar RM; Egocentrism and inefficiency in the communiccation of families containing schizophrenic members. Family Process 18/ 1979, 405-425",
+        "tags": ["Article"],
+        "date": "Jan 1979",
+        "authors": ["Svein Mossige", "Rita Bast-Pettersen", "Rolv Mikkel Blakar"],
+        "abstract": []
+      },
+      {
+        "title": "Atferdsterapeutiske metoder ved alkoholisme: Selvhevdelse, selvkontroll og systematisk desensitivisering/avslapping",
+        "tags": ["Article"],
+        "date": "Jan 1979",
+        "authors": ["Lasse Eriksen", "Svein Mossige", "Kjell G Johansen"],
+        "abstract": ["Atferdsanalyse viser at alkoholmisbruk alltid har en eller flere funksjoner, f eks å gjre individet mer selvhevdende, eller fle seg mer avslappet. I denne artikkelen blir trening i alternativ atferd som selvhevdelse, selvkontroll og systematisk desensitivisering/avslapping beskrevet. Beskrivelsen av hver type alternativ atferd blir etterfulgt av en..."]
+      },
+      {
+        "title": "Testing the Sexually Abused-Sexual Abuser Hypothesis Among Male Youth in Sweden and Norway",
+        "tags": ["Article"],
+        "authors": ["Michael C Seto", "Cecilia Kjellgren", "Gisela Priebe", "Niklas Långström"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [49],
+    "reads": [33839],
+    "citations": [982]
   }
 }

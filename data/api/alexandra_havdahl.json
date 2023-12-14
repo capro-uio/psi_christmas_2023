@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Alexandra Havdahl",
-    "id": "-y77j1UAAAAJ",
-    "affiliation": "Research group leader at Norwegian Institute of Public Health and Nic Waals Institute of …",
+    "name": ["Alexandra Havdahl"],
+    "id": ["-y77j1UAAAAJ"],
+    "affiliation": ["Research group leader at Norwegian Institute of Public Health and Nic Waals Institute of …"],
     "data": {
       "publications": [
         {
@@ -900,8 +900,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-9268-0423",
-    "name": "Alexandra Havdahl",
+    "orcid": ["0000-0002-9268-0423"],
+    "name": ["Alexandra Havdahl"],
     "distinctions": [
       {
         "start": "2019",
@@ -1399,8 +1399,8 @@
     ]
   },
   "cristin": {
-    "name": "Alexandra Havdahl",
-    "id": "448006",
+    "name": ["Alexandra Havdahl"],
+    "id": ["448006"],
     "keywords": ["Causal methology", "Mental Health", "ADHD", "Neurocognition", "Autism Spectrum Disorders"],
     "position": ["Associate professor", "Research group leader", "Researcher"],
     "img": {},
@@ -1418,646 +1418,655 @@
       {
         "type": "Lecture",
         "year": "2023",
-        "title": "Family-based approaches to gene-environment interplay",
-        "url": "https://api.cristin.no/v2/results/2203757"
+        "url": "https://api.cristin.no/v2/results/2203757",
+        "title": "Family-based approaches to gene-environment interplay"
       },
       {
         "type": "Lecture",
         "year": "2023",
-        "title": "The genetics of depression across the childbearing years",
-        "url": "https://api.cristin.no/v2/results/2203741"
+        "url": "https://api.cristin.no/v2/results/2203741",
+        "title": "The genetics of depression across the childbearing years"
       },
       {
         "type": "Lecture",
         "year": "2023",
-        "title": "Causal risk factors for childhood eating behaviours and adulthood anorexia nervosa. A between and within family Mendelian randomisation study",
-        "url": "https://api.cristin.no/v2/results/2203713"
+        "url": "https://api.cristin.no/v2/results/2203713",
+        "title": "Causal risk factors for childhood eating behaviours and adulthood anorexia nervosa. A between and within family Mendelian randomisation study"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Leveraging family data can reveal the role of selection bias in genomic research",
-        "url": "https://api.cristin.no/v2/results/2203694"
+        "url": "https://api.cristin.no/v2/results/2203694",
+        "title": "Leveraging family data can reveal the role of selection bias in genomic research"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2202679",
         "title": "Impaired glucose tolerance and cardiovascular risk factors in relation to infertility: a Mendelian randomization analysis in the Norwegian Mother, Father, and Child Cohort Study",
-        "journal": "Human Reproduction",
-        "url": "https://api.cristin.no/v2/results/2202679"
+        "journal": "Human Reproduction"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2195905",
         "title": "Educational attainment, health outcomes and mortality: a within-sibship Mendelian randomization study",
-        "journal": "International Journal of Epidemiology",
-        "url": "https://api.cristin.no/v2/results/2195905"
+        "journal": "International Journal of Epidemiology"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Parent-of-origin effects on childhood asthma",
-        "url": "https://api.cristin.no/v2/results/2195622"
+        "url": "https://api.cristin.no/v2/results/2195622",
+        "title": "Parent-of-origin effects on childhood asthma"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2194548",
         "title": "Intergenerational transmission of ADHD behaviors: Genetic and environmental pathways",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2194548"
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Genetically Informed Early Identification of Attention Deficit Hyperactivity Disorder Symptoms in the Norwegian Mother, Father and Child Cohort Study (MoBa)",
-        "url": "https://api.cristin.no/v2/results/2194239"
+        "url": "https://api.cristin.no/v2/results/2194239",
+        "title": "Genetically Informed Early Identification of Attention Deficit Hyperactivity Disorder Symptoms in the Norwegian Mother, Father and Child Cohort Study (MoBa)"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2194233",
         "title": "Intrauterine Growth and Offspring Neurodevelopmental Traits\r\nA Mendelian Randomization Analysis of the Norwegian Mother, Father and Child Cohort Study (MoBa)",
-        "journal": "JAMA psychiatry",
-        "url": "https://api.cristin.no/v2/results/2194233"
+        "journal": "JAMA psychiatry"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Investigating the Relationship between Sleep Phenotypes and Neurodevelopmental Conditions in Children and Adolescents from the Norwegian Mother, Father, and Child Cohort Study (MoBa)",
-        "url": "https://api.cristin.no/v2/results/2194230"
+        "url": "https://api.cristin.no/v2/results/2194230",
+        "title": "Investigating the Relationship between Sleep Phenotypes and Neurodevelopmental Conditions in Children and Adolescents from the Norwegian Mother, Father, and Child Cohort Study (MoBa)"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2194228",
         "title": "Meta-Analyses of Genome-Wide Association Studies for Postpartum Depression",
-        "journal": "American Journal of Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2194228"
+        "journal": "American Journal of Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2192754",
         "title": "Genotype-environment interplay in associations between maternal drinking and offspring emotional and behavioral problems",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2192754"
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Measuring Autism-Associated Traits in the General Population: Factor Structure and Measurement Invariance across Sex and Diagnostic  Status in the Social Communication Questionnaire",
-        "url": "https://api.cristin.no/v2/results/2185816"
+        "url": "https://api.cristin.no/v2/results/2185816",
+        "title": "Measuring Autism-Associated Traits in the General Population: Factor Structure and Measurement Invariance across Sex and Diagnostic  Status in the Social Communication Questionnaire"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Indirect and Direct Genetic Effects in Early Neurodevelopmental Traits",
-        "url": "https://api.cristin.no/v2/results/2185808"
+        "url": "https://api.cristin.no/v2/results/2185808",
+        "title": "Indirect and Direct Genetic Effects in Early Neurodevelopmental Traits"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Self-Reported Psychotic Experiences: Does an Unreliable Phenotypic Measure Introduce Bias in Genetic Associations?",
-        "url": "https://api.cristin.no/v2/results/2184597"
+        "url": "https://api.cristin.no/v2/results/2184597",
+        "title": "Self-Reported Psychotic Experiences: Does an Unreliable Phenotypic Measure Introduce Bias in Genetic Associations?"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Genome-Wide Analysis of Self-Reported Psychotic Experiences in the Norwegian Mother, Father, and Child study",
-        "url": "https://api.cristin.no/v2/results/2184596"
+        "url": "https://api.cristin.no/v2/results/2184596",
+        "title": "Genome-Wide Analysis of Self-Reported Psychotic Experiences in the Norwegian Mother, Father, and Child study"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2176849",
         "title": "Development of prosocial behavior and inhibitory control in late childhood: A longitudinal exploration of sex differences and reciprocal relations",
-        "journal": "Child Development",
-        "url": "https://api.cristin.no/v2/results/2176849"
+        "journal": "Child Development"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Genetic overlap between ADHD and cardiometabolic traits: an investigation in MoBa using polygenic transmission disequilibrium analyses",
-        "url": "https://api.cristin.no/v2/results/2176380"
+        "url": "https://api.cristin.no/v2/results/2176380",
+        "title": "Genetic overlap between ADHD and cardiometabolic traits: an investigation in MoBa using polygenic transmission disequilibrium analyses"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Genetic and environmental factors associated with differentiation between behavioural and emotional problems across early life",
-        "url": "https://api.cristin.no/v2/results/2174036"
+        "url": "https://api.cristin.no/v2/results/2174036",
+        "title": "Genetic and environmental factors associated with differentiation between behavioural and emotional problems across early life"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2174013",
         "title": "Exploring the differentiation of behavioural and emotional problems across childhood: A prospective longitudinal cohort study",
-        "journal": "JCPP Advances",
-        "url": "https://api.cristin.no/v2/results/2174013"
+        "journal": "JCPP Advances"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "PRENATAL MATERNAL STRESS: TRIANGULATING EVIDENCE FOR INTRAUTERINE EXPOSURE EFFECTS ON BIRTH AND EARLY CHILDHOOD OUTCOMES ACROSS MULTIPLE APPROACHES",
-        "url": "https://api.cristin.no/v2/results/2164063"
+        "url": "https://api.cristin.no/v2/results/2164063",
+        "title": "PRENATAL MATERNAL STRESS: TRIANGULATING EVIDENCE FOR INTRAUTERINE EXPOSURE EFFECTS ON BIRTH AND EARLY CHILDHOOD OUTCOMES ACROSS MULTIPLE APPROACHES"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Prenatal maternal stress: triangulating evidence for intrauterine exposure effects on birth and early childhood outcomes across multiple approaches",
-        "url": "https://api.cristin.no/v2/results/2164060"
+        "url": "https://api.cristin.no/v2/results/2164060",
+        "title": "Prenatal maternal stress: triangulating evidence for intrauterine exposure effects on birth and early childhood outcomes across multiple approaches"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2161945",
         "title": "Developmental manifestations of polygenic risk for bipolar disorder from infancy to middle childhood",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2161945"
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Eating problems among adolescents before and during the Covid-19 pandemic",
-        "url": "https://api.cristin.no/v2/results/2160804"
+        "url": "https://api.cristin.no/v2/results/2160804",
+        "title": "Eating problems among adolescents before and during the Covid-19 pandemic"
       },
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Eating problems among adolescents before and during the Covid-19 pandemic",
-        "url": "https://api.cristin.no/v2/results/2160803"
+        "url": "https://api.cristin.no/v2/results/2160803",
+        "title": "Eating problems among adolescents before and during the Covid-19 pandemic"
       },
       {
         "type": "Lecture",
         "year": "2023",
-        "title": "Investigating the genetic architecture of sleep problems in childhood and adolescence in the Norwegian Mother, Father, and Child Cohort Study (MoBa)",
-        "url": "https://api.cristin.no/v2/results/2159227"
+        "url": "https://api.cristin.no/v2/results/2159227",
+        "title": "Investigating the genetic architecture of sleep problems in childhood and adolescence in the Norwegian Mother, Father, and Child Cohort Study (MoBa)"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2154367",
         "title": "Deficit of homozygosity among 1.52 million individuals and genetic causes of recessive lethality",
-        "journal": "Nature Communications",
-        "url": "https://api.cristin.no/v2/results/2154367"
+        "journal": "Nature Communications"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2151913",
         "title": "Psychometric Properties and Diagnostic Associations of the Short-Form Community Assessment of Psychic Experiences in a Population-Based Sample of 29 021 Adult Men",
-        "journal": "Schizophrenia Bulletin",
-        "url": "https://api.cristin.no/v2/results/2151913"
+        "journal": "Schizophrenia Bulletin"
       },
       {
         "type": "Errata",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2150411",
         "title": "Author Correction: Genome-wide analyses of ADHD identify 27 risk loci, refine the genetic architecture and implicate several cognitive domains (Nature Genetics, (2023), 55, 2, (198-208), 10.1038/s41588-022-01285-8)",
-        "journal": "Nature Genetics",
-        "url": "https://api.cristin.no/v2/results/2150411"
+        "journal": "Nature Genetics"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2145498",
         "title": "Genome-wide analyses of ADHD identify 27 risk loci, refine the genetic architecture and implicate several cognitive domains",
-        "journal": "Nature Genetics",
-        "url": "https://api.cristin.no/v2/results/2145498"
+        "journal": "Nature Genetics"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2143880",
         "title": "The structure of psychiatric comorbidity without selection and assortative mating",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143880"
+        "journal": "PsyArXiv"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2143200",
         "title": "Do environmental effects indexed by parental genetic variation influence common psychiatric symptoms in childhood?",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2143200"
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2142729",
         "title": "Associations between health behaviours, fertility and reproductive outcomes: triangulation of evidence in the Norwegian Mother, Father and Child Cohort Study (MoBa)",
-        "journal": "BMC Medicine",
-        "url": "https://api.cristin.no/v2/results/2142729"
+        "journal": "BMC Medicine"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2141400",
         "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/2141400"
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2139563",
         "title": "Health behaviours prior to pregnancy and fertility outcomes: Triangulation of evidence in the Norwegian Mother, Father and Child Cohort Study (MoBa)",
-        "journal": "BMC Medicine",
-        "url": "https://api.cristin.no/v2/results/2139563"
+        "journal": "BMC Medicine"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2137100",
         "title": "Bounding the average causal effect in Mendelian randomisation studies with multiple proposed instruments: An application to prenatal alcohol exposure and attention deficit hyperactivity disorder",
-        "journal": "Paediatric and Perinatal Epidemiology",
-        "url": "https://api.cristin.no/v2/results/2137100"
+        "journal": "Paediatric and Perinatal Epidemiology"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2136874",
         "title": "Attainment and loss of early social-communication skills across neurodevelopmental conditions in the Norwegian Mother, Father and Child Cohort Study",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2136874"
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Interview",
         "year": "2022",
-        "title": "ADHD and Other Disorders: Impact of Exposures, Genetics",
-        "url": "https://api.cristin.no/v2/results/2207671"
+        "url": "https://api.cristin.no/v2/results/2207671",
+        "title": "ADHD and Other Disorders: Impact of Exposures, Genetics"
       },
       {
         "type": "Interview",
         "year": "2022",
-        "title": "Child body weight has limited effects on mood and behavioral disorders",
-        "url": "https://api.cristin.no/v2/results/2207664"
+        "url": "https://api.cristin.no/v2/results/2207664",
+        "title": "Child body weight has limited effects on mood and behavioral disorders"
       },
       {
         "type": "Interview",
         "year": "2022",
-        "title": "Maternal genetics may confound studies of autism’s link to prenatal factors",
-        "url": "https://api.cristin.no/v2/results/2207662"
+        "url": "https://api.cristin.no/v2/results/2207662",
+        "title": "Maternal genetics may confound studies of autism’s link to prenatal factors"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2206308",
         "title": "Early manifestations of genetic liability for ADHD, autism and schizophrenia at ages 18 and 24 months",
-        "journal": "JCPP Advances",
-        "url": "https://api.cristin.no/v2/results/2206308"
+        "journal": "JCPP Advances"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2143876",
         "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143876"
+        "journal": "PsyArXiv"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Parent-of-origin effects in childhood aggression",
-        "url": "https://api.cristin.no/v2/results/2122808"
+        "url": "https://api.cristin.no/v2/results/2122808",
+        "title": "Parent-of-origin effects in childhood aggression"
       },
       {
         "type": "Report",
         "year": "2022",
-        "title": "Health behaviours prior to pregnancy and fertility outcomes: Triangulation of evidence in the Norwegian Mother, Father and Child Cohort Study (MoBa)",
-        "url": "https://api.cristin.no/v2/results/2122791"
+        "url": "https://api.cristin.no/v2/results/2122791",
+        "title": "Health behaviours prior to pregnancy and fertility outcomes: Triangulation of evidence in the Norwegian Mother, Father and Child Cohort Study (MoBa)"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Latent polygenic profile analysis (LPPA) as a tool for dimension reduction and exploring the phenotypic correlates of overlapping genetic liabilities ",
-        "url": "https://api.cristin.no/v2/results/2120787"
+        "url": "https://api.cristin.no/v2/results/2120787",
+        "title": "Latent polygenic profile analysis (LPPA) as a tool for dimension reduction and exploring the phenotypic correlates of overlapping genetic liabilities "
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2102002",
         "title": "Body mass index and childhood symptoms of depression, anxiety, and attention-deficit hyperactivity disorder: A within-family Mendelian randomization study",
-        "journal": "eLIFE",
-        "url": "https://api.cristin.no/v2/results/2102002"
+        "journal": "eLIFE"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Current achievements and new opportunities in MoBa",
-        "url": "https://api.cristin.no/v2/results/2099661"
+        "url": "https://api.cristin.no/v2/results/2099661",
+        "title": "Current achievements and new opportunities in MoBa"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2093178",
         "title": "Childhood temperamental, emotional, and behavioral characteristics associated with mood and anxiety disorders in adolescence: A prospective study",
-        "journal": "Acta Psychiatrica Scandinavica",
-        "url": "https://api.cristin.no/v2/results/2093178"
+        "journal": "Acta Psychiatrica Scandinavica"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2090321",
         "title": "Statistical and functional convergence of common and rare genetic influences on autism at chromosome 16p",
-        "journal": "Nature Genetics",
-        "url": "https://api.cristin.no/v2/results/2090321"
+        "journal": "Nature Genetics"
       },
       {
         "type": "Abstract",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2087337",
         "title": "A trio-gcta study of indirect and direct genetic effects on hyperactivity, inattention, conduct problems, and oppositional-defiant behaviors",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2087337"
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Abstract",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2087332",
         "title": "Disentangling intrafamilial effects on maternal depression using trio-GCTA",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2087332"
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "The genetics of depression across the childbearing years",
-        "url": "https://api.cristin.no/v2/results/2086906"
+        "url": "https://api.cristin.no/v2/results/2086906",
+        "title": "The genetics of depression across the childbearing years"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "A trio-gcta study of indirect and direct genetic effects on hyperactivity, inattention, conduct problems, and oppositional-defiant behaviors",
-        "url": "https://api.cristin.no/v2/results/2085869"
+        "url": "https://api.cristin.no/v2/results/2085869",
+        "title": "A trio-gcta study of indirect and direct genetic effects on hyperactivity, inattention, conduct problems, and oppositional-defiant behaviors"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Gene-environment interplay in associations between maternal at-risk drinking and early childhood emotional and behavioural development in the Norwegian Mother, Father, and Child Cohort",
-        "url": "https://api.cristin.no/v2/results/2085829"
+        "url": "https://api.cristin.no/v2/results/2085829",
+        "title": "Gene-environment interplay in associations between maternal at-risk drinking and early childhood emotional and behavioural development in the Norwegian Mother, Father, and Child Cohort"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2085674",
         "title": "Maternal vitamin D during pregnancy and offspring autism and autism-associated traits: a prospective cohort study",
-        "journal": "Molecular Autism",
-        "url": "https://api.cristin.no/v2/results/2085674"
+        "journal": "Molecular Autism"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2081545",
         "title": "Genetic nurture versus genetic transmission of risk for ADHD traits in the Norwegian Mother, Father and Child Cohort Study",
-        "journal": "Molecular Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2081545"
+        "journal": "Molecular Psychiatry"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Genetic profile of the Norwegian Mother, Father, and Child Cohort Study (MoBa): Results from the MoBaPsychGen pipeline",
-        "url": "https://api.cristin.no/v2/results/2081538"
+        "url": "https://api.cristin.no/v2/results/2081538",
+        "title": "Genetic profile of the Norwegian Mother, Father, and Child Cohort Study (MoBa): Results from the MoBaPsychGen pipeline"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Disentangling intrafamilial effects on maternal depression using trio-GCTA",
-        "url": "https://api.cristin.no/v2/results/2078092"
+        "url": "https://api.cristin.no/v2/results/2078092",
+        "title": "Disentangling intrafamilial effects on maternal depression using trio-GCTA"
       },
       {
         "type": "Report",
         "year": "2022",
-        "title": "The Norwegian Mother, Father, and Child cohort study (MoBa) genotyping data resource: MoBaPsychGen pipeline v.1",
-        "url": "https://api.cristin.no/v2/results/2076647"
+        "url": "https://api.cristin.no/v2/results/2076647",
+        "title": "The Norwegian Mother, Father, and Child cohort study (MoBa) genotyping data resource: MoBaPsychGen pipeline v.1"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "The Norwegian Mother, Father, and Child cohort study (MoBa) genotyping data resource: the MoBaPsychGen_v1 pipeline",
-        "url": "https://api.cristin.no/v2/results/2076643"
+        "url": "https://api.cristin.no/v2/results/2076643",
+        "title": "The Norwegian Mother, Father, and Child cohort study (MoBa) genotyping data resource: the MoBaPsychGen_v1 pipeline"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2076215",
         "title": "Maternal vitamin D during pregnancy\r\nand ofspring autism and autism‑associated\r\ntraits: a prospective cohort study",
-        "journal": "Molecular Autism",
-        "url": "https://api.cristin.no/v2/results/2076215"
+        "journal": "Molecular Autism"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2058278",
         "title": "Genetic correlates of phenotypic heterogeneity in autism",
-        "journal": "Nature Genetics",
-        "url": "https://api.cristin.no/v2/results/2058278"
+        "journal": "Nature Genetics"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2058265",
         "title": "Parental inflammatory bowel disease and autism in children",
-        "journal": "Nature Medicine",
-        "url": "https://api.cristin.no/v2/results/2058265"
+        "journal": "Nature Medicine"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "The genomics of psychiatric symptom differentiation in early life",
-        "url": "https://api.cristin.no/v2/results/2054908"
+        "url": "https://api.cristin.no/v2/results/2054908",
+        "title": "The genomics of psychiatric symptom differentiation in early life"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Developmental manifestations of polygenic risk for bipolar disorder from infancy to middle childhood",
-        "url": "https://api.cristin.no/v2/results/2054520"
+        "url": "https://api.cristin.no/v2/results/2054520",
+        "title": "Developmental manifestations of polygenic risk for bipolar disorder from infancy to middle childhood"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Exploring shared genetic liability across early neurodevelopmental delays and atypicalities in the general population",
-        "url": "https://api.cristin.no/v2/results/2054414"
+        "url": "https://api.cristin.no/v2/results/2054414",
+        "title": "Exploring shared genetic liability across early neurodevelopmental delays and atypicalities in the general population"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Direct and indirect genetic effects of parental mental health on childhood emotional problems in the Norwegian Mother, Father and Child cohort study (MoBa)",
-        "url": "https://api.cristin.no/v2/results/2054089"
+        "url": "https://api.cristin.no/v2/results/2054089",
+        "title": "Direct and indirect genetic effects of parental mental health on childhood emotional problems in the Norwegian Mother, Father and Child cohort study (MoBa)"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Exploring the Role of Smoking in Recovery from Major Depression: A Mendelian Randomisation Study",
-        "url": "https://api.cristin.no/v2/results/2053940"
+        "url": "https://api.cristin.no/v2/results/2053940",
+        "title": "Exploring the Role of Smoking in Recovery from Major Depression: A Mendelian Randomisation Study"
       },
       {
         "type": "Poster",
         "year": "2022",
-        "title": "Indirect genetic influences on mental distress in mother-father-offspring trios during the covid-19 lockdown",
-        "url": "https://api.cristin.no/v2/results/2052978"
+        "url": "https://api.cristin.no/v2/results/2052978",
+        "title": "Indirect genetic influences on mental distress in mother-father-offspring trios during the covid-19 lockdown"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2046832",
         "title": "Within-sibship genome-wide association analyses decrease bias in estimates of direct genetic effects",
-        "journal": "Nature Genetics",
-        "url": "https://api.cristin.no/v2/results/2046832"
+        "journal": "Nature Genetics"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2044262",
         "title": "Associations between Pregnancy-Related Predisposing Factors for Offspring Neurodevelopmental Conditions and Parental Genetic Liability to Attention-Deficit/Hyperactivity Disorder, Autism, and Schizophrenia: The Norwegian Mother, Father and Child Cohort Study (MoBa)",
-        "journal": "JAMA psychiatry",
-        "url": "https://api.cristin.no/v2/results/2044262"
+        "journal": "JAMA psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2044080",
         "title": "Social and genetic associations with educational performance in a Scandinavian welfare state",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "https://api.cristin.no/v2/results/2044080"
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2042569",
         "title": "On the importance of parenting in externalizing disorders: an evaluation of indirect genetic effects in families",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2042569"
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2033509",
         "title": "Parental fecundability and neurodevelopmental delays and difficulties in offspring",
-        "journal": "International Journal of Epidemiology",
-        "url": "https://api.cristin.no/v2/results/2033509"
+        "journal": "International Journal of Epidemiology"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2027936",
         "title": "Genome-wide association meta-analysis of childhood and adolescent internalizing symptoms",
-        "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2027936"
+        "journal": "Journal of the American Academy of Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2025928",
         "title": "Meta-analysis of epigenome-wide associations between DNA methylation at birth and childhood cognitive skills",
-        "journal": "Molecular Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2025928"
+        "journal": "Molecular Psychiatry"
       },
       {
         "type": "Editorial",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2021854",
         "title": "Editorial: Developmental Psychiatric Genetic Epidemiology: Where Are We, and What Challenges Do We Face Going Forward?",
-        "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2021854"
+        "journal": "Journal of the American Academy of Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2020791",
         "title": "Decline in attention-deficit hyperactivity disorder traits over the life course in the general population: trajectories across five population birth cohorts spanning ages 3 to 45 years ",
-        "journal": "International Journal of Epidemiology",
-        "url": "https://api.cristin.no/v2/results/2020791"
+        "journal": "International Journal of Epidemiology"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2020725",
         "title": "Modeling assortative mating and genetic similarities between partners, siblings, and in-laws",
-        "journal": "Nature Communications",
-        "url": "https://api.cristin.no/v2/results/2020725"
+        "journal": "Nature Communications"
       },
       {
         "type": "Academic literature review",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2017610",
         "title": "Prenatal Mercury Exposure and Neurodevelopment up to the Age of 5 Years: A Systematic Review",
-        "journal": "International Journal of Environmental Research and Public Health (IJERPH)",
-        "url": "https://api.cristin.no/v2/results/2017610"
+        "journal": "International Journal of Environmental Research and Public Health (IJERPH)"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/2198687",
         "title": "Sex differences in anxiety and depression in children with attention deficit hyperactivity disorder: Investigating genetic liability and comorbidity",
-        "journal": "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics",
-        "url": "https://api.cristin.no/v2/results/2198687"
+        "journal": "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics"
       },
       {
         "type": "Report",
         "year": "2021",
-        "title": "NIPH PsychGen and MRC IEU post-imputation QC of MoBaGenetics release 1.0, version 1",
-        "url": "https://api.cristin.no/v2/results/2081550"
+        "url": "https://api.cristin.no/v2/results/2081550",
+        "title": "NIPH PsychGen and MRC IEU post-imputation QC of MoBaGenetics release 1.0, version 1"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/2081548",
         "title": "Risk variants and polygenic architecture of disruptive behavior disorders in the context of attention-deficit/hyperactivity disorder",
-        "journal": "Nature Communications",
-        "url": "https://api.cristin.no/v2/results/2081548"
+        "journal": "Nature Communications"
       },
       {
         "type": "Abstract",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/2027894",
         "title": "Intergenerational Transmission of ADHD: More Evidence for Heritability than Fast Life History",
-        "journal": "Behavior Genetics",
-        "url": "https://api.cristin.no/v2/results/2027894"
+        "journal": "Behavior Genetics"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Intergenerational Transmission of ADHD: More Evidence for Heritability than Fast Life History",
-        "url": "https://api.cristin.no/v2/results/2027893"
+        "url": "https://api.cristin.no/v2/results/2027893",
+        "title": "Intergenerational Transmission of ADHD: More Evidence for Heritability than Fast Life History"
       },
       {
         "type": "Abstract",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/2027867",
         "title": "Direct and indirect genetic influences involved in the intergenerational transmission of risk for ADHD in the Norwegian Mother, Father and Child Cohort",
-        "journal": "Behavior Genetics",
-        "url": "https://api.cristin.no/v2/results/2027867"
+        "journal": "Behavior Genetics"
       },
       {
         "type": "Abstract",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/2027865",
         "title": "Investigating Heterogeneity in Depression Using Multiple Polygenic Scores",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2027865"
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Abstract",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/2027864",
         "title": "Polygenic P: Characterising the role of general liability to psychopathology in maternal depression\r\n",
-        "journal": "Behavior Genetics",
-        "url": "https://api.cristin.no/v2/results/2027864"
+        "journal": "Behavior Genetics"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1999237",
         "title": "Common Genetic Variation and Age of Onset of Anorexia Nervosa",
-        "journal": "Biological Psychiatry: Global Open Science",
-        "url": "https://api.cristin.no/v2/results/1999237"
+        "journal": "Biological Psychiatry: Global Open Science"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1988552",
         "title": "Intergenerational transmission of parental neuroticism to emotional problems in 8-year-old children: Genetic and environmental influences",
-        "journal": "JCPP Advances",
-        "url": "https://api.cristin.no/v2/results/1988552"
+        "journal": "JCPP Advances"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1969184",
         "title": "Prenatal smoking, alcohol and caffeine exposure and maternal-reported attention deficit hyperactivity disorder symptoms in childhood: triangulation of evidence using negative control and polygenic risk score analyses",
-        "journal": "Addiction",
-        "url": "https://api.cristin.no/v2/results/1969184"
+        "journal": "Addiction"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1967557",
         "title": "The Lancet Commission on the future of care and clinical research in autism",
-        "journal": "The Lancet",
-        "url": "https://api.cristin.no/v2/results/1967557"
+        "journal": "The Lancet"
       },
       {
         "type": "Poster",
         "year": "2021",
-        "title": "The genomic basis of participation in the Norwegian Mother, Father and Child Cohort Study",
-        "url": "https://api.cristin.no/v2/results/1951521"
+        "url": "https://api.cristin.no/v2/results/1951521",
+        "title": "The genomic basis of participation in the Norwegian Mother, Father and Child Cohort Study"
       },
       {
         "type": "Poster",
         "year": "2021",
-        "title": "A framework to improve polygenic questions and strengthen inferences in psychiatric genetic epidemiology ",
-        "url": "https://api.cristin.no/v2/results/1951511"
+        "url": "https://api.cristin.no/v2/results/1951511",
+        "title": "A framework to improve polygenic questions and strengthen inferences in psychiatric genetic epidemiology "
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1951310",
         "title": "Genetic association study of childhood aggression across raters, instruments, and age",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1951310"
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1946279",
         "title": "Early manifestations of genetic risk for neurodevelopmental disorders",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1946279"
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Poster",
         "year": "2021",
-        "title": "Nutritional biomarkers in pregnancy and neurodevelopmental outcomes in offspring: A Mendelian Randomization study in the Norwegian Mother, Father and Child Cohort Study (MoBa)",
-        "url": "https://api.cristin.no/v2/results/1945744"
+        "url": "https://api.cristin.no/v2/results/1945744",
+        "title": "Nutritional biomarkers in pregnancy and neurodevelopmental outcomes in offspring: A Mendelian Randomization study in the Norwegian Mother, Father and Child Cohort Study (MoBa)"
       }
     ]
+  },
+  "rg": {
+    "id": "Yohana_Alexandra",
+    "name": "Yohana Alexandra",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Petra Christian University, Department of Communication",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

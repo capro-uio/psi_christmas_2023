@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Eira Aksnes",
-    "id": "-MJixSMAAAAJ",
-    "affiliation": "PhD, Oslo University",
+    "name": ["Eira Aksnes"],
+    "id": ["-MJixSMAAAAJ"],
+    "affiliation": ["PhD, Oslo University"],
     "data": {
       "publications": [
         {
@@ -46,8 +46,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Eira Ranheim Aksnes",
-    "id": "1504851",
+    "name": ["Eira Ranheim Aksnes"],
+    "id": ["1504851"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -60,5 +60,15 @@
         "url": "https://api.cristin.no/v2/results/2154277"
       }
     ]
+  },
+  "rg": {
+    "id": "Maren_Ranheim",
+    "name": "Maren Ranheim",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Norwegian University of Science and Technology | NTNU, Norwegian University of Science and Technology, Department of Chemistry",
+    "keywords": ["Organic Synthesis", "Synthesis", "Synthetic Organic Chemistry"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

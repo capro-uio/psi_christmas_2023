@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Lia Ferschmann, PhD",
-    "id": "pAy7cFoAAAAJ",
-    "affiliation": "Postdoctoral research fellow",
+    "name": ["Lia Ferschmann, PhD"],
+    "id": ["pAy7cFoAAAAJ"],
+    "affiliation": ["Postdoctoral research fellow"],
     "data": {
       "publications": [
         {
@@ -291,8 +291,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-4331-657X",
-    "name": "Lia Ferschmann",
+    "orcid": ["0000-0002-4331-657X"],
+    "name": ["Lia Ferschmann"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -303,8 +303,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Lia Ferschmann",
-    "id": "525840",
+    "name": ["Lia Ferschmann"],
+    "id": ["525840"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -454,5 +454,285 @@
         "url": "https://api.cristin.no/v2/results/1062889"
       }
     ]
+  },
+  "rg": {
+    "id": "Lia-Ferschmann",
+    "name": "Lia Ferschmann",
+    "img": "https://i1.rgstatic.net/ii/profile.image/591633468891136-1518067819069_Q128/Lia-Ferschmann.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cognitive Neuroscience", "Neuroimaging", "Developmental Neuroscience", "Adolescence"],
+    "works": [
+      {
+        "title": "Assessing the longitudinal associations between decision-making processes and attention problems in early adolescence",
+        "tags": ["Preprint"],
+        "date": "Aug 2023",
+        "authors": ["Thea Wiker", "Mads Lund Pedersen", "Lia Ferschmann", "Christian K Tamnes"],
+        "abstract": ["Cognitive functions and psychopathology develop in parallel in childhood and adolescence, but the temporal dynamics of their associations are poorly understood. The present study sought to elucidate the intertwined development of decision-making processes and attention problems using longitudinal data from late childhood (9-10 years) to mid adolesc..."]
+      },
+      {
+        "title": "Development of prosocial behavior and inhibitory control in late childhood: A longitudinal exploration of sex differences and reciprocal relations",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Lia Ferschmann", "Ingrid Overweg", "Fanny Dégeilh", "Christian K Tamnes"],
+        "abstract": ["This study examined longitudinal development of prosocial behavior, assessed by the parent-reported Strength and Difficulty Questionnaire, and inhibitory control, measured by the Opposite Worlds Task, in a sample aged 9 and 12 years (n = 9468, 49.9% girls, 85.8% White) from the Avon Longitudinal Study of Parents and Children. The goal was to assess..."]
+      },
+      {
+        "title": "Puberty differentially predicts brain maturation in male and female youth: A longitudinal ABCD Study",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Dani Beck", "Lia Ferschmann", "Niamh MacSweeney", "Christian K Tamnes"],
+        "abstract": ["Research has demonstrated associations between pubertal development and brain maturation. However, existing studies have been limited by small samples, cross-sectional designs, and inconclusive findings regarding directionality of effects and sex differences.\nWe examined the longitudinal temporal coupling of puberty status assessed using the Pubert..."]
+      },
+      {
+        "title": "Erratum to “Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents” [Dev. Cogn. Neurosci. 56C (2022) 101132]",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Linn B. Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": []
+      },
+      {
+        "title": "Social problems and brain structure development following childhood mild traumatic brain injury",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Fanny Dégeilh", "Tilmann von Soest", "Lia Ferschmann", "Christian K Tamnes"],
+        "abstract": ["Childhood mild traumatic brain injury (mTBI) is associated with elevated risk of developing social problems, which may be underpinned by changes in the structural developmental trajectory of the social brain, a network of cortical regions supporting social cognition and behavior. However, limited sample sizes and cross-sectional designs generally u..."]
+      },
+      {
+        "title": "Puberty differentially predicts brain maturation in males and females during early adolescence: A longitudinal ABCD Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Dani Beck", "Lia Ferschmann", "Niamh MacSweeney", "Christian K Tamnes"],
+        "abstract": ["Background: Research has demonstrated associations between pubertal development and brain maturation. However, existing studies have been limited by small samples, cross-sectional designs, and inconclusive findings regarding coupling directionality and sex differences.\nMethods: We examined the longitudinal temporal coupling of puberty status assess..."]
+      },
+      {
+        "title": "Development of prosocial behavior and inhibitory control in late childhood: A longitudinal exploration of sex differences and reciprocal relations",
+        "tags": ["Preprint"],
+        "date": "Dec 2022",
+        "authors": ["Lia Ferschmann", "Ingrid Overweg", "Fanny Dégeilh", "Christian K Tamnes"],
+        "abstract": ["Prosocial behavior and inhibitory control develop across childhood and adolescence, and several theoretical accounts propose reciprocal relations between the two constructs. Empirical support for such associations is, however, limited. Here, prosocial behavior assessed by the parent-reported Strength and Difficulty Questionnaire and inhibitory cont..."]
+      },
+      {
+        "title": "Social problems and brain structure development following childhood mild traumatic brain injury",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Fanny Dégeilh", "Tillmann von Soest", "Lia Ferschmann", "Christian K Tamnes"],
+        "abstract": ["Childhood mild traumatic brain injury (mTBI) is associated with elevated risk of developing social problems, which may be underpinned by changes in the structural developmental trajectory of the social brain, a network of cortical regions supporting social cognition and behavior. However, limited sample sizes and cross-sectional designs generally u..."]
+      },
+      {
+        "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Linn B. Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": ["Gradients in parental socioeconomic status (SES) are closely linked to important life outcomes in children and adolescents, such as cognitive abilities, school achievement, and mental health. Parental SES may also influence brain development, with several magnetic resonance imaging (MRI) studies reporting associations with youth brain morphometry...."]
+      },
+      {
+        "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
+        "tags": ["Preprint"],
+        "date": "Jan 2022",
+        "authors": ["Linn B. Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": ["Gradients in parental socioeconomic status (SES) are closely linked to important life outcomes in children and adolescents, such as cognitive abilities, school achievement, and mental health. Parental SES may also influence brain development, with several magnetic resonance imaging (MRI) studies reporting associations with youth brain morphometry...."]
+      },
+      {
+        "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
+        "tags": ["Preprint"],
+        "date": "Jan 2022",
+        "authors": ["Linn B. Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": ["Gradients in parental socioeconomic status (SES) are closely linked to important life outcomes in children and adolescents, such as cognitive abilities, school achievement, and mental health. Parental SES may also influence brain development, with several magnetic resonance imaging (MRI) studies reporting associations with youth brain morphometry...."]
+      },
+      {
+        "title": "Parental Socioeconomic Status is Linked to Cortical Microstructure and Language Abilities in Children and Adolescents",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Linn Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": []
+      },
+      {
+        "title": "Contextualizing adolescent structural brain development: Environmental determinants and mental health outcomes",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Lia Ferschmann", "Marieke Geerte Nynke Bos", "Megan Herting", "Christian K Tamnes"],
+        "abstract": ["The spatiotemporal group-level patterns of brain macrostructural development are relatively well-documented. Current research emphasizes individual variability in brain development, including its causes and consequences. While genetic factors and pre- and perinatal events play critical roles, calls are now made to also study brain development in tr..."]
+      },
+      {
+        "title": "Inter-individual variability in structural brain development from late childhood to young adulthood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Kathryn L Mills", "Kimberly D. Siegmund", "Christian K Tamnes", "Megan Herting"],
+        "abstract": ["A fundamental task in neuroscience is to characterize the brain's developmental course. While replicable group-level models of structural brain development from childhood to adulthood have recently been identified, we have yet to quantify and understand individual differences in structural brain development. The present study examined inter-individ..."]
+      },
+      {
+        "title": "Contextualizing adolescent structural brain development",
+        "tags": ["Preprint"],
+        "date": "Jul 2021",
+        "authors": ["Lia Ferschmann", "Marieke Geerte Nynke Bos", "Megan Herting", "Christian K Tamnes"],
+        "abstract": ["The spatiotemporal group-level patterns of brain macrostructural development across adolescence have over the past decades been relatively well documented. Efforts are now being directed towards understanding individual variability in brain development, as well as its causes and consequences. While genetic factors and pre- and perinatal events have..."]
+      },
+      {
+        "title": "New insights into the dynamic development of the cerebral cortex in childhood and adolescence: Integrating macro- and microstructural MRI findings",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Linn B. Norbom", "Lia Ferschmann", "Nadine Parker", "Christian K Tamnes"],
+        "abstract": ["Through dynamic transactional processes between genetic and environmental factors, childhood and adolescence involve reorganization and optimization of the cerebral cortex. The cortex and its development plays a crucial role for prototypical human cognitive abilities. At the same time, many common mental disorders appear during these critical phase..."]
+      },
+      {
+        "title": "Connecting the genetics of wellbeing, brain structure and risk for psychopathology in children: Preregistration",
+        "tags": ["Preprint"],
+        "date": "Mar 2021",
+        "authors": ["Christian K Tamnes", "Dennis van der Meer", "Andreas Dahl", "Lars T. Westlye"],
+        "abstract": ["This project contains a preregistration of secondary data analysis for a research project on the complex links between the genetics influence on the wellbeing spectrum, brain structure, and risk for psychopathology in children."]
+      },
+      {
+        "title": "Individual variability in structural brain development from late childhood to young adulthood",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Kathryn L Mills", "Kimberly D Siegmund", "Christian K Tamnes", "Megan L Herting"],
+        "abstract": ["A fundamental task in neuroscience is to characterize the brain's developmental course. While replicable group-level models of structural brain development from childhood to adulthood have recently been identified, we have yet to quantify and understand individual differences in structural brain development. The present study examined individual va..."]
+      },
+      {
+        "title": "Development of attention networks from childhood to young adulthood: A study of performance, intraindividual variability and cortical thickness",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Rune Boen", "Lia Ferschmann", "Nandita Vijayakumar", "Christian K Tamnes"],
+        "abstract": ["Human cognitive development is manifold, with different functions developing at different speeds at different ages. Attention is an important domain of this cognitive development, and involves distinct developmental trajectories for separate functions, including conflict processing, selection of sensory input and alertness. In children, several stu..."]
+      },
+      {
+        "title": "Cognitive reappraisal and expressive suppression relate differentially to longitudinal structural brain development across adolescence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["Emotional disorders commonly emerge in adolescence, a period characterized by changes in emotion-related processes. Thus, the ability to regulate emotions is crucial for well-being and adaptive social functioning during this period. Concurrently, the brain undergoes large structural and functional changes. We investigated relations between tendenci..."]
+      },
+      {
+        "title": "New insights into the dynamic development of the cerebral cortex in childhood and adolescence: Integrating macro- and microstructural MRI findings",
+        "tags": ["Preprint"],
+        "date": "Dec 2020",
+        "authors": ["Linn B. Norbom", "Lia Ferschmann", "Nadine Parker", "Christian K Tamnes"],
+        "abstract": ["Through dynamic transactional processes between genetic and environmental factors, childhood and adolescence involve reorganization and optimization of the cerebral cortex. The cortex and its development plays a crucial role for prototypical human cognitive abilities. At the same time, many common mental disorders appear during these critical phase..."]
+      },
+      {
+        "title": "Development of attention networks from childhood to young adulthood: A study of performance, intraindividual variability and cortical thickness",
+        "tags": ["Preprint"],
+        "date": "Oct 2020",
+        "authors": ["Rune Boen", "Lia Ferschmann", "Nandita Vijayakumar", "Christian K Tamnes"],
+        "abstract": ["Human cognitive development is manifold, with different functions developing at different speeds at different ages. Attention is an important domain of this cognitive development, and involves distinct developmental trajectories in separate functions, including conflict processing, selection of sensory input and alertness. In children, several stud..."]
+      },
+      {
+        "title": "Cognitive reappraisal and expressive suppression relate differentially to longitudinal structural brain development across adolescence",
+        "tags": ["Preprint"],
+        "date": "Feb 2020",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["The ability to regulate emotions is crucial for well-being and adaptive social functioning. Emotional disorders commonly emerge in the transition from childhood to adulthood, a period characterized by changes in emotion and emotion-related processes, making emotion regulation a principal developmental task. Concurrently, the brain undergoes large s..."]
+      },
+      {
+        "title": "Prosocial behavior relates to the rate and timing of cortical thinning from adolescence to young adulthood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["Prosocial behavior, or voluntary actions that intentionally benefit others, relate to desirable developmental outcomes such as peer acceptance, while lack of prosocial behavior has been associated with several neurodevelopmental disorders. Mapping the biological foundations of prosociality may thus aid our understanding of both normal and abnormal..."]
+      },
+      {
+        "title": "Prosocial behavior relates to the rate and timing of cortical thinning from adolescence to young adulthood",
+        "tags": ["Preprint"],
+        "date": "Apr 2019",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["Prosocial behavior, or voluntary actions that intentionally benefit others, relate to desirable developmental outcomes such as peer acceptance, while lack of prosocial behavior has been associated with several neurodevelopmental disorders. Mapping the biological foundations of prosociality may thus aid understanding of both normal and abnormal deve..."]
+      },
+      {
+        "title": "Continuity and Discontinuity in Human Cortical Development and Change From Embryonic Stages to Old Age",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex is highly regionalized, and this feature emerges from morphometric gradients in the cerebral vesicles during embryonic development. We tested if this principle of regionalization could be traced from the embryonic development to the human life span. Data-driven fuzzy clustering was used to identify regions of coordinated l..."]
+      },
+      {
+        "title": "Prosocial behavior relates to the rate and timing of cortical thinning from adolescence to young adulthood",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["Prosocial behavior, or voluntary actions that intentionally benefit others, relate to desirable developmental outcomes such as peer acceptance, while lack of prosocial behavior has been associated with several neurodevelopmental disorders. Mapping the biological foundations of prosociality may thus aid understanding of both normal and abnormal deve..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Sep 2018",
+        "authors": ["Christian K Tamnes", "Knut Overbye", "Lia Ferschmann", "Iroise Dumontheil"],
+        "abstract": []
+      },
+      {
+        "title": "Social Perspective Taking Is Associated With Self-Reported Prosocial Behavior and Regional Cortical Thickness Across Adolescence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Christian K Tamnes", "Knut Overbye", "Lia Ferschmann", "Iroise Dumontheil"],
+        "abstract": ["Basic perspective taking and mentalizing abilities develop in childhood, but recent studies indicate that the use of social perspective taking to guide decisions and actions has a prolonged development that continues throughout adolescence. Here, we aimed to replicate this research and investigate the hypotheses that individual differences in socia..."]
+      },
+      {
+        "title": "Continuity and discontinuity in human cortical development and change from embryonic stages to old age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex is highly regionalized. We aimed to test whether principles of regionalization could be traced from embryonic development throughout the human lifespan. A data-driven fuzzy-clustering approach was used to identify regions of coordinated longitudinal development of cortical surface area (SA) and thickness (CT) over 1.5 year..."]
+      },
+      {
+        "title": "Social perspective taking is associated with self-reported prosocial behavior and regional cortical thickness across adolescence",
+        "tags": ["Preprint"],
+        "date": "Apr 2018",
+        "authors": ["Christian K Tamnes", "Knut Overbye", "Lia Ferschmann", "Iroise Dumontheil"],
+        "abstract": ["Basic perspective taking and mentalising abilities develop in childhood, but recent studies indicate that the use of social perspective taking to guide decisions and actions has a prolonged development that continues throughout adolescence. Here, we aimed to replicate this research and investigate the hypotheses that individual differences in socia..."]
+      },
+      {
+        "title": "Personality Traits Are Associated With Cortical Development Across Adolescence: A Longitudinal Structural MRI Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Lia Ferschmann", "Anders M. Fjell", "Margarete Vollrath", "Christian K Tamnes"],
+        "abstract": ["How personality traits relate to structural brain changes in development is an important but understudied question. In this study, cortical thickness (CT) and surface area (SA), estimated using magnetic resonance imaging (MRI), were investigated in 99 participants aged 8–19 years. Follow-up MRI data were collected after on average 2.6 years for 74..."]
+      },
+      {
+        "title": "Neurodevelopmental origins of lifespan changes in brain and cognition",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "I.K. Amlien", "A.M. Fjell"],
+        "abstract": ["Neurodevelopmental origins of functional variation in older age are increasingly being acknowledged, but identification of how early factors impact human brain and cognition throughout life has remained challenging. Much focus has been on age-specific mechanisms affecting neural foundations of cognition and their change. In contrast to this approac..."]
+      },
+      {
+        "title": "Neurodevelopmental origins of lifespan changes in brain and cognition",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Anders M. Fjell"],
+        "abstract": ["Significance\nBrain and cognition change with age, with early gains and later declines. Attempts have been made to identify age-specific mechanisms, focusing on when and how declines begin in adults. However, even though general cognitive ability declines with age, there is a high stability in individuals’ cognitive ability relative to their same-ag..."]
+      },
+      {
+        "title": "Online supplementary Table 1",
+        "tags": ["Data"],
+        "date": "Jan 2016",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["Comparing annual percentage change between WM tracts and global skeleton for FA, MD, RD and AD."]
+      },
+      {
+        "title": "Development and aging of cortical thickness correspond to genetic organization patterns",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Anders M. Fjell", "Hakon Grydeland", "Stine K Krogsrud", "Kristine Walhovd"],
+        "abstract": ["Significance\nHere we show that developmental and adult aging-related changes in cortical thickness follow closely the genetic organization of the cerebral cortex. A total of 1,633 MRI scans from 974 participants from 4.1 to 88.5 y of age were used to measure longitudinal changes in cortical thickness, and the topographic pattern of change was compa..."]
+      },
+      {
+        "title": "Changes in white matter microstructure in the developing brain-A longitudinal diffusion tensor imaging study of children from 4 to 11years of age",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Stine K Krogsrud", "Anders M Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["The purpose of the present study was to detail the childhood developmental course of different white matter (WM) characteristics. In a longitudinal diffusion tensor imaging (DTI) study of 159 healthy children between 4 and 11years scanned twice, we used tract-based spatial statistics as well as delineation of 15 major WM tracts to characterize the..."]
+      },
+      {
+        "title": "Better Days - A randomized controlled trial of an internet-based positive psychology intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Filip Drozd", "Lia Ferschmann", "Bettina Nielsen", "Cato Bjørkli"],
+        "abstract": ["The internet seems promising for delivering interventions to enhance well-being in a normal population. The aim of this study was to test the effects of an internet-based positive psychology intervention targeting gratitude, pleasant activities, strengths, mastery, acts of kindness, optimism, flow, attributions, and mindfulness. One-hundred and twe..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [38],
+    "reads": [6157],
+    "citations": [958]
   }
 }

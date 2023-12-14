@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-9450-6616",
-    "name": "Trine Rygvold",
+    "orcid": ["0000-0001-9450-6616"],
+    "name": ["Trine Rygvold"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -22,8 +22,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Trine Waage Rygvold",
-    "id": "18483",
+    "name": ["Trine Waage Rygvold"],
+    "id": ["18483"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -106,5 +106,103 @@
         "url": "https://api.cristin.no/v2/results/1368412"
       }
     ]
+  },
+  "rg": {
+    "id": "Trine-Rygvold",
+    "name": "Trine Waage Rygvold",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1175139760783361-1657186560209_Q128/Trine-Rygvold.jpg",
+    "affiliation": "Oslo University Hospital",
+    "keywords": ["Synaptic Plasticity", "Cognitive Neuropsychology", "Clinical Neuropsychology", "Event-Related Potentials"],
+    "works": [
+      {
+        "title": "Baseline long-term potentiation-like cortical plasticity is associated with longitudinal cortical thinning in healthy adults and in adults with bipolar disorder type II",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": ["The precise neurobiological processes underlying cerebral cortical thinning in aging and psychiatric illnesses remain undetermined, yet aging- and synaptic dysfunction-related loss of synapses are potential important mechanisms. We used long-term potentiation-like plasticity of the visual evoked potential as an index of synaptic function in the cor..."]
+      },
+      {
+        "title": "Long term potentiation-like neural plasticity and performance-based memory function",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Trine Waage Rygvold", "Christoffer Hatlestad-Hall", "Elvsåshagen Torbjørn", "Stein Andersson"],
+        "abstract": ["Objective\nExperience-dependent modulation of the visual evoked potential (VEP) has emerged as a promising non-invasive proxy for assaying long term potentiation (LTP)-like plasticity in the cerebral cortex. LTP is considered the principal candidate mechanism underlying learning and memory. There is, however, a paucity of evidence exploring associat..."]
+      },
+      {
+        "title": "BIDS-structured resting-state electroencephalography (EEG) data extracted from an experimental paradigm",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Christoffer Hatlestad-Hall", "Trine Waage Rygvold", "Stein Andersson"],
+        "abstract": ["Electroencephalography (EEG) offers a unique window into the dynamics of the neuronal symphony that powers our brains. Here, we describe a publicly available dataset of EEG recorded from 111 healthy subjects. The data were recorded with 64 electrodes in a resting-state condition, an approach that offers broad-spectred analysis options, including fu..."]
+      },
+      {
+        "title": "Long-Term Potentiation-Like Visual Synaptic Plasticity Is Negatively Associated With Self-Reported Symptoms of Depression and Stress in Healthy Adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Trine Waage Rygvold", "Christoffer Hatlestad-Hall", "Torbjørn Elvsåshagen", "Stein Andersson"],
+        "abstract": ["Long-term potentiation (LTP) is one of the most extensively studied forms of neuroplasticity and is considered the strongest candidate mechanism for memory and learning. The use of event-related potentials and sensory stimulation paradigms has allowed for the translation from animal studies to non-invasive studies of LTP-like synaptic plasticity in..."]
+      },
+      {
+        "title": "Subthalamic Nucleus Stimulation in Parkinson's Disease: 5‐Year Extension Study of a Randomized Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Silje Bjerknes", "Mathias Toft", "Reidun Brandt", "Inger Marie Skogseid"],
+        "abstract": ["Background: \nIn Parkinson's disease (PD) long-term motor outcomes of subthalamic nucleus deep brain stimulation (STN-DBS) are well documented, while comprehensive reports on non-motor outcomes are fewer and less consistent.\n\nObjective: \nTo report motor and non-motor symptoms after 5-years of STN-DBS.\n\nMethods: \nWe performed an open 5-year extension..."]
+      },
+      {
+        "title": "Sensory-Induced Human LTP-Like Synaptic Plasticity – Using Visual Evoked Potentials to Explore the Relation Between LTP-Like Synaptic Plasticity and Visual Perceptual Learning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Lilly Lengali", "Johannes Hippe", "Christoffer Hatlestad-Hall", "Stein Andersson"],
+        "abstract": ["Objective\nStimulus-selective response modulation (SRM) of sensory evoked potentials represents a well-established non-invasive index of long-term potentiation-like (LTP-like) synaptic plasticity in the human sensory cortices. Although our understanding of the mechanisms underlying stimulus-SRM has increased over the past two decades, it remains unc..."]
+      },
+      {
+        "title": "Do visual and auditory stimulus-specific response modulation reflect different mechanisms of neocortical plasticity?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Trine Waage Rygvold", "Christoffer Hatlestad-Hall", "Torbjørn Elvsåshagen", "Stein Andersson"],
+        "abstract": ["Stimulus response modulation (SRM) of sensory evoked potentials represents a promising method as a non-invasive index of LTP-like synaptic plasticity in the human sensory cortices. As of today however, no consensus exists regarding which experimental parameters elicit the most robust SRM response. The aim of the current study was twofold; firstly,..."]
+      },
+      {
+        "title": "Longitudinal and cross-sectional investigations of long-term potentiation-like cortical plasticity in bipolar disorder type II and healthy individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": ["Visual evoked potential (VEP) plasticity is a promising assay for noninvasive examination of long-term potentiation (LTP)-like synaptic processes in the cerebral cortex. We conducted longitudinal and cross-sectional investigations of VEP plasticity in controls and individuals with bipolar disorder (BD) type II. VEP plasticity was assessed at baseli..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": []
+      },
+      {
+        "title": "Multiple Microelectrode Recordings in STN‐DBS Surgery for Parkinson's Disease: A Randomized Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Silje Bjerknes", "Mathias Toft", "Ane Konglund", "Inger Marie Skogseid"],
+        "abstract": ["Background: Subthalamic nucleus deep brain stimulation improves motor symptoms and fluctuations in advanced Parkinson's disease, but the degree of clinical improvement depends on accurate anatomical electrode placement. Methods used to localize the sensory‐motor part of the nucleus vary substantially. Using microelectrode recordings, at least three..."]
+      },
+      {
+        "title": "Strømme Syndrome Is a Ciliary Disorder Caused by Mutations in CENPF",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Isabel Filges", "Elisabeth Bruder", "Kristin Brandal", "Petter Strømme"],
+        "abstract": []
+      },
+      {
+        "title": "Strømme Syndrome is a Ciliary Disorder Caused by Mutations in CENPF",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Isabel Filges", "Elisabeth Bruder", "Kristin Brandal", "Petter Strømme"],
+        "abstract": ["Strømme syndrome was first described in 1993 by Strømme and collaborators in siblings presenting with \"apple peel\" type intestinal atresia, ocular anomalies and microcephaly. The etiology remains unknown to date. We describe the long-term clinical follow-up data for the original pair of siblings as well as two previously unreported siblings with a..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "Currently working as a psychologist/researcher at Norwegian Centre of Expertise for Neurodevelopmental Disorders and Hypersomnias, Oslo University Hospital.\n\nPhD in cognitive neuroscience from the Dept. of Psychology, University of Oslo",
+    "publications": [12],
+    "reads": [2355],
+    "citations": [124]
   }
 }

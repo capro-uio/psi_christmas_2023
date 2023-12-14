@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Pål Kraft",
-    "id": "G6OskFcAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Pål Kraft"],
+    "id": ["G6OskFcAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -900,8 +900,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0612-0439",
-    "name": "Pål Kraft",
+    "orcid": ["0000-0002-0612-0439"],
+    "name": ["Pål Kraft"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -912,11 +912,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Pål Kraft",
-    "id": "14454",
+    "name": ["Pål Kraft"],
+    "id": ["14454"],
     "keywords": [],
     "position": ["Professor ii", "Professor", null],
-    "img": "https://api.cristin.no/v2/persons/14454/picture",
+    "img": ["https://api.cristin.no/v2/persons/14454/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1569,5 +1569,481 @@
         "url": "https://api.cristin.no/v2/results/383711"
       }
     ]
+  },
+  "rg": {
+    "id": "Pal-Kraft-3",
+    "name": "Pål Kraft",
+    "img": "https://i1.rgstatic.net/ii/profile.image/278829575753734-1443489559817_Q128/Pal-Kraft-3.jpg",
+    "affiliation": "Norwegian Institute for Alcohol and Drug Research | SIRUS, Norwegian Institute for Alcohol and Drug Research",
+    "keywords": ["Self-efficacy"],
+    "works": [
+      {
+        "title": "Running to Get “Lost”? Two Types of Escapism in Recreational Running and their Relations to Exercise Dependence and Subjective Well-Being",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Frode Stenseng", "Ingvild Bredvei Steinsholt", "Beate Wold Hygen", "Pål Kraft"],
+        "abstract": ["Escapism is a fundamental motivation in many forms of activity engagements. At its core, escapism is “a habitual diversion of the mind … as an escape from reality or routine”. Accordingly, escapism may entail many adaptive and maladaptive psychological antecedents, covariates, and outcomes. However, few studies have been conducted on escapism as a..."]
+      },
+      {
+        "title": "Running to Get \"Lost\"? Two Types of Escapism in Recreational Running and Their Relations to Exercise Dependence and Subjective Well-Being",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Frode Stenseng", "Ingvild Bredve Steinsholt", "Beate Wold Hygen", "Pål Kraft"],
+        "abstract": ["Escapism is a fundamental motivation in many forms of activity engagements. At its core, escapism is “a habitual diversion of the mind . . . as an escape from reality or routine” (Merriam-Webster, n.d.). Accordingly, escapism may entail many adaptive and maladaptive psychological antecedents, covariates, and outcomes. However, few studies have been..."]
+      },
+      {
+        "title": "A web-based intervention trial for depressive symptoms and subjective well-being in patients with chronic HIV infection",
+        "tags": ["Article"],
+        "date": "Dec 2013",
+        "authors": ["Filip Drozd", "Linda Gail Skeie", "Pål Kraft", "Dag Kvale"],
+        "abstract": ["The current study examined the efficacy of a web-based intervention (WBI; Avanti) on symptoms of depression and well-being for patients diagnosed with HIV. A two-armed randomized trial recruited patients on antiretroviral therapy (ART) at an outpatient clinic. Thirty-six patients were allocated to Avanti and 31 patients to a control group. Primary..."]
+      },
+      {
+        "title": "LST2011TheDarkSide",
+        "tags": ["Data", "Full-text available"],
+        "date": "Aug 2013",
+        "authors": ["Frode Stenseng", "Jostein Rise", "Pål Kraft"],
+        "abstract": []
+      },
+      {
+        "title": "Fear appeals in advanced tobacco control environments: The impact of a National Mass Media Campaign in Norway",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Torleif Halkjelsvik", "Karl Erik Lund", "Pål Kraft", "Jostein Rise"],
+        "abstract": ["Norway has one of the most comprehensive infrastructures for tobacco control in the world and has launched several media campaigns recent years. Can yet another anti-smoking campaign, using fear appeal messages, have an immediate impact on smoking behavior, motivation to quit and health beliefs? A sample of smokers (N = 2543) completed a survey bef..."]
+      },
+      {
+        "title": "Multilevel Growth Curve Analyses of Treatment Effects of a Web-Based Intervention for Stress Reduction: Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2013",
+        "authors": ["Filip Drozd", "Sabine Raeder", "Pål Kraft", "Cato Bjørkli"],
+        "abstract": ["Stress is commonly experienced by many people and it is a contributing factor to many mental and physical health conditions, However, few efforts have been made to develop and test the effects of interventions for stress.\nThe aim of this study was to examine the effects of a Web-based stress-reduction intervention on stress, investigate mindfulness..."]
+      },
+      {
+        "title": "A randomized controlled trial of a web-based psychological intervention for patients under treatment for chronic HIV infection",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["L Skeie", "Filip Drozd", "Pål Kraft", "Dag Kvale"],
+        "abstract": ["Purpose of the study\nOne of the most prevalent mental conditions in people with HIV is depression as uniquely characterized by low positive affect. This study examined the effect of a web‐based intervention (Avanti) on overall mood and depressive symptoms among patients with HIV infection.\n\nMethods\nPatients treated with effective antiretroviral tre..."]
+      },
+      {
+        "title": "A longitudinal study of postpartum depressive symptoms: Multilevel growth curve analyses of emotion regulation strategies, breastfeeding self-efficacy, and social support",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Silje Marie Haga", "Pål Ulleberg", "Kari Slinning", "Annetine Staff"],
+        "abstract": ["Postpartum depression is a serious health issue affecting as many as 10-15 % of postpartum women. This longitudinal study aimed to explore how psychological variables such as cognitive emotion regulation strategies, breastfeeding self-efficacy (BSE), and dimensions of social support predicted postpartum depressive symptoms (Edinburgh Postnatal Depr..."]
+      },
+      {
+        "title": "Activity Engagement as Escape from Self: The Role of Self-Suppression and Self-Expansion",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Frode Stenseng", "Jostein Rise", "Pål Kraft"],
+        "abstract": ["A two-dimensional model on escape motives in activity engagement was developed in three studies. We suggested that motivation to escape the self through engagement in an activity partly derives from intentions to either prevent negative affect or to promote positive affect. A scale for measuring these intentional mindsets was developed consisting o..."]
+      },
+      {
+        "title": "A web-based intervention for HIV patients in adjunct to medical treatment: A randomized clinical trial",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Filip Drozd", "Linda Gail Skeie", "Pål Kraft", "Dag Kvale"],
+        "abstract": ["Objective: Test efficacy of a web-based intervention (ÐAvanti’’) on depression and well-being\namong hiv patients on antiretroviral therapy (ART). Methods: A two-armed randomized\ncontrolled trial with study-end at three months. Sixty-seven subjects recruited at an outpatient\nclinic. Outcomes were Center for Epidemiological Studies-Depression Scale,..."]
+      },
+      {
+        "title": "A qualitative study of depressive symptoms and well-being among first-time mothers",
+        "tags": ["Article"],
+        "date": "Nov 2011",
+        "authors": ["Silje Marie Haga", "Anita Lynne", "Kari Slinning", "Pål Kraft"],
+        "abstract": ["Ten to 15% of women experience postpartum depression. First-time mothers are particularly at risk. The present qualitative study aimed to gain insight in terms of why some women find the transition of becoming a mother to be so emotionally taxing that they feel some level of depressed mood, while others feel mostly content after having a baby.\nSemi..."]
+      },
+      {
+        "title": "The Dark Side of Leisure: Obsessive Passion and its Covariates and Outcomes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Frode Stenseng", "Jostein Rise", "Pål Kraft"],
+        "abstract": ["The present paper challenges the notion that engagement in leisure activities is exclusively conducive to well‐being. By applying the Dualistic Model of Passion in a leisure context on 467 participants, the measurement of obsessive passion for a leisure activity was related to indicators of ill‐being and unrelated to general well‐being. In Study 1,..."]
+      },
+      {
+        "title": "Alkoholproblemer på arbeidsplassen – en arena for tidlig intervensjon via nye medier",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Fanny Duckert", "Filip Drozd", "Pål Kraft"],
+        "abstract": ["The increasingly easy access to alcohol in Norway has led to a rise in alcohol consumption. The use of alcohol in work-related situations has grown to become a normal feature, espe- cially among persons holding senior positions within business and industry. The economic loss due to employees’ excessive drinking has reached formidable proportions. E..."]
+      },
+      {
+        "title": "Looking Inside the Black Box: Using Intervention Mapping to Describe the Development of the Automated Smoking Cessation Intervention ‘Happy Ending’",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2010",
+        "authors": ["Håvar Brendryen", "Pål Kraft", "Herman Schaalma"],
+        "abstract": ["The digital therapy intervention for smoking cessation, ‘Happy Ending’, has been shown to be efficacious in two previous randomised controlled trials. The aim of the current article is to disentangle the rationale of the intervention and describe its development. For this purpose, Intervention Mapping is used as a descriptive tool. The intervention..."]
+      },
+      {
+        "title": "Current issues and new directions in Psychology and Health: What is the future of digital interventions for health behaviour change?",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Pål Kraft", "Lucy Yardley"],
+        "abstract": []
+      },
+      {
+        "title": "Emotion Regulation: Antecedents and Well-Being Outcomes of Cognitive Reappraisal and Expressive Suppression in Cross-Cultural Samples",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2009",
+        "authors": ["Silje Marie Haga", "Pål Kraft", "Emma-Kate Corby"],
+        "abstract": ["Habitual emotional state is a predictor of long-term health and life expectancy and successful emotion regulation is necessary\nfor adaptive functioning. However, people are often unsuccessful in regulating their emotions. We investigated the use of\ncognitive reappraisal and expressive suppression in 489 university students in Norway, Australia, and..."]
+      },
+      {
+        "title": "ePsychology: A pilot study on how to enhance social support and adherence in digital interventions by characteristics from social networking sites",
+        "tags": ["Article"],
+        "date": "Apr 2009",
+        "authors": ["Elin Olsen Kallevik", "Pål Kraft"],
+        "abstract": ["We know much too little about how to design effective digital interventions to support sustained behaviour change and improved well-being. The purpose of the present study is to explore whether characteristics and features from social network sites like Facebook, Twitter and MySpace can be used to facilitate digital interventions for Health Behavio..."]
+      },
+      {
+        "title": "The role of individualization in ePsychology interventions",
+        "tags": ["Article"],
+        "date": "Apr 2009",
+        "authors": ["Pål Kraft"],
+        "abstract": ["Digital media (internet, mobile phones, etc.) are becoming increasingly important means of sustaining the health of people worldwide, whether by providing access to a wealth of information, by linking geographically dispersed communities of peers and professionals, or by supporting self-management of health and illness. Digital interventions can pr..."]
+      },
+      {
+        "title": "The role of individualization in",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2009",
+        "authors": ["Pål Kraft"],
+        "abstract": []
+      },
+      {
+        "title": "ePsychology: Designing Theory-Based Health Promotion Interventions",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Pål Kraft", "Filip Drozd", "Elin Olsen Kallevik"],
+        "abstract": ["Persuasive technologies pervade much of our everyday lives today in areas from marketing to public health. In the latter case, persuasive technology represents a promising area of application. However, we know much too little about how to design effective interventions to support sustained behaviour change and improved well-being. The purpose of th..."]
+      },
+      {
+        "title": "Digital Therapy: Addressing Willpower as Part of the Cognitive-Affective Processing System in the Service of Habit Change",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2008",
+        "authors": ["Pål Kraft", "Filip Drozd", "Elin Olsen Kallevik"],
+        "abstract": ["We know much too little about how to design effective digital interventions to support sustained behavior change and improved well-being. The purpose of the present paper was to contribute in two ways. First, we want to contribute to current practice in designing such interventions. Second, we try to identify key research questions that could be a..."]
+      },
+      {
+        "title": "Digital Therapy: The Role of Digital Positive Psychotherapy in Successful Self-regulation",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2008",
+        "authors": ["Elin Olsen Kallevik", "Pål Kraft"],
+        "abstract": ["We are currently developing a digital positive psycho-therapy intervention. The intervention will be presented at the 3rd\nInternational Conference on Persuasive Technology 2008. By means of installing positive emotions, digital positive psycho-therapy\nmay help prevent ego-depletion and hence increase the chances for successful self-regulation. This..."]
+      },
+      {
+        "title": "Predicting the intention to quit smoking and quitting behaviour: Extending the theory of planned behaviour",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Jostein Rise", "V Kovac", "Pål Kraft", "Inger Synnøve Moan"],
+        "abstract": ["The present study examined the ability of the TPB to predict the intention to quit smoking and quitting behaviour. In addition, the predictive power of future orientation, number of cigarettes smoked, planning, past behaviour and the interactions between intention and other predictors was examined.\nThe data were derived from a longitudinal survey a..."]
+      },
+      {
+        "title": "Happy Ending: A Randomized Controlled Trial of a Digital Multi-Media Smoking Cessation Intervention",
+        "tags": ["Article"],
+        "date": "Apr 2008",
+        "authors": ["Håvar Brendryen", "Pål Kraft"],
+        "abstract": ["To assess the long-term efficacy of a fully automated digital multi-media smoking cessation intervention.\nTwo-arm randomized control trial (RCT). Setting World Wide Web (WWW) study based in Norway.\nSubjects (n = 396) were recruited via internet advertisements and assigned randomly to conditions. Inclusion criteria were willingness to quit smoking a..."]
+      },
+      {
+        "title": "A Digital Smoking Cessation Program Delivered Through Internet and Cell Phone Without Nicotine Replacement (Happy Ending): Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2008",
+        "authors": ["Håvar Brendryen", "Filip Drozd", "Pål Kraft"],
+        "abstract": ["Happy Ending (HE) is an intense 1-year smoking cessation program delivered via the Internet and cell phone. HE consists of more than 400 contacts by email, Web pages, interactive voice response, and short message service technology. HE includes a craving helpline and a relapse prevention system, providing just-in-time therapy. All the components of..."]
+      },
+      {
+        "title": "Digital Therapy: The Coming Together of Psychology and Technology Can Create a New Generation of Programs for More Sustainable Behavioral Change",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Apr 2007",
+        "authors": ["Pål Kraft", "Harald Schjelderup-Lund", "Håvar Brendryen"],
+        "abstract": ["By mapping critical psychological processes involved in an attempt at behavioral change, we can design digital programs to\ndeliver specific cognitive therapy at the right moments, increasing the probability of successful behavioral change in a variety\nof domains. This breakthrough, named Digital Therapy, has been proven in random clinical trials to..."]
+      },
+      {
+        "title": "Does socio-economic status and health consciousness influence how women respond to health related messages in media?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2006",
+        "authors": ["Anette Christine Iversen", "Pål Kraft"],
+        "abstract": ["During the past few decades, people have been increasingly exposed to health-related messages in the mass media, conveying recommendations for healthy lifestyles. The present study investigates whether these messages represent a stressor, and whether coping responses increase levels of motivation or levels of negative affect. A sample of 403 women..."]
+      },
+      {
+        "title": "Perceived difficulty in the theory of planned behaviour: Perceived behavioural control or affective attitude?",
+        "tags": ["Article"],
+        "date": "Oct 2005",
+        "authors": ["Pål Kraft", "Jostein Rise", "Stephen Sutton", "Espen Røysamb"],
+        "abstract": ["A study was conducted to explore (a) the dimensional structure of perceived behavioural control (PBC), (b) the conceptual basis of perceived difficulty items, and (c) how PBC components and instrumental and affective attitudes, respectively, relate to intention and behaviour. The material stemmed from a two-wave study of Norwegian graduate students..."]
+      },
+      {
+        "title": "Bridging the intention behaviour gap in the theory of planned behaviour: The case of quitting smoking",
+        "tags": ["Article"],
+        "date": "Jun 2004",
+        "authors": ["Jostein Rise", "V. Kovac", "Pål Kraft"],
+        "abstract": ["At T1 (October 2003) attitudes, norms, PBC, and intention to quit smoking in the next 3-4 months were assessed among 174 daily smoking students at the University of Oslo (mean number of years of smoking = 8.0, sd = 4.7; mean age = 24.6, sd = 4.6) using self-administered questionnaires. The TPB extended with affective attitudes and descriptive norms..."]
+      },
+      {
+        "title": "Control Constructs: Do They Mediate the Relation between Educational Attainment and Health Behaviour?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2003",
+        "authors": ["Anette Christine Iversen", "Pål Kraft"],
+        "abstract": ["Health promoting behaviours seem to be more prevalent among people with higher socio-economic status (SES). The main purpose of this article was to study (a) the relationship between education (as a dimension of SES) and intention and health behaviour (fruit/vegetable consumption), (b) the relationship between education and control conceptualizatio..."]
+      },
+      {
+        "title": "Expanding the Theory of Planned Behaviour: The Role of Social Norms and Group Identification",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Zelalem Fekadu", "Pål Kraft"],
+        "abstract": ["The purposes of the study were twofold. First, to explore the predictive power of the descriptive and group norms, when the effect of subjective norm had already been accounted for. Second, to investigate to what extent perceived group norm of a behaviourally relevant reference group would predict the intention to use contraception among those who..."]
+      },
+      {
+        "title": "The Relationship between Body Image and Depressed Mood in Adolescence: A 5-year Longitudinal Panel Study",
+        "tags": ["Article"],
+        "date": "Dec 2001",
+        "authors": ["Ingrid Holsen", "Pål Kraft", "Espen Røysamb"],
+        "abstract": ["Much research interest has been devoted to reveal the psychosocial processes associated with the development of depressive symptoms during adolescence. One of the important factors that has been studied is body image. In a 5-year longitudinal investigation, we revealed and discussed the relationship between body image and depressed mood in a cohort..."]
+      },
+      {
+        "title": "Predicting intended contraception in a sample of Ethiopian female adolescents: The validity of the theory of planned behavior",
+        "tags": ["Article"],
+        "date": "Mar 2001",
+        "authors": ["Zelalem Fekadu", "Pål Kraft"],
+        "abstract": ["The purposes of the study were threefold. First, to test the validity of Ajzen's (1991) theory of planned behavior (TPB) in predicting intended contraception in the Ethiopian cultural setting. Second, to examine the additional predictive roles of past behavior and perceived pregnancy risk in the TPB model. Third, to identify the salient contracepti..."]
+      },
+      {
+        "title": "Toward an Integrative Model of Suicide Attempt: A Cognitive Psychological Approach",
+        "tags": ["Article"],
+        "date": "Feb 2001",
+        "authors": ["Gudrun Dieserud", "Espen Røysamb", "Øivind Ekeberg", "Pål Kraft"],
+        "abstract": ["Applying a cognitive approach, the purpose of the present study was to expand previous research on stress-vulnerability models of depression and problem-solving deficits, as it relates to suicide attempt. Structural equation modelling, involving latent variables, was used to evaluate (a) whether low self-esteem, a low sense of self-efficacy, loneli..."]
+      },
+      {
+        "title": "Self-identity in planned behavior perspective: Past behavior and its moderating effects on self-identity-intention relations",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["Zelalem Fekadu", "Pål Kraft"],
+        "abstract": ["The self-identity and past behavior measures were included in a structured TPB (Theory of Planned Behavior) questionnaire, with the major aim of providing support for the hypothesized main and interaction effects. Results supported the validity of the TPB model, with subjective norm as the strongest predictor of intention. In addition, self-identit..."]
+      },
+      {
+        "title": "Stability in Depressed Mood in Adolescence: Results from a 6-Year Longitudinal Panel Study",
+        "tags": ["Article"],
+        "date": "Feb 2000",
+        "authors": ["Ingrid Holsen", "Pål Kraft", "Joar Vittersø"],
+        "abstract": ["A 6-year longitudinal panel study investigated the absolute and relative stability in depressed mood throughout adolescence by reporting data from a sample of 538 adolescents between 13 and 19 years of age. Results revealed the following. (1) Girls had on average higher depressed mood scores than boys at all ages. (2) Among boys there were no subst..."]
+      },
+      {
+        "title": "Perceived self-efficacy in health behaviour research: Conceptualisation, measurement and correlates",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2000",
+        "authors": ["Anette Christine Iversen", "Pål Kraft", "Espen Røysamb"],
+        "abstract": ["Two studies examine the psychometric properties and socio-demographic correlates of the General Self-efficacy Scale (GSE) (Jerusalem and Schwarzer, 1986; Schwarzer, 1993). Further, the relationship between GSE and different types of task-specific self-efficacy (TSSE) was studied. Data from 421 Norwegian daily smokers aged 16–79 and 1576 Norwegian 1..."]
+      },
+      {
+        "title": "Intention to stop smoking among Norwegian smokers: The role of nicotine dependence, type of cigarettes, and age at onset of daily smoking",
+        "tags": ["Article"],
+        "date": "Feb 1998",
+        "authors": ["Pål Kraft", "Terje Svendsen", "Arne Hauknes"],
+        "abstract": ["This study is a report on the data of psychological nicotine dependence among Norwegian daily smokers. Nicotine dependence was higher among smokers smoking hand-rolled cigarettes than smokers smoking manufactured cigarettes in spite of the fact that the average number of cigarettes smoked per day was the same for both groups. The dependence also in..."]
+      },
+      {
+        "title": "Do local inhabitants want to participate in community injury prevention?: A focus on the significance of local identities for community participation",
+        "tags": ["Article"],
+        "date": "Oct 1997",
+        "authors": ["Øystein Nilsen", "Pål Kraft"],
+        "abstract": ["During the 1980s the community became the object of new interest and enthusiasm among many health promotion practitioners and researchers, and the principle\nof community participation was put on the research agenda. However, recent evaluations of major community health promotion programs have questioned\nthe value of community interventions. This pa..."]
+      },
+      {
+        "title": "Injury incidence, risk perception and product-related safety behavior among 18- and 45-year-olds",
+        "tags": ["Article"],
+        "date": "Sep 1997",
+        "authors": ["ydis ueland", "Pål Kraft"],
+        "abstract": ["Adolescents generally have twice the injury incidence of adults. This increased risk of injury may partly be a consequence of the types of activities performed, the level of exposure to products and the safety behavior. The purpose of this paper was to identify possible predictors for the increased injury risk of adolescents compared to adults. To..."]
+      },
+      {
+        "title": "On the structure and dimensionality of health-related behaviour in adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 1997",
+        "authors": ["Espen Røysamb", "Jstein Rse", "Pål Kraft"],
+        "abstract": ["The structure of interrelations among different health-related behaviors was studied in a sample of Norwegian adolescents. Whereas some studies have suggested that health-related behavior is uni-dimensional, other studies have supported the notion of multi-dimensionality, and most recently, bi-dimensionality.A multiple level, hierarchical factor mo..."]
+      },
+      {
+        "title": "Tobacco use among young adults in Norway, 1973-95: Has the decrease levelled out?",
+        "tags": ["Article"],
+        "date": "Feb 1997",
+        "authors": ["Pål Kraft", "Terje Svendsen"],
+        "abstract": ["To describe the prevalence of tobacco use among young Norwegian adults, 1973-1995.\nCross sectional personal and telephone surveys.\nNorway, 1973-1995.\nPopulation based samples of Norwegians aged 16-74 years.\nA trend to a decline in tobacco use among young adult Norwegians during the 1960s and 1970s levelled out during the 1980s. Hence, the total pre..."]
+      },
+      {
+        "title": "[Nicotine dependence among Norwegian smokers and possible consequences for preventive actions]",
+        "tags": ["Article"],
+        "date": "Feb 1997",
+        "authors": ["Pål Kraft", "T Svendsen", "A Hauknes"],
+        "abstract": ["This article presents data on nicotine dependence among daily smokers in Norway in terms of Fagerströms Test for Nicotine Dependence (FTND). Nicotine dependence was higher among those smoking hand-rolled cigarettes than among those smoking manufactured cigarettes, in spite of the fact that the average number of cigarettes smoked per day was the sam..."]
+      },
+      {
+        "title": "On the replicability and correlates of the Parent Health Locus of Control Scales",
+        "tags": ["Article"],
+        "date": "Dec 1996",
+        "authors": ["Pål Kraft", "M. Loeb"],
+        "abstract": ["This study examined the replicability, psycho- metric properties and sodo-demographic cor- relates of the Parent Health Locus of Control Scales (PHLOC). The original 30-item English version of the PHLOC instrument was trans- lated and applied to a Norwegian sample. The subjects were (1) 1058 mothers of 2-year-old children and residing in the county..."]
+      },
+      {
+        "title": "Safety measures taken by Norwegian mothers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 1996",
+        "authors": ["Øydis Ueland", "Pål Kraft"],
+        "abstract": ["To identify predictors of the adoption of safety measures by mothers of 2 year old children.\n26 municipalities in the county of Sogn and Fjordane, and four municipalities in the county of Møre and Romsdal in Norway.\nData was collected by questionnaires mailed to all mothers of 2 year olds in the 30 municipalities (response rate 70.7%, n = 1233). In..."]
+      },
+      {
+        "title": "[Smoking habits and use of snuff in Norway 1973-95. Has the declining trend levelled off?]",
+        "tags": ["Article"],
+        "date": "Mar 1996",
+        "authors": ["Pål Kraft", "T Svendsen"],
+        "abstract": ["A number of studies indicate that the prevalence of smoking declined among young Norwegian adults during the 1960s and 1970s. The present paper shows, however, that this decreasing trend seemed to level out during the 1980s. Hence the total prevalence of smoking in Norway decreased by only two percent units from 1980 to 1993, as compared with appro..."]
+      },
+      {
+        "title": "Prediction of attitudes towards restrictive AIDS policies: a structural equation modelling approach",
+        "tags": ["Article"],
+        "date": "Apr 1995",
+        "authors": ["Pål Kraft", "Jostein Rise"],
+        "abstract": ["The purpose of the study was to test a prehypothesized structural equation model of predictors of attitudes towards restrictive AIDS policies. It was assumed that such attitudes ae under influence of both cognitive processes and more general attitudinal structures. The hypothesized model was tested against empirical data from a nation-wide survey o..."]
+      },
+      {
+        "title": "The Sexual Opinion Survey scale: a study on dimensionality in Norwegian adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 1993",
+        "authors": ["Jostein Rise", "Bente Træen", "Pål Kraft"],
+        "abstract": ["The purpose of this study was to report upon the dimensionality of a learned emotional trait disposition assumed to generalize\nto all kinds of sexual activities (‘erotophobia—erotophilia’) using the Sexual Opinion Survey (SOS) comprising 21 items. The\nempirical data stem from a nationwide Norwegian study among 17–19 year olds in 1988 (response rate..."]
+      },
+      {
+        "title": "[What do Norwegians know about sexually transmitted diseases? Results from a survey on Norwegians' knowledge about sexually transmitted diseases]",
+        "tags": ["Article"],
+        "date": "Oct 1993",
+        "authors": ["Pål Kraft", "Jostein Rise"],
+        "abstract": ["This paper reports on knowledge about sexually transmitted diseases in Norwegian adults. The sample (572 males and 601 females) was representative of Norwegians aged 15 and above. Data were collected by means of personal interviews and self-completed questionnaires. Out of ten respondents, seven did not know that sexually diseases are not transmitt..."]
+      },
+      {
+        "title": "Sexual knowledge among Norwegian adolescents",
+        "tags": ["Article"],
+        "date": "Apr 1993",
+        "authors": ["Pål Kraft"],
+        "abstract": ["Sexual knowledge among Norwegian adolescents was studied. The data stemmed from a nationwide postal survey of 3000 Norwegian adolescents aged 17-19 years, yielding a response rate of 62.8%. Information on 16 sexual knowledge items was collected. The results showed considerable knowledge gaps among adolescents on sexual physiology and anatomy, sexua..."]
+      },
+      {
+        "title": "Public knowledge of AIDS in Norway 1986–1989",
+        "tags": ["Article"],
+        "date": "Mar 1992",
+        "authors": ["Pål Kraft"],
+        "abstract": ["The present study presents data from five nationwide interview surveys conducted in Norway between January 1986 and November 1989. The results show that the level of public knowledge among Norwegian adults of how human immunodeficiency virus (HIV) infection is transmitted was high as early as of January 1986 (before the onset of the large scale cam..."]
+      },
+      {
+        "title": "Contraceptive behavior of Norwegian students",
+        "tags": ["Article"],
+        "date": "Jan 1992",
+        "authors": ["Pål Kraft", "Jostein Rise"],
+        "abstract": ["This paper describes contraceptive practices among Norwegian adolescents. The data stem from a survey of a random sample of 3000 adolescents aged 17 - 19, yielding a response rate of 60.9%. On the most recent occasion when intercourse took place, every fifth adolescent did not use any contraception; one in three used a condom and approximately 40%..."]
+      },
+      {
+        "title": "Age at first experience of intercourse among Norwegian adolescents: A lifestyle perspective",
+        "tags": ["Article"],
+        "date": "Feb 1991",
+        "authors": ["Pål Kraft"],
+        "abstract": ["Age at first intercourse among Norwegian adolescents was studied by means of survival analysis. The data stemmed from a nation-wide survey of 3000 Norwegian adolescents aged 17-19, yielding a response rate of 61.8%. Median age at first intercourse was 17.3 years among girls and 18.0 years among boys. By means of Cox regression analysis associations..."]
+      },
+      {
+        "title": "[The age of sexual debut among Norwegian adolescents]",
+        "tags": ["Article"],
+        "date": "Oct 1990",
+        "authors": ["Pål Kraft"],
+        "abstract": ["Kaplan-Meier estimates were used to study age at first intercourse among Norwegian adolescents. The data stemmed from a nation-wide study of 3,000 Norwegian adolescents aged 17-19 years. The response rate was 61.8%. Median age at first intercourse was 17.3 years for girls and 18.0 years for boys. The results indicate that median age at first interc..."]
+      },
+      {
+        "title": "The HIV epidemic and changes in the use of contraception among Norwegian adolescents",
+        "tags": ["Article"],
+        "date": "Aug 1990",
+        "authors": ["Pål Kraft", "Jostein Rise", "Bente Træen"],
+        "abstract": ["In order to describe the use of contraception and changes due to HIV/AIDS, a population-based survey of 3000 Norwegian adolescents aged 17-19 years old was conducted, with a response rate of 60.9%. At first intercourse, 29.2% of the girls and 33.3% of the boys reported using no contraception, while 44.4% of the girls and 39.7% of the boys reported..."]
+      },
+      {
+        "title": "[Adolescents and prevention--use of contraception by Norwegian adolescents during the most recent intercourse and during casual sex]",
+        "tags": ["Article"],
+        "date": "Jun 1990",
+        "authors": ["Pål Kraft", "B Traeen", "Jostein Rise"],
+        "abstract": ["The paper describes the use of contraception at the most recent intercourse and during casual sex among Norwegian adolescents. The empirical data stem from a population-based survey of 3,000 Norwegian adolescents aged 17-19. The response rate was 60.9%. A total of 17.7% did not use any contraception at the most recent intercourse, 9.0% practised wi..."]
+      },
+      {
+        "title": "[AIDS and contraception--increased use of condoms at the time of first intercourse among Norwegian adolescents]",
+        "tags": ["Article"],
+        "date": "Jun 1990",
+        "authors": ["Pål Kraft", "B Traeen", "Jostein Rise"],
+        "abstract": ["This paper describes use of contraception at first intercourse among Norwegian adolescents and sheds some light upon whether the HIV-epidemic has influenced the use of contraception. The data stem from a population-based survey of 3,000 17-, 18- and 19-year-olds. The response rate was 60.9%. A total of 1,172 persons had experienced intercourse and..."]
+      },
+      {
+        "title": "Prediction of sexual behaviour in a group of young Norwegian adults",
+        "tags": ["Article"],
+        "date": "Jan 1990",
+        "authors": ["Pål Kraft", "Jostein Rise", "J K Grønnesby"],
+        "abstract": ["The purpose of the present study was to identify predictors of sexual promiscuity and use of condoms. The empirical data stem from a postal survey of a representative sample of persons aged 19-24 in a medium-sized Norwegian town (n = 565). Four selected predictors explained 28.1% and 17.8% of the variance in promiscuity among men and women, respect..."]
+      },
+      {
+        "title": "[AIDS info. The challenge]",
+        "tags": ["Article"],
+        "date": "Dec 1988",
+        "authors": ["Pål Kraft"],
+        "abstract": []
+      },
+      {
+        "title": "[AIDS info. Youth, knowledge and condoms]",
+        "tags": ["Article"],
+        "date": "Dec 1988",
+        "authors": ["Jostein Rise", "Pål Kraft"],
+        "abstract": []
+      },
+      {
+        "title": "AIDS--public knowledge in Norway 1986",
+        "tags": ["Article"],
+        "date": "Jul 1988",
+        "authors": ["Pål Kraft", "Jostein Rise"],
+        "abstract": ["This paper studied different kinds of knowledge related to HIV/AIDS in the adult Norwegian population. The empirical basis stems from two national interview surveys conducted in 1986. Data were analysed using contingency table analysis and multiple classification analysis (MCA). Totally, 64% knew that HIV/AIDS is caused by a virus. Homosexuals, dru..."]
+      },
+      {
+        "title": "AIDS--sources of information and public opinion in Norway 1986",
+        "tags": ["Article"],
+        "date": "Jul 1988",
+        "authors": ["Pål Kraft", "Jostein Rise"],
+        "abstract": ["The present paper deals with three issues related to public opinion in Norway: 1) the importance and credibility of HIV/AIDS information sources; 2) changes or intended changes of sexual behaviour because of fear of HIV/AIDS and, 3) attitudes towards homosexuals and the integrity of HIV-infected persons. The data stem from a national interview surv..."]
+      },
+      {
+        "title": "Public awareness and acceptance of an HIV/AIDS information campaign in Norway",
+        "tags": ["Article"],
+        "date": "Apr 1988",
+        "authors": ["Pål Kraft", "Jostein Rise"],
+        "abstract": ["Public acceptance and awareness of an HIV/AIDS information campaign in Norway were studied using empirical data from a nationwide interview survey (N = 1066) of adult Norwegians aged 15 years and above. 'The condom campaign' was a $100,000 campaign displayed on billboards, posters and postcards throughout Norway. A total of 60% of the population ac..."]
+      },
+      {
+        "title": "Opinion about water fluoridation in Norwegian adults",
+        "tags": ["Article"],
+        "date": "Jan 1987",
+        "authors": ["Jostein Rise", "Pål Kraft"],
+        "abstract": []
+      },
+      {
+        "title": "Public awareness of two dental health campaigns with different marketing strategies",
+        "tags": ["Article"],
+        "date": "Jan 1987",
+        "authors": ["Pål Kraft", "Jostein Rise", "D Holst"],
+        "abstract": []
+      },
+      {
+        "title": "[Amalgam--knowledge or belief?]",
+        "tags": ["Article"],
+        "date": "Oct 1986",
+        "authors": ["Pål Kraft"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [66],
+    "reads": [30112],
+    "citations": [3659]
   }
 }

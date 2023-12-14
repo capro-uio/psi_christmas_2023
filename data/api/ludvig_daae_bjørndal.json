@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Ludvig Daae Bjørndal",
-    "id": "MDH9VfoAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Ludvig Daae Bjørndal"],
+    "id": ["MDH9VfoAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -284,8 +284,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-9773-8287",
-    "name": "Ludvig Daae Bjørndal",
+    "orcid": ["0000-0001-9773-8287"],
+    "name": ["Ludvig Daae Bjørndal"],
     "distinctions": [],
     "education": [
       {
@@ -449,11 +449,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ludvig Daae Bjørndal",
-    "id": "1281674",
+    "name": ["Ludvig Daae Bjørndal"],
+    "id": ["1281674"],
     "keywords": [],
     "position": ["Research fellow", null],
-    "img": "https://api.cristin.no/v2/persons/1281674/picture",
+    "img": ["https://api.cristin.no/v2/persons/1281674/picture"],
     "works": [
       {
         "type": "Poster",
@@ -465,64 +465,64 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Problem-solving interventions and depression among adolescents and young adults: A systematic review of the effectiveness of problem-solving interventions in preventing or treating depression",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/2171347"
+        "url": "https://api.cristin.no/v2/results/2171347",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Mental Health and Environmental Factors in Adults: A Population-Based Network Analysis",
-        "journal": "American Psychologist",
-        "url": "https://api.cristin.no/v2/results/2162803"
+        "url": "https://api.cristin.no/v2/results/2162803",
+        "journal": "American Psychologist"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The relationship between stressful life events and depression risk",
-        "journal": "Nature Reviews Psychology",
-        "url": "https://api.cristin.no/v2/results/2162802"
+        "url": "https://api.cristin.no/v2/results/2162802",
+        "journal": "Nature Reviews Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The structure of well-being: a single underlying factor with genetic and environmental influences",
-        "journal": "Quality of Life Research",
-        "url": "https://api.cristin.no/v2/results/2148327"
+        "url": "https://api.cristin.no/v2/results/2148327",
+        "journal": "Quality of Life Research"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Treatment options and their uptake among women with symptoms of perinatal depression: exploratory study in Norway and Portugal",
-        "journal": "BJPsych Open",
-        "url": "https://api.cristin.no/v2/results/2148323"
+        "url": "https://api.cristin.no/v2/results/2148323",
+        "journal": "BJPsych Open"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The structure of psychiatric comorbidity without selection and assortative mating",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143880"
+        "url": "https://api.cristin.no/v2/results/2143880",
+        "journal": "PsyArXiv"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/2141400"
+        "url": "https://api.cristin.no/v2/results/2141400",
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143876"
+        "url": "https://api.cristin.no/v2/results/2143876",
+        "journal": "PsyArXiv"
       },
       {
         "type": "Abstract",
         "year": "2022",
         "title": "Disentangling intrafamilial effects on maternal depression using trio-GCTA",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2087332"
+        "url": "https://api.cristin.no/v2/results/2087332",
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Poster",
@@ -540,63 +540,63 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Perceived risk of neurodevelopmental outcomes in offspring related to psychotropic and mental illness exposures in pregnancy and breastfeeding: a cross-sectional survey of women with past or current mental illness",
-        "journal": "BMJ Open",
-        "url": "https://api.cristin.no/v2/results/2059695"
+        "url": "https://api.cristin.no/v2/results/2059695",
+        "journal": "BMJ Open"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Stressful life events increase the risk of major depressive episodes: A population-based twin study",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2041412"
+        "url": "https://api.cristin.no/v2/results/2041412",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Interventions that Address Institutional Child Maltreatment: An Evidence and Gap Map",
-        "journal": "Research on social work practice",
-        "url": "https://api.cristin.no/v2/results/2041411"
+        "url": "https://api.cristin.no/v2/results/2041411",
+        "journal": "Research on social work practice"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The globalizability of temporal discounting",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/2039964"
+        "url": "https://api.cristin.no/v2/results/2039964",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Improving the evaluation of eyewitness evidence in legal decision-making: Testing an active versus passive teaching aid",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/2018118"
+        "url": "https://api.cristin.no/v2/results/2018118",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Abstract",
         "year": "2021",
         "title": "Stressful life events increase risk of depression: A population-based twin study",
-        "journal": "Behavior Genetics",
-        "url": "https://api.cristin.no/v2/results/2027889"
+        "url": "https://api.cristin.no/v2/results/2027889",
+        "journal": "Behavior Genetics"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Interventions that address institutional child maltreatment: evidence and gap map",
-        "journal": "Campbell systematic reviews",
-        "url": "https://api.cristin.no/v2/results/1987450"
+        "url": "https://api.cristin.no/v2/results/1987450",
+        "journal": "Campbell systematic reviews"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "The general fault in our fault lines",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/1987448"
+        "url": "https://api.cristin.no/v2/results/1987448",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "journal": "Lov og Rett",
-        "url": "https://api.cristin.no/v2/results/1953067"
+        "url": "https://api.cristin.no/v2/results/1953067",
+        "journal": "Lov og Rett"
       },
       {
         "type": "Poster",
@@ -608,22 +608,22 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Knowledge about eyewitness testimony: a survey of Indonesian police officers and psychologists",
-        "journal": "Psychology, Crime and Law",
-        "url": "https://api.cristin.no/v2/results/1925731"
+        "url": "https://api.cristin.no/v2/results/1925731",
+        "journal": "Psychology, Crime and Law"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Replicating patterns of prospect theory for decision under risk",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/1895479"
+        "url": "https://api.cristin.no/v2/results/1895479",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Norwegian judges' knowledge of factors affecting eyewitness testimony: A 12-year follow-up",
-        "journal": "Psychiatry, Psychology and Law",
-        "url": "https://api.cristin.no/v2/results/1857640"
+        "url": "https://api.cristin.no/v2/results/1857640",
+        "journal": "Psychiatry, Psychology and Law"
       },
       {
         "type": "Poster",
@@ -635,9 +635,19 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Evidence and gap map protocol: Institutional responses to child maltreatment",
-        "journal": "Campbell systematic reviews",
-        "url": "https://api.cristin.no/v2/results/1987453"
+        "url": "https://api.cristin.no/v2/results/1987453",
+        "journal": "Campbell systematic reviews"
       }
     ]
+  },
+  "rg": {
+    "id": "Helene-Daae",
+    "name": "Helene Daae",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "OMV, Reservoir Engineering",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-0043-1965",
-    "name": "Lina el Houssein",
+    "orcid": ["0000-0002-0043-1965"],
+    "name": ["Lina el Houssein"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Lina El-Agroudi",
-    "id": "1662436",
+    "name": ["Lina El-Agroudi"],
+    "id": ["1662436"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Tarek-El-Agroudi",
+    "name": "Tarek El-Agroudi",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281128506081-1679383648252_Q128/Tarek-El-Agroudi.jpg",
+    "affiliation": "Norwegian University of Science and Technology | NTNU, Norwegian University of Science and Technology, Department of Engineering Cybernetics",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

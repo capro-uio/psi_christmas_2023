@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Aino Petterson",
-    "id": "LDOO1icAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Aino Petterson"],
+    "id": ["LDOO1icAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -98,8 +98,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-2270-1222",
-    "name": "Aino Lilja Petterson",
+    "orcid": ["0000-0003-2270-1222"],
+    "name": ["Aino Lilja Petterson"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -110,8 +110,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Aino Lilja Petterson",
-    "id": "1408384",
+    "name": ["Aino Lilja Petterson"],
+    "id": ["1408384"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -138,5 +138,14 @@
         "url": "https://api.cristin.no/v2/results/2090222"
       }
     ]
+  },
+  "rg": {
+    "id": "Aino-Lilja",
+    "name": "Aino Lilja",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Lapland, Department of Tourism Research",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

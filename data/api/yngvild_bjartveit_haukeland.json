@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-9759-6944",
-    "name": "Yngvild Bjartveit Haukeland",
+    "orcid": ["0000-0001-9759-6944"],
+    "name": ["Yngvild Bjartveit Haukeland"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Yngvild Bjartveit Haukeland",
-    "id": "60856",
+    "name": ["Yngvild Bjartveit Haukeland"],
+    "id": ["60856"],
     "keywords": [],
     "position": ["Guest", "Higher Executive Officer"],
     "img": {},
@@ -147,5 +147,152 @@
         "url": "https://api.cristin.no/v2/results/895765"
       }
     ]
+  },
+  "rg": {
+    "id": "Yngvild-Haukeland",
+    "name": "Yngvild Bjartveit Haukeland",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279810451492868-1443723418582_Q128/Yngvild-Haukeland.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Clinical Health Psychology", "Psychological Assessment", "Counseling"],
+    "works": [
+      {
+        "title": "A systematic review of the association between parent‐child communication and adolescent mental health",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Holger Zapf", "Johannes Boettcher", "Yngvild Bjartveit Haukeland", "Krister Fjermestad"],
+        "abstract": ["Background\nThis systematic review addresses how adolescent‐rated parent‐child communication (PCC) quality is related to adolescent mental health.\n\nMethods\nWe performed a systematic literature search in Medline and APA PsycInfo, including peer‐reviewed quantitative studies examining associations between adolescent‐rated dyadic PCC quality and genera..."]
+      },
+      {
+        "title": "The development of SIBS-ONLINE, a group-based video conference intervention for siblings of children with chronic disorders and their parents",
+        "tags": ["Article"],
+        "date": "Sep 2023",
+        "authors": ["Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Krister W Fjermestad"],
+        "abstract": ["Objective\nDuring the last decade a knowledge-based group intervention called SIBS, aiming to prevent psychological difficulties in siblings of children with chronic disorders, has been developed and empirically evaluated. The results are promising, but SIBS has been difficult to implement in areas with low population density. To address the needs o..."]
+      },
+      {
+        "title": "A Systematic Review of Parent–Child Communication Measures: Instruments and Their Psychometric Properties",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Holger Zapf", "Johannes Boettcher", "Yngvild Bjartveit Haukeland", "Krister Fjermestad"],
+        "abstract": ["Parent–child communication represents an important variable in clinical child and family psychology due to its association with a variety of psychosocial outcomes. To give an overview of instruments designed to measure the quality of parent–child communication from the child’s (8–21 years) perspective and to assess the psychometric quality of these..."]
+      },
+      {
+        "title": "Prosocial Behavior Is a Relative Strength in Siblings of Children with Physical Disabilities or Autism Spectrum Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Stian Orm", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Krister W Fjermestad"],
+        "abstract": ["Research on siblings of children with developmental and physical disabilities has emphasized negative influences on siblings’ mental health. Yet, such siblings may be more prosocial compared with siblings of children without disabilities, due to care responsibilities and their experiences with their brother’s or sister’s disability. We compared pro..."]
+      },
+      {
+        "title": "Parent-Sibling Communication and Mental Health in Siblings of Children with Autism Spectrum Disorder Compared with Physical Disabilities",
+        "tags": ["Poster", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Stian Orm", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Krister W Fjermestad"],
+        "abstract": ["Background: Siblings of children with autism spectrum disorder (ASD) are at higher risk of mental health difficulties compared with the general population and siblings of children with other intellectual and developmental disabilities. However, it is unclear whether they are at higher risk of mental health difficulties compared with siblings of chi..."]
+      },
+      {
+        "title": "A Qualitative Study of Men’s Experience of Being a Father in Families with Childhood Disability",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Torun Marie Vatne", "Sigurd Skjeggestad Dahle", "Yngvild Bjartveit Haukeland", "Krister Westlye Fjermestad"],
+        "abstract": ["Fathers in families with childhood disability have an important role in fostering coping and resilience in children. Insight into men’s thoughts about fathering is necessary to provide family-centered interventions. The purpose of this study was to explore men’s experience of being a father in families with childhood disability. Qualitative intervi..."]
+      },
+      {
+        "title": "De glemte barna – en kartleggingsstudie av tilbud til og muligheter for pårørende søsken i norske kommuner",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Yngvild Bjartveit Haukeland", "Ann-Helén Kongshavn Rønning", "Ragnhild Bang Nes", "Torun Marie Vatne"],
+        "abstract": ["Background: Norwegian health professionals are obliged to provide support to siblings as next of kin. Preliminary evidence for positive outcomes of SIBS, a novel five-session intervention for siblings as next of kin, exists. This study aimed to investigate the extent and type of sibling support in the community health services. It also aimed to exa..."]
+      },
+      {
+        "title": "A Systematic Review of Social Support for Siblings of Children with Neurodevelopmental Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Solveig Kirchhofer", "Stian Orm", "Yngvild Bjartveit Haukeland", "Krister W Fjermestad"],
+        "abstract": ["Background: Social support is a protective factor for siblings of children with neurodevelopmental disorders. Aims: We review studies on social support received by siblings of children with neurodevelopmental disorders. Methods and Procedures: We conducted a pre-registered systematic review (CRD42020207686), searching PsycINFO, MEDLINE, Web of Scie..."]
+      },
+      {
+        "title": "Psychosocial Functioning in Siblings of Children With Rare Disorders Compared to Controls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Svein Mossige", "Krister W Fjermestad"],
+        "abstract": ["Siblings of children with chronic disorders are at increased risk of psychosocial problems. The risk may be exacerbated when the chronic disorder is rare and limited medical knowledge is available, due to more uncertainty and feelings of isolation. We examined mental health, parent-child communication, child-parent relationship quality, and social..."]
+      },
+      {
+        "title": "Siblings of children with chronic disorders: Family and relational factors as predictors of mental health",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Trude Fredriksen", "Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Krister Weatlye Fjermestad"],
+        "abstract": ["Siblings of children with chronic disorders are at increased risk of mental health problems. Predictors of siblings’ mental health require further study to identify children in need of interventions and to design effective intervention programs. Siblings of children with chronic disorders ( n = 107; M age = 11.5 years; SD = 2.1, 54.6% girls) and th..."]
+      },
+      {
+        "title": "Measuring family communication in pediatric nursing: Psychometric properties of the Parent-Child Communication Scale -Child Report (PCCS-CR)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Stian Orm", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne", "Krister W Fjermestad"],
+        "abstract": ["Purpose\nCommunication quality is an essential indicator of family functioning and represents an important outcome after pediatric nursing interventions. However, few well-documented child-report questionnaires for family communication exist. We aimed to document the psychometric properties of a previously developed child-rated family communication..."]
+      },
+      {
+        "title": "Parent-child communication about emotions during SIBS: a joint intervention for siblings and parents of children with chronic disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Yngvild Bjartveit Haukeland", "Krister Westlye Fjermestad", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Quality of parent-child communication is associated with adjustment in siblings of children with chronic disorders. SIBS is an intervention aiming to increase parental listening, exploring, and validating behaviors while talking with siblings about their experiences. We examined parent-sibling communication during SIBS by describing: 1) Sibling-sel..."]
+      },
+      {
+        "title": "The validity of a measure of adjustment in siblings of children with developmental and physical disabilities: a brief report",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Stian Orm", "Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Krister W Fjermestad"],
+        "abstract": ["Background: Few questionnaires are tailored for siblings of children with disabilities. The Negative Adjustment Scale (NAS) was developed to measure siblings’ adjustment, but has not yet been validated.\nObjective: To investigate the factor structure and convergent validity of the NAS.\nMethod: We examined the validity of the NAS in terms of factor s..."]
+      },
+      {
+        "title": "Siblings' Experience of Violence from Their Brother or Sister with a Neurodevelopmental Disorder",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Stian Orm", "Andrine Krogh Parken", "Yngvild Bjartveit Haukeland", "Torun Marie Vatne"],
+        "abstract": ["Objectives: Neurodevelopmental disorders (NDD) are often characterized by impairments in social, emotional and moral understanding. Furthermore, children with NDD have problems with regulating intense emotions, which they experience more often than typically developing children. The result can be challenging behavior, including violence targeted at..."]
+      },
+      {
+        "title": "A systematic review of social support for siblings of individuals with neurodevelopmental disorders",
+        "tags": ["Research Proposal", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Solveig Kirchhofer", "Stian Orm", "Krister W Fjermestad", "Yngvild Bjartveit Haukeland"],
+        "abstract": ["Siblings of children with neurodevelopmental disorders are at some risk of developing psychological or behavioral problems as their families often are under more stress, have poorer communication styles and siblings get less attention. Social support is found to be a buffer agains stress and numerous programs/interventions targeting siblings aim to..."]
+      },
+      {
+        "title": "Evaluation of “SIBS”, An Intervention for Siblings and Parents of Children with Chronic Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Yngvild Bjartveit Haukeland", "Nikolai Olavi Czajkowski", "Krister Westlye Fjermestad", "Torun Marie Vatne"],
+        "abstract": ["Siblings of children with chronic disorders are at increased risk of experiencing family communication problems and poorer mental health. We assessed initial feasibility, acceptability, and outcomes of SIBS; a manual-based group intervention for siblings and parents of children with chronic disorders, aiming to improve parent-sibling communication..."]
+      },
+      {
+        "title": "Children’s Perspectives on the Experiences of Their Siblings with Chronic Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Krister W Fjermestad", "Yngvild Bjartveit Haukeland", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Knowledge about the experiences of children with chronic disorders (CCD) is often based on parent-report. Obtaining self-report from CCD may be challenging due to cognitive impairments associated with many disorders. We explored siblings’ perspectives on the experiences of their brothers and sisters with CCD, which represent a unique intrageneratio..."]
+      },
+      {
+        "title": "The development of a joint parent-child intervention for siblings of children with chronic disorders",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Torun Marie Vatne", "Yngvild Bjartveit Haukeland", "Svein Mossige", "Krister W Fjermestad"],
+        "abstract": []
+      },
+      {
+        "title": "Emotional Experiences Among Siblings of Children With Rare Disorders",
+        "tags": ["Article"],
+        "date": "Mar 2015",
+        "authors": ["Yngvild Bjartveit Haukeland", "Krister W Fjermestad", "Svein Mossige", "Torun Marie Vatne"],
+        "abstract": ["Objective: \nThis research aimed to provide new knowledge about the emotional experiences of siblings of children with rare disorders. \n\nMethods: \nQualitative thematic analysis was conducted based on videotapes of 11 support groups for 58 siblings aged 7-17 years (Mage = 11.4 years, SD = 2.4) of children with rare disorders. \n\nResults: \nParticipants..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Psychology"],
+    "bio": [],
+    "publications": [19],
+    "reads": [3127],
+    "citations": [168]
   }
 }

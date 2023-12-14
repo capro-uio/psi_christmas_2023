@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-3439-9438",
-    "name": "Siri Gullestad",
+    "orcid": ["0000-0003-3439-9438"],
+    "name": ["Siri Gullestad"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Siri Erika Gullestad",
-    "id": "22941",
+    "name": ["Siri Erika Gullestad"],
+    "id": ["22941"],
     "keywords": ["Psychological problems", "Psychological treatment", "Theory of Science", "Dynamic psychotherapy", "Self development", "Literature", "Professionalism", "Psychoanalysis", "Theory of Relations", "Theoretical Psychology", "Psychoteraphy, theory and methodology development"],
     "position": ["Researcher ii", "Professor", "Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/22941/picture",
+    "img": ["https://api.cristin.no/v2/persons/22941/picture"],
     "works": [
       {
         "type": "Reader opinion piece",
@@ -34,49 +34,49 @@
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Confronting the foreign. Surrealism and psychoanalysis in dialogue",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/2162057"
+        "url": "https://api.cristin.no/v2/results/2162057",
+        "title": "Confronting the foreign. Surrealism and psychoanalysis in dialogue"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Confronting the foreign. Surrealism and psychoanalysis in dialogue",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/2195419"
+        "url": "https://api.cristin.no/v2/results/2195419",
+        "title": "Confronting the foreign. Surrealism and psychoanalysis in dialogue"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Finding the Mind in the Body",
         "journal": "Psychoanalytic inquiry",
-        "url": "https://api.cristin.no/v2/results/2050767"
+        "url": "https://api.cristin.no/v2/results/2050767",
+        "title": "Finding the Mind in the Body"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "When singing strengthens the capacity to aspire: girls’ reflexivity in rural Bangladesh",
         "journal": "Journal of Critical Realism",
-        "url": "https://api.cristin.no/v2/results/2038501"
+        "url": "https://api.cristin.no/v2/results/2038501",
+        "title": "When singing strengthens the capacity to aspire: girls’ reflexivity in rural Bangladesh"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2021",
-        "title": "“I don’t want to be like my mother”: Exploring changes in identity using the analyst as a model\r\n",
-        "url": "https://api.cristin.no/v2/results/1996442"
+        "url": "https://api.cristin.no/v2/results/1996442",
+        "title": "“I don’t want to be like my mother”: Exploring changes in identity using the analyst as a model\r\n"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2021",
-        "title": "Three hypotheses on impasse in the case of Janine",
-        "url": "https://api.cristin.no/v2/results/1996431"
+        "url": "https://api.cristin.no/v2/results/1996431",
+        "title": "Three hypotheses on impasse in the case of Janine"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Transformation and interpretation: The case of Adam, a clinical narrative and discussion",
         "journal": "The Psychoanalytic Quarterly",
-        "url": "https://api.cristin.no/v2/results/1994565"
+        "url": "https://api.cristin.no/v2/results/1994565",
+        "title": "Transformation and interpretation: The case of Adam, a clinical narrative and discussion"
       },
       {
         "type": "Non-fiction book",
@@ -86,29 +86,29 @@
       {
         "type": "Short communication",
         "year": "2021",
-        "title": "Our contempt for weakness",
         "journal": "International Journal of Applied Psychoanalytic Studies",
-        "url": "https://api.cristin.no/v2/results/1915720"
+        "url": "https://api.cristin.no/v2/results/1915720",
+        "title": "Our contempt for weakness"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "The otherness of sexuality: Exploring the conflicted nature of drive, desire and object choice",
         "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/2037568"
+        "url": "https://api.cristin.no/v2/results/2037568",
+        "title": "The otherness of sexuality: Exploring the conflicted nature of drive, desire and object choice"
       },
       {
         "type": "Textbook",
         "year": "2020",
-        "title": "The theory and practice of psychoanalytic therapy. Listening for the subtext",
-        "url": "https://api.cristin.no/v2/results/1868559"
+        "url": "https://api.cristin.no/v2/results/1868559",
+        "title": "The theory and practice of psychoanalytic therapy. Listening for the subtext"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "The otherness of sexuality: Exploring the conflicted nature of drive, desire and object choice",
         "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1868534"
+        "url": "https://api.cristin.no/v2/results/1868534",
+        "title": "The otherness of sexuality: Exploring the conflicted nature of drive, desire and object choice"
       },
       {
         "type": "Academic article",
@@ -119,8 +119,8 @@
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Reading the mind in the body.",
-        "url": "https://api.cristin.no/v2/results/1787312"
+        "url": "https://api.cristin.no/v2/results/1787312",
+        "title": "Reading the mind in the body."
       },
       {
         "type": "Chapter",
@@ -130,15 +130,15 @@
       {
         "type": "Doctoral dissertation",
         "year": "2019",
-        "title": "The punished self, the unknown self and the harmed self - towards a more nuanced understanding of self-harm among adolescents",
-        "url": "https://api.cristin.no/v2/results/1763724"
+        "url": "https://api.cristin.no/v2/results/1763724",
+        "title": "The punished self, the unknown self and the harmed self - towards a more nuanced understanding of self-harm among adolescents"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Discovering One’s Own Way: Adolescent Girls’ Different Pathways Into and Out of Self-Harm",
         "journal": "Journal of Adolescent Research",
-        "url": "https://api.cristin.no/v2/results/1758967"
+        "url": "https://api.cristin.no/v2/results/1758967",
+        "title": "Discovering One’s Own Way: Adolescent Girls’ Different Pathways Into and Out of Self-Harm"
       },
       {
         "type": "Reader opinion piece",
@@ -161,23 +161,23 @@
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
         "journal": "Journal of Contemporary Psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1623296"
+        "url": "https://api.cristin.no/v2/results/1623296",
+        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness"
       },
       {
         "type": "Academic literature review",
         "year": "2018",
-        "title": "How do young people understand their own self-harm? A meta-synthesis of adolescents' subjective experience of self-harm",
         "journal": "Adolescent Research Review",
-        "url": "https://api.cristin.no/v2/results/1548602"
+        "url": "https://api.cristin.no/v2/results/1548602",
+        "title": "How do young people understand their own self-harm? A meta-synthesis of adolescents' subjective experience of self-harm"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Anders Behring Breivik, master of life and death: Psychodynamics and political ideology in an act of terrorism",
         "journal": "International Forum of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1548645"
+        "url": "https://api.cristin.no/v2/results/1548645",
+        "title": "Anders Behring Breivik, master of life and death: Psychodynamics and political ideology in an act of terrorism"
       },
       {
         "type": "Feature article",
@@ -200,14 +200,14 @@
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "Close to observation",
-        "url": "https://api.cristin.no/v2/results/1443832"
+        "url": "https://api.cristin.no/v2/results/1443832",
+        "title": "Close to observation"
       },
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "Ideological destructiveness: A psychoanalytic perspective on the massacre of July 22, 2011 in Norway",
-        "url": "https://api.cristin.no/v2/results/1443809"
+        "url": "https://api.cristin.no/v2/results/1443809",
+        "title": "Ideological destructiveness: A psychoanalytic perspective on the massacre of July 22, 2011 in Norway"
       },
       {
         "type": "Article in business/trade/industry journal",
@@ -241,16 +241,16 @@
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "How to capture character through the patient's Language?",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/1319100"
+        "url": "https://api.cristin.no/v2/results/1319100",
+        "title": "How to capture character through the patient's Language?"
       },
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Analytic change: Assessing ways of being in a psychoanalytic follow-up interview",
         "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1256226"
+        "url": "https://api.cristin.no/v2/results/1256226",
+        "title": "Analytic change: Assessing ways of being in a psychoanalytic follow-up interview"
       },
       {
         "type": "Reader opinion piece",
@@ -267,14 +267,14 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2014",
-        "title": "Close to observation: some reflections on the value of the three-level-model for studying change",
-        "url": "https://api.cristin.no/v2/results/1211049"
+        "url": "https://api.cristin.no/v2/results/1211049",
+        "title": "Close to observation: some reflections on the value of the three-level-model for studying change"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2014",
-        "title": "Dynamic psychotherapy: a model for teaching and supervision in China",
-        "url": "https://api.cristin.no/v2/results/1210980"
+        "url": "https://api.cristin.no/v2/results/1210980",
+        "title": "Dynamic psychotherapy: a model for teaching and supervision in China"
       },
       {
         "type": "Academic article",
@@ -296,8 +296,8 @@
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "The outcomes of therapies conducted by highly experienced therapists",
-        "url": "https://api.cristin.no/v2/results/1152230"
+        "url": "https://api.cristin.no/v2/results/1152230",
+        "title": "The outcomes of therapies conducted by highly experienced therapists"
       },
       {
         "type": "Feature article",
@@ -318,9 +318,9 @@
       {
         "type": "Short communication",
         "year": "2013",
-        "title": "Ideological Destructiveness",
         "journal": "Division/Review",
-        "url": "https://api.cristin.no/v2/results/1104284"
+        "url": "https://api.cristin.no/v2/results/1104284",
+        "title": "Ideological Destructiveness"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -346,16 +346,16 @@
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "Disclosure or non-disclosure? An in-depth study of psychodynamic supervision",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/1002679"
+        "url": "https://api.cristin.no/v2/results/1002679",
+        "title": "Disclosure or non-disclosure? An in-depth study of psychodynamic supervision"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "title": "Crippled feet. Sadism in Lars von Trier's Antichrist",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/999419"
+        "url": "https://api.cristin.no/v2/results/999419",
+        "title": "Crippled feet. Sadism in Lars von Trier's Antichrist"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -365,15 +365,15 @@
       {
         "type": "Academic article",
         "year": "2010",
-        "title": "A widening scope on therapist development. A research interview informed by psychoanalysis",
         "journal": "Qualitative Research in Psychology",
-        "url": "https://api.cristin.no/v2/results/523529"
+        "url": "https://api.cristin.no/v2/results/523529",
+        "title": "A widening scope on therapist development. A research interview informed by psychoanalysis"
       },
       {
         "type": "Academic lecture",
         "year": "2010",
-        "title": "Convergence of alliance ratings in a sample of highly experienced teacher-therapists and their clients",
-        "url": "https://api.cristin.no/v2/results/254645"
+        "url": "https://api.cristin.no/v2/results/254645",
+        "title": "Convergence of alliance ratings in a sample of highly experienced teacher-therapists and their clients"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -389,23 +389,23 @@
       {
         "type": "Academic article",
         "year": "2009",
-        "title": "Mutual assumptions and facts about nondisclosure among clinical supervisors and students: A comparative analysis",
         "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/343060"
+        "url": "https://api.cristin.no/v2/results/343060",
+        "title": "Mutual assumptions and facts about nondisclosure among clinical supervisors and students: A comparative analysis"
       },
       {
         "type": "Academic article",
         "year": "2009",
-        "title": "Nondisclosure in psychotherapy group supervision: The supervisee perspective",
         "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/342111"
+        "url": "https://api.cristin.no/v2/results/342111",
+        "title": "Nondisclosure in psychotherapy group supervision: The supervisee perspective"
       },
       {
         "type": "Academic article",
         "year": "2009",
-        "title": "Nondisclosure in psychotherapy group supervision: The supervisor perspective",
         "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/342110"
+        "url": "https://api.cristin.no/v2/results/342110",
+        "title": "Nondisclosure in psychotherapy group supervision: The supervisor perspective"
       },
       {
         "type": "Non-fiction book",
@@ -431,16 +431,16 @@
       {
         "type": "Academic article",
         "year": "2007",
-        "title": "\"Thinking\" - in a psychoanalytic perspective",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/364946"
+        "url": "https://api.cristin.no/v2/results/364946",
+        "title": "\"Thinking\" - in a psychoanalytic perspective"
       },
       {
         "type": "Academic article",
         "year": "2007",
-        "title": "Psychoanalysis and empirical research. Comments on a doctoral dissertation",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/364945"
+        "url": "https://api.cristin.no/v2/results/364945",
+        "title": "Psychoanalysis and empirical research. Comments on a doctoral dissertation"
       },
       {
         "type": "Academic article",
@@ -451,28 +451,28 @@
       {
         "type": "Academic lecture",
         "year": "2006",
-        "title": "Dynamics in dissociation. Treatment of a severly traumatized, sexually abused patient",
-        "url": "https://api.cristin.no/v2/results/214913"
+        "url": "https://api.cristin.no/v2/results/214913",
+        "title": "Dynamics in dissociation. Treatment of a severly traumatized, sexually abused patient"
       },
       {
         "type": "Academic article",
         "year": "2005",
-        "title": "Who is 'who' in dissociation? A plea for psychodynamics in a time of trauma",
         "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/394855"
+        "url": "https://api.cristin.no/v2/results/394855",
+        "title": "Who is 'who' in dissociation? A plea for psychodynamics in a time of trauma"
       },
       {
         "type": "Academic article",
         "year": "2005",
-        "title": "In the beginning was the affect",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/394854"
+        "url": "https://api.cristin.no/v2/results/394854",
+        "title": "In the beginning was the affect"
       },
       {
         "type": "Academic lecture",
         "year": "2005",
-        "title": "Trauma and dissociation",
-        "url": "https://api.cristin.no/v2/results/201774"
+        "url": "https://api.cristin.no/v2/results/201774",
+        "title": "Trauma and dissociation"
       },
       {
         "type": "Non-fiction book",
@@ -499,8 +499,8 @@
       {
         "type": "Academic lecture",
         "year": "2004",
-        "title": "Who is \"who\" in dissociation?",
-        "url": "https://api.cristin.no/v2/results/161279"
+        "url": "https://api.cristin.no/v2/results/161279",
+        "title": "Who is \"who\" in dissociation?"
       },
       {
         "type": "Academic article",
@@ -511,23 +511,23 @@
       {
         "type": "Academic article",
         "year": "2003",
-        "title": "The Adult Attachment Interview and psychoanalytic outcome studies",
         "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/429899"
+        "url": "https://api.cristin.no/v2/results/429899",
+        "title": "The Adult Attachment Interview and psychoanalytic outcome studies"
       },
       {
         "type": "Academic article",
         "year": "2003",
-        "title": "One depression of many?",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/429896"
+        "url": "https://api.cristin.no/v2/results/429896",
+        "title": "One depression of many?"
       },
       {
         "type": "Academic article",
         "year": "2001",
-        "title": "Attachment theory and psychoanalysis. Controversial issues",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/424765"
+        "url": "https://api.cristin.no/v2/results/424765",
+        "title": "Attachment theory and psychoanalysis. Controversial issues"
       },
       {
         "type": "Academic article",
@@ -575,8 +575,8 @@
       {
         "type": "Academic lecture",
         "year": "1999",
-        "title": "Attachment theory and psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/141552"
+        "url": "https://api.cristin.no/v2/results/141552",
+        "title": "Attachment theory and psychoanalysis"
       },
       {
         "type": "Popular scientific article",
@@ -587,9 +587,9 @@
       {
         "type": "Academic article",
         "year": "1998",
-        "title": "Comments on Richard Webster's book: Why Freud was wrong. Sin, Science and Psychoanalysis",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/449800"
+        "url": "https://api.cristin.no/v2/results/449800",
+        "title": "Comments on Richard Webster's book: Why Freud was wrong. Sin, Science and Psychoanalysis"
       },
       {
         "type": "Academic lecture",
@@ -624,5 +624,47 @@
         "url": "https://api.cristin.no/v2/results/27773"
       }
     ]
+  },
+  "rg": {
+    "id": "Aoki-Erika",
+    "name": "Aoki Erika",
+    "img": "https://i1.rgstatic.net/ii/profile.image/701001489211393-1544143187553_Q128/Aoki-Erika.jpg",
+    "affiliation": "The University of Tokyo | Todai, The University of Tokyo, Department of OralMaxillofacial Surgery Dentistry and Orthodontics",
+    "keywords": [],
+    "works": [
+      {
+        "title": "1P1-H04 Development of Interface Using Hand Trajectory",
+        "tags": ["Article"],
+        "date": "May 2015",
+        "authors": ["Hiroaki SAKA", "Aoki Erika", "Nobuaki Nakazawa", "Toshikazu Matsui"],
+        "abstract": ["This paper describes an interface to operate the computer using hand trajectory. The skeleton information in humans of the Kinect sensor was used for detection of arm posture and hand positions. From the obtained information, the motion of the operator was recognized to reflect a mouse operation. In the mouse operations, the user could decide the p..."]
+      },
+      {
+        "title": "Examining paths to digital literacies for English language learners",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Mayra C. Daniel", "Dong-shin Shin", "Christi Harrison", "Aoki Erika"],
+        "abstract": []
+      },
+      {
+        "title": "Examining paths to digital literacies for English language learners.",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Dong-Shin Shin", "Mayra C. Daniel", "Christi Harrision", "Aoki Erika"],
+        "abstract": []
+      },
+      {
+        "title": "Examining paths to digital literacies for English language learners",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Mayra C. Daniel", "Dong-Shin Shin", "Christi Harrision", "Aoki Erika"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [4],
+    "reads": [67],
+    "citations": [3]
   }
 }

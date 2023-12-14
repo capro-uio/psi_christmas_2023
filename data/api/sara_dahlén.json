@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Sarah Park Dahlen",
-    "id": "B6l1Qm0AAAAJ",
-    "affiliation": "University of Illinois Urbana-Champaign",
+    "name": ["Sarah Park Dahlen"],
+    "id": ["B6l1Qm0AAAAJ"],
+    "affiliation": ["University of Illinois Urbana-Champaign"],
     "data": {
       "publications": [
         {
@@ -555,8 +555,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0009-0001-5988-0570",
-    "name": "Sara Dahlén",
+    "orcid": ["0009-0001-5988-0570"],
+    "name": ["Sara Dahlén"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -567,11 +567,32 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Sara Dahlén",
-    "id": "1649412",
+    "name": ["Sara Dahlén"],
+    "id": ["1649412"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Sara-Dahlen-2",
+    "name": "Sara Dahlen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Connecticut | UConn, University of Connecticut, Department of Educational Psychology",
+    "keywords": ["School Psychology"],
+    "works": [
+      {
+        "title": "Hotel Louise Washington, North Carolina: Renovation Challenge",
+        "tags": ["Book"],
+        "date": "Jan 2017",
+        "authors": ["Sara Dahlen", "Robert O’Halloran"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [12],
+    "citations": [0]
   }
 }

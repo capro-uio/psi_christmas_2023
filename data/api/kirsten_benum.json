@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Kirsten Benum",
-    "id": "15113",
+    "name": ["Kirsten Benum"],
+    "id": ["15113"],
     "keywords": [],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/15113/picture",
+    "img": ["https://api.cristin.no/v2/persons/15113/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -332,5 +332,96 @@
         "url": "https://api.cristin.no/v2/results/353508"
       }
     ]
+  },
+  "rg": {
+    "id": "Kirsten-Benum",
+    "name": "Kirsten Benum",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Mellom taushet og fare: Om kulturelle fortolkninger av psykiske problemer og forsøk på å skape ny mening",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Kirsten Benum", "Anne-Kari Clasen"],
+        "abstract": ["Artikkelen beskriver en forstdelse av psykiske problemer som inkluderer kunnskap om maktforhold mellom kjønnene. Psykiskesymptomer blir sett som kilde til informasjon om tabubelagte interessekonflikter og erfaringer med maktmisbruk. Terapeutiskforandring beskrives somforsøk på skape ny mening i den gamle historien, der målsettingen blir å skape ver..."]
+      },
+      {
+        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Michael Helge Rønnestad", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["There is a need for studies that advance our knowledge of therapist eﬀectiveness, expanding the deﬁnition of what constitutes \ntherapeutic success. In the present study, four aspects of clinical outcome were analyzed using a sample of highly experienced \npsychotherapists (mean years of experience as therapy practitioners = 30) who also serve as cli..."]
+      },
+      {
+        "title": "Effect of Yoga in the Treatment of Eating Disorders: A Single-blinded Randomized Controlled Trial with 6-Months Follow-up",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["KariEbbesen Karlsen", "Karianne R Vrabel", "Solfrid Bratland-Sanda", "Kirsten Benum"],
+        "abstract": ["Aim of the study: \nThe aim of this study is to examine the effect of yoga treatment of eating disorders (EDs).\n\nMethods: \nAdult females meeting the Diagnostic and Statistical Manual-IV criteria for bulimia nervosa or ED not otherwise specified (n = 30) were randomized to 11-week yoga intervention group (2 × 90 min/week) or a control group. Outcome..."]
+      },
+      {
+        "title": "Rorschach Assessment of Two Distinctive Personality States of a Person With Dissociative Identity Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Ellen Hartmann", "Kirsten Benum"],
+        "abstract": ["This case study used test data from a patient with Dissociative Identity Disorder (DID; American Psychiatric Association, 2013 ) to illustrate how two main personality states of the patient (\"Ann\" and \"Ben\") seemed to function. The Rorschach Performance Assessment System (R-PAS; Meyer, Viglione, Mihura, Erard, & Erdberg, 2011 ) and the Inventory of..."]
+      },
+      {
+        "title": "How usual is treatment as usual? Experienced therapists’ reflections on participation in practice-based research",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Margrethe Seeger Halvorsen", "Kirsten Benum", "Hanne Weie Oddli", "John McLeod"],
+        "abstract": ["Studies have shown that many clinicians are skeptical about research and hesitant about participating in research. In the present study, we explored this issue by studying experienced therapists’ reflections on their participation in practice-based research. Data were drawn from a practice-based research study at the University of Oslo, Norway. Twe..."]
+      },
+      {
+        "title": "Conceptualizing the Complexity of Change in Psychotherapy: The Case of “Cora”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Margrethe Seeger Halvorsen", "John McLeod", "Kirsten Benum", "Hanne Haavind"],
+        "abstract": ["p>In this article we respond to the commentaries by Altman and Miller (2016), Bohart (2016), and Timulak and Keogh (2016) on our case of “Cora,” which involved over 121 psychotherapy sessions with a client with a history of severe relational trauma that had led to difficulty in forming close relationships, as well as a series of suicide attempts (H..."]
+      },
+      {
+        "title": "A Life-Saving Therapy: The Theory-Building Case of \"Cora\"",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Margrethe Seeger Halvorsen", "Kirsten Benum", "Hanne Haavind", "John McLeod"],
+        "abstract": ["p>The present paper presents a case study of long-term (121 sessions over three years), integrative therapy with \"Cora,\" a client with a history of severe relational trauma that had led to difficulty in forming close relationships, and a history of hospitalization resulting from a series of suicide attempts. Despite these challenges, Cora reported..."]
+      },
+      {
+        "title": "Terapeuten som emosjonelt anker",
+        "tags": ["Chapter"],
+        "date": "Jan 2013",
+        "authors": ["Kirsten Benum", "Margrethe Seeger Halvorsen"],
+        "abstract": []
+      },
+      {
+        "title": "Det kliniske intervjuet: Bind II. Praksis med ulike klientgrupper",
+        "tags": ["Book"],
+        "date": "Jan 2011",
+        "authors": ["Anna von der Lippe", "Arne Holte", "Per Nerdrum", "Michael Helge Rønnestad"],
+        "abstract": []
+      },
+      {
+        "title": "Social network and mental health: an intervention study",
+        "tags": ["Chapter"],
+        "date": "Aug 1995",
+        "authors": ["Odd Steffen Dalgard", "Trine Anstorp", "Kirsten Benum", "Tom Sørensen"],
+        "abstract": []
+      },
+      {
+        "title": "Social network stimulation. Health promotion in a high risk group of middle-aged women",
+        "tags": ["Article"],
+        "date": "Feb 1987",
+        "authors": ["Kirsten Benum", "Trine Anstorp", "O S Dalgard", "Tom Sørensen"],
+        "abstract": ["Abstract The article focuses on presenting methods developed in a network stimulation program among a high-risk group of middle-aged women living in Oslo, Norway.\nThe aim of the program was to initiate in the women a process of getting acquainted, and even making friends, - and thus establishing new self-sustaining social networks. In the long run..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [11],
+    "reads": [4086],
+    "citations": [72]
   }
 }

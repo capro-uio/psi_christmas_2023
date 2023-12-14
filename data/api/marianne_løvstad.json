@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Marianne Løvstad",
-    "id": "JKljAmQAAAAJ",
-    "affiliation": "Sunnaas Rehabilitation Hospital",
+    "name": ["Marianne Løvstad"],
+    "id": ["JKljAmQAAAAJ"],
+    "affiliation": ["Sunnaas Rehabilitation Hospital"],
     "data": {
       "publications": [
         {
@@ -902,8 +902,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-8738-8401",
-    "name": "Marianne Løvstad",
+    "orcid": ["0000-0002-8738-8401"],
+    "name": ["Marianne Løvstad"],
     "distinctions": [],
     "education": [
       {
@@ -969,8 +969,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Marianne Løvstad",
-    "id": "8073",
+    "name": ["Marianne Løvstad"],
+    "id": ["8073"],
     "keywords": [],
     "position": ["Professor", "Research Scientist"],
     "img": {},
@@ -1644,5 +1644,719 @@
         "url": "https://api.cristin.no/v2/results/1383950"
       }
     ]
+  },
+  "rg": {
+    "id": "Marianne-Lovstad",
+    "name": "Marianne Løvstad",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1097348344233984-1638639641315_Q128/Marianne-Lovstad.jpg",
+    "affiliation": "Sunnaas Rehabilitation hospitalUniversity of Oslo",
+    "keywords": ["Cognitive Neuropsychology", "Cognitive Neuroscience", "Neuropsychology", "Executive Function", "Memory", "Neuroscience", "Brain", "Cognitive Rehabilitation", "Traumatic Brain Injury", "Neural Networks and Artificial Intelligence"],
+    "works": [
+      {
+        "title": "Linking Symptom Inventories using Semantic Textual Similarity",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Eamonn Kennedy", "Shashank Vadlamani", "Hannah M. Lindsey", "Emily L. Dennis"],
+        "abstract": ["An extensive library of symptom inventories has been developed over time to measure clinical symptoms, but this variety has led to several long standing issues. Most notably, results drawn from different settings and studies are not comparable, which limits reproducibility. Here, we present an artificial intelligence (AI) approach using semantic te..."]
+      },
+      {
+        "title": "Participation in the Chronic Phase after Traumatic Brain Injury: Variations and Key Predictors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Solveig Lægreid Hauger", "Ida Maria Henriksen Borgen", "Marit Vindal Forslund", "Silje Christine Reistad Fure"],
+        "abstract": ["Participation is of major importance for individuals with traumatic brain injury (TBI). This study evaluates participation over a period of one year among persons with TBI in the chronic phase and explores sociodemographic, psychological, and environmental predictors of levels and trajectories of participation. One hundred and twenty home-living su..."]
+      },
+      {
+        "title": "Exploring the Association between Personality Traits, Symptom Burden, and Return to Work after Mild-to-Moderate Traumatic Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Benedikte Å. Madsen", "Silje Christine Reistad Fure", "Nada Andelic", "Emilie Isager Howe"],
+        "abstract": ["Approximately 30% of individuals with mild traumatic brain injury (mTBI) experience persistent post-concussion symptoms (PPCS). Personality factors have been linked to PPCS, yet, the association between personality traits and outcomes after mTBI is poorly understood. The aim of this study was to evaluate the association between personality traits,..."]
+      },
+      {
+        "title": "Using hypnotic suggestion in the rehabilitation of working memory capacity after acquired brain injury: Study protocol for a randomized controlled trial.",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Line Sophie Eide", "Per-Ola Rike", "Silje E Reme", "Marianne Løvstad"],
+        "abstract": ["Objectives: \nEstablishment of effective evidence-based interventions in rehabilitation of working memory (WM) deficits after acquired brain injury (ABI) is sorely needed. Despite robust evidence for the efficiency of clinical hypnosis in a wide range of clinical conditions, and improved understanding of mechanisms underlying it ́s effects, the pote..."]
+      },
+      {
+        "title": "Children’s, parents’, and teachers’ experiences of the feasibility of a telerehabilitation intervention for children with acquired brain injury in the chronic phase – a qualitative study of acceptability and participation in the Child In Context Intervention (CICI)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Edel Jannecke Svendsen", "Eli Marie Killi", "Nina Rohrer-Baumgartner", "Line Kildal Bragstad"],
+        "abstract": ["Background\nThis is a qualitative feasibility study of the Child in Context Intervention (CICI). The CICI is an individualized, goal-oriented and home-based tele-rehabilitation intervention which targets everyday functioning of children (6–16 years) with acquired brain injury in the chronic stage, and their families, one year or more after insult, w..."]
+      },
+      {
+        "title": "Workplace Barriers to Return-to-Work Prosesses",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Heidi Enehaug", "Øystein Spjelkavik", "Daniele E. Alves", "Marianne Løvstad"],
+        "abstract": ["This study identified workplace barriers to return-to-work (RTW) processes through a multiple case study consisting of 38 cases. Sixty-four interviews with employees with mild traumatic brain injury (TBI) and 45 interviews with their managers were conducted in 2017–2020 at T1 (1–3 months after the employees returned to work) and T2 (12–16 months af..."]
+      },
+      {
+        "title": "Effect of an Individually Tailored and Home-Based Intervention in the Chronic Phase of Traumatic Brain Injury A Randomized Clinical Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Ida Maria Henriksen Borgen", "Marianne Løvstad", "Solveig Lægreid Hauger", "Cecilie Røe"],
+        "abstract": ["Importance: \nTraumatic brain injury (TBI) can cause long-lasting and heterogeneous difficulties that require an individually tailored approach to rehabilitation. However, high-quality studies of treatment options in the chronic phase of TBI are lacking.\n\nObjective: \nTo evaluate the effect of a home-based, individualized, and goal-oriented rehabilit..."]
+      },
+      {
+        "title": "Workplace accommodation in return to work after mild traumatic brain injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Heidi Enehaug", "Øystein Spjelkavik", "Pål Klethagen", "Marianne Løvstad"],
+        "abstract": ["Background: While a vast amount of research focuses on unmodifiable and individual factors that may impact return to work (RTW) for patients with traumatic brain injury (TBI), less knowledge exists of the relationship between specific workplace factors and work retention. \nObjective: Identify types of accommodation in the workplace that influence t..."]
+      },
+      {
+        "title": "Qualifications, professional roles and service practices of nurses, occupational therapists and speech-language pathologists in the management of adults with oropharyngeal dysphagia: a Nordic survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Maribeth Rivelsrud", "Lena Hartelius", "Renée Speyer", "Marianne Løvstad"],
+        "abstract": ["Purpose: \nTo identify the qualifications, professional roles and service practices of nurses, occupational therapists (OTs) and speech-language pathologists (SLPs) in the management of adults with oropharyngeal dysphagia (OD) in the Nordic countries.\n\nMethods: \nA web-based survey was developed that consisted of 50 questions on respondent demographi..."]
+      },
+      {
+        "title": "Almost half of children and adolescents had unmet need 6 months after their traumatic brain injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Hilde Margrete Dahl", "Ingvil Laberg Holthe", "Marianne Løvstad", "Mia C Myhre"],
+        "abstract": ["Aim: \nVery few studies have focused on how children with traumatic brain injuries (TBI) access and use publicly funded healthcare and educational services. We aimed to compare the symptoms, recovery, and service use of children with TBIs and a control group with other traumatic injuries.\n\nMethods: \nThis case-control study was conducted at Oslo Univ..."]
+      },
+      {
+        "title": "Bridging Big Data: Procedures for Combining Non-equivalent Cognitive Measures from the ENIGMA Consortium",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Eamonn Kennedy", "Shashank Vadlamani", "Hannah M. Lindsey", "Elisabeth A Wilde"],
+        "abstract": ["Investigators in neuroscience have turned to Big Data to address replication and reliability issues by increasing sample sizes, statistical power, and representativeness of data. These efforts unveil new questions about integrating data arising from distinct sources and instruments. We focus on the most frequently assessed cognitive domain - memory..."]
+      },
+      {
+        "title": "Community Integration and Associated Factors 10 Years after Moderate-to-Severe Traumatic Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Juan Lu", "Mari Storli Rasmussen", "Solrun Sigurdardottir", "Nada Andelic"],
+        "abstract": ["This study evaluated the impact of baseline injury characteristics and one-year functional level on the 10-year community integration outcomes for working-age patients with moderate-to-severe traumatic brain injury (TBI). Patients aged 16–55 and diagnosed with moderate-to-severe TBI within 24 h of injury were eligible for the study. Multivariable h..."]
+      },
+      {
+        "title": "The role of pain and psychological distress in fatigue: a co-twin and within-person analysis of confounding and causal relations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Daniel Løke", "Marianne Løvstad", "Nada Andelic", "Olav Vassend"],
+        "abstract": ["Objective: \nFatigue is a common symptom in somatic and mental illness. Musculoskeletal pain and psychological distress have in turn frequently been shown to be associated with fatigue across clinical conditions and in the general population. The study aims to disentangle direct effects from those due to mere confounding from shared etiologies.\n\nDes..."]
+      },
+      {
+        "title": "Stability and Change in Biopsychosocial Factors Associated With Fatigue 6 and 12 Months After Traumatic Brain Injury: An Exploratory Multilevel Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Daniel Løke", "Nada Andelic", "Eirik Helseth", "Marianne Løvstad"],
+        "abstract": ["Objective: \nTo explore factors associated with stability and change in fatigue from 6 to 12 months following traumatic brain injury (TBI).\n\nSetting: \nCombined in- and outpatient acute care and postacute rehabilitation settings.\n\nParticipants: \nA total of 103 patients with confirmed intracranial injury were assessed 6 and/or 12 months following TBI...."]
+      },
+      {
+        "title": "Oversettelse av spørreskjemaet «The Family Needs Questionnaire -Pediatric» til norsk",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Av Håvard Eriksen", "Anne-Margrethe Linnestad", "Ingvil Laberg Holthe", "Hanne Tuntland"],
+        "abstract": ["Background: Many families with a child with acquired brain injury (ABI) experience unmet health care needs. There has however been a lack of questionnaires in Norwegian for assessing health care needs. Aim: To translate «The Family Needs Questionnaire-Paediatric» into Norwegian. Method: The translation followed a ten-step procedure, including a for..."]
+      },
+      {
+        "title": "Rehabilitation and outcomes after complicated vs uncomplicated mild TBI: results from the CENTER-TBI study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Emilie Isager Howe", "Marina Zeldovich", "Nada Andelic", "Tommaso Zoerle"],
+        "abstract": ["Background\nDespite existing guidelines for managing mild traumatic brain injury (mTBI), evidence-based treatments are still scarce and large-scale studies on the provision and impact of specific rehabilitation services are needed. This study aimed to describe the provision of rehabilitation to patients after complicated and uncomplicated mTBI and i..."]
+      },
+      {
+        "title": "Effects of a Goal-Oriented and Home-Based Intervention in the Chronic Phase of Traumatic Brain Injury",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Ida M. Borgen", "Marianne Løvstad", "Solveig Lægreid Hauger", "Cecil"],
+        "abstract": ["Research Objectives\nTo evaluate the efficacy of a goal-oriented and home-based rehabilitation intervention in the chronic phase of traumatic brain injury (TBI). As the expected sequelae after TBI are highly heterogeneous, there is a need to tailor rehabilitation interventions to meet the specific need of each patient.\n\nDesign\nParallel two-group ran..."]
+      },
+      {
+        "title": "Effect of a Combined Cognitive and Vocational Intervention on Change in HRQoL after TBI",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Emilie Isager Howe", "Nada Andelic", "Silje Christine Reistad Fure", "Eline Aas"],
+        "abstract": ["Research Objectives\nTo compare the effect of a combined cognitive and vocational intervention to treatment as usual (TAU) on change in health-related quality of life (HRQoL) after mild-to-moderate traumatic brain injury (TBI).\n\nDesign\nRandomized controlled trial.\n\nSetting\nSpecialized TBI outpatient clinic at Oslo University Hospital, Norway.\n\nParti..."]
+      },
+      {
+        "title": "Transition back to work after mild TBI: A qualitative study",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Kjersti Sagstad", "Emilie Isager Howe", "Silje Christine Reistad Fure", "Unni Sveen"],
+        "abstract": ["Background\nWhile many persons who sustain a mild traumatic brain injury (MTBI) can resume work shortly after their injury, some experience persisting symptoms leading to longer-term sickness absence. In-depth knowledge about how these persons experience the return to work (RTW) process is needed.\n\nAims\nTo explore how persons with MTBI experience th..."]
+      },
+      {
+        "title": "Regional brain volume prior to treatment is linked to outcome after cognitive rehabilitation in traumatic brain injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Alexander Olsen", "Emily L. Dennis", "Jan Stubberud", "Sveinung Tornås"],
+        "abstract": ["Cognitive rehabilitation is useful for many after traumatic brain injury (TBI), but we lack critical knowledge about which patients benefit the most from different approaches. Advanced neuroimaging techniques have provided important insight into brain pathology and systems plasticity after TBI, and have potential to inform new practices in cognitiv..."]
+      },
+      {
+        "title": "Neurorehabilitation for people with disorders of consciousness: an international survey of health-care structures and access to treatment, (Part 1)",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Petra Maurer-Karattup", "Nathan D Zasler", "Aurore Thibaut", "Ann-Marie Morrissey"],
+        "abstract": ["Aims: \nThe provision of rehabilitation services for people with disorders of consciousness (DoC) may vary due to geographical, financial, and political factors. The extent of this variability and the implementation of treatment standards across countries is unknown. This study explored international neurorehabilitation systems for people with DoC...."]
+      },
+      {
+        "title": "Prevalence of Oropharyngeal Dysphagia in Adults in Different Healthcare Settings: A Systematic Review and Meta-analyses",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Maribeth Rivelsrud", "Lena Hartelius", "Liza Bergström", "Renée Speyer"],
+        "abstract": ["Oropharyngeal dysphagia (OD) is prevalent in the elderly and persons with complex medical conditions, resulting in considerable medical and psychosocial consequences and reduced quality of life. Many prevalence studies regard OD in relation to age or diagnosis. Knowledge on the prevalence of OD in different healthcare settings is lacking. This syst..."]
+      },
+      {
+        "title": "Feasibility and Acceptability of a Complex Telerehabilitation Intervention for Pediatric Acquired Brain Injury: The Child in Context Intervention (CICI)",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Ingvil Laberg Holthe", "Nina Rohrer-Baumgartner", "Edel Jannecke Svendsen", "Marianne Løvstad"],
+        "abstract": ["The current study is a feasibility study of a randomized controlled trial (RCT): the Child in Context Intervention (CICI). The CICI study is an individualized, goal-oriented and home-based intervention conducted mainly through videoconference. It targets children with ongoing challenges (physical, cognitive, behavioral, social and/or psychological)..."]
+      },
+      {
+        "title": "Correction: Rehabilitation Needs, Service Provision, and Costs in the First Year Following Traumatic Injuries: Protocol for a Prospective Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Helene Lundgaard Søberg", "Håkon Øgreid Moksnes", "Audny Anke", "Nada Andelic"],
+        "abstract": ["[This corrects the article DOI: 10.2196/25980.]."]
+      },
+      {
+        "title": "Impact of Somatic Vulnerability, Psychosocial Robustness and Injury-Related Factors on Fatigue following Traumatic Brain Injury-A Cross-Sectional Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Daniel Løke", "Nada Andelic", "Eirik Helseth", "Marianne Løvstad"],
+        "abstract": ["Fatigue is a common symptom after traumatic brain injuries (TBI) and a crucial target of rehabilitation. The subjective and multifactorial nature of fatigue necessitates a biopsychosocial approach in understanding the mechanisms involved in its development. The aim of this study is to provide a comprehensive exploration of factors relevant to ident..."]
+      },
+      {
+        "title": "Workplace Factors Associated With Return to Work After Mild-to-Moderate Traumatic Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Silje Christine Reistad Fure", "Emilie Isager Howe", "Nada Andelic", "Marianne Løvstad"],
+        "abstract": ["Objective: \nSociodemographic and injury-related predictors for return to work (RTW) after mild-to-moderate traumatic brain injury (TBI) have been extensively explored. However, there is a knowledge gap regarding work-related predictors of RTW. The main aim of this study was to explore work-related predictors of work participation 6 and 12 months af..."]
+      },
+      {
+        "title": "Regional Brain Volume Prior to Treatment Is Linked to Outcome after Cognitive Rehabilitation in Traumatic Brain Injury",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Alexander Olsen", "Emily L. Dennis", "Jan Stubberud", "Sveinung Tornås"],
+        "abstract": ["Cognitive rehabilitation is useful for many after traumatic brain injury (TBI), but we lack critical knowledge about which patients benefit the most from different approaches. Advanced neu-roimaging techniques have provided important insight into brain pathology and systems plasticity after TBI and have potential to inform new practices in cognitiv..."]
+      },
+      {
+        "title": "Correction: Rehabilitation Needs, Service Provision, and Costs in the First Year Following Traumatic Injuries: Protocol for a Prospective Cohort Study (Preprint)",
+        "tags": ["Preprint"],
+        "date": "Mar 2022",
+        "authors": ["Helene Lundgaard Søberg", "Håkon Øgreid Moksnes", "Audny Anke", "Nada Andelic"],
+        "abstract": ["UNSTRUCTURED\nD.N.A. Corrigendum D.N.A. Corrigendum D.N.A. Corrigendum D.N.A. Corrigendum D.N.A. Corrigendum D.N.A. Corrigendum"]
+      },
+      {
+        "title": "Rehabilitation for children with chronic acquired brain injury in the Child in Context Intervention (CICI) study: study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Nina Rohrer-Baumgartner", "Ingvil Laberg Holthe", "Edel Jannecke Svendsen", "Marianne Løvstad"],
+        "abstract": ["Background\nPediatric acquired brain injury (pABI) is associated with long-term cognitive, behavioral, social, and emotional problems, which may affect the quality of life, school, and family functioning. Yet, there is a lack of evidence-based community-centered rehabilitation programs for chronic pABI and these children do not systematically receiv..."]
+      },
+      {
+        "title": "\"Manoeuvring in uncharted waters - a balancing act\": A qualitative exploration of treatment and improvement after mild traumatic brain injury",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Anne-Margrethe Linnestad", "Marianne Løvstad", "Karen Synne Groven", "Unni Sveen"],
+        "abstract": ["Background: Individuals who have sustained mild traumatic brain injury (mTBI) with a protracted course of recovery may experience long-lasting somatic, cognitive, and emotional symptoms affecting activities of daily living. There is limited knowledge regarding individuals’ lived experiences with treatments and advice provided.\nPurpose: To explore h..."]
+      },
+      {
+        "title": "Cost-effectiveness analysis of combined cognitive and vocational rehabilitation in patients with mild-to-moderate TBI: results from a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Emilie Isager Howe", "Nada Andelic", "Silje Christine Reistad Fure", "Eline Aas"],
+        "abstract": ["Background\nTraumatic brain injury (TBI) represents a financial burden to the healthcare system, patients, their families and society. Rehabilitation interventions with the potential for reducing costs associated with TBI are demanded. This study evaluated the cost-effectiveness of a randomized, controlled, parallel group trial that compared the eff..."]
+      },
+      {
+        "title": "Goal Attainment in an Individually Tailored and Home-Based Intervention in the Chronic Phase after Traumatic Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Ida Maria Henriksen Borgen", "Solveig Lægreid Hauger", "Marit Vindal Forslund", "Marianne Løvstad"],
+        "abstract": ["Traumatic brain injury (TBI) is a heterogeneous condition with long-term consequences for individuals and families. Goal-oriented rehabilitation is often applied, but there is scarce knowledge regarding types of goals and goal attainment. This study describes goal attainment in persons in the chronic phase of TBI who have received an individualized..."]
+      },
+      {
+        "title": "Community-Based Interventions After Acquired Brain Injury—A Systematic Review of Intervention Types and Their Effectiveness",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Solveig Lægreid Hauger", "Ida Maria Henriksen Borgen", "Marianne Løvstad", "Cecilie Røe"],
+        "abstract": ["Objectives: \nComprehensive review of existing types and effectiveness of community-based interventions delivered to adults (mean age 18-65 years) with long-lasting (≥6 months) difficulties following acquired brain injury (ABI).\n\nDesign: \nSystematic review of controlled intervention studies published until February 2021.\n\nMain measures: \nSystematic..."]
+      },
+      {
+        "title": "Neuropsychological Impairment, Brain Injury Symptoms, and Health-Related Quality of Life After Pediatric TBI in Oslo",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Ingvil Laberg Holthe", "Hilde Margrete Dahl", "Nina Rohrer-Baumgartner", "Marianne Løvstad"],
+        "abstract": ["Descriptions of clinical outcomes in pediatric traumatic brain injury (pTBI) in Scandinavia are sparse. The Oslo site of the European CENTER-TBI study has performed a pTBI outcome study in a hospitalized population. The main objective was to investigate neuropsychological outcomes, self- and parent-reported symptoms associated with brain injury, an..."]
+      },
+      {
+        "title": "Patient-Reported Problem Areas in Chronic Traumatic Brain Injury",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Ida Maria Henriksen Borgen", "Ingerid Kleffelgård", "Solveig Lægreid Hauger", "Cecilie Røe"],
+        "abstract": ["Objective: \nThe aims of this study were to (1) assess self-reported main problem areas reported by patients with traumatic brain injury (TBI) and their family members in the chronic phase, and (2) compare the self-prioritized problems with difficulties captured by questionnaires and neuropsychological screening through linking to the International..."]
+      },
+      {
+        "title": "Post-concussion symptoms three months after mild-to-moderate TBI: characteristics of sick-listed patients referred to specialized treatment and consequences of intracranial injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Silje Christine Reistad Fure", "Emilie Isager Howe", "Øystein Spjelkavik", "Marianne Løvstad"],
+        "abstract": ["Objective: To present pre-injury, injury-related, work-related and post-injury characteristics, and to compare patients with and without traumatic intracranial abnormalities, in a treatment-seeking sample with persistent post-concussion symptoms (PPCS) after mild-to-moderate TBI.\nMethods: Cross-sectional design in the context of a specialized TBI o..."]
+      },
+      {
+        "title": "Cognitive and vocational rehabilitation after mild-to-moderate traumatic brain injury: A randomised controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Silje Christine Reistad Fure", "Emilie Isager Howe", "Nada Andelic", "Marianne Løvstad"],
+        "abstract": ["Background: \nReturning to work is often a primary rehabilitation goal after traumatic brain injury (TBI). However, the evidence base for treatment options regarding return to work (RTW) and stable work maintenance remains scarce.\n\nObjective: \nThis study aimed to examine the effect of a combined cognitive and vocational intervention on work-related..."]
+      },
+      {
+        "title": "Toward a global and reproducible science for brain imaging in neurotrauma: the ENIGMA adult moderate/severe traumatic brain injury working group",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Alexander Olsen", "Talin Babikian", "Erin D. Bigler", "Frank G Hillary"],
+        "abstract": ["The global burden of mortality and morbidity caused by traumatic brain injury (TBI) is significant, and the heterogeneity of TBI patients and the relatively small sample sizes of most current neuroimaging studies is a major challenge for scientific advances and clinical translation. The ENIGMA (Enhancing NeuroImaging Genetics through Meta-Analysis)..."]
+      },
+      {
+        "title": "Epidemiology of traumatic brain injury in children 15 years and younger in South-Eastern Norway in 2015–16. Implications for prevention and follow-up needs",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Hilde Margrete Dahl", "Nada Andelic", "Marianne Løvstad", "Mia Cathrine Myhre"],
+        "abstract": ["Objective\nThis retrospective study aimed to describe the volume, severity, and injury mechanism of all hospital-admitted pediatric traumatic brain injury (pTBI) at Oslo University Hospital (OUH), emphasizing consequences for prevention and factors indicating a need for follow-up programs.\n\nMethod\nData were extracted from the OUH Trauma registry on..."]
+      },
+      {
+        "title": "Frequency of fatigue and its changes in the first 6 months after traumatic brain injury: results from the CENTER-TBI study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Nada Andelic", "Cecilie Røe", "Cathrine Brunborg", "Jagoš Golubović"],
+        "abstract": ["Background\nFatigue is one of the most commonly reported subjective symptoms following traumatic brain injury (TBI). The aims were to assess frequency of fatigue over the first 6 months after TBI, and examine whether fatigue changes could be predicted by demographic characteristics, injury severity and comorbidities.Methods\nPatients with acute TBI a..."]
+      },
+      {
+        "title": "Correction to: Frequency of fatigue and its changes in the first 6 months after traumatic brain injury: results from the CENTER-TBI study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Nada Andelic", "Cecilie Røe", "Cathrine Brunborg", "Nicole von Steinbüchel"],
+        "abstract": ["The original version of this article unfortunately contained a mistake."]
+      },
+      {
+        "title": "Frequency of fatigue and its changes in the first 6 months after traumatic brain injury: results from the CENTER-TBI study",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Nada Andelic", "Cecilie Røe", "C Brunborg", "T Zoerle"],
+        "abstract": ["Background Fatigue is one of the most commonly reported subjective symptoms following traumatic brain injury (TBI). The aims were to assess frequency of fatigue over the first 6 months after TBI, and examine whether fatigue changes could be predicted by demographic characteristics, injury severity and comorbidities. Methods Patients with acute TBI..."]
+      },
+      {
+        "title": "Rehabilitation needs, service provision and costs in the first year following traumatic injuries: A study protocol (Preprint)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Helene Lundgaard Søberg", "Håkon Øgreid Moksnes", "Audny Anke", "Nada Andelic"],
+        "abstract": ["Background: \nBackground and purpose: Traumatic injuries, defined as physical injuries with sudden onset are a major public health problem worldwide. There is a paucity of knowledge regarding rehabilitation needs and service provision for patients with moderate and major trauma, even if rehabilitation research on a spectre of specific injuries is av..."]
+      },
+      {
+        "title": "Rehabilitation Needs, Service Provision, and Costs in the First Year Following Traumatic Injuries: Protocol for a Prospective Cohort Study (Preprint)",
+        "tags": ["Preprint"],
+        "date": "Nov 2020",
+        "authors": ["Helene Lundgaard Søberg", "Håkon Øgreid Moksnes", "Audny Anke", "Nada Andelic"],
+        "abstract": ["BACKGROUND\nTraumatic injuries, defined as physical injuries with sudden onset, are a major public health problem worldwide. There is a paucity of knowledge regarding rehabilitation needs and service provision for patients with moderate and major trauma, even if rehabilitation research on a spectrum of specific injuries is available.\n\nOBJECTIVE\nThis..."]
+      },
+      {
+        "title": "Effectiveness of Combining Compensatory Cognitive Training and Vocational Intervention vs. Treatment as Usual on Return to Work Following Mild-to-Moderate Traumatic Brain Injury: Interim Analysis at 3 and 6 Month Follow-Up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Emilie Isager Howe", "Silje Christine Reistad Fure", "Marianne Løvstad", "Nada Andelic"],
+        "abstract": ["Aims: Knowledge regarding the most effective return to work (RTW) approaches after traumatic brain injury (TBI) is lacking. This trial aimed to compare the effectiveness of a combined cognitive and vocational intervention to treatment as usual (TAU) on RTW and work stability after TBI. Methods: We performed a parallel-group randomized controlled tr..."]
+      },
+      {
+        "title": "Emotional Regulation Following Acquired Brain Injury: Associations With Executive Functioning in Daily Life and Symptoms of Anxiety and Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Jan Stubberud", "Marianne Løvstad", "Anne‐Kristin Solbakk", "Sveinung Tornås"],
+        "abstract": ["Objective: To examine whether a questionnaire measuring emotional regulation after acquired brain injury adds clinical information beyond what can be obtained with a comprehensive executive function questionnaire and an anxiety and depression measure. Method: Seventy adult persons (age 19–66 years, Mage = 43, SDage = 13) with acquired brain injury..."]
+      },
+      {
+        "title": "«Skaden sitter ved kjøkkenbordet»: Hvordan møtes familier med alvorlige skader av familievernet?",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Tor-André Ribe-Anderssen", "Lena Holm Berndtsson", "Marianne Løvstad", "Anne-Kristine Schanke"],
+        "abstract": []
+      },
+      {
+        "title": "A Mindfulness-Based Stress Reduction Program via Group Video Conferencing for Adults With Cerebral Palsy – A Pilot Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Helene Høye", "Reidun Jahnsen", "Marianne Løvstad", "Grethe Maanum"],
+        "abstract": ["Purpose: Adults with cerebral palsy experience challenges related to lifelong disability, such as stress, fatigue, pain and emotional issues. E-health services can be delivered regardless of residence and level of functioning. The aim of this pilot study was to explore the potential benefits and feasibility of a mindfulness-based program delivered..."]
+      },
+      {
+        "title": "How do family members of individuals with spinal cord and acquired brain injuries make sense of their experiences: A qualitative study of meaning making processes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Anne Geard", "Marit Kirkevold", "Marianne Løvstad", "Anne-Kristine Schanke"],
+        "abstract": ["This study explores the processes that promote coping with abruptive life changes, often experienced as life before and after injury. The consept of meaning making, was used as theoretical framework for analysisthr. Family members of individuals with spinal cord and acquired brain injury participated in two focus groups three to twenty years post-i..."]
+      },
+      {
+        "title": "Traumatic brain injury—needs and treatment options in the chronic phase: Study protocol for a randomized controlled community-based intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Ida Maria Henriksen Borgen", "Marianne Løvstad", "Nada Andelic", "Cecilie Røe"],
+        "abstract": ["Background: \nTraumatic brain injury (TBI) is often associated with life-long medical, cognitive, emotional, and behavioral changes. Although long-lasting disabilities are expected, research on effective treatment options in the chronic phase of TBI is scarce.\n\nMethods/design: \nThis study protocol describes a randomized controlled trial (RCT) aimed..."]
+      },
+      {
+        "title": "Needs and treatment options in chronic traumatic brain injury: A feasibility trial of a community-based intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Ida Maria Henriksen Borgen", "Marianne Løvstad", "Cecilie Røe", "Ingerid Kleffelgård"],
+        "abstract": ["Lifelong changes may be expected after sustaining a traumatic brain injury (TBI). Research on relevant treatment options in the chronic phase of TBI is lacking. An innovative, home-based intervention program was developed in the US and showed to be effective among US veterans who had sustained a TBI. However, the cross-cultural applicability and ef..."]
+      },
+      {
+        "title": "The feasibility and acceptability of goal management training of executive functions in children with spina bifida and acquired brain injury",
+        "tags": ["Article"],
+        "date": "Feb 2020",
+        "authors": ["Jan Stubberud", "Ingvil L. Holthe", "Marianne Løvstad", "Torun Gangaune Finnanger"],
+        "abstract": ["Executive dysfunction causes significant real-life disability for children with spina bifida (SB) and acquired brain injury (ABI), and efficient interventions are needed. Goal Management Training (GMT) is a cognitive rehabilitation intervention for improving executive function (EF) that has received empirical support in studies of adults with SB an..."]
+      },
+      {
+        "title": "Impact of Traumatic Brain Injuries on Participation in Daily Life and Work: Recent Research and Future directions",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Nada Andelic", "Cecilie Røe", "Marianne Løvstad", "Jennie Ponsford"],
+        "abstract": []
+      },
+      {
+        "title": "What characterises work and workplaces that retain their employees following acquired brain injury? Systematic review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Daniele E. Alves", "Wendy Nilsen", "Silje Christine Reistad Fure", "Øystein Spjelkavik"],
+        "abstract": ["Objectives: \nThe objective of this study was to conduct a systematic review assessing workplace factors related to work retention (or return to work) in employees with acquired brain injury (ABI). Additionally, we aimed to synthesise the evidence and state of knowledge on this subject.\n\nMethods: \nA database search was performed in nine relevant ele..."]
+      },
+      {
+        "title": "Editorial: Impact of Traumatic Brain Injuries on Participation in Daily Life and Work: Recent Research and Future Directions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Nada Andelic", "Marianne Løvstad", "Anne Norup", "Cecilie Røe"],
+        "abstract": []
+      },
+      {
+        "title": "What characterizes workplaces that retain their employees following acquired brain injury? Protocol for a systematic review",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Daniele E. Alves", "Wendy Nilsen", "Heidi Enehaug", "Øystein Spjelkavik"],
+        "abstract": ["Protocol: Systematic review"]
+      },
+      {
+        "title": "Toward a Global and Reproducible Science for Brain Imaging in Neurotrauma: The ENIGMA Adult Moderate/Severe Traumatic Brain Injury Working Group",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Alexander Olsen", "Robert F Asarnow", "Erin D. Bigler", "Frank G Hillary"],
+        "abstract": ["The global burden of mortality and morbidity caused by traumatic brain injury (TBI) is significant and the heterogeneity of TBI patients and the relatively small sample sizes of most current neuroimaging studies is a major challenge for scientific advances and clinical translation. The ENIGMA (Enhancing NeuroImaging Genetics through Meta-Analysis)..."]
+      },
+      {
+        "title": "Combined Cognitive and Vocational Intervention After Mild-To-Moderate TBI: Baseline Characteristics",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Silje Christine Reistad Fure", "Emilie Isager Howe", "Cecilie Røe", "Nada Andelic"],
+        "abstract": []
+      },
+      {
+        "title": "Use It or Lose It? A 5-Year Follow-up Study of Goal Management Training in Patients with Acquired Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Sveinung Tornås", "Marianne Løvstad", "Anne‐Kristin Solbakk", "Jan Stubberud"],
+        "abstract": ["Objectives\nTo determine the perceived 5-year outcome of Goal Management Training (GMT) for individuals with chronic acquired brain injury and executive dysfunction, when compared to a nonspecific psychoeducational intervention (Brain Health Workshop, BHW).\n\nMethods\nOf the 67 subjects in the initial randomized controlled trial [Tornås et al. (2016)...."]
+      },
+      {
+        "title": "Persons injured in the 2011 terror attacks in Norway - Relationship between post-traumatic stress symptoms, emotional distress, fatigue, sleep, and pain outcomes, and medical and psychosocial factors",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Marianne Løvstad", "Grethe Maanum", "Kristin Wisløff-Aase", "Anne-Kristine Schanke"],
+        "abstract": ["Purpose: The main aim was to assess long-term post-traumatic stress symptoms, emotional distress, fatigue, sleep disturbances and pain in individuals hospitalized with physical injuries after two terror attacks in Oslo in 2011, approximately three years after the events. A secondary aim was to explore the relationship between these outcomes and med..."]
+      },
+      {
+        "title": "Chronic pain among the hospitalized patients after the 22 July 2011 terror attacks in Oslo and at Utøya Island",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Kristin Wisløff-Aase", "Johan Raeder", "Grethe Maanum", "Johan Kvalvik Stanghelle"],
+        "abstract": ["Background\nOn 22 July 2011, 48 people were hospitalized due to physical injuries from gun shots or explosion, following 2 terror attacks in the Oslo area, Norway. In this study, we have investigated the occurrence of chronic pain, the severity and consequences of chronic pain in these patients, 3 to 4 years after the incidents.\n\nMethods\nTotally 43..."]
+      },
+      {
+        "title": "A Community-Based Intervention Program in the Chronic Phase of TBI: A feasibility trial for a randomized controlled trial.",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Ida Maria Henriksen Borgen", "Solveig Lægreid Hauger", "Marianne Løvstad", "Ingerid Kleffelgård"],
+        "abstract": ["Poster presentation of feasibility results of the TBI community study at IBIA 2019 in Toronto."]
+      },
+      {
+        "title": "Clinical characteristics and physical functioning in persons hospitalized following the Norwegian terror attacks in July 2011: A follow up study",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Grethe Maanum", "Marianne Løvstad", "Kristin Wisløff-Aase", "Johan K. Stanghelle"],
+        "abstract": ["Objective: To describe the clinical characteristics and physical functioning in persons hospitalized after 2 terror attacks in Norway in 2011. \nDesign: Cross-sectional study with retrospective acute medical data.\nSubjects: Surviving persons hospitalized with physical injuries.\nMethods: Medical and psychological assessments 3–4 years after injury, w..."]
+      },
+      {
+        "title": "Feasibility of a Cognitive Rehabilitation Program for Individuals with Mild-to-Moderate Traumatic Brain Injury: Participants’ Engagement and Satisfaction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Emilie Isager Howe", "Marianne Løvstad", "Knut-Petter Sætre Langlo", "Nada Andelic"],
+        "abstract": ["Purpose: To assess the feasibility of recruitment procedures and delivery of a Norwegian adaptation of a manualized cognitive intervention to a civilian sample with traumatic brain injury (TBI). Materials and methods: Six individuals received a 10-week group-based intervention (Compensatory Cognitive Training, CCT) targeting post-concussive symptom..."]
+      },
+      {
+        "title": "Lesions to the Fronto-Parietal Network Impact Alpha-Band Phase Synchrony and Cognitive Control",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Sepideh Sadaghiani", "Pascasie Leonie Dombert", "Marianne Løvstad", "Mark D'Esposito"],
+        "abstract": ["Long-range phase synchrony in the α-oscillation band (near 10 Hz) has been proposed to facilitate information integration across anatomically segregated regions. Which areas may top-down regulate such cross-regional integration is largely unknown. We previously found that the moment-to-moment strength of high-α band (10-12 Hz) phase synchrony co-va..."]
+      },
+      {
+        "title": "Employment Probability Trajectories Up To 10 Years After Moderate-To-Severe Traumatic Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Emilie Isager Howe", "Nada Andelic", "Paul B. Perrin", "Marit Vindal Forslund"],
+        "abstract": []
+      },
+      {
+        "title": "\"It gets better. It can´t be worse than what we have been through.\" Family accounts of the minimally conscious state",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Marianne Løvstad", "Kari Nyheim Solbrække", "Marit Kirkevold", "Anne-Kristine Schanke"],
+        "abstract": ["Objectives: \nThe aim of this qualitative study was to explore family life when a family member is in a chronic minimally conscious state (MCS). Experiences with the health care system were also explored.\n\nMethods: \nAs part of a larger qualitative study of family life after a family member suffers severe physical injury, we conducted a focus group i..."]
+      },
+      {
+        "title": "Elderly Norwegian Polio Survivors: Predictors of self-perceived physical and psychological health",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Anne-Kristine Schanke", "Marianne Løvstad"],
+        "abstract": ["Aims: To explore self-perceived physical and psychological health among elderly Norwegian polio survivors. Methods: A questionnaire was distributed to the Norwegian Society of Polio Survivors (LFPS) and others registered with polio in the South-Eastern Norway the last five years (n=1968). A total of 1408 persons responded (72 %). Participants below..."]
+      },
+      {
+        "title": "Assessing the feasibility of delivering a combined cognitive and vocational intervention to individuals with traumatic brain injury in the southeastern region of Norway",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2018",
+        "authors": ["Emilie Isager Howe", "Knut-Petter Sætre Langlo", "Marianne Løvstad", "Nada Andelic"],
+        "abstract": ["Introduction/Background\nFew studies have examined the effect of cross-sectorial collaboration on vocational outcomes, symptom burden, and quality of life following traumatic brain injury (TBI). In preparation for a larger scale randomized controlled trial (RCT), we assessed the feasibility of delivering a combined cognitive and vocational intervent..."]
+      },
+      {
+        "title": "Disability and quality of life 20 years after traumatic brain injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Nada Andelic", "Emilie Isager Howe", "Torgeir Hellstrom", "Cecilie Røe"],
+        "abstract": ["Objectives\nThe study describes functional outcomes and health‐related quality of life (HRQL) in patients with traumatic brain injury (TBI) 20 years postinjury.\n\nMaterials and Methods\nForty‐four survivors who acquired moderate and severe TBI during 1995–1996 were followed 10 and 20 years postinjury. Outcomes were Glasgow Outcome Scale Extended (GOSE..."]
+      },
+      {
+        "title": "Assessment of nociception and pain in participants with unresponsive or minimally conscious state after acquired brain injury: the relationship between the Coma Recovery Scale-Revised and the Nociception Coma Scale-Revised",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Camille Chatelle", "Solveig Lægreid Hauger", "Charlotte Martial", "Petra Maurer-Karattup"],
+        "abstract": ["Objective: \nInvestigate the relationship between consciousness and nociceptive responsiveness (i.e., Nociception Coma Scale-Revised [NCS-R]), examine the suitability of the NCS-R for assessing nociception in participants with disorders of consciousness (DoC) and replicate previous findings on psychometric properties of the scale.\n\nDesign: \nWe prosp..."]
+      },
+      {
+        "title": "Role of workplace in job tenure for employees returning to work following acquired brain injury: protocol for a systematic review",
+        "tags": ["Research", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Daniele E. Alves", "Heidi Enehaug", "Øystein Spjelkavik", "Vilde Bernstrøm"],
+        "abstract": ["Protocol of systematic review investigating which workplace factors are relevant to job tenure for employees who return to work after acquired brain injury."]
+      },
+      {
+        "title": "Exploring narratives of resilience among seven males living with spinal cord injury: A qualitative study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Anne Geard", "Marit Kirkevold", "Marianne Løvstad", "Anne-Kristine Schanke"],
+        "abstract": ["Background: \nIt is a challenge for both individuals and families when an illness or traumatic injury results in a severe spinal cord injury. The on-going physical impairments experienced by persons with spinal cord injury play themselves out over time. Few qualitative studies have explored how health, resilience and wellbeing interplay across time..."]
+      },
+      {
+        "title": "Combined cognitive and vocational interventions after mild to moderate traumatic brain injury: Study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Emilie Isager Howe", "Knut-Petter Sætre Langlo", "Hans Christoffer Aargaard Terjesen", "Nada Andelic"],
+        "abstract": ["Background\nA considerable proportion of patients with mild to moderate traumatic brain injury (TBI) experience long-lasting somatic, cognitive, and emotional symptoms that may hamper their capacity to return to work (RTW). Although several studies have described medical, psychological, and work-related factors that predict RTW after TBI, well-contr..."]
+      },
+      {
+        "title": "Description of a multifaceted intervention programme for fatigue after acquired brain injury: a pilot study",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Jan Stubberud", "Espen Greve Aubert", "Anne-Kristine Schanke", "Marianne Løvstad"],
+        "abstract": ["The purpose of this pilot study was to describe and explore a group-based multifaceted intervention for patients with fatigue after acquired brain injury (ABI). We hypothesised that post-intervention changes would result in reduced fatigue, in addition to improved emotional health, sleep and attentional control. Eight subjects with traumatic brain..."]
+      },
+      {
+        "title": "Moderators, mediators and nonspecific predictors of outcome after cognitive rehabilitation of executive functions in a randomised controlled trial",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Sveinung Tornås", "Jan Stubberud", "Anne‐Kristin Solbakk", "Marianne Løvstad"],
+        "abstract": ["Methods: \nSeventy patients with executive dysfunction were randomly allocated to GMT (n = 33) or control (n = 37). Outcome measures were established by factor-analysis and included cognitive executive complaints, emotional dysregulation and psychological distress.\n\nResults: \nHigher age and IQ emerged as nonspecific predictors. Verbal memory and pla..."]
+      },
+      {
+        "title": "Cognitive Event-Related Potentials during the Sub-Acute Phase of Severe Traumatic Brain Injury and Their Relationship to Outcome",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Solveig Lægreid Hauger", "Kjell Olafsen", "Caroline Schnakers", "Marianne Løvstad"],
+        "abstract": ["Predicting outcome in the early phase after severe traumatic brain injury (sTBI) is a major clinical challenge, particularly identifying patients with potential of good cognitive outcome. The current single center prospective study aimed to explore presence and normalization of electroencephalography (EEG)-based event related potentials (ERPs) in t..."]
+      },
+      {
+        "title": "Education, training, and practice among nordic neuropsychologists. Results from a professional practices survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Anne Norup", "Jens Egeland", "Marianne Løvstad", "Juan Carlos Arango-Lasprilla"],
+        "abstract": ["Objective: \nTo investigate sociodemographic characteristics, clinical and academic training, work setting and salary, clinical activities, and salary and job satisfaction among practicing neuropsychologists in four Nordic countries.\n\nMethods: \n890 neuropsychologists from Denmark, Finland, Norway, and Sweden participated in an internet-based survey..."]
+      },
+      {
+        "title": "Questionnaire Use Among Nordic Neuropsychologists: Shift From Assessing Personality to Checking Ecological Validity of Neuropsychological Assessments?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2017",
+        "authors": ["Jens Egeland", "Marianne Løvstad", "Anne Norup", "Juan Carlos Arango-Lasprilla"],
+        "abstract": ["The core method of neuropsychologists has been to collect structured samples of behavior through standardized tests. Information that cannot be elicited through tests may be gathered by questionnaires asking questions about behavior. Tests may deconstruct cognitive function precisely, but lack the ecological validity of questionnaires. Thus, many n..."]
+      },
+      {
+        "title": "The Clinical Diagnostic Utility of Electrophysiological Techniques in Assessment of Patients With Disorders of Consciousness Following Acquired Brain Injury: A Systematic Review",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Solveig Lægreid Hauger", "A.-K. Schanke", "Stein Andersson", "Marianne Løvstad"],
+        "abstract": ["Objective: \nTo investigate the diagnostic utility of electrophysiological recordings during active cognitive tasks in detecting residual cognitive capacities in patients with disorders of consciousness (DoC) after severe acquired brain injury.\n\nDesign: \nSystematic review of empirical research in MEDLINE, Embase, PsycINFO, and Cochrane from January..."]
+      },
+      {
+        "title": "Volumetric and morphometric MRI findings in patients with mild traumatic brain injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Torgeir Hellstrom", "L. T. Westlye", "Andres Server", "Nada Andelic"],
+        "abstract": ["Objective: This study compared cortical and sub-cortical volumes between patients with complicated (i.e. presence of intracranial abnormality on the day-of-injury CT) and uncomplicated (i.e. absence of intracranial abnormality) mild traumatic brain injury (MTBI) 4 weeks post-injury. The study hypothesized regionally decreased brain volumes and redu..."]
+      },
+      {
+        "title": "Following international trends while subject to past traditions: neuropsychological test use in the Nordic countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Jens Egeland", "Marianne Løvstad", "Anne Norup", "Juan Carlos Arango-Lasprilla"],
+        "abstract": ["Objective: Historically, the neuropsychological test traditions\nof the four Nordic countries have spanned from the flexible and\nqualitative tradition of Luria-Christensen to the quantitative\nlarge battery approach of Halstead and Kløve–Matthews. This\nstudy reports current test use and discusses whether these\ntraditions still influence attitudes tow..."]
+      },
+      {
+        "title": "Goal Management Training Combined With External Cuing as a Means to Improve Emotional Regulation, Psychological Functioning, and Quality of Life in Patients With Acquired Brain Injury: A Randomized Controlled Trial",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Sveinung Tornås", "Cand Psychol", "Marianne Løvstad", "Jan Stubberud"],
+        "abstract": ["Objective: \nTo investigate whether Goal Management Training (GMT) expanded to include external cuing and an emotional regulation module is associated with improved emotional regulation, psychological functioning, and quality of life after chronic acquired brain injury.\n\nDesign: \nA randomized controlled trial with blinded outcome assessment at basel..."]
+      },
+      {
+        "title": "Behavior Rating Inventory of Executive Function Adult Version in Patients with Neurological and Neuropsychiatric Conditions: Symptom Levels and Relationship to Emotional Distress",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Marianne Løvstad", "Solrun Sigurdardottir", "Stein Andersson", "Anne‐Kristin Solbakk"],
+        "abstract": ["Objectives: \nThe present study explored the level of self-and informant reported executive functioning in daily living using the Behavior Rating Inventory of Executive Function-Adult Version (BRIEF-A) in a large sample comprising healthy adults and patient cohorts with neurological and neuropsychiatric disorders. The relationship to neuropsychologi..."]
+      },
+      {
+        "title": "Rehabilitation of Executive Functions in Patients with Chronic Acquired Brain Injury with Goal Management Training, External Cuing, and Emotional Regulation: A Randomized Controlled Trial",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Sveinung Tornås", "Marianne Løvstad", "Anne‐Kristin Solbakk", "Jan Stubberud"],
+        "abstract": ["Executive dysfunction is a common consequence of acquired brain injury (ABI), causing significant disability in daily life. This randomized controlled trial investigated the efficacy of Goal Management Training\nTM\n(GMT) in improving executive functioning in patients with chronic ABI. Seventy patients with a verified ABI and executive dysfunction we..."]
+      },
+      {
+        "title": "Neurophysiological Indicators of Residual Cognitive Capacity in the Minimally Conscious State",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Solveig Lægreid Hauger", "Caroline Schnakers", "Stein Andersson", "Marianne Løvstad"],
+        "abstract": [". The diagnostic usefulness of electrophysiological methods in assessing disorders of consciousness (DoC) remains to be established on an individual patient level, and there is need to determine what constitutes robust experimental paradigm to elicit electrophysiological indices of covert cognitive capacity.\nObjectives\n. Two tasks encompassing acti..."]
+      },
+      {
+        "title": "Goal Management Training of executive functions in patients with acquired brain injury.",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2015",
+        "authors": ["Sveinung Tornås", "Marianne Løvstad", "Anne‐Kristin Solbakk", "Jan Stubberud"],
+        "abstract": ["Objective: To explore the efficacy of a group-based standardized, manualized compensatory cognitive rehabilitation intervention, Goal Management Training (GMT), compared to an active control condition, Brain Health Workshop (BHW), in a randomized controlled trial. We hypothesized that GMT would reduce dysexecutive problems in everyday living. \nPart..."]
+      },
+      {
+        "title": "Preserved Covert Cognition in Noncommunicative Patients With Severe Brain Injury?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Caroline Schnakers", "Joseph Giacino", "Marianne Løvstad", "Steven Laureys"],
+        "abstract": ["Background: \nDespite recent evidence suggesting that some severely brain-injured patients retain some capacity for top-down processing (covert cognition), the degree of sparing is unknown.\n\nObjective: \nTop-down attentional processing was assessed in patients in minimally conscious (MCS) and vegetative states (VS) using an active event-related poten..."]
+      },
+      {
+        "title": "Top-down attentional processing in disorders of consciousness: An event-related potentials study",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Caroline Schnakers", "Joseph Giacino", "Marianne Løvstad", "Steven Laureys"],
+        "abstract": []
+      },
+      {
+        "title": "Goal Management Training in patients with acquired brain injury - preliminary results",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Sveinung Tornås", "Marianne Løvstad", "Anne‐Kristin Solbakk", "Jan Stubberud"],
+        "abstract": ["Objectives: Goal Management TrainingTM (GMT) is a standardized compensatory cognitive rehabilitation intervention that relies on verbally mediated, metacognitive strategies for improving attention and problem solving (Levine et al., 2011; Stubberud et al., 2013). This randomized controlled trial explored the efficacy of group-based GMT (see table 1..."]
+      },
+      {
+        "title": "Effects of focal prefrontal cortex lesions on electrophysiological indices of executive attention and action control",
+        "tags": ["Article"],
+        "date": "Mar 2014",
+        "authors": ["Anne‐Kristin Solbakk", "Marianne Løvstad"],
+        "abstract": ["The human capacity to maintain an overarching control over mental states and behavior relies on multiple, distributed and dynamically interacting brain networks, in which prefrontal cortex (PFC) plays a critical role. PFC exerts top-down executive control over subcortical and posterior cortical areas via extensive reciprocal connections. The orbita..."]
+      },
+      {
+        "title": "Rate of Disorders of Consciousness in a Prospective Population-Based Study of Adults With Traumatic Brain Injury",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Marianne Løvstad", "Nada Andelic", "Rein Knoph", "Anne-Kristine Schanke"],
+        "abstract": ["Establish rate of disorders of consciousness (DOC) and course of recovery in adults who have sustained severe traumatic brain injury (sTBI).\nFour Norwegian neurosurgical departments.\nVegetative or minimally conscious patients.\nProspective, longitudinal population-based study of adults with sTBI with follow-ups at 3, 12, and 24-36 months postinjury...."]
+      },
+      {
+        "title": "Impact of Orbitofrontal Lesions on Electrophysiological Signals in a Stop Signal Task",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Anne‐Kristin Solbakk", "Ingrid Funderud", "Marianne Løvstad", "Ulrike Krämer"],
+        "abstract": ["Behavioral inhibition and performance monitoring are critical cognitive functions supported by distributed neural networks including the pFC. We examined neurophysiological correlates of motor response inhibition and action monitoring in patients with focal orbitofrontal (OFC) lesions (n = 12) after resection of a primary intracranial tumor or cont..."]
+      },
+      {
+        "title": "A description of cognitive rehabilitation at Sunnaas Rehabilitation Hospital - Balancing comprehensive holistic rehabilitation and retraining of specific functional domains",
+        "tags": ["Article"],
+        "date": "Nov 2013",
+        "authors": ["Frank Becker", "Melanie Kirmess", "Sveinung Tornås", "Marianne Løvstad"],
+        "abstract": ["Measures of cognitive rehabilitation should include comprehensive holistic rehabilitation as well as interventions targeting specific cognitive functions; it is however not clear how this knowledge should be put into practice.\nTo describe services provided at the cognitive rehabilitation unit at Sunnaas Rehabilitation Hospital (SRH), a regional reh..."]
+      },
+      {
+        "title": "Preparatory attention after lesions to the lateral or orbital prefrontal cortex - An Event-Related Potentials study.",
+        "tags": ["Article"],
+        "date": "Jul 2013",
+        "authors": ["Ingrid Funderud", "Marianne Løvstad", "Magnus Lindgren", "Anne‐Kristin Solbakk"],
+        "abstract": ["The prefrontal cortex (PFC) plays a central role in preparatory and anticipatory attentional processes. To investigate whether subregions of the PFC play differential roles in these processes we investigated the effect of focal lesions to either lateral prefrontal (lateral PFC; n=11) or orbitofrontal cortex (OFC; n=13) on the contingent negative va..."]
+      },
+      {
+        "title": "[In Process Citation].",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Marianne Løvstad", "Solveig Lægreid Hauger", "Frank Becker"],
+        "abstract": []
+      },
+      {
+        "title": "Differential Go/NoGo Activity in Both Contingent Negative Variation and Spectral Power",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Ingrid Funderud", "Magnus Lindgren", "Marianne Løvstad", "Anne‐Kristin Solbakk"],
+        "abstract": ["We investigated whether both the contingent negative variation (CNV), an event-related potential index of preparatory brain activity, and event-related oscillatory EEG activity differentiated Go and NoGo trials in a delayed response task. CNV and spectral power (4-100 Hz) were calculated from EEG activity in the preparatory interval in 16 healthy a..."]
+      },
+      {
+        "title": "Figure S1",
+        "tags": ["Data"],
+        "date": "Oct 2012",
+        "authors": ["Ingrid Funderud", "Magnus Lindgren", "Marianne Løvstad", "Anne‐Kristin Solbakk"],
+        "abstract": ["Broad-spectrum time-frequency plots for each condition and region of interest. To visualize spectral activity across all bands, the same method was used as that for a priori band-specific analyses except for a broader range of frequencies. We used 35 log-spaced frequency bands between 4 and 100 Hz, calculated from the ERP data. The analytic amplitu..."]
+      },
+      {
+        "title": "Anterior cingulate cortex and cognitive control: Neuropsychological and electrophysiological findings in two patients with lesions to dorsomedial prefrontal cortex",
+        "tags": ["Article"],
+        "date": "Aug 2012",
+        "authors": ["Marianne Løvstad", "Ingrid Funderud", "Torstein R. Meling", "Anne‐Kristin Solbakk"],
+        "abstract": ["Whereas neuroimaging studies of healthy subjects have demonstrated an association between the anterior cingulate cortex (ACC) and cognitive control functions, including response monitoring and error detection, lesion studies are sparse and have produced mixed results. Due to largely normal behavioral test results in two patients with medial prefron..."]
+      },
+      {
+        "title": "Executive functions after orbital or lateral prefrontal lesions: Neuropsychological profiles and self-reported executive functions in everyday living",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Marianne Løvstad", "Ingrid Funderud", "Tor Endestad", "Anne‐Kristin Solbakk"],
+        "abstract": ["Objective: \nThis study examined the effects of chronic focal lesions to the lateral prefrontal cortex (LPFC) or orbitofrontal cortex (OFC) on neuropsychological test performance and self-reported executive functioning in everyday living.\n\nMethods: \nFourteen adults with OFC lesions were compared to 10 patients with LPFC injuries and 21 healthy contr..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [103],
+    "reads": [15975],
+    "citations": [1303]
   }
 }

@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Anders Flækøy Landmark",
-    "id": "846440",
+    "name": ["Anders Flækøy Landmark"],
+    "id": ["846440"],
     "keywords": [],
     "position": ["University lecturer", null],
     "img": {},
@@ -21,26 +21,26 @@
       {
         "type": "Academic article",
         "year": "2018",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1640779"
+        "url": "https://api.cristin.no/v2/results/1640779",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Editorial",
         "year": "2018",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1607360"
+        "url": "https://api.cristin.no/v2/results/1607360",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Editorial",
         "year": "2018",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1604639"
+        "url": "https://api.cristin.no/v2/results/1604639",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Popular scientific article",
         "year": "2017",
-        "journal": "Psykologisk tidsskrift",
-        "url": "https://api.cristin.no/v2/results/1527054"
+        "url": "https://api.cristin.no/v2/results/1527054",
+        "journal": "Psykologisk tidsskrift"
       },
       {
         "type": "Non-fiction book",
@@ -48,5 +48,474 @@
         "url": "https://api.cristin.no/v2/results/1400657"
       }
     ]
+  },
+  "rg": {
+    "id": "Peter-Anders-4",
+    "name": "Peter Anders",
+    "img": "https://i1.rgstatic.net/ii/profile.image/278883862630408-1443502502637_Q128/Peter-Anders-4.jpg",
+    "affiliation": "",
+    "keywords": ["Galaxy", "Photometry", "Astronomy & Astrophysics", "Galaxy Evolution", "Extragalactic Astronomy", "Optical Astronomy", "Infrared Astronomy", "Theoretical Astrophysics", "Star Formation", "Stellar Evolution"],
+    "works": [
+      {
+        "title": "GALEV Evolutionary Synthesis Models",
+        "tags": ["Article"],
+        "date": "Oct 2010",
+        "authors": ["Ralf Kotulla", "Uta Fritze", "Peter Weilbacher", "Peter Anders"],
+        "abstract": ["GALEV evolutionary synthesis models describe the evolution of stellar\npopulations in general, of star clusters as well as of galaxies, both in\nterms of resolved stellar populations and of integrated light properties\nover cosmological timescales of > 13 Gyr from the onset of star\nformation shortly after the Big Bang until today. For galaxies, GALEV..."]
+      },
+      {
+        "title": "Stochastic stellar cluster IMFs: Models and impact on integrated cluster parameter determination",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Peter Anders", "Ralf Kotulla", "Richard de Grijs", "J. Wicker"],
+        "abstract": ["Stellar clusters are regularly used to study the evolution of their host galaxy. Except for a few nearby galaxies, these studies rely on the interpretation of integrated cluster properties, especially integrated photometry observed using multiple filters (i.e., the spectral energy distribution, SED). To allow interpretation of such observations, we..."]
+      },
+      {
+        "title": "SSP models for star clusters in tidal fields (Anders+, 2009)",
+        "tags": ["Article"],
+        "authors": ["Peter Anders", "H. Baumgardt"],
+        "abstract": ["Simple Stellar Population (SSP) models for star clusters in tidal fields, based on the GALEV code (GALEV group webpage ) All models are calculated for a universal Kroupa (2001) IMF and for Padova isochrones (Isochrones from the Padova group, as described in Bertelli et al., 1994A&AS..106..275B, Cat. and references therein; with an update on TP-AGB..."]
+      },
+      {
+        "title": "Young star clusters in circumnuclear starburst rings",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Richard de Grijs", "Chao Ma", "Siyao Jia", "Peter Anders"],
+        "abstract": ["We analyse the cluster luminosity functions (CLFs) of the youngest star clusters in three galaxies exhibiting prominent circumnuclear starburst rings. We focus specifically on NGC 1512 and NGC 6951, for which we have access to H$\\alpha$ data that allow us to unambiguously identify the youngest sample clusters. To place our results on a firm statist..."]
+      },
+      {
+        "title": "Star Cluster Disruption in the Starburst Galaxy Messier 82",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Shuo Li", "Richard de Grijs", "Peter Anders", "Chengyuan Li"],
+        "abstract": ["Using high-resolution, multiple-passband Hubble Space Telescope images\nspanning the entire optical/near-infrared wavelength range, we obtained a\nstatistically complete sample, $U$-band selected sample of 846 extended star\nclusters across the disk of the nearby starburst galaxy M82. Based on careful\nanalysis of their spectral energy distributions, w..."]
+      },
+      {
+        "title": "The VMC Survey - XII. Star cluster candidates in the Large Magellanic Cloud",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["André E. Piatti", "R. Guandalini", "Valentin Ivanov", "Joana M. Oliveira"],
+        "abstract": ["In this work we analyse Colour-Magnitude Diagrams (CMDs) of catalogued star\nclusters located in the Large Magellanic Cloud (LMC), from a YJKs photometric\ndata set obtained by the Visible and Infrared Survey Telescope for Astronomy\n(VISTA) survey of the Magellanic Clouds system (VMC). We studied a total of 98\nobjects of small angular size, typically..."]
+      },
+      {
+        "title": "Effect of dynamical interactions on integrated properties of globular clusters",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Yulong Zhuang", "Fenghui Zhang", "Peter Anders", "Xiaoyu Kang"],
+        "abstract": ["Globular Clusters (GCs) are generally treated as natural validators of simple\nstellar population (SSP) models. However, there are still some differences\nbetween real GCs and SSPs. In this work we use a direct $N$-body simulation\ncode {\\hf Nbody6} to study the influences of dynamical interactions,\nmetallicity and primordial binaries on Milky Way glo..."]
+      },
+      {
+        "title": "The VMC ESO Public Survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["M. -R. Cioni", "Peter Anders", "G. Bagheri", "Simone Zaggia"],
+        "abstract": ["The VISTA near-infrared YJKs survey of the Magellanic Clouds system (VMC) has\nentered its core phase: about 40% of the observations across the Large and\nSmall Magellanic Clouds (LMC, SMC), the Magellanic Bridge and Stream have\nalready been secured and the data are processed and analysed regularly. The\ninitial analyses, concentrated in the first two..."]
+      },
+      {
+        "title": "No compelling evidence of significant early star cluster disruption in the Large Magellanic Cloud",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2013",
+        "authors": ["Richard de Grijs", "Simon P. Goodwin", "Peter Anders"],
+        "abstract": ["Whether or not the rich star cluster population in the Large Magellanic Cloud (LMC) is affected by significant disruption\nduring the first few × 108 yr of its evolution is an open question and the subject of significant current debate. Here, we revisit the problem, adopting\na homogeneous data set of broad-band imaging observations. We base our anal..."]
+      },
+      {
+        "title": "The NGC 5253 star cluster system. I. Standard modelling and\ninfrared-excess sources",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2013",
+        "authors": ["Richard de Grijs", "Peter Anders", "Erik Zackrisson", "Göran Östlin"],
+        "abstract": ["Using high-resolution Hubble Space Telescope data, we reexamine the\nfundamental properties (ages, masses and extinction values) of the rich star\ncluster population in the dwarf starburst galaxy NGC 5253. The gain in\nresolution compared to previous studies is of order a factor of two in both\nspatial dimensions, while our accessible wavelength range..."]
+      },
+      {
+        "title": "Extremely rapid star cluster disruption in high-shear circumnuclear starburst rings: The unusual case of NGC 7742",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Richard de Grijs", "Peter Anders"],
+        "abstract": ["All known mass distributions of recently formed star cluster populations resemble a \"universal\" power-law function. Here we assess the impact of the extremely disruptive environment in NGC?7742's circumnuclear starburst ring on the early evolution of the galaxy's high-mass (~105-107M\n?) star cluster population. Surprisingly, and contrary to expecta..."]
+      },
+      {
+        "title": "The star cluster formation history of the LMC",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2012",
+        "authors": ["Holger Baumgardt", "Genevieve Parmentier", "Peter Anders", "Eva K. Grebel"],
+        "abstract": ["The Large Magellanic Cloud is one of the nearest galaxies to us and is one of\nonly few galaxies where the star formation history can be determined from\nstudying resolved stellar populations. We have compiled a new catalogue of\nages, luminosities and masses of LMC star clusters and used it to determine the\nage distribution and dissolution rate of LM..."]
+      },
+      {
+        "title": "How well do starlab and nbody compare? II. Hardware and accuracy",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Peter Anders", "H. Baumgardt", "E. Gaburov", "Simon Portegies Zwart"],
+        "abstract": ["Most recent progress in understanding the dynamical evolution of star clusters relies on direct N-body simulations. Owing to the computational demands, and the desire to model more complex and more massive star clusters, hardware calculational accelerators, such as Gravity Pipe (GRAPE) special-purpose hardware or, more recently, graphics prucessing..."]
+      },
+      {
+        "title": "Ages of Globular Cluster Systems and the Relation to Galaxy Morphology",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jul 2011",
+        "authors": ["A. L. Chies-Santos", "Soeren S Larsen", "H. Kuntschner", "J. F. C. Santos"],
+        "abstract": ["Some photometric studies of extragalactic globular cluster (GC) systems using the optical and near-infrared colour combination\nhave suggested the presence of a large fraction of intermediate-age (2–8 Gyrs) GCs. We investigate the age distributions of\nGC systems in 14 E/S0 galaxies. We carry out a differential comparison of the (g − z) vs. (g − K) t..."]
+      },
+      {
+        "title": "Rotating Massive Main-Sequence Stars II: Simulating a Population of LMC\nearly B-type Stars as a Test of Rotational Mixing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2011",
+        "authors": ["Ines Brott", "Chris J. Evans", "Ian Hunter", "Peter Anders"],
+        "abstract": ["Rotational mixing in massive stars is a widely applied concept, with far\nreaching consequences for stellar evolution. Nitrogen surface abundances for a\nlarge and homogeneous sample of massive B-type stars in the LMC were obtained\nby the VLT-FLAMES Survey of Massive Stars. This sample is the first covering a\nbroad range of projected stellar rotation..."]
+      },
+      {
+        "title": "An optical/NIR survey of globular clusters in early-type galaxies II. Ages of GC systems and the relation to galaxy morphology",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2010",
+        "authors": ["A. L. Chies-Santos", "Soeren S Larsen", "H. Kuntschner", "Fernando C Santos Jr."],
+        "abstract": ["Context: Some photometric studies of extragalactic globular cluster (GC) systems using the optical and near-infrared colour combination have suggested the presence of a large fraction of intermediate-age (2-8 Gyrs) GCs. Aims: We investigate the age distributions of GC systems in 14 E/S0 galaxies. Methods: We carry out a differential comparison of t..."]
+      },
+      {
+        "title": "GALEV evolutionary synthesis on the web - Current state and future plans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2010",
+        "authors": ["Ralf Kotulla", "Peter Anders", "Peter Weilbacher", "Uta Fritze"],
+        "abstract": ["GALEV evolutionary synthesis models describe the evolution of stellar populations in general, of star clusters as well as of galaxies, both in terms of resolved stellar populations and of integrated light properties over cosmological timescales of >13 Gyr from the onset of star formation shortly after the Big Bang until today. A new web-interface n..."]
+      },
+      {
+        "title": "Population synthesis from clustered star formation",
+        "tags": ["Article"],
+        "date": "Aug 2010",
+        "authors": ["M. R. Haas", "Peter Anders"],
+        "abstract": ["In recent years, a series of papers (Kroupa & Weidner 2003, Weidner & Kroupa 2004, Weidner & Kroupa 2005 and Weidner & Kroupa 2006, WK06 from now on) have proposed that the stellar content of an entire galaxy may not be well described by the same initial mass function (IMF) that describes the distribution of stellar masses in the star clusters, whe..."]
+      },
+      {
+        "title": "Variations in Integrated Galactic Initial Mass Functions due to Sampling\nMethod and Cluster Mass Function",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["M. R. Haas", "Peter Anders"],
+        "abstract": ["[abridged] Stars are thought to be formed predominantly in clusters. The\nclusters are formed following a cluster initial mass function (CMF) similar to\nthe stellar initial mass function (IMF). Both the IMF and the CMF favour\nlow-mass objects. The numerous low-mass clusters will lack high mass stars. If\nthe integrated galactic initial mass function..."]
+      },
+      {
+        "title": "GALEV evolutionary synthesis models: why are they special?",
+        "tags": ["Article"],
+        "date": "Jan 2010",
+        "authors": ["Peter Anders", "Ralf Kotulla", "Robert Izzard", "I. Brott"],
+        "abstract": ["One of the major challenges in modern astrophysics is the study of how galaxies have formed and evolved over the past Hubble time. Observationally, ever larger surveys are or will be carried out to widen our horizon by studying increasingly faint and more distant objects in greater number and tremendous detail. Complementary, studies of nearby star..."]
+      },
+      {
+        "title": "Detecting metal-rich intermediate-age Globular Clusters in NGC 4570 using K-band photometry",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2009",
+        "authors": ["Ralf Kotulla", "Uta Fritze", "Peter Anders"],
+        "abstract": ["Globular cluster systems (GCSs) of most early-type galaxies feature two peaks in their optical colour distributions. Blue-peak\nglobular clusters (GCs) are believed to be old and metal-poor, whereas the ages, metallicities, and the origin of the red-peak\nGCs are still being debated. We obtained deep K-band photometry and combined it with Hubble Spac..."]
+      },
+      {
+        "title": "Galactic consequences of clustered star formation",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["M. R. Haas", "Peter Anders"],
+        "abstract": ["If all stars form in clusters and both the stars and the clusters follow a\npower law distribution which favours the creation of low mass objects, then the\nnumerous low mass clusters will be deficient in high mass stars. Therefore, the\nmass function of stars, integrated over the whole galaxy (the Integrated\nGalactic Initial Mass Function, IGIMF) wil..."]
+      },
+      {
+        "title": "The photometric evolution of dissolving star clusters: II. Realistic\nmodels. Colours and M/L ratios",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2009",
+        "authors": ["Peter Anders", "H. J. G. L. M Lamers", "H. Baumgardt"],
+        "abstract": ["Evolutionary synthesis models are the prime method to construct models of\nstellar populations, and to derive physical parameters from observations. One\nof the assumptions for such models so far has been the time-independence of the\nstellar mass function. However, dynamical simulations of star clusters in tidal\nfields have shown the mass function to..."]
+      },
+      {
+        "title": "How well do starlab and nbody4 compare? I. Simple models",
+        "tags": ["Article"],
+        "date": "Jun 2009",
+        "authors": ["Peter Anders", "H. Baumgardt", "N. Bissantz", "Simon Portegies Zwart"],
+        "abstract": ["N-body simulations are widely used to simulate the dynamical evolution of a variety of systems, among them star clusters. Much of our understanding of their evolution rests on the results of such direct N-body simulations. They provide insight in the structural evolution of star clusters, as well as into the occurrence of stellar exotica. Although..."]
+      },
+      {
+        "title": "GALEV evolutionary synthesis models - I. Code, input physics and web-interface",
+        "tags": ["Article"],
+        "date": "Mar 2009",
+        "authors": ["Ralf Kotulla", "Uta Fritze", "Peter Weilbacher", "Peter Anders"],
+        "abstract": ["galev (GALaxy EVolution) evolutionary synthesis models describe the evolution of stellar populations in general, of star clusters as well as of galaxies, both in terms of resolved stellar populations and of integrated light properties over cosmological time-scales of ≥13 Gyr from the onset of star formation shortly after the big bang until today.\nF..."]
+      },
+      {
+        "title": "The photometric evolution of dissolving star clusters",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Peter Anders", "H. J. G. L. M. Lamers", "H. Baumgardt"],
+        "abstract": ["Context. Evolutionary synthesis models are the primary means of constructing spectrophotometric models of stellar populations, and deriving physical parameters from observations compared with these models. One of the basic assumptions of evolutionary synthesis models has been the time-independence of the stellar mass function, apart from the succes..."]
+      },
+      {
+        "title": "The spatial distribution of star and cluster formation in M51",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2008",
+        "authors": ["Remco Scheepmaker", "H. J. G. L. M. Lamers", "Peter Anders", "Soeren S Larsen"],
+        "abstract": ["Aims. We study the connection between spatially resolved star formation and young star clusters across the disc of M51. Methods. We combine star cluster data based on B, V, and I-band Hubble Space Telescope ACS imaging, together with new WFPC2 U-band photometry to derive ages, masses, and extinctions of 1580 resolved star clusters using SSP models...."]
+      },
+      {
+        "title": "Dynamical mass of a star cluster in M 83: A test of fibre-fed multi-object spectroscopy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2008",
+        "authors": ["SL Moll", "Richard de Grijs", "Peter Anders", "SF Portegies Zwart"],
+        "abstract": ["(Abridged) Aims: We obtained VLT/FLAMES+UVES high-resolution, fibre-fed spectroscopy (FFS) of five young massive clusters in M83 (NGC 5236). This forms the basis of a pilot study testing the feasibility of using FFS to measure the velocity dispersions of several clusters simultaneously, in order to determine their dynamical masses; Methods: We adop..."]
+      },
+      {
+        "title": "Young Globular Clusters in an old S0: Clues to the Formation History of NGC 4570",
+        "tags": ["Article"],
+        "date": "Jul 2008",
+        "authors": ["Ralf Kotulla", "Uta Fritze", "Peter Anders"],
+        "abstract": ["We here present our first attempt to use globular clusters as tracers of their parent galaxy's formation history. Globular cluster systems of most early-type galaxies feature two peaks in their optical colour distributions. Blue-peak globular clusters are generally believed to be old and metal-poor. The ages, metallicities, and the origin of the re..."]
+      },
+      {
+        "title": "The young star cluster system of the Antennae galaxies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Peter Anders", "Uta Fritze", "Richard de Grijs"],
+        "abstract": ["The study of young star cluster (YSC) systems, preferentially in starburst\nand merging galaxies, has seen great interest in the recent past, as it\nprovides important input to models of star formation. However, even some basic\nproperties (like the luminosity function [LF]) of YSC systems are still under\ndebate. Here we study the photometric properti..."]
+      },
+      {
+        "title": "A peculiar object in M 51: Fuzzy star cluster or a background galaxy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Remco Scheepmaker", "H. J. G. L. M. Lamers", "Soeren S Larsen", "Peter Anders"],
+        "abstract": ["Aims. We study a peculiar object with a projected position close to the nucleus of M51. It is unusually large for a star cluster in M51 and we therefore investigate the three most likely options to explain this object: (a) a background galaxy, (b) a cluster in the disk of M51 and (c) a cluster in M51, but in front of the disk. Methods. We use broad..."]
+      },
+      {
+        "title": "Star Clusters in the Nearby Late-Type Galaxy NGC 1311",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2007",
+        "authors": ["Paul Burdette Eskridge", "Richard de Grijs", "Peter Anders", "Rolf Jansen"],
+        "abstract": ["Ultraviolet, optical and near infrared images of the nearby (D ~ 5.5 Mpc) SBm galaxy NGC 1311, obtained with the Hubble Space Telescope, reveal a small population of 13 candidate star clusters. We identify candidate star clusters based on a combination of their luminosity, extent and spectral energy distribution. The masses of the cluster candidate..."]
+      },
+      {
+        "title": "How Efficient is Rotational Mixing in Massive Stars ?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2007",
+        "authors": ["I. Brott", "I. Hunter", "Peter Anders", "N. Langer"],
+        "abstract": ["The VLT-Flames Survey for Massive Stars (Evans05,Evans06) provides recise measurements of rotational velocities and nitrogen surface abundances of massive stars in the Magellanic Clouds. Specifically, for the first time, such abundances have been estimated for stars with significant rotational velocities. This extraordinary data set gives us the un..."]
+      },
+      {
+        "title": "The Young Star Cluster System in the Antennae: Evidence for a Turnover in the luminosity function",
+        "tags": ["Article"],
+        "date": "May 2007",
+        "authors": ["Peter Anders", "N. Bissantz", "L. Boysen", "U. Fritze-v.Alvensleben"],
+        "abstract": ["The luminosity functions (LFs) of star cluster (SC) systems (i.e. the number of clusters per luminosity interval) are vital diagnostics to probe the conditions of SC formation. Early studies have revealed a clear dichotomy between old globular clusters and young clusters, with the former characterized by Gaussian-shaped LFs, and the latter followin..."]
+      },
+      {
+        "title": "Star Cluster Analyses from Multi-Band Photometry: the Key Advantage of SALT's U-band Sensitivity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2006",
+        "authors": ["Uta Fritze – v. Alvensleben", "Polychronis Papaderos", "Peter Anders", "Jay Gallagher"],
+        "abstract": ["Conventionally, CMD analyses of nearby star clusters are based on observations in 2 passbands. They are plagued by considerable degeneracies between age, metallicity, distance (and extinction) that can largely be resolved by including additional passbands with U being most appropriate for young SCs and I or a NIR band for old globular clusters. For..."]
+      },
+      {
+        "title": "Accurate photometry of extended spherically symmetric sources",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2006",
+        "authors": ["Peter Anders", "M. Gieles", "Richard de Grijs"],
+        "abstract": ["We present a new method to derive reliable photometry of extended spherically\nsymmetric sources from {\\it HST} images (WFPC2, ACS/WFC and NICMOS/NIC2\ncameras), extending existing studies of point sources and marginally resolved\nsources. We develop a new approach to accurately determine intrinsic sizes of\nextended spherically symmetric sources, such..."]
+      },
+      {
+        "title": "Formation and evolution of star clusters in interacting galaxies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2006",
+        "authors": ["Peter Anders"],
+        "abstract": ["My present PhD thesis \"Formation and evolution of star clusters in interacting galaxies\" and the associated work was performed in the Galaxy Evolution Group at the Institut für Astrophysik (Georg-August-Universität Göttingen, Germany) under supervision of apl. Prof. Dr. U. Fritze - v. Alvensleben. My co-supervisor - especially for the observational..."]
+      },
+      {
+        "title": "The photometric evolution of dissolving star clusters I: First\npredictions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Henny J. G. L. M. Lamers", "Peter Anders", "Richard de Grijs"],
+        "abstract": ["We calculated the broad-band photometric evolution of unresolved star\nclusters, including the preferential loss of low-mass stars due to mass\nsegregation. The stellar mass function of a cluster evolves due to three\neffects: (a) the evolution of massive stars; (b) early tidal effects reduce the\nmass function independently of the stellar mass; (c) af..."]
+      },
+      {
+        "title": "How well do we know the age and mass distributions of the star cluster system in the Large Magellanic Cloud?",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Richard de Grijs", "Peter Anders"],
+        "abstract": ["The Large Magellanic Cloud (LMC) star cluster system offers the unique opportunity to independently check the accuracy of age (and the corresponding mass) determinations based on a number of complementary techniques. Using our sophisticated tool for star cluster analysis based on broad-band spectral energy distributions (SEDs), ‘AnalySED’, we re-an..."]
+      },
+      {
+        "title": "Nearby star cluster formation: Probes of cosmological galaxy evolution",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2005",
+        "authors": ["Peter Anders", "Richard de Grijs", "U. Fritze--v. Alvensleben"],
+        "abstract": ["(abridged) The old Star Cluster (SC) systems surrounding any sofar investigated galaxy represent a powerful tool for the understanding of the cosmological evolution of their host galaxies. Phases of enhanced cluster formation can be identified by reliably age dating the clusters. These are symptoms of violent star formation, results of intense star..."]
+      },
+      {
+        "title": "Systematic uncertainties in the analysis of star cluster parameters based on broad-band imaging observations",
+        "tags": ["Article"],
+        "date": "Feb 2005",
+        "authors": ["Richard de Grijs", "Peter Anders", "H. J. G. L. M. Lamers", "S. Yi"],
+        "abstract": ["(ABRIDGED) We assess the systematic uncertainties in (young) cluster age, mass, and - to a lesser extent - extinction and metallicity determinations, based on broad-band imaging observations with the Hubble Space Telescope. Our aim here is to intercompare the results obtained using a variety of commonly used modelling techniques, specifically with..."]
+      },
+      {
+        "title": "The initial mass function of star cluster systems",
+        "tags": ["Article"],
+        "date": "Jan 2005",
+        "authors": ["Uta Fritze-v. Alvensleben", "Richard de Grijs", "Peter Anders"],
+        "abstract": ["GC formation seems to be a widespread mode of star formation in extreme starbursts triggered by strong inactions and mergers of massive gas-rich galaxies. We use our detailed chemically consistent evolutionary synthesis models for spiral galaxies to predict stellar abundances and abundance ratios of those second generation GCs as a function of thei..."]
+      },
+      {
+        "title": "Measuring sizes and compactnesses of young star clusters",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2005",
+        "authors": ["Peter Anders", "M. Gieles", "Richard de Grijs", "U. Fritze-v. Alvensleben"],
+        "abstract": ["We present our recent efforts to improve the size determinations and photometry of star clusters. This also involves size-dependent aperture corrections, which turn out to depend considerably on the structural properties of the young star clusters. On the basis of these reliably measured sizes, we define a useful observable measure of the compactne..."]
+      },
+      {
+        "title": "CIRPASS near‐infrared integral‐field spectroscopy of massive star clusters in the starburst galaxy NGC 1140",
+        "tags": ["Article"],
+        "date": "Jul 2004",
+        "authors": ["Richard de Grijs", "L. J. Smith", "A. Bunker", "Ian Parry"],
+        "abstract": ["We analyse near-infrared integral field spectroscopy of the central starburst region of NGC 1140, obtained at the Gemini-South telescope equipped with CIRPASS. Our ∼1.45–1.67 μm wavelength coverage includes the bright [Fe ii]λ 1.64-μm emission line, as well as high-order Brackett (hydrogen) lines. While strong [Fe ii] emission, thought to originate..."]
+      },
+      {
+        "title": "From Young to Old: Spectral Models for Star Cluster Systems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2003",
+        "authors": ["Uta Fritze – v. Alvensleben", "Peter Anders", "Richard de Grijs"],
+        "abstract": ["Evolutionary synthesis models for star clusters of various metallicities including gaseous emission during the lifetime of the ionising stars are used to model star cluster systems comprising two populations: an old metal-poor globular clusters (GC) population similar to that of the Milky Way halo and a second GC population of arbitrary metallicity..."]
+      },
+      {
+        "title": "Multi-Color Observations of Young Star Clusters",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2003",
+        "authors": ["Peter Anders", "Uta Fritze – v. Alvensleben", "Richard de Grijs"],
+        "abstract": ["We present a new set of evolutionary synthesis models of our GALEV code, specifically developed to include the gaseous emission of presently forming star clusters, in combination with an advanced tool to compare large model grids with multi-color broad-band observations of YSC systems. Tests and first applications are presented."]
+      },
+      {
+        "title": "Young Star Clusters: Progenitors of Globular Clusters!?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2003",
+        "authors": ["Peter Anders", "Uta Fritze – v. Alvensleben", "Richard de Grijs"],
+        "abstract": ["Star cluster formation is a major mode of star formation in the extreme conditions of interacting galaxies and violent starbursts. Young clusters are observed to form in a variety of such galaxies, a substantial number resembling the progenitors of globular clusters in mass and size, but with significantly enhanced metallicity. From studies of the..."]
+      },
+      {
+        "title": "Young Star Clusters: Metallicity Tracers in External Galaxies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2003",
+        "authors": ["Peter Anders", "Uta Fritze – v. Alvensleben", "Richard de Grijs"],
+        "abstract": ["Star cluster formation is a major mode of star formation in the extreme conditions of interacting galaxies and violent starbursts. These newly-formed clusters are built from recycled gas, pre-enriched to various levels within the interacting galaxies. Hence, star clusters of different ages represent a fossil record of the chemical enrichment histor..."]
+      },
+      {
+        "title": "Young Star Clusters: Clues to Galaxy Formation and Evolution",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2003",
+        "authors": ["Peter Anders", "Uta Fritze-V. Alvensleben", "Richard de Grijs"],
+        "abstract": ["Young clusters are observed to form in a variety of interacting galaxies and violent starbursts, a substantial number resembling the progenitors of the well-studied globular clusters in mass and size. By studying young clusters in merger remnants and peculiar galaxies, we can therefore learn about the violent star formation history of these galaxie..."]
+      },
+      {
+        "title": "Analysing observed star cluster SEDs with evolutionary synthesis models: Systematic uncertainties",
+        "tags": ["Article"],
+        "date": "Sep 2003",
+        "authors": ["Peter Anders", "N. Bissantz", "U. Fritze-v. Alvensleben", "Richard de Grijs"],
+        "abstract": ["We discuss the systematic uncertainties inherent to analyses of observed (broad-band) spectral energy distributions (SEDs)\nof star clusters with evolutionary synthesis models. We investigate the effects caused by restricting oneself to a limited\nnumber of available passbands, choices of various passband combinations, finite observational errors, no..."]
+      },
+      {
+        "title": "Star Cluster Formation and Evolution in the Dwarf Starburst Galaxy NGC 1569",
+        "tags": ["Article"],
+        "date": "Sep 2003",
+        "authors": ["Peter Anders", "Richard de Grijs", "U. Fritze-v. Alvensleben", "N. Bissantz"],
+        "abstract": ["We analyse multi-wavelength Hubble Space Telescope (HST) observations of a large number of star clusters in the nearby (post-) starburst dwarf galaxy NGC 1569. Their spectral energy distributions (SEDs) cover at least the wavelength range from U to I in equivalent HST filters, in most cases supplemented by near-infrared data. Using our most up-to-d..."]
+      },
+      {
+        "title": "Star Cluster Formation and Evolution in Nearby Starburst Galaxies: II.\nInitial Conditions",
+        "tags": ["Article"],
+        "date": "Jun 2003",
+        "authors": ["Richard de Grijs", "Peter Anders", "N. Bastian", "O'Neil, Jr., E. J"],
+        "abstract": ["We use the ages, masses and metallicities of the rich young star cluster systems in the nearby starburst galaxies NGC 3310\nand 6745 to derive their cluster formation histories and subsequent evolution. We further expand our analysis of the systematic\nuncertainties involved in the use of broad-band observations to derive these parameters (Paper I) b..."]
+      },
+      {
+        "title": "Evolutionary Synthesis Modelling of Young Star Clusters in Merging Galaxies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2003",
+        "authors": ["Peter Anders", "Uta Fritze-Von Alvensleben", "Richard de Grijs"],
+        "abstract": ["The observational properties of globular cluster systems (GCSs) are vital tools to investigate the violent star formation\nhistories of their host galaxies. This violence is thought to have been triggered by galaxy interactions or mergers. The most\nbasic properties of a GCS are its luminosity function (number of clusters per luminosity bin) and colo..."]
+      },
+      {
+        "title": "Star Cluster Formation and Evolution in Nearby Starburst Galaxies: I. Systematic Uncertainties",
+        "tags": ["Article"],
+        "date": "Feb 2003",
+        "authors": ["Richard de Grijs", "U. Fritze-v. Alvensleben", "Peter Anders", "RA Windhorst"],
+        "abstract": ["The large majority of extragalactic star cluster studies performed to date have essentially used two- or three-passband aperture photometry, combined with theoretical stellar population synthesis models, to obtain age, mass and extinction estimates, and sometimes also metallicities. The accuracy to which this can be performed depends on the choice..."]
+      },
+      {
+        "title": "Spectral and Photometric Evolution of Young Stellar Populations: the Impact of Gaseous Emission at Various Metallicities",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2003",
+        "authors": ["Peter Anders", "Uta Fritze-v. Alvensleben"],
+        "abstract": ["We include gaseous continuum and line emission into our GALEV models for the spectral and photometric evolution of Simple Stellar Populations (SSPs) for various metallicities in the range 0.02 <= Z/Zsun <= 2.5. This allows to extend them to significantly younger ages than before. They now cover the age range from 4 Myr all through 14 Gyr. We point..."]
+      },
+      {
+        "title": "Young Star Clusters: Metallicity Tracer in External Galaxies",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Peter Anders", "Richard de Grijs", "Uta Fritze-v. Alvensleben"],
+        "abstract": ["Star cluster formation is a major mode of star formation in the extreme\nconditions of interacting galaxies and violent starbursts. Young\nclusters are observed to form in a variety of such galaxies. These\nclusters are built out of recycled gas pre-enriched to various levels\nwithin the interacting galaxies. This enhanced metallicity makes them\noutsta..."]
+      },
+      {
+        "title": "Young Star Clusters: Lighthouses in the Dark",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2003",
+        "authors": ["Peter Anders", "Richard de Grijs", "Uta Fritze-v. Alvensleben"],
+        "abstract": ["Star cluster formation is a major mode of star formation in the extreme conditions of interacting galaxies and violent starbursts. Young clusters are observed to form in a variety of such galaxies a substantial number resembling the well-studied globular clusters in mass and size. Due to the high angular resolution instruments available at present..."]
+      },
+      {
+        "title": "Mass Functions of Young Star Cluster Systems",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Uta Fritze-v. Alvensleben", "Peter Anders", "Richard de Grijs"],
+        "abstract": ["At high angular resolution starbursts and post-starburst regions in\nmerging galaxies and merger remnants break up into large numbers of\nbright compact star clusters to the extent that cluster formation seems\nto be the dominant mode of violent star formation. Star and cluster\nformation efficiencies are high even on large/global scales. Theoretical\ne..."]
+      },
+      {
+        "title": "Stellar Populations and Star Cluster Formation in Interacting Galaxies with the Advanced Camera for Surveys",
+        "tags": ["Article"],
+        "date": "Nov 2002",
+        "authors": ["Richard de Grijs", "Jessica T. Lee", "Maria Clemencia Mora Herrera", "Peter Anders"],
+        "abstract": ["Pixel-by-pixel colour-magnitude and colour-colour diagrams - based on a subset of the Hubble Space Telescope Advanced Camera for Surveys Early Release Observations - provide a powerful technique to explore and deduce the star and star cluster formation histories of the Mice and the Tadpole interacting galaxies. In each interacting system we find so..."]
+      },
+      {
+        "title": "New Evolutionary Synthesis Tool for Modelling Young Star Clusters in Merging Galaxies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2002",
+        "authors": ["Peter Anders", "Richard de Grijs", "Uta Fritze - v. Alvensleben"],
+        "abstract": ["Globular cluster systems (GCSs) are vital tools for investigating the violent star formation histories of their host galaxies. This violence could e.g. have been triggered by galaxy interactions or mergers. The basic observational properties of a GCS are its luminosity function and color distributions (number of clusters per luminosity resp. color..."]
+      },
+      {
+        "title": "Analysing Multi-Color Observations of Young Star Clusters in Mergers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2002",
+        "authors": ["Peter Anders", "Uta Fritze-v. Alvensleben", "Richard de Grijs"],
+        "abstract": ["We present a new evolutionary synthesis (ES) tool specifically developed for the analysis of multi-color data of young star clusters (YSCs) in interacting galaxies. Our ESO/ST-ECF ASTROVIRTEL project provides an unprecedented database of UV--optical--NIR observations from the HST/WFPC2, HST/NICMOS and VLT data archives. Comparison of these data wit..."]
+      },
+      {
+        "title": "MultiColor Observations of Young Star Clusters",
+        "tags": ["Article"],
+        "authors": ["Peter Anders", "Uta Fritze-v. Alvensleben", "Richard de Grijs"],
+        "abstract": ["Star cluster formation is a major mode of star formation in the extreme conditions of interacting galaxies and violent starbursts. By studying ages and metallicities of young metal-enhanced star clusters in mergers / merger remnants we can learn about the violent star formation history of these galaxies and eventually about galaxy formation and evo..."]
+      },
+      {
+        "title": "The impact of selective mass loss on the age determination of star clusters",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Peter Anders", "H. J. G. L. M. Lamers", "Richard de Grijs"],
+        "abstract": ["Dynamical models and observations of star cluster evolution show clear signs of mass segregation (in the sense that high-mass stars tend to be found towards the cluster center, and low-mass stars preferentially occupy the cluster outskirts). The low-mass stars in the cluster outskirts get stripped off more easily by interaction with the gravitation..."]
+      },
+      {
+        "title": "Spectral and Photometric evolution of young stellar poplations: The impact of gaseous emission at various metallicites",
+        "tags": ["Article"],
+        "authors": ["Peter Anders", "U. Fritze"],
+        "abstract": []
+      },
+      {
+        "title": "The photometric evolution of dissolving star clusters",
+        "tags": ["Article"],
+        "authors": ["H. J. G. L. M. Lamers", "Peter Anders", "Richard de Grijs"],
+        "abstract": ["The broad-band photometric evolution of unresolved star clusters is calculated in a simplified way, including the preferential loss of low-mass stars due to mass segregation. The stellar mass function of a cluster evolves due to three effects: (a) the evolution of the massive stars reduces their number; (b) tidal effects before cluster-wide mass se..."]
+      },
+      {
+        "title": "SSP models for star clusters in tidal fields",
+        "tags": ["Article"],
+        "authors": ["Peter Anders", "H. J. G. L. M. Lamers", "H. Baumgardt"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "publications": [66],
+    "reads": [3487],
+    "citations": [1936]
   }
 }

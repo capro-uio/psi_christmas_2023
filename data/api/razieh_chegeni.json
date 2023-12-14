@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Razieh Chegeni",
-    "id": "qWbCKQgAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Razieh Chegeni"],
+    "id": ["qWbCKQgAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -469,8 +469,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-2337-5983",
-    "name": "Razieh Chegeni",
+    "orcid": ["0000-0003-2337-5983"],
+    "name": ["Razieh Chegeni"],
     "distinctions": [],
     "education": [
       {
@@ -512,8 +512,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Razieh Chegeni",
-    "id": "950139",
+    "name": ["Razieh Chegeni"],
+    "id": ["950139"],
     "keywords": [],
     "position": ["Research fellow", "Post-doctoral research fellow"],
     "img": {},
@@ -630,5 +630,229 @@
         "url": "https://api.cristin.no/v2/results/1711809"
       }
     ]
+  },
+  "rg": {
+    "id": "Razieh-Chegeni",
+    "name": "Razieh Chegeni",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1067561823252481-1631537981118_Q128/Razieh-Chegeni.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Personality Assessment", "Addiction", "Evolutionary Psychology", "Social Psychology", "Statistics", "Happiness"],
+    "works": [
+      {
+        "title": "Systematic reviews and meta-analyses on androgen administration in humans: an umbrella review",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Razieh Chegeni", "Ståle Pallesen", "Hailemariam Weldemariam", "Dominic Sagoe"],
+        "abstract": ["Purpose of review: \nThe present umbrella review systematically searches and synthesizes recent (2021-2023) systematic reviews and meta-analyses (SRMA) on androgen administration in humans.\n\nRecent findings: \nResults from 19 SRMA are synthesized. Four themes were identified: market for androgens, prevalence of androgen abuse, psychological effects o..."]
+      },
+      {
+        "title": "Prevalence and correlates of androgen dependence: a meta-analysis, meta-regression analysis and qualitative synthesis",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Jenny Eriksrød Skauen", "Ståle Pallesen", "Astrid Bjørnebekk", "Dominic Sagoe"],
+        "abstract": ["Purpose of review: To investigate the prevalence and correlates of androgen dependence among users. A meta-analysis, meta-regression analysis, and qualitative synthesis were conducted based on a systematic literature search in Google Scholar, ISO Web of Science, PsycNET, and PubMed. Recent findings: \nTwenty-six studies were included in the review a..."]
+      },
+      {
+        "title": "Climate anxiety, wellbeing and pro-environmental action: Correlates of negative emotional responses to climate change in 32 countries",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Charles Ogunbode", "Rouven Doran", "Daniel Hanss", "Mehmet Karasu"],
+        "abstract": ["This study explored the correlates of climate anxiety in a diverse range of national contexts. We analysed cross-sectional data gathered in 32 countries (N = 12,246). Our results show that climate anxiety is positively related to rate of exposure to information about climate change impacts, the amount of attention people pay to climate change infor..."]
+      },
+      {
+        "title": "Comparison of the inter-item correlations of the Big Five Inventory-10 (BFI-10) between Western and non-Western contexts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Joonha Park", "Karlijn van den Broek", "Navjot Bhullar", "Charles Ogunbode"],
+        "abstract": ["The Big Five Inventory-10 (BFI-10; Rammstedt & John, 2007) is one of many short versions of personality inventories that measure the Big Five trait dimensions. Short versions of scales often present methodological challenges as a trade-off for their convenience. Based on samples from 28 countries (N = 10,560), the current study investigated inter-i..."]
+      },
+      {
+        "title": "Climate anxiety, pro-environmental action and wellbeing: antecedents and outcomes of negative emotional responses to climate change in 28 countries",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Charles Ogunbode", "Rouven Doran", "Daniel Hanss", "Michael Lomas"],
+        "abstract": ["This study explored the antecedents and outcomes of negative emotional responses to climate change among people from a diverse range of cultural and national contexts. We analysed cross-sectional data gathered in 28 countries (N = 10,963). Our results show that negative emotional responses to climate change are positively related to the amount of a..."]
+      },
+      {
+        "title": "Aggression and criminality in androgen abusers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Razieh Chegeni", "Ståle Pallesen", "Dominic Sagoe"],
+        "abstract": ["Purpose of review: \nTo systematically review and meta-synthesize current (2019-2021) literature on aggression and criminality in androgen abusers. Results from 13 empirical human studies are discussed.\n\nRecent findings: \nSome androgen abusers engage in aggressive and criminal behavior. Here, results show positive effects and associations between th..."]
+      },
+      {
+        "title": "The Relationship Between Gambling Problems and the Five-Factor Model of Personality: A Systematic Review and Meta-Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Rune Strømme", "Karine Holthe Børstad", "Andrea Eftang Rø", "Ståle Pallesen"],
+        "abstract": ["Objectives: The aim of the present meta-analysis was to synthesize results from the association between problem gambling (PG) and dimensions of the five factor model of personality and to identify potential moderators (gambling diagnosis: yes/no, comorbidity: yes/no and trait assessment: four or fewer items vs. five items or more) of these associat..."]
+      },
+      {
+        "title": "Anabolic-androgenic steroid administration increases self-reported aggression in healthy males: a systematic review and meta-analysis of experimental studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Razieh Chegeni", "Ståle Pallesen", "Jim Mcveigh", "Dominic Sagoe"],
+        "abstract": ["Rationale\nAggression and irritability are notable psychiatric side effects of anabolic-androgenic steroid (AAS) use. However, no previous study has systematically reviewed and quantitatively synthesized effects reported by experimental studies on this topic.\n\nObjective\nWe conducted a systematic review and meta-analysis of randomized controlled tria..."]
+      },
+      {
+        "title": "Data_Sheet_1_Functionality of the Crosswise Model for Assessing Sensitive or Transgressive Behavior_ A Systematic Review and Meta-Analysis.PDF",
+        "tags": ["Data"],
+        "date": "Jun 2021",
+        "authors": ["Dominic Sagoe", "M.J.L.F Cruyff", "Owen Spendiff", "Andrea Petróczi"],
+        "abstract": []
+      },
+      {
+        "title": "Video_1_Functionality of the Crosswise Model for Assessing Sensitive or Transgressive Behavior_ A Systematic Review and Meta-Analysis.MP4",
+        "tags": ["Data"],
+        "date": "Jun 2021",
+        "authors": ["Dominic Sagoe", "M.J.L.F Cruyff", "Owen Spendiff", "Andrea Petróczi"],
+        "abstract": []
+      },
+      {
+        "title": "Aggression and Psychological Distress in Male and Female Anabolic-Androgenic Steroid Users: A Multigroup Latent Class Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Razieh Chegeni", "Guy Notelaers", "Ståle Pallesen", "Dominic Sagoe"],
+        "abstract": ["The relationship between anabolic-androgenic steroid (AAS) use and aggression and psychological distress requires further elucidation. No previous study has examined whether the latent patterns of aggression and psychological distress are the same in male and female AAS users. Multigroup latent class analysis (MLCA) can be used to classify individu..."]
+      },
+      {
+        "title": "Functionality of the Crosswise Model for Assessing Sensitive or Transgressive Behavior: A Systematic Review and Meta-Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Dominic Sagoe", "M.J.L.F Cruyff", "Owen Spendiff", "Andrea Petróczi"],
+        "abstract": ["Tools for reliable assessment of socially sensitive or transgressive behavior warrant constant development. Among them, the Crosswise Model (CM) has gained considerable attention. We systematically reviewed and meta-analyzed empirical applications of CM and addressed a gap for quality assessment of indirect estimation models. Guided by the PRISMA p..."]
+      },
+      {
+        "title": "Functionality of the Crosswise Model for assessing sensitive or transgressive behavior: A systematic review and meta-analysis",
+        "tags": ["Preprint"],
+        "date": "Mar 2021",
+        "authors": ["Dominic Sagoe", "M.J.L.F Cruyff", "Owen Spendiff", "Andrea Petróczi"],
+        "abstract": ["Tools for reliable assessment of socially sensitive or transgressive behavior warrant constant development. Among them, the Crosswise Model (CM) has gained considerable attention. Therefore, we systematically reviewed and meta-analysed empirical applications of CM and addressed a gap for quality assessment of indirect estimation models. To our know..."]
+      },
+      {
+        "title": "Negative emotions about climate change are related to insomnia symptoms and mental health: Cross-sectional evidence from 25 countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Charles Ogunbode", "Ståle Pallesen", "Gisela Böhm", "Michael Lomas"],
+        "abstract": ["Climate change threatens mental health via increasing exposure to the social and economic disruptions created by extreme weather and large-scale climatic events, as well as through the anxiety associated with recognising the existential threat posed by the climate crisis. Considering the growing levels of climate change awareness across the world,..."]
+      },
+      {
+        "title": "Heterosexual women rate perceived anabolic steroid-using men as less attractive for long-term romantic relationships",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Gunnleyg Joensen", "Elise Lorentsen", "Karen Marie Sagstad", "Dominic Sagoe"],
+        "abstract": ["Background: Physical attractiveness is a major motive for anabolic-androgenic steroid (AAS) use. Since majority of AAS users are men, we investigated heterosexual women’s ratings of the physical, sexual and romantic attractiveness of AAS-using and non-using men.\nMethods: A sample of 112 AAS-non-using heterosexual women (age range: 15–81, M = 29.61..."]
+      },
+      {
+        "title": "Humor styles across 28 countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Julie Aitken Schermer", "Radosław Rogoza", "Maria Magdalena Kwiatkowska", "Georg Krammer"],
+        "abstract": ["Responses to a measure of the four humor styles of affiliative, aggressive, self-enhancing, and self-defeating from the Humor Styles Questionnaire (HSQ; Martin et al. Journal of Research in Personality, 37(1), 48–75, 2003) were collected from individuals (N = 8361) in 28 countries encompassing 21 different languages. The purpose of this global coll..."]
+      },
+      {
+        "title": "Theory-Driven Assessment of Intrasexual Rivalry",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Farzan Karimi-Malekabadi", "Elahe Ghanbarian", "Reza Afhami", "Razieh Chegeni"],
+        "abstract": ["Assessment of intrasexual competition has largely relied on Intrasexual Competition Scale (ICS; Buunk & Fisher Journal of Evolutionary Psychology, 7:37–48, 2009). Based on recent developments in mating psychology and the notion that humans use multiple tactics to compete with same-sex individuals, we propose a new theory-driven assessment strategy..."]
+      },
+      {
+        "title": "Women's Long-Term Strategies",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Razieh Chegeni"],
+        "abstract": ["Main strategies used by women from intrasexual competition to retaining the selected mate."]
+      },
+      {
+        "title": "Aggression and anabolic–androgenic steroid use intent in adolescents: A longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Razieh Chegeni", "Dominic Sagoe", "Rune Mentzoni", "Ståle Pallesen"],
+        "abstract": ["Background: There is a dearth of longitudinal studies on risk factors for anabolic–androgenic steroid (AAS) use and intent. Objectives: We conducted a longitudinal investigation of factors associated with AAS use intent from age 18 to 19, examining particularly the role of physical and verbal aggression. A sample of Norwegians completed questionnai..."]
+      },
+      {
+        "title": "CCS Certificate Iran Razieh-Chegini",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Maria Magdalena Kwiatkowska", "Radosław Rogoza", "Razieh Chegeni"],
+        "abstract": ["Certificate received after taking part in a wide cross cultural study on narcissism, envy, shyness, and humor."]
+      },
+      {
+        "title": "On love and darkness: The Dark Triad and mate retention behaviors in a non-Western culture",
+        "tags": ["Article"],
+        "date": "Feb 2018",
+        "authors": ["Razieh Chegeni", "Roshanak Khodabakhsh Pirkalani", "Gholamreza Dehshiri"],
+        "abstract": ["Researchers have been showing growing interest in the relationship between personality and mate retentions behaviors. There is evidence that the Dark Triad of personality (i.e., Machiavellianism, narcissism, and psychopathy) may be associated with mate retention behavior in romantic relationships. Yet, most of the mentioned studies have been conduc..."]
+      },
+      {
+        "title": "Consideration of Cosmetic Surgery As Part of Women’s Benefit-Provisioning Mate Retention Strategy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Mohammad Atari", "Nicole Barbaro", "Yael Sela", "Razieh Chegeni"],
+        "abstract": ["Individuals perform mate retention behaviors to minimize the risk of partner infidelity and relationship dissolution. The current study investigates whether consideration of cosmetic surgery can be conceptualized as part of a broader strategy of mate retention for women, but not men. We hypothesized that women's consideration of cosmetic surgery wo..."]
+      },
+      {
+        "title": "Associations between perfectionism cognitions, religiosity and desired number of children in Iranian women",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["Mohammad Atari", "Razieh Chegeni"],
+        "abstract": ["Objective: This study aimed to investigate the associations between perfectionism cognitions, religiosity and the desired number of children in young women.\nBackground: The desired number of children has been found to correlate with personality and individual difference.\nMethods: A sample of 281 women was selected from university settings in Tehran..."]
+      },
+      {
+        "title": "Women who are Interested in Cosmetic Surgery Want it all: the Association between Considering Cosmetic Surgery and women’s Mate Preferences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Mohammad Atari", "Razieh Chegeni", "Ladan Fathi"],
+        "abstract": ["A body of research has investigated different psychological aspects of interest in cosmetic surgery in women. In the current study, we examined the association between interest in undergoing cosmetic surgery and mate preferences in young women. Considering previous work, we hypothesized that interest in cosmetic surgery—as a costly self-promoting b..."]
+      },
+      {
+        "title": "Psychometric Evaluation and Cultural Correlates of the Mate Retention Inventory–Short Form (MRI-SF) in Iran",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Mohammad Atari", "Nicole Barbaro", "Todd K Shackelford", "Razieh Chegeni"],
+        "abstract": ["The current study investigated the psychometric properties of the Persian translation of the Mate Retention Inventory–Short Form (MRI-SF) in Iran. We also investigated sex differences in the use of mate retention tactics and investigated the relationships between mate retention behaviors and a number of related cultural constructs. Participants (N..."]
+      },
+      {
+        "title": "The Big Five Personality Dimensions and Mate Retention Behaviors in Iran",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Mohammad Atari", "Nicole Barbaro", "Yael Sela", "Razieh Chegeni"],
+        "abstract": ["Personality dimensions are associated with various romantic relationship outcomes. The current study examined associations among the Big Five personality dimensions and mate retention domains in a community sample in Iran. Participants (n = 308) completed a survey that included measures of personality and mate retention behaviors. The results revea..."]
+      },
+      {
+        "title": "The Dark Triad and long-term mate preferences in Iranian women",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Mohammad Atari", "Razieh Chegeni"],
+        "abstract": ["The Dark Triad traits—Machiavellianism, narcissism, and psychopathy—have been considered as socially aversive personality traits. Evolutionary studies on the Dark Triad and mating behavior suggest that these traits may serve as adaptive mechanisms in different mating contexts, especially short-term mating orientation. Using a sample from Iran (N =..."]
+      },
+      {
+        "title": "Assessment of dark personalities in Iran: Psychometric evaluation of the Farsi translation of the Short Dark Triad (SD3-F)",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Mohammad Atari", "Razieh Chegeni"],
+        "abstract": ["The Dark Triad traits-Machiavellianism, narcissism, and psychopathy-have attracted much research attention in the past decade. The Short Dark Triad (SD3) is one of the commonly used short measures of the Dark Triad. In the present study, we translate and adapt the SD3 into Farsi. Two studies (total N = 523) examined the factor structure , internal..."]
+      },
+      {
+        "title": "The Dark Triad of Personality and Considering Cosmetic Surgery: An Exploratory Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Razieh Chegeni", "Mohammad Atari"],
+        "abstract": ["Purpose: The current study is the first to directly investigate the relationship between the Dark Triad traits and considering cosmetic surgery. Methods: The sample consisted of 222 university students, aged between 18 and 37 (M = 24.59, SD = 4.17), from Tehran, Iran. Participants completed the Short Dark Triad (SD3) scale and “Consider” subscale o..."]
+      },
+      {
+        "title": "Validation of a Short Four-Factor Measure of Psychopathy among Iranian University Students",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Razieh Chegeni", "Mohammad Atari"],
+        "abstract": ["Background: assessment of psychopathy has gained much attention in the past few decades. The four-factor model of psychopathy has proved to be an efficient model for assessment of psychopathy in forensic and non-forensic samples. Several measures have been developed to capture the four-factor model. These four factors are labeled as interpersonal m..."]
+      }
+    ],
+    "degree": ["Ph.D"],
+    "bio": "Razieh Chegeni currently works at the Department of Psychology, University of Oslo. She works at the Promenta Happiness Lab (https://www.researchgate.net/lab/Promenta-Happiness-Lab-Espen-Roysamb ) to explore the intergenerational role of genetic and environmental factors on happiness and wellbeing.",
+    "publications": [30],
+    "reads": [19891],
+    "citations": [492]
   }
 }

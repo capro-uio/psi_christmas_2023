@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Svein Magnussen",
-    "id": "auUtHGAAAAAJ",
-    "affiliation": "Professor emeritus of Psychology, University of Oslo",
+    "name": ["Svein Magnussen"],
+    "id": ["auUtHGAAAAAJ"],
+    "affiliation": ["Professor emeritus of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-2240-5052",
-    "name": "Svein Magnussen",
+    "orcid": ["0000-0003-2240-5052"],
+    "name": ["Svein Magnussen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -948,11 +948,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Svein Jean Magnussen",
-    "id": "23808",
+    "name": ["Svein Jean Magnussen"],
+    "id": ["23808"],
     "keywords": ["Memory", "Neuropsychology", "Mental Representations", "Psychology of Law", "Psychology of Witnesses", "Perception, sight", "Everyday memory"],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/23808/picture",
+    "img": ["https://api.cristin.no/v2/persons/23808/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1595,5 +1595,15 @@
         "url": "https://api.cristin.no/v2/results/506327"
       }
     ]
+  },
+  "rg": {
+    "id": "Jeremy-Jean-Jean",
+    "name": "Jeremy Jean-Jean",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Linköping University | LiU, Linköping University, Department of Management and Engineering IEI",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

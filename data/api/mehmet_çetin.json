@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Mehmet Cetin",
-    "id": "cN-Q1XwAAAAJ",
-    "affiliation": "Ondokuz Mayis University; Faculty of  Architecture",
+    "name": ["Mehmet Cetin"],
+    "id": ["cN-Q1XwAAAAJ"],
+    "affiliation": ["Ondokuz Mayis University; Faculty of  Architecture"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0789-1649",
-    "name": "MEHMET ÇETİN",
+    "orcid": ["0000-0002-0789-1649"],
+    "name": ["MEHMET ÇETİN"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -939,11 +939,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Mehmet Çetin",
-    "id": "1539056",
+    "name": ["Mehmet Çetin"],
+    "id": ["1539056"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Mehmet-Cetin-5",
+    "name": "Mehmet Cetin",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Beykent Üniversitesi",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

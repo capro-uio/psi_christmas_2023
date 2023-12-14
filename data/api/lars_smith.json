@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Lars H. Kruse",
-    "id": "5dXhNVoAAAAJ",
-    "affiliation": "Postdoctoral fellow, Michael Smith Laboratories, University of British Columbia",
+    "name": ["Lars H. Kruse"],
+    "id": ["5dXhNVoAAAAJ"],
+    "affiliation": ["Postdoctoral fellow, Michael Smith Laboratories, University of British Columbia"],
     "data": {
       "publications": [
         {
@@ -512,8 +512,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-1334-2582",
-    "name": "Lars Smith",
+    "orcid": ["0000-0002-1334-2582"],
+    "name": ["Lars Smith"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -543,8 +543,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Lars Smith",
-    "id": "24078",
+    "name": ["Lars Smith"],
+    "id": ["24078"],
     "keywords": ["Children", "Autism", "Neuropsychology", "Development Psychology", "Infant", "Developmental psychopathology", "Joint attention", "Child neuropsychology"],
     "position": ["Emeritus", "Researcher"],
     "img": {},
@@ -1189,5 +1189,15 @@
         "url": "https://api.cristin.no/v2/results/236712"
       }
     ]
+  },
+  "rg": {
+    "id": "Niehaus-Lars",
+    "name": "Niehaus Lars",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "GoetheUniversität Frankfurt am Main",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

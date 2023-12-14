@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Dal Corso Andrea",
-    "id": "OqVo_zQAAAAJ",
-    "affiliation": "SISSA",
+    "name": ["Dal Corso Andrea"],
+    "id": ["OqVo_zQAAAAJ"],
+    "affiliation": ["SISSA"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-2668-8371",
-    "name": "Andreas Dahl",
+    "orcid": ["0000-0002-2668-8371"],
+    "name": ["Andreas Dahl"],
     "distinctions": [],
     "education": [
       {
@@ -1847,8 +1847,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Andreas Dahl",
-    "id": "1244092",
+    "name": ["Andreas Dahl"],
+    "id": ["1244092"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -1930,5 +1930,718 @@
         "url": "https://api.cristin.no/v2/results/2021584"
       }
     ]
+  },
+  "rg": {
+    "id": "Andreas-Dahl",
+    "name": "Andreas Dahl",
+    "img": "https://i1.rgstatic.net/ii/profile.image/338402672168961-1457692892906_Q128/Andreas-Dahl.jpg",
+    "affiliation": "Technische Universität Dresden | TUD, Technische Universität Dresden, DRESDENconcept Genome Center",
+    "keywords": ["Genomics", "Single Nucleotide Polymorphism", "Sequencing", "Transcriptomics", "Next Generation Sequencing", "PCR"],
+    "works": [
+      {
+        "title": "Single cell RNA sequencing unravels the transcriptional network underlying zebrafish retina regeneration",
+        "tags": ["Preprint"],
+        "date": "Nov 2023",
+        "authors": ["Laura Celotto", "Fabian Rost", "Anja Machate", "Michael Brand"],
+        "abstract": ["In the lesioned zebrafish retina, Müller glia produce multipotent retinal progenitors that generate all retinal neurons, replacing lost cell types. To study the molecular mechanisms linking Müller glia reactivity to progenitor production and neuronal differentiation, we used single cell RNA sequencing of Müller glia, progenitors and regenerated pro..."]
+      },
+      {
+        "title": "Mutated IKZF1 is an independent marker of adverse risk in acute myeloid leukemia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Jan-Niklas Eckardt", "Sebastian Stasik", "Christoph Röllig", "Christian Thiede"],
+        "abstract": ["Genetic lesions of IKZF1 are frequent events and well-established markers of adverse risk in acute lymphoblastic leukemia. However, their function in the pathophysiology and impact on patient outcome in acute myeloid leukemia (AML) remains elusive. In a multicenter cohort of 1606 newly diagnosed and intensively treated adult AML patients, we found..."]
+      },
+      {
+        "title": "SAT272 Insulin Signaling In Hyperactivation Of The HPA Axis In Metabolic Diseases",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Diana Cozma", "Panagiota Siatra", "Ioannis Oikonomakos", "Charlotte Steenblock"],
+        "abstract": ["Disclosure: D. Cozma: None. P. Siatra: None. I. Oikonomakos: None. D. Kalra: None. U.A. Friedrich: None. A. Dahl: None. S.R. Bornstein: None. S. Zeissig: None. C.L. Andoniadou: None. C. Steenblock: None.\nStress can lead to an increase in body fat and obesity as main clinical conditions preceding the metabolic syndrome [1]. In metabolic stress, hype..."]
+      },
+      {
+        "title": "Cellular senescence promotes progenitor cell expansion during axolotl limb regeneration",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Qinghao Yu", "Hannah E Walters", "Giovanni Pasquini", "Maximina H. Yun"],
+        "abstract": []
+      },
+      {
+        "title": "Fatty acid desaturase 2 determines the lipidomic landscape and steroidogenic function of the adrenal gland",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Anke Witt", "Ivona Mateska", "Alessandra Palladini", "Vasileia Ismini Alexaki"],
+        "abstract": ["Corticosteroids regulate vital processes, including stress responses, systemic metabolism, and blood pressure. Here, we show that corticosteroid synthesis is related to the polyunsaturated fatty acid (PUFA) content of mitochondrial phospholipids in adrenocortical cells. Inhibition of the rate-limiting enzyme of PUFA synthesis, fatty acid desaturase..."]
+      },
+      {
+        "title": "Succinate mediates inflammation-induced adrenocortical dysfunction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Ivona Mateska", "Anke Witt", "Eman Hagag", "Vasileia Ismini Alexaki"],
+        "abstract": ["The hypothalamus-pituitary-adrenal (HPA) axis is activated in response to inflammation leading to increased production of anti-inflammatory glucocorticoids by the adrenal cortex, thereby representing an endogenous feedback loop. However, severe inflammation reduces the responsiveness of the adrenal gland to adrenocorticotropic hormone (ACTH), altho..."]
+      },
+      {
+        "title": "Succinate mediates inflammation-induced adrenocortical dysfunction",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Ivona Mateska", "Anke Witt", "Eman Hagag", "Vasileia Ismini Alexaki"],
+        "abstract": ["The hypothalamus-pituitary-adrenal (HPA) axis is activated in response to inflammation leading to increased production of anti-inflammatory glucocorticoids by the adrenal cortex, thereby representing an endogenous feedback loop. However, severe inflammation reduces the responsiveness of the adrenal gland to adrenocorticotropic hormone (ACTH), altho..."]
+      },
+      {
+        "title": "Succinate mediates inflammation-induced adrenocortical dysfunction",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Ivona Mateska", "Anke Witt", "Eman Hagag", "Vasileia Ismini Alexaki"],
+        "abstract": ["The hypothalamus-pituitary-adrenal (HPA) axis is activated in response to inflammation leading to increased production of anti-inflammatory glucocorticoids by the adrenal cortex, thereby representing an endogenous feedback loop. However, severe inflammation reduces the responsiveness of the adrenal gland to adrenocorticotropic hormone (ACTH), altho..."]
+      },
+      {
+        "title": "Succinate mediates inflammation-induced adrenocortical dysfunction",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Ivona Mateska", "Anke Witt", "Eman Hagag", "Vasileia Ismini Alexaki"],
+        "abstract": ["The hypothalamus-pituitary-adrenal (HPA) axis is activated in response to inflammation leading to increased production of anti-inflammatory glucocorticoids by the adrenal cortex, thereby representing an endogenous feedback loop. However, severe inflammation reduces the responsiveness of the adrenal gland to adrenocorticotropic hormone (ACTH), altho..."]
+      },
+      {
+        "title": "Activation of the cGAS/STING Axis in Genome-Damaged Hematopoietic Cells Does Not Impact Blood Cell Formation or Leukemogenesis",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Nicole Dressel", "Loreen Natusch", "Clara M Munz", "Alexander Gerbaulet"],
+        "abstract": ["Genome damage is a main driver of malignant transformation, but it also induces aberrant inflammation via the cGAS/STING DNA-sensing pathway. Activation of cGAS/STING can trigger cell death and senescence, thereby potentially eliminating genome-damaged cells and preventing against malignant transformation. Here, we report that defective ribonucleot..."]
+      },
+      {
+        "title": "Transcriptome analysis reveals an Atoh1b-dependent gene set downstream of Dlx3b/4b during early inner ear development in zebrafish",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Diana Ezhkova", "Simone Schwarzer", "Sandra Spieß", "Stefan Hans"],
+        "abstract": ["The vertebrate inner ear is the sensory organ mediating hearing and balance. The entire organ develops from the otic placode, which itself originates from the otic-epibranchial progenitor domain (OEPD). Multiple studies in various species have shown the importance of the forkhead-box and distal-less homeodomain transcription factor families for OEP..."]
+      },
+      {
+        "title": "Compartmentalization and synergy of osteoblasts drive bone formation in the regenerating fin",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Nicole Cudak", "Alejandra Cristina López-Delgado", "Fabian Rost", "Franziska Knopf"],
+        "abstract": ["Zebrafish faithfully regenerate their fins after amputation which includes restoration of bone tissue and a component of cell plasticity. It is currently unclear how different cell populations of the regenerate divide labor to allow for efficient regenerate growth and proper patterning. Here, we studied lineage relationships of FACS-enriched epider..."]
+      },
+      {
+        "title": "Activation of beta-adrenergic receptor signaling prevents glucocorticoid-induced obesity and adipose tissue dysfunction in male mice",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Manuel Gado", "Annett Heinrich", "Denise Wiedersich", "Holger Henneicke"],
+        "abstract": ["Elevated serum concentrations of glucocorticoids (GCs) result in excessive lipid accumulation in white adipose tissue (WAT) as well as dysfunction of thermogenic brown adipose tissue (BAT) - ultimately leading to the development of obesity and metabolic disease. Here, we hypothesized that activation of the sympathetic nervous system either via cold..."]
+      },
+      {
+        "title": "Single cell RNA sequencing unravels the transcriptional network underlying zebrafish retina regeneration",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Laura Celotto", "Fabian Rost", "Anja Machate", "Michael Brand"],
+        "abstract": ["In the lesioned zebrafish retina, Müller glia produce multipotent retinal progenitors that generate all retinal neurons, replacing lost cell types. To study the molecular mechanisms linking Müller glia reactivity to progenitor production and neuronal differentiation, we used single cell RNA sequencing of Müller glia, progenitors and regenerated pro..."]
+      },
+      {
+        "title": "Single cell RNA sequencing unravels the transcriptional network underlying zebrafish retina regeneration",
+        "tags": ["Preprint"],
+        "date": "Apr 2023",
+        "authors": ["Laura Celotto", "Fabian Rost", "Anja Machate", "Michael Brand"],
+        "abstract": ["In the lesioned zebrafish retina, Müller glia produce multipotent retinal progenitors that generate all retinal neurons, replacing lost cell types. To study the molecular mechanisms linking Müller glia reactivity to progenitor production and neuronal differentiation, we used single cell RNA sequencing of Müller glia, progenitors and regenerated pro..."]
+      },
+      {
+        "title": "CD38 promotes hematopoietic stem cell dormancy via c-Fos",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Lilia Ibneeva", "Sumeet Singh", "Anupam Sinha", "Tatyana Grinenko"],
+        "abstract": ["A subpopulation of deeply quiescent, so-called dormant hematopoietic stem cells (dHSCs) resides at the top of the hematopoietic hierarchy and serves as a reserve pool for HSCs possessing the greatest long-term blood repopulation capacity. The state of dormancy protects the HSC pool from exhaustion throughout life, however excessive dormancy may blo..."]
+      },
+      {
+        "title": "Analysis of Electric Field Stimulation in Blue Light Stressed 661W Cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Sharanya Bola", "Pallavi Subramanian", "Daniela Calzia", "Cora Roehlecke"],
+        "abstract": ["Citation: Bola, S.; Subramanian, P.; Calzia, D.; Dahl, A.; Panfoli, I.; Funk, R.H.W.; Roehlecke, C. Analysis of Electric Field Stimulation in Blue Light Stressed 661W Cells. Int. J. Mol. Sci. 2023, 24, 3433. https://doi. Abstract: Though electrical stimulation is used as a therapeutic approach to treat retinal and spinal injuries, many protective m..."]
+      },
+      {
+        "title": "scRNAseq unravels the transcriptional network underlying zebrafish retina regeneration",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Laura Celotto", "Fabian Rost", "Anja Machate", "Michael Brand"],
+        "abstract": ["In the lesioned zebrafish retina, Müller glia produce multipotent retinal progenitors that generate all retinal neurons, replacing lost cell types. To study the molecular mechanisms linking Müller glia reactivity to progenitor production and neuronal differentiation, we used single cell RNA sequencing of Müller glia, progenitors and regenerated pro..."]
+      },
+      {
+        "title": "Compartmentalization and Synergy of Osteoblasts Drive Bone Formation in the Regenerating Fin",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Nicole Cudak", "Alejandra Cristina López-Delgado", "Fabian Rost", "Franziska Knopf"],
+        "abstract": []
+      },
+      {
+        "title": "Targeting cardiomyocyte ADAM10 ectodomain shedding promotes survival early after myocardial infarction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Erik Klapproth", "Anke Witt", "Pauline Klose", "Ali El-Armouche"],
+        "abstract": ["After myocardial infarction the innate immune response is pivotal in clearing of tissue debris as well as scar formation, but exaggerated cytokine and chemokine secretion with subsequent leukocyte infiltration also leads to further tissue damage. Here, we address the value of targeting a previously unknown a disintegrin and metalloprotease 10 (ADAM..."]
+      },
+      {
+        "title": "Tissue dissociation for single-cell and single-nuclei RNA sequencing for low amounts of input material",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Gordon Wiegleb", "Susanne Reinhardt", "Andreas Dahl", "Nico Posnien"],
+        "abstract": ["Background\nRecent technological advances opened the opportunity to simultaneously study gene expression for thousands of individual cells on a genome-wide scale. The experimental accessibility of such single-cell RNA sequencing (scRNAseq) approaches allowed gaining insights into the cell type composition of heterogeneous tissue samples of animal mo..."]
+      },
+      {
+        "title": "Investigating the cause of a 2021 winter wave of COVID-19 in a border region in Eastern Germany: a mixed-methods study, August to November 2021",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Buqing Yi", "Alexa Laubner", "Marlena Nastassja Schlecht", "Alexander H Dalpke"],
+        "abstract": ["In winter 2020 and 2021 many countries worldwide experienced a COVID-19 pandemic wave which led to severe burdens on healthcare systems and huge economic losses. Yet, it remains unclear how the winter waves started and many debates are ongoing about actions necessary to prevent future winter waves. In this study we deciphered the dynamic course of..."]
+      },
+      {
+        "title": "3087 – TWO PATHWAYS OF THROMBOPOIESIS IN NATIVE HEMATOPOIESIS",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Alexander Gerbaulet", "Clara Munz", "Congxin Li", "Thomas Höfer"],
+        "abstract": ["Hematopoietic stem cells (HSCs) are the ultimate source of a large variety of mature blood and immune cells.\nWhile the potential of HSCs has been well studied by perturbative transplantation assays, their properties and differentiation pathways remain poorly defined in physiological hematopoiesis.\nHere, we chart native lineage pathways emanating fr..."]
+      },
+      {
+        "title": "Cellular senescence modulates progenitor cell expansion during axolotl limb regeneration",
+        "tags": ["Preprint"],
+        "date": "Sep 2022",
+        "authors": ["Qinghao Yu", "Hannah E Walters", "Giovanni Pasquini", "Maximina H. Yun"],
+        "abstract": ["Axolotl limb regeneration is accompanied by the transient induction of cellular senescence within the blastema, the structure which nucleates regeneration. The precise role of this blastemal senescent cell (bSC) population, however, remains unknown. Here, through a combination of gain- and loss-of-function assays, we elucidate the functions and mol..."]
+      },
+      {
+        "title": "CDK7 inhibition augments response to multidrug chemotherapy in pancreatic cancer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Siyuan Zeng", "Bin Lan", "Xiaofan Ren", "Christian Pilarsky"],
+        "abstract": ["Background\nPancreatic ductal adenocarcinoma (PDAC) is an aggressive cancer with a dismal prognosis. Although combined treatment with gemcitabine and albumin-bound paclitaxel has improved the prognosis of PDAC, both intrinsic and acquired chemoresistance remain as severe hurtles towards improved prognosis. Thus, new therapeutic targets and innovativ..."]
+      },
+      {
+        "title": "Fate mapping of hematopoietic stem cells reveals two pathways of native thrombopoiesis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Mina N. F. Morcos", "Congxin Li", "Clara M. Munz", "Alexander Gerbaulet"],
+        "abstract": ["Hematopoietic stem cells (HSCs) produce highly diverse cell lineages. Here, we chart native lineage pathways emanating from HSCs and define their physiological regulation by computationally integrating experimental approaches for fate mapping, mitotic tracking, and single-cell RNA sequencing. We find that lineages begin to split when cells leave th..."]
+      },
+      {
+        "title": "A gene expression map of host immune response in human brucellosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Ioannis Mitroulis", "Akrivi Chrysanthopoulou", "Georgios Divolis", "Panagiotis Skendros"],
+        "abstract": ["Brucellosis is a common zoonotic disease caused by intracellular pathogens of the genus Brucella. Brucella infects macrophages and evades clearance mechanisms, thus resulting in chronic parasitism. Herein, we studied the molecular changes that take place in human brucellosis both in vitro and ex vivo. RNA sequencing was performed in primary human m..."]
+      },
+      {
+        "title": "Isolation of macrophages from mouse skin wounds for single-cell RNA sequencing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Sebastian Willenborg", "Juliana G Roscito", "Alexander Gerbaulet", "Susanne Reinhardt"],
+        "abstract": []
+      },
+      {
+        "title": "Isolation of macrophages from mouse skin wounds for single-cell RNA sequencing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Sebastian Willenborg", "Juliana G. Roscito", "Alexander Gerbaulet", "Susanne Reinhardt"],
+        "abstract": ["Understanding macrophage heterogeneity in tissue repair is a major challenge. Here, we describe a protocol that combines isolation of immune cells from skin wounds with subsequent flow-cytometry-based sorting of wound macrophages and single-cell RNA sequencing. We use a modified version of the original Smart-seq2 protocol to increase speed and accu..."]
+      },
+      {
+        "title": "Tissue dissociation for single-cell and single-nuclei RNA sequencing for low amounts of input material",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Gordon Wiegleb", "Susanne Reinhardt", "Andreas Dahl", "Nico Posnien"],
+        "abstract": ["Background\nRecent technological advances opened the opportunity to simultaneously study gene expression for thousands of individual cells on a genome-wide scale. The experimental accessibility of such single-cell RNA sequencing (scRNAseq) approaches already allowed gaining insights into the cell type composition of heterogeneous tissue samples of a..."]
+      },
+      {
+        "title": "INFLAMMATION–INDUCED DOWNREGULATION OF SUCCINATE DEHYDROGENASE REGULATES ADRENOCORTICAL FUNCTION",
+        "tags": ["Preprint"],
+        "date": "May 2022",
+        "authors": ["Ivona Mateska", "Anke Witt", "Eman Hagag", "Vasileia Ismini Alexaki"],
+        "abstract": ["The hypothalamus-pituitary-adrenal (HPA) axis is activated in response to inflammation leading to increased production of glucocorticoids by the adrenal cortex. In turn, glucocorticoids exert potent anti-inflammatory effects. Severe inflammation may reduce adrenal gland responsiveness to adrenocorticotropic hormone (ACTH) although the underlying mo..."]
+      },
+      {
+        "title": "A common framework of monocyte-derived macrophage activation",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["David E. Sanin", "Yan Ge", "Emilija Marinkovic", "Edward J. Pearce"],
+        "abstract": ["Macrophages populate every organ during homeostasis and disease, displaying features of tissue imprinting and heterogeneous activation. The disconnected picture of macrophage biology that has emerged from these observations is a barrier for integration across models or with in vitro macrophage activation paradigms. We set out to contextualize macro..."]
+      },
+      {
+        "title": "Gene-selective transcription promotes the inhibition of tissue reparative macrophages by TNF",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Stefanie Dichtl", "David E Sanin", "Carolin K Koss", "Peter J Murray"],
+        "abstract": ["Anti-TNF therapies are a core anti-inflammatory approach for chronic diseases such as rheumatoid arthritis and Crohn’s Disease. Previously, we and others found that TNF blocks the emergence and function of alternative-activated or M2 macrophages involved in wound healing and tissue-reparative functions. Conceivably, anti-TNF drugs could mediate the..."]
+      },
+      {
+        "title": "A gene expression map of host immune response in human brucellosis",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Ioannis Mitroulis", "Akrivi Chrysanthopoulou", "Georgios Divolis", "Panagiotis Skendros"],
+        "abstract": ["Brucellosis is a common zoonotic disease caused by intracellular pathogens of the genus Brucella. Brucella infects macrophages and evades clearance mechanisms, which results in chronic parasitism. Herein, we studied the molecular changes that take place in human brucellosis both in vitro and in vivo. RNA sequencing was performed in primary human ma..."]
+      },
+      {
+        "title": "Loss of histone methyltransferase SETD1B in oogenesis results in the redistribution of genomic histone 3 lysine 4 trimethylation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Courtney W. Hanna", "Jiahao Huang", "Christian Belton", "Gavin Kelsey"],
+        "abstract": ["Histone 3 lysine 4 trimethylation (H3K4me3) is an epigenetic mark found at gene promoters and CpG islands. H3K4me3 is essential for mammalian development, yet mechanisms underlying its genomic targeting are poorly understood. H3K4me3 methyltransferases SETD1B and MLL2 (KMT2B) are essential for oogenesis. We investigated changes in H3K4me3 in Setd1b..."]
+      },
+      {
+        "title": "CDK7 inhibition augments the response against multidrug chemotherapy in pancreatic cancer",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Siyuan Zeng", "Bin Lan", "Xiaofan Ren", "Christian Pilarsky"],
+        "abstract": ["Background: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive cancer with a dismal prognosis. Although combined treatment with gemcitabine and albumin-bound paclitaxel has improved the prognosis of PDAC, both intrinsic and acquired chemoresistance cloud the outcomes. Hence, there is an urgent need to explore new therapeutic targets and formu..."]
+      },
+      {
+        "title": "Exosomal miRNAs from Prostate Cancer Impair Osteoblast Function in Mice",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Giulia Furesi", "Antonio Miguel de Jesus Domingues", "Dimitra Alexopoulou", "Lorenz C. Hofbauer"],
+        "abstract": ["Prostate cancer (PCa) is the most frequent malignancy in older men with a high propensity for bone metastases. Characteristically, PCa causes osteosclerotic lesions as a result of disrupted bone remodeling. Extracellular vesicles (EVs) participate in PCa progression by conditioning the pre-metastatic niche. However, how EVs mediate the cross-talk b..."]
+      },
+      {
+        "title": "Convergent and lineage-specific genomic differences in limb regulatory elements in limbless reptile lineages",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Juliana Gusson Roscito", "Katrin Sameith", "Bogdan Mikhailovich Kirilenko", "Michael Hiller"],
+        "abstract": ["Loss of limbs evolved many times in squamate reptiles. Here we investigated the genomic basis of convergent limb loss in reptiles. We sequenced the genomes of a closely related pair of limbless-limbed gymnophthalmid lizards and performed a comparative genomic analysis including five snakes and the limbless glass lizard. Our analysis of these three..."]
+      },
+      {
+        "title": "Reproducibility of 10x Genomics single cell RNA sequencing method in the immune cell environment",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Gloria Kraus", "Marc Weigelt", "Susanne Reinhardt", "Ezio Bonifacio"],
+        "abstract": ["10x Genomics is a highly accessible single cell RNA sequencing platform that allows for simultaneous gene expression analysis and identification of receptor chain combinations in cells of the adaptive immune system. Here, we asked whether the gene and receptor expression measurements in peripheral blood mononuclear cells (PBMC) are influenced by te..."]
+      },
+      {
+        "title": "MLL1 is required for maintenance of intestinal stem cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Neha Goveas", "Claudia Waskow", "Kathrin Arndt", "Andrea Kranz"],
+        "abstract": ["Epigenetic mechanisms are gatekeepers for the gene expression patterns that establish and maintain cellular identity in mammalian development, stem cells and adult homeostasis. Amongst many epigenetic marks, methylation of histone 3 lysine 4 (H3K4) is one of the most widely conserved and occupies a central position in gene expression. Mixed lineage..."]
+      },
+      {
+        "title": "The RNA binding protein HuR is a gatekeeper of liver homeostasis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Pallavi Subramanian", "Sofia Gargani", "Alessandra Palladini", "Triantafyllos Chavakis"],
+        "abstract": ["Background and aims: \nNon-alcoholic fatty liver disease (NAFLD) is initiated by steatosis and can progress via fibrosis and cirrhosis to hepatocellular carcinoma (HCC). The RNA binding protein HuR controls RNAs at the posttranscriptional level; hepatocyte HuR has been implicated in the regulation of diet-induced hepatic steatosis. The present study..."]
+      },
+      {
+        "title": "Understanding the role of Mboat7 in liver disease",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2021",
+        "authors": ["VR Thangapandi", "O Knittelfelder", "Mario Brosch", "P Subramanian"],
+        "abstract": []
+      },
+      {
+        "title": "Predictive framework of macrophage activation",
+        "tags": ["Preprint"],
+        "date": "Aug 2021",
+        "authors": ["David E. Sanin", "Yan Ge", "Emilija Marinkovic", "Edward J. Pearce"],
+        "abstract": ["Macrophages populate every organ during homeostasis and disease, displaying features of tissue imprinting and heterogeneous activation. The disjointed picture of macrophage biology that emerged from these observations are a barrier for integration across models or with in vitro macrophage activation paradigms. We set out to contextualize macrophage..."]
+      },
+      {
+        "title": "Multi-omics profiling of living human pancreatic islet donors reveals heterogeneous beta cell trajectories towards type 2 diabetes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Leonore Wigger", "Marko Barovic", "Andreas-David Brunner", "Michele Solimena"],
+        "abstract": ["Most research on human pancreatic islets is conducted on samples obtained from normoglycaemic or diseased brain-dead donors and thus cannot accurately describe the molecular changes of pancreatic islet beta cells as they progress towards a state of deficient insulin secretion in type 2 diabetes (T2D). Here, we conduct a comprehensive multi-omics an..."]
+      },
+      {
+        "title": "Environmental enrichment preserves a young DNA methylation landscape in the aged mouse hippocampus",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Sara Zocher", "Rupert W Overall", "Mathias Lesche", "Gerd Kempermann"],
+        "abstract": ["The decline of brain function during aging is associated with epigenetic changes, including DNA methylation. Lifestyle interventions can improve brain function during aging, but their influence on age-related epigenetic changes is unknown. Using genome-wide DNA methylation sequencing, we here show that experiencing a stimulus-rich environment count..."]
+      },
+      {
+        "title": "The hepatokine fetuin-A disrupts functional maturation of pancreatic beta cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Felicia Gerst", "Elisabeth Kemter", "Estela Lorza Gil", "Susanne Ullrich"],
+        "abstract": ["Aims/hypothesis\nNeonatal beta cells carry out a programme of postnatal functional maturation to achieve full glucose responsiveness. A partial loss of the mature phenotype of adult beta cells may contribute to a reduction of functional beta cell mass and accelerate the onset of type 2 diabetes. We previously found that fetuin-A, a hepatokine increa..."]
+      },
+      {
+        "title": "Deep Learning Improves Pancreatic Cancer Diagnosis Using RNA-Based Variants",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Alaa Abdulzahra Deli", "Negin Malekian", "Sebastián García", "Michael Schroeder"],
+        "abstract": ["Simple Summary\nBlood samples from patients with pancreatic diseases have been analysed to identify predictive RNA-based variants. These variants are not subject to changes in the environment, as is the case for gene expression or metabolic. The variants served together with CA19-9 as input to deep learning for a cohort of 268 patients with pancreat..."]
+      },
+      {
+        "title": "Transcriptional profile of AvrRpt2EA-mediated resistance and susceptibility response to Erwinia amylovora in apple",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Susan Schröpfer", "Isabelle Vogt", "Giovanni Broggini", "Andreas Peil"],
+        "abstract": ["Most of the commercial apple cultivars are highly susceptible to fire blight, which is the most devastating bacterial disease affecting pome fruits. Resistance to fire blight is described especially in wild Malus accessions such as M. × robusta 5 (Mr5), but the molecular basis of host resistance response to the pathogen Erwinia amylovora is still l..."]
+      },
+      {
+        "title": "Low threshold for cutaneous allergen sensitization but no spontaneous dermatitis or atopy in filaggrin-deficient mice",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Lina Muhandes", "Maria Chapsa", "Martin Pippel", "Axel Roers"],
+        "abstract": ["Loss of filaggrin (FLG) causes Ichthyosis vulgaris. Reduced filaggrin expression compromises epidermal barrier function and is associated with atopic dermatitis, allergy and asthma. The flaky tail mouse harbors two mutations that affect the skin barrier, Flgft, resulting in hypomorphic FLG expression, and Tmem79matted inactivating transmembrane pro..."]
+      },
+      {
+        "title": "Loss of SETD1B results in the redistribution of genomic H3K4me3 in the oocyte",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Courtney W. Hanna", "Jiahao Huang", "Christian Belton", "Gavin Kelsey"],
+        "abstract": ["Histone 3 lysine 4 trimethylation (H3K4me3) is an epigenetic mark found at gene promoters and CpG islands. H3K4me3 is essential for mammalian development, yet mechanisms underlying its genomic targeting are poorly understood. H3K4me3 methyltransferases SETD1B and MLL2 are essential for oogenesis. We investigated changes in H3K4me3 in Setd1b conditi..."]
+      },
+      {
+        "title": "Odontoblast TRPC5 channels signal cold pain in teeth",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Laura Bernal", "Pamela Sotelo Hitschfeld", "Christine König", "Katharina Zimmermann"],
+        "abstract": ["Teeth are composed of many tissues, covered by an inflexible and obdurate enamel. Unlike most other tissues, teeth become extremely cold sensitive when inflamed. The mechanisms of this cold sensation are not understood. Here, we clarify the molecular and cellular components of the dental cold sensing system and show that sensory transduction of col..."]
+      },
+      {
+        "title": "Cre-Controlled CRISPR mutagenesis provides fast and easy conditional gene inactivation in zebrafish",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Stefan Hans", "Daniela Zöller", "Juliane Hammer", "Michael Brand"],
+        "abstract": ["Conditional gene inactivation is a powerful tool to determine gene function when constitutive mutations result in detrimental effects. The most commonly used technique to achieve conditional gene inactivation employs the Cre/loxP system and its ability to delete DNA sequences flanked by two loxP sites. However, targeting a gene with two loxP sites..."]
+      },
+      {
+        "title": "Multipotent Schwann Cell Precursors Generate Steroid-Producing Cells of the Adrenal Cortex and Chromaffin Cells of the Adrenal Medulla",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Charlotte Steenblock", "Ilona Berger", "Alice Santambrogio", "Stefan Stefan Richard Bornstein"],
+        "abstract": []
+      },
+      {
+        "title": "Multi-omics profiling of living human pancreatic islet donors reveals heterogeneous beta cell trajectories toward type 2 diabetes",
+        "tags": ["Preprint"],
+        "date": "Dec 2020",
+        "authors": ["Leonore Wigger", "Marko Barovic", "Andreas-David Brunner", "Michele Solimena"],
+        "abstract": ["Existing studies do not sufficiently describe the molecular changes of pancreatic islet beta cells leading to their deficient insulin secretion in type 2 diabetes (T2D). Here we address this deficiency with a comprehensive multi-omics analysis of metabolically profiled pancreatectomized living human donors stratified along the glycemic continuum fr..."]
+      },
+      {
+        "title": "ROS Dynamics Delineate Functional States of Hippocampal Neural Stem Cells and Link to Their Activity-Dependent Exit from Quiescence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Vijay S. Adusumilli", "Tara L Walker", "Rupert W Overall", "Gerd Kempermann"],
+        "abstract": ["Cellular redox states regulate the balance between stem cell maintenance and activation. Increased levels of intracellular reactive oxygen species (ROS) are linked to proliferation and lineage specification. In contrast to this general principle, we here show that in the hippocampus of adult mice, quiescent neural precursor cells (NPCs) maintain th..."]
+      },
+      {
+        "title": "MLL1 is required for maintenance of intestinal stem cells and the expression of the cell adhesion molecule JAML",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Neha Goveas", "Claudia Waskow", "Kathrin Arndt", "Andrea Kranz"],
+        "abstract": ["Epigenetic control is crucial for lineage-specific gene expression that creates cellular identity during mammalian development and in adult organism. Histone 3 lysine 4 methylation (H3K4) is a universal epigenetic mark. Mixed lineage leukemia (MLL1) is the founding member of the mammalian family of H3K4 methyltransferases. It was originally discove..."]
+      },
+      {
+        "title": "Reactive oligodendrocyte progenitor cells (re-)myelinate the regenerating zebrafish spinal cord",
+        "tags": ["Article"],
+        "date": "Nov 2020",
+        "authors": ["Vasiliki Tsata", "Volker Kroehne", "Daniel Wehner", "Michael Brand"],
+        "abstract": ["Spinal cord injury (SCI) results in loss of neurons, oligodendrocytes and myelin sheaths, all of which are not efficiently restored. The scarcity of oligodendrocytes in the lesion site impairs remyelination of spared fibres, which leaves axons denuded, impedes signal transduction and contributes to permanent functional deficits. In contrast to mamm..."]
+      },
+      {
+        "title": "Exome sequencing identifies frequent genomic loss of TET1 in IDH -wild-type glioblastoma",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Sebastian Stasik", "Tareq A. Juratli", "Andreas Petzold", "Christian Thiede"],
+        "abstract": ["Glioblastoma (GBM) is the most common and malignant brain tumor in adults. Genomic and epigenomic alterations of multiple cancer-driving genes are frequent in GBM. To identify molecular alterations associated with epigenetic aberrations, we performed whole exome sequencing-based analysis of DNA copy number variations in 55 adult patients with IDH-w..."]
+      },
+      {
+        "title": "Snail2 promotes stemness and gemcitabine resistance in pancreatic cancer adenocarcinoma",
+        "tags": ["Article"],
+        "date": "Nov 2020",
+        "authors": ["Eva Rodriguez-Aznar", "S. Hauff", "Karolin Walter", "Patrick Christian Hermann"],
+        "abstract": []
+      },
+      {
+        "title": "Innate Immune Training of Granulopoiesis Promotes Anti-tumor Activity",
+        "tags": ["Article"],
+        "date": "Oct 2020",
+        "authors": ["Lydia Kalafati", "Ioannis Kourtzelis", "Jonas Schulte-Schrepping", "Triantafyllos Chavakis"],
+        "abstract": ["Trained innate immunity, induced via modulation of mature myeloid cells or their bone marrow progenitors, mediates sustained increased responsiveness to secondary challenges. Here, we investigated whether anti-tumor immunity can be enhanced through induction of trained immunity. Pre-treatment of mice with β-glucan, a fungal-derived prototypical ago..."]
+      },
+      {
+        "title": "Filaggrin deficient mice have a lower threshold for cutaneous allergen sensitization but do not develop spontaneous skin inflammation or atopy",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Lina Muhandes", "Martin Pippel", "Maria Chapsa", "Axel Roers"],
+        "abstract": ["Defects of filaggrin (FLG) compromise epidermal barrier function and represent an important known genetic risk factor for atopic dermatitis (AD), but also for systemic atopy, including allergic sensitization and asthma. The flaky tail mouse model, widely used to address mechanisms of atopy induction by barrier-defective skin, harbors two mutations..."]
+      },
+      {
+        "title": "Cre-Controlled CRISPR (3C) Mutagenesis: Fast and Easy Conditional Gene Inactivation in Zebrafish",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Stefan Hans", "Daniela Zöller", "Juliane Hammer", "Michael Brand"],
+        "abstract": ["Conditional gene inactivation is a powerful tool to determine gene function when constitutive mutations result in detrimental effects. The most commonly used technique to achieve conditional gene inactivation employs the Cre/loxP system and its ability to delete DNA sequences flanked by two loxP sites. However, targeting critical exons or an entire..."]
+      },
+      {
+        "title": "Hematopoietic lineages diverge within the stem cell compartment",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Mina N. F. Morcos", "Congxin Li", "Clara M. Munz", "Alexander Gerbaulet"],
+        "abstract": ["Hematopoietic stem cells (HSCs) produce a highly diverse array of cell lineages. To assay hematopoietic differentiation with minimal experimental perturbation, non-invasive methods for heritable labeling (1-3) or barcoding (4-7) of HSCs in vivo have recently been developed and used to study lineage fate of HSCs in physiological conditions. However,..."]
+      },
+      {
+        "title": "Antigen-reactive regulatory T cells can be expanded in vitro with monocytes and anti-CD28 and anti-CD154 antibodies",
+        "tags": ["Article"],
+        "date": "Aug 2020",
+        "authors": ["Dorota Iwaszkiewicz-Grześ", "Mateusz Gliwiński", "Anne Eugster", "Piotr Trzonkowski"],
+        "abstract": ["Background: \nIn recent years, therapies with CD4+CD25highFoxP3+ regulatory T cells (Tregs) have been successfully tested in many clinical trials. The important issue regarding the use of this treatment in autoimmune conditions remains the specificity toward particular antigen, as because of epitope spread, there are usually multiple causative autoa..."]
+      },
+      {
+        "title": "Der Verlust von intestinal epithelialem SETDB1 führt zu fehlender Repression endogener Retroviren, Genotoxizität und intestinaler Entzündung",
+        "tags": ["Conference Paper"],
+        "date": "Aug 2020",
+        "authors": ["L Južnić", "K Peuker", "A Strigli", "S Zeissig"],
+        "abstract": []
+      },
+      {
+        "title": "A smart polymer for sequence-selective binding, pulldown, and release of DNA targets",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Elisha Krieg", "Krishna Gupta", "Andreas Dahl", "William M. Shih"],
+        "abstract": ["Selective isolation of DNA is crucial for applications in biology, bionanotechnology, clinical diagnostics and forensics. We herein report a smart methanol-responsive polymer (MeRPy) that can be programmed to bind and separate single- as well as double-stranded DNA targets. Captured targets are quickly isolated and released back into solution by de..."]
+      },
+      {
+        "title": "Loss of hepatic Mboat7 leads to liver fibrosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Veera Raghavan Thangapandi", "Oskar Knittelfelder", "Mario Brosch", "Pallavi Subramanian"],
+        "abstract": ["Objective\nThe rs641738C>T variant located near the membrane-bound O-acyltransferase domain containing 7 (MBOAT7) locus is associated with fibrosis in liver diseases, including non-alcoholic fatty liver disease (NAFLD), alcohol-related liver disease, hepatitis B and C. We aim to understand the mechanism by which the rs641738C>T variant contributes t..."]
+      },
+      {
+        "title": "SETDB1 is required for intestinal epithelial differentiation and the prevention of intestinal inflammation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Lea Južnić", "Kenneth Peuker", "Anne Strigli", "Sebastian Zeissig"],
+        "abstract": ["Objective\nThe intestinal epithelium is a rapidly renewing tissue which plays central roles in nutrient uptake, barrier function and the prevention of intestinal inflammation. Control of epithelial differentiation is essential to these processes and is dependent on cell type-specific activity of transcription factors which bind to accessible chromat..."]
+      },
+      {
+        "title": "MLL4 is required after implantation whereas MLL3 becomes essential during late gestation",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Deepthi Ashokkumar", "Qinyu Zhang", "Christian Much", "Andrea Kranz"],
+        "abstract": ["Methylation of histone 3 lysine 4 (H3K4) is a major epigenetic system associated with gene expression. In mammals there are six H3K4 methyltransferases related to yeast Set1 and fly Trithorax, including two orthologs of fly Trithorax-related: MLL3 and MLL4. Exome sequencing has documented high frequencies of MLL3 and MLL4 mutations in many types of..."]
+      },
+      {
+        "title": "Continuous mitotic activity of primitive hematopoietic stem cells in adult mice",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Mina N. F. Morcos", "Thomas Zerjatke", "Ingmar Glauche", "Alexander Gerbaulet"],
+        "abstract": ["The proliferative activity of aging hematopoietic stem cells (HSCs) is controversially discussed. Inducible fluorescent histone 2B fusion protein (H2B-FP) transgenic mice are important tools for tracking the mitotic history of murine HSCs in label dilution experiments. A recent study proposed that primitive HSCs symmetrically divide only four times..."]
+      },
+      {
+        "title": "microRNA profiling of mouse cortical progenitors and neurons reveals miR-486-5p as a novel regulator of neurogenesis",
+        "tags": ["Article"],
+        "date": "Apr 2020",
+        "authors": ["Martina Dori", "Daniel Cavalli", "Mathias Lesche", "Federico Calegari"],
+        "abstract": ["MicroRNAs (miRNAs) are short (∼22 nt) single-stranded non-coding RNAs that regulate gene expression at the post-transcriptional level. Over the past years, many studies have extensively characterized the involvement of miRNA-mediated regulation in neurogenesis and brain development. However, a comprehensive catalog of cortical miRNAs cell-specifica..."]
+      },
+      {
+        "title": "Type 1 Interleukin-4 Signaling Obliterates Mouse Astroglia in vivo but Not in vitro",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Violeta Mashkaryan", "Tohid Siddiqui", "Stanislava Popova", "Caghan Kizil"],
+        "abstract": ["Recent findings suggest that reduced neurogenesis could be one of the underlying reasons for the exacerbated neuropathology in humans, thus restoring the neural stem cell proliferation and neurogenesis could help to circumvent some pathological aspects of Alzheimer’s disease. We recently identified Interleukin-4/STAT6 signaling as a neuron–glia cro..."]
+      },
+      {
+        "title": "Single cell sequencing of radial glia progeny reveals diversity of newborn neurons in the adult zebrafish brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Christian Lange", "Fabian Rost", "Anja Machate", "Michael Brand"],
+        "abstract": ["Zebrafish display widespread and pronounced adult neurogenesis, which is fundamental for their regeneration capability after central nervous system injury. However, the cellular identity and the biological properties of adult newborn neurons are elusive for most brain areas.\n\nHere, we used short-term lineage tracing of radial glia progeny to prospe..."]
+      },
+      {
+        "title": "Gene Expression-Based Identification of Antigen-Responsive CD8+ T Cells on a Single-Cell Level",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Yannick F. Fuchs", "Virag Sharma", "Anne Eugster", "Ezio Bonifacio"],
+        "abstract": ["CD8+ T cells are important effectors of adaptive immunity against pathogens, tumors, and self antigens. Here, we asked how human cognate antigen-responsive CD8+ T cells and their receptors could be identified in unselected single-cell gene expression data. Single-cell RNA sequencing and qPCR of dye-labeled antigen-specific cells identified large ge..."]
+      },
+      {
+        "title": "Silenced ZNF154 Is Associated with Longer Survival in Resectable Pancreatic Cancer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Felix Wiesmueller", "Josephin Kopke", "Daniela E Aust", "Robert Grützmann"],
+        "abstract": ["Pancreatic cancer has become the third leading cause of cancer-related death in the Western world despite advances in therapy of other cancerous lesions. Late diagnosis due to a lack of symptoms during early disease allows metastatic spread of the tumor. Most patients are considered incurable because of metastasized disease. On a cellular level, pa..."]
+      },
+      {
+        "title": "Epigenetic rejuvenation of the hippocampus by environmental enrichment",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Sara Zocher", "Rupert W Overall", "Mathias Lesche", "Gerd Kempermann"],
+        "abstract": ["The decline of brain function during aging is associated with epigenetic changes, including DNA methylation. Lifestyle interventions can improve brain function during aging, but their influence on age-related epigenetic changes is unknown. Using genome-wide DNA methylation sequencing, we here show that environmental enrichment counteracted age-rela..."]
+      },
+      {
+        "title": "Aldh1b1 expression defines progenitor cells in the adult pancreas and is required for Kras-induced pancreatic cancer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Ekaterina Mameishvili", "Ioannis Serafimidis", "Sara Iwaszkiewicz", "Anthony Gavalas"],
+        "abstract": ["The presence of progenitor or stem cells in the adult pancreas and their potential involvement in homeostasis and cancer development remain unresolved issues. Here, we show that mouse centroacinar cells can be identified and isolated by virtue of the mitochondrial enzyme Aldh1b1 that they uniquely express. These cells are necessary and sufficient f..."]
+      },
+      {
+        "title": "Renin cells with defective Gsα/cAMP signaling contribute to renal endothelial damage",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Anne Steglich", "Friederike Kessel", "Linda Hickmann", "Vladimir Todorov"],
+        "abstract": ["Synthesis of renin in renal renin-producing cells (RPCs) is controlled via the intracellular messenger cAMP. Interference with cAMP-mediated signaling by inducible knockout of Gs-alpha (Gsα) in RPCs of adult mice resulted in a complex adverse kidney phenotype. Therein, glomerular endothelial damage was most striking. In this study, we investigated..."]
+      },
+      {
+        "title": "In-situ Omics Analyse zeigt Zonierungsverlust in der Leberzirrhose",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2019",
+        "authors": ["Fabian Reichel", "Mario Brosch", "Kathrin Kattler", "Jochen Hampe"],
+        "abstract": []
+      },
+      {
+        "title": "Proliferative behavior of hematopoietic stem cells revisited: No evidence for mitotic memory",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Mina N. F. Morcos", "Thomas Zerjatke", "Ingmar Glauche", "Alexander Gerbaulet"],
+        "abstract": ["The proliferative activity of adult hematopoietic stem cells (HSCs) is controversially discussed. Inducible fluorescent histone 2B fusion protein (H2B-FP) transgenic mice are important tools for tracking the mitotic history of murine HSCs in label dilution experiments. A recent study proposed that the most primitive HSCs divide only four times, to..."]
+      },
+      {
+        "title": "Prospective isolation of non-hematopoietic cells of the niche and their differential molecular interactions with HSCs",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Nicole Mende", "Adrien Jolly", "Gülce Perçin", "Claudia Waskow"],
+        "abstract": ["A major limitation preventing in vivo modulation of hematopoietic stem cells (HSCs) is the incomplete understanding of the cellular and molecular support of the microenvironment in regulating HSC fate decisions. Consequently, murine HSCs cannot be generated, maintained, or expanded in culture over extended periods of time. A significantly improved..."]
+      },
+      {
+        "title": "Controlling distinct signaling states in cultured cancer cells provides a new platform for drug discovery Identifying and blocking an escape mechanism that brain cancer cells use to evade current therapies Photo by Martha Dominguez de Gouveia on Unsplash",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Steven W Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Gene expression-based identification of antigen-responsive CD8 + T cells on a single-cell level",
+        "tags": ["Preprint"],
+        "date": "Jun 2019",
+        "authors": ["Yannick F Fuchs", "Virag Sharma", "Anne Eugster", "Ezio Bonifacio"],
+        "abstract": ["CD8 ⁺ T cells are important effectors of adaptive immunity against pathogens, tumors and self antigens. Here, we asked how human cognate antigen-responsive CD8 ⁺ T cells and their receptors could be identified in unselected single-cell gene expression data. Single-cell RNA sequencing and qPCR of dye-labelled antigen-specific cells identified large..."]
+      },
+      {
+        "title": "Tables S",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Figure S2",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Figure S1",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Figure S6",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Figure S7",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Figure S5",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Figure S3",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Figure S4",
+        "tags": ["Data"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": []
+      },
+      {
+        "title": "Controlling distinct signaling states in cultured cancer cells provides a new platform for drug discovery",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Steven W. Poser", "Oliver Otto", "Carina Arps-Forker", "Andreas Androutsellis-Theotokis"],
+        "abstract": ["Cancer cells can switch between signaling pathways to regulate growth under different conditions. In the tumor microenvironment, this likely helps them evade therapies that target specific pathways. We must identify all possible states and utilize them in drug screening programs. One such state is characterized by expression of the transcription fa..."]
+      },
+      {
+        "title": "Redox potential defines functional states of adult hippocampal stem cells",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Vijay S Adusumilli", "Tara L Walker", "Rupert W Overall", "Annette E Rünker"],
+        "abstract": ["Intracellular redox states regulate the balance between stem cell maintenance and activation. Increased levels of reactive oxygen species (ROS) are linked to proliferation and lineage specification. In contrast to this general principle, we show that in the hippocampus of adult mice it is the quiescent neural stem cells (NSCs) that maintain the hig..."]
+      },
+      {
+        "title": "Single-Cell Transcriptomics Analyses of Neural Stem Cell Heterogeneity and Contextual Plasticity in a Zebrafish Brain Model of Amyloid Toxicity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Mehmet Ilyas Cosacak", "Prabesh Bhattarai", "Susanne Reinhardt", "Caghan Kizil"],
+        "abstract": ["The neural stem cell (NSC) reservoir can be harnessed for stem cell-based regenerative therapies. Zebrafish remarkably regenerate their brain by inducing NSC plasticity in a Amyloid-β-42 (Aβ42)-induced experimental Alzheimer's disease (AD) model. Interleukin-4 (IL-4) is also critical for AD-induced NSC proliferation. However, the mechanisms of this..."]
+      },
+      {
+        "title": "Comparative RNAi Screens in Isogenic Human Stem Cells Reveal SMARCA4 as a Differential Regulator",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Ceren Günes", "Maciej Paszkowski-Rogacz", "Susann Rahmig", "Frank Buchholz"],
+        "abstract": ["Large-scale RNAi screens are a powerful approach to identify functions of genes in a cell-type-specific manner. For model organisms, genetically identical (isogenic) cells from different cell types are readily available, making comparative studies meaningful. However, large-scale screens in isogenic human primary cells remain challenging. Here, we..."]
+      },
+      {
+        "title": "Sequence and expression levels of circular RNAs in progenitor cell types during mouse corticogenesis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Martina Dori", "Leila Alieh", "Daniel Cavalli", "Federico Calegari"],
+        "abstract": ["Circular (circ) RNAs have recently emerged as a novel class of transcripts whose identification and function remain elusive. Among many tissues and species, the mammalian brain is the organ in which circRNAs are more abundant and first evidence of their functional significance started to emerge. Yet, even within this well-studied organ, annotation..."]
+      },
+      {
+        "title": "Reviewer comments",
+        "tags": ["Data"],
+        "date": "Mar 2019",
+        "authors": ["Martina Dori", "Leila Alieh", "Daniel Cavalli", "Federico Calegari"],
+        "abstract": []
+      },
+      {
+        "title": "A smart polymer for sequence-selective binding, pulldown and release of DNA targets",
+        "tags": ["Preprint"],
+        "date": "Mar 2019",
+        "authors": ["Elisha Krieg", "Krishna Gupta", "Andreas Dahl", "William M Shih"],
+        "abstract": ["Selective isolation of DNA is crucial for applications in biology, bionanotechnology, clinical diagnostics and forensics. We herein report a smart methanol-responsive polymer (MeRPy) that can be programmed to bind and separate single- as well as double-stranded DNA targets. Captured targets are quickly isolated and released back into solution by de..."]
+      },
+      {
+        "title": "Comprehensive Assessment of Sequence and Expression of Circular-RNAs in Progenitor Cell Types of the Developing Mammalian Cortex",
+        "tags": ["Preprint"],
+        "date": "Feb 2019",
+        "authors": ["Martina Dori", "Leila Alieh", "Daniel Cavalli", "Federico Calegari"],
+        "abstract": ["ABSRTRACT\nCircular (circ) RNAs have recently emerged as a novel class of non coding transcripts whose identification and function remain elusive. Among many tissues and species, the mammalian brain is the organ in which circRNAs are more abundant and first evidence of their functional significance started to emerge. Yet, even within this well studi..."]
+      },
+      {
+        "title": "Molecular fungal community and its decomposition activity in sapwood and heartwood of 13 temperate European tree species",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Sabrina Leonhardt", "Björn Hoppe", "Elisa Stengel", "Harald Kellner"],
+        "abstract": ["Deadwood is an important structural component in forest ecosystems and plays a significant role in global carbon and nutrient cycling. Relatively little is known about the formation and decomposition of CWD by microbial communities in situ and about the factors controlling the associated processes. In this study, we intensively analyzed the molecul..."]
+      }
+    ],
+    "degree": ["Dr.", "rer", "nat."],
+    "publications": [348],
+    "reads": [48695],
+    "citations": [20133]
   }
 }

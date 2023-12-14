@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-8412-0824",
-    "name": "Per-Magnus Moe Thompson",
+    "orcid": ["0000-0001-8412-0824"],
+    "name": ["Per-Magnus Moe Thompson"],
     "distinctions": [],
     "education": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "start": "2013",
-        "end": "2018",
         "position": "PhD Candidate",
         "organisation": "BI Norwegian Business School",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       }
     ],
     "employment": [
@@ -28,10 +28,10 @@
       },
       {
         "start": "2013",
-        "end": "2018",
         "position": "PhD Candidate",
         "organisation": "BI Norwegian Business School",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       }
     ],
     "membership": [],
@@ -58,11 +58,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Tonje Marie Moe Thompson",
-    "id": "8590",
+    "name": ["Tonje Marie Moe Thompson"],
+    "id": ["8590"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Marie_Moe",
+    "name": "Marie Moe",
+    "img": "https://i1.rgstatic.net/ii/profile.image/894869765636096-1590364986396_Q128/Marie_Moe.jpg",
+    "affiliation": "Liberty University, Graduate School",
+    "keywords": ["Communication", "Media Studies", "Mass Communication", "Communication Theory", "Social Communication", "New Media Technology", "Strategic Communication", "Communication Science", "Social Media Marketing", "Advertising"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

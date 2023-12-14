@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Fartein Ask Torvik",
-    "id": "7_h9mQIAAAAJ",
-    "affiliation": "Norwegian Institute of Public Health",
+    "name": ["Fartein Ask Torvik"],
+    "id": ["7_h9mQIAAAAJ"],
+    "affiliation": ["Norwegian Institute of Public Health"],
     "data": {
       "publications": [
         {
@@ -936,8 +936,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-3984-5978",
-    "name": "Fartein Ask Torvik",
+    "orcid": ["0000-0003-3984-5978"],
+    "name": ["Fartein Ask Torvik"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1272,8 +1272,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Fartein Ask Torvik",
-    "id": "998",
+    "name": ["Fartein Ask Torvik"],
+    "id": ["998"],
     "keywords": [],
     "position": ["Associate professor", "Guest", "Researcher"],
     "img": {},
@@ -1888,5 +1888,565 @@
         "url": "https://api.cristin.no/v2/results/1760647"
       }
     ]
+  },
+  "rg": {
+    "id": "Fartein-Torvik",
+    "name": "Fartein Ask Torvik",
+    "img": "https://i1.rgstatic.net/ii/profile.image/743918366908418-1554375368536_Q128/Fartein-Torvik.jpg",
+    "affiliation": "Norwegian Institute of Public Health, Department of Genetics Environment and Mental Health",
+    "keywords": ["Quantitative Genetics", "Survey Methods", "Psychiatric Epidemiology", "R-project", "Mental Illness", "Addiction Psychiatry", "Stata Software", "Twin Studies", "Social Psychology", "Addiction Psychology"],
+    "works": [
+      {
+        "title": "Mechanisms linking parental educational attainment with child ADHD, depression, and academic problems: a study of extended families in The Norwegian Mother, Father and Child Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Fartein Ask Torvik", "Espen Moen Eilertsen", "Tom A Mcadams", "Eivind Ystrom"],
+        "abstract": ["Background: \nLow educational attainment in parents is associated with child psychopathology. It is not clear whether the associations are due to risk factors that family members share or due to effects of maternal or paternal education on the offspring. We investigate whether associations between maternal and paternal educational attainment and chi..."]
+      },
+      {
+        "title": "Early Puberty Is Associated With Higher Academic Achievement in Boys and Girls and Partially Explains Academic Sex Differences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Fartein Ask Torvik", "Martin Flatø", "Tom A Mcadams", "Camilla Stoltenberg"],
+        "abstract": ["Purpose\nOn average, boys have lower academic achievement than girls. We investigated whether the timing of puberty is associated with academic achievement, and whether later puberty among boys contributes to the sex difference in academic achievement.\n\nMethod\nExamination scores at age 16 were studied among 13,477 British twins participating in the..."]
+      },
+      {
+        "title": "Parental income and mental disorders in children and adolescents: prospective register-based study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Jonas Minet Kinge", "Simon Øverland", "Martin Flatø", "Fartein Ask Torvik"],
+        "abstract": ["Background: \nChildren with low-income parents have a higher risk of mental disorders, although it is unclear whether other parental characteristics or genetic confounding explain these associations and whether it is true for all mental disorders.\n\nMethods: \nIn this registry-based study of all children in Norway (n = 1 354 393) aged 5-17 years from..."]
+      },
+      {
+        "title": "Modeling assortative mating and genetic similarities between partners, siblings, and in-laws",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Fartein Ask Torvik", "Espen Moen Eilertsen", "Laurie Hannigan", "Eivind Ystrom"],
+        "abstract": ["Assortative mating on heritable traits can have implications for the genetic resemblance between siblings and in-laws in succeeding generations. We studied polygenic scores and phenotypic data from pairs of partners (n = 26,681), siblings (n = 2,170), siblings-in-law (n = 3,905), and co-siblings-in-law (n = 1,763) in the Norwegian Mother, Father an..."]
+      },
+      {
+        "title": "The educational burden of disease: a cohort study",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Magnus Nordmo", "Jonas Minet Kinge", "Bjørn-Atle Reme", "Fartein Ask Torvik"],
+        "abstract": ["Background\nStudents with health disorders might be at risk of disengaging from education, which can reinforce socioeconomic inequalities in health. We aimed to evaluate the associations between 176 diseases and injuries and later school performance in Norwegian adolescents and to estimate the importance of each disorder using a novel measure for th..."]
+      },
+      {
+        "title": "Social anxiety disorder is a risk factor for alcohol use problems in the National Comorbidity Surveys",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Tom Rosenström", "Fartein Ask Torvik"],
+        "abstract": ["Background: \nAccording to the self-medication and biopsychosocial models, individuals with social anxiety disorder (SAD) are at increased risk of developing an alcohol use disorder (AUD) as alcohol represents a maladaptive coping mechanism for some sufferers of SAD. The SAD-to-AUD causation was earlier supported in Norwegian longitudinal twin data..."]
+      },
+      {
+        "title": "School performance and mortality in young adulthood: a register-based population study",
+        "tags": ["Preprint"],
+        "date": "Mar 2023",
+        "authors": ["Bjorn-Atle Reme", "Fartein Ask Torvik"],
+        "abstract": ["Background: The social gradient in mortality among young adults is well-documented, but poorly understood. This study contrasts the role of parental income and education versus own school performance as predictors of early death.\nMethods: We estimated the prospective association between grade point average from lower secondary education and mortali..."]
+      },
+      {
+        "title": "Intergenerational effects of parental educational attainment on parenting and childhood educational outcomes: Evidence from MoBa using within-family Mendelian randomization",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Alexandra Havdahl", "Amanda Hughes", "Eleanor Sanderson", "Neil M Davies"],
+        "abstract": ["The intergenerational transmission of educational attainment from parents to their children is one of the most important and studied relationships in social science. Longitudinal studies have found strong associations between parents' and their children's educational outcomes, which could be due to the effects of parents. Here we provide new eviden..."]
+      },
+      {
+        "title": "Parental body mass index and offspring childhood body size and eating behaviour: causal inference via parental comparisons and extended children of twins structural equation modelling",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Tom A Bond", "Tom A Mcadams", "Nicole M Warrington", "David M Evans"],
+        "abstract": ["Background\nThe intergenerational transmission of obesity-related traits could propagate an accelerating cycle of obesity, if parental adiposity causally influences offspring adiposity via intrauterine or periconceptional mechanisms. We aimed to establish whether associations between parental peri-pregnancy body mass index (BMI) and offspring birth..."]
+      },
+      {
+        "title": "Intergenerational transmission of ADHD behaviors: genetic and environmental pathways",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Thomas Haarklau Kleppestø", "Espen Moen Eilertsen", "Elsje van Bergen", "Fartein Ask Torvik"],
+        "abstract": ["Background: We investigate if covariation between parental and child ADHD behaviors can be explained by environmental and/or genetic transmission. Methods: We employed a large children-of-twins-and-siblings sample (N=22,350 parents & 11,566 8-year-old children) of the Norwegian Mother, Father and Child Cohort Study (MoBa). This enabled us to disent..."]
+      },
+      {
+        "title": "The structure of psychiatric comorbidity without selection and assortative mating",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Ziada Ayorech", "Fartein Ask Torvik", "Rosa Cheesman", "Eivind Ystrom"],
+        "abstract": ["The widespread comorbidity observed across psychiatric disorders may be the result of processes such as assortative mating, gene-environment correlation, or selection into population studies. Between-family analyses of comorbidity are subject to these sources of bias, whereas within-family analyses are not. Because of Mendelian inheritance, alleles..."]
+      },
+      {
+        "title": "Ready for School? Effects on School Starters of Establishing School Psychology Offices in Norway",
+        "tags": ["Article"],
+        "date": "Jan 2023",
+        "authors": ["Martin Flatø", "Bernt Bratsberg", "Andreas Kotsadam", "Camilla Stoltenberg"],
+        "abstract": []
+      },
+      {
+        "title": "92. GENETIC AND PEDIGREE DESIGNS TO INVESTIGATE THE EFFECTS OF PARENTAL PSYCHOPATHOLOGY ON CHILDREN'S SCHOOL PERFORMANCE",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Perline Demange", "Espen Moen Eilertsen", "Magnus Nordmo", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "T2. A TRIO-GCTA STUDY OF INDIRECT AND DIRECT GENETIC EFFECTS ON HYPERACTIVITY, INATTENTION, CONDUCT PROBLEMS, AND OPPOSITIONAL-DEFIANT BEHAVIORS",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Espen Moen Eilertsen", "Rosa Cheesman", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "A population-wide gene-environment interaction study on how genes, schools, and residential areas shape achievement",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Rosa Cheesman", "Nicolai T. Borgen", "Torkild H. Lyngstad", "Eivind Ystrom"],
+        "abstract": ["A child’s environment is thought to be composed of different levels that interact with their individual genetic propensities. However, studies have not tested this theory comprehensively across multiple environmental levels. Here, we quantify the contributions of child, parent, school, neighbourhood, district, and municipality factors to achievemen..."]
+      },
+      {
+        "title": "Predictors of Relationship Satisfaction Across the Transition to Parenthood: Results from the Norwegian Mother, Father, and Child Cohort Study (MoBa)",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Mila Kingsbury", "Zahra Clayborne", "Wendy Nilsen", "Ian Colman"],
+        "abstract": ["The purpose of the study was to describe trajectories of relationship satisfaction across the transition to parenthood, and identify predictors of these trajectories. This study is based on the Norwegian Mother, Father, and Child Cohort Study (MoBa). Mothers (N = 43,517) reported on their relationship satisfaction at five timepoints from 17 weeks g..."]
+      },
+      {
+        "title": "On the importance of parenting in externalizing disorders: an evaluation of indirect genetic effects in families",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Espen Moen Eilertsen", "Rosa Cheesman", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Background: \nTheoretical models of the development of childhood externalizing disorders emphasize the role of parents. Empirical studies have not been able to identify specific aspects of parental behaviors explaining a considerable proportion of the observed individual differences in externalizing problems. The problem is complicated by the contri..."]
+      },
+      {
+        "title": "How interactions between ADHD and schools affect educational achievement: a family‐based genetically sensitive study",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Rosa Cheesman", "Espen Moen Eilertsen", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Background: \nChildren with ADHD tend to achieve less than their peers in school. It is unknown whether schools moderate this association. Nonrandom selection of children into schools related to variations in their ADHD risk poses a methodological problem.\n\nMethods: \nWe linked data on ADHD symptoms of inattention and hyperactivity and parent-child A..."]
+      },
+      {
+        "title": "Positive maternal mental health attenuates the associations between prenatal stress and children’s internalizing and externalizing symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Zahra Clayborne", "Wendy Nilsen", "Fartein Ask Torvik", "Ian Colman"],
+        "abstract": ["Positive maternal mental health can improve perceptions of stressful situations and promote the use of adaptive coping strategies. However, few studies have examined how positive maternal mental health affects children’s development. The aims of this study were to examine the associations between positive maternal mental health and children’s inter..."]
+      },
+      {
+        "title": "How genes, schools, and residential areas shape achievement: A population-wide gene-environment interaction study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Rosa Cheesman", "Nicolai Borgen", "Torkild Lyngstad", "Eivind Ystrom"],
+        "abstract": ["A child’s environment is thought to be composed of different levels that interact with individual genetic propensities, with less advantaged environments suppressing genetic effects on achievement. However, studies have not tested this theory comprehensively across multiple environmental levels. Here, we quantify the contributions of child, parent,..."]
+      },
+      {
+        "title": "The ADHD deficit in school performance across sex and parental education: A prospective sibling‐comparison register study of 344,152 Norwegian adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Hans Fredrik Sunde", "Thomas Haarklau Kleppestø", "Kristin Gustavson", "Fartein Ask Torvik"],
+        "abstract": ["Background: \nAttention-Deficit Hyperactivity Disorder (ADHD) is associated with impaired school performance, but the impact of ADHD may vary across sex, family background, and school subjects. By using prospective population-wide register data, we describe impairment in academic performance related to ADHD across different school subjects and inves..."]
+      },
+      {
+        "title": "Educational attainment and mortality in schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Martin Tesli", "Eirik Degerud", "Oleguer Plana-Ripoll", "Oyvind Naess"],
+        "abstract": ["Background: \nIndividuals suffering from schizophrenia have a reduced life expectancy with cardiovascular disease (CVD) as a major contributor. Low educational attainment is associated with schizophrenia as well as with all-cause and CVD mortality. However, it is unknown to what extent low educational attainment can explain the increased mortality i..."]
+      },
+      {
+        "title": "Intergenerational transmission of parental neuroticism to emotional problems in 8‐year‐old children: Genetic and environmental influences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Helga Ask", "Espen Moen Eilertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": ["Background: \nChildren of parents with high levels of neuroticism tend to have high neuroticism themselves as well as increased risk of experiencing symptoms of anxiety and depression. It is not yet clear how much of this link is attributable to a potential effect of parent on child (e.g., via a socializing effect) versus to shared genetic risk. We..."]
+      },
+      {
+        "title": "How interactions between ADHD and schools affect educational achievement: a family-based genetically sensitive study",
+        "tags": ["Preprint"],
+        "date": "Nov 2021",
+        "authors": ["Rosa Cheesman", "Espen Moen Eilertsen", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Background: Children with ADHD tend to achieve less than their peers in school. It is unknown whether schools moderate this ADHD deficit. Selection into schools poses a methodological problem.Methods: We linked data on ADHD symptoms of inattention and hyperactivity and parent-child ADHD polygenic scores (PGS) from the Norwegian Mother, Father, and..."]
+      },
+      {
+        "title": "Prenatal maternal stress, child internalizing and externalizing symptoms, and the moderating role of parenting: findings from the Norwegian mother, father, and child cohort study",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Zahra Clayborne", "Wendy Nilsen", "Fartein Ask Torvik", "Ian Colman"],
+        "abstract": ["Background\nFew studies have examined how parenting influences the associations between prenatal maternal stress and children's mental health. The objectives of this study were to examine the sex-specific associations between prenatal maternal stress and child internalizing and externalizing symptoms, and to assess the moderating effects of parentin..."]
+      },
+      {
+        "title": "Prenatal work stress is associated with prenatal and postnatal depression and anxiety: Findings from the Norwegian Mother, Father and Child Cohort Study (MoBa)",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Zahra Clayborne", "Ian Colman", "Mila Kingsbury", "Wendy Nilsen"],
+        "abstract": ["Background\nAn emerging body of research suggests that stress experienced in the workplace can have detrimental impacts on maternal mental health, including greater risk of postnatal depression. However, few longitudinal studies have examined these associations during the perinatal period. The objective of this study was to examine the associations..."]
+      },
+      {
+        "title": "Parental binge drinking and offspring’s high school non-completion: A prospective HUNT survey and educational registry study",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Jasmina Burdzovic Andreas", "Fartein Ask Torvik", "Ingunn Olea Lund"],
+        "abstract": ["Background\nAlcohol-use disorders (AUD) in parents are associated with adverse outcomes in offspring. It is less known whether other forms of parental drinking such as binge drinking may also be a risk factor for offspring’s outcomes -- specifically, high school non-completion.\n\nMethods\nThese questions were examined in a sample of 3,101 offspring (M..."]
+      },
+      {
+        "title": "W30. INVESTIGATING HETEROGENEITY IN DEPRESSION USING MULTIPLE POLYGENIC SCORES",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Ziada Ayorech", "Rosa Cheesman", "Espen Moen Eilertsen", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic and environmental contributions to co-occurring ADHD and emotional problems in school-aged children",
+        "tags": ["Article"],
+        "date": "Aug 2021",
+        "authors": ["Kristin Gustavson", "Fartein Ask Torvik", "Espen Moen Eilertsen", "Line C. Gjerde"],
+        "abstract": ["Children with attention deficit hyperactivity disorder (ADHD) often experience co-occurring emotional problems. ADHD with this comorbidity is associated with poorer outcomes than ADHD without comorbidity. Better understanding of the etiology of comorbidity could improve prevention of negative outcomes for children with ADHD. The sample consisted of..."]
+      },
+      {
+        "title": "Acetaminophen use during pregnancy and offspring attention deficit hyperactivity disorder – a longitudinal sibling control study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Kristin Gustavson", "Eivind Ystrom", "Helga Ask", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background: \nMaternal acetaminophen use during pregnancy is associated with increased risk of ADHD in the child. This could reflect causal influence of acetaminophen on fetal neurodevelopment or could be due to confounding factors. The aim of the current study was to examine unmeasured familial confounding factors of this association.\n\nMethods: \nWe..."]
+      },
+      {
+        "title": "Parental risk constellations and future alcohol use disorder (AUD) in offspring: A combined HUNT survey and health registries study",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Jasmina Burdzovic Andreas", "Fartein Ask Torvik", "Eivind Ystrom", "Ingunn Olea Lund"],
+        "abstract": ["Objective: \nWe examined the risk of developing a future alcohol use disorder (AUD) among offspring of families with different constellations of parental risk factors.\n\nMethod: \nWe analyzed a sample of 8,774 offspring (50.2% male) from 6,696 two-parent families who participated in the Nord-Trøndelag Health Study in Norway when offspring were 13-19 y..."]
+      },
+      {
+        "title": "Consequences of assortative mating for genetic similarities between partners, siblings, and in-laws",
+        "tags": ["Preprint"],
+        "date": "Feb 2021",
+        "authors": ["Fartein Ask Torvik", "Espen Moen Eilertsen", "Laurie Hannigan", "Eivind Ystrom"],
+        "abstract": ["Non-random mating by assortment on heritable phenotypes is typically studied among partners but can also have consequences for the genetic resemblance between in-laws and between siblings in succeeding generations. We used a new model to estimate genetic resemblance between family members for educational attainment, height, and depression, and to t..."]
+      },
+      {
+        "title": "Caffeine consumption, toxicity, tolerance and withdrawal; shared genetic influences with normative personality and personality disorder traits",
+        "tags": ["Article"],
+        "date": "Nov 2020",
+        "authors": ["Nikolai Czajkowski", "Kenneth S. Kendler", "Fartein Ask Torvik", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Our main aim was to estimate the extent of overlapping etiology between caffeine consumption and response and normative and pathological personality. Linear mixed-effects models were used to identify normative personality domains and personality disorder (PD) traits for inclusion in multivariate twin analyses together with individual caffeine relat..."]
+      },
+      {
+        "title": "Education differences in sickness absence and the role of health behaviors: a prospective twin study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Karoline B Seglem", "Ragnhild Orstavik", "Fartein Ask Torvik", "M. Vollrath"],
+        "abstract": ["Background\nLong-term sickness absences burden the economy in many industrialized countries. Both educational attainment and health behaviors are well-known predictors of sickness absence. It remains, however, unclear whether these associations are causal or due to confounding factors. The co-twin control method allows examining causal hypotheses by..."]
+      },
+      {
+        "title": "Specific antisocial and borderline personality disorder criteria and general substance use: A twin study",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Tom Rosenström", "Fartein Ask Torvik", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Antisocial (ASPD) and borderline (BPD) personality disorders (PDs) are associated with increased risk for substance use. They are \"specific\" risk factors among PDs in that they withstand adjusting for the other PDs, whereas the reverse does not hold. Specificity is a classic sign of causation. This empirical work addresses 3 further problems that c..."]
+      },
+      {
+        "title": "Maternal Drinking and Child Emotional and Behavior Problems",
+        "tags": ["Article"],
+        "date": "Feb 2020",
+        "authors": ["Ingunn Olea Lund", "Espen Moen Eilsertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": ["Background and objectives: \nMaternal drinking is associated with child emotional and behavior problems. There is, however, a lack of studies that properly account for confounding. Our objective was to estimate the association between at-risk drinking in mothers of young children and child emotional and behavior problems, taking into account the pas..."]
+      },
+      {
+        "title": "Intergenerational Transmission of Parental Neuroticism to Emotional Problems in 8-Year Old Children: Genetic and Environmental Mechanisms",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Helga Ask", "Espen Moen Eilertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "A Life Course Study of Genetic and Environmental Influences on Work Incapacity",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Karoline B Seglem", "Fartein Ask Torvik", "Espen Røysamb", "Ragnhild Ørstavik"],
+        "abstract": ["Work incapacity is a major public health challenge and an economic burden to both society and individuals. Understanding the underlying causes is becoming ever more relevant as many countries face an aging workforce. We examined stability and change in genetic and environmental factors influencing work incapacity from age 18 until retirement, and s..."]
+      },
+      {
+        "title": "Studies from the Norwegian Twin Registry on risk factors for health related work incapacity",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Ragnhild Orstavik", "Karoline B Seglem", "Line C. Gjerde", "M Vollrath"],
+        "abstract": ["Background\nFor the past decade, researchers from the Nordic countries have taken the advantage of their large twin cohorts and reliable official registries to deepen our understanding of sick leave and disability pension. This presentation will give a brief summary of studies based on data from The Norwegian Twin Registry (NTR).\n\nMethods\nMonozygoti..."]
+      },
+      {
+        "title": "Education, lifestyle and life course differences in level of work incapacity – genes and environment",
+        "tags": ["Conference Paper"],
+        "date": "Nov 2019",
+        "authors": ["Karoline B Seglem", "Fartein Ask Torvik", "Espen Røysamb", "M Vollrath"],
+        "abstract": ["Background\nAs many countries face an aging workforce, it is becoming ever more relevant to understand the underlying causes of work incapacity across the entire working age. Previous twin studies have demonstrated that work incapacity is influenced by genetic as well as environmental factors. Furthermore, educational attainment and lifestyle behavi..."]
+      },
+      {
+        "title": "Explaining the association between anxiety disorders and alcohol use disorder: A twin study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Fartein Ask Torvik", "Tom Rosenström", "Kristin Gustavson", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background\nIt is unknown whether social anxiety disorder (SAD) has a unique association with alcohol use disorder (AUD) over and beyond that of other anxiety disorders, how the associations develop over time, and whether the associations are likely to be causal.\n\nMethods\nDiagnoses of AUD, SAD, generalized anxiety disorder, panic disorder, agoraphob..."]
+      },
+      {
+        "title": "Association of Constellations of Parental Risk With Children's Subsequent Anxiety and Depression Findings From a HUNT Survey and Health Registry Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Ingunn Olea Lund", "Svetlana Skurtveit", "Marte Handal", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Importance The research focus on children of parents with alcohol use disorder has eclipsed the potentially wider-reaching detrimental effects of subclinical parental drinking, both alone and in combination with other parental risk factors.\n\nObjective To identify constellations of early parental risk characterized by variations in drinking, mental..."]
+      },
+      {
+        "title": "Genetically Informative Mediation Modeling Applied to Stressors and Personality-Disorder Traits in Etiology of Alcohol Use Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Tom Rosenström", "Nikolai Olavi Czajkowski", "Eivind Ystrom", "Fartein Ask Torvik"],
+        "abstract": ["A statistical mediation model was developed within a twin design to investigate the etiology of alcohol use disorder (AUD). Unlike conventional statistical mediation models, this biometric mediation model can detect unobserved confounding. Using a sample of 1410 pairs of Norwegian twins, we investigated specific hypotheses that DSM-IV personality-d..."]
+      },
+      {
+        "title": "F47STABILITY AND CHANGE IN GENETIC AND ENVIRONMENTAL RISK FACTORS FOR DEPRESSION ASSESSED IN PRIMARY CARE FROM AGES 18 TO 45",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Fartein Ask Torvik", "Kristin Gustavson", "Eivind Ystrom", "Kenneth Kendler"],
+        "abstract": []
+      },
+      {
+        "title": "Continuity of genetic and environmental influences on clinically assessed major depression from ages 18 to 45",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["Fartein Ask Torvik", "Kristin Gustavson", "Eivind Ystrom", "Kenneth S. Kendler"],
+        "abstract": ["Background\nStudies on the stability of genetic risk for depression have relied on self-reported symptoms rather than diagnoses and/or short follow-up time. Our aim is to determine to what degree genetic and environmental influences on clinically assessed major depressive disorder (MDD) are stable between age 18 and 45.\n\nMethods\nA population-based s..."]
+      },
+      {
+        "title": "Joint factorial structure of psychopathology and personality",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["Tom Rosenström", "Line C. Gjerde", "Robert F. Krueger", "Eivind Ystrom"],
+        "abstract": ["Background\nNormative and pathological personality traits have rarely been integrated into a joint large-scale structural analysis with psychiatric disorders, although a recent study suggested they entail a common individual differences continuum.\n\nMethods\nWe explored the joint factor structure of 11 psychiatric disorders, five personality-disorder..."]
+      },
+      {
+        "title": "Parental drinking and child long-term depression and anxiety: A longitudinal combined survey and registry study.",
+        "tags": ["Poster"],
+        "date": "May 2018",
+        "authors": ["Ingunn Olea Lund", "Svetlana Skurtveit", "Marte Handal", "Jasmina Burdzovic Andreas"],
+        "abstract": []
+      },
+      {
+        "title": "Relationships Among Avoidant Personality Disorder, Social Anxiety Disorder, and Normative Personality Traits: A Twin Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Audun Welander-Vatn", "Fartein Ask Torvik", "Nikolai Czajkowski", "Eivind Ystrom"],
+        "abstract": ["Avoidant personality disorder (AvPD) and social anxiety disorder (SAD) share risk factors to a substantial degree, and both are characterized by the experience of anxiety in social situations. The authors investigated whether these disorders are differentially related to the Big Five personality traits. They also examined the underlying genetic and..."]
+      },
+      {
+        "title": "Testing Genetic and Environmental Associations Between Personality Disorders and Cocaine Use: A Population-Based Twin Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Nathan A. Gillespie", "Steven H. Aggen", "Amanda E. Gentry", "Kenneth S. Kendler"],
+        "abstract": ["Until now, data have not been available to elucidate the genetic and environmental sources of comorbidity between all 10 DSM-IV personality disorders (PDs) and cocaine use. Our aim was to determine which PD traits are linked phenotypically and genetically to cocaine use. Cross-sectional data were obtained in a face-to-face interview between 1999 an..."]
+      },
+      {
+        "title": "Diagnostic and genetic overlap of three common mental disorders in structured interviews and health registries",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Fartein Ask Torvik", "Eivind Ystrom", "Kristin Gustavson", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Objective: \nTo investigate whether diagnostic data from structured interviews, primary care and specialist care registries on major depressive disorder (MDD), anxiety disorders (AD) and alcohol use disorder (AUD) identify the same individuals, yield comparable comorbidity estimates and reflect the same genetic influences.\n\nMethods: \nRegistry data f..."]
+      },
+      {
+        "title": "Prediction of alcohol use disorder using personality disorder traits: a twin study: Personality disorder traits and alcohol abuse",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Tom Rosenström", "Fartein Ask Torvik", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background and aims: \nThe DSM-IV personality disorders (PDs) are comorbid with alcohol use disorder (AUD) and with each other. It remains unclear which PD criteria are most likely to drive onset and recurrence of AUD and which are merely confounded with those criteria. We determine which individual PD criteria predict AUD and the degree of underlyi..."]
+      },
+      {
+        "title": "Stability and Change in Etiological Factors for Alcohol Use Disorder and Major Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Fartein Ask Torvik", "Tom Rosenström", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Alcohol use disorder (AUD) and major depressive disorder (MDD) are often comorbid. It is not understood how genetic risk factors for these disorders relate to each other over time and to what degree they are stable. Age-dependent characteristics of the disorders indicate that different genetic factors could be relevant at different stages of life,..."]
+      },
+      {
+        "title": "Genetic and Environmental Structure of DSM-IV Criteria for Antisocial Personality Disorder: A Twin Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Tom Rosenström", "Eivind Ystrom", "Fartein Ask Torvik", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Results from previous studies on DSM-IV and DSM-5 Antisocial Personality Disorder (ASPD) have suggested that the construct is etiologically multidimensional. To our knowledge, however, the structure of genetic and environmental influences in ASPD has not been examined using an appropriate range of biometric models and diagnostic interviews. The 7 A..."]
+      },
+      {
+        "title": "Do DSM-5 Section II personality disorders and Section III personality trait domains reflect the same genetic and environmental risk factors?",
+        "tags": ["Article"],
+        "date": "Apr 2017",
+        "authors": ["Ted Reichborn-Kjennerud", "R. F. Krueger", "Eivind Ystrom", "N. O. Czajkowski"],
+        "abstract": ["Background\nDSM-5 includes two conceptualizations of personality disorders (PDs). The classification in Section II is identical to the one found in DSM-IV, and includes 10 categorical PDs. The Alternative Model (Section III) includes criteria for dimensional measures of maladaptive personality traits organized into five domains. The degree to which..."]
+      },
+      {
+        "title": "The association between personality disorders with alcohol use and misuse: A population-based twin study",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Elizabeth Long", "S.H. Aggen", "Michael C Neale", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background: \nA clearer understanding of the etiological overlap between DSM-IV personality disorders (PDs) and alcohol use (AU) and alcohol use disorder (AUD) is needed. To our knowledge, no study has modeled the association between all 10 DSM-IV PDs and lifetime AU and AUD. The aim of the present study is to identify which PDs are most strongly as..."]
+      },
+      {
+        "title": "Pre-pregnancy mental distress and musculoskeletal pain and sickness absence during pregnancy – a twin cohort study",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["Karoline B Seglem", "Ragnhild Ørstavik", "Fartein Ask Torvik", "Kristian Tambs"],
+        "abstract": ["Background: \nSickness absence (SA) among pregnant women is high. The aim of this study was to examine whether factors known to predict SA in general also predict SA during pregnancy by estimating the association between prior mental distress and musculoskeletal pain and SA during pregnancy, and to assess the influence of familial (genetic and share..."]
+      },
+      {
+        "title": "Mood, anxiety, and alcohol use disorders and later cause-specific sick leave in young adult employees",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Fartein Ask Torvik", "Ted Reichborn-Kjennerud", "Line C. Gjerde", "Ragnhild Ørstavik"],
+        "abstract": ["Background\nMental disorders strongly influence work capability in young adults, but it is not clear which disorders that are most strongly associated with sick leave, and which diagnoses that are stated on the sick leave certificates. Better knowledge of the impairments associated with different mental disorders is needed for optimal planning of in..."]
+      },
+      {
+        "title": "Musculoskeletal pain and work absence – a 10 year follow-up study of Norwegian young adult twins",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Ragnhild Orstavik", "Gun Peggy Knudsen", "Kristian Tambs", "Ted Reichborn-Kjennerud"],
+        "abstract": ["em>Background and aims: Sickness absence (SA) and disability pension (DP) are increasingly recognized as\nmajor public problems. Musculoskeletal disorders are among the most common diagnoses set by physicians\ngranting SA and DP. Results from recent twin studies have established that SA and DP are influenced\nnot only by environmental and social facto..."]
+      },
+      {
+        "title": "Advantages of linking national registries with twin registries for epidemiological research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Line C. Gjerde", "Fartein Ask Torvik", "Kristian Østby", "Ragnhild Orstavik"],
+        "abstract": ["Linking national registries with twin data represents an opportunity to produce epidemiological research of\nhigh quality. National registries contain information on a broad array of variables, some of which cannot be\nmeasured reliably in regular health surveys. By taking kinship into consideration, twin studies have the\nbenefit of being able to ide..."]
+      },
+      {
+        "title": "Social inequalities in reception of social welfare support: A population based twin study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Eivind Ystrom", "Ragnhild Orstavik", "Ted Reichborn-Kjennerud", "Fartein Ask Torvik"],
+        "abstract": ["Social welfare support runs in families. Recent studies using Nordic registry data have found individual\ndifferences in genetic factors to be of substantial importance for medical benefits. However, to date there has\nbeen no genetically informative studies on receiving social welfare support. To prevent young adults to not\ndrop out of the work life..."]
+      },
+      {
+        "title": "Socioeconomic status and sick leave granted for mental and somatic disorders: A prospective study of young adult twins",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Fartein Ask Torvik", "Eivind Ystrom", "Nikolai Czajkowski", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Low socioeconomic status (SES), indicated by low income and education, has consistently been found to be a strong predictor of sick leave. Several possible pathways from SES to sick leave have been described in previous literature, but there are also evidence indicating that the association can be confounded by common underlying factors. This study..."]
+      },
+      {
+        "title": "torvik et al longassoc sad-avpd postprint",
+        "tags": ["Data", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Fartein Ask Torvik", "Audun Welander-Vatn", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": []
+      },
+      {
+        "title": "Longitudinal Associations Between Social Anxiety Disorder and Avoidant Personality Disorder: A Twin Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Fartein Ask Torvik", "Audun Welander-Vatn", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Social anxiety disorder (SAD) and avoidant personality disorder (AvPD) are frequently co-occurring psychiatric disorders with symptomatology related to fear of social situations. It is uncertain to what degree the 2 disorders reflect the same genetic and environmental risk factors. The current study addresses the stability and co-occurrence of SAD..."]
+      },
+      {
+        "title": "Life Satisfaction in Close Relationships: Findings from a Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Jun 2015",
+        "authors": ["Kristin Gustavson", "Espen Røysamb", "Ingrid Borren", "Evalill Bølstad Karevold"],
+        "abstract": ["Life satisfaction (LS) is closely linked to romantic relationships. However, we lack knowledge on the nature of the longitudinal associations between LS and relationship quality, as well as on the longitudinal associations between two partners’ LS—especially for persons in long-term relationships. Better understanding of such associations could pos..."]
+      },
+      {
+        "title": "Health, health behaviors, and health dissimilarities predict divorce: Results from the HUNT study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Fartein Ask Torvik", "Kristin Gustavson", "Espen Røysamb", "Kristian Tambs"],
+        "abstract": ["Background\nPoor health and health behaviors are associated with divorce. This study investigates the degree to which six health indicators and health behaviors among husbands and wives are prospectively related to divorce, and whether spousal similarities in these factors are related to a reduced risk of marital dissolution. Theoretically, a reduce..."]
+      },
+      {
+        "title": "Mental distress predicts divorce over 16 years: the HUNT study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Mariann Idstad", "Fartein Ask Torvik", "Ingrid Borren", "Kristian Tambs"],
+        "abstract": ["Background\nThe association between mental distress and divorce is well established in the literature. Explanations are commonly classified within two different frameworks; social selection (mentally distressed people are selected out of marriage) and social causation (divorce causes mental distress). Despite a relatively large body of literature on..."]
+      },
+      {
+        "title": "Genetic and Environmental Contributions to the Relationship Between Internalizing Disorders and Sick Leave Granted for Mental and Somatic Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Fartein Ask Torvik", "Line C. Gjerde", "Espen Røysamb", "Ragnhild Orstavik"],
+        "abstract": ["This study investigates the degree to which internalizing disorders (anxiety and mood disorders) are prospectively associated with sick leave granted for mental and somatic disorders, and the extent to which common genetic and environmental risk factors influence these relationships. Data include self-reported symptoms of psychological distress fro..."]
+      },
+      {
+        "title": "What can we conclude from register-based prevalences?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Fartein Ask Torvik"],
+        "abstract": []
+      },
+      {
+        "title": "More mental health problems after divorce in couples with high pre-divorce alcohol consumption than in other divorced couples: Results from the HUNT-study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Kamilla Rognmo", "Fartein Ask Torvik", "Mariann Idstad", "Kristian Tambs"],
+        "abstract": ["Divorce is associated with mental health problems, and heavy drinking is related to higher risk of divorce. Less is known about the effects of divorce in couples where one or both drinks heavily. There are, however, reasons to expect different consequences of divorce in heavy risk using couples compared to other couples. Spouses of abusers may expe..."]
+      },
+      {
+        "title": "Atferdsforstyrrelser blant barn og unge i Norge: Beregnet forekomst og bruk av hjelpetiltak",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Jens Christoffer Skogen", "Fartein Ask Torvik"],
+        "abstract": ["Atferdsforstyrrelser blant barn og unge i Norge: Beregnet forekomst og bruk av hjelpetiltak"]
+      },
+      {
+        "title": "Alcohol use and spousal mental distress in a population sample: the Nord-Tr??ndelag Health Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2013",
+        "authors": ["Kamilla Rognmo", "Fartein Ask Torvik", "Espen Røysamb", "Kristian Tambs"],
+        "abstract": ["It is a widely held notion that alcohol abuse is related to mental distress in the spouse. Research has substantiated this notion by showing a tendency for spouses of alcohol abusers to experience more mental distress than spouses of non-abusers. However, the picture seems to be more complex, as some results do not show a significant effect or even..."]
+      },
+      {
+        "title": "Discordant and Concordant Alcohol Use in Spouses as Predictors of Marital Dissolution in the General Population: Results from the Hunt Study",
+        "tags": ["Article"],
+        "date": "Feb 2013",
+        "authors": ["Fartein Ask Torvik", "Espen Røysamb", "Kristin Gustavson", "Kristian Tambs"],
+        "abstract": ["Background: \nPrevious studies have demonstrated that high alcohol consumption is a predictor of divorce. However, there is a lack of studies with prospective data from both spouses. The effects of drinking among husbands versus wives and of concordant versus discordant drinking in couples are therefore unknown. Concordant drinking may lead to incre..."]
+      },
+      {
+        "title": "Paternal and maternal alcohol abuse and offspring mental distress in the general population: The Nord-Trondelag Health Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Kamilla Rognmo", "Fartein Ask Torvik", "Helga Ask", "Kristian Tambs"],
+        "abstract": ["Background\nThe degree to which parental alcohol abuse is a risk factor for offspring mental distress is unclear, due to conflicting results of previous research. The inconsistencies in previous findings may be related to sample characteristics and lack of control of confounding or moderating factors. One such factor may be the gender of the abusing..."]
+      },
+      {
+        "title": "Erratum to: Non-Random Mating and Convergence Over Time for Alcohol Consumption, Smoking, and Exercise: The Nord-Trøndelag Health Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2012",
+        "authors": ["Helga Ask", "Kamilla Rognmo", "Fartein Ask Torvik", "Kristian Tambs"],
+        "abstract": ["The original publication of the article includes confidence intervals for the parameter estimates that are too narrow. The authors wish to correct this and the parameter estimates with the correct 95% confidence intervals (in parentheses) are given below. (Forumala Persented).The errors are due to an error in the weighting procedure in the nonlinea..."]
+      },
+      {
+        "title": "Non-Random Mating and Convergence Over Time for Alcohol Consumption, Smoking, and Exercise: The Nord-Trøndelag Health Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2011",
+        "authors": ["Helga Ask", "Kamilla Rognmo", "Fartein Ask Torvik", "Kristian Tambs"],
+        "abstract": ["Spouses tend to have similar lifestyles. We explored the degree to which spouse similarity in alcohol use, smoking, and physical exercise is caused by non-random mating or convergence. We used data collected for the Nord-Trøndelag Health Study from 1984 to 1986 and prospective registry information about when and with whom people entered marriage/co..."]
+      },
+      {
+        "title": "Parental alcohol use and adolescent school adjustment in the general population: Results from the HUNT study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2011",
+        "authors": ["Fartein Ask Torvik", "Kamilla Rognmo", "Helga Ask", "Kristian Tambs"],
+        "abstract": ["This study investigates the relationship between parental drinking and school adjustment in a total population sample of adolescents, with independent reports from mothers, fathers, and adolescents. As a group, children of alcohol abusers have previously been found to exhibit lowered academic achievement. However, few studies address which parts of..."]
+      },
+      {
+        "title": "Alcohol use and mental distress as predictors of non-response in a general population health survey: The HUNT study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Fartein Ask Torvik", "Kamilla Rognmo", "Kristian Tambs"],
+        "abstract": ["To investigate to what degree alcohol use and mental distress are associated with non-response in a population-based health study.\nFrom 1995 to 1997, 91,488 persons were invited to take part in a health study at Nord-Trøndelag, Norway, and the response rate was 69.2%. Demographics were available for everyone. Survey answers from a previous survey w..."]
+      },
+      {
+        "title": "Barn av foreldre med psykiske lidelser eller alkoholmisbruk: Omfang og konsekvenser",
+        "tags": ["Book", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Fartein Ask Torvik", "Kamilla Rognmo"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD", "in", "psychology"],
+    "bio": [],
+    "publications": [78],
+    "reads": [13894],
+    "citations": [1203]
   }
 }

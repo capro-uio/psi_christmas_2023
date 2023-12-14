@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Francesco Marangoni",
-    "id": "SpMZCqoAAAAJ",
-    "affiliation": "Massachusetts General Hospital - Harvard Medical School",
+    "name": ["Francesco Marangoni"],
+    "id": ["SpMZCqoAAAAJ"],
+    "affiliation": ["Massachusetts General Hospital - Harvard Medical School"],
     "data": {
       "publications": [
         {
@@ -314,8 +314,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-8109-228X",
-    "name": "Francesco Margoni",
+    "orcid": ["0000-0002-8109-228X"],
+    "name": ["Francesco Margoni"],
     "distinctions": [],
     "education": [
       {
@@ -326,9 +326,9 @@
       },
       {
         "start": "2020",
-        "end": "2022",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2022"
       }
     ],
     "employment": [
@@ -340,9 +340,9 @@
       },
       {
         "start": "2020",
-        "end": "2022",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2022"
       }
     ],
     "membership": [],
@@ -352,8 +352,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Francesco Margoni",
-    "id": "1241788",
+    "name": ["Francesco Margoni"],
+    "id": ["1241788"],
     "keywords": [],
     "position": ["Associate professor", "Associate professor"],
     "img": {},
@@ -569,5 +569,313 @@
         "url": "https://api.cristin.no/v2/results/2060582"
       }
     ]
+  },
+  "rg": {
+    "id": "Francesco-Margoni",
+    "name": "Francesco Margoni",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277525449199624-1443178631493_Q128/Francesco-Margoni.jpg",
+    "affiliation": "University of Stavanger UiS, Department of Social Studies",
+    "keywords": ["Moral Psychology", "Analytical Philosophy", "Cognitive Development", "Infancy", "Aging", "Social Psychology"],
+    "works": [
+      {
+        "title": "Infants' Evaluation of Prosocial and Antisocial Agents: A Meta-Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["In the last decade, numerous studies reported that infants prefer prosocial agents (those who provide help, comfort or fairness in distributive actions) to antisocial agents (those who harm others or distribute goods unfairly). We meta-analyzed the results of published and unpublished studies on infants aged 4-32 months and estimated that approxima..."]
+      },
+      {
+        "title": "Infants distinguish between leaders and bullies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Francesco Margoni", "Renée Baillargeon", "Luca Surian"],
+        "abstract": ["We examined whether 21-month-old infants could distinguish between\ntwo broad types of social power: respect-based power exerted\nby a leader (who might be an authority figure with legitimate power,\na prestigious individual with merited power, or some combination\nthereof) and fear-based power exerted by a bully. Infants first saw\nthree protagonists i..."]
+      },
+      {
+        "title": "Conceptual continuity in the development of intent-based moral judgment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["When asked to say whether an agent is morally good or bad, younger preschoolers tend to rely more on the outcomes of agents’ actions than on agents’ intentions, whereas older children show the opposite bias. Three to five-year-old children were examined with a novel task that facilitated the selection and expression of response by means of response..."]
+      },
+      {
+        "title": "Changing the logic of replication: A case from infant studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Francesco Margoni", "Martin John Shepperd"],
+        "abstract": ["Among infant researchers there is growing concern regarding the widespread practice of undertaking studies that have small sample sizes and employ tests with low statistical power (to detect a wide range of possible effects). For many researchers, issues of confidence may be partially resolved by relying on replications. Here, we bring further evid..."]
+      },
+      {
+        "title": "Jurors Use Mental State Information to Assess Breach in Negligence Cases",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Francesco Margoni", "Teneille Brown"],
+        "abstract": ["To prove guilt, jurors in many countries must find that the criminal defendant acted with a particular mental state. However, this amateur form of mindreading is not supposed to occur in civil negligence trials. Instead, jurors should decide whether the defendant was negligent by looking only at his actions, and whether they were objectively reason..."]
+      },
+      {
+        "title": "I processi di abituazione e lo studio della cognizione nella prima infanzia (Habituation processes and the study of infant cognition)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Luca Surian", "Francesco Margoni"],
+        "abstract": []
+      },
+      {
+        "title": "Age-Related Differences in Moral Judgment: The Role of Probability Judgments",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Francesco Margoni", "Janet Geipel", "Constantinos Hadjichristidis", "Luca Surian"],
+        "abstract": ["Research suggests that moral evaluations change during adulthood. Older adults (75+) tend to judge accidentally harmful acts more severely than younger adults do, and this age-related difference is in part due to the greater negligence older adults attribute to the accidental harmdoers. Across two studies (N=254), we find support for this claim and..."]
+      },
+      {
+        "title": "The Violation-of-Expectation Paradigm: A Conceptual Overview",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Francesco Margoni", "Luca Surian", "Renée Baillargeon"],
+        "abstract": ["For over 35 years, the violation-of-expectation paradigm has been used to study the development of expectations in the first three years of life. A wide range of expectations has been examined, including physical, psychological, sociomoral, biological, numerical, statistical, probabilistic, and linguistic expectations. Surprisingly, despite the par..."]
+      },
+      {
+        "title": "A Bully-to-Leader Developmental Shift in the Allocation of Epistemic Trust",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Francesco Margoni", "Elena Nava", "Luca Surian"],
+        "abstract": ["From early toddlerhood, children distinguish between respect-based power exerted by a leader and fear-based power exerted by a bully. Here, we tested if and from what age children rely on this ability to allocate their epistemic trust. Children aged 1.5 to 10 years (n = 337) were presented with a leader-character and a bully-character who both used..."]
+      },
+      {
+        "title": "How Infants Predict Respect-Based Power",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Francesco Margoni", "Lotte Thomsen"],
+        "abstract": ["Research has shown that infants represent legitimate leadership and predict continued obedience to authority, but which cues they use to do so remains unknown. Across eight pre-registered experiments that varied the cue provided, we tested if Norwegian 21-month-olds (N=128) expected three protagonists to obey a character even in her absence. We ass..."]
+      },
+      {
+        "title": "No single notion of cooperation explains when we respect ownership",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Erik Kjos Fonn", "Joakim Haugane Zahl", "Bjørn Dahl Kristensen", "Lotte Thomsen"],
+        "abstract": ["Cooperation is fundamentally moderated by the form of relationship between the actors involved, as is normative resource distribution. We argue that possessions are likely treated differently across different types of cooperative relationships. Whereas Boyer's computational model might in principle account for this, the theory would benefit from a..."]
+      },
+      {
+        "title": "Age-dependent Changes in Intuitive and Deliberative Cooperation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Francesco Nava", "Francesco Margoni", "Nilmini Herath", "Elena Nava"],
+        "abstract": ["Cooperation is one of the most advantageous strategies to have evolved in small-and large-scale human societies, often considered essential to their success or survival. We investigated how cooperation and the mechanisms influencing it change across the lifespan, by assessing cooperative choices from adolescence to old age (12-79 years, N = 382) fo..."]
+      },
+      {
+        "title": "Meta-Analytic Evidence Against Sex Differences in Infants' and Toddlers' Preference for Prosocial Agents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Francesco Margoni", "Katharina Block", "J Kiley Hamlin", "Toni Schmader"],
+        "abstract": ["Can well-documented gender differences in evaluations of prosocial vs. antisocial actions found in childhood and adulthood be traced to sex differences in basic sociomoral preferences in infancy? We provide an answer to this question by meta-analyzing sex differences in preference for prosocial over antisocial agents in a set of 53 samples of Ameri..."]
+      },
+      {
+        "title": "Nati per giudicare (Born to judge)",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Luca Surian", "Francesco Margoni"],
+        "abstract": ["Scheda libro: https://www.laterza.it/scheda-libro/?isbn=9788859300717"]
+      },
+      {
+        "title": "Subjective Logic as a Complementary Tool to Meta-Analysis to Transparently Address Second-Order Uncertainty in Research Findings",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Francesco Margoni", "Neil Douglas Walkinshaw"],
+        "abstract": ["Any experiment brings about results and conclusions that necessarily have a component of uncertainty. Many factors influence the degree of this uncertainty, yet they can be overlooked when drawing conclusions from a body of research. Here, we showcase how Subjective Logic could be employed as a complementary tool to meta-analysis to incorporate the..."]
+      },
+      {
+        "title": "The Development of Intent-based Epistemic Trust",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Francesco Margoni", "Elena Nava"],
+        "abstract": ["We asked if and how children’s epistemic trust is influenced by the valence of the intentions underlying informants’ prior actions. Italian children aged 6 to 10 years (n = 219, 112 female) were first presented with two puppets and asked to judge them. One puppet accidentally caused harm (neutral intention), the other attempted but failed to do so..."]
+      },
+      {
+        "title": "Intent-Based Moral Judgment in Old Age",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Francesco Margoni", "Isu Cho", "Angela H Gutchess"],
+        "abstract": ["Objectives: Recent studies support the idea of a intent-to-outcome shift in moral judgments with age. We further assessed whether a reduced reliance on intentions is associated with aging in a pre-registered study with 73 younger (20–41 years) and 79 older (70–84 years) adults, group-matched on education level. \nMethod: Participants were presented..."]
+      },
+      {
+        "title": "Reliability and Replicability in Infant Research: A commentary on Byers-Heinlein et al. (2021)",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Francesco Margoni"],
+        "abstract": ["Byers-Heinlein et al. (2021) argue that a greater focus on reliability in infant research is much needed and desirable for the field. Moreover, they offer a number of possible solutions to increase reliability in infant research. Here, I do not discuss the suitability of the offered solutions. Instead, I further develop the authors’ argument by con..."]
+      },
+      {
+        "title": "Additional Control Study for Margoni et al. (2022) \"Do children selectively favor leaders and prosocial agents in an economic exchange?\"",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Francesco Margoni", "Elena Nava", "Luca Surian"],
+        "abstract": ["Additional Control Study for Margoni et al. (2022) “Do children selectively favor leaders and prosocial agents in an economic exchange?”"]
+      },
+      {
+        "title": "Continuity or discontinuity in the ontogeny of moral concepts? (Italian, Paradigmi)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["Does the history of human morality include major conceptual discontinuities? This is a question that captured the attention of several moral philosophers. Here, we ask a parallel question with respect to the ontogeny of human morality: Do major conceptual discontinuities occur during the ontogeny of moral judgment? The conceptual change view posits..."]
+      },
+      {
+        "title": "Do Children Selectively Trust Leaders and Prosocial Agents in an Economic Exchange?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Francesco Margoni", "Elena Nava", "Luca Surian"],
+        "abstract": ["Most cooperative interactions involve interpersonal trust and the expectation of mutual reciprocation. Thus, understanding when and how humans acquire interpersonal trust can help unveil the origins and development of children’s cooperative behavior. Here, we investigated whether prior socio-moral information about trading partners modulates the ch..."]
+      },
+      {
+        "title": "Social Dominance Orientation Predicts Civil and Military Intelligence Analysts' Utilitarian Responses to Ethics-of-Intelligence Dilemmas",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Francesco Margoni", "Giangiuseppe Pili"],
+        "abstract": ["What is the real ethical framework of an intelligence analyst? We addressed this question by presenting a group of civil and military intelligence analysts (N = 41), and a control group of non-professionals (N = 41), with a set of dilemmas depicting intelligence agents facing the decision whether to violate a deontological rule where that would ben..."]
+      },
+      {
+        "title": "Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study",
+        "tags": ["Preprint"],
+        "date": "Jun 2021",
+        "authors": ["Kelsey Lucca", "Arthur Capelier-Mourguy", "Krista Byers-Heinlein", "J Kiley Hamlin"],
+        "abstract": ["Evaluating others’ actions as praiseworthy or blameworthy is a fundamental aspect of human nature. A seminal study published in 2007 suggested that the ability to form social evaluations based on third-party interactions emerges within the first year of life, considerably earlier than previously thought (Hamlin, Wynn, & Bloom, 2007). In this study,..."]
+      },
+      {
+        "title": "fMRI Evidence Reveals Emotional Biases in Bilingual Decision Making",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Yuying He", "Francesco Margoni", "Yan Jing Wu", "Huanhuan Liu"],
+        "abstract": ["Research indicates that the foreign language effect on decision making can be partially explained by a reduction in emotional response in the second language. In this fMRI study, we aimed at elucidating the neural mechanisms underpinning the interaction between language and emotion in decision making. Across multiple trials, Chinese-English bilingu..."]
+      },
+      {
+        "title": "Inequity Aversion in Old Age: An Outcome Bias in Older Adults' Socio-Economic Decisions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Francesco Margoni", "Janet Geipel", "Constantinos Hadjichristidis", "Luca Surian"],
+        "abstract": ["Little is known about how healthy aging affects decision making. Here we studied how the social economic decisions of younger (19−39 years) and older (75−100 years) adults depend on the intentions of agents and the outcomes of their actions. Participants played the role of a responder (R) in an Ultimatum Game. A proposer (P) offered them a specific..."]
+      },
+      {
+        "title": "Neural Substrates of the Interplay between Cognitive Load and Emotional Involvement in Bilingual Decision Making",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Liu Linyan", "Francesco Margoni", "Yuying He", "Huanhuan Liu"],
+        "abstract": ["Prior work has reported that foreign language influences decision making by either reducing access to emotion or imposing additional cognitive demands. In this fMRI study, we employed a cross-task design to assess at the neural level whether and how the interaction between cognitive load and emotional involvement is affected by language (native L1..."]
+      },
+      {
+        "title": "Judging Accidental Harm: Due Care and Foreseeability of Side Effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["Both in philosophy and in cognitive psychology, models of moral judgment posit that individuals take into account both agents’ intentions and actions’ outcomes. The present research focused on a third crucial piece of information, agents’ negligence. In Study 1, participants judged the moral wrongness and punishability of agents’ actions that resul..."]
+      },
+      {
+        "title": "Question framing effects and the processing of the moral-conventional distinction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["Prominent theories in moral psychology maintain that a core aspect of moral competence is the ability to distinguish moral norms, which derive from universal principles of justice and fairness, and conventional norms, which are contingent on a specific group consensus. The present study investigated the psychological bases of the moral-conventional..."]
+      },
+      {
+        "title": "Commentary: Children's Sense of Fairness as Equal Respect",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Luca Surian", "Francesco Margoni"],
+        "abstract": ["A commentary on: Engelmann, J.M. and Tomasello, M. (2019) Children’s sense of fairness as equal respect. Trends Cogn. Sci. 23, 454–463."]
+      },
+      {
+        "title": "First steps toward an understanding of procedural fairness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Luca Surian", "Francesco Margoni"],
+        "abstract": ["In four experiments, we tested whether 20-month-old infants are sensitive to violations of procedural impartiality. Participants were shown videos in which help was provided in two different ways. A main character provided help to two other agents either impartially, by helping them at the same time, or in a biased way, by helping one agent almost..."]
+      },
+      {
+        "title": "The distinction between morality and convention in older adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Francesco Margoni"],
+        "abstract": ["This research examined age-group differences in the tendency to distinguish between morality and convention. While moral rules derive from universal principles of justice and fairness, conventional norms apply locally and are contingent upon rule and authority. Across two studies, young adults, young-old adults and old adults were presented with pr..."]
+      },
+      {
+        "title": "The dawn of moral psychology. Nietzsche’s moral psychology and some recent empirical investigations (Italian, Rivista Internazionale di Filosofia e Psicologia)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Francesco Margoni"],
+        "abstract": ["Comparing Nietzsche’s moral psychology and the social intuitionist approach to moral judgment proposed by Jonathan Haidt, this paper reveals remarkable similarities between the two models. It also clarifies what implications Nietzsche drew from his description of human psychology and the perspective changes these entail for understanding ourselves..."]
+      },
+      {
+        "title": "Young children with autism can generate intent-based moral judgments",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Francesco Margoni", "Giulia Guglielmetti", "Luca Surian"],
+        "abstract": ["Past research suggested that, due to difficulties in mentalistic reasoning, individuals with autism tend to base their moral judgments on the outcome of agents’ actions rather than on agents’ intentions. In a novel task, aimed at reducing the processing demands required to represent intentions and generate a judgment, autistic children were present..."]
+      },
+      {
+        "title": "The influence of agents’ negligence in shaping younger and older adults’ moral judgment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Francesco Margoni", "Janet Geipel", "Constantinos Hadjichristidis", "Luca Surian"],
+        "abstract": ["This study examined age-related differences in the use of negligence information in moral judgment. A group of younger adults (18–36 years) and a group of older adults (75–98 years) were presented with a series of scenarios illustrating cases where an agent unintentionally causes harm. The scenarios also specified whether or not the agent acted wit..."]
+      },
+      {
+        "title": "Il bambino di Platone (Plato's baby)",
+        "tags": ["Book", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Francesco Margoni"],
+        "abstract": ["Mosso da spinte biologiche e vincolato da norme sociali stabilite culturalmente, l’essere umano rappresenta un oggetto di studio affascinante e complesso. Oggi, lo sforzo collaborativo di molti ricercatori impegnati nello studio della psicologia umana permette di affrontare con rigore scientifico un ambito di conoscenza, temi e questioni di profond..."]
+      },
+      {
+        "title": "Come distinguere tra diverse forme del senso di colpa?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Francesco Margoni"],
+        "abstract": []
+      },
+      {
+        "title": "Moral Judgment in Old Age: Evidence for an Intent-to-Outcome Shift",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Francesco Margoni", "Janet Geipel", "Constantinos Hadjichristidis", "Luca Surian"],
+        "abstract": ["Younger (21-39 years) and older (63-90 years) adults were presented with scenarios\nillustrating either harmful or helpful actions. Each scenario provided information about\nthe agent's intention, either neutral or valenced (harmful/helpful), and the outcome of\nhis or her action, either neutral or valenced. Participants were asked to rate how\nmorally..."]
+      },
+      {
+        "title": "L'acquisizione del giudizio morale basato sulle intenzioni nei bambini con sviluppo tipico o con autismo",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Francesco Margoni", "Lisa Scarpa", "Luca Surian"],
+        "abstract": ["We review the literature on children’s growing sensitivity to intention in\nattributing moral qualities, both in typical and atypical development. A large number of\nstudies show that, although an early capacity to assess intentions is already present in infancy,\nonly by the age of five-six children’s moral judgments rely more on intention than on\nex..."]
+      },
+      {
+        "title": "The emergence of sensitivity to biocentric intentions in preschool children",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["For the first time, we assessed 5-year-old children's choices between two different ways of extending ethics to natural entities: the anthropocentric and the biocentric views. For the former, nature has to be preserved because it helps humans' interests, for the latter it has to be preserved because of its intrinsic value. Children evaluated the mo..."]
+      },
+      {
+        "title": "Children's intention-based moral judgments of helping agents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["During preschool years, children's disapprovals of harming actions increasingly rely on intention rather than outcome. Here we studied for the first time whether a similar outcome-to-intent shift occurs in judgments of helping actions. Children aged four-to-eight (N = 404) were asked to evaluate the goodness and deserved reward of attempted and acc..."]
+      },
+      {
+        "title": "Mental State Understanding and Moral Judgment in Children with Autistic Spectrum Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["Do children with autistic spectrum disorder (ASD) develop the ability to take into account an agent's mental states when they are judging the morality of his or her actions? The present article aims to answer this question by reviewing recent evidence on moral reasoning on children with autism and typical development. A basic moral judgment (e.g.,..."]
+      },
+      {
+        "title": "Explaining the U-Shaped Development of Intent-Based Moral Judgments",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Francesco Margoni", "Luca Surian"],
+        "abstract": ["When preschoolers evaluate actions and agents, they typically neglect agents’ intentions and focus on action outcomes instead. By contrast, intentions count much more than outcomes for older children and adults. This phenomenon has traditionally been seen as evidence of a developmental change in children’s concept of what is morally good and bad. H..."]
+      }
+    ],
+    "degree": ["PhD", "in", "Developmental", "Psychology"],
+    "bio": "Francesco currently works at the University of Stavanger (Norway). He does research in developmental, cognitive, and social psychology.",
+    "publications": [42],
+    "reads": [16959],
+    "citations": [469]
   }
 }

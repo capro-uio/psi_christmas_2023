@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Vegard Skirbekk",
-    "id": "OZOgxGEAAAAJ",
-    "affiliation": "Professor, Columbia University; Center for Fertility and Health,Norwegian Institute of Public …",
+    "name": ["Vegard Skirbekk"],
+    "id": ["OZOgxGEAAAAJ"],
+    "affiliation": ["Professor, Columbia University; Center for Fertility and Health,Norwegian Institute of Public …"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-1647-3246",
-    "name": "Vegard Skirbekk",
+    "orcid": ["0000-0002-1647-3246"],
+    "name": ["Vegard Skirbekk"],
     "distinctions": [],
     "education": [
       {
@@ -965,8 +965,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Vegard Fykse Skirbekk",
-    "id": "580029",
+    "name": ["Vegard Fykse Skirbekk"],
+    "id": ["580029"],
     "keywords": [],
     "position": ["Professor", "Senior Research Scientist", "Researcher"],
     "img": {},
@@ -1641,5 +1641,15 @@
         "url": "https://api.cristin.no/v2/results/2125977"
       }
     ]
+  },
+  "rg": {
+    "id": "Aurora-Fykse",
+    "name": "Aurora Fykse",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Bergen | UiB, University of Bergen, Department of Comparative Politics",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

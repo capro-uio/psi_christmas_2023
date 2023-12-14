@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0000-8253-8530",
-    "name": "Lilian Mayerhofer",
+    "orcid": ["0009-0000-8253-8530"],
+    "name": ["Lilian Mayerhofer"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Lilian Juliane Kozlowski Mayerhofer",
-    "id": "1318603",
+    "name": ["Lilian Juliane Kozlowski Mayerhofer"],
+    "id": ["1318603"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -41,15 +41,15 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Wellbeing and illbeing in women exposed to physical and sexual violence: A population based longitudinal study.",
-        "journal": "OSF Preprints",
-        "url": "https://api.cristin.no/v2/results/2201635"
+        "url": "https://api.cristin.no/v2/results/2201635",
+        "journal": "OSF Preprints"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Anxiety and depression in expectant parents: ART versus spontaneous conception",
-        "journal": "Human Reproduction",
-        "url": "https://api.cristin.no/v2/results/2176938"
+        "url": "https://api.cristin.no/v2/results/2176938",
+        "journal": "Human Reproduction"
       },
       {
         "type": "Academic lecture",
@@ -58,5 +58,15 @@
         "url": "https://api.cristin.no/v2/results/2076939"
       }
     ]
+  },
+  "rg": {
+    "id": "Honisch_Juliane",
+    "name": "Honisch Juliane",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "EHEDG, Secretariat",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

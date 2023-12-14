@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Thomas Wolfers",
-    "id": "KJaA3sEAAAAJ",
-    "affiliation": "University of Tübingen",
+    "name": ["Thomas Wolfers"],
+    "id": ["KJaA3sEAAAAJ"],
+    "affiliation": ["University of Tübingen"],
     "data": {
       "publications": [
         {
@@ -1141,8 +1141,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-7124-338X",
-    "name": "Thomas Wolfers",
+    "orcid": ["0000-0002-7124-338X"],
+    "name": ["Thomas Wolfers"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1153,8 +1153,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Thomas Wolfers",
-    "id": "1160749",
+    "name": ["Thomas Wolfers"],
+    "id": ["1160749"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -1313,5 +1313,15 @@
         "url": "https://api.cristin.no/v2/results/1844872"
       }
     ]
+  },
+  "rg": {
+    "id": "Joanna-Thomas-Thomas",
+    "name": "Joanna Thomas Thomas",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Macquarie University, Faculty of Medicine and Health Sciences",
+    "keywords": ["Cardiovascular Surgery"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

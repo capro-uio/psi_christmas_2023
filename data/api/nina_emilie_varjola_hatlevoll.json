@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Nina Emilie Varjola Hatlevoll",
-    "id": "1452660",
+    "name": ["Nina Emilie Varjola Hatlevoll"],
+    "id": ["1452660"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
@@ -15,5 +15,15 @@
         "url": "https://api.cristin.no/v2/results/2178594"
       }
     ]
+  },
+  "rg": {
+    "id": "Nina-Emilie-Hatlevoll",
+    "name": "Nina Emilie Hatlevoll",
+    "img": "https://i1.rgstatic.net/ii/profile.image/743189715615746-1554201644278_Q128/Nina-Emilie-Hatlevoll.jpg",
+    "affiliation": "University of Oslo, nordisk språk",
+    "keywords": ["Applied Linguistics"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

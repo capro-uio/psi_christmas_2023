@@ -2,11 +2,32 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Evita Willemiek van Duin",
-    "id": "1465396",
+    "name": ["Evita Willemiek van Duin"],
+    "id": ["1465396"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Willemiek-Van-Den-Oever-2",
+    "name": "Willemiek van den Oever",
+    "img": "https://i1.rgstatic.net/ii/profile.image/860600624226305-1582194586101_Q128/Willemiek-Van-Den-Oever-2.jpg",
+    "affiliation": "Hogeschool Arnhem and Nijmegen | HAN, Hogeschool Arnhem and Nijmegen, Informatics and Communication Academy ICA",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Blending into the White Box of the Art Museum",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Vera Lange", "Ido Iurgel", "René Ronald Bakker", "Tonguc Ibrahim Sezen"],
+        "abstract": "Mixed reality applications can enrich museum exhibits and make them more attractive to an audience of adolescents. However, in the design of such applications, we face a myriad of possibilities and little guidance on how to choose between (early) alternatives. In this paper, we explore the notion of experience blend - which could act as an aestheti..."
+      }
+    ],
+    "degree": ["master", "kunsteducatie", "AHK"],
+    "bio": [],
+    "publication": [1],
+    "reads": [203],
+    "citations": [5]
   }
 }

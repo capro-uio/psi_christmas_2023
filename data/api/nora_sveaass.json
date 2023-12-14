@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Nora Sveaass",
-    "id": "LH_86ZIAAAAJ",
-    "affiliation": "Associate professor, University of Oslo",
+    "name": ["Nora Sveaass"],
+    "id": ["LH_86ZIAAAAJ"],
+    "affiliation": ["Associate professor, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -865,11 +865,11 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Nora Sveaass",
-    "id": "19099",
+    "name": ["Nora Sveaass"],
+    "id": ["19099"],
     "keywords": [],
     "position": ["Emeritus", "University college instructor/student teacher"],
-    "img": "https://api.cristin.no/v2/persons/19099/picture",
+    "img": ["https://api.cristin.no/v2/persons/19099/picture"],
     "works": [
       {
         "type": "Programme participation",
@@ -879,16 +879,16 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2159335",
         "title": "Protocol on medico-legal documentation of solitary confinement",
-        "journal": "Journal on Rehabilitation of Torture Victims and Prevention of Torture",
-        "url": "https://api.cristin.no/v2/results/2159335"
+        "journal": "Journal on Rehabilitation of Torture Victims and Prevention of Torture"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2117171",
         "title": "The Committee Against Torture tackles violence against women: A conceptual and political journey",
-        "journal": "Journal on Rehabilitation of Torture Victims and Prevention of Torture",
-        "url": "https://api.cristin.no/v2/results/2117171"
+        "journal": "Journal on Rehabilitation of Torture Victims and Prevention of Torture"
       },
       {
         "type": "Report",
@@ -898,9 +898,9 @@
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1945766",
         "title": "Interprofessional education on complex patients in nursing homes: a focus group study",
-        "journal": "BMC Medical Education",
-        "url": "https://api.cristin.no/v2/results/1945766"
+        "journal": "BMC Medical Education"
       },
       {
         "type": "Poster",
@@ -915,51 +915,51 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2020",
-        "title": "Early assessment of mental health and options for documentation of torture in newly arrived asylum seekers",
-        "url": "https://api.cristin.no/v2/results/1880845"
+        "url": "https://api.cristin.no/v2/results/1880845",
+        "title": "Early assessment of mental health and options for documentation of torture in newly arrived asylum seekers"
       },
       {
         "type": "Chapter",
         "year": "2020",
-        "title": "Psychological torture",
-        "url": "https://api.cristin.no/v2/results/1880842"
+        "url": "https://api.cristin.no/v2/results/1880842",
+        "title": "Psychological torture"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2020",
-        "title": "Human Rights: How do they matter for the Profession of Psychology",
-        "url": "https://api.cristin.no/v2/results/1880841"
+        "url": "https://api.cristin.no/v2/results/1880841",
+        "title": "Human Rights: How do they matter for the Profession of Psychology"
       },
       {
         "type": "Non-fiction book",
         "year": "2020",
-        "title": "Human Rights Education for Psychologists ",
-        "url": "https://api.cristin.no/v2/results/1880840"
+        "url": "https://api.cristin.no/v2/results/1880840",
+        "title": "Human Rights Education for Psychologists "
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2020",
-        "title": "Human Rights: A Psychologist’s Path to “Do no Harm”",
-        "url": "https://api.cristin.no/v2/results/1880839"
+        "url": "https://api.cristin.no/v2/results/1880839",
+        "title": "Human Rights: A Psychologist’s Path to “Do no Harm”"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2020",
-        "title": "Supporting refugee family reunification in exile",
-        "url": "https://api.cristin.no/v2/results/1880562"
+        "url": "https://api.cristin.no/v2/results/1880562",
+        "title": "Supporting refugee family reunification in exile"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "journal": "Nordic Journal of Studies in Policing (NJSP)",
-        "url": "https://api.cristin.no/v2/results/1879111"
+        "url": "https://api.cristin.no/v2/results/1879111",
+        "journal": "Nordic Journal of Studies in Policing (NJSP)"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1853203",
         "title": "‘Discuss it with your legal guardian’: Challenges in practising care for young unaccompanied refugee minors",
-        "journal": "Child & Family Social Work",
-        "url": "https://api.cristin.no/v2/results/1853203"
+        "journal": "Child & Family Social Work"
       },
       {
         "type": "Chapter",
@@ -979,16 +979,16 @@
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1741065",
         "title": "The Human Rights Committee at the Norwegian Psychological Association: 20 Years of Work and Future Challenges",
-        "journal": "European Psychologist",
-        "url": "https://api.cristin.no/v2/results/1741065"
+        "journal": "European Psychologist"
       },
       {
         "type": "Academic article",
         "year": "2018",
+        "url": "https://api.cristin.no/v2/results/1578764",
         "title": "Rehabilitation in Article 14 of the Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment",
-        "journal": "The International Lawyer",
-        "url": "https://api.cristin.no/v2/results/1578764"
+        "journal": "The International Lawyer"
       },
       {
         "type": "Lecture",
@@ -998,14 +998,14 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2017",
-        "title": "Do No Harm? How Psychologists Have\r\nSupported Torture and What to Do About It",
-        "url": "https://api.cristin.no/v2/results/1561611"
+        "url": "https://api.cristin.no/v2/results/1561611",
+        "title": "Do No Harm? How Psychologists Have\r\nSupported Torture and What to Do About It"
       },
       {
         "type": "Lecture",
         "year": "2017",
-        "title": "Presenting: Mental health and gender-based violence: \r\nHelping survivors of sexual violence in conflict. – a training Manual for helpers\r\n\r\n",
-        "url": "https://api.cristin.no/v2/results/1559257"
+        "url": "https://api.cristin.no/v2/results/1559257",
+        "title": "Presenting: Mental health and gender-based violence: \r\nHelping survivors of sexual violence in conflict. – a training Manual for helpers\r\n\r\n"
       },
       {
         "type": "Lecture",
@@ -1035,63 +1035,63 @@
       {
         "type": "Lecture",
         "year": "2017",
-        "title": "The Global Refugee Crisis. How do we confront the disaster and how has it shaped the public discourses regarding refugees and migration?",
-        "url": "https://api.cristin.no/v2/results/1553378"
+        "url": "https://api.cristin.no/v2/results/1553378",
+        "title": "The Global Refugee Crisis. How do we confront the disaster and how has it shaped the public discourses regarding refugees and migration?"
       },
       {
         "type": "Lecture",
         "year": "2017",
-        "title": "Forced migration, mental health and vulnerability. Obligations of states to prevent ill-treatment and ensure identification and follow up of vulnerable migrants.",
-        "url": "https://api.cristin.no/v2/results/1553377"
+        "url": "https://api.cristin.no/v2/results/1553377",
+        "title": "Forced migration, mental health and vulnerability. Obligations of states to prevent ill-treatment and ensure identification and follow up of vulnerable migrants."
       },
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Responses to refugee crisis and questioning international obligations",
-        "url": "https://api.cristin.no/v2/results/1553375"
+        "url": "https://api.cristin.no/v2/results/1553375",
+        "title": "Responses to refugee crisis and questioning international obligations"
       },
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Sexual violence in an international perspective - the important challenges for psychologists",
-        "url": "https://api.cristin.no/v2/results/1553374"
+        "url": "https://api.cristin.no/v2/results/1553374",
+        "title": "Sexual violence in an international perspective - the important challenges for psychologists"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2017",
-        "title": "The United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment: The absolute Prohibition and the Obligation to Prevent",
-        "url": "https://api.cristin.no/v2/results/1528079"
+        "url": "https://api.cristin.no/v2/results/1528079",
+        "title": "The United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment: The absolute Prohibition and the Obligation to Prevent"
       },
       {
         "type": "Feature article",
         "year": "2017",
-        "journal": "www.nrk.no/ytring",
-        "url": "https://api.cristin.no/v2/results/1516159"
+        "url": "https://api.cristin.no/v2/results/1516159",
+        "journal": "www.nrk.no/ytring"
       },
       {
         "type": "Academic literature review",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1505265",
         "title": "The preventive approach: OPCAT and the prevention of violence and abuse of persons with mental disabilities by monitoring places of detention",
-        "journal": "International Journal of Law and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1505265"
+        "journal": "International Journal of Law and Psychiatry"
       },
       {
         "type": "Reader opinion piece",
         "year": "2017",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1446635"
+        "url": "https://api.cristin.no/v2/results/1446635",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Reader opinion piece",
         "year": "2016",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/1949907"
+        "url": "https://api.cristin.no/v2/results/1949907",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "Unaccompanied minors: Conditions for development in exile",
-        "url": "https://api.cristin.no/v2/results/1949868"
+        "url": "https://api.cristin.no/v2/results/1949868",
+        "title": "Unaccompanied minors: Conditions for development in exile"
       },
       {
         "type": "Non-fiction book",
@@ -1101,28 +1101,28 @@
       {
         "type": "Academic article",
         "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1330505",
         "title": "Dealing With the past: Survivors of severe human rights abuses and their perspectives on economic reparations in Argentina.",
-        "journal": "International Perspectives in Psychology: Research, Practice, Consultation",
-        "url": "https://api.cristin.no/v2/results/1330505"
+        "journal": "International Perspectives in Psychology: Research, Practice, Consultation"
       },
       {
         "type": "Feature article",
         "year": "2015",
-        "journal": "Dagsavisen",
-        "url": "https://api.cristin.no/v2/results/1327865"
+        "url": "https://api.cristin.no/v2/results/1327865",
+        "journal": "Dagsavisen"
       },
       {
         "type": "Academic article",
         "year": "2014",
+        "url": "https://api.cristin.no/v2/results/934819",
         "title": "The role of trauma and psychological distress on motivation for foreign language acquisition among refugees",
-        "journal": "International Journal of Culture and Mental Health",
-        "url": "https://api.cristin.no/v2/results/934819"
+        "journal": "International Journal of Culture and Mental Health"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2014",
-        "title": "Refugees and healthcare in Norway : historical view and critival perspectives",
-        "url": "https://api.cristin.no/v2/results/1231713"
+        "url": "https://api.cristin.no/v2/results/1231713",
+        "title": "Refugees and healthcare in Norway : historical view and critival perspectives"
       },
       {
         "type": "Lecture",
@@ -1132,50 +1132,50 @@
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "Challenges when researching on human rights abuses, survivors and their right to justice",
-        "url": "https://api.cristin.no/v2/results/1214024"
+        "url": "https://api.cristin.no/v2/results/1214024",
+        "title": "Challenges when researching on human rights abuses, survivors and their right to justice"
       },
       {
         "type": "Lecture",
         "year": "2014",
-        "title": "What do victims expect from Monitoring bodies and Courts? Focusing on victims and the work and mandate of the UN Committee against Torture",
-        "url": "https://api.cristin.no/v2/results/1214019"
+        "url": "https://api.cristin.no/v2/results/1214019",
+        "title": "What do victims expect from Monitoring bodies and Courts? Focusing on victims and the work and mandate of the UN Committee against Torture"
       },
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "Psychology, Ethics and Human Rights: Psychologists' contribution in the field of human rights through monitoring, reporting and advocacy",
-        "url": "https://api.cristin.no/v2/results/1214008"
+        "url": "https://api.cristin.no/v2/results/1214008",
+        "title": "Psychology, Ethics and Human Rights: Psychologists' contribution in the field of human rights through monitoring, reporting and advocacy"
       },
       {
         "type": "Academic anthology/Conference proceedings",
         "year": "2014",
-        "title": "Refugees and health care in Norway: Historical view and critical perspective",
-        "url": "https://api.cristin.no/v2/results/1213962"
+        "url": "https://api.cristin.no/v2/results/1213962",
+        "title": "Refugees and health care in Norway: Historical view and critical perspective"
       },
       {
         "type": "Academic anthology/Conference proceedings",
         "year": "2014",
-        "title": "Ensuring redress for torture survivors: A national and international challenge for mental health professionals",
-        "url": "https://api.cristin.no/v2/results/1213960"
+        "url": "https://api.cristin.no/v2/results/1213960",
+        "title": "Ensuring redress for torture survivors: A national and international challenge for mental health professionals"
       },
       {
         "type": "Academic anthology/Conference proceedings",
         "year": "2014",
-        "title": "Surviving gross human rights violations: exploring survivors’ experience of justice and reparation. A global perspective",
-        "url": "https://api.cristin.no/v2/results/1213958"
+        "url": "https://api.cristin.no/v2/results/1213958",
+        "title": "Surviving gross human rights violations: exploring survivors’ experience of justice and reparation. A global perspective"
       },
       {
         "type": "Non-fiction book",
         "year": "2014",
-        "title": "Mental Health and gender-based violence: Helping Survivors of sexual violence in conflict - a training manual",
-        "url": "https://api.cristin.no/v2/results/1174675"
+        "url": "https://api.cristin.no/v2/results/1174675",
+        "title": "Mental Health and gender-based violence: Helping Survivors of sexual violence in conflict - a training manual"
       },
       {
         "type": "Popular scientific article",
         "year": "2013",
-        "journal": "Impuls : Tidsskrift for psykologi",
-        "url": "https://api.cristin.no/v2/results/1951341"
+        "url": "https://api.cristin.no/v2/results/1951341",
+        "journal": "Impuls : Tidsskrift for psykologi"
       },
       {
         "type": "Interview",
@@ -1185,26 +1185,26 @@
       {
         "type": "Academic lecture",
         "year": "2013",
-        "title": "Transitional justice in Peru and Argentina",
-        "url": "https://api.cristin.no/v2/results/1107750"
+        "url": "https://api.cristin.no/v2/results/1107750",
+        "title": "Transitional justice in Peru and Argentina"
       },
       {
         "type": "Lecture",
         "year": "2013",
-        "title": "Human Rights and Justice based Redress and Rehabilitation for Torture Survivors",
-        "url": "https://api.cristin.no/v2/results/1107743"
+        "url": "https://api.cristin.no/v2/results/1107743",
+        "title": "Human Rights and Justice based Redress and Rehabilitation for Torture Survivors"
       },
       {
         "type": "Academic lecture",
         "year": "2013",
-        "title": "Reparation after gross human rights violations – on rights, challenges and ways ahead: - focusing on what health professionals can do to contribute to redress",
-        "url": "https://api.cristin.no/v2/results/1107737"
+        "url": "https://api.cristin.no/v2/results/1107737",
+        "title": "Reparation after gross human rights violations – on rights, challenges and ways ahead: - focusing on what health professionals can do to contribute to redress"
       },
       {
         "type": "Lecture",
         "year": "2013",
-        "title": "Human rights and ethic - challenges for psychologists",
-        "url": "https://api.cristin.no/v2/results/1107735"
+        "url": "https://api.cristin.no/v2/results/1107735",
+        "title": "Human rights and ethic - challenges for psychologists"
       },
       {
         "type": "Lecture",
@@ -1214,36 +1214,36 @@
       {
         "type": "Lecture",
         "year": "2013",
-        "title": "Rehabilitation under the convention against torture",
-        "url": "https://api.cristin.no/v2/results/1107727"
+        "url": "https://api.cristin.no/v2/results/1107727",
+        "title": "Rehabilitation under the convention against torture"
       },
       {
         "type": "Academic article",
         "year": "2013",
+        "url": "https://api.cristin.no/v2/results/1027748",
         "title": "Gross human rights violations and reparation under international law: approaching rehabilitation as a form of reparation",
-        "journal": "European Journal of Psychotraumatology",
-        "url": "https://api.cristin.no/v2/results/1027748"
+        "journal": "European Journal of Psychotraumatology"
       },
       {
         "type": "Book review",
         "year": "2012",
+        "url": "https://api.cristin.no/v2/results/999019",
         "title": "The political psychology of war rape: studies from Bosnia and Herzegovina",
-        "journal": "NOREF",
-        "url": "https://api.cristin.no/v2/results/999019"
+        "journal": "NOREF"
       },
       {
         "type": "Abstract",
         "year": "2012",
+        "url": "https://api.cristin.no/v2/results/985695",
         "title": "Court trials after gross human rights violations: Reflections on the roles of people affected by state violence",
-        "journal": "International Journal of Psychology (IJP)",
-        "url": "https://api.cristin.no/v2/results/985695"
+        "journal": "International Journal of Psychology (IJP)"
       },
       {
         "type": "Abstract",
         "year": "2012",
+        "url": "https://api.cristin.no/v2/results/983755",
         "title": "Surviving gross human rights violations - exploring survivors' experience of justice and reparation",
-        "journal": "International Journal of Psychology (IJP)",
-        "url": "https://api.cristin.no/v2/results/983755"
+        "journal": "International Journal of Psychology (IJP)"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1253,38 +1253,38 @@
       {
         "type": "Reader opinion piece",
         "year": "2012",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1004662"
+        "url": "https://api.cristin.no/v2/results/1004662",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "journal": "Fokus på familien",
-        "url": "https://api.cristin.no/v2/results/967838"
+        "url": "https://api.cristin.no/v2/results/967838",
+        "journal": "Fokus på familien"
       },
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "Reparation after torture - challenges for psychologists",
-        "url": "https://api.cristin.no/v2/results/898398"
+        "url": "https://api.cristin.no/v2/results/898398",
+        "title": "Reparation after torture - challenges for psychologists"
       },
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "Human rights and rehabilitation - rights under the convention against torture",
-        "url": "https://api.cristin.no/v2/results/898393"
+        "url": "https://api.cristin.no/v2/results/898393",
+        "title": "Human rights and rehabilitation - rights under the convention against torture"
       },
       {
         "type": "Popular scientific article",
         "year": "2011",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/898388"
+        "url": "https://api.cristin.no/v2/results/898388",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "Rehabilitation as form of Reparation under International Law",
-        "url": "https://api.cristin.no/v2/results/898371"
+        "url": "https://api.cristin.no/v2/results/898371",
+        "title": "Rehabilitation as form of Reparation under International Law"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1294,14 +1294,14 @@
       {
         "type": "Encyclopedia article",
         "year": "2011",
-        "title": "Trauma: Individual and group",
-        "url": "https://api.cristin.no/v2/results/898357"
+        "url": "https://api.cristin.no/v2/results/898357",
+        "title": "Trauma: Individual and group"
       },
       {
         "type": "Popular scientific article",
         "year": "2011",
-        "journal": "Fokus på familien",
-        "url": "https://api.cristin.no/v2/results/880281"
+        "url": "https://api.cristin.no/v2/results/880281",
+        "journal": "Fokus på familien"
       },
       {
         "type": "Report",
@@ -1321,9 +1321,9 @@
       {
         "type": "Academic article",
         "year": "2010",
+        "url": "https://api.cristin.no/v2/results/527753",
         "title": "Living in exile when disaster strikes at home",
-        "journal": "Journal on Rehabilitation of Torture Victims and Prevention of Torture",
-        "url": "https://api.cristin.no/v2/results/527753"
+        "journal": "Journal on Rehabilitation of Torture Victims and Prevention of Torture"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1333,14 +1333,14 @@
       {
         "type": "Editorial",
         "year": "2009",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/490030"
+        "url": "https://api.cristin.no/v2/results/490030",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2009",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/341123"
+        "url": "https://api.cristin.no/v2/results/341123",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Report",
@@ -1355,8 +1355,8 @@
       {
         "type": "Popular scientific chapter/article",
         "year": "2007",
-        "title": "Torture - a Crime against Humanity",
-        "url": "https://api.cristin.no/v2/results/528189"
+        "url": "https://api.cristin.no/v2/results/528189",
+        "title": "Torture - a Crime against Humanity"
       },
       {
         "type": "Report",
@@ -1366,8 +1366,8 @@
       {
         "type": "Academic article",
         "year": "2006",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/528165"
+        "url": "https://api.cristin.no/v2/results/528165",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Report",
@@ -1387,41 +1387,41 @@
       {
         "type": "Academic article",
         "year": "2002",
-        "journal": "Nordisk Psykologi: teori, forskning, praksis",
-        "url": "https://api.cristin.no/v2/results/528211"
+        "url": "https://api.cristin.no/v2/results/528211",
+        "journal": "Nordisk Psykologi: teori, forskning, praksis"
       },
       {
         "type": "Academic article",
         "year": "2001",
+        "url": "https://api.cristin.no/v2/results/439039",
         "title": "Engaging Refugee Families in Therapy: Exploring the Benefits of Including Referring Professionals i First Family Interviews",
-        "journal": "Family Process",
-        "url": "https://api.cristin.no/v2/results/439039"
+        "journal": "Family Process"
       },
       {
         "type": "Academic article",
         "year": "2001",
+        "url": "https://api.cristin.no/v2/results/439038",
         "title": "Refugee families in therapy: from referrals to therapeutic conversations",
-        "journal": "Journal of Family Therapy",
-        "url": "https://api.cristin.no/v2/results/439038"
+        "journal": "Journal of Family Therapy"
       },
       {
         "type": "Academic article",
         "year": "2000",
+        "url": "https://api.cristin.no/v2/results/442397",
         "title": "Psychological work in a postwar context",
-        "journal": "Community, Work and Family",
-        "url": "https://api.cristin.no/v2/results/442397"
+        "journal": "Community, Work and Family"
       },
       {
         "type": "Doctoral dissertation",
         "year": "2000",
-        "title": "Reconstructing meaning after uprooting and violence.Psychosocial interventions in refugee receiving and post-conflict societies",
-        "url": "https://api.cristin.no/v2/results/301916"
+        "url": "https://api.cristin.no/v2/results/301916",
+        "title": "Reconstructing meaning after uprooting and violence.Psychosocial interventions in refugee receiving and post-conflict societies"
       },
       {
         "type": "Popular scientific article",
         "year": "1999",
-        "journal": "Linjer",
-        "url": "https://api.cristin.no/v2/results/470802"
+        "url": "https://api.cristin.no/v2/results/470802",
+        "journal": "Linjer"
       },
       {
         "type": "Academic lecture",
@@ -1431,26 +1431,26 @@
       {
         "type": "Academic lecture",
         "year": "1999",
-        "title": "The creation of meaningful contexts after war and organized violence - two case examples",
-        "url": "https://api.cristin.no/v2/results/140076"
+        "url": "https://api.cristin.no/v2/results/140076",
+        "title": "The creation of meaningful contexts after war and organized violence - two case examples"
       },
       {
         "type": "Academic lecture",
         "year": "1999",
-        "title": "PSYCHOLOGICAL WORK IN A POST-WAR SOCIETY - RELEVANT EXPERIENCES IN A RESETTLEMENT CONTEXT",
-        "url": "https://api.cristin.no/v2/results/140075"
+        "url": "https://api.cristin.no/v2/results/140075",
+        "title": "PSYCHOLOGICAL WORK IN A POST-WAR SOCIETY - RELEVANT EXPERIENCES IN A RESETTLEMENT CONTEXT"
       },
       {
         "type": "Academic lecture",
         "year": "1999",
-        "title": "Challenges in FAMily Conversations with refugees - how to deal with the contradictions and dilemmas we are facing?",
-        "url": "https://api.cristin.no/v2/results/139819"
+        "url": "https://api.cristin.no/v2/results/139819",
+        "title": "Challenges in FAMily Conversations with refugees - how to deal with the contradictions and dilemmas we are facing?"
       },
       {
         "type": "Academic lecture",
         "year": "1999",
-        "title": "Restructuring lives in exile - a family perspective",
-        "url": "https://api.cristin.no/v2/results/139818"
+        "url": "https://api.cristin.no/v2/results/139818",
+        "title": "Restructuring lives in exile - a family perspective"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1458,5 +1458,345 @@
         "url": "https://api.cristin.no/v2/results/77968"
       }
     ]
+  },
+  "rg": {
+    "id": "Nora-Sveaass",
+    "name": "Nora Sveaass",
+    "img": "https://i1.rgstatic.net/ii/profile.image/278621429223425-1443439933116_Q128/Nora-Sveaass.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Family Therapy", "Human Rights"],
+    "works": [
+      {
+        "title": "The politics of torture: legal, social and political dynamics",
+        "tags": ["Chapter"],
+        "date": "Apr 2023",
+        "authors": ["Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "Protocol on medico-legal documentation of solitary confinement",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Marie Brasholt", "Elna Søndergaard", "Nora Sveaass", "Pau Pérez-Sales"],
+        "abstract": ["Introduction: \nThis Protocol originates from a joint project regarding documentation of psychological torture initiated by the Public Committee against Torture in Israel (PCATI), REDRESS and DIGNITY - Danish Institute Against Torture (DIGNITY) in 2015 after the Copenhagen Conference on Psychologi-cal Torture. The project is a vehicle to estab-lish..."]
+      },
+      {
+        "title": "The Committee Against Torture tackles violence against women: A conceptual and political journey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Nora Sveaass", "Felice Gaer"],
+        "abstract": ["In this article, we will examine how the official treaty monitoring body, the Committee against Torture, demonstrated that violenceagainst women was indeed a serious human rights problem that fell squarely within the preview of the Convention against Torture.Because States parties to the Convention are required to report about their compliance with..."]
+      },
+      {
+        "title": "Istanbul Protocol 2022 empowers health professionals to end torture",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Vincent Iacopino", "Rohini J Haar", "Michele Heisler", "Juliet Cohen"],
+        "abstract": []
+      },
+      {
+        "title": "Early assessment of mental health and options for documentation of torture in newly arrived asylum seekers",
+        "tags": ["Chapter"],
+        "date": "Feb 2021",
+        "authors": ["Nora Sveaass", "Birgit Lie"],
+        "abstract": ["This chapter describes experiences regarding early health assessment of persons seeking protection in a new society, and discusses these in relation to existing research. as well as to policies and recommendations from states, academia, and civil-society organizations. Early identification and documentation of torture and other human rights violati..."]
+      },
+      {
+        "title": "Den gode fangen: politiets utlendingskontroll i lys av skjønnsutøvelse og legitimitet",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Danel Hammer", "Helene O.I. Gundhus", "Nora Sveaass"],
+        "abstract": ["Sammendrag\nMigrasjonskontroll har i økende grad blitt del av hverdagen til\nnorsk politi. Observasjoner og intervjuer med polititjenestepersoner\ni et politidistrikt viser at selv om oppdraget for utlendingskontrollen\nvar gitt, åpnet likevel rammevilkårene for forhandling, og at informantene\nkunne følge sine egne motivasjoner. Et sentralt funn er at..."]
+      },
+      {
+        "title": "Rehabilitation in Article 14 of the Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment",
+        "tags": ["Chapter"],
+        "date": "Dec 2020",
+        "authors": ["Nora Sveaass", "Felice Gaer", "Claudio Grossman"],
+        "abstract": []
+      },
+      {
+        "title": "‘Discuss it with your legal guardian’: Challenges in practising care for young unaccompanied refugee minors",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Guro Brokke Omland", "Agnes Andenæs", "Nora Sveaass"],
+        "abstract": ["How is care arranged for unaccompanied refugee minors at residential care institutions , and what kind of conditions do these arrangements constitute for young per-sons' well-being and development? Informed by developmental perspectives that consider young people's development through participation across contexts in everyday life and by research i..."]
+      },
+      {
+        "title": "Human Rights: A Psychologist’s Path to “Do No Harm”",
+        "tags": ["Chapter"],
+        "date": "Oct 2020",
+        "authors": ["Nora Sveaass", "Linda M. Woolf"],
+        "abstract": []
+      },
+      {
+        "title": "Supporting Refugee Family Reunification in Exile",
+        "tags": ["Chapter"],
+        "date": "Aug 2020",
+        "authors": ["Nora Sveaass", "Sissel Reichelt"],
+        "abstract": []
+      },
+      {
+        "title": "Working with Refugee Families: Trauma and Exile in Family Relationships",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Lucia De Haene", "Cécile Rousseau", "Matthew Hodes", "Aoife O'Higgins"],
+        "abstract": ["Cambridge Core - Psychiatry and Clinical Psychology - Working with Refugee Families - edited by Lucia De Haene"]
+      },
+      {
+        "title": "Human rights",
+        "tags": ["Chapter"],
+        "date": "Mar 2020",
+        "authors": ["Nora Sveaass", "Michael Wessells"],
+        "abstract": []
+      },
+      {
+        "title": "Torture and the role of the psychological profession",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Pau Pérez-Sales", "Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "Do No Harm? How Psychologists Have Supported Torture and What to Do About It",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Michael Wessells", "Nora Sveaass", "Donald Foster", "Andrew Dawes"],
+        "abstract": ["Torture is used not only by deranged individuals but by many states, including presumably democratic ones. This chapter examines two cases in point—apartheid South Africa and the US post-9/11—and how to prevent psychologists’ involvement in or support for torture. The South Africa case illustrates how most psychologists failed to speak out against..."]
+      },
+      {
+        "title": "The preventive approach: OPCAT and the prevention of violence and abuse of persons with mental disabilities by monitoring places of detention",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Nora Sveaass", "Victor Madrigal"],
+        "abstract": ["Adopted in December 2002, the United Nations Optional Protocol to the Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment establishes a system of regular visits undertaken by independent international and national bodies to places where people are deprived of their liberty, in order to prevent torture and other..."]
+      },
+      {
+        "title": "Reproductive Freedom, Torture and International Human Rights: Challenging the Masculinization of Torture, By Ronli Sifris",
+        "tags": ["Article"],
+        "date": "Apr 2017",
+        "authors": ["Nora Sveaass"],
+        "abstract": ["The title of the book could not be clearer about its key message. In the words of the author, it aims to “contribute to a feminist conceptualization of international human rights by examining restrictions on reproductive freedom through the lens of the right to be free from torture and CIDT [Cruel, Inhumane or Degrading Treatment]” (p8). Sifris’ bo..."]
+      },
+      {
+        "title": "Dealing With the Past: Survivors’ Perspectives on Economic Reparations in Argentina",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Nora Sveaass", "Anne Margrethe Sønneland"],
+        "abstract": ["The experiences of persons affected by gross human rights violations during the dictatorship in Argentina, with regard to economic reparations for their suffering and losses, were explored. Thirty-seven participants were interviewed, 35 of whom were survivors and/or family members of persons seriously affected by the violence during the period from..."]
+      },
+      {
+        "title": "Mental Health and Gender Based violence - helping Survivors of sexual violence in conflict - a training manual",
+        "tags": ["Book", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Nora Sveaass"],
+        "abstract": ["Training for Trainers - working on mental Health issues in relation to women subjected to sexual violence in conflict"]
+      },
+      {
+        "title": "Refugees and healthcare in Norway: Historical view and critical perspectives",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Birgit Lie", "Nora Sveaass", "Edvard Hauff"],
+        "abstract": []
+      },
+      {
+        "title": "Gross human rights violations and reparation under international law: Approaching rehabilitation as a form of reparation",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Nora Sveaass"],
+        "abstract": ["The strengthening of international criminal law through an increased focus on the right to reparation and rehabilitation for victims of crimes against humanity represents an important challenge to health professionals, particularly to those in the field of trauma research and treatment. A brief outline of some developments in the field of internati..."]
+      },
+      {
+        "title": "The role of trauma and psychological distress on motivation for foreign language acquisition among refugees",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2012",
+        "authors": ["Valentina C Iversen", "Nora Sveaass", "Gunnar Morken"],
+        "abstract": ["As a way of facilitating a positive development with regard to adaptation, all refugees are expected to go through the foreign language training programme as soon as possible after settlement. This is seen as a way to help refugees gain a greater participation in the host society. The current study aimed at evaluating the role of trauma and psychol..."]
+      },
+      {
+        "title": "Familiegjenforening i eksil – en utfordring for familieterapeuter",
+        "tags": ["Article"],
+        "date": "Nov 2011",
+        "authors": ["Nora Sveaass", "Sissel Reichelt"],
+        "abstract": []
+      },
+      {
+        "title": "Det kliniske intervjuet: Bind II. Praksis med ulike klientgrupper",
+        "tags": ["Book"],
+        "date": "Jan 2011",
+        "authors": ["Anna von der Lippe", "Arne Holte", "Per Nerdrum", "Michael Helge Rønnestad"],
+        "abstract": []
+      },
+      {
+        "title": "Gross Human Rights Violations and Reparation: Rehabilitation as a Form of Reparation under International Law - Challenges and Approaches",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "Living in exile when disaster strikes at home",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Signe Hjelen Stige", "Nora Sveaass"],
+        "abstract": ["As the number of migrants,- forced or voluntary,- increases, there is a growing need to understand how negative events in the country of origin influence those residing abroad. This issue has been actualized by the recent earthquakes in Haiti and Chile. Persons in exile have frequently been exposed to severe human rights violations and other stress..."]
+      },
+      {
+        "title": "Destroying Minds: Psychological Pain and the Crime of Torture",
+        "tags": ["Article"],
+        "date": "Jul 2008",
+        "authors": ["Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "The Local Within the Global: Nordic Psychology in a Globalised World",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2006",
+        "authors": ["Peter Elsass", "Nina Forsten-Lindman", "Helena Hurme", "Nora Sveaass"],
+        "abstract": ["Presents a brief history of Nordic Psychology. The journal was created 58 years ago, at a time when there were only a few places where Scandinavian psychologists could have their works published. In the following years, other Scandinavian psychology journals emerged. Gradually, it became clear how evidence-based research came to prevail as a concep..."]
+      },
+      {
+        "title": "The local within the global",
+        "tags": ["Article"],
+        "date": "Apr 2006",
+        "authors": ["Peter Elsass", "Nina Forsten-Lindman", "Helena Hurme", "Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "Med frykt og forventninger i bagasjen – en gjenetablering av tilværelsen i eksil",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "Family, activity, and stress reactions in exile",
+        "tags": ["Article"],
+        "date": "Dec 2004",
+        "authors": ["Birgit Lie", "Nora Sveaass", "Dag Erik Eilertsen"],
+        "abstract": ["The possible protective effect of family and activity (including work and employment training) on posttraumatic reactions in traumatized refugees living in a host society was explored. A total of 966 refugees participated in the study, the majority of whom had been exposed to war and/or torture trauma prior to arrival in Norway. The study sample co..."]
+      },
+      {
+        "title": "Refugee families in therapy: From referrals to therapeutic conversations",
+        "tags": ["Article"],
+        "date": "Dec 2002",
+        "authors": ["Nora Sveaass", "Sissel Reichelt"],
+        "abstract": ["Refugee families referred for therapy present a wide array of problems and expectations, not always in accordance with what therapy may offer. Major differences between referring professionals, families and therapists regarding problem definitions and solutions may complicate collaboration. Interventions that may overcome these barriers and move in..."]
+      },
+      {
+        "title": "Psychotherapeutic alliance - General perspectives and some reflections on alliance in a transcultural therapy relation",
+        "tags": ["Article"],
+        "date": "Apr 2002",
+        "authors": ["Nora Sveaass"],
+        "abstract": ["The therapeutic alliance is often described as a sine qua non in psychotherapy, as this has been developed within our western tradition. What it actually consists of, how it is established and what function it has, is nevertheless an issue of discussion and research. In the present article the concept of therapeutic alliance is explored in relation..."]
+      },
+      {
+        "title": "Kultur & psykologi",
+        "tags": ["Article"],
+        "date": "Apr 2002",
+        "authors": ["P. Elsass", "Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "Culture and psychology",
+        "tags": ["Article"],
+        "date": "Apr 2002",
+        "authors": ["P Elsass", "Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "Engaging Refugee Families in Therapy: Exploring the Benefits of Including Referring Professionals in First Family Interviews*",
+        "tags": ["Article"],
+        "date": "Feb 2001",
+        "authors": ["Nora Sveaass", "Sissel Reichelt"],
+        "abstract": ["The possible benefits of including referring professionals in the first family interviews are being explored as a way to engage refugee families in therapy. Families in exile confront a number of problems related both to premigration traumatic exposures and to present adaptation processes. Refugee clients and the referring professionals in the larg..."]
+      },
+      {
+        "title": "From War Hero to Cripple: An Interview Study on Psychosocial Intervention and Social Reconstruction in Nicaragua",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2000",
+        "authors": ["Nora Sveaass", "Marcia Castillo"],
+        "abstract": ["An interview study among mental-health professionals working with victims of war and violence in postwar Nicaragua suggests that the professionals frame their understanding of problems, methods of interventions, definitions of aims and goals, as well as their professional role, in a sociopolitical context rather than in a clinical or an academic on..."]
+      },
+      {
+        "title": "Psychological work in a post-war context: Experiences from Nicaragua",
+        "tags": ["Article"],
+        "date": "Apr 2000",
+        "authors": ["Nora Sveaass"],
+        "abstract": ["Psychologists and other mental health professionals working with people victimized by the Nicaraguan wars between 1977 and 1989 were interviewed on their experiences eight years after the war ended. The interviews focus upon their descriptions and reflections regarding psychological help to people exposed to war and violence in a post-war context d..."]
+      },
+      {
+        "title": "Psychological Aspects of Human Rights Violations: The Importance of Justice and Reconciliation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2000",
+        "authors": ["Nora Sveaass", "N. J. Lavik"],
+        "abstract": []
+      },
+      {
+        "title": "Therapy with Refugee Families: What Is a “Good” Conversation?",
+        "tags": ["Article"],
+        "date": "Oct 1994",
+        "authors": ["Sissel Reichelt", "Nora Sveaass"],
+        "abstract": ["This article addresses the question of what is a \"good\" conversation by analyzing \"poor\" conversations. During a project on family therapy with refugee families, we often experienced what we labeled as \"poor\" conversations. We present examples of a variety of such conversations, which we then analyze with reference to therapeutic maps and central c..."]
+      },
+      {
+        "title": "Developing Meaningful Conversations with Families in Exile",
+        "tags": ["Article"],
+        "date": "Jan 1994",
+        "authors": ["Sissel Reichelt", "Nora Sveaass"],
+        "abstract": ["A project was conducted by the Psychosocial Centre for Refugees and the Institute of Psychology, both at the University of Oslo, to develop meaningful conversations with refugee families. Families and their helping systems were interviewed with regard to the problem they presented, its effect on those involved, and the solutions envisaged. The main..."]
+      },
+      {
+        "title": "[Psychosocial consequences of organized violence. Experiences from Latin America]",
+        "tags": ["Article"],
+        "date": "Jul 1990",
+        "authors": ["N J Lavik", "Nora Sveaass"],
+        "abstract": ["The health consequences of organized violence are well documented (increasing from many parts of the world). We review experiences reported from Latin-America based on literature, contact with human rights organizations and participation in conferences in (Santiago de) Chile and Costa Rica, with special focus on: the destructive psychosocial influe..."]
+      },
+      {
+        "title": "Psychosocial problems among refugees in Norway",
+        "tags": ["Article"],
+        "date": "Jul 1989",
+        "authors": ["Edvard Hauff", "N. J. Lavik", "C. I. Dahl", "Nora Sveaass"],
+        "abstract": ["172 patients were examined and treated by the Psychosocial Team for Refugees in Norway from 1 January 1986 to 15 November 1988. The patients came from 21 countries, the majority from Iran, Chile and Vietnam. Various reactive conditions dominated the clinical picture, and 53 patients had posttraumatic stress disorder, which was the most frequently o..."]
+      },
+      {
+        "title": "[Clinical experiences with refugees in need of treatment. Reflections on psychosocial problems of people living in exile]",
+        "tags": ["Article"],
+        "date": "Jul 1989",
+        "authors": ["C I Dahl", "Edvard Hauff", "Nora Sveaass", "N J Lavik"],
+        "abstract": ["In the light of experiences from the Psychosocial Team for Refugees in Norway, the authors describe factors of importance for understanding the personal meaning of the exile. We point to the implication of different traumatic events associated with flight and exile, and to the psychosocial consequence of such traumatization. We consider this to be..."]
+      },
+      {
+        "title": "Atferdsterapi i Familier",
+        "tags": ["Article"],
+        "date": "Dec 1978",
+        "authors": ["Nora Sveaass", "Øiving Amilien", "Odd Arne Tjersland"],
+        "abstract": []
+      },
+      {
+        "title": "PAPER PRESENTED AT THE IIIrd INTERNATIONAL CONFERENCE OF CENTRES , INSTITUTIONS AND INDIVIDUALS CONCERNED WITH THE CARE FOR VICTIMS OF ORGANIZED VIOLENCE : HEALTH , POLITICAL REPRESSION AND HUMAN RIGHTS",
+        "tags": ["Article"],
+        "authors": ["Sissel Reichelt", "Nora Sveaass"],
+        "abstract": ["The aim of the project has been to explore ways in which we can create meaningful conversations with refugee families and their helpers . We have found it very useful to include parts of the helping systems surrounding the families, as they often represent central parts of the presented problems , and often are the agents by whom family- conversati..."]
+      },
+      {
+        "title": "Panel 3: Transparency and Access of Independent Experts to All Places of Detention: Health-Related Considerations",
+        "tags": ["Article"],
+        "authors": ["Nora Sveaass"],
+        "abstract": []
+      },
+      {
+        "title": "Panel II: Ensuring Reparations for Victims of Torture and Other Ill-Treatment",
+        "tags": ["Article"],
+        "authors": ["Claudio Grossman", "Christopher Keith Hall", "Juan Mén", "Nora Sveaass"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [47],
+    "reads": [18147],
+    "citations": [274]
   }
 }

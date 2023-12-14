@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Stine Kleppe Krogsrud",
-    "id": "R7oJDw4AAAAJ",
-    "affiliation": "University of Oslo, Centre for Lifespan Changes in Brain and Cognition",
+    "name": ["Stine Kleppe Krogsrud"],
+    "id": ["R7oJDw4AAAAJ"],
+    "affiliation": ["University of Oslo, Centre for Lifespan Changes in Brain and Cognition"],
     "data": {
       "publications": [
         {
@@ -228,8 +228,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-8402-3688",
-    "name": "Stine Kleppe Krogsrud",
+    "orcid": ["0000-0001-8402-3688"],
+    "name": ["Stine Kleppe Krogsrud"],
     "distinctions": [],
     "education": [
       {
@@ -287,8 +287,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Stine Kleppe Krogsrud",
-    "id": "404407",
+    "name": ["Stine Kleppe Krogsrud"],
+    "id": ["404407"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -430,5 +430,201 @@
         "url": "https://api.cristin.no/v2/results/1065152"
       }
     ]
+  },
+  "rg": {
+    "id": "Laurel-Kleppe",
+    "name": "Laurel Kleppe",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Mayo Foundation for Medical Education and Research | MMS, Mayo Foundation for Medical Education and Research, Department of Cardiovascular Diseases",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Cell Surface Protein Disulfide Isomerase Regulates Natriuretic Peptide Generation of Cyclic Guanosine Monophosphate",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Shuchong Pan", "Horng H Chen", "Cristina Correia", "Robert D Simari"],
+        "abstract": ["The family of natriuretic peptides (NPs), including atrial natriuretic peptide (ANP), B-type natriuretic peptide (BNP), and C-type natriuretic peptide (CNP), exert important and diverse actions for cardiovascular and renal homeostasis. The autocrine and paracrine functions of the NPs are primarily mediated through the cellular membrane bound guanyl..."]
+      },
+      {
+        "title": "Characterization of a Resident Population of Adventitial Macrophage Progenitor Cells in Postnatal Vasculature",
+        "tags": ["Article"],
+        "date": "Jun 2014",
+        "authors": ["Peter J Psaltis", "Amrutesh S Puranik", "Daniel Spoon", "Robert D Simari"],
+        "abstract": ["Macrophages regulate blood vessel structure and function in health and disease. The origins of tissue macrophages are diverse, with evidence for local production and circulatory renewal. We identified a vascular adventitial population containing macrophage progenitor cells and investigated their origins and fate. Single-cell disaggregates from adul..."]
+      },
+      {
+        "title": "Tissue Factor Pathway Inhibitor Blocks Angiogenesis via Its Carboxyl Terminus",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Eric W Holroyd", "Sinny Delacroix", "Katarina Larsen", "Robert D Simari"],
+        "abstract": ["Tissue factor pathway inhibitor (TFPI) is the primary regulator of the tissue factor (TF) coagulation pathway. As such, TFPI may regulate the proangiogenic effects of TF. TFPI may also affect angiogenesis independently of TF, through sequences within its polybasic carboxyl terminus (TFPI C terminus [TFPIct]). We aimed to determine the effects of TF..."]
+      },
+      {
+        "title": "Identification of a Monocyte-Predisposed Hierarchy of Hematopoietic Progenitor Cells in the Adventitia of Postnatal Murine Aorta",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Peter J Psaltis", "Adriana Harbuzariu", "Sinny Delacroix", "Robert D Simari"],
+        "abstract": ["Hematopoiesis originates from the dorsal aorta during embryogenesis. Although adult blood vessels harbor progenitor populations for endothelial and smooth muscle cells, it is not known if they contain hematopoietic progenitor or stem cells. Here, we hypothesized that the arterial wall is a source of hematopoietic progenitor and stem cells in postna..."]
+      },
+      {
+        "title": "NPR-B Expression In Megakaryocytes and Platelets",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Sinny Delacroix", "Brian J Boylan", "Adriana Harbuzariu", "Robert D Simari"],
+        "abstract": ["4319\nC-type natriuretic peptide (CNP) is known to exert pleiotropic effects on a variety of cell types through binding to its receptor, natriuretic peptide receptor type B (NPR-B) and activation of the cytoplasmic intracellular guanylyl cyclase domain. Although nitric oxide-mediated activation of cyclic guanosine monophosphate (cGMP) is known to in..."]
+      },
+      {
+        "title": "Tissue Factor Pathway Inhibitor Overexpression Inhibits Hypoxia-Induced Pulmonary Hypertension",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2009",
+        "authors": ["Thomas A White", "Tyra A Witt", "Shuchong Pan", "Robert D Simari"],
+        "abstract": ["Pulmonary hypertension (PH) is a commonly recognized complication of chronic respiratory disease. Enhanced vasoconstriction, pulmonary vascular remodeling, and in situ thrombosis contribute to the increased pulmonary vascular resistance observed in PH associated with hypoxic lung disease. The tissue factor pathway regulates fibrin deposition in res..."]
+      },
+      {
+        "title": "Biodesign of a renal-protective peptide based on alternative splicing of B-type natriuretic peptide",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2009",
+        "authors": ["Shuchong Pan", "Horng H Chen", "Deborah M Dickey", "Robert D Simari"],
+        "abstract": ["Alternative RNA splicing may provide unique opportunities to identify drug targets and therapeutics. We identified an alternative spliced transcript for B-type natriuretic peptide (BNP) resulting from intronic retention. This transcript is present in failing human hearts and is reduced following mechanical unloading. The intron-retained transcript..."]
+      },
+      {
+        "title": "Carotid Repair Using Autologous Adipose-Derived Endothelial Cells",
+        "tags": ["Article"],
+        "date": "Apr 2009",
+        "authors": ["Harald Froehlich", "Rajiv Gulati", "Barry Boilson", "Robert D Simari"],
+        "abstract": ["Adipose tissue is an abundant source of endothelial cells as well as stem and progenitor cells which can develop an endothelial phenotype. It has been demonstrated that these cells have distinct angiogenic properties in vitro and in vivo. However, whether these cells have the capacity to directly improve large vessel form and function after vascula..."]
+      },
+      {
+        "title": "Distribution of Circulation-Derived Endothelial Progenitors Following Systemic Delivery",
+        "tags": ["Article"],
+        "date": "Jan 2007",
+        "authors": ["Pernelle A Smits", "Laurel Kleppe", "Tyra A Witt", "Robert D Simari"],
+        "abstract": ["Cells with an endothelial phenotype can be cultured from peripheral blood. These cells include cells of a monocytic origin with endothelial features (culture-modified mononuclear cells, CMMCs) and, at later time points, blood outgrowth endothelial cells (BOECs). Both are promising candidates for systemic cell-based cardiovascular therapies and each..."]
+      },
+      {
+        "title": "The effect of vascular smooth muscle cell-targeted expression of tissue factor pathway inhibitor in a murine model of arterial thrombosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2004",
+        "authors": ["Shuchong Pan", "Laurel Kleppe", "Tyra A Witt", "Robert D Simari"],
+        "abstract": ["Tissue factor pathway inhibitor (TFPI) is a Kunitz-type protease inhibitor that regulates the extrinsic pathway of coagulation by inhibiting the factor VIIa/tissue factor (TF) catalytic complex. TFPI is expressed by both endothelial and smooth muscle cells in the vasculature and circulates at low levels. The role of local vascular TFPI in thrombosi..."]
+      },
+      {
+        "title": "Use of blood outgrowth endothelial cells as virus-producing vectors for gene delivery to tumors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2004",
+        "authors": ["Dragan Jevremovic", "Rajiv Gulati", "Ivo Hennig", "Richard G Vile"],
+        "abstract": ["Cell-based delivery of therapeutic viruses has potential advantages over systemic viral administration, including attenuated neutralization and improved viral targeting. One of the exciting new areas of investigation is the potential ability of endothelial-lineage cells to deliver genes to the areas of neovascularization. In the present study, we c..."]
+      },
+      {
+        "title": "Modulation of the vascular response to injury by autologous blood-derived outgrowth endothelial cells",
+        "tags": ["Article"],
+        "date": "Aug 2004",
+        "authors": ["Rajiv Gulati", "Dragan Jevremovic", "Tyra A Witt", "Robert D Simari"],
+        "abstract": ["Delivery of a heterogeneous population of cells with endothelial phenotype derived from peripheral blood has been shown to improve vascular responses after balloon arterial injury in an endothelium-dependent manner. Refinement of culture techniques has enabled the generation of outgrowth endothelial cells (OECs), a homogeneous population of distinc..."]
+      },
+      {
+        "title": "DISCOVERY OF AN ALTERNATIVELY SPLICED FORM OF BRAIN NATRIURETIC PEPTIDE: CHARACTERIZATION AND FUNCTION",
+        "tags": ["Article"],
+        "date": "May 2004",
+        "authors": ["Shuchong Pan", "Rajiv Gulati", "Jennifer Hall", "Robert D Simari"],
+        "abstract": []
+      },
+      {
+        "title": "Caveolin-1 Can Regulate Vascular Smooth Muscle Cell Fate by Switching Platelet-Derived Growth Factor Signaling From a Proliferative to an Apoptotic Pathway",
+        "tags": ["Article"],
+        "date": "Oct 2003",
+        "authors": ["Timothy E Peterson", "Maria Eugenia Guicciardi", "Rajiv Gulati", "Robert D Simari"],
+        "abstract": ["Caveolin-1 is a regulator of signaling events originating from plasma membrane microdomains termed caveolae. This study was performed to determine the regulatory role of caveolin-1 on the proliferative events induced by platelet-derived growth factor (PDGF) in vascular smooth muscle cells (VSMCs).\nTreatment of VSMCs with PDGF for 24 hours resulted..."]
+      },
+      {
+        "title": "Autologous Culture-Modified Mononuclear Cells Confer Vascular Protection After Arterial Injury",
+        "tags": ["Article"],
+        "date": "Sep 2003",
+        "authors": ["Rajiv Gulati", "Dragan Jevremovic", "Timothy E Peterson", "Robert D Simari"],
+        "abstract": ["Bone marrow-derived cells have been shown to contribute to endothelial replacement after vascular injury. In vitro culture of peripheral blood mononuclear cells produces cells with phenotypic characteristics of endothelium. To test the hypothesis that delivery of autologous culture-modified mononuclear cells (CMMCs) to injured arteries could attenu..."]
+      },
+      {
+        "title": "Tissue factor pathway inhibitor deficiency enhances neointimal proliferation and formation in a murine model of vascular remodelling",
+        "tags": ["Article"],
+        "date": "May 2003",
+        "authors": ["Ripudamanjit Singh", "Shuchong Pan", "Cheryl S Mueske", "Robert D Simari"],
+        "abstract": ["Tissue factor (TF) is a small-molecular-weight glycoprotein that initiates the extrinsic coagulation pathway but may have important noncoagulation vascular functions as well. Tissue factor pathway inhibitor (TFPI) is a major physiological inhibitor of TF-initiated coagulation. Enhancement of vascular TFPI either by overexpression using gene transfe..."]
+      },
+      {
+        "title": "Heterogeneity of circulating endothelial precursor cells in adult human blood",
+        "tags": ["Conference Paper"],
+        "date": "May 2003",
+        "authors": ["D Jevremovic", "R Gulati", "Ivo Hennig", "R Simari"],
+        "abstract": []
+      },
+      {
+        "title": "A direct mechanical method for accurate and efficient adenoviral vector delivery to tissues",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2003",
+        "authors": ["Vini Khurana", "Deb Weiler", "Tyra A Witt", "Zvonimir S Katusic"],
+        "abstract": ["We describe a mechanical method for delivery of adenoviral vector to the adventitial surface of arteries and to other tissues. Our goal was to characterize, principally in intact carotid artery, the morphological, biochemical, and functional effects of mechanical delivery of a recombinant beta-galactosidase-expressing adenoviral vector following it..."]
+      },
+      {
+        "title": "Local delivery of culture-modified mononuclear cells improves endothelial function and attenuates neointimal formation in a rabbit balloon injury model",
+        "tags": ["Article"],
+        "date": "Mar 2003",
+        "authors": ["Rajiv Gulati", "Dragan Jevremovic", "Timothy E Peterson", "Robert D. Simari"],
+        "abstract": []
+      },
+      {
+        "title": "Lipoprotein (a) binds and inactivates tissue factor pathway inhibitor: A novel link between lipoproteins and thrombosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2001",
+        "authors": ["Noel M. Caplice", "Carmelo Panetta", "Timothy E Peterson", "Robert D. Simari"],
+        "abstract": ["Lipoprotein (a) [Lp(a)] has been associated with both anti-fibrinolytic and atherogenic effects. However, no direct link currently exists between this atherogenic lipoprotein and intravascular coagulation. The current study examined the binding and functional effects of Lp(a), its lipoprotein constituents, apoliprotein (a) [apo(a)] and low-density..."]
+      },
+      {
+        "title": "Role for Tissue Factor Pathway in Murine Model of Vascular Remodeling",
+        "tags": ["Article"],
+        "date": "Aug 2001",
+        "authors": ["Ripudamanjit Singh", "Shuchong Pan", "Cheryl S Mueske", "Robert D. Simari"],
+        "abstract": ["Tissue factor (TF) is a low-molecular-weight glycoprotein that initiates the extrinsic clotting cascade and is considered a major regulator of arterial thrombogenicity. TF pathway inhibitor (TFPI) is a major physiological inhibitor of TF-initiated coagulation. The aim of this study was to define the complex interplay between TF and TFPI and the reg..."]
+      },
+      {
+        "title": "The Regulation of Caveolin Expression and Localization by Serum and Heparin in Vascular Smooth Muscle Cells",
+        "tags": ["Article"],
+        "date": "Dec 1999",
+        "authors": ["Timothy E Peterson", "Laurel Kleppe", "Noel M. Caplice", "Robert D. Simari"],
+        "abstract": ["Caveolae have been implicated in growth factor receptor and G-protein coupled receptor signaling in vascular cells. It has been postulated that caveolin, the structural protein of caveolae, may act as a general tyrosine kinase inhibitor by binding and inhibiting signaling molecules involved in the activation of the MAP kinase proliferation cascade...."]
+      },
+      {
+        "title": "Expression of Tissue Factor Pathway Inhibitor in Vascular Smooth Muscle Cells and Its Regulation by Growth Factors",
+        "tags": ["Article"],
+        "date": "Dec 1998",
+        "authors": ["Noel M. Caplice", "Cheryl S Mueske", "Laurel Kleppe", "Robert D. Simari"],
+        "abstract": ["Tissue factor pathway inhibitor (TFPI) in vivo is thought to be synthesized mainly by endothelial cells. To date, no significant regulator of TFPI synthesis has been described. Vascular smooth muscle cells (VSMC) express tissue factor in vitro and in vivo, which may contribute to vascular thrombosis. We hypothesized that VSMC might also express TFP..."]
+      },
+      {
+        "title": "Presence of Tissue Factor Pathway Inhibitor in Human Atherosclerotic Plaques Is Associated With Reduced Tissue Factor Activity",
+        "tags": ["Article"],
+        "date": "Oct 1998",
+        "authors": ["Noel M. Caplice", "Cheryl S Mueske", "Laurel Kleppe", "Robert D. Simari"],
+        "abstract": ["Plaque disruption and exposure of subendothelial procoagulants such as tissue factor (TF) to circulating factor VII/VIIa (FVII/VIIa) lead to intravascular thrombosis. Tissue factor pathway inhibitor (TFPI) is an endogenous inhibitor of TF-induced coagulation that binds to factor Xa and the TF-FVIIa catalytic complex in a two-step process. The aim o..."]
+      },
+      {
+        "title": "Increased cellular expression of matrix protein that regulate mineralization is associated with calcification of native human and porcine xenograft bioprosthetic heart valves",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 1997",
+        "authors": ["Sanjay Srivatsa", "P J Harrity", "P B Maercklein", "Lorraine A Fitzpatrick"],
+        "abstract": ["Dystrophic mineralization remains the leading cause of stenotic or regurgitant failure in native human and porcine bioprosthetic heart valves. We hypothesized that cellular expression of noncollagenous matrix proteins (osteopontin, osteocalcin, and osteonectin) that regulate skeletal mineralization may orchestrate valvular calcification. Porcine bi..."]
+      },
+      {
+        "title": "Quality control in histomorphometry: Assessment of quantitative bone measurements",
+        "tags": ["Article"],
+        "date": "Jul 1992",
+        "authors": ["Lorraine A Fitzpatrick", "J Donovan", "K Kluge", "Laurel Kleppe"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [26],
+    "reads": [1720],
+    "citations": [1394]
   }
 }

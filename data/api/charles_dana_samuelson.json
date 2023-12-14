@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Charles D Samuelson",
-    "id": "acLxZU0AAAAJ",
-    "affiliation": "University of Oslo (Department of Psychology)",
+    "name": ["Charles D Samuelson"],
+    "id": ["acLxZU0AAAAJ"],
+    "affiliation": ["University of Oslo (Department of Psychology)"],
     "data": {
       "publications": [
         {
@@ -678,8 +678,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-2437-6905",
-    "name": "Charles Samuelson",
+    "orcid": ["0000-0002-2437-6905"],
+    "name": ["Charles Samuelson"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -695,8 +695,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Charles Dana Samuelson",
-    "id": "1263519",
+    "name": ["Charles Dana Samuelson"],
+    "id": ["1263519"],
     "keywords": ["Judgment and Decision-making"],
     "position": ["Associate professor"],
     "img": {},
@@ -770,5 +770,14 @@
         "url": "https://api.cristin.no/v2/results/1988094"
       }
     ]
+  },
+  "rg": {
+    "id": "Charles-Dana",
+    "name": "Charles Dana",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281116621982-1675279217643_Q128/Charles-Dana.jpg",
+    "affiliation": "HEC Paris | HEC, HEC Paris",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

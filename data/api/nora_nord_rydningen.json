@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Nora Nord Rydningen",
-    "id": "331697",
+    "name": ["Nora Nord Rydningen"],
+    "id": ["331697"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
@@ -16,5 +16,15 @@
         "url": "https://api.cristin.no/v2/results/347088"
       }
     ]
+  },
+  "rg": {
+    "id": "Joan-Nord",
+    "name": "Joan Nord",
+    "img": "https://i1.rgstatic.net/ii/profile.image/551901059530752-1508594874268_Q128/Joan-Nord.jpg",
+    "affiliation": "Concordia University College of Alberta, Department of Biology and Environmental Science",
+    "keywords": ["Environment"],
+    "works": [],
+    "degree": [null],
+    "bio": "Joan Nord is currently a student at the Department of Biology and Environmental Science, Concordia University College of Alberta. Joan does research in Environmental Science and Ecology."
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-3634-2681",
-    "name": "Katharina Nymo Engelstad",
+    "orcid": ["0000-0002-3634-2681"],
+    "name": ["Katharina Nymo Engelstad"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Katharina Nymo Engelstad",
-    "id": "466875",
+    "name": ["Katharina Nymo Engelstad"],
+    "id": ["466875"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -62,5 +62,15 @@
         "url": "https://api.cristin.no/v2/results/1318866"
       }
     ]
+  },
+  "rg": {
+    "id": "Dennis-Nymo",
+    "name": "Dennis Nymo",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Norwegian University of Science and Technology | NTNU, Norwegian University of Science and Technology, Department of Marine Technology",
+    "keywords": ["Naval Architecture", "Hydrodynamics", "Fluid Mechanics", "Numerical Simulation", "Numerical Modeling", "CFD Simulation", "Computational Fluid Dynamics", "Computational Fluid Mechanics", "Numerical Analysis", "Modeling and Simulation"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

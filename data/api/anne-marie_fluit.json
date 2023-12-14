@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Anne-Marie Fluit",
-    "id": "3HWp9i4AAAAJ",
-    "affiliation": "PhD candidate, Promenta Research Center, Psychology Department, University of Oslo",
+    "name": ["Anne-Marie Fluit"],
+    "id": ["3HWp9i4AAAAJ"],
+    "affiliation": ["PhD candidate, Promenta Research Center, Psychology Department, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -118,8 +118,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Anne-Marie Fluit",
-    "id": "1275062",
+    "name": ["Anne-Marie Fluit"],
+    "id": ["1275062"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -167,5 +167,25 @@
         "url": "https://api.cristin.no/v2/results/1988526"
       }
     ]
+  },
+  "rg": {
+    "id": "Lo-Presti-Anne-Marie",
+    "name": "Lo Presti Anne-Marie Anne-Marie",
+    "img": "https://i1.rgstatic.net/ii/profile.image/645372074549248-1530880101924_Q128/Lo-Presti-Anne-Marie.jpg",
+    "affiliation": "Haute Ecole Pédagogique Lausanne, AGIRS",
+    "keywords": ["Teaching and Learning", "Professional Development", "Pedagogy and Education", "Pedagogy"],
+    "works": [
+      {
+        "title": "Articles dans revues professionnelles ou de vulgarisation",
+        "tags": ["Preprint"],
+        "date": "Jul 2018",
+        "authors": ["Lo Presti Anne-Marie Anne-Marie"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "publication": [1],
+    "reads": [11],
+    "citations": [0]
   }
 }

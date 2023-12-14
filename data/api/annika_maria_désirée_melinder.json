@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Annika Melinder",
-    "id": "JK7kq5kAAAAJ",
-    "affiliation": "",
+    "name": ["Annika Melinder"],
+    "id": ["JK7kq5kAAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-7773-0579",
-    "name": "Annika Melinder",
+    "orcid": ["0000-0001-7773-0579"],
+    "name": ["Annika Melinder"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -939,11 +939,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Annika Maria Désirée Melinder",
-    "id": "23629",
+    "name": ["Annika Maria Désirée Melinder"],
+    "id": ["23629"],
     "keywords": ["Development", "Children", "Development Psychology", "Cognitive neuroscience", "Psychology of Law", "Trauma", "Psychology of Witnesses", "Emotional memory"],
     "position": ["Professor"],
-    "img": "https://api.cristin.no/v2/persons/23629/picture",
+    "img": ["https://api.cristin.no/v2/persons/23629/picture"],
     "works": [
       {
         "type": "Academic lecture",
@@ -954,76 +954,76 @@
       {
         "type": "Feature article",
         "year": "2023",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2191388"
+        "url": "https://api.cristin.no/v2/results/2191388",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Feature article",
         "year": "2023",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2191384"
+        "url": "https://api.cristin.no/v2/results/2191384",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The psychobiology of child and parental stress and the subjective perception of parental stress in a clinical sample of children",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2184535"
+        "url": "https://api.cristin.no/v2/results/2184535",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål",
-        "url": "https://api.cristin.no/v2/results/2184190"
+        "url": "https://api.cristin.no/v2/results/2184190",
+        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Excessive hair cortisol concentration as an indicator of psychological disorders in children",
-        "journal": "Psychoneuroendocrinology",
-        "url": "https://api.cristin.no/v2/results/2178875"
+        "url": "https://api.cristin.no/v2/results/2178875",
+        "journal": "Psychoneuroendocrinology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Disruptive Mood Dysregulation Disorder in a Norwegian Clinical Child Population",
-        "journal": "Clinical Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2148747"
+        "url": "https://api.cristin.no/v2/results/2148747",
+        "journal": "Clinical Child Psychology and Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Neuropsychological mechanisms of social difficulties in disruptive mood dysregulation disorder versus oppositional defiant disorder",
-        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/2148736"
+        "url": "https://api.cristin.no/v2/results/2148736",
+        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Executive function in children with disruptive mood dysregulation disorder compared to attention-deficit/hyperactivity disorder and oppositional defiant disorder, and in children with different irritability levels",
-        "journal": "European Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2123673"
+        "url": "https://api.cristin.no/v2/results/2123673",
+        "journal": "European Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Child internalizing and externalizing behaviors: Interplay between maternal depressive symptoms and child inhibitory control",
-        "journal": "JCPP Advances",
-        "url": "https://api.cristin.no/v2/results/2061485"
+        "url": "https://api.cristin.no/v2/results/2061485",
+        "journal": "JCPP Advances"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Verbal and nonverbal memory in school-aged children born to opioid-dependent mothers",
-        "journal": "Early Human Development",
-        "url": "https://api.cristin.no/v2/results/2041337"
+        "url": "https://api.cristin.no/v2/results/2041337",
+        "journal": "Early Human Development"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Infant behavioural effects of smartphone interrupted parent-infant interaction",
-        "journal": "British Journal of Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/2021236"
+        "url": "https://api.cristin.no/v2/results/2021236",
+        "journal": "British Journal of Developmental Psychology"
       },
       {
         "type": "Academic anthology/Conference proceedings",
@@ -1034,8 +1034,8 @@
         "type": "Academic literature review",
         "year": "2022",
         "title": "Underlying mechanisms of disruptive mood dysregulation\r\ndisorder in children: A systematic review by means of\r\nresearch domain criteria",
-        "journal": "JCPP Advances",
-        "url": "https://api.cristin.no/v2/results/2013572"
+        "url": "https://api.cristin.no/v2/results/2013572",
+        "journal": "JCPP Advances"
       },
       {
         "type": "Chapter",
@@ -1046,68 +1046,68 @@
         "type": "Academic article",
         "year": "2021",
         "title": "In the Best Interest of the Child: the Norwegian\r\nApproach to Child Protection",
-        "journal": "International Journal on Child Maltreatment: Research, Policy and Practice",
-        "url": "https://api.cristin.no/v2/results/1922062"
+        "url": "https://api.cristin.no/v2/results/1922062",
+        "journal": "International Journal on Child Maltreatment: Research, Policy and Practice"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Affective decision-making in children prenatally exposed to opioids",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/1911989"
+        "url": "https://api.cristin.no/v2/results/1911989",
+        "journal": "Scandinavian Journal of Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål",
-        "url": "https://api.cristin.no/v2/results/1909252"
+        "url": "https://api.cristin.no/v2/results/1909252",
+        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1909250"
+        "url": "https://api.cristin.no/v2/results/1909250",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Short communication",
         "year": "2021",
         "title": "When a different perspective and contextual knowledge change the conclusions: Commentary on Baugerud et al. (2020)",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/1909247"
+        "url": "https://api.cristin.no/v2/results/1909247",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "journal": "Tidsskrift for strafferett",
-        "url": "https://api.cristin.no/v2/results/1888132"
+        "url": "https://api.cristin.no/v2/results/1888132",
+        "journal": "Tidsskrift for strafferett"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Recruiting Eyewitness Science in Criminal Investigations: The Pocket Man Case",
-        "journal": "Journal of Forensic Psychology Research and Practice",
-        "url": "https://api.cristin.no/v2/results/1888127"
+        "url": "https://api.cristin.no/v2/results/1888127",
+        "journal": "Journal of Forensic Psychology Research and Practice"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The association of PTSD symptom severity with amygdala nuclei volumes in traumatized youths",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1825260"
+        "url": "https://api.cristin.no/v2/results/1825260",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "What Is a Child-Appropriate Interview?\r\nInteraction Between Child Witnesses and Police\r\nOfficers",
-        "journal": "International Journal on Child Maltreatment: Research, Policy and Practice",
-        "url": "https://api.cristin.no/v2/results/1816450"
+        "url": "https://api.cristin.no/v2/results/1816450",
+        "journal": "International Journal on Child Maltreatment: Research, Policy and Practice"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Personality, confirmation bias, and forensic interviewing performance",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/1809574"
+        "url": "https://api.cristin.no/v2/results/1809574",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Chapter",
@@ -1119,8 +1119,8 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Beliefs About Young Children as Witnesses: a Survey of Experienced Defense Lawyers and Psychological Expert Witnesses in Norway",
-        "journal": "International Journal on Child Maltreatment: Research, Policy and Practice",
-        "url": "https://api.cristin.no/v2/results/1757754"
+        "url": "https://api.cristin.no/v2/results/1757754",
+        "journal": "International Journal on Child Maltreatment: Research, Policy and Practice"
       },
       {
         "type": "Academic lecture",
@@ -1132,42 +1132,42 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Salivary Cortisol Levels Relate to Cognitive Performance in Children Prenatally Exposed to Methadone or Buprenorphine",
-        "journal": "Developmental Psychobiology",
-        "url": "https://api.cristin.no/v2/results/1718950"
+        "url": "https://api.cristin.no/v2/results/1718950",
+        "journal": "Developmental Psychobiology"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Psychologists and psychiatrists in court: What do they know about eyewitness memory? A comparison between experts in inquisitorial and adversarial legal systems",
-        "journal": "Journal of Police and Criminal Psychology",
-        "url": "https://api.cristin.no/v2/results/1713236"
+        "url": "https://api.cristin.no/v2/results/1713236",
+        "journal": "Journal of Police and Criminal Psychology"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål",
-        "url": "https://api.cristin.no/v2/results/1632009"
+        "url": "https://api.cristin.no/v2/results/1632009",
+        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Prefrontal glutamate levels predict altered\r\namygdala–prefrontal connectivity in\r\ntraumatized youths",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/1613753"
+        "url": "https://api.cristin.no/v2/results/1613753",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "ERP correlates of cognitive control in children prenatally exposed to methadone or buprenorphine",
-        "journal": "Developmental Neuropsychology",
-        "url": "https://api.cristin.no/v2/results/1593114"
+        "url": "https://api.cristin.no/v2/results/1593114",
+        "journal": "Developmental Neuropsychology"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Maltreatment and trauma symptoms: Does type of maltreatment matter?",
-        "journal": "Psychological Trauma",
-        "url": "https://api.cristin.no/v2/results/1495377"
+        "url": "https://api.cristin.no/v2/results/1495377",
+        "journal": "Psychological Trauma"
       },
       {
         "type": "Academic lecture",
@@ -1178,21 +1178,21 @@
       {
         "type": "Reader opinion piece",
         "year": "2017",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1576237"
+        "url": "https://api.cristin.no/v2/results/1576237",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Positive events protect children from causal false memories for scripted events",
-        "journal": "Memory",
-        "url": "https://api.cristin.no/v2/results/1524598"
+        "url": "https://api.cristin.no/v2/results/1524598",
+        "journal": "Memory"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål",
-        "url": "https://api.cristin.no/v2/results/1522517"
+        "url": "https://api.cristin.no/v2/results/1522517",
+        "journal": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål"
       },
       {
         "type": "Academic lecture",
@@ -1203,36 +1203,36 @@
         "type": "Academic article",
         "year": "2017",
         "title": "The impact of traumatic stress on Pavlovian biases",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/1505831"
+        "url": "https://api.cristin.no/v2/results/1505831",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Life threat and sleep disturbances in adolescents: a two-year\r\nfollow-up of survivors from the 2011 Utøya, Norway, terror attack",
-        "journal": "Journal of Traumatic Stress",
-        "url": "https://api.cristin.no/v2/results/1482587"
+        "url": "https://api.cristin.no/v2/results/1482587",
+        "journal": "Journal of Traumatic Stress"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Secondary traumatic stress, burnout, and compassion satisfaction among Norwegian child protection workers: protective and risk factors\r\n",
-        "journal": "The British Journal of Social Work",
-        "url": "https://api.cristin.no/v2/results/1445387"
+        "url": "https://api.cristin.no/v2/results/1445387",
+        "journal": "The British Journal of Social Work"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Emotional conflict processing in adolescent chronic fatigue syndrome: A pilot study using functional magnetic resonance imaging",
-        "journal": "Journal of Clinical and Experimental Neuropsychology",
-        "url": "https://api.cristin.no/v2/results/1402980"
+        "url": "https://api.cristin.no/v2/results/1402980",
+        "journal": "Journal of Clinical and Experimental Neuropsychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Perceptual interference processing in preschool children, with and without prenatal exposure to selective serotonin reuptake inhibitors",
-        "journal": "Psychopharmacology",
-        "url": "https://api.cristin.no/v2/results/1399778"
+        "url": "https://api.cristin.no/v2/results/1399778",
+        "journal": "Psychopharmacology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1242,57 +1242,57 @@
       {
         "type": "Article in business/trade/industry journal",
         "year": "2016",
-        "journal": "Fosterhjemskontakt : tidsskrift om fosterhjemsarbeid",
-        "url": "https://api.cristin.no/v2/results/1386679"
+        "url": "https://api.cristin.no/v2/results/1386679",
+        "journal": "Fosterhjemskontakt : tidsskrift om fosterhjemsarbeid"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Mother-child interaction and cognitive development in children\r\nprenatally exposed to methadone or buprenorphine",
-        "journal": "Early Human Development",
-        "url": "https://api.cristin.no/v2/results/1386676"
+        "url": "https://api.cristin.no/v2/results/1386676",
+        "journal": "Early Human Development"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Aberrant resting-state functional connectivity in the Salience Network of adolescent Chronic Fatigue Syndrome",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1367749"
+        "url": "https://api.cristin.no/v2/results/1367749",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "The Emotional Child Witness Effect Survives Presentation Mode",
-        "journal": "Behavioral sciences & the law",
-        "url": "https://api.cristin.no/v2/results/1347195"
+        "url": "https://api.cristin.no/v2/results/1347195",
+        "journal": "Behavioral sciences & the law"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Children as Earwitnesses: Memory for Emotional Auditory Events",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/1347188"
+        "url": "https://api.cristin.no/v2/results/1347188",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Behavior and inhibitory control in children with prenatal exposure to antidepressants and medically untreated depression",
-        "journal": "Psychopharmacology",
-        "url": "https://api.cristin.no/v2/results/1341939"
+        "url": "https://api.cristin.no/v2/results/1341939",
+        "journal": "Psychopharmacology"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Maltreated and non-maltreated children's true and false memories of neutral and emotional word lists in the Deese/Roediger-McDermott task",
-        "journal": "Journal of Experimental Child Psychology",
-        "url": "https://api.cristin.no/v2/results/1296043"
+        "url": "https://api.cristin.no/v2/results/1296043",
+        "journal": "Journal of Experimental Child Psychology"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Disclosure of child sexual abuse: expressed emotions and credibility judgments of a child mock victim",
-        "journal": "Psychology, Crime and Law",
-        "url": "https://api.cristin.no/v2/results/1289610"
+        "url": "https://api.cristin.no/v2/results/1289610",
+        "journal": "Psychology, Crime and Law"
       },
       {
         "type": "Poster",
@@ -1309,8 +1309,8 @@
       {
         "type": "Academic article",
         "year": "2015",
-        "journal": "Nevropsykologi : Medlemsblad for Norsk Nevropsykologisk Forening",
-        "url": "https://api.cristin.no/v2/results/1335280"
+        "url": "https://api.cristin.no/v2/results/1335280",
+        "journal": "Nevropsykologi : Medlemsblad for Norsk Nevropsykologisk Forening"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1321,57 +1321,57 @@
         "type": "Academic article",
         "year": "2015",
         "title": "Associations between executive functions and long-term stress reactions after extreme trauma: A two-year follow-up of the Utøya survivors",
-        "journal": "Psychological Trauma",
-        "url": "https://api.cristin.no/v2/results/1285263"
+        "url": "https://api.cristin.no/v2/results/1285263",
+        "journal": "Psychological Trauma"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Best practice recommendations still fail to result in action: A national 10-year follow-up of investigative interviews in CSA cases",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/1261336"
+        "url": "https://api.cristin.no/v2/results/1261336",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Behavioural outcomes of four-year-old children prenatally exposed to methadone or buprenorphine: a test of three risk models",
-        "journal": "Early Child Development and Care",
-        "url": "https://api.cristin.no/v2/results/1232858"
+        "url": "https://api.cristin.no/v2/results/1232858",
+        "journal": "Early Child Development and Care"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Executive function in preschool children prenatally exposed to methadone or buprenorphine",
-        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/1177295"
+        "url": "https://api.cristin.no/v2/results/1177295",
+        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Visual Selective Attention Is Impaired in Children Prenatally Exposed to Opioid Agonist Medication",
-        "journal": "European Addiction Research",
-        "url": "https://api.cristin.no/v2/results/1177294"
+        "url": "https://api.cristin.no/v2/results/1177294",
+        "journal": "European Addiction Research"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Prenatal SSRI exposure: Effects on later child development",
-        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/1153928"
+        "url": "https://api.cristin.no/v2/results/1153928",
+        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Psychologists and psychiatrists serving as expert witnesses in court: what do they know about eyewitness memory?",
-        "journal": "Psychology, Crime and Law",
-        "url": "https://api.cristin.no/v2/results/1131327"
+        "url": "https://api.cristin.no/v2/results/1131327",
+        "journal": "Psychology, Crime and Law"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "The effect of emotional facial expressions on childrens working memory: Associations with age and behavior",
-        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/972466"
+        "url": "https://api.cristin.no/v2/results/972466",
+        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence"
       },
       {
         "type": "Textbook",
@@ -1393,8 +1393,8 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Psychologists and psychiatrists serving as expert witnesses in court: what do they know about eyewitness memory?",
-        "journal": "Psychology, Crime and Law",
-        "url": "https://api.cristin.no/v2/results/1223391"
+        "url": "https://api.cristin.no/v2/results/1223391",
+        "journal": "Psychology, Crime and Law"
       },
       {
         "type": "Poster",
@@ -1418,8 +1418,8 @@
         "type": "Academic article",
         "year": "2014",
         "title": "The developmental trajectory of pointing perception in the first year of life",
-        "journal": "Experimental Brain Research",
-        "url": "https://api.cristin.no/v2/results/1177293"
+        "url": "https://api.cristin.no/v2/results/1177293",
+        "journal": "Experimental Brain Research"
       },
       {
         "type": "Academic lecture",
@@ -1430,22 +1430,22 @@
       {
         "type": "Academic article",
         "year": "2014",
-        "journal": "Lov og Rett",
-        "url": "https://api.cristin.no/v2/results/1170392"
+        "url": "https://api.cristin.no/v2/results/1170392",
+        "journal": "Lov og Rett"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "Emotional negative events do not protect against false memories in young adults with depressive-anxious personality traits",
-        "journal": "Personality and Individual Differences",
-        "url": "https://api.cristin.no/v2/results/1157983"
+        "url": "https://api.cristin.no/v2/results/1157983",
+        "journal": "Personality and Individual Differences"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "High accuracy but low consistency in children's long-term recall of a real-life stressful event",
-        "journal": "Journal of Experimental Child Psychology",
-        "url": "https://api.cristin.no/v2/results/1149247"
+        "url": "https://api.cristin.no/v2/results/1149247",
+        "journal": "Journal of Experimental Child Psychology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1457,36 +1457,36 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Inferential false memories of events: Negative consequences protect from distortions when the events are free from further elaboration",
-        "journal": "Memory",
-        "url": "https://api.cristin.no/v2/results/1032340"
+        "url": "https://api.cristin.no/v2/results/1032340",
+        "journal": "Memory"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "The effects of acute tryptophan depletion on impulsivity and mood in adolescents engaging in non-suicidal self-injury",
-        "journal": "Human Psychopharmacology: Clinical and Experimental",
-        "url": "https://api.cristin.no/v2/results/999161"
+        "url": "https://api.cristin.no/v2/results/999161",
+        "journal": "Human Psychopharmacology: Clinical and Experimental"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Neurodevelopmental investigation of the mirror neurone system in children of women receiving opioid maintenance therapy during pregnancy",
-        "journal": "Addiction",
-        "url": "https://api.cristin.no/v2/results/987840"
+        "url": "https://api.cristin.no/v2/results/987840",
+        "journal": "Addiction"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "The effect of neutral and negative colour photographs on children's item directed forgetting",
-        "journal": "European Journal of Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/972464"
+        "url": "https://api.cristin.no/v2/results/972464",
+        "journal": "European Journal of Developmental Psychology"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Children’s and adults’ memory for emotional pictures: Examining age-related patterns using the Developmental Affective Photo System",
-        "journal": "Journal of Experimental Child Psychology",
-        "url": "https://api.cristin.no/v2/results/964484"
+        "url": "https://api.cristin.no/v2/results/964484",
+        "journal": "Journal of Experimental Child Psychology"
       },
       {
         "type": "Poster",
@@ -1504,8 +1504,8 @@
         "type": "Academic article",
         "year": "2013",
         "title": "Maltreatment is associated with specific impairments in executive functions: A pilot study",
-        "journal": "Journal of Traumatic Stress",
-        "url": "https://api.cristin.no/v2/results/1079980"
+        "url": "https://api.cristin.no/v2/results/1079980",
+        "journal": "Journal of Traumatic Stress"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1517,22 +1517,22 @@
         "type": "Academic article",
         "year": "2013",
         "title": "Expressed emotions and perceived credibility of child mock victims disclosing physical abuse",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/1045043"
+        "url": "https://api.cristin.no/v2/results/1045043",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Deviant smooth pursuit in preschool children exposed prenatally to methadone or buprenorphine and tobacco affects integrative visuomotor capabilities",
-        "journal": "Addiction",
-        "url": "https://api.cristin.no/v2/results/1042157"
+        "url": "https://api.cristin.no/v2/results/1042157",
+        "journal": "Addiction"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Children's Memories of Removal: A Test of Attachment Theory",
-        "journal": "Journal of Traumatic Stress",
-        "url": "https://api.cristin.no/v2/results/1032330"
+        "url": "https://api.cristin.no/v2/results/1032330",
+        "journal": "Journal of Traumatic Stress"
       },
       {
         "type": "Poster",
@@ -1544,27 +1544,27 @@
         "type": "Academic article",
         "year": "2012",
         "title": "Maltreated Children's Memory of Stressful Removals from Their Biological Parents",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/929572"
+        "url": "https://api.cristin.no/v2/results/929572",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/919755"
+        "url": "https://api.cristin.no/v2/results/919755",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "What psychologists know and believe about memory: A survey of pratitioners",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/800767"
+        "url": "https://api.cristin.no/v2/results/800767",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2012",
-        "journal": "Rus & samfunn",
-        "url": "https://api.cristin.no/v2/results/1310870"
+        "url": "https://api.cristin.no/v2/results/1310870",
+        "journal": "Rus & samfunn"
       },
       {
         "type": "Poster",
@@ -1576,29 +1576,38 @@
         "type": "Academic literature review",
         "year": "2011",
         "title": "Prenatal exposure to methadone and buprenorphine: A review of the potential effects on cognitive development",
-        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/941705"
+        "url": "https://api.cristin.no/v2/results/941705",
+        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/908357"
+        "url": "https://api.cristin.no/v2/results/908357",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Teleological Reasoning in 4-Month-Old Infants: Pupil Dilations and Contextual Constraints",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/877134"
+        "url": "https://api.cristin.no/v2/results/877134",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Executive functions are impaired in adolescents engaging in non-suicidal self-injury",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/349780"
+        "url": "https://api.cristin.no/v2/results/349780",
+        "journal": "Psychological Medicine"
       }
     ]
+  },
+  "rg": {
+    "id": "Annika_Annika",
+    "name": "Annika Annika",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Hochschule für angewandte Wissenschaften Kempten, Department of Business Administration",
+    "keywords": ["Logistics", "Management", "SCM", "Strategic Management", "Inventory Management", "Production Planning", "Lean Manufacturing", "Production Management", "Optimization", "Lean Management"],
+    "works": [],
+    "degree": [null]
   }
 }

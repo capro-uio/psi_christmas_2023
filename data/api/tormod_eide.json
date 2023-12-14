@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Tormod Eide",
-    "id": "24770",
+    "name": ["Tormod Eide"],
+    "id": ["24770"],
     "keywords": [],
     "position": ["Adviser"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Stig-Tormod",
+    "name": "Stig Tormod",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Biotage | Biotage, Biotage, Instrument",
+    "keywords": ["Fluorescence", "Absorption", "Optical Materials", "Fluorescence Imaging"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

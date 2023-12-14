@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Wenbo YI",
-    "id": "9YmflWMAAAAJ",
-    "affiliation": "McGill University, Department of Psychology",
+    "name": ["Wenbo YI"],
+    "id": ["9YmflWMAAAAJ"],
+    "affiliation": ["McGill University, Department of Psychology"],
     "data": {
       "publications": [
         {
@@ -52,8 +52,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1210-5312",
-    "name": "Wenbo YI",
+    "orcid": ["0000-0003-1210-5312"],
+    "name": ["Wenbo YI"],
     "distinctions": [],
     "education": [
       {
@@ -64,17 +64,17 @@
       },
       {
         "start": "2023",
-        "end": "2025",
         "position": "Guest Researcher",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2025"
       },
       {
         "start": "2021",
-        "end": "2022",
         "position": "Research Assistant",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2022"
       }
     ],
     "employment": [
@@ -86,17 +86,17 @@
       },
       {
         "start": "2023",
-        "end": "2025",
         "position": "Guest Researcher",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2025"
       },
       {
         "start": "2021",
-        "end": "2022",
         "position": "Research Assistant",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2022"
       }
     ],
     "membership": [],
@@ -111,8 +111,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Wenbo Yi",
-    "id": "1297064",
+    "name": ["Wenbo Yi"],
+    "id": ["1297064"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -125,5 +125,54 @@
         "url": "https://api.cristin.no/v2/results/2156528"
       }
     ]
+  },
+  "rg": {
+    "id": "Wenbo-Yi",
+    "name": "Wenbo Yi",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "McGill University | McGill, McGill University, Department of Psychology",
+    "keywords": ["Music Cognition", "Nonlinear Dynamics", "Music Theory", "Music Technology"],
+    "works": [
+      {
+        "title": "Into the Hive-Mind: Shared Absorption and Cardiac Interrelations in Expert and Student String Quartets",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Simon Høffding", "Wenbo Yi", "Eigil Y. H. Lippert", "Sebastian Wallot"],
+        "abstract": "Expert musicians portray awe-inspiring precision, timing, and phrasing and may be thought to partake in a “hive-mind.” Such a shared musical absorption is characterized by a heightened empathic relation, mutual trust, and a sense that the music “takes over,” thus uniting the performers’ musical intentions. Previous studies have found correlations b..."
+      },
+      {
+        "title": "The Reproduction of Auditory Spatial Perception in Classical Music Recordings",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Wenbo Yi"],
+        "abstract": "This paper reviews and sorts out the concept of auditory spatial environmental sense and the design scheme of simultaneous recording of classical music. Combined with the practical experience of three symphonic concerts, it makes subjective evaluation and acoustic principle analysis on the music works recorded with different sound pickup schemes, a..."
+      },
+      {
+        "title": "When hearts beat as one -cardiac dynamics and synchrony in string quartet performances",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Wenbo Yi"],
+        "abstract": "This master's thesis examines the musicians' cardiac rhythms in string quartet performances. It attempts to capture and demonstrate the cardiac dynamics and synchrony in musical ensembles by analyzing two cases, including a student string quartet (the Borealis String Quartet) and a world-renowned quartet (the Danish String Quartet) performing in di..."
+      },
+      {
+        "title": "A pilot study of expressive body movement on audio parameters of piano performances",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Wenbo Yi"],
+        "abstract": "Body movement plays an important role in music performances and is widely studied by researchers. However, how the expressive body movement and audio parameters change while trying to maintain consistent musical expressive intentions have not been answered. In this paper, a pilot experiment was designed to explore the objective changes in body move..."
+      },
+      {
+        "title": "An Introduction to the Impact of Developments in Audio Technology on the Concept of Music Mixing Composition",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Hu Ze", "Wenbo Yi"],
+        "abstract": "With the continuous development of audio technology, the audio reproduction technology has gradually developed from a one-dimensional sound space to a three-dimensional sound space, and the number of speakers in the audio reproduction system has\nincreased, bringing changes and developments in the process and production concept for the post-producti..."
+      }
+    ],
+    "degree": ["Master", "of", "Philosophy"],
+    "bio": [],
+    "publications": [5],
+    "reads": [201],
+    "citations": [7]
   }
 }

@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Tonje Kullerud",
-    "id": "1521816",
+    "name": ["Tonje Kullerud"],
+    "id": ["1521816"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -16,5 +16,15 @@
         "url": "https://api.cristin.no/v2/results/2043251"
       }
     ]
+  },
+  "rg": {
+    "id": "Simbarashe-Eric-Tonje",
+    "name": "Simbarashe Eric Tonje",
+    "img": "https://i1.rgstatic.net/ii/profile.image/859388927553538-1581905695970_Q128/Simbarashe-Eric-Tonje.jpg",
+    "affiliation": "University of South Wales, School of Applied Sciences",
+    "keywords": ["Chromatography", "Mass Spectrometry", "High-Performance Liquid Chromatography", "Extraction", "Spectrometry", "Liquid Chromatography", "Analytical Chemistry Instrumentation", "Sample Preparation", "Chemical Analysis", "Instrumental Analysis"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

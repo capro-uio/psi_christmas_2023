@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Jasmina Burdzovic Andreas",
-    "id": "HW9oI6oAAAAJ",
-    "affiliation": "Research Professor; Norwegian Institute of Public Health",
+    "name": ["Jasmina Burdzovic Andreas"],
+    "id": ["HW9oI6oAAAAJ"],
+    "affiliation": ["Research Professor; Norwegian Institute of Public Health"],
     "data": {
       "publications": [
         {
@@ -563,8 +563,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-6730-1321",
-    "name": "Jasmina Burdzovic Andreas",
+    "orcid": ["0000-0002-6730-1321"],
+    "name": ["Jasmina Burdzovic Andreas"],
     "distinctions": [],
     "education": [
       {
@@ -581,31 +581,31 @@
       },
       {
         "start": "2016",
-        "end": "2019",
         "position": "Senior Researcher",
         "organisation": "Norwegian Institute of Public Health",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2013",
-        "end": "2015",
         "position": "Researcher",
         "organisation": "Statens Institutt for rusmiddelforskning",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       },
       {
         "start": "2013",
-        "end": "2015",
         "position": "Researcher",
         "organisation": "Statens Institutt for rusmiddelforskning",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       },
       {
         "start": "2006",
-        "end": "2013",
         "position": "Assistant Professor (Research)",
         "organisation": "Brown University",
-        "country": "US"
+        "country": "US",
+        "end": "2013"
       }
     ],
     "employment": [
@@ -623,31 +623,31 @@
       },
       {
         "start": "2016",
-        "end": "2019",
         "position": "Senior Researcher",
         "organisation": "Norwegian Institute of Public Health",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2013",
-        "end": "2015",
         "position": "Researcher",
         "organisation": "Statens Institutt for rusmiddelforskning",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       },
       {
         "start": "2013",
-        "end": "2015",
         "position": "Researcher",
         "organisation": "Statens Institutt for rusmiddelforskning",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       },
       {
         "start": "2006",
-        "end": "2013",
         "position": "Assistant Professor (Research)",
         "organisation": "Brown University",
-        "country": "US"
+        "country": "US",
+        "end": "2013"
       }
     ],
     "membership": [],
@@ -885,11 +885,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jasmina Burdzovic",
-    "id": "606646",
+    "name": ["Jasmina Burdzovic"],
+    "id": ["606646"],
     "keywords": [],
     "position": ["Associate professor", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/606646/picture",
+    "img": ["https://api.cristin.no/v2/persons/606646/picture"],
     "works": [
       {
         "type": "Feature article",
@@ -900,58 +900,58 @@
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Parental drinking, mental health and educational level, and offspring’s subsequent prescription drugs treatment for sleep problems. A longitudinal HUNT survey and registry study",
         "journal": "BMC Public Health",
-        "url": "https://api.cristin.no/v2/results/2162724"
+        "url": "https://api.cristin.no/v2/results/2162724",
+        "title": "Parental drinking, mental health and educational level, and offspring’s subsequent prescription drugs treatment for sleep problems. A longitudinal HUNT survey and registry study"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Norwegian adolescents' use of energy drinks and painkillers and misuse of prescription drugs prior to and during the initial COVID-19 pandemic year: Evidence from the MyLife study",
         "journal": "Scandinavian Journal of Public Health",
-        "url": "https://api.cristin.no/v2/results/2099215"
+        "url": "https://api.cristin.no/v2/results/2099215",
+        "title": "Norwegian adolescents' use of energy drinks and painkillers and misuse of prescription drugs prior to and during the initial COVID-19 pandemic year: Evidence from the MyLife study"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Attitudes towards cannabis use legalization and openness to legal use among young partygoers in Norway",
         "journal": "Journal of Studies on Alcohol and Drugs",
-        "url": "https://api.cristin.no/v2/results/2064771"
+        "url": "https://api.cristin.no/v2/results/2064771",
+        "title": "Attitudes towards cannabis use legalization and openness to legal use among young partygoers in Norway"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Energy drinks and alcohol use among adolescents: A longitudinal study",
         "journal": "Drug and Alcohol Dependence",
-        "url": "https://api.cristin.no/v2/results/2064768"
+        "url": "https://api.cristin.no/v2/results/2064768",
+        "title": "Energy drinks and alcohol use among adolescents: A longitudinal study"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Adolescents’ Alcohol Use and Related Expectancies before and during the Early COVID-19 Pandemic: Evidence from the Nationwide MyLife Study",
         "journal": "European Addiction Research",
-        "url": "https://api.cristin.no/v2/results/2064766"
+        "url": "https://api.cristin.no/v2/results/2064766",
+        "title": "Adolescents’ Alcohol Use and Related Expectancies before and during the Early COVID-19 Pandemic: Evidence from the Nationwide MyLife Study"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Time spent on social media and alcohol use among adolescents: A longitudinal study",
         "journal": "Addictive Behaviours",
-        "url": "https://api.cristin.no/v2/results/2023126"
+        "url": "https://api.cristin.no/v2/results/2023126",
+        "title": "Time spent on social media and alcohol use among adolescents: A longitudinal study"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Parental drinking, mental health and education, and extent of offspring’s healthcare utilisation for anxiety/depression: A HUNT survey and registry study",
         "journal": "Scandinavian Journal of Public Health",
-        "url": "https://api.cristin.no/v2/results/2012571"
+        "url": "https://api.cristin.no/v2/results/2012571",
+        "title": "Parental drinking, mental health and education, and extent of offspring’s healthcare utilisation for anxiety/depression: A HUNT survey and registry study"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Individual, Family, and Community Characteristics Associated With COVID-19–Specific Worry and Lack of Worry Among Norwegian High School Students in First Pandemic Year",
         "journal": "JAMA Network Open",
-        "url": "https://api.cristin.no/v2/results/2005374"
+        "url": "https://api.cristin.no/v2/results/2005374",
+        "title": "Individual, Family, and Community Characteristics Associated With COVID-19–Specific Worry and Lack of Worry Among Norwegian High School Students in First Pandemic Year"
       },
       {
         "type": "Report",
@@ -961,8 +961,8 @@
       {
         "type": "Interview",
         "year": "2022",
-        "title": "Binge drinking: When dads get drunk on the weekends, the kids are more likely to drop out of school",
-        "url": "https://api.cristin.no/v2/results/2003324"
+        "url": "https://api.cristin.no/v2/results/2003324",
+        "title": "Binge drinking: When dads get drunk on the weekends, the kids are more likely to drop out of school"
       },
       {
         "type": "Interview",
@@ -977,30 +977,30 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Parental binge drinking and offspring’s high school non-completion: A prospective HUNT survey and educational registry study",
         "journal": "Drug and Alcohol Dependence",
-        "url": "https://api.cristin.no/v2/results/1960045"
+        "url": "https://api.cristin.no/v2/results/1960045",
+        "title": "Parental binge drinking and offspring’s high school non-completion: A prospective HUNT survey and educational registry study"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Self-reported Mental and Physical Health Among Norwegian Adolescents Before and During the COVID-19 Pandemic",
         "journal": "JAMA Network Open",
-        "url": "https://api.cristin.no/v2/results/1934882"
+        "url": "https://api.cristin.no/v2/results/1934882",
+        "title": "Self-reported Mental and Physical Health Among Norwegian Adolescents Before and During the COVID-19 Pandemic"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Fear of missing out and binge-drinking among adolescents",
         "journal": "Drug and Alcohol Review",
-        "url": "https://api.cristin.no/v2/results/1926188"
+        "url": "https://api.cristin.no/v2/results/1926188",
+        "title": "Fear of missing out and binge-drinking among adolescents"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2021",
-        "title": "Exploring the onto-politics of cannabis: Shifting drug policies and understandings in Norway",
         "journal": "Nordic Studies on Alcohol and Drugs (NAD)",
-        "url": "https://api.cristin.no/v2/results/1925236"
+        "url": "https://api.cristin.no/v2/results/1925236",
+        "title": "Exploring the onto-politics of cannabis: Shifting drug policies and understandings in Norway"
       },
       {
         "type": "Feature article",
@@ -1011,168 +1011,178 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Parental Risk Constellations and Future Alcohol Use Disorder (AUD) in Offspring: A Combined HUNT Survey and Health Registries Study",
         "journal": "Psychology of Addictive Behaviors",
-        "url": "https://api.cristin.no/v2/results/1901094"
+        "url": "https://api.cristin.no/v2/results/1901094",
+        "title": "Parental Risk Constellations and Future Alcohol Use Disorder (AUD) in Offspring: A Combined HUNT Survey and Health Registries Study"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Cannabis use among Norwegian university students: Gender differences, legalization support and use intentions, risk perceptions, and use disorder",
         "journal": "Addictive Behaviors Reports",
-        "url": "https://api.cristin.no/v2/results/1875201"
+        "url": "https://api.cristin.no/v2/results/1875201",
+        "title": "Cannabis use among Norwegian university students: Gender differences, legalization support and use intentions, risk perceptions, and use disorder"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Adolescent income and binge drinking initiation: prospective evidence from the MyLife study",
         "journal": "Addiction",
-        "url": "https://api.cristin.no/v2/results/1843480"
+        "url": "https://api.cristin.no/v2/results/1843480",
+        "title": "Adolescent income and binge drinking initiation: prospective evidence from the MyLife study"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Monitoring young lifestyles (MyLife) - a prospective longitudinal quantitative and qualitative study of youth development and substance use in Norway",
         "journal": "BMJ Open",
-        "url": "https://api.cristin.no/v2/results/1763476"
+        "url": "https://api.cristin.no/v2/results/1763476",
+        "title": "Monitoring young lifestyles (MyLife) - a prospective longitudinal quantitative and qualitative study of youth development and substance use in Norway"
       },
       {
         "type": "Lecture",
         "year": "2019",
-        "title": "Association of Constellations of Parental Risk With Children's Subsequent Anxiety and Depression: Findings From a HUNT Survey and Health Registry Study",
-        "url": "https://api.cristin.no/v2/results/1757394"
+        "url": "https://api.cristin.no/v2/results/1757394",
+        "title": "Association of Constellations of Parental Risk With Children's Subsequent Anxiety and Depression: Findings From a HUNT Survey and Health Registry Study"
       },
       {
         "type": "Poster",
         "year": "2019",
-        "title": "Alcohol use disorder (AUD) in offspring following exposure to parental risk constellations during adolescence: A combined HUNT survey and health registries study",
-        "url": "https://api.cristin.no/v2/results/1757388"
+        "url": "https://api.cristin.no/v2/results/1757388",
+        "title": "Alcohol use disorder (AUD) in offspring following exposure to parental risk constellations during adolescence: A combined HUNT survey and health registries study"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Increase in time spent on social media is associated with modest increase in depression, conduct problems, and episodic heavy drinking",
         "journal": "Journal of Adolescence",
-        "url": "https://api.cristin.no/v2/results/1743953"
+        "url": "https://api.cristin.no/v2/results/1743953",
+        "title": "Increase in time spent on social media is associated with modest increase in depression, conduct problems, and episodic heavy drinking"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Perceived harmfulness of various alcohol- and cannabis use modes: Secular trends, differences, and associations with actual substance use behaviors among Norwegian adolescents, 2007-2015",
         "journal": "Drug and Alcohol Dependence",
-        "url": "https://api.cristin.no/v2/results/1698334"
+        "url": "https://api.cristin.no/v2/results/1698334",
+        "title": "Perceived harmfulness of various alcohol- and cannabis use modes: Secular trends, differences, and associations with actual substance use behaviors among Norwegian adolescents, 2007-2015"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Identification and Assessment of Drug-User Groups Among Nightlife Attendees: Self-Reports, Breathalyzer-Tests and Oral Fluid Drug Tests",
         "journal": "European Addiction Research",
-        "url": "https://api.cristin.no/v2/results/1691973"
+        "url": "https://api.cristin.no/v2/results/1691973",
+        "title": "Identification and Assessment of Drug-User Groups Among Nightlife Attendees: Self-Reports, Breathalyzer-Tests and Oral Fluid Drug Tests"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Association of constellations of parental risk with children's subsequent anxiety and depression: Findings from a HUNT survey and health registry study",
         "journal": "JAMA pediatrics",
-        "url": "https://api.cristin.no/v2/results/1682680"
+        "url": "https://api.cristin.no/v2/results/1682680",
+        "title": "Association of constellations of parental risk with children's subsequent anxiety and depression: Findings from a HUNT survey and health registry study"
       },
       {
         "type": "Editorial",
         "year": "2018",
-        "title": "Making Connections Between Parenting Practices and Adolescent Substance Use",
         "journal": "Journal of Adolescent Health",
-        "url": "https://api.cristin.no/v2/results/1647448"
+        "url": "https://api.cristin.no/v2/results/1647448",
+        "title": "Making Connections Between Parenting Practices and Adolescent Substance Use"
       },
       {
         "type": "Letter to the editor",
         "year": "2018",
-        "title": "Consideration of use opportunities, novel products, and user modes in cannabis monitoring, research, and policy: a response to the commentary",
         "journal": "Addiction",
-        "url": "https://api.cristin.no/v2/results/1647409"
+        "url": "https://api.cristin.no/v2/results/1647409",
+        "title": "Consideration of use opportunities, novel products, and user modes in cannabis monitoring, research, and policy: a response to the commentary"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Social Class and Alcohol Use by Youth:\r\nDifferent Drinking Behaviors, Different Associations?",
         "journal": "Journal of Studies on Alcohol and Drugs",
-        "url": "https://api.cristin.no/v2/results/1529384"
+        "url": "https://api.cristin.no/v2/results/1529384",
+        "title": "Social Class and Alcohol Use by Youth:\r\nDifferent Drinking Behaviors, Different Associations?"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Ready, willing, and able: The role of cannabis use opportunities in understanding adolescent cannabis use",
         "journal": "Addiction",
-        "url": "https://api.cristin.no/v2/results/1475276"
+        "url": "https://api.cristin.no/v2/results/1475276",
+        "title": "Ready, willing, and able: The role of cannabis use opportunities in understanding adolescent cannabis use"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Depressive Symptomatology among Norwegian Adolescent Boys and Girls: The Patient Health Questionnaire-9 (PHQ-9) Psychometric Properties and Correlates",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1475273"
+        "url": "https://api.cristin.no/v2/results/1475273",
+        "title": "Depressive Symptomatology among Norwegian Adolescent Boys and Girls: The Patient Health Questionnaire-9 (PHQ-9) Psychometric Properties and Correlates"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Social Media Use and Episodic Heavy Drinking Among Adolescents",
         "journal": "Psychological Reports",
-        "url": "https://api.cristin.no/v2/results/1459482"
+        "url": "https://api.cristin.no/v2/results/1459482",
+        "title": "Social Media Use and Episodic Heavy Drinking Among Adolescents"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Psychosocial problems in children of women entering substance use disorder treatment: A longitudinal study",
         "journal": "Addictive Behaviours",
-        "url": "https://api.cristin.no/v2/results/1411684"
+        "url": "https://api.cristin.no/v2/results/1411684",
+        "title": "Psychosocial problems in children of women entering substance use disorder treatment: A longitudinal study"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Person-Environment Interactions and Adolescent Substance Use: The Role of Sensation Seeking and Perceived Neighborhood Risk",
         "journal": "Journal of Child & Adolescent Substance Abuse",
-        "url": "https://api.cristin.no/v2/results/1356828"
+        "url": "https://api.cristin.no/v2/results/1356828",
+        "title": "Person-Environment Interactions and Adolescent Substance Use: The Role of Sensation Seeking and Perceived Neighborhood Risk"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Who are the adolescents saying “No” to cannabis offers",
         "journal": "Drug and Alcohol Dependence",
-        "url": "https://api.cristin.no/v2/results/1353488"
+        "url": "https://api.cristin.no/v2/results/1353488",
+        "title": "Who are the adolescents saying “No” to cannabis offers"
       },
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "Poly-drug use and mental distress comorbidity: A 10-year prospective study of patients from substance abuse treatment in Norway",
-        "url": "https://api.cristin.no/v2/results/1500236"
+        "url": "https://api.cristin.no/v2/results/1500236",
+        "title": "Poly-drug use and mental distress comorbidity: A 10-year prospective study of patients from substance abuse treatment in Norway"
       },
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Who receives cannabis use offers: A general population study of adolescents",
         "journal": "Drug and Alcohol Dependence",
-        "url": "https://api.cristin.no/v2/results/1280303"
+        "url": "https://api.cristin.no/v2/results/1280303",
+        "title": "Who receives cannabis use offers: A general population study of adolescents"
       },
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Co-occurrence between mental distress and poly-drug use: A ten year prospective study of patients from substance abuse treatment",
         "journal": "Addictive Behaviours",
-        "url": "https://api.cristin.no/v2/results/1254969"
+        "url": "https://api.cristin.no/v2/results/1254969",
+        "title": "Co-occurrence between mental distress and poly-drug use: A ten year prospective study of patients from substance abuse treatment"
       },
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Adolescent Alcohol Use Before and After the High School Transition",
         "journal": "Alcoholism: Clinical and Experimental Research",
-        "url": "https://api.cristin.no/v2/results/1254968"
+        "url": "https://api.cristin.no/v2/results/1254968",
+        "title": "Adolescent Alcohol Use Before and After the High School Transition"
       },
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Illicit use of opioid substitution drugs: Prevalence, user characteristics, and the association with non-fatal overdoses",
         "journal": "Drug and Alcohol Dependence",
-        "url": "https://api.cristin.no/v2/results/1207457"
+        "url": "https://api.cristin.no/v2/results/1207457",
+        "title": "Illicit use of opioid substitution drugs: Prevalence, user characteristics, and the association with non-fatal overdoses"
       }
     ]
+  },
+  "rg": {
+    "id": "Jasmina-Burdzovic-Andreas",
+    "name": null,
+    "img": [],
+    "affiliation": "",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

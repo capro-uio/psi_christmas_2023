@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0006-1328-9861",
-    "name": "Nikolai Haahjem Eftedal",
+    "orcid": ["0009-0006-1328-9861"],
+    "name": ["Nikolai Haahjem Eftedal"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -22,8 +22,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Nikolai Haahjem Eftedal",
-    "id": "618532",
+    "name": ["Nikolai Haahjem Eftedal"],
+    "id": ["618532"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -74,15 +74,15 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Intergenerational transmission of ADHD behaviors: Genetic and environmental pathways",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2194548"
+        "url": "https://api.cristin.no/v2/results/2194548",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic literature review",
         "year": "2023",
         "title": "Where not to look for targets of social reforms and interventions, according to behavioral genetics",
-        "journal": "Behavioral and Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/2192508"
+        "url": "https://api.cristin.no/v2/results/2192508",
+        "journal": "Behavioral and Brain Sciences"
       },
       {
         "type": "Poster",
@@ -94,8 +94,8 @@
         "type": "Errata",
         "year": "2023",
         "title": "Corrigendum to “Motivated moral judgments about freedom of speech are constrained by a need to maintain consistency” [Cognition, Volume 211, June 2021, 104623] (Cognition (2021) 211, (S0010027721000421), (10.1016/j.cognition.2021.104623))",
-        "journal": "Cognition",
-        "url": "https://api.cristin.no/v2/results/2176463"
+        "url": "https://api.cristin.no/v2/results/2176463",
+        "journal": "Cognition"
       },
       {
         "type": "Lecture",
@@ -107,15 +107,15 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Justice sensitivity is undergirded by separate heritable motivations to be morally principled and opportunistic",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/2023434"
+        "url": "https://api.cristin.no/v2/results/2023434",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Abstract",
         "year": "2021",
         "title": "Intergenerational Transmission of ADHD: More Evidence for Heritability than Fast Life History",
-        "journal": "Behavior Genetics",
-        "url": "https://api.cristin.no/v2/results/2027894"
+        "url": "https://api.cristin.no/v2/results/2027894",
+        "journal": "Behavior Genetics"
       },
       {
         "type": "Academic lecture",
@@ -127,8 +127,8 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Motivated moral judgments about freedom of speech are constrained by a need to maintain consistency",
-        "journal": "Cognition",
-        "url": "https://api.cristin.no/v2/results/1941499"
+        "url": "https://api.cristin.no/v2/results/1941499",
+        "journal": "Cognition"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -152,16 +152,26 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Correlations between social dominance orientation and political attitudes reflect common genetic underpinnings",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "https://api.cristin.no/v2/results/1754459"
+        "url": "https://api.cristin.no/v2/results/1754459",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "The Norwegian version of the five factor narcissism inventory for vulnerable narcissism and the grandiose narcissism subscale of indifference: Psychometric properties of the long‐ and short‐form versions",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/1715273"
+        "url": "https://api.cristin.no/v2/results/1715273",
+        "journal": "Scandinavian Journal of Psychology"
       }
     ]
+  },
+  "rg": {
+    "id": "Nikolai-Eftedal",
+    "name": "Nikolai Haahjem Eftedal",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

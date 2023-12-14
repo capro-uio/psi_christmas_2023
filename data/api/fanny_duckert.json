@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Fanny Duckert",
-    "id": "-C7UGpcAAAAJ",
-    "affiliation": "Professor of Pschology (em), University of Oslo",
+    "name": ["Fanny Duckert"],
+    "id": ["-C7UGpcAAAAJ"],
+    "affiliation": ["Professor of Pschology (em), University of Oslo"],
     "data": {
       "publications": [
         {
@@ -774,11 +774,11 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Fanny Duckert",
-    "id": "24320",
+    "name": ["Fanny Duckert"],
+    "id": ["24320"],
     "keywords": ["Labour", "Socialpsychology", "Working life", "Communication", "Learning", "Family therapy", "Language", "Cultural psychology", "Competence", "Psychology of Organizations", "Drugs", "Decison making", "Working life research", "Media psychology"],
     "position": ["Emeritus", "Guest"],
-    "img": "https://api.cristin.no/v2/persons/24320/picture",
+    "img": ["https://api.cristin.no/v2/persons/24320/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1386,5 +1386,61 @@
         "url": "https://api.cristin.no/v2/results/432590"
       }
     ]
+  },
+  "rg": {
+    "id": "Fanny-Duckert",
+    "name": "Fanny Duckert",
+    "img": "https://i1.rgstatic.net/ii/profile.image/280132813115405-1443800276000_Q128/Fanny-Duckert.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Qualitative Interviews", "Participant Observation", "Qualitative Analysis", "Addiction Psychiatry", "Qualitative Inquiry", "Academic Writing", "Article Writing", "Research Analysis", "Project Evaluation"],
+    "works": [
+      {
+        "title": "Industrial Alcohol Programs in Norway",
+        "tags": ["Chapter"],
+        "date": "Oct 2023",
+        "authors": ["Fanny Duckert"],
+        "abstract": []
+      },
+      {
+        "title": "Work-related drinking and processes of social integration and marginalization in two Norwegian workplaces",
+        "tags": ["Article"],
+        "date": "Mar 2015",
+        "authors": ["Sverre Nesvåg", "Fanny Duckert"],
+        "abstract": ["The aim of this study was to investigate the role of drinking in two Norwegian workplaces, focusing on how the drinking may contribute to both social integration and marginalization of employees. The two workplaces were a division of a multinational oil company and a public library both located in one of Norway's larger cities. Data were collected..."]
+      },
+      {
+        "title": "Alkoholproblemer på arbeidsplassen – en arena for tidlig intervensjon via nye medier",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Fanny Duckert", "Filip Drozd", "Pål Kraft"],
+        "abstract": ["The increasingly easy access to alcohol in Norway has led to a rise in alcohol consumption. The use of alcohol in work-related situations has grown to become a normal feature, espe- cially among persons holding senior positions within business and industry. The economic loss due to employees’ excessive drinking has reached formidable proportions. E..."]
+      },
+      {
+        "title": "What kind of changes can be expected in drinking patterns after treatment?",
+        "tags": ["Article"],
+        "date": "Feb 2000",
+        "authors": ["Fanny Duckert"],
+        "abstract": []
+      },
+      {
+        "title": "A Necessary Debate",
+        "tags": ["Article"],
+        "date": "Mar 1987",
+        "authors": ["Fanny Duckert"],
+        "abstract": []
+      },
+      {
+        "title": "Rehabilitation of alcoholics and drug addicts: An experimental approach",
+        "tags": ["Article"],
+        "date": "Apr 1980",
+        "authors": ["Fanny Duckert", "O G Aasland"],
+        "abstract": ["Results of an experimental treatment program incorporating social learning theory, behavior therapy and vocational rehabilitation are described."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [6],
+    "reads": [292],
+    "citations": [28]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Karine Porpino Viana",
-    "id": "6l0vlCUAAAAJ",
-    "affiliation": "Postdoc Researcher at Department of Psychology - University of Oslo",
+    "name": ["Karine Porpino Viana"],
+    "id": ["6l0vlCUAAAAJ"],
+    "affiliation": ["Postdoc Researcher at Department of Psychology - University of Oslo"],
     "data": {
       "publications": [
         {
@@ -124,8 +124,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-4154-2167",
-    "name": "Karine Viana",
+    "orcid": ["0000-0003-4154-2167"],
+    "name": ["Karine Viana"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -141,8 +141,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Karine Porpino Viana",
-    "id": "433588",
+    "name": ["Karine Porpino Viana"],
+    "id": ["433588"],
     "keywords": [],
     "position": ["Associate professor", "Associate professor"],
     "img": {},
@@ -193,5 +193,15 @@
         "url": "https://api.cristin.no/v2/results/1727713"
       }
     ]
+  },
+  "rg": {
+    "id": "Karolyne-Porpino",
+    "name": "Karolyne Porpino",
+    "img": "https://i1.rgstatic.net/ii/profile.image/870527702953984-1584561386077_Q128/Karolyne-Porpino.jpg",
+    "affiliation": "Universidade Federal Fluminense | UFF, Universidade Federal Fluminense, Departamento de Letras Estrangeiras Modernas GLE",
+    "keywords": ["Teaching and Learning", "Cultural Studies", "Culture", "Multiculturalism", "Cultural Sociology", "Cultural Diversity", "Cross Cultural Studies", "Feminist Theory", "International Migration", "Oral History"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

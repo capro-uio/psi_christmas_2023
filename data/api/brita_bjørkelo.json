@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Brita Bjørkelo",
-    "id": "36hULAYAAAAJ",
-    "affiliation": "Clinical psychologist, Professor, Norwegian Police University College/Bjørknes University …",
+    "name": ["Brita Bjørkelo"],
+    "id": ["36hULAYAAAAJ"],
+    "affiliation": ["Clinical psychologist, Professor, Norwegian Police University College/Bjørknes University …"],
     "data": {
       "publications": [
         {
@@ -774,8 +774,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-7535-2076",
-    "name": "Brita Bjørkelo",
+    "orcid": ["0000-0001-7535-2076"],
+    "name": ["Brita Bjørkelo"],
     "distinctions": [],
     "education": [
       {
@@ -792,24 +792,24 @@
       },
       {
         "start": "2018",
-        "end": "2018",
         "position": "Professor (organizational psychology, WOP and leadership)",
         "organisation": "Norwegian Police University College",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2011",
-        "end": "2017",
         "position": "Associate professor (WOP and leadership)",
         "organisation": "Norwegian Police University College",
-        "country": "NO"
+        "country": "NO",
+        "end": "2017"
       },
       {
         "start": "2010",
-        "end": "2011",
         "position": "Associate professor (Education)",
         "organisation": "University of Bergen",
-        "country": "NO"
+        "country": "NO",
+        "end": "2011"
       }
     ],
     "employment": [
@@ -827,24 +827,24 @@
       },
       {
         "start": "2018",
-        "end": "2018",
         "position": "Professor (organizational psychology, WOP and leadership)",
         "organisation": "Norwegian Police University College",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2011",
-        "end": "2017",
         "position": "Associate professor (WOP and leadership)",
         "organisation": "Norwegian Police University College",
-        "country": "NO"
+        "country": "NO",
+        "end": "2017"
       },
       {
         "start": "2010",
-        "end": "2011",
         "position": "Associate professor (Education)",
         "organisation": "University of Bergen",
-        "country": "NO"
+        "country": "NO",
+        "end": "2011"
       }
     ],
     "membership": [],
@@ -1084,11 +1084,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Brita Bjørkelo",
-    "id": "46279",
+    "name": ["Brita Bjørkelo"],
+    "id": ["46279"],
     "keywords": ["Management", "Professional identity", "Organisation development", "Work and organisational psychology", "Leader development", "Police studies"],
     "position": ["Guest", "Guest", "Professor", "Professor"],
-    "img": "https://api.cristin.no/v2/persons/46279/picture",
+    "img": ["https://api.cristin.no/v2/persons/46279/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1667,5 +1667,459 @@
         "url": "https://api.cristin.no/v2/results/1618681"
       }
     ]
+  },
+  "rg": {
+    "id": "Brita-Bjorkelo",
+    "name": "Brita Bjørkelo",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277541123313694-1443182368778_Q128/Brita-Bjorkelo.jpg",
+    "affiliation": "Norwegian Police College University | PHS, Norwegian Police College University, Research department",
+    "keywords": ["Work Psychology", "Management", "Teacher Training", "Pedagogy and Education", "Leadership", "Organizational Culture", "Industrial Psychology", "Teacher Education", "Training and Development", "Human Resource Development"],
+    "works": [
+      {
+        "title": "A role that takes its toll? The moderating role of leadership in role stress and exposure to workplace bullying",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Piotr Stapiński", "Brita Bjørkelo", "Premilla D'Cruz", "Malgorzata Gamian-Wilk"],
+        "abstract": ["Purpose: According to the work environment hypothesis, and as documented by empirical evidence, organizational factors play a crucial role in the development of workplace bullying. However, to better understand and prevent bullying at work and establish sustainable, responsible and ethical workplaces, it is crucial to understand which organizationa..."]
+      },
+      {
+        "title": "Enhancing Self-Reported Assessment of Working Conditions in Policing: Revisiting the Psychometric Properties and Applications of the Police Stress Questionnaire",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Knut Inge Fostervold", "Brita Bjørkelo"],
+        "abstract": ["Objectives\nPolicing is recognized as a highly stressful occupation, encompassing stressors not commonly encountered in other fields. In response, police-specific stress scales have been developed and used when studying police work. Despite changes in the composition of police personnel, most studies examining police working conditions focus on swor..."]
+      },
+      {
+        "title": "Arbeidsvilkår på operasjonssentralen (APO)",
+        "tags": ["Book", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Brita Bjørkelo", "Eva Langvik", "Marte Myhrum", "Anniken Grønstad"],
+        "abstract": ["Working conditions in the control room (WCCR) aims at increasing \nknowledge on working conditions and health challenges in the control \nroom. The study invitation was sent to all current and previous \nemployees at the control room in East police district, Norway."]
+      },
+      {
+        "title": "Unpacking preventive policing: Towards a holistic framework",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Hjørdis Birgitte Ellefsen", "Brita Bjørkelo", "Inger Marie Sunde", "Nicholas Robert Fyfe"],
+        "abstract": ["Assuming that society is better off if the harm caused by crime-including the costs entailed by the investigation, prosecution and punishment-can be avoided, the proactive approach of preventive policing (PP) is generally promoted and understood as a good and effective solution. In this article, we unpack the concept of PP by analysing how it has b..."]
+      },
+      {
+        "title": "The Role of Verbal Peer Feedback in the Police: A Scoping Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Olav Dahl", "Marie-Louise Damen", "Brita Bjørkelo", "Magnus Rom Jensen"],
+        "abstract": ["Police officers, like other professionals, need to develop their competence and skills in correspondence with society. Peer feedback has been proven to significantly affect learning in the educational setting, and colleagues are seen as significant for the learning process in organizations. However, there seems to be little systematic knowledge con..."]
+      },
+      {
+        "title": "Ekte politiarbeid? Utvikling og uttesting av et prestisjehierarki for politiarbeid",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Brita Bjørkelo", "Tatanya Ducran Valland", "Tanja H. Nordberg", "Marie-Louise Damen"],
+        "abstract": []
+      },
+      {
+        "title": "Upper and lower musculoskeletal back pain, stress, physical activity, and organisational work support: An exploratory study of police investigative interviewers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Lillis Rabbing", "Brita Bjørkelo", "Eva Langvik"],
+        "abstract": ["Police investigative interviewers in special victims’ units have particularly stressing work conditions. Being few in numbers, with highly specialised competence, the health and well-being of this workgroup are key. This study explores the prevalence of muscular lower and upper back pain and stress and associations with physical activity and organi..."]
+      },
+      {
+        "title": "Are Investigative Plans at Risk of Becoming ʻThe Emperor’s New Clothes’?",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Geir Gjerde Knutsen", "Mia Rosa Koss Hartmann", "Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Workplace bullying: Individual hostility, poor work environment or both? Exploring competing explanatory models in a single longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Malgorzata Gamian-Wilk", "Brita Bjørkelo", "Eva Gemzøe Mikkelsen", "Kamila Madeja-Bien"],
+        "abstract": ["Purpose: A central focus of research and literature on workplace bullying is the importance of explanatory factors such as individual dispositions (i.e., the vulnerability hypothesis) and work environment factors (i.e., the work environment hypothesis). Although several studies address the importance of the two approaches, as well as their individu..."]
+      },
+      {
+        "title": "Transparens og tilsløring i politiets kunnskapssystemer",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Jenny Maria Lundgaard", "Guro Flinterud", "Brita Bjørkelo", "Johanne Yttri Dahl"],
+        "abstract": ["The Norwegian police is increasingly focusing on knowledge-based policing. It is intended that knowledge should steer practice, but the becoming of this knowledge rarely comes under scrutiny. The article uses a case from a police control room to explore the role technology plays in knowledge production, using perspectives from science and technolog..."]
+      },
+      {
+        "title": "Betydningen av å møtes. Relasjoner som grunnlag for læring og undervisning",
+        "tags": ["Book"],
+        "date": "May 2022",
+        "authors": ["Brita Bjørkelo", "Aslaug Grov Almås", "Dag Roness", "marit ulvik"],
+        "abstract": ["Skolens oppgave er ikke bare å sikre elever et målbart læringsutbytte. Skolen er også et sted der mennesker skal leve sammen og utvikle seg. Ett av fire kompetanseområder som er lagt til grunn for Fagfornyelsen er kompetanse i å kommunisere, samhandle og å delta. \n\nDet relasjonelle aspektet inngår som en sentral del i dette. I en årrekke har profes..."]
+      },
+      {
+        "title": "A Scoping Review of Stress Measurements and Psychometry in Police Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Lillis Rabbing", "Brita Bjørkelo", "Knut Inge Fostervold", "Bjørn Lau"],
+        "abstract": ["Despite a growing body of research, there is no systematic body of evidence that establishes the rigour of existing measures of stress among police. The aim of this scoping review was to investigate (1) the diversity of stress measures used in police research and (2) the psychometric properties of such measures and the ways in which they are utilis..."]
+      },
+      {
+        "title": "Perceived adequate education in ethics: A way to tap into ethical Social Networking Sites awareness?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Brita Bjørkelo", "Aslaug Grov Almås", "Ingrid Helleve"],
+        "abstract": ["Teachers are role models when it comes to ethics both on- and offline. Teacher education on- and offline situations and issues that may be of ethical concernThis study first investigates perceived adequacy of ethics education. Second, it investigates how perceived usefulness of ethics education relates to how aware preservice teachers’ report to be..."]
+      },
+      {
+        "title": "Varsling i arbeidslivet. Arbeidsgivers og leders roller og ansvar",
+        "tags": ["Book"],
+        "date": "Jan 2021",
+        "authors": ["Brita Bjørkelo", "Birthe Eriksen"],
+        "abstract": ["Varsling i arbeidslivet - arbeidsgivers og leders roller og ansvar tar for seg hvordan varsler om kritikkverdige forhold tas imot og håndteres, og hvordan de som er involvert blir ivaretatt.\n\nBoken retter søkelyset mot arbeidsgiverens og lederens rolle. Det er disse som har myndighet til å håndtere mottatte varsler, ivareta arbeidstakeren som varsl..."]
+      },
+      {
+        "title": "Whistleblowing and Bullying at Work: The Role of Leaders",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Brita Bjørkelo", "Cecilie Thorsen", "Premilla D'Cruz", "Eva Gemzøe Mikkelsen"],
+        "abstract": ["This chapter discusses the role of leaders in regard to whistleblowing and workplace bullying with some examples from clinical practice. In whistleblowing research, the role of leaders has been described from the earliest literature, yet the focus on the dual role of leaders as both complaint recipients and whistleblowers themselves is rather new...."]
+      },
+      {
+        "title": "To comply or not to comply: Social exclusion increases compliance in Cyberball but only with the non-rejecters",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Malgorzata Gamian-Wilk", "Kamila Madeja-Bien", "Brita Bjørkelo"],
+        "abstract": ["Previous studies indicate that social exclusion causes aggression and reduction in pro-social behavior. However, ostracized participants tend to be more susceptible to social influence attempts. The current studies examined the effect of exclusion on agreeing with other people’s requests. In line with the need threat model of ostracism, the results..."]
+      },
+      {
+        "title": "We Didn’t Win the Battle, but We Are Gonna Win the War!",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Jarle Løwe Sørensen", "Brita Bjørkelo"],
+        "abstract": ["Funding is not always essential for performing good and relevant\nresearch, but it helps. Funding frees additional time and resources,\nas well as co-production and co-creational processes that may not\nbe available to individual researchers alone but may grow from larger\nresearch collaboration. In 2019, we were both involved in an application\nfor fun..."]
+      },
+      {
+        "title": "Diversity in Education and Organization: From Political Aims to Practice in the Norwegian Police Service",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Brita Bjørkelo", "Hege H. Bye", "Mariann Stærkebye Leirvik", "Jaishankar Ganapathy"],
+        "abstract": ["Police agencies implement a variety of strategies for recruiting, promoting and retaining police officers with diverse backgrounds. Changes have however been difficult to attain. We expand research on representative bureaucracy by investigating diversity perspectives in a case study of the Norwegian Police Service (NPS). Using mixed-methods we inve..."]
+      },
+      {
+        "title": "Organisasjonsteori om krisehåndtering i teori og praksis",
+        "tags": ["Chapter"],
+        "date": "Jul 2020",
+        "authors": ["Natalia Andreassen", "Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Police stress studies around the world – measurements that work",
+        "tags": ["Presentation"],
+        "date": "Feb 2020",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Knut Inge Fostervold", "Brita Bjørkelo"],
+        "abstract": ["Police work has become increasingly demanding and complex. Beside heightened pressure for efficiency employees in the police service need to handle a wide array of operational and organisational challenges in their profession (Shane, 2010; Berg et al., 2005). The impact of work stressors on employees in the police is well documented and some tasks..."]
+      },
+      {
+        "title": "External Whistleblowers’ Experiences of Workplace Bullying by Superiors and Colleagues",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Heungsik Park", "Brita Bjørkelo", "John Blenkinsopp"],
+        "abstract": ["The purpose of this study was to investigate external whistleblowers’ experiences of workplace bullying by superiors and colleagues, and to analyze how the bullying was influenced by factors such as the support they received from government or NGOs, and whether colleagues understood the reasons for the whistleblower’s actions. For bullying by colle..."]
+      },
+      {
+        "title": "Leder",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "The role of personality in the form of temperament in relation to bullying at work",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Malgorzata Gamian-Wilk", "Brita Bjørkelo"],
+        "abstract": ["Bullying at work is a long-standing area of research interest that requires investigation of the role of the individual exposed to systematic negative behaviour. Studies using cross-sectional samples and broad personality measures have found some distinguishing personal characteristics of employees who are bullied compared to others. Few, however h..."]
+      },
+      {
+        "title": "FIX’ing experiences: Results from projects aimed at increasing gender balance in top research positions at the Norwegian Police University College",
+        "tags": ["Conference Paper"],
+        "date": "Oct 2019",
+        "authors": ["Brita Bjørkelo", "Dag Ellingsen"],
+        "abstract": ["Since 2015, the Norwegian Police University College (NPUC) twice has received funding from the Research Council of Norway and its programme on gender balance in research. The projects have aimed at increasing the proportion of Professors in general and female Professors in particular, and to strengthen police science as a discipline."]
+      },
+      {
+        "title": "Norwegian Police Service Employee Study",
+        "tags": ["Poster"],
+        "date": "May 2019",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Brita Bjørkelo", "Knut Inge Fostervold"],
+        "abstract": ["Potential sources of strain at work are often divided into operational and organisational demands (Berg et al., 2005; Shane, 2010). In the police service the former, job-specific conditions, may include traumatic events and threats to physical and mental health, shift work, and overtime. The latter, organisational demands, affects all organisationa..."]
+      },
+      {
+        "title": "Becoming a professional digital competent teacher",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Ingrid Helleve", "Aslaug Grov Almås", "Brita Bjørkelo"],
+        "abstract": ["The aim of this Norwegian study is to focus on challenges and possibilities concerning professional digital competence (PDC) for teacher education encountering students in transition between the position as private and professionals. Students need to gain a self-understanding of who they are and how to react in a profession where there few correct..."]
+      },
+      {
+        "title": "Challenging and Demanding Work: Operative and Organisational Work Demands and Individual and Organisational Resources as Predictors of Health and Work Engagement in the Norwegian Police Service",
+        "tags": ["Presentation"],
+        "date": "Feb 2019",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Brita Bjørkelo", "Knut Inge Fostervold"],
+        "abstract": ["The project focuses on specific differences in working conditions that are of importance for mental and musculoskeletal health and for work engagement and mastery of work at the Norwegian Police Service"]
+      },
+      {
+        "title": "Special Issue Editorial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Synnøve Jahnsen", "Annette Vestby", "Brita Bjørkelo"],
+        "abstract": ["Welcome to this Special Issue of the Nordic Journal of Studies in Policing (NJSP), which is specifically aimed at methodological challenges, limits, and possibilities for future research on policing and the police! \n\nThe aim of the issue is to explore the conditions under which research on policing is facilitated and regulated by the research commu..."]
+      },
+      {
+        "title": "Bygge kompetanse for å beholde kompetanse/ «Fix the system and achieve unique institutional goals»",
+        "tags": ["Research", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Brita Bjørkelo", "Liv Finstad"],
+        "abstract": ["Since 2015, the Norwegian Police University College (NPUC) has received funding from the Research Council of Norway and the Balance programme (Work Programme 2013-2017, RCN, 2013) to work on gender balance in research through the FIX project (RCN, 2015). The aim has been to increase the proportion of professors in general, especially female profess..."]
+      },
+      {
+        "title": "Leading and Managing Interaction Under Risk in the Police: What May Be Some of the Underlying Conditions for Learning from Experience?",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": ["Leading interaction under risk is one of the aspects of being a leader in the police. After the 22 nd of July 2011 Norwegian terror attacks it has been pointed out that the main explanatory factors as to why interaction under risk turned out as it did not necessarily was due to the lack of resources, previous evaluations or government plans but rat..."]
+      },
+      {
+        "title": "Whistleblowing and Bullying at Work: The Role of Leaders",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Brita Bjørkelo", "Cecilie Thorsen", "Premilla D'Cruz", "Eva Gemzøe Mikkelsen"],
+        "abstract": []
+      },
+      {
+        "title": "Innenfor eller utenfor? – Varslingens ettervirkninger",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Brita Bjørkelo", "Stig Berge Matthiesen", "Morten Birkeland Nielsen"],
+        "abstract": ["Varsling er når en ansatt sier ifra om kritikkverdige handlinger på arbeidsplassen til noen som er i stand til å gjøre noe med det. Studier gjennomført i rene varslerutvalg finner at andelen av ansatte som opplever negative reaksjoner etter varslingen, er høy. Studier som har benyttet mer tilfeldige utvalg (bekvemmelighets- eller tilfeldig trukne u..."]
+      },
+      {
+        "title": "Kan dét være godt politiarbeid? En undersøkelse av erfaringslæring av gråsonesaker",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Linda Hoel", "Brita Bjørkelo"],
+        "abstract": ["his in-depth study investigates and discusses how police leaders lead and handle learning from experience. This is done by going into actual cases where police employees are suspected of committing criminal offences on duty and the Norwegian Bureau for the Investigation of Police Affairs (the Bureau) decides not to prosecute, but still requests of..."]
+      },
+      {
+        "title": "Coping strategies to exposure to workplace bullying",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Malgorzata Gamian-Wilk", "Brita Bjørkelo", "Kamila Madeja-Bien"],
+        "abstract": ["The article concerns coping strategies of workers subjected to workplace bullying. Firstly, bullying process development is compared with various models of conflict escalation. Secondly, the review of literature on employees’ exposed to bullying at work responses to negative workplace activities is presented. Finally, the results of studies compari..."]
+      },
+      {
+        "title": "Call for Papers: Special Issue on Police Research Methods",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Synnøve Jahnsen", "Annette Vestby", "Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Leder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Anmeldelse og kommentarer til En svensk tiger",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Sociocultural dynamics in whistleblowing: Insights from India",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Premilla D'Cruz", "Brita Bjørkelo"],
+        "abstract": ["Purpose\n– Through state-of-the-art insights on whistleblowing in India, the purpose of this paper is to highlight the role of sociocultural dynamics in whistleblowing.\n\nDesign/methodology/approach\n– A review of literature on wrongdoing and whistleblowing in India revealed various aspects of the national context pertinent to different stages of the..."]
+      },
+      {
+        "title": "Leder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Whistleblowing: Antecedents and consequences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Police Leadership Development: Intentions and Critical Success-Factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Jan Ole Vanebo", "Brita Bjørkelo", "Terje Aaserud"],
+        "abstract": ["The Norwegian Police Service (NPS) have been heavily criticized after the 22 July 2011 terror attacks at Utøya and in Oslo. One of the evaluation reports stated three shortcomings in the NPS: culture, attitudes and leadership. Management and leadership in the NPS needs to be improved and strengthened, and this shall take place among other things, w..."]
+      },
+      {
+        "title": "Welcome!",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Brita Bjørkelo", "Helene Gundhus", "Gunnar Thomassen"],
+        "abstract": []
+      },
+      {
+        "title": "Velkommen!",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Brita Bjørkelo", "Helene Gundhus", "Gunnar Thomassen"],
+        "abstract": []
+      },
+      {
+        "title": "Å forbedre en etat",
+        "tags": ["Article"],
+        "date": "Feb 2015",
+        "authors": ["Brita Bjørkelo", "Helene O. I. Gundhus"],
+        "abstract": ["Reformer i offentlig forvaltning tar ofte utgangspunkt i å endre atferd via formelle strukturer og formaliserte prosedyrer og rutiner (Røvik 2007). Likevel viser forsk­ning at formell struktur og faktisk atferd i organisasjonen sjeldent samsvarer (Jacobsen og Thorsvik 2013). Å påvirke atferd gjennom formaliserte styringsinstrumenter kan dermed by p..."]
+      },
+      {
+        "title": "Barriers to Achieving Ethnic Diversity in the Norwegian Police Service",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Brita Bjørkelo", "Marit Egge", "Hege H. Bye", "Jaishankar Ganapathy"],
+        "abstract": ["The police are perceived as being one of the most interesting and challenging organizations in which to study diversity because of the police’s symbolic meaning, visible role in society, legitimate power, and contact with all citizens. Even though many reports and studies have addressed diversity within the police, few have investigated recruitment..."]
+      },
+      {
+        "title": "On the Appropriateness of Research Design: Intended and Actual Whistleblowing",
+        "tags": ["Chapter"],
+        "date": "Aug 2014",
+        "authors": ["Brita Bjørkelo", "Hege H. Bye"],
+        "abstract": []
+      },
+      {
+        "title": "Whistleblowing at work in India?",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Social Networking Sites in Education – Governmental Recommendations and Actual Use",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2013",
+        "authors": ["Ingrid Helleve", "Aslaug Grov Almås", "Brita Bjørkelo"],
+        "abstract": ["The aim of this paper is to explore to what extent and for what purposes pre-service teachers (Study 1, n = 474) and upper secondary pupils (Study 2, n = 324) use social networking sites (SNS), and how the Government’s recommendations correspond to the two groups’ understanding of their educational institutions’ SNS guidelines. Results show that th..."]
+      },
+      {
+        "title": "Workplace bullying after whistleblowing: Future research and implications",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2013",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": ["Purpose\nThis paper aims to present directions for future research by linking the academic fields of workplace bullying and whistleblowing together. This article also suggests implications as to how to deal with the health consequences that can develop after such workplace experiences.\n\nDesign/methodology/approach\nThe paper describes empirical resea..."]
+      },
+      {
+        "title": "Emosjonenes rolle i profesjonelt lærerarbeid: En av veien til bevisstgjøring i lærerutdanningen",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2013",
+        "authors": ["Brita Bjørkelo", "Eva Sunde", "Guro Fjeld", "Kristine Lønningen"],
+        "abstract": ["I alle yrker som har med mennesker å gjøre spiller emosjoner en viktig rolle. Til tross for at den emosjonelle siden av ulike yrker kan ha hatt fokus i forskning, har temaet tilsynelatende vært betraktet som lite sentralt i profesjonsutdanninger, som eksempelvis lærerutdanningen. Artikkelen beskriver mulige begrep og perspektiv på hvordan emosjoner..."]
+      },
+      {
+        "title": "Whistleblowing and neoliberalism: Political resistance in late capitalist economy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Brita Bjørkelo", "Ole Jacob Madsen"],
+        "abstract": ["The reigning global market ideology, frequently referred to as neoliberalism, inherently strives for fewer economic regulations in order to create greater wealth for humanity. Whistleblowing, on the other hand, is an action that aims at preserving the conditions and values of the greater common good. Therefore, economic considerations, and human an..."]
+      },
+      {
+        "title": "The stigma of reporting wrongdoing at work: When doing right is perceived as wrong",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Brita Bjørkelo", "Maciej Macko"],
+        "abstract": ["The stigma of reporting wrongdoing at work: When doing right is perceived as wrong\nThe act of reporting unethical, illegal and illegitimate practices at work, whistleblowing, can be associated with a stigma for the individual in question (Banja, 1985). This article presents the stigmatizing position of reporting wrongdoing at work, types of wrongdo..."]
+      },
+      {
+        "title": "Whistleblowing at work in India?",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Brita Bjørkelo"],
+        "abstract": ["Whistleblowing is when an employee or worker reports misconduct, such as fraud or the harassment of a colleague, to someone who is able to do something about it inside or outside his or her workplace (cf. Near & Miceli, 1985). While many studies on whistleblowing have been conducted in North America and other parts of the world (see e.g., Bjørkelo,..."]
+      },
+      {
+        "title": "Veien videre: Psykoterapi for arbeidstakere med mobbeerfaringer [Moving forward: Psychotherapy for employees with bullying experiences]",
+        "tags": ["Article"],
+        "date": "Aug 2011",
+        "authors": ["Brita Bjørkelo", "Nils Magerøy", "Kirsten Magerøy"],
+        "abstract": ["http://www.psykologtidsskriftet.no/index.php?seks_id=149162&a=2\n\nDenne artikkelen er rettet mot behandlere som møter arbeidstakere som har blitt mobbet på arbeidsplassen generelt og mobbet etter varsling spesielt i sin kliniske hverdag. Studier har vist at det å bli utsatt for mobbing på arbeidsplassen kan henge sammen med svært alvorlige helsekons..."]
+      },
+      {
+        "title": "Silence is golden? Characteristics and experiences of self-reported whistleblowers",
+        "tags": ["Article"],
+        "date": "Apr 2011",
+        "authors": ["Brita Bjørkelo", "Ståle Valvatne Einarsen", "Morten Birkeland Nielsen", "Stig Berge Matthiesen"],
+        "abstract": ["This study investigates the characteristics of whistleblowers, the prevalence and nature of whistleblowing, and the occurrence of retaliation after whistleblowing using a randomly selected and representative sample of Norwegian employees. The results showed that 12 per cent self-reported as whistleblowers according to an operational definition. Bei..."]
+      },
+      {
+        "title": "Preventing and dealing with retaliation against whistleblowers",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Brita Bjørkelo", "Stig Berge Matthiesen"],
+        "abstract": ["http://www.lulu.com/shop/david-lewis-and-wim-vandekerckhove/whistleblowing-and-democratic-values/ebook/product-18732590.html;jsessionid=D065A93ACBCE34E20F02FC45382C0C85\n\nIn 2001, Sherron Watkins, an employee in the American gas and energy company Enron, notified her chief executive officer Kenneth Lay about a perceived accounting scandal. Watkins d..."]
+      },
+      {
+        "title": "Workplace bullying - A toxic part of organizational life",
+        "tags": ["Chapter"],
+        "date": "Jan 2011",
+        "authors": ["Stig Berge Matthiesen", "Brita Bjørkelo"],
+        "abstract": []
+      },
+      {
+        "title": "Predicting proactive behaviour at work: Exploring the role of personality as an antecedent of whistleblowing behaviour",
+        "tags": ["Article"],
+        "date": "Dec 2010",
+        "authors": ["Brita Bjørkelo", "Ståle Valvatne Einarsen", "Stig Berge Matthiesen"],
+        "abstract": ["This paper reports on the role of personality as an antecedent of proactive behaviour at work in the form of whistleblowing. In the interest of triangulation, two studies were used, along with two personality measures. The results of Study 1, conducted among 503 municipality employees, show that the NEO Five-Factor Inventory dimensions of extravers..."]
+      },
+      {
+        "title": "Workplace Bullying as the Dark Side of Whistleblowing",
+        "tags": ["Chapter"],
+        "date": "Sep 2010",
+        "authors": ["Stig Berge Matthiesen", "Brita Bjørkelo", "Ronald J Burke"],
+        "abstract": []
+      },
+      {
+        "title": "Sexual Harassment: Prevalence, Outcomes, and Gender Differences Assessed by Three Different Estimation Methods",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Morten Birkeland Nielsen", "Brita Bjørkelo", "Guy Notelaers", "Ståle Valvatne Einarsen"],
+        "abstract": ["This study investigates gender differences in prevalence and effects of sexual harassment using three different estimation methods. In a representative sample of 2,349 Norwegian employees, 1.1% self-labeled as targets of sexual harassment, whereas 18.4% reported exposure to sexually harassing behaviors during the last six months. When employing lat..."]
+      },
+      {
+        "title": "Varsling som intern sikkerhetsventil i større IKT-prosjekt",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Brita Bjørkelo", "Birthe Taraldset"],
+        "abstract": ["Flere store IKT-prosjekter har fått mer eller mindre ønsket mediedekning som følge av forsinkelser, budsjettoverskridelser og feil ved systemenes funksjonalitet. En mulig grunn til at gjennomføringen av slike store prosjekter halter eller mislykkes, er at ledelsen ikke får tak i beslutningskritisk informasjon. Det kan skyldes at ansatte vegrer seg..."]
+      },
+      {
+        "title": "Tilhørighet og sosial identitet: Fortellinger og opplevelser fra en organisasjon i endring [Organizational commitment and social identity: Stories and experiences from a changing organization]",
+        "tags": ["Article"],
+        "date": "Jan 2008",
+        "authors": ["Lena Låstad", "Runa H. Thuen", "Monica Bekkeheien", "Hege H. Bye"],
+        "abstract": []
+      },
+      {
+        "title": "When you talk and talk and nobody listens: A mixed method case study of whistleblowing and its consequences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Brita Bjørkelo", "Wenche Ryberg", "Stig Berge Matthiesen", "Ståle Valvatne Einarsen"],
+        "abstract": ["This study investigates whistleblowing and its consequences with an actual whistleblowing case which is assessed using mixed methods (interview, archival documentation, and two psychological tests) and analysed with a proposed model of the whistleblowing process (Soeken, 1986). The whistleblower blew the whistle internally on unethical coercive tre..."]
+      }
+    ],
+    "degree": ["PhD,", "Clinical", "psychologist", "and", "Professor"],
+    "publications": [63],
+    "reads": [24123],
+    "citations": [673]
   }
 }

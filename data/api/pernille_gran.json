@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Pernille Grand Moestrup",
-    "id": "jfHD15QAAAAJ",
-    "affiliation": "",
+    "name": ["Pernille Grand Moestrup"],
+    "id": ["jfHD15QAAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -37,11 +37,21 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Pernille Gran",
-    "id": "1539943",
+    "name": ["Pernille Gran"],
+    "id": ["1539943"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Ingvaldsen-Pernille",
+    "name": "Ingvaldsen Pernille",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Physical Medicine and Rehabilitation PHMR",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

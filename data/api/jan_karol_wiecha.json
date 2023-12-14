@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-3520-0662",
-    "name": "Karol Wiecha",
+    "orcid": ["0000-0003-3520-0662"],
+    "name": ["Karol Wiecha"],
     "distinctions": [],
     "education": [
       {
@@ -32,11 +32,298 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jan Karol Wiecha",
-    "id": "1504811",
+    "name": ["Jan Karol Wiecha"],
+    "id": ["1504811"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Jan-Karol-Wolski",
+    "name": "Jan Karol Wolski",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281188916805-1694810407069_Q128/Jan-Karol-Wolski.jpg",
+    "affiliation": "The Maria SklodowskaCurie National Research Institute of Oncology Warsaw Poland, Department of  Urological Cancer",
+    "keywords": ["Surgery", "Laparoscopic Urology", "Andrology", "paediatric surgery and urology"],
+    "works": [
+      {
+        "title": "Transcriptome analysis of human Leydig cell tumours reveals potential mechanisms underlying its development",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Malgorzata Kotula‐Balak", "Michal Duliban", "Artur Gurgul", "Jan Karol Wolski"],
+        "abstract": ["Leydig cell tumours are the most common sex cord—stromal tumours. In the last years, apparent increased incidence is noted while aetiology of the tumour is still unknown. Therefore, here, we focused on the genetics of Leydig cell tumours using the next‐generation sequencing. Leydig cell micronodules were revealed in patients with azoospermia who we..."]
+      },
+      {
+        "title": "Towards understanding leydigioma: do G protein-coupled estrogen receptor and peroxisome proliferator–activated receptor regulate lipid metabolism and steroidogenesis in Leydig cell tumors?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["M. Kotula-Balak", "Ewelina Górowska-Wójtowicz", "A. Milon", "Barbara Bilinska"],
+        "abstract": ["Leydig cell tumors (LCT) are the most common type of testicular stromal tumor. Herein, we investigate the G protein-coupled estrogen receptor (GPER) and peroxisome proliferator–activated receptor (PPAR) implication in regulation of lipid homeostasis including the expression of steroidogenesis-controlling molecules in clinical specimens of LCTs and..."]
+      },
+      {
+        "title": "Interstitial Leydig Cell Tumorigenesis-Leptin and Adiponectin Signaling in Relation to Aromatase Expression in the Human Testis",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Michal Duliban", "Ewelina Górowska-Wójtowicz", "Waclaw Tworzydlo", "Barbara Bilinska"],
+        "abstract": ["Although epidemiological studies from the last years report an increase in the incidences of Leydig cell tumors (previously thought to be a rare disease), the biochemical characteristics of that tumor important for understanding its etiology, diagnosis, and therapy still remains not completely characterized. Our prior studies reported G-protein cou..."]
+      },
+      {
+        "title": "Leydig cell tumorigenesis - implication of G-protein coupled membrane estrogen receptor, peroxisome proliferator-activated receptor and xenoestrogen exposure. In vivo and in vitro appraisal",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Ewelina Górowska-Wójtowicz", "M. Duliban", "Maja Kudrycka", "Barbara Bilinska"],
+        "abstract": ["The etiology and molecular characteristics of Leydig cell tumor (LCT) are scarcely known. From the research data stems that estrogen can be implicated in LCT induction and development, however it is not investigated in detail. Considering the above, herein we analyzed the relation between G-protein coupled membrane estrogen receptor, peroxisome pro..."]
+      },
+      {
+        "title": "Assessment of selected quality of life domains in patients who have undergone conservative or radical surgical treatment for penile cancer: an observational study",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Roman Sosnowski", "Jan Karol Wolski", "Urszula Zi Talewicz", "Tomasz Demkow"],
+        "abstract": ["Background Surgery is the standard treatment for organ-restricted penile cancer, but it is also a disfiguring procedure that can profoundly affect quality of life. Using a survey, in this study we assessed the effect of different surgical invasiveness on satisfaction in selected life domains of patients who underwent penile-sparing surgery and part..."]
+      },
+      {
+        "title": "Towards understanding biology of leydiogioma. G protein-coupled receptor and peroxisome proliferator-activated receptor crosstalk regulates lipid metabolism and steroidogenesis in Leydig cell tumors",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Malgorzata Kotula-Balak", "Ewelina Górowska-Wójtowicz", "Agnieszka Milon", "Jan Karol Wolski"],
+        "abstract": ["Leydig cell tumors (LCT) are the most common type of testicular sex cord-stromal tumor. In this report, we implicate the G-coupled estrogen receptor (GPER) and peroxisome proliferator receptor (PPAR) in regulation of lipid homeostasis and the expression of steroidogenesis-controlling molecules in clinical specimens of LCTs and cell line (mouse tumo..."]
+      },
+      {
+        "title": "Assessment of quality of life in patients surgically treated for penile cancer: Impact of aggressiveness in surgery",
+        "tags": ["Article"],
+        "date": "Dec 2017",
+        "authors": ["Roman Sosnowski", "Jan Karol Wolski", "Marta Kulpa", "Tomasz Demkow"],
+        "abstract": ["Purpose\nHealth-related quality of life (HRQoL) evaluations are being increasingly used for clinical assessment of cancer treatment outcomes. For a patient, not only is life expectancy important, but also a general sense of sustained global health. Intuitively, the more disfiguring the treatment, the more pronounced could be the deterioration in the..."]
+      },
+      {
+        "title": "Basic Issues Concerning Health-Related Quality of Life",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Roman Sosnowski", "Marta Kulpa", "Urszula Ziętalewicz", "Tomasz Demkow"],
+        "abstract": ["Introduction\nChronic diseases such as cancer have a strong influence on both physical health and quality of life, which together comprise the concept of health-related quality of life (HRQoL) – in other words, the complete state of physical, social, and psychological functioning. Herein, we review the literature on the theory of HRQoL in relation t..."]
+      },
+      {
+        "title": "Quality of life in penile carcinoma patients - Post-total penectomy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Roman Sosnowski", "Marta Kulpa", "Mariola Kosowicz", "Tomasz Demkow"],
+        "abstract": ["Introduction\nTotal amputation, as a treatment for advanced penile cancer, significantly debilitates the patient's quality of life and sexual function. The aim of the study was to assess the quality of life in patients who had undergone total penectomy.\n\nMaterial and methods\nThe questionnaires EORTC QLQ C-30, SES, CMNI, and a modified IIEF-15 questi..."]
+      },
+      {
+        "title": "Primary penile cancer organ sparing treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Roman Sosnowski", "Marcin Kuligowski", "Olga Kuczkiewicz", "Tomasz Demkow"],
+        "abstract": ["Introduction: \nSurgical treatment of penile cancer is usually associated with mutilation; alterations in self-esteem and body image; affecting sexual and urinary functions; and declined health-related quality of life. Recently, organ sparing treatment has appeared and led to limiting these complications.\n\nMaterial and methods: \nAn extensive review..."]
+      },
+      {
+        "title": "The risk of neoplasm associated with dysgenetic testes in prepubertal and pubertal/adult patients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Jolanta Slowikowska-Hilczer", "Maria Szarras-Czapnik", "Jan Karol Wolski", "Krzysztof Kula"],
+        "abstract": ["In patients with Y-chromosome in the karyotype, partial gonadal dysgenesis and disorders of male reproductive sex organs development are usually resected in childhood because of the high risk of germ cell tumours (GCT). In patients with Y-chromosome, complete gonadal dysgenesis and female genitalia gonadectomy is performed markedly later. However,..."]
+      },
+      {
+        "title": "FISH and array CGH characterization of de novo derivative Y chromosome (Yq duplication and partial Yp deletion) in an azoospermic male",
+        "tags": ["Article"],
+        "date": "May 2015",
+        "authors": ["Ewa Wiland", "Alexander N. Yatsenko", "Archana Kishore", "Maciej Kurpisz"],
+        "abstract": ["This study presents a 28-year-old infertile male who was referred to the cytogenetic laboratory for chromosomal analysis after 4 years of regular unprotected intercourse in whom the non-obstructive azoospermia was revealed. Standard cytogenetic G-banding was performed on metaphase spreads and a de novo karyotype 46,X,der(Y)(q11.22;p11.3) was identi..."]
+      },
+      {
+        "title": "Children born from frozen embryos stored for 10 years – analysis of 5 cases",
+        "tags": ["Article"],
+        "date": "Nov 2013",
+        "authors": ["Krzysztof Papis", "Piotr Lewandowski", "Jan Karol Wolski", "Katarzyna Kozioł"],
+        "abstract": ["Faced with a scientific and legal debate on human embryo cryopreservation in Poland we show 5 documented clinical cases of successful thawing and transfer of embryos cryopreserved for a long period of time (8-11 years), resulting in successful delivery by the biological or the recipient mother. Cases described include patients with different infert..."]
+      },
+      {
+        "title": "Pre-analytical-related variability influencing serum peptide profiles demonstrated in a mass spectrometry-based search for colorectal and prostate cancer biomarkers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Jakub Karczmarski", "Tymon Rubel", "Michal Mikula", "Jerzy Ostrowski"],
+        "abstract": ["Although the degradome, which comprises proteolytic fragments of blood proteins, presents a potential source of diagnostic biomarkers, studies on cancer peptide biomarkers have provided inconsistent conclusions. In the present study, we reevaluated the usefulness of serum degradome analyses for searching peptide cancer biomarker candidates. Particu..."]
+      },
+      {
+        "title": "The role of oxidative stress and antioxidants in male fertility",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2013",
+        "authors": ["Renata Walczak-Jedrzejowska", "Jan Karol Wolski", "Jolanta Slowikowska-Hilczer"],
+        "abstract": ["Oxidative stress results from the imbalance between production of the reactive oxygen species (ROS) and the protective effect of the antioxidant system responsible for their neutralization and removal. An excess of ROS causes a pathological reaction resulting in damage to cells and tissues. Spermatozoa are particularly vulnerable to the harmful eff..."]
+      },
+      {
+        "title": "Pooled Sample-Based GWAS: A Cost-Effective Alternative for Identifying Colorectal and Prostate Cancer Risk Variants in the Polish Population",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2012",
+        "authors": ["Pawel Gaj", "Natalia Maryan", "Ewa Elzbieta Hennig", "Jerzy Ostrowski"],
+        "abstract": ["Prostate cancer (PCa) and colorectal cancer (CRC) are the most commonly diagnosed cancers and cancer-related causes of death in Poland. To date, numerous single nucleotide polymorphisms (SNPs) associated with susceptibility to both cancer types have been identified, but their effect on disease risk may differ among populations.\nTo identify new SNPs..."]
+      },
+      {
+        "title": "Figure S1",
+        "tags": ["Data"],
+        "date": "Apr 2012",
+        "authors": ["Pawel Gaj", "Natalia Maryan", "Ewa Elzbieta Hennig", "Jerzy Ostrowski"],
+        "abstract": ["Statistical power of the AD/CRC GWAS for alleles found at different frequencies in the general population (p0).\n(TIF)"]
+      },
+      {
+        "title": "Table S2",
+        "tags": ["Data"],
+        "date": "Apr 2012",
+        "authors": ["Pawel Gaj", "Natalia Maryan", "Ewa Elzbieta Hennig", "Jerzy Ostrowski"],
+        "abstract": ["SNP association with early PCa onset (before 65 years of age) considering additive (ADD), dominant (DOM), or recessive (REC) models of gene action.\n(DOC)"]
+      },
+      {
+        "title": "Table S1",
+        "tags": ["Data"],
+        "date": "Apr 2012",
+        "authors": ["Pawel Gaj", "Natalia Maryan", "Ewa Elzbieta Hennig", "Jerzy Ostrowski"],
+        "abstract": ["Literature-selected SNPs used in the replication study.\n(DOC)"]
+      },
+      {
+        "title": "Urinary incontinence after radical prostatectomy – experience of the last 100 cases",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Roman Sosnowski", "Michał Szymański", "Jan Karol Wolski", "Wojciech Michalski"],
+        "abstract": ["Radical prostatectomy (RP) is a recognized treatment method of organ-confined prostate cancer. Among post-surgery complications, urinary incontinence is a major one. The aim of this study was to determine the incontinence rate after RP and to analyze factors that might affect it. Between March 2007 and December 2008, 132 RP's were performed at Wars..."]
+      },
+      {
+        "title": "Male infertility and seminoma in supernumerary scrotal testes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2010",
+        "authors": ["Jan Karol Wolski", "Wieslawa Grajkowska", "K. Sikora", "T. Demkow"],
+        "abstract": []
+      },
+      {
+        "title": "Less advanced testicular dysgenesis is associated by a higher prevalence of germ cell neoplasia",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["A Guminska", "Elzbieta Oszukowska", "Wojciech Kuzański", "Jolanta Slowikowska-Hilczer"],
+        "abstract": ["There is a theory that the more evident clinical signs of testicular dysgenesis, the more frequent the neoplastic lesions are. The aim of this study was to relate the incidence of testicular germ cell neoplastic lesions (overt germ cell tumours--GCT or testicular carcinoma in situ) to the intensity of testicular organogenesis disturbances (dysgenes..."]
+      },
+      {
+        "title": "CONTRALATERAL TESTICULAR CANCER IN INFERTILE PATIENT 30 YEARS AFTER FIRST ORCHIDECTOMY",
+        "tags": ["Conference Paper"],
+        "date": "Mar 2009",
+        "authors": ["Jan Karol Wolski", "Ewa Sawicka", "Tomasz Demkow", "Piotr Lewandowski"],
+        "abstract": []
+      },
+      {
+        "title": "Does the R117H mutation cause cystic fibrosis or not?",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["A. Norek", "Agnieszka Sobczynska", "Jan Karol Wolski", "J. Bai"],
+        "abstract": []
+      },
+      {
+        "title": "Molecular analysis of defects in the CFTR gene and AZF locus of the Y chromosome in male infertility",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2006",
+        "authors": ["Agnieszka Sobczynska", "Daniel Bak", "Jan Karol Wolski", "Jerzy Bal"],
+        "abstract": ["To investigate the frequency and potential impact of mutations and polymorphisms in the CFTR gene and deletions in AZF locus of the Y chromosome in patients with azoospermia (AZOO), cryptozoospermia (CRYPTO) or oligoasthenoteratozoospermia (OAT) who were to be included in an assisted reproductive technologies (ART) program.\nA total of 188 infertile..."]
+      },
+      {
+        "title": "Testicular tumors in children",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Jan Karol Wolski"],
+        "abstract": []
+      },
+      {
+        "title": "Overt germ cell tumours in the adult patients with gonadal dysgenesis and an approach to natural history of testicular carcinoma in situ",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2005",
+        "authors": ["J. Slowikowska-Hilczer", "Krzysztof Kula", "M. Szarras-Czapnik", "A. Guminska"],
+        "abstract": []
+      },
+      {
+        "title": "CFTR gene mutations in infertile men from poland",
+        "tags": ["Article"],
+        "date": "Jun 2005",
+        "authors": ["Jan Karol Wolski", "Agnieszka Sobczynska", "Jerzy Bal", "P. Lewandowski"],
+        "abstract": []
+      },
+      {
+        "title": "Variability of sexual phenotype in 46,XX(SRY+) patients: The influence of spreading X inactivation versus position effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2005",
+        "authors": ["A Sharp", "Kamila Kusz", "Jadwiga Jaruzelska", "P Jacobs"],
+        "abstract": ["During male meiosis the X and Y chromosomes pair along much of their length, with a single obligatory recombination event usually occurring in the pseudo-autosomal region (PAR) at the tip of Xp and Yp, thus maintaining identity of the sex chromosome PARs. Occasionally illegitimate crossover occurs outside the PAR, resulting in the transfer of Y spe..."]
+      },
+      {
+        "title": "Familial X/Y translocations associated with variable sexual phenotype",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2004",
+        "authors": ["A Sharp", "Kamila Kusz", "Jadwiga Jaruzelska", "P Jacobs"],
+        "abstract": ["True hermaphroditism, defined clinically as the presence of both male and female gonadal tissue in the same individual usually accompanied by ambiguous genitalia, is a genetically heterogeneous condition.1–3 Less than 10% of true hermaphrodites with an apparent 46,XX constitution are SRY-positive, usually resulting from translocation between Xp and..."]
+      },
+      {
+        "title": "Gonadotropins and preinvasive testicular germ cell carcinoma",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Jolanta Slowikowska-Hilczer", "M. Szarras-Czapnik", "Renata Walczak-Jedrzejowska", "Krzysztof Kula"],
+        "abstract": ["Eleven children with dysgenetic male pseudohermaphroditism and 18 boys with isolated penile hypospadias, all with 46,XY karyotype, were studied. Testicular dysgenesis was associated with significantly higher mean serum FSH levels than in hypospadias (8.4 ± 2.3 IU/I vs. 1.5 ± 0.3 IU/I). Gonadoblastoma, a tumor arising from sex cords, was found in 1/..."]
+      },
+      {
+        "title": "[Identification of mutation and polymorphic changes in the CFTR gene of patients with obstructive azoospermia]",
+        "tags": ["Article"],
+        "date": "Feb 2000",
+        "authors": ["Agnieszka Sobczynska", "Jan Karol Wolski", "Jerzy Bal"],
+        "abstract": ["Obstructive azoospermia is one of the symptoms of congenital bilateral absence of the vas deferens (CBAVD)--disease which is suggested as primarily genital form of cystic fibrosis. CBAVD is a result of mutations and polymorphisms in CFTR gene. We studied 9 the most common mutations and identified 3 mutations (delta F508, R117H, G542X). The study sh..."]
+      },
+      {
+        "title": "Further delineation of the classical Smith-Lemli-Opitz syndrome phenotype at different patient ages",
+        "tags": ["Article"],
+        "date": "Feb 1999",
+        "authors": ["Małgorzata Krajewska-Walasek", "Wanda Gradowska", "J??zef Ryzko", "J Szapłyko"],
+        "abstract": ["We present here extensive clinical and biochemical data on thirteen SLOS (type I) patients with proven defect in cholesterol biosynthesis for further delineation of the classical SLOS phenotype at different patient ages."]
+      },
+      {
+        "title": "[Needle testicular biopsy in the diagnosis of male infertility]",
+        "tags": ["Article"],
+        "date": "Jul 1998",
+        "authors": ["Jan Karol Wolski", "P Kluge", "K Kozioł", "J Wysocki"],
+        "abstract": ["Evaluation of testicular tissue is very important diagnostic procedures in cryptozoospermia and azoospermia. It is verified the patient for treatment (stimulation spermatogenesis), for micromanipulation ICSI or for insemination donor semen procedure. Surgical biopsy is very popular between andrologist and urologist, but needle biopsy seems to be ea..."]
+      },
+      {
+        "title": "[Percutaneous sperm retrieval for ICSI procedures in men with obstructive azoospermia: ICSI-PESA and ICSI-TESE micromanipulation: our experience]",
+        "tags": ["Article"],
+        "date": "Jul 1998",
+        "authors": ["Jan Karol Wolski", "K Kozioł", "P Lewandowski", "J Wysocki"],
+        "abstract": ["The sperm retrieval for ICSI procedures is possibly using following procedures: ejaculate sperm, epididymal sperm obtained by microsurgical aspiration or percutaneous puncture and testicular sperm that are obtained by surgical excision or percutaneous biopsy. Percutaneous techniques seem to be rather simple and effective procedures.\nThe authors pre..."]
+      },
+      {
+        "title": "Kabuki (Niikawa-Kuroki) syndrome associated with immunodeficiency",
+        "tags": ["Article"],
+        "date": "May 1998",
+        "authors": ["Krystyna Chrzanowska", "Małgorzata Krajewska-Walasek", "J Kuś", "K Madaliński"],
+        "abstract": ["We report a case of a 19-year-old male with the cardinal features of the Kabuki syndrome (KS) and, in addition, with severe immunodeficiency. Finding immune deficiency in a KS patient, prompted us to determine whether this association was related to a deletion within the DiGeorge chromosomal region. Fluorescence in situ hybridization (FISH) with th..."]
+      },
+      {
+        "title": "[Congenital malformations of the genitourinary tract in children with Smith-Lemli-Opitz syndrome]",
+        "tags": ["Article"],
+        "date": "Feb 1998",
+        "authors": ["Jan Karol Wolski", "Małgorzata Krajewska-Walasek", "C Szymkiewicz"],
+        "abstract": ["Smith-Lemli-Opitz (SLO) syndrome is an autosomal, recessive condition. The essence of SLO is abnormal metabolism of cholesterol which is characterized by decreased level of cholesterol and increased level of 7-dihydrocholesterol in serum. The main clinical features are mental retardation and congenital malformations of various organs and systems--m..."]
+      },
+      {
+        "title": "The Smith-Lemli-Opitz syndrome from infancy to adolescence: clinical and biochemical studies",
+        "tags": ["Article"],
+        "date": "Jan 1998",
+        "authors": ["Małgorzata Krajewska-Walasek", "W Gradowska", "J Ryzko", "Jacek Józef Michalkiewicz"],
+        "abstract": []
+      },
+      {
+        "title": "Surgical management of intersex children",
+        "tags": ["Article"],
+        "date": "Jan 1997",
+        "authors": ["C. Szymkiewicz", "Mebarek Baka", "A. Krajewska - Walasek", "M. Szarras"],
+        "abstract": ["The authors present 252 children with various types of hermaphroditism treated surgically between 1981 and 1986. There were 126 children with the female pseudohermaphroditism, 82 children with male pseudohermaphroditism and 44 with gonadal dysgenesis (9 - true hermaphroditism, 35 - mixed gonadal dysgenesis - MGD). Feminizing genitoplasty \\clitoropl..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [39],
+    "reads": [27172],
+    "citations": [839]
   }
 }

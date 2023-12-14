@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1148-6611",
-    "name": "Lillis Rabbing",
+    "orcid": ["0000-0002-1148-6611"],
+    "name": ["Lillis Rabbing"],
     "distinctions": [],
     "education": [
       {
@@ -12,17 +12,17 @@
       },
       {
         "start": "2007",
-        "end": "2011",
-        "position": "Supervisor, lecturer",
         "organisation": "University College of Norwegian Correctional Service",
-        "country": "NO"
+        "country": "NO",
+        "end": "2011",
+        "position": "Supervisor, lecturer"
       },
       {
         "start": "1998",
-        "end": "1999",
-        "position": "lecturer",
         "organisation": "Norwegian School of Sport Sciences",
-        "country": "NO"
+        "country": "NO",
+        "end": "1999",
+        "position": "lecturer"
       }
     ],
     "employment": [
@@ -33,17 +33,17 @@
       },
       {
         "start": "2007",
-        "end": "2011",
-        "position": "Supervisor, lecturer",
         "organisation": "University College of Norwegian Correctional Service",
-        "country": "NO"
+        "country": "NO",
+        "end": "2011",
+        "position": "Supervisor, lecturer"
       },
       {
         "start": "1998",
-        "end": "1999",
-        "position": "lecturer",
         "organisation": "Norwegian School of Sport Sciences",
-        "country": "NO"
+        "country": "NO",
+        "end": "1999",
+        "position": "lecturer"
       }
     ],
     "membership": [],
@@ -70,8 +70,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Lillis Marie-Louise Elisabeth Rabbing",
-    "id": "749008",
+    "name": ["Lillis Marie-Louise Elisabeth Rabbing"],
+    "id": ["749008"],
     "keywords": [],
     "position": ["Guest", "University college lecturer"],
     "img": {},
@@ -139,5 +139,15 @@
         "url": "https://api.cristin.no/v2/results/1706009"
       }
     ]
+  },
+  "rg": {
+    "id": "Marie-Louise",
+    "name": "Marie Louise",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Southampton, Faculty of Medicine",
+    "keywords": ["Cell Culture"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

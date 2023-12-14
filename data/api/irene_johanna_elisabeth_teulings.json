@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Irene Teulings",
-    "id": "niWVRnkAAAAJ",
-    "affiliation": "PhD candidate at University of Oslo",
+    "name": ["Irene Teulings"],
+    "id": ["niWVRnkAAAAJ"],
+    "affiliation": ["PhD candidate at University of Oslo"],
     "data": {
       "publications": [
         {
@@ -19,8 +19,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-6629-2259",
-    "name": "Irene Teulings",
+    "orcid": ["0000-0002-6629-2259"],
+    "name": ["Irene Teulings"],
     "distinctions": [],
     "education": [
       {
@@ -61,11 +61,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Irene Johanna Elisabeth Teulings",
-    "id": "1636782",
+    "name": ["Irene Johanna Elisabeth Teulings"],
+    "id": ["1636782"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Irene-Elisabeth",
+    "name": "Irene Elisabeth",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Universitas Kristen Krida Wacana | UKRIDA, Universitas Kristen Krida Wacana, Department of Psychology",
+    "keywords": ["Counseling", "Psychoeducation", "Behavioral Psychology", "Mental Illness", "Psychological Assessment", "Personality Assessment", "Motivational Interviewing", "Child and Adolescent Psychiatry", "Marriage", "Child Psychiatry"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

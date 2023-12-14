@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Caitlin M Prentice",
-    "id": "ii0gQU8AAAAJ",
-    "affiliation": "University of Oxford",
+    "name": ["Caitlin M Prentice"],
+    "id": ["ii0gQU8AAAAJ"],
+    "affiliation": ["University of Oxford"],
     "data": {
       "publications": [
         {
@@ -60,8 +60,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-3591-4991",
-    "name": "Caitlin Prentice",
+    "orcid": ["0000-0002-3591-4991"],
+    "name": ["Caitlin Prentice"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -72,11 +72,20 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Caitlin Mccombs Prentice",
-    "id": "1511124",
+    "name": ["Caitlin Mccombs Prentice"],
+    "id": ["1511124"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Caitlin-Mccombs",
+    "name": "Caitlin Mccombs",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Texas at Austin | UT, University of Texas at Austin, Department of Sociology",
+    "keywords": ["Sociology"],
+    "works": [],
+    "degree": [null]
   }
 }

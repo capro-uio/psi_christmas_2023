@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Nora Auråker",
-    "id": "1656885",
+    "name": ["Nora Auråker"],
+    "id": ["1656885"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Tanji_Nora",
+    "name": "Tanji Nora",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "AixMarseille Université | AMU, AixMarseille Université, Department of History",
+    "keywords": ["Culture"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-8286-9743",
-    "name": "Harald Lenz",
+    "orcid": ["0000-0001-8286-9743"],
+    "name": ["Harald Lenz"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -22,8 +22,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Harald Lenz",
-    "id": "12819",
+    "name": ["Harald Lenz"],
+    "id": ["12819"],
     "keywords": [],
     "position": ["Guest", "Head physician"],
     "img": {},
@@ -169,5 +169,15 @@
         "url": "https://api.cristin.no/v2/results/128029"
       }
     ]
+  },
+  "rg": {
+    "id": "Harald-Lenz",
+    "name": "Harald Lenz",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Oslo University Hospital, Division of Emergencies and Critical Care",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Mari Gakkestad",
-    "id": "594175",
+    "name": ["Mari Gakkestad"],
+    "id": ["594175"],
     "keywords": [],
     "position": ["Adviser"],
     "img": {},
@@ -14,5 +14,509 @@
         "url": "https://api.cristin.no/v2/results/1470347"
       }
     ]
+  },
+  "rg": {
+    "id": "Veronique-Mari",
+    "name": "Véronique Mari",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Unicancer | UNICANCER, Unicancer, oncology nice",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Associations of height, body mass index, and weight gain with breast cancer risk in carriers of a pathogenic variant in BRCA1 or BRCA2: the BRCA1 and BRCA2 Cohort Consortium",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Karin Kast", "Esther Amajor", "John L. Hopper", "Christoph Engel"],
+        "abstract": ["Introduction\nHeight, body mass index (BMI), and weight gain are associated with breast cancer risk in the general population. It is unclear whether these associations also exist for carriers of pathogenic variants in the BRCA1 or BRCA2 genes.\n\nPatients and methods\nAn international pooled cohort of 8091 BRCA1/2 variant carriers was used for retrospe..."]
+      },
+      {
+        "title": "Links between gender norms and the intergenerational transmission of health information in parents carrying BRCA1/2 pathogenic variants",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["F Gauna", "S Carof", "E Mouret-Fourme", "Anne-Déborah Bouhnik"],
+        "abstract": ["Understanding how gender norms affect parents' communication of genetic and cancer risk information to their children can enable healthcare professionals to better facilitate cascade genetic testing. We conducted a qualitative study with semi-structured interviews to determine social factors associated with parents carrying the BRCA1/2 pathogenic v..."]
+      },
+      {
+        "title": "Dietary behaviours of individuals with Lynch syndrome at high risk of colorectal cancer: results from the AAS-Lynch study",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Noémie Demaré", "Chantal Julia", "Alice Bellicha", "Zahia Ben abdesselam"],
+        "abstract": []
+      },
+      {
+        "title": "Association and performance of polygenic risk scores for breast cancer among French women presenting or not a familial predisposition to the disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Yue Jiao", "Therese Truong", "Séverine Eon-Marchais", "Fabienne Lesueur"],
+        "abstract": ["Background\nThree partially overlapping breast cancer polygenic risk scores (PRS) comprising 77, 179 and 313 SNPs have been proposed for European-ancestry women by the Breast Cancer Association Consortium (BCAC) for improving risk prediction in the general population. However, the effect of these SNPs may vary from one country to another and within..."]
+      },
+      {
+        "title": "Copy number variants as modifiers of breast cancer risk for BRCA1/BRCA2 pathogenic variant carriers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Christopher Hakkaart", "John F. Pearson", "Louise Marquart", "Logan C. Walker"],
+        "abstract": ["The contribution of germline copy number variants (CNVs) to risk of developing cancer in individuals with pathogenic BRCA1 or BRCA2 variants remains relatively unknown. We conducted the largest genome-wide analysis of CNVs in 15,342 BRCA1 and 10,740 BRCA2 pathogenic variant carriers. We used these results to prioritise a candidate breast cancer ris..."]
+      },
+      {
+        "title": "Association and Performance of Polygenic Risk Scores for Breast Cancer Among French Women Presenting or Not a Familial Predisposition to the Disease",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Yue Jiao", "Therese Truong", "Séverine Eon-Marchais", "Fabienne Lesueur"],
+        "abstract": ["Background: Three partially overlapping breast cancer polygenic risk scores (PRS) comprising 77, 179 and 313 SNPs have been proposed for European-ancestry women by the Breast Cancer Association Consortium (BCAC) for improving risk prediction in the general population. However, the effect of these SNPs may vary from one country to another and within..."]
+      },
+      {
+        "title": "A new hybrid record linkage process to make epidemiological databases interoperable: application to the GEMO and GENEPSO studies involving BRCA1 and BRCA2 mutation carriers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Yue Jiao", "Fabienne Lesueur", "Chloé-Agathe Azencott", "Sandrine Caputo"],
+        "abstract": ["Background\nLinking independent sources of data describing the same individuals enable innovative epidemiological and health studies but require a robust record linkage approach. We describe a hybrid record linkage process to link databases from two independent ongoing French national studies, GEMO (Genetic Modifiers of BRCA1 and BRCA2 ), which focu..."]
+      },
+      {
+        "title": "TUMOSPEC: A Nation-Wide Study of Hereditary Breast and Ovarian Cancer Families with a Predicted Pathogenic Variant Identified through Multigene Panel Testing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Fabienne Lesueur", "Séverine Eon-Marchais", "Sarah Bonnet-Boissinot", "Olivier Caron"],
+        "abstract": ["Assessment of age-dependent cancer risk for carriers of a predicted pathogenic variant (PPV) is often hampered by biases in data collection, with a frequent under-representation of cancer-free PPV carriers. TUMOSPEC was designed to estimate the cumulative risk of cancer for carriers of a PPV in a gene that is usually tested in a hereditary breast a..."]
+      },
+      {
+        "title": "The predictive ability of the 313 variant–based polygenic risk score for contralateral breast cancer risk prediction in women of European ancestry with a heterozygous BRCA1 or BRCA2 pathogenic variant",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Inge M. M. Lakeman", "Alexandra J van den Broek", "Julien Vos", "Marjanka K. Schmidt"],
+        "abstract": ["Purpose\nTo evaluate the association between a previously published 313 variant–based breast cancer (BC) polygenic risk score (PRS 313 ) and contralateral breast cancer (CBC) risk, in BRCA1 and BRCA2 pathogenic variant heterozygotes.\n\nMethods\nWe included women of European ancestry with a prevalent first primary invasive BC ( BRCA1 = 6,591 with 1,402..."]
+      },
+      {
+        "title": "Effect of chemoprevention by low-dose aspirin of new or recurrent colorectal adenomas in patients with Lynch syndrome (AAS-Lynch): study protocol for a multicenter, double-blind, placebo-controlled randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Adil Soualy", "David Deutsch", "Mourad Benallaoua", "Anthony Lopez"],
+        "abstract": ["Lynch syndrome (LS) is the most common cause of inherited colorectal cancer (CRC) and confers a high lifetime risk of CRC estimated to be up to 60%. Colonoscopy is recommended every 2 years in LS patients above the 20–25-year-old age bracket, and every year when colonic neoplasia has been detected. Efficient chemoprevention has the potential to rep..."]
+      },
+      {
+        "title": "Fine-mapping of 150 breast cancer risk regions identifies 191 likely target genes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Laura Fachal", "Hugues Aschard", "Jonathan Beesley", "Alison M. Dunning"],
+        "abstract": ["Genome-wide association studies have identified breast cancer risk variants in over 150 genomic regions, but the mechanisms underlying risk remain largely unknown. These regions were explored by combining association analysis with in silico genomic feature annotations. We defined 205 independent risk-associated signals with the set of credible caus..."]
+      },
+      {
+        "title": "Alcohol consumption, cigarette smoking, and risk of breast cancer for BRCA1 and BRCA2 mutation carriers: results from The BRCA1 and BRCA2 Cohort Consortium",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Hongyan Li", "Mary Beth Terry", "Antonis Antoniou", "David Goldgar"],
+        "abstract": ["Background: \nTobacco smoking and alcohol consumption have been intensively studied in the general population to assess their effects on the risk of breast cancer (BC), but very few studies have examined these effects in BRCA1 and BRCA2 mutation carriers. Given the high BC risk for mutation carriers and the importance of BRCA1 and BRCA2 in DNA repai..."]
+      },
+      {
+        "title": "Towards a New Adjuvant Chemotherapy Selection Procedure for Elderly Patients with Early Breast Cancer Using PREDICT Tool and CRASH Score",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Caroline Bailleux", "Jocelyn Gal", "Renaud Schiappa", "Rabia Boulahssass"],
+        "abstract": []
+      },
+      {
+        "title": "The Influence of Number and Timing of Pregnancies on Breast Cancer Risk for Women With BRCA1 or BRCA2 Mutations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Mary Beth Terry", "Yuyan Liao", "Karin Kast", "Nadine Andrieu"],
+        "abstract": ["Background\nFull-term pregnancy (FTP) is associated with a reduced breast cancer (BC) risk over time, but women are at increased BC risk in the immediate years following an FTP. No large prospective studies, however, have examined whether the number and timing of pregnancies are associated with BC risk for BRCA1 and BRCA2 mutation carriers.\n\nMethods..."]
+      },
+      {
+        "title": "Supplementary Data",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Mary Beth Terry", "Yuyan Liao", "Karin Kast", "Nadine Andrieu"],
+        "abstract": []
+      },
+      {
+        "title": "GEMO, a National Resource to Study Genetic Modifiers of Breast and Ovarian Cancer Risk in BRCA1 and BRCA2 Pathogenic Variant Carriers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Fabienne Lesueur", "Noura Mebirouk", "Yue Jiao", "Dominique Stoppa-Lyonnet"],
+        "abstract": ["-"]
+      },
+      {
+        "title": "Supplementary Figure 1",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Fabienne Lesueur", "Noura Mebirouk", "Yue Jiao", "Dominique Stoppa-Lyonnet"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Table 2",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Fabienne Lesueur", "Noura Mebirouk", "Yue Jiao", "Dominique Stoppa-Lyonnet"],
+        "abstract": ["Unique pathogenic variants and number of families in which each variant was observed. Variants are called using the cDNA reference sequences NM_007294.3 (BRCA1) and NM_000059.3 (BRCA2)."]
+      },
+      {
+        "title": "Supplementary Data",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Fabienne Lesueur", "Noura Mebirouk", "Yue Jiao", "Dominique Stoppa-Lyonnet"],
+        "abstract": ["Methods used for identification of BRCA1/2 pathogenic variants."]
+      },
+      {
+        "title": "Supplementary Table 1",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Fabienne Lesueur", "Noura Mebirouk", "Yue Jiao", "Dominique Stoppa-Lyonnet"],
+        "abstract": ["Age at menarche, age at menopause and parity for women affected and unaffected with cancer."]
+      },
+      {
+        "title": "GEMO, a National Resource to Study Genetic Modifiers of Breast and Ovarian Cancer Risk in BRCA1 and BRCA2 Pathogenic Variant Carriers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Fabienne Lesueur", "Noura Mebirouk", "Yue Jiao", "Dominique Stoppa-Lyonnet"],
+        "abstract": []
+      },
+      {
+        "title": "Predicting early death in older adults with cancer",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Rabia Boulahssass", "S. Gonfrier", "Jean-Marc Ferrero", "Olivier Guérin"],
+        "abstract": ["Background: \nPredicting early death after a comprehensive geriatric assessment (CGA) is very difficult in clinical practice. The aim of this study was to develop a scoring system to estimate risk of death at 100 days in elderly cancer patients to assist the therapeutic decision.\n\nMethods: \nThis was a multicentric, prospective cohort study approved..."]
+      },
+      {
+        "title": "GATA2 gene analysis in several forms of hematological malignancies including familial aggregations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Walid Sabri Hamadou", "Rahma Mani", "Sawsen Besbes", "Zohra Soua"],
+        "abstract": ["The genetic predisposition to familial hematological malignancies has been previously reported highlighting inherited gene mutations. Several genes have been reported but genetic basis remains not well defined. In this study, we extended our investigation to a potential candidate GATA2 gene which was analyzed by direct sequencing in 119 cases inclu..."]
+      },
+      {
+        "title": "Efficacy of anthracycline/taxane‐based neo‐adjuvant chemotherapy on triple‐negative breast cancer in BRCA1/BRCA2 mutation carriers",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Lucie Bignon", "Jean‐Pierre Fricker", "Catherine Nogues", "Michel Velten"],
+        "abstract": ["This study aims to estimate the pathologic complete response (pCR) rate after neo-adjuvant chemotherapy and to compare disease-free survival (DFS) and overall survival (OS) between pCR and non-pCR groups of patients with triple-negative breast cancer (TNBC) and deleterious BRCA1 or BRCA2 mutation. We carried out a retrospective analysis of 53 patie..."]
+      },
+      {
+        "title": "Patient Satisfaction and Acceptance of Their Totally Implanted Central Venous Catheter: A French Prospective Multicenter Study",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Pierre Yves Marcy", "Renaud Schiappa", "Jean-Marc Ferrero", "Emmanuel Chamorey"],
+        "abstract": ["Introduction: \nMost cancer patients require a totally implanted central venous catheter (TIVAD) for their treatment. In a previous study, we developed and validated a questionnaire dubbed QASICC (Questionnaire for Acceptance of, and Satisfaction with, Implanted Central Venous Catheter) assessing patient satisfaction with, and acceptance of, their T..."]
+      },
+      {
+        "title": "Efficacité de la chimiothérapie néoadjuvante incluant des anthracyclines sur les cancers du sein triple-négatifs des sujets porteurs d’une mutation du gène BRCA1 ou BRCA2",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["L. Bignon", "J.-P. Fricker", "Catherine Nogues", "M. Velten"],
+        "abstract": ["Roles des auteurs\nL. Bignon, J.-P. Fricker, T. Petit, M. Velten : Conception, Design et Redaction. C. Nogues : Inclusions, Redaction.\nEtat de la question\nEstimer la proportion de reponse pathologique complete (pCR) des cancers du sein triple negatifs (CSTN) chez des patientes porteuses d’une mutation deletere du gene BRCA1 ou BRCA2. Comparer la sur..."]
+      },
+      {
+        "title": "Familial hematological malignancies: new IDH2 mutation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Walid-Sabri Hamadou", "Violaine Bourdon", "Letard Sébastien", "Zohra Soua"],
+        "abstract": ["Isocitrate dehydrogenase IDH 1 and IDH 2 mutations were reported in several cancer forms, especially in hematological malignancies, but were never been investigated in familial aggregation. The aim of this study is to determine whether germline isocitrate dehydrogenase genes mutations are involved.\nWe targeted IDH1 and IDH2 genes in 104 familial ca..."]
+      },
+      {
+        "title": "ARLTS1, potential candidate gene in familial aggregation of hematological malignancies",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Walid Sabri Hamadou", "Sawsen Besbes", "Rahma Mani", "Zohra Soua"],
+        "abstract": ["Introduction: \nGenetic predisposition to familial hematological malignancies was previously described through several epidemiological analyses, but the genetic basis remains unclear. The tumor-suppressor ARLTS1 gene was previously described in sporadic hematological malignancies and familial cancer context.\n\nMethods: \nIn this study, we sequence the..."]
+      },
+      {
+        "title": "Functional mechanisms underlying pleiotropic risk alleles at the 19p13.1 breast–ovarian cancer susceptibility locus",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Kate Lawrenson", "Siddhartha Kar", "Karen McCue", "Simon A. Gayther"],
+        "abstract": ["A locus at 19p13 is associated with breast cancer (BC) and ovarian cancer (OC) risk. We analyzed 438 SNPs in this region in 46,451 BC and 15,438 OC cases, 15,252 BRCA1 mutation carriers and 73,444 controls and identified 13 candidate causal SNPs associated with serous OC (P=9.2x10$^{-20}$), ER-negative BC (P=1.1x10$^{-13}$), BRCA1-associated BC (P=..."]
+      },
+      {
+        "title": "Mutational analysis of JAK2, CBL, RUNX1, and NPM1 genes in familial aggregation of hematological malignancies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Walid S. Hamadou", "Violaine Bourdon", "Pascaline Gaildrat", "Zohra Soua"],
+        "abstract": ["Familial aggregation of hematological malignancies has been reported highlighting inherited genetic predisposition. In this study, we targeted four candidate genes: JAK2 and RUNX1 genes assuring a prominent function in hematological process and CBL and NPM1 as proto-oncogenes. Their disruption was described in several sporadic hematological maligna..."]
+      },
+      {
+        "title": "Éducation thérapeutique du patient, concepts et mise en œuvre",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Juliette Thariat", "Anne Creisson", "Blandine Chamignon", "Jean-Marc Ferrero"],
+        "abstract": ["Background: \nPatient education is the process by which health professionals impart information to patients and their caregivers that will alter their health behaviors; improve their health status to better manage their lives with a chronic disease. Patient education implies a profound paradigm shift in the conception of care among health profession..."]
+      },
+      {
+        "title": "A clinical score to predict the early death at 100 days after a comprehensive geriatric assessment (CGA) in elderly metastatic cancers , analysis from a prospective cohort study with 1048 patients.",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Rabia Boulahssass", "S. Gonfrier", "Jean Marc Ferrero", "Olivier Guérin"],
+        "abstract": []
+      },
+      {
+        "title": "Adaptation et validation d’un questionnaire à 2 items permettant le dépistage des troubles dépressifs chez les patients atteints de cancer : étude Q2i",
+        "tags": ["Article"],
+        "date": "Oct 2015",
+        "authors": ["Jérôme Barrière", "Véronique Mari", "F. Cherikh", "Jocelyn Gal"],
+        "abstract": ["Background: \nDepression is a sustainable state of deep sadness and abatement. It is frequently identified in patients with cancer and often undervalued by oncologists. The reduced PRIME-MD questionnaire is a questionnaire of 2 items validated in French. However, it has been neither translated nor validated in French. The objective of our study is t..."]
+      },
+      {
+        "title": "Familial hematological malignancies: ASXL1 gene investigation",
+        "tags": ["Article"],
+        "date": "Aug 2015",
+        "authors": ["W S Hamadou", "Rim el abed", "S Besbes", "Z Soua"],
+        "abstract": ["Familial aggregation among patients with several hematological malignancies has been revealed. This emphasizes the importance of genetic factors. Only few genes predisposing to familial hematological malignancies have been reported until now due to the low occurrence. We have described in previous study PRF1 and CEBPA variants that might contribute..."]
+      },
+      {
+        "title": "Perceiving others as intrinsically or extrinsically motivated: Effects on exercise intention and approach-avoidance tendencies in breast cancer patients",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Charlène Falzon", "Rémi Radel", "Marion Fournier", "Fabienne D'Arripe-Longueville"],
+        "abstract": []
+      },
+      {
+        "title": "A clinical score to predict early death at 100 days after a comprehensive geriatric assessment (CGA) in elderly cancer patients: A prospective study with 815 patients.",
+        "tags": ["Article"],
+        "date": "May 2015",
+        "authors": ["Rabia Boulahssass", "Sebastien Gonfrier", "Jean Marc Ferrero", "Olivier Guérin"],
+        "abstract": []
+      },
+      {
+        "title": "Validation multicentrique d’un questionnaire évaluant l’acceptation et la satisfaction des patients porteurs de chambre à cathéter implantable : le questionnaire QASICC",
+        "tags": ["Article"],
+        "date": "Mar 2015",
+        "authors": ["Pierre Yves Marcy", "Christian Dahlet", "Olivier Brenet", "Emmanuel Chamorey"],
+        "abstract": ["Résumé\n\nIntroduction\nLes patients cancéreux ont besoin d’un accès veineux central pour assurer les différents types d’injection intraveineuse en toute sécurité et préserver le capital veineux (Bow et al., 1999). Initiée au début des années 1980 par Niederhuber et Starkhammar (Niederhuber et al., 1982 ; Starkhammar et Bengtsson, 1985), l’insertion d..."]
+      },
+      {
+        "title": "Breast Cancer Risk Associated with Estrogen Exposure and Truncating Mutation Location in BRCA1/2 Carriers",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Julie Lecarpentier", "Catherine Nogues", "Emmanuelle Mouret-Fourme", "Nadine Andrieu"],
+        "abstract": ["Background: Mutations in BRCA1/2 confer a high risk of breast cancer (BC), but literature values of this risk vary. A genotype-phenotype correlation has been found in both genes and the effect of reproductive factors differs according to mutation location. We hypothesize that such a variation may exist for other factors related to estrogen exposure..."]
+      },
+      {
+        "title": "Gliomas and BRCA genes mutations: Fortuitous association or imputability?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Laura Girardstein-Boccara", "Véronique Mari", "Marie Met-Domestici", "Christine Lebrun-Frenay"],
+        "abstract": ["Résumé\nBRCA est un gène suppresseur de tumeur impliqué dans les mécanismes fondamentaux de stabilité cellulaire. Ses mutations sont responsables de nombreux cancers, ceux du sein et de l’ovaire chez la femme étant les plus fréquents. Elles sont également impliquées dans une augmentation du risque de cancers du pancréas, côlon, prostate, et lymphome..."]
+      },
+      {
+        "title": "Treatment decisions for older patients with cancer. Influence of the comprehensive geriatric assessment (CGA) and the choice of the patient and their caregiver",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Rabia Boulahssass", "Véronique Mari", "F. Auben", "O. Guerin"],
+        "abstract": []
+      },
+      {
+        "title": "Poor nutritional status is an independent factor of worse outcomes in the second group of Balducci score",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Rabia Boulahssass", "S. Gonfrier", "F. Auben", "O. Guerin"],
+        "abstract": []
+      },
+      {
+        "title": "Monitoring of elderly cancer patients",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Rabia Boulahssass", "F. Auben", "S. Gonfrier", "O. Guerin"],
+        "abstract": []
+      },
+      {
+        "title": "A phase II study of lenalidomide in platinum-sensitive recurrent ovarian carcinoma",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["F Selle", "Sevin Emmanuel", "Isabelle Ray-Coquard", "E Pujade-Lauraine"],
+        "abstract": ["Background: \nLenalidomide has dual antiangiogenic and immunomodulatory properties and confirmed antitumor activity in hematologic malignancies. A phase II study investigating the safety and efficacy of continuous lenalidomide in recurrent ovarian cancer patients was initiated.\n\nPatients and methods: \nPatients with histologically confirmed epithelia..."]
+      },
+      {
+        "title": "Treatment decisions for older patients with cancer: Influence of the Comprehensive Geriatric Assessment (CGA) and the choice of the patient and their caregiver.",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Rabia Boulahssass", "Francine Auben", "Sebastien Gonfrier", "Olivier Guérin"],
+        "abstract": []
+      },
+      {
+        "title": "Predictive factors of early death during 100 days after a comprehensive geriatric assessment in older patients with cancer: A prospective cohort study of 576 patients.",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Rabia Boulahssass", "Véronique Mari", "Sebastien Gonfrier", "Olivier Guérin"],
+        "abstract": []
+      },
+      {
+        "title": "Results of age-dependent anal canal cancer treatment: A single centre retrospective study",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Audrey Claren", "Jérome Doyen", "Alexander T. Falk", "Eric Francois"],
+        "abstract": ["Background\nInformation concerning management of anal canal cancer among the elderly is scarce and much less abundant than for younger subjects.\n\nPopulation and methods\nWe retrospectively analysed 115 patients treated for anal epidermoid cancer between 2000 and 2010. The population was divided according to age (<70 years and ≥70 years).\n\nResults\nOf..."]
+      },
+      {
+        "title": "Prognostic Factors in 401 Elderly Women with Metastatic Breast Cancer",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Philippe Follana", "Jérôme Barrière", "E. Chamorey", "Jean-Marc Ferrero"],
+        "abstract": ["Background: \nElderly patients with metastatic breast cancer have a prognosis and outcome that may be dependent on a host of factors.\n\nPatients and methods: \nWe retrospectively analyzed 401 female breast cancer patients who developed metastatic disease after the age of 70 years in order to define potential prognostic factors for specific survival at..."]
+      },
+      {
+        "title": "Patient Satisfaction with and Acceptance of Their Totally-Implanted Central Venous Catheter: Construction and First Validation of a Questionnaire",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Pierre Yves Marcy", "Véronique Mari", "Andréa Figl", "Emmanuel Chamorey"],
+        "abstract": []
+      },
+      {
+        "title": "What about the elderly cancer patients’ living wills?",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Véronique Mari", "A. Fogliarini", "Rabia Boulahssass", "Olivier Guérin"],
+        "abstract": []
+      },
+      {
+        "title": "Early death in older patients with cancer: risk factors of worse outcomes?",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Rabia Boulahssass", "Véronique Mari", "S. Gonfrier", "O. Guerin"],
+        "abstract": []
+      },
+      {
+        "title": "Geriatric interventions in the management of older patients with cancer",
+        "tags": ["Article"],
+        "date": "Sep 2013",
+        "authors": ["Rabia Boulahssass", "F. Auben", "S. Gonfrier", "O. Guerin"],
+        "abstract": []
+      },
+      {
+        "title": "Evaluation of whole body MRI for early detection of cancers in subjects with germ-line TP53 mutation (Li-Fraumeni syndrome).",
+        "tags": ["Article"],
+        "date": "May 2013",
+        "authors": ["Olivier Caron", "Thierry Frebourg", "Emmanuelle Bourbouloux", "Laurence Brugieres"],
+        "abstract": ["TPS1607\nBackground: The TP53 germline mutation carriers have a huge increase of cancer risk. The cancer spectrum is particularly broad (breast, sarcoma, brain tumour, leukaemia, …). The clinical management of these people is challenging, mainly concerning sarcoma screening. Moreover, some data let speculate that normal cells of these carriers are p..."]
+      },
+      {
+        "title": "Predicting everolimus treatment efficacy in patients with advanced endometrial carcinoma: A GINECO group study",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Olivier Trédan", "Isabelle Treilleux", "Qing Wang", "Isabelle Ray-Coquard"],
+        "abstract": ["This study aimed to determine whether the expression of various tumor biomarkers of the mTOR pathway predicts tumor response to everolimus in metastatic recurrent endometrial cancer. Tumor blocks from 44 patients of a phase II clinical trial receiving everolimus until progression or toxicity were collected and evaluated at 3 and 6 months for respon..."]
+      },
+      {
+        "title": "Phase I Trial of Gemcitabine Combined with Capecitabine and Erlotinib in Advanced Pancreatic Cancer: A Clinical and Pharmacological Study",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Eric Francois", "Jaafar Bennouna", "E Chamorey", "G Milano"],
+        "abstract": ["Background: \nThe aim of this phase I trial was to define the maximum tolerated dose (MTD), the dose-limiting toxicity (DLT) and the recommended dose of erlotinib combined with capecitabine and gemcitabine in the treatment of advanced pancreatic cancer (APC).\n\nMethods: \nGemcitabine was administered intravenously at 1,000 mg/m(2)/week (days 1, 8 and..."]
+      },
+      {
+        "title": "Uracil-tegafur/leucovorin and mitomycin C salvage therapy in patients with advanced colorectal cancer: A phase II study",
+        "tags": ["Article"],
+        "date": "Aug 2012",
+        "authors": ["Eric Francois", "Denis Smith", "Laetitia Dahan", "Emmanuel Chamorey"],
+        "abstract": ["We investigated the efficacy and safety of oral Uracil/tegafur (UFT) with leucovorin and mitomycin C (MMC) as third-line treatment for patients with extensively pretreated metastatic colorectal cancer (mCRC). This was a multicenter, prospective phase II study. Patients received MMC 7 mg/m(2) on day 1 and UFT 300 mg/m(2) with leucovorin 90 mg, both..."]
+      },
+      {
+        "title": "Lenalidomide (REV) in asymptomatic late recurrent ovarian cancer (ROC) patients with increasing CA 125: A GINECO phase II trial.",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Frédéric Selle", "Isabelle Ray-Coquard", "Sevin Emmanuel", "Eric Pujade-Lauraine"],
+        "abstract": ["5018\nBackground: REV is a thalidomide analogue, with both immunomodulatory and anti-angiogenic properties that could confer antitumor effect in ROC. Methods: The aim of this study was to evaluate REV efficacy as single agent in patients (pts) with asymptomatic late ROC (>6mos) with increasing CA 125, in 2nd or 3rd line. Primary endpoint was to esti..."]
+      },
+      {
+        "title": "An oncogenetics consultation dedicated to children suffering from cancer.",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Véronique Mari", "Marie Amelie Met Domestici", "Christine Soler", "Marc Frenay"],
+        "abstract": ["e20006\nBackground: When a child suffers from a cancer, parents worry about a probable hereditary cause. If a cancer occurs in the context of a genetic mutation, this can worsen the situation and make it more complicated. On the other hand, when the hereditary cause is rejected, the reinsurance for the family is clear. Methods: A partnership has bee..."]
+      },
+      {
+        "title": "Association of gliomas and BRCA 1 germline mutation: A possible linkage.",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Marc Frenay", "Marie Amelie Met Domestici", "Pascaline Berthet", "Véronique Mari"],
+        "abstract": ["e12502\nBackground: Gliomas are known to occur in association with several well-defined hereditary tumor syndromes such as NF1 and NF2, tuberous sclerosis, Li Fraumeni syndrom and Turcot syndrome. In addition, familial clustering of glioma in absence of these tumor syndrome have also been described. Methods: We have already reported the case of a 35..."]
+      },
+      {
+        "title": "PP 86 Immunohistochemistry and molecular biology of the PI3K pathway did not correlate with treatment efficacy of everolimus as second line or third line treatment of advanced endometrial carcinoma",
+        "tags": ["Article"],
+        "date": "Oct 2011",
+        "authors": ["O. Tredan", "Daniel Pissaloux", "Isabelle Treilleux", "Isabelle Ray-Coquard"],
+        "abstract": []
+      },
+      {
+        "title": "A Phase I Study of UFT-Oral Vinorelbine in Metastatic Breast Cancer",
+        "tags": ["Article"],
+        "date": "Oct 2011",
+        "authors": ["Jean-Marc Ferrero", "R Largillier", "C Michel", "Emmanuel Chamorey"],
+        "abstract": ["Despite current treatment options, metastatic breast cancer (MBC) remains essentially incurable, requiring research on new drugs or combinations to improve survival and quality of life.\nThis phase I study was designed to define the maximum-tolerated dose (MTD), dose-limiting toxicity (DLT) and recommended dose of all-oral tegafur-uracil (UFT)/folin..."]
+      },
+      {
+        "title": "Pathogenesis and management of refractory malignant ascites",
+        "tags": ["Article"],
+        "date": "Jun 2011",
+        "authors": ["Esma Saâda", "Philippe Follana", "Frederic Peyrade", "Eric Francois"],
+        "abstract": ["Résumé\nL’ascite maligne est l’accumulation anormale de liquide dans la cavité péritonéale associée à un processus malin. Les néoplasies les plus souvent associées à une ascite maligne sont les adénocarcinomes de l’ovaire, du sein, du côlon, de l’estomac et du pancréas. Les symptômes sont la distension abdominale, les nausées, les vomissements, l’an..."]
+      },
+      {
+        "title": "Abstract P3-10-39: Prognostic Factors in 337 Elderly Women with Metastatic Breast Cancer",
+        "tags": ["Article"],
+        "date": "Apr 2011",
+        "authors": ["Philippe Follana", "E. Chamorey", "B. Dadone", "Jean-Marc Ferrero"],
+        "abstract": ["Background: We have studied a cohort of elderly women with metastatic breast cancer (MBC) who were treated in our institution and determined a list of factors easily available in routine clinical practice that could predict specific survival of patients after diagnosis of metastasis. Patients and methods: From 1975 to 2005, a total of 337 female br..."]
+      },
+      {
+        "title": "Use of bevacizumab in elderly patients with metastatic colorectal cancer: Review",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Eric Francois", "Olivier Guérin", "Philippe Follana", "T. Aparicio"],
+        "abstract": ["Significant progress has been made within the last 15. years in the treatment of advanced colorectal cancer. Bevacizumab, an anti-vascular endothelial growth factor monoclonal antibody, has contributed to this progress. However, in most of the published studies, particularly those using bevacizumab, the median age of patients was < 65. years, thus..."]
+      },
+      {
+        "title": "P20 Impact of comprehensive geriatric assessment in oncology. A retrospective study about 59 older patients with cancers",
+        "tags": ["Article"],
+        "date": "Oct 2009",
+        "authors": ["Rabia Boulahssass", "Olivier Guérin", "I. Bereder", "A. Thyss"],
+        "abstract": []
+      },
+      {
+        "title": "Prognostic factors in 1038 women with metastatic breast cancer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2008",
+        "authors": ["R Largillier", "Jean-Marc Ferrero", "Jérome Doyen", "E Chamorey"],
+        "abstract": ["Treatment of metastatic breast cancer (MBC) remains palliative. Patients with MBC represent a heterogeneous group whose prognosis and outcome may be dependent on host factors. The purpose of the present study was dual: first, to draw up a list of factors easily available in everyday clinical practice requiring no sophisticated or costly methods and..."]
+      },
+      {
+        "title": "Chirurgie des lésions mammaires : Prise en charge de première intention Evaluation des pratiques professionnelles dans les établissements de santé Selon un protocole d’Audit Clinique Ciblé (ACC) élaboré par l’HAS (Haute Autorité de Santé)",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "Oct 2008",
+        "authors": ["Vivien Ceccato", "Guillaume Magnin", "Véronique Mari"],
+        "abstract": []
+      },
+      {
+        "title": "Use of the folinic acid/5-fluorouracil/irinotecan (FOLFIRI 1) regimen in elderly patients as a first-line treatment for metastatic colorectal cancer: A Phase II study",
+        "tags": ["Article"],
+        "date": "Mar 2008",
+        "authors": ["Eric Francois", "Jean-François Berdah", "Emmanuel Chamorey", "Véronique Mari"],
+        "abstract": ["The aim of this study was to evaluate the effects of a combination of folinic acid, 5-fluorouracil (5FU) and irinotecan (FOLFIRI 1) administered every 2 weeks in a population of elderly subjects with advanced colorectal cancer.\nPatients with metastatic colorectal cancer included in this study were aged at least 70 years, with a performance status o..."]
+      },
+      {
+        "title": "Taking charge of febrile neutropenias in hospitalization of patients affected by a solid tumor: risk factors for the duration of the fever",
+        "tags": ["Article"],
+        "date": "Jun 2007",
+        "authors": ["Jérôme Barrière", "E. Chamorey", "R. Largillier", "Jean-Marc Ferrero"],
+        "abstract": []
+      },
+      {
+        "title": "Haematological Evaluation of Weekly Therapy with Topotecan for the Treatment of Recurrent Ovarian Cancer Resistant to Platinum-Based Therapy",
+        "tags": ["Article"],
+        "date": "Jan 2007",
+        "authors": ["R Largillier", "B Valenza", "Jean-Marc Ferrero", "E Chamorey"],
+        "abstract": ["Topotecan is indicated in the treatment of advanced-stage ovarian cancers refractory to prior platinum-based regimen. The aim of this study was to compare the standard therapeutic strategy with a novel strategy of weekly administration of topotecan. The primary endpoints were dose density and overall tolerance. This retrospective cohort study inclu..."]
+      },
+      {
+        "title": "Feasibility of sentinel node detection in patients with carcinoma of the anal canal",
+        "tags": ["Conference Paper"],
+        "date": "Aug 2004",
+        "authors": ["Jacques Darcourt", "Eric Francois", "P Carrier", "JP Gerard"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [70],
+    "reads": [6895],
+    "citations": [971]
   }
 }

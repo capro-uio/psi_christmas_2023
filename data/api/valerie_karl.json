@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "K. Valerie Carl",
-    "id": "sxh09XEAAAAJ",
-    "affiliation": "Doctoral Researcher, Goethe University Frankfurt",
+    "name": ["K. Valerie Carl"],
+    "id": ["sxh09XEAAAAJ"],
+    "affiliation": ["Doctoral Researcher, Goethe University Frankfurt"],
     "data": {
       "publications": [
         {
@@ -132,8 +132,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-3036-8880",
-    "name": "Valerie Karl",
+    "orcid": ["0000-0002-3036-8880"],
+    "name": ["Valerie Karl"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -144,8 +144,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Valerie Karl",
-    "id": "1371410",
+    "name": ["Valerie Karl"],
+    "id": ["1371410"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -158,5 +158,481 @@
         "url": "https://api.cristin.no/v2/results/2205415"
       }
     ]
+  },
+  "rg": {
+    "id": "Andre-Valerie",
+    "name": "Andre Valerie",
+    "img": "https://i1.rgstatic.net/ii/profile.image/298870161592326-1448267607704_Q128/Andre-Valerie.jpg",
+    "affiliation": "Beauty Care Solutions France, RD",
+    "keywords": [],
+    "works": [
+      {
+        "title": "995 Sensitive skin microbiota communities highlighted by droplet-based microfluidic method",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["M. Gault", "Sabrina Leoty-Okombi", "Delphine Rival", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "339 Microfluidic device supporting the coculture of iPSC-derived sensitive neurons and epidermis",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Sébastien Cadau", "Charlène Prier", "K. Nishida", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "A multi-omics strategy for the study of microbial metabolism: application to the human skin's microbiome",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Louis-Félix Nothias", "Robin Schmid", "Allison Garlet", "Philipp Ternes"],
+        "abstract": ["Although metabolomics data acquisition and analysis technologies have become increasingly sophisticated over the past 5–10 years, deciphering a metabolite’s function from a description of its structure and its abundance in a given experimental setting is still a major scientific and intellectual challenge. To point out ways to address this ‘data to..."]
+      },
+      {
+        "title": "Regulation of stem cell fate by HSPGs: implication in hair follicle cycling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Charlie Colin-Pierre", "Oussama El Baraka", "Louis Danoux", "Stéphane Brézillon"],
+        "abstract": ["Heparan sulfate proteoglycans (HSPGs) are part of proteoglycan family. They are composed of heparan sulfate (HS)-type glycosaminoglycan (GAG) chains covalently linked to a core protein. By interacting with growth factors and/or receptors, they regulate numerous pathways including Wnt, hedgehog (Hh), bone morphogenic protein (BMP) and fibroblast gro..."]
+      },
+      {
+        "title": "226 Biotic complex to improve acne-prone skin",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Isabelle Bonnet", "M. Gault", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "240 Lactobacillus crispatus probiotic for skin antiaging benefits",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Sabrina Leoty-Okombi", "M. Gault", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "246 Inhibition of Cutibacterium acnes virulence to reduce oily skin imperfections",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Louis Danoux", "Sabine Pain", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "231 H3K27 acetylation modulation to prevent UVA-induced photoaging",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["N. Pelletier", "C. Reymermier", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "An Inflamed and Infected Reconstructed Human Epidermis to Study Atopic Dermatitis and Skin Care Ingredients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Sébastien Cadau", "Manon Gault", "Nicolas Berthelemy", "Sabine Pain"],
+        "abstract": ["Atopic dermatitis (AD), the most common inflammatory skin disorder, is a multifactorial disease characterized by a genetic predisposition, epidermal barrier disruption, a strong T helper (Th) type 2 immune reaction to environmental antigens and an altered cutaneous microbiome. Microbial dysbiosis characterized by the prevalence of Staphylococcus au..."]
+      },
+      {
+        "title": "135 Silencing Quorum Sensing molecule mechanisms to reduce harmful effects of two pathogenic bacteria on the skin",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Sabrina Leoty-Okombi", "M. Gault", "Louis Danoux", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "178 Activation of epigenetic Sirt1 synthesis by a fucus vesiculosus extract",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["C. Reymermier", "N. Pelletier", "Louis Danoux", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "112 A new 3D skin model colonized with bacteria for a better understanding of Atopic Dermatitis",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Sébastien Cadau", "M. Gault", "Nicolas Berthelemy", "Sabine Pain"],
+        "abstract": []
+      },
+      {
+        "title": "Challenging Cosmetic Innovation: The Skin Microbiota and Probiotics Protect the Skin from UV-Induced Damage",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Djouhar Souak", "Magalie Barreau", "Aurelie Courtois", "Manon Gault"],
+        "abstract": ["Many studies performed in the last decade have focused on the cutaneous microbiota. It has been shown that this microbiota plays a key role in skin homeostasis. Considered as “a second barrier” to the environment, it is very important to know how it reacts to exogenous aggressions. The cosmetics industry has a started to use this microbiota as a so..."]
+      },
+      {
+        "title": "Effect of Sodium Lauryl Sulfate (SLS) Applied as a Patch on Human Skin Physiology and Its Microbiota",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Sabrina Leoty-Okombi", "Florence Gillaizeau", "Sébastien Leuillet", "Andre Valerie"],
+        "abstract": ["In this study, we assessed the change in skin microbiota composition, relative abundance, and diversity with skin physiology disruption induced by SLS patch. Healthy women declaring to have a reactive skin were submitted to a 0.5% aqueous sodium lauryl sulfate solution application under occlusive patch condition for 24 h. Skin properties were chara..."]
+      },
+      {
+        "title": "The World’s First 3D Bioprinted Immune Skin Model Suitable for Screening Drugs and Ingredients for Normal and Inflamed Skin",
+        "tags": ["Conference Paper"],
+        "date": "Dec 2020",
+        "authors": ["Maxime Lègues", "Clément Milet", "Nico Forraz", "Colin Mcguckin"],
+        "abstract": []
+      },
+      {
+        "title": "219 Comprehensive microbiota analysis of oily versus normal scalp",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["Sabrina Leoty-Okombi", "A. Guinta", "D. Nicolas Stefano", "P. Ludwig"],
+        "abstract": []
+      },
+      {
+        "title": "343 Quorum Quenching: A promising and physiological microbial control strategy",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["M. Gault", "Louis Danoux", "Sabrina Leoty-Okombi", "P. Ludwig"],
+        "abstract": []
+      },
+      {
+        "title": "Identification of the main component of a rambutan leaf extract responsible for the stimulation of collagen 1 on human keratinocytes",
+        "tags": ["Conference Paper"],
+        "date": "Dec 2019",
+        "authors": ["Florence Henry", "MF Zambaux", "Isabelle Bonnet", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "Epidermal keratin 5 expression and distribution is under dermal influence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Muriel Cario", "Catherine Pain", "Priscilla Kaulanjan-Checkmodine", "Alain Taieb"],
+        "abstract": ["Human skin melanin pigmentation is regulated by systemic and local factors. According to the type of melanin produced by melanocytes, the transfer and degradation of melanosomes differ, thus accounting for most variations between ethnicities. We made the surprising observation that in a drastically changed environment, white and black phenotypes ar..."]
+      },
+      {
+        "title": "558 Negative effect of blue light and potential impacts on the dermis",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Sabine Pain", "Solene Mine", "C. Jeanmaire", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "209 Study of skin microbiota impaired by skin hygiene habits",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Sabrina Leoty-Okombi", "P. Moussou", "Andre Valerie", "Sabine Pain"],
+        "abstract": []
+      },
+      {
+        "title": "SID_2011 (695).pdf",
+        "tags": ["Data"],
+        "date": "Jun 2019",
+        "authors": ["Valérie Cenizo", "A. Lhoste", "Sebastien Bonnet", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "897 Lymphatic and endothelial 3D microvascularized dermis model validated for the evaluation of strengthening ingredients",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["A. Young", "Sébastien Cadau", "Nicolas Berthelemy", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "512 Impairment of skin microbiota by overcleansing",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["A. Young", "Sabrina Leoty-Okombi", "P. Moussou", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "Cover Image, Volume 52, Issue 1",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Anne-France de Bengy", "Nico Forraz", "Louis Danoux", "Colin Mcguckin"],
+        "abstract": ["The cover image is based on the Original Article Development of new 3D human ex vivo models to study sebaceous gland lipid metabolism and modulations by Anne‐France de Bengy et al., https://doi.org/10.1111/cpr.12524."]
+      },
+      {
+        "title": "Development of new 3D human ex vivo models to study sebaceous gland lipid metabolism and modulations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Anne-France de Bengy", "Nico Forraz", "Louis Danoux", "Colin Mcguckin"],
+        "abstract": ["Objectives\nSebaceous glands maintain skin homeostasis by producing sebum. Low production can induce hair loss and fragile skin. Overproduction provokes seborrhoea and may lead to acne and inflammatory events. To better study sebaceous gland maintenance, sebocyte maturation, lipid production and ageing or inflammatory processes, we developed innovat..."]
+      },
+      {
+        "title": "675 Development of in vitro models to study sebocyte metabolism in its environment",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Louis Danoux", "Andre Valerie", "P. Ludwig", "A. Young"],
+        "abstract": []
+      },
+      {
+        "title": "Understanding Solar Skin Elastosis-Cause and Treatment",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Sabine Pain", "Nicolas Berthelemy", "Corinne Naudin", "Andre Valerie"],
+        "abstract": ["Photoageing, also called actinic ageing, is the main cause of prematurely aged skin. Our expertise in elastic fibers has led us to discover a process triggered in response to ultraviolet (UV) light and which upsets the balance of elastin fibers: there is too much elastin and insufficient lysyl oxidase (LOXL1) enzyme to form functional elastic fiber..."]
+      },
+      {
+        "title": "680 New 3D reconstructed hypodermis model without substrate to evaluate adipose tissue remodeling",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Sébastien Cadau", "A. Pierrot", "Charlène Prier", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "153 Combining anti-pollution and bacterial modulation for advanced skin protection",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["M. Gault", "Louis Danoux", "Sabrina Leoty-Okombi", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "285 A new scalp treatment for anti-ageing hair",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Solene Mine", "P. Moussou", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "447 Collagen XVIII, a key interfacial component of the skin architecture",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Isabelle Bonnet", "Sébastien Cadau", "Nicolas Berthelemy", "Patricia Rousselle"],
+        "abstract": []
+      },
+      {
+        "title": "622 Skin barrier, innate immunity and staphylococci homeostasis",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["S. Gauthier", "L. Costes", "F. Legendre", "Manasi Chavan"],
+        "abstract": []
+      },
+      {
+        "title": "New bioprinted skin, cosmeticin vitromodel",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Sébastien Cadau", "Delphine Rival", "Andre Valerie", "Fabien Guillemot"],
+        "abstract": ["We developed a new evolution of three-dimensional skin equivalent due to the optimization of four-dimensional laser-assisted bioprinting and skin equivalent culture protocols. This allowed us to produce fully bioprinted skin equivalents that are closed to current skin equivalents and suitable to test cosmetic ingredients. Particularly, we performed..."]
+      },
+      {
+        "title": "Collagen XVIII: A key interfacial component of the skin architecture",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Isabelle Bonnet", "Lara Jobeili", "Sébastien Cadau", "Patricia Rousselle"],
+        "abstract": []
+      },
+      {
+        "title": "Re-innervation of a skin model: Functionality study",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Andre Valerie", "Christine Jeanmaire", "Jean-Pierre Pennec", "Nicolas Lebonvallet"],
+        "abstract": []
+      },
+      {
+        "title": "Endothelialized and innervated 3D skin glycated model",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Sébastien Cadau", "Sabrina Leoty-Okombi", "Schinichi Nakajima", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "246 Prebiotic stimulation of innate immune system, skin barrier and staphylococci homeostasis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["S. Gauthier", "L. Costes", "F. Legendre", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "172 DNA methylation targeting to rescue chronological and pathological loss of skin elasticity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Sabine Pain", "Vincent Bardey", "Andre Valerie", "R. Debret"],
+        "abstract": []
+      },
+      {
+        "title": "536 UVA and benzoapyrene cumulative effects on human keratinocytes",
+        "tags": ["Article"],
+        "date": "Sep 2016",
+        "authors": ["L. Deposito", "N. Andres", "O. El-Baraka", "Louis Danoux"],
+        "abstract": []
+      },
+      {
+        "title": "Methylation of LOXL1 promoter by DNMT3A in aged human skin fibroblasts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Léa MOULIN", "Valérie Cenizo", "Alengo Nyamay’Antu", "Romain DEBRET"],
+        "abstract": ["Lysyl oxidase-like 1 (LOXL1) is an amino-oxidase involved in maturation of elastic fibres. Its downregulation has been associated with elastic fibres repair loss in ageing aorta, lung, ligament and skin. Several evidences of LOXL1 epigenetic silencing by promoter methylation were reported in cancer and cutis laxa syndrome. We hypothesised that this..."]
+      },
+      {
+        "title": "685 Study of functional fibrillary collagen network from the cell level to the matrix maturation",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Delphine Rival", "Sabine Pain", "Manasi Chavan", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "327 Potentiation by UVA of pollution toxicity on human keratinocytes",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Louis Danoux", "Sabrina Leoty-Okombi", "Manasi Chavan", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "Perlecan expression influences the keratin 15-positive cell population fate in the epidermis of aging skin",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Morgan dos Santos", "Anna Michopoulou", "Andre Valerie", "Patricia Rousselle"],
+        "abstract": ["The epidermis is continuously renewed by stem cell proliferation and differentiation. Basal keratinocytes append the dermal-epidermal junction, a cell surface-associated, extracellular matrix that provides structural support and influences their behaviour. It consists of laminins, type IV collagen, nidogens, and perlecan, which are necessary for ti..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Morgan dos Santos", "Anna Michopoulou", "Andre Valerie", "Patricia Rousselle"],
+        "abstract": []
+      },
+      {
+        "title": "Origanum majorana extract increases synthesis of a functional collagen fiber network in human skin",
+        "tags": ["Poster"],
+        "date": "Sep 2015",
+        "authors": ["Delphine Rival", "Sebastien Bonnet", "Sébastien Cadau", "Andre Valerie"],
+        "abstract": ["Although all statements and information in this publication are believed to be accurate and reliable, they are presented gratis and for guidance only, and risks and liability for results obtained by use of the products or application of the suggestions described are assumed by the user. SELLER MAKES NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIE..."]
+      },
+      {
+        "title": "Model to study the breakdown of the intermediate filament system under glycation",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2015",
+        "authors": ["Sabrina Leoty-Okombi", "J. Saget", "Aurélie Boher", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "In vitro glycation of an endothelialized and innervated tissue-engineered skin to screen anti-AGE molecules",
+        "tags": ["Article"],
+        "date": "May 2015",
+        "authors": ["Sébastien Cadau", "Sabrina Leoty-Okombi", "Sabine Pain", "François Berthod"],
+        "abstract": []
+      },
+      {
+        "title": "Active ingredient that stimulates the proliferation and/or activity of fibroblasts",
+        "tags": ["Patent", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Delphine Rival", "Andre Valerie", "Louis Lamy"],
+        "abstract": ["The invention relates to a novel active ingredient that stimulates the proliferation and/or the activity of fibroblasts and also to its applications in the cosmetic or pharmaceutical, in particular dermatological, field. In particular, the active ingredient according to the invention comprises a combination of at least one Hibiscus Abelmoschus extr..."]
+      },
+      {
+        "title": "Soy extract modified by biotechnology increases synthesis of a functional characterized heterotypic type I/V/III collagen fibers network in the extracellular matrix of the human skin",
+        "tags": ["Poster"],
+        "date": "May 2013",
+        "authors": ["Delphine Rival", "Sebastien Bonnet", "Aurélie Boher", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "In vitro melanogenesis inhibitory effects of N-feruloyldopamine",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["Sabrina Leoty-Okombi", "Sebastien Bonnet", "Delphine Rival", "Andre Valerie"],
+        "abstract": ["Tyrosinase is the rate-limiting enzyme in the melanogenesis process. It remains the most efficient way to downregulate melanin production and improve unsightly pigmentary disorders. The aim of our investigations was to find a structurally characterized molecule with better efficacy than existing molecules without cell toxicity. We focused our inves..."]
+      },
+      {
+        "title": "How to help the skin cope with glycoxidation",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["Louis Danoux", "Solene Mine", "Nabil Abdul-Malak", "Andreas Rathjens"],
+        "abstract": ["Background: \nProtein glycation refers to the spontaneous reaction of reducing sugars with proteins and the subsequent formation of stable advanced glycation end products (AGEs). Glycation is linked with oxidative stress, and this association is called \"glycoxidation\". Glycoxidation alters the protein structure and function and causes tissue aging,..."]
+      },
+      {
+        "title": "Achillea Millefolium Extract: An Innovative Anti-Aging Neuro-Cosmetic Ingredient?",
+        "tags": ["Article"],
+        "date": "Feb 2013",
+        "authors": ["Sabine Pain", "S Nakajima", "Cristina Altobelli", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "N-Feruloyldopamine, a synthetic molecule with tyrosinase inhibiting properties in vitro and complexion whitening efficacy in vivo.",
+        "tags": ["Poster"],
+        "date": "Oct 2012",
+        "authors": ["Sabrina Leoty-Okombi", "Sebastien Bonnet", "Delphine Rival", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "3D Modeling of Dermal Macrophages-Containing Dermis Equivalent",
+        "tags": ["Poster", "Full-text available"],
+        "date": "May 2012",
+        "authors": ["N. Bechetoille", "Pierre Seroul", "Aurélie Boher", "Andre Valerie"],
+        "abstract": ["ln vitro 3D reconstructed skin culture systems are useful tools for investigative purposes and for ingredient evaluation. We previously succeeded in integrating monocyte-derived dermal type macrophages (MDdM) into 3D reconstructed dermis equivalent (Bechetoille et al., 2011). However, classical visualization method such as histology and immunochemi..."]
+      },
+      {
+        "title": "A new organotypic model containing dermal-type macrophages",
+        "tags": ["Article"],
+        "date": "Oct 2011",
+        "authors": ["Nicolas Bechetoille", "Hortense Vachon", "Amandine Gaydon", "Christopher G Mueller"],
+        "abstract": ["Human skin equivalents (SEs) are popular three-dimensional (D) cell culture systems in fundamental and applied dermatology. They have been made to contain dendritic cells, but so far no study on the incorporation of potentially anti-inflammatory dermal macrophages has been performed. Here, we show that monocyte-derived dermal-type macrophages can b..."]
+      },
+      {
+        "title": "Analysis of perlecan expression in the epidermal basement membrane during skin ageing",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2011",
+        "authors": ["Morgan dos Santos", "Andre Valerie", "Odile Damour", "Patricia Rousselle"],
+        "abstract": ["Basement membrane (BM) are important regulators of cell behaviours and not just structural features of tissues. Indeed, skin BM mediates tissue compartmentalization but also sends signals to epithelial cells from external microenvironment. All BMs consist of a characteristic sheet-like structure of specialized extracellular matrix molecules includi..."]
+      },
+      {
+        "title": "Surface rejuvenating effect of Achillea millefolium extract",
+        "tags": ["Article"],
+        "date": "Jun 2011",
+        "authors": ["Sabine Pain", "Cristina Altobelli", "Aurélie Boher", "Andre Valerie"],
+        "abstract": ["Synopsis Proopiomelanocortin is a precursor peptide that gives rise to several neuropeptides including adrenocorticotrophic hormone (ACTH) and β-endorphin. POMC-derived peptides have been shown to be synthesized in human epidermis where they modulate numerous skin functions. Because we previously observed that melanocortin receptor-2 and μ-opioid r..."]
+      },
+      {
+        "title": "A plant extract protects from cutaneous photoaging via protection of collagen and elastin networks.",
+        "tags": ["Poster", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Valérie Cenizo", "A. Lhoste", "Sebastien Bonnet", "Andre Valerie"],
+        "abstract": ["In order to protect and restore a functional elastic tissue, we searched for a global protective agent that would increase LOXL expression in vitro, inhibit elastase activity and display good radical scavenging properties in tubo."]
+      },
+      {
+        "title": "Dermal-type macrophages can be integrated into a collagen-fibroblast scaffold",
+        "tags": ["Conference Paper"],
+        "date": "Apr 2011",
+        "authors": ["N. Bechetoille", "Hortense Vachon", "T. Fontaine", "C. G. Mueller"],
+        "abstract": []
+      },
+      {
+        "title": "Development of a human dermis equivalent model incorporating dermal macrophages",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2010",
+        "authors": ["Nicolas Bechetoille", "Hortense Vachon", "Thomas Fontaine", "Christopher Mueller"],
+        "abstract": []
+      },
+      {
+        "title": "A multifunctional plant extract helps prevent photoaging",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2010",
+        "authors": ["Valérie Cenizo", "Amandine Lhoste", "Sebastien Bonnet", "Andre Valerie"],
+        "abstract": []
+      },
+      {
+        "title": "Modulation of CD86 expression in skin dendritic cells does not always correlate with changes in DC motility, migration and allostimulatory functions",
+        "tags": ["Article"],
+        "date": "Feb 2010",
+        "authors": ["Nicolas Bechetoille", "Aurélie Boher", "Amandine Gaydon", "Andre Valerie"],
+        "abstract": ["CD86 expression is a well-known activation marker of dendritic cells (DC). In this study, we compared the level of CD86 expression in monocyte-derived skin DC with their motility, migratory abilities and allostimulatory capabilities. We show that motility and migration could be uncoupled from activation and that the immune response-modulating effec..."]
+      },
+      {
+        "title": "Using molecular modeling to develop innovative cosmetic active ingredients",
+        "tags": ["Article"],
+        "date": "Oct 2008",
+        "authors": ["Boris Vogelgesang", "Isabelle Bonnet", "Andre Valerie"],
+        "abstract": ["The cosmetic market always asks for efficient and attractive active ingredients, and this is particularly true for slimming. A few years ago, it has been shown that spermine and spermidine, two naturally occurring polyamines, stimulate fat storage and inhibit fat breakdown. It thus appeared as a target of choice for developing new slimming ingredie..."]
+      },
+      {
+        "title": "Acellular Mineral Deposition in Collagen-Based Biomaterials Incubated in Cell Culture Media",
+        "tags": ["Article"],
+        "date": "Apr 2000",
+        "authors": ["Andre Valerie", "B Chevallay", "I Orly", "D Herbage"],
+        "abstract": ["Rapid developments in tissue engineering have renewed interest in biodegradable three-dimensional structures such as collagen-based biomaterials. Collagen matrices seeded in vitro with fibroblasts, osteoblasts, and chondrocytes can form tissues resembling skin, bone, and cartilage that could be used as functional substitutes for damaged tissues. Co..."]
+      },
+      {
+        "title": "A Comparison of Biological Activities of a New Soya Biopeptide Studied in an In Vitro Skin Equivalent Model and Human Volunteers",
+        "tags": ["Article"],
+        "date": "Nov 1999",
+        "authors": ["Andre Valerie", "E Perrier", "C Augustin", "M Waldmann-Laue"],
+        "abstract": ["During aging, the epidermis and dermis become thin and an efficient anti‐aging product should be able to stimulate the metabolism of senescent fibroblast and keratinocytes, in order to increase the quantity of extra‐cellular matrix components such as collagen and glycosaminoglycans. A study performed in parallel on an in vitro skin equivalent model..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [66],
+    "reads": [6307],
+    "citations": [341]
   }
 }

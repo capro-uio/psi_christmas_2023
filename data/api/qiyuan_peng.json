@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Qiyuan (Rachel) Peng",
-    "id": "-fCX6vsAAAAJ",
-    "affiliation": "Assistant Professor in Finance, University of Dayton",
+    "name": ["Qiyuan (Rachel) Peng"],
+    "id": ["-fCX6vsAAAAJ"],
+    "affiliation": ["Assistant Professor in Finance, University of Dayton"],
     "data": {
       "publications": [
         {
@@ -288,8 +288,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-8767-1514",
-    "name": "qiyuan Peng",
+    "orcid": ["0000-0002-8767-1514"],
+    "name": ["qiyuan Peng"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -300,11 +300,725 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Qiyuan Peng",
-    "id": "1623194",
+    "name": ["Qiyuan Peng"],
+    "id": ["1623194"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Qiyuan-Peng",
+    "name": "Qiyuan Peng",
+    "img": "https://i1.rgstatic.net/ii/profile.image/314920191627264-1452094232271_Q128/Qiyuan-Peng.jpg",
+    "affiliation": "Southwest Jiaotong University, School of Transportation and Logistics",
+    "keywords": ["Logistics", "Optimization", "Scheduling", "Linear Programming", "Simulation", "Management Science"],
+    "works": [
+      {
+        "title": "Joint rolling stock rotation planning and depot deadhead scheduling in complicated urban rail transit lines",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Dian Wang", "Andrea D'Ariano", "Jun Zhao", "Qiyuan Peng"],
+        "abstract": []
+      },
+      {
+        "title": "Resilience Enhancement of an Urban Rail Transit Network by Setting Turn-Back Tracks: A Scenario Model Approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Jinqu Chen", "Chengzhen Jiang", "Xiaowei Liu", "Baowen Li"],
+        "abstract": ["The resilience of an urban rail transit (URT) network when faced with disruptions is affected by the locations of stations equipped with turn-back (TB) tracks. However, limited studies have enhanced the resilience of a URT network by setting new TB tracks. The present work addresses this gap by proposing and solving a scenario model for improving t..."]
+      },
+      {
+        "title": "Integrating train service route design with passenger flow allocation for an urban rail transit line",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Tao Feng", "Richard Lusby", "Yongxiang Zhang", "Qiyuan Peng"],
+        "abstract": ["Train service design problem considers many operating strategies, i.e., multiple service routes, multiple train compositions, and express/local modes. Incorporating multiple operating strategies, this study first formulates an integer linear programming model for integrating train service route design with the passenger flow allocation problem. Con..."]
+      },
+      {
+        "title": "Resilience assessment of a highway–railway complementary network under rainstorms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Jinqu Chen", "Cheng Liang", "Bo Du", "Qiyuan Peng"],
+        "abstract": ["With the increasing severity of global warming, rainstorms are occurring more frequently and severely affect the normal operation of transportation systems. Therefore, the ability of a highway-railway complementary (HRC) network to cope with rainstorms is examined. A resilience assessment model was used considering the rainfall intensity and its sp..."]
+      },
+      {
+        "title": "Optimal platforming, routing, and scheduling of trains and locomotives in a rail passenger station yard",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Bojian Zhang", "Yongxiang Zhang", "Andrea D'Ariano", "Qiyuan Peng"],
+        "abstract": ["A train platforming problem (TPP) involves assigning platforms and routes to trains according to the train timetable in a rail station yard. However, locomotive operations not included in the TPP – such as replacing locomotives for trains – can lead to additional decision-making challenges for dispatchers and potentially result in scheduling confli..."]
+      },
+      {
+        "title": "An ADMM-based dual decomposition mechanism for integrating crew scheduling and rostering in an urban rail transit line",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Tao Feng", "Richard Lusby", "Yongxiang Zhang", "Siyu Tao"],
+        "abstract": ["The crew planning problem is a key step in the urban rail transit (URT) planning process and has a critical impact on the operational efficiency of a URT line. In general, the crew planning problem consists of two subproblems, crew scheduling and crew rostering, which are usually solved in a sequential manner. Such an approach may, however, lead to..."]
+      },
+      {
+        "title": "MD-STCN: A deep learning-based architecture considering multivariate disturbances for metro passenger flow prediction",
+        "tags": ["Conference Paper"],
+        "date": "Oct 2022",
+        "authors": ["Cong Xiu", "Shuguang Zhan", "Qiyuan Peng"],
+        "abstract": []
+      },
+      {
+        "title": "Resilience Assessment of an Urban Rail Transit Network Under Short-Term Operational Disturbances",
+        "tags": ["Article"],
+        "date": "Aug 2022",
+        "authors": ["Jinqu Chen", "Jie Liu", "Bo Du", "Yong Yin"],
+        "abstract": ["Operational disturbances within 30 min, namely, short-term operational disturbances (STODs), occur frequently during the daily operation of an urban rail transit (URT) system. Therefore, there is an urgent need to assess a network’s ability to respond to STODs to improve its operational level. The resilience of a URT network jointly considering tur..."]
+      },
+      {
+        "title": "Optimizing the loaded train combination problem at a heavy-haul marshalling station",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Dian Wang", "Jun Zhao", "Qiyuan Peng"],
+        "abstract": ["In this paper, we address a loaded train combination problem at a heavy-haul marshalling station. This problem lies on assigning/combining loaded inbound trains to/into heavier outbound trains, and determining the actual departure time of outbound trains. By using a time-discretized modelling technique, we formulate the studied problem as a mixed i..."]
+      },
+      {
+        "title": "Train operation conflict detection for high-speed railways: a naïve Bayes approach",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Jie Li", "Zhongcan Li", "C. Wen", "Ping Huang"],
+        "abstract": ["Accurately detecting train operation conflicts (TOC) has great significance for improving the emergency handling ability of dispatchers during interference. In this study, a conflict detection model for high-speed train operation is proposed, with the train operation data from Xiamen to Shenzhen high-speed railway. Firstly, a TOC detection model fr..."]
+      },
+      {
+        "title": "Reducing an urban rail transit network’s passenger-oriented vulnerability by adding turn-back tracks",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Jie Liu", "Paul Schonfeld", "Shuguang Zhan", "Qiyuan Peng"],
+        "abstract": ["The links between two adjacent turn-back stations in an Urban Rail Transit Network (URT) are defined as an Interaction Link Set (ILS), and any link interruption in an ILS renders unusable all links in the ILS. The percent decrease in Total Passenger Trips (T-trips), percent increase in Travel Time Per Trip (P-time) and percent increase in the Numbe..."]
+      },
+      {
+        "title": "Integrated line planning and train timetabling through price-based cross-resolution feedback mechanism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Yongxiang Zhang", "Qiyuan Peng", "Gongyuan Lu", "Xuesong Simon Zhou"],
+        "abstract": ["Railway line planning and train timetabling are two key planning steps that determine the operating cost and passenger service quality of a railway operator under the infrastructure capacity limitations. Traditionally, the line planning and train timetabling problems are solved sequentially at the strategic and tactical level, respectively. In this..."]
+      },
+      {
+        "title": "Multiscenario-Based Train Headway Analysis under Virtual Coupling System",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Jinyi Pan", "Qiyuan Peng", "Shuguang Zhan", "Jiaqi Bai"],
+        "abstract": ["Chinese high-speed railway has implemented large-scale network operation with an urgent need for capacity improvement. The concept of virtual coupling seems to be a promising solution that provides a new operational scenario for high-speed railway, where trains are formed into a cooperative convoy and run synchronously with small train headways. Th..."]
+      },
+      {
+        "title": "Resilience assessment of an urban rail transit network: A case study of Chengdu subway",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Jinqu Chen", "Jie Liu", "Qiyuan Peng", "Yong Yin"],
+        "abstract": ["Existing studies seldom consider network structure and passenger travel demand jointly, and certain impractical assumptions are generally considered for assessing the resilience of an urban rail transit (URT) network. To address the abovementioned limitations, we have proposed a performance indicator called the demand-impedance (DI) indicator, in w..."]
+      },
+      {
+        "title": "Measuring and enhancing the connectivity reliability of a rail transit network",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Jie Liu", "Paul Schonfeld", "Shuguang Zhan", "Yuhong Liu"],
+        "abstract": ["A model for estimating the connectivity reliability (CR) of a rail transit network (RTN) is proposed that considers the passengers’ travel behavior. Passengers choose acceptable paths whose trip times are below the passengers’ acceptable trip time. An origin-destination station (OD) pair’s CR is defined as the probability that at least one acceptab..."]
+      },
+      {
+        "title": "Integrated rolling stock deadhead routing and timetabling in urban rail transit lines",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Dian Wang", "Andrea D'Ariano", "Jun Zhao", "Qiyuan Peng"],
+        "abstract": ["This paper investigates an integrated rolling stock deadhead routing and timetabling problem from the rolling stock scheduling in a complicated urban rail transit line. Given the train sequences composed of passenger train trips within an operation day, the deadhead routing sub-problem aims at selecting the rolling stock deadhead routes between the..."]
+      },
+      {
+        "title": "Effect of mass distribution on curving performance for a loaded wagon",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Duo Zhang", "Yinying Tang", "Qiyuan Peng", "Yunguang Ye 叶运广"],
+        "abstract": ["The location of wagon gravity center for a loaded wagon is underestimated in a vehicle-track coupled system. The asymmetric wheel load distribution due to loading offset significantly affects the wheel-rail contact state and seriously deteriorates the curving performance in conjunction with the height of gravity center and cant deficiency. Optimizi..."]
+      },
+      {
+        "title": "Train service design in an urban rail transit line incorporating multiple service routes and multiple train compositions",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Zhengyang Li", "Jun Zhao", "Qiyuan Peng"],
+        "abstract": ["This paper focuses on the train service design problem within a given period in an urban rail transit line, where multiple either full-length or short-turn service routes can be operated, and each service route can utilize one of several different train compositions. The problem lies on determining the turn-back stations, train composition and freq..."]
+      },
+      {
+        "title": "Accessibility for a railway corridor integrating high-speed railway and conventional railway",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Anjun Li", "Jie Liu", "Hironori Kato", "Li"],
+        "abstract": ["1 The accessibility of a railway corridor is contributed by both conventional railway (CR) and high-speed 2 railway (HSR). Each type of railway has its essential and unique function for serving the corridor. This 3 study illustrates the significance of the coordination of CR and HSR by evaluating and comparing the 4 railway accessibility of Shangha..."]
+      },
+      {
+        "title": "Train Service Design in an Urban Rail Transit Line Incorporating Multiple Service Routes and Multiple Train Compositions",
+        "tags": ["Preprint"],
+        "date": "Dec 2020",
+        "authors": ["Zhengyang Li", "Jun Zhao", "Qiyuan Peng"],
+        "abstract": ["This paper focuses on the train service design problem within a given period in an urban rail transit line, where multiple either full-length or short-turn service routes can be operated, and each service route can utilize one of several different train compositions. The problem lies on determining the turn-back stations, train composition and freq..."]
+      },
+      {
+        "title": "Optimising the location of wagon gravity centre to improve the curving performance",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Duo Zhang", "Yinying Tang", "Zhongyang Sun", "Qiyuan Peng"],
+        "abstract": ["The location of wagon gravity centre (WGC) has a significant effect on the wheel-rail contact force. For the sake of improving the curving performance of a freight wagon, it is necessary to optimise the location of WGC by shifting the position of cargo or adopting the balance weight. This paper proposes a data analysis methodology that demonstrates..."]
+      },
+      {
+        "title": "Integrated Railway Timetable Rescheduling and Dynamic Passenger Routing During a Complete Blockage",
+        "tags": ["Article"],
+        "date": "Nov 2020",
+        "authors": ["Shuguang Zhan", "S C Wong", "Pan Shang", "S M Lo"],
+        "abstract": ["Trains normally run as scheduled in a non-disrupted situation. However, due to external and/or internal factors, trains may deviate from their original timetable during daily operations. To this end, the involved dispatchers are required to reschedule disrupted trains to efficiently transport delayed passengers to their destinations as soon as poss..."]
+      },
+      {
+        "title": "Passenger Demand-Oriented High-Speed Train Stop Planning with Service-Node Features Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Fanxiao Liu", "Qiyuan Peng", "Gongyuan Lu", "Guangyuan Zhang"],
+        "abstract": ["As a critical foundation for train traffic management, a train stop plan is associated with several other plans in high-speed railway train operation strategies. The current approach to train stop planning in China is based primarily on passenger demand volume information and the preset high-speed railway station level. With the goal of efficiently..."]
+      },
+      {
+        "title": "Effects of Link Capacity Reductions on the Reliability of an Urban Rail Transit Network",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Jie Liu", "Paul Schonfeld", "Yong Yin", "Qiyuan Peng"],
+        "abstract": ["Link capacity reductions, which occur often, degrade the service quality and performance of urban rail transit (URT) networks. To measure the reliability of a URT network when link capacity reductions occur in a given time period, the passengers' generalized travel cost (GTC) is computed and passengers are divided into three categories. The GTC con..."]
+      },
+      {
+        "title": "Evaluating Railway Operation Safety Situation in China Based on an Improved TOPSIS Method: A Regional Perspective",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Xu Yan", "Qiyuan Peng", "Yong Yin", "Qingwei Zhong"],
+        "abstract": ["The evaluation of the railway operation safety situation is important for managers to ensure transportation safety and make control decisions. In this study, first, six situation indicators are designed from a regional perspective based on the characteristics of railway operation accidents, and the quantitative methods of these indicators are deter..."]
+      },
+      {
+        "title": "Modeling train operation as sequences: A study of delay prediction with operation and weather data",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Ping Huang", "C. Wen", "Liping Fu", "Xinyue Xu"],
+        "abstract": ["This paper presents a carefully designed train delay prediction model, called FCLL-Net, which combines a fully-connected neural network (FCNN) and two long short-term memory (LSTM) components, to capture operational interactions. The performance of FCLL-Net is tested using data from two high speed railway lines in China. The results show that FCLL-..."]
+      },
+      {
+        "title": "Effects of Line-Capacity Reductions on Urban Rail Transit System Service Performance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Jie Liu", "Paul Schonfeld", "Anjun Li", "Yong Yin"],
+        "abstract": ["In the daily operations of urban rail transit (URT) systems, line capacity sometimes is reduced, which worsens service performance. To measure the effects of line capacity reductions on URT system service performance in a given period, a passenger satisfaction metric and a service quality metric are proposed. The passengers' generalized travel cost..."]
+      },
+      {
+        "title": "DESIGN OF HIGH-SPEED RAILWAY (HSR) LONG-DISTANCE TUNNEL INDEPENDENT CONTROL NETWORK",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Alhossein Mohamed", "Qiyuan Peng"],
+        "abstract": ["Establishing a high-speed railway long-distance tunnel independent control network according to “one point and one direction” will often produce lateral deviation and long and short chains in the joint section. It is necessary to take technical measures such as control network rotation or long and short chain to solve. Combined with the case of a n..."]
+      },
+      {
+        "title": "考虑多交路多编组的城市轨道线路列车交路计划优化",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Zhengyang Li", "Jun Zhao", "Qiyuan Peng"],
+        "abstract": ["城市轨道交通线路列车交路设计问题在于确定线路在给定时段运营的交路条数，以及各交路的折返站、 列车编组和开行频率。根据线路折返站布置，生成备选交路集并构建服务网络，使用最优策略对服务网络进行客 流分配，描述乘客对不同交路列车的选择行为。考虑线路运营组织及能力限制约束，以运营企业成本与乘客等待 时间成本最小为目标，建立混合整数非线性规划模型，在备选集中挑选交路，并确定各交路的列车编组及开行频 率。将模型线性化，并提出服务网络简化方法，缩减模型规模，提高求解速度。以某规划线路为例验证所提出方 法的有效性，并对列车交路数量与列车编组类型进行灵敏度分析。"]
+      },
+      {
+        "title": "A Fast Approach for Reoptimization of Railway Train Platforming in Case of Train Delays",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Yongxiang Zhang", "Qingwei Zhong", "Yong Yin", "Qiyuan Peng"],
+        "abstract": ["Train platforming is critical for ensuring the safety and efficiency of train operations within the stations, especially when unexpected train delays occur. This paper studies the problem of reoptimization of train platforming in case of train delays, where the train station is modeled using the discretization of the platform track time-space resou..."]
+      },
+      {
+        "title": "Integrated Railway Timetable Rescheduling and Dynamic Passenger Routing During a Complete Blockage",
+        "tags": ["Preprint"],
+        "date": "May 2020",
+        "authors": ["Shuguang Zhan", "S C Wong", "Pan Shang", "S M Lo"],
+        "abstract": ["Trains normally run as scheduled in a non-disrupted situation. However, due to external and/or internal factors, trains may deviate from their original timetable during daily operations. To this end, the involved dispatchers are required to reschedule disrupted trains to efficiently transport delayed passengers to their destinations as soon as poss..."]
+      },
+      {
+        "title": "A Bayesian network model to predict the effects of interruptions on train operations",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Ping Huang", "Javad Lessan", "C. Wen", "Xinyue Xu"],
+        "abstract": ["Based on the Bayesian network (BN) paradigm, we propose a hybrid model to predict the three main consequences of disruptions and disturbances during train operations, namely, the primary delay (L), the number of affected trains (N), and the total delay times (T). To obtain an effective BN structure, we first analyze the dependencies of the involved..."]
+      },
+      {
+        "title": "Joint optimization of delay-recovery and energy-saving in a metro system: A case study from China",
+        "tags": ["Article"],
+        "date": "Apr 2020",
+        "authors": ["Wenxin Li", "Qiyuan Peng", "Chao Wen", "Xinyue Xu"],
+        "abstract": ["Reducing delays in the metro transit system improves passenger satisfaction and the operational efficiency of the system. However, current delay-recovery strategies tend to reduce delays rather than the operational costs of the metro company. We propose optimized delay-recovery strategies to reduce the delay and increase energy efficiency simultane..."]
+      },
+      {
+        "title": "Measures of Travel Reliability on an Urban Rail Transit Network",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Jie Liu", "Paul Schonfeld", "Qiyuan Peng", "Yong Yin"],
+        "abstract": ["To evaluate the travel reliability of an urban rail transit (URT) in normal operation, three travel reliability indicators are proposed from passengers' travel. The connectivity reliability, travel time reliability, and capacity reliability indicators are computed from the weighted average of the number of tolerable travel paths, the ratios of 95-5..."]
+      },
+      {
+        "title": "Integrated Maintenance Logistics Monitoring System for High Speed Rail, Based on Internet of Things Technology",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Alhossein Mohamed", "Qiyuan Peng", "Malik Muneeb Abid", "Muhammad Iqbal"],
+        "abstract": ["This paper presents the structure of a new Integrated Maintenance Logistics Monitoring System for High-Speed Rail (IMLMS-HSR), adopting internet of things technology and using Matlab simulation and field testing centring on the critical technical problem for the monitoring system, i.e., reader-reader collision. While IMLMS-HSR, which is based on Io..."]
+      },
+      {
+        "title": "Optimization Model and Algorithm of Train-Set Scheduling Based on Trip Sequence",
+        "tags": ["Article"],
+        "date": "Mar 2020",
+        "authors": ["Qingwei Zhong", "Yongxiang Zhang", "Dian Wang", "Qiyuan Peng"],
+        "abstract": ["Usually, the train-set schedule needs to consider several practical aspects, such as operational safety, efficiency, and cost. The quality and efficiency of the schedule have a significant impact on the operation of high-speed railways. In order to quickly obtain a high-quality train-set schedule, a mixed-integer linear programming (MILP) model con..."]
+      },
+      {
+        "title": "A Mixed Integer Linear Programming Model for Rolling Stock Deadhead Routing before the Operation Period in an Urban Rail Transit Line",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Qingwei Zhong", "Yongxiang Zhang", "Dian Wang", "Qiyuan Peng"],
+        "abstract": ["In an urban rail transit line, train services are performed by the rolling stocks that are initially stored at depots. Before the start of the operation period, rolling stocks consecutively leave the depots and run without passengers (deadhead routing) to the origin station of their corresponding first departure train service in an operation day (f..."]
+      },
+      {
+        "title": "Joint Depot Location, Capacity and Rolling Stock Scheduling Optimization with Maintenance Requirements",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2020",
+        "authors": ["Qingwei Zhong", "Richard Lusby", "Jesper Larsen", "Qiyuan Peng"],
+        "abstract": ["Rolling stock scheduling with maintenance requirements is a topic that has received increased attention in the literature. Rolling stock scheduling involves assigning compositions to a set of timetabled trips in such a way that the provided capacity matches the forecasted passenger demand and any unnecessary (de)couplings and/or dead-heading moveme..."]
+      },
+      {
+        "title": "Layout Optimization of Business Outlets for Railway Scattered Goods Express",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2020",
+        "authors": ["Qingwei Zhong", "Yongxiang Zhang", "Qiyuan Peng", "Wenxin Li"],
+        "abstract": []
+      },
+      {
+        "title": "Integrated Optimization on Energy Saving and Quality of Service of Urban Rail Transit System",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Wenxin Li", "Qiyuan Peng", "Chao Wen", "Xinyue Xu"],
+        "abstract": ["Optimizing to increase the utilization ratio of regenerative braking energy reduces energy consumption, and can be done without increasing the deviation of train running time in one circle. The latter entails that the train timetable is upheld, which guarantees that the demand for passenger transport services is met and the quality of services in t..."]
+      },
+      {
+        "title": "DESIGN OF HIGH-SPEED RAILWAY (HSR) LONG-DISTANCE TUNNEL INDEPENDENT CONTROL NETWORK",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Alhossein Mohamed", "Qiyuan Peng"],
+        "abstract": []
+      },
+      {
+        "title": "Optimized decomposition algorithm for train-set scheduling of high-speed railway network",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Qingwei Zhong", "Yongxiang Zhang", "Wen Chao", "Wang Mengmeng"],
+        "abstract": ["The train-set scheduling optimization problem with multiple train-sets and multiple depots\nconsidering maintenance requirements was investigated，and a novel two-stage decomposition algorithm was proposed． Firstly，a multi-commodity flow-based MILP optimization model for train-set scheduling without considering maintenance requirements was establishe..."]
+      },
+      {
+        "title": "A deep learning approach for multi-attribute data: A study of train delay prediction in railway systems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Ping Huang", "Wen Chao", "Liping Fu", "Yixiong Tang"],
+        "abstract": ["Dynamical systems that contain moving objects generate multi-attribute data, including static, time-series, and spatiotemporal formats. The diversity of the data formats creates challenges for the accurate modeling of these systems, for example, the state/location/trajectory prediction of moving objects. We developed a deep learning (DL) approach t..."]
+      },
+      {
+        "title": "An innovative method for calculating diagonal lashing force of cargo on railway wagons in a curve alignment",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Duo Zhang", "Yinying Tang", "David B. Clarke", "Chunjiao Dong"],
+        "abstract": ["Due to super elevation and centrifugal force, close attention is needed to lateral stability of cargo when the train negotiates curves. To guarantee the security of cargo on wagons, proper blocking, bracing and lashing are essential. In this study, we implement a cargo–wagon–rail coupling model that adopts diagonal lashing to restrain cargo movemen..."]
+      },
+      {
+        "title": "Comprehensive Optimization of a Metro Timetable Considering Passenger Waiting Time and Energy Efficiency",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Wenxin Li", "Qiyuan Peng", "C. Wen", "Xinyue Xu"],
+        "abstract": ["Reducing passenger waiting time and energy consumption through train scheduling can have a great impact on improving the quality of service and energy efficiency from an operational view. However, there is a lack of studies of timetable optimization for connecting different modes of rail transit while considering the passenger transfer demand. This..."]
+      },
+      {
+        "title": "A hybrid model to improve the train running time prediction ability during high-speed railway disruptions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Ping Huang", "C. Wen", "Liping Fu", "Zhongcan Li"],
+        "abstract": []
+      },
+      {
+        "title": "Solving cyclic train timetabling problem through model reformulation: Extended time-space network construct and Alternating Direction Method of Multipliers methods",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Yongxiang Zhang", "Qiyuan Peng", "Yu Yao", "Xuesong Simon Zhou"],
+        "abstract": ["The cyclic train timetabling problem aims to synchronize limited operational resources toward a master periodic schedule of transport services. By introducing an extended time-space network construct, this paper proposes a new type of integer programming model reformulation for the cyclic train timetabling problem on a double-track railway corridor..."]
+      },
+      {
+        "title": "Integrated Optimization of Rolling Stock Deadhead Routing and Timetabling in Urban Rail Transit Line",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Dian Wang", "Jun Zhao", "Qingwei Zhong", "Qiyuan Peng"],
+        "abstract": ["This paper investigated the optimization of rolling stock deadhead routing and timetabling before the operation period of an urban rail transit line. Given train timetables and rolling stock circulation plans within the operation period, the routing problem lay in assigning the origin depot and the associate deadhead route before operation period b..."]
+      },
+      {
+        "title": "Train stop deployment planning in the case of complete blockage: An integer linear programing model",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Shuguang Zhan", "S. C. Wong", "Qiyuan Peng", "S. M. Lo"],
+        "abstract": ["This paper focuses on train stop deployment planning for high-speed railway lines during a major disruption, when a segment is completely blocked for a relatively long period of time. Due to this disruption, trains approaching the disrupted area must be stopped at appropriate stations based on their types for safety and operational reasons. Stopped..."]
+      },
+      {
+        "title": "Microscopic optimization model and algorithm for integrating train timetabling and track maintenance task scheduling",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Yongxiang Zhang", "Andrea D'Ariano", "Bisheng He", "Qiyuan Peng"],
+        "abstract": ["This paper addresses the problem of improving the integration between passenger timetabling and track maintenance scheduling. We propose a microscopic optimization model and an iterative algorithm for solving this problem efficiently. Block sections are considered as the basic microscopic elements for train movements in a railway network. A mixed-i..."]
+      },
+      {
+        "title": "Arrival and Departure Tracks Utilization Adjustment Method in Railway Passenger Stations Based on Time-Space Resources",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Qiyuan Peng", "Yongxiang Zhang", "Gongyuan Lu", "Tie Shi"],
+        "abstract": ["This paper models the arrival and departure tracks utilization scheme adjustment problem on the basis of arrival and departure tracks time-space resources discretization from a microscopic description perspective. A binary integer programming model was built to solve the adjustment problem. The model’s objective was to minimize the sum of weighted..."]
+      },
+      {
+        "title": "Statistical Analysis of Train Delay and Delay Propagation Patterns in a High-Speed Railway System",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2019",
+        "authors": ["Ping Huang", "Chao Wen", "Jie Li", "Zhuan Fu"],
+        "abstract": []
+      },
+      {
+        "title": "A Heuristic Algorithm for Re-Optimization of Train Platforming in Case of Train Delays",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2019",
+        "authors": ["Yongxiang Zhang", "Qingwei Zhong", "C. Wen", "Qiyuan Peng"],
+        "abstract": ["Train platforming is critical for ensuring safety and efficiency of train operations within the stations, especially when train delays occur. This paper studies the problem of reoptimization of train platforming, where the train station is modeled using discretization of the platform track time-space resources. To solve the re-optimization problem,..."]
+      },
+      {
+        "title": "Comprehensive coordination quantitative analysis of urban rail transit planning network and urban planning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Qiyuan Peng", "Jie Liu"],
+        "abstract": ["The comprehensive coordination between urban rail transit network planning and urban planning is analyzed from multi-radius and multi-directions based on fractal dimension. The sector dimension of urban rail transit network planning and urban road network planning based on network equivalent length is proposed, and the sector dimension of urban rai..."]
+      },
+      {
+        "title": "Statistical delay distribution analysis on high-speed railway trains",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Yuxiang Yang", "Ping Huang", "Qiyuan Peng", "Chao Wen"],
+        "abstract": ["The focus of this study is to explore the statistical distribution models of high-speed railway (HSR) train delays. Based on actual HSR operational data, the delay causes and their classification, delay frequency, number of affected trains, and space–time delay distributions are discussed. Eleven types of delay events are classified, and a detailed..."]
+      },
+      {
+        "title": "Rolling stock scheduling with maintenance requirements at the Chinese High-Speed Railway",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Qingwei Zhong", "Richard Lusby", "Jesper Larsen", "Qiyuan Peng"],
+        "abstract": []
+      },
+      {
+        "title": "Solving cyclic train timetabling problem through model reformulation: extended time-space network construct and ADMM methods",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Yongxiang Zhang", "Qiyuan Peng", "Yu Yao", "Xuesong Simon Zhou"],
+        "abstract": ["The cyclic train timetabling problem aims to synchronize limited operational resources toward a master periodic schedule of transport services. By introducing an extended time-space network construct, this paper proposes a new type of integer programming model reformulation for the cyclic train timetabling problem on a double-track railway corridor..."]
+      },
+      {
+        "title": "Modeling the Influence of Disturbances in High-Speed Railway Systems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Ping Huang", "C. Wen", "Qiyuan Peng", "Zhuan Fu"],
+        "abstract": ["Accurately forecasting the influence of disturbances in High-Speed Railways (HSR) has great significance for improving real-time train dispatching and operation management. In this paper, we show how to use historical train operation records to estimate the influence of high-speed train disturbances (HSTD), including the number of affected trains (..."]
+      },
+      {
+        "title": "Solving cyclic train timetabling problem through model reformulation based on extended time-space network",
+        "tags": ["Preprint"],
+        "date": "Mar 2019",
+        "authors": ["Yongxiang Zhang", "Qiyuan Peng", "Yu Yao", "Xuesong Simon Zhou"],
+        "abstract": ["The cyclic train timetabling problem aims to synchronize limited operational resources toward a master periodic schedule of transport services. By introducing an extended time-space network construct, this paper proposes a new type of integer programming model reformulation for the cyclic train timetabling problem on a double-track railway corridor..."]
+      },
+      {
+        "title": "Integrated Rolling Stock Deadhead Routing and Timetabling in Urban Rail Transit Line",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2019",
+        "authors": ["Dian Wang", "Jun Zhao", "Qingwei Zhong", "Qiyuan Peng"],
+        "abstract": ["This paper investigates the integrated rolling stock deadhead routing and timetabling problem arising from determining the rolling stock circulation plan of an urban rail transit line before its operation period. Given train timetable and rolling stock circulation plan within the operation period, the routing problem lies on assigning the origin de..."]
+      },
+      {
+        "title": "Joint Operating Revenue and Passenger Travel Cost Optimization in Urban Rail Transit",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Wenxin Li", "Qiyuan Peng", "Qinlin Li", "Javad Lessan"],
+        "abstract": ["Urban rail transit (URT) scheduling requires designing efficient timetables that can meet passengers’ expectations about the lower travel cost while attaining revenue management objectives of the train operators. This paper presents a biobjective timetable optimization model that seeks maximizing the operating revenue of the railway company while l..."]
+      },
+      {
+        "title": "Multimodal transportation route planning under low carbon emissions background",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Jie Liu", "Qiyuan Peng", "Yong Yin"],
+        "abstract": []
+      },
+      {
+        "title": "A data-driven time supplements allocation model for train operations on high-speed railways",
+        "tags": ["Article"],
+        "date": "Sep 2018",
+        "authors": ["Ping Huang", "C. Wen", "Qiyuan Peng", "Chaozhe Jiang"],
+        "abstract": ["This paper presents a time supplements allocation (TSA) method that incorporates historical train operation data to optimize buffer-time distribution in the sections and stations of a published timetable. First, delay recovery behavior is investigated and key influential factors are identified using real-world train movement records from the Wuhan–..."]
+      },
+      {
+        "title": "Analyzing Capacity Utilization and Travel Patterns of Chinese High-Speed Trains: An Exploratory Data Mining Approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Fanxiao Liu", "Zhanbo Sun", "Pei-Tong Zhang", "Qingjie Qiao"],
+        "abstract": ["Train capacity utilization (TCU), usually represented by passenger load factor (PLF), is a critical measure of effectiveness for rail operation. In literature, efforts are usually made to improve capacity utilization by optimizing rail operation and management strategies. Comparably little attention is paid to analyzing the factors that affect TCU..."]
+      },
+      {
+        "title": "A Bi-Level Passenger Preference-Oriented Line Planning Model for High-Speed Railway Operations",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Yuxiang Yang", "Jie Li", "C. Wen", "Javad Lessan"],
+        "abstract": ["To solve bottlenecks and capacity shortages in railway corridors, it is necessary to consider passengers’ temporal-spatial preferences in conjunction with train dispatching decisions at the line planning stage. A design of the departure and stop plans which is based on the passengers’ preferences would guarantee a high quality of service. This pape..."]
+      },
+      {
+        "title": "Effect of the combined centre of gravity on the running safety of freight wagons",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Duo Zhang", "David B. Clarke", "Qiyuan Peng", "Chunjiao Dong"],
+        "abstract": ["This paper presents an analysis of loaded freight wagon dynamics in curve alignments. We investigate the effects of the combined centre of gravity (CCOG) on the running safety of freight wagons and examine proper position of the CCOG. A simple wagon-rail model is implemented using the multibody dynamics software ADAMS/Rail. The simulation model is..."]
+      },
+      {
+        "title": "Rolling stock scheduling with maintenance requirements at the Chinese high-speed railway",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Qingwei Zhong", "Richard Lusby", "Jesper Larsen", "Qiyuan Peng"],
+        "abstract": []
+      },
+      {
+        "title": "Optimization of the Synergies Between Preparation of High-Speed Railway Train Running Diagram and Station Route Allocation Plan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Alhossein Mohamed", "Qiyuan Peng", "Malik Muneeb Abid"],
+        "abstract": ["Introduction. Station route allocation plan is an important extension of the train running diagram and the both are closely intertwined so the overall research on the synergetic preparation method is more beneficial in improving the preparation quality of the train running diagram and providing better service for passengers. Therefore, the research..."]
+      },
+      {
+        "title": "Optimizing the Rolling Stock Deadhead Routing Problem before the Operation Period of Urban Rail Transit Line",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Qingwei Zhong", "Jun Zhao", "Chao Wen", "Qiyuan Peng"],
+        "abstract": ["In an urban rail transit line, many trains that run during the initial operation period require to be served by rolling stocks that depart from depots. Hence, before the operation period, these rolling stocks consecutively leave depots, and quickly run without passengers to the origin station of their served train using either a direct or an indire..."]
+      },
+      {
+        "title": "Optimizing Resource Recharging Location-routing Plans: a Resource-space-time Network Modeling Framework for Railway Locomotive Refueling Applications",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Gongyuan Lu", "Xuesong Simon Zhou", "Monireh Mahmoudi", "Qiyuan Peng"],
+        "abstract": ["The resource recharging location-routing problem is a generalization of the location routing problem with sophisticated and critical resource consumption and recharging constraints. Based on a representation of discretized acyclic resource-space-time networks, we propose a generic formulation to optimize dynamic infrastructure location and routes d..."]
+      },
+      {
+        "title": "Operation and Management",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2018",
+        "authors": ["Shuguang Zhan", "Qiyuan Peng"],
+        "abstract": ["Trains normally run as scheduled in a non-disrupted situation. However, due to the external and internal factors, trains may deviate from the original timetable during daily operations. To this end, the involved dispatchers are required to select the proper strategy to reschedule disrupted trains efficiently. We focus on the train rescheduling in a..."]
+      },
+      {
+        "title": "Railway shippers’ heterogeneous preferences with random parameters latent class model",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Liwei Duan", "Qiyuan Peng", "Yinying Tang"],
+        "abstract": ["Railway shippers’ preferences heterogeneity is caused by their attitudes and perception towards attributes of various rail freight services, and is differentiated amongst shippers. Random Parameter Latent Class (RPLC) model is applied to elicit Chinese railway shippers’ preferences heterogeneity in both continuous and discrete way. With a Discrete..."]
+      },
+      {
+        "title": "Freight network design with heterogeneous values of time",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Liwei Duan", "L.A. Tavasszy", "Qiyuan Peng"],
+        "abstract": ["This paper aims to demonstrate the effect of recognizing heterogeneity in values of time on the design of a hub network for freight transportation. By taking the VOT distribution into account, we emphasize shippers’ broader logistical, social and economic situation in the network design, and are not limited to commodity types. The paper employs the..."]
+      },
+      {
+        "title": "A train rescheduling model integrating speed management during disruptions of high-speed traffic under a quasi-moving block system",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Peijuan Xu", "Francesco Corman", "Qiyuan Peng", "Xiaojie Luan"],
+        "abstract": ["Chinese high-speed railways faced a fast development in recent years. Their performances are still confronted with disruptions unavoidably, which impact on the reliability of the traffic and passenger satisfaction. This paper presents a rescheduling model which is able to solve the critical problem of effective disruption management (namely, fast a..."]
+      },
+      {
+        "title": "Study on Operation Strategies for Metro Trains Under Regenerative Braking",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Qiyuan Peng", "Wenxin Li", "Y. Wang", "J. Sun"],
+        "abstract": ["Energy efficiency emission reduction and low carbon development have become a top priority in the development of urban rail transit nowadays. With a view to the increasingly prominent role of regenerative braking technology in energy-saving operation of trains, this paper proposed an energy-efficient operation strategy of trains based on the regene..."]
+      },
+      {
+        "title": "Corrigendum to “High-Speed Railway Train Timetable Conflict Prediction Based on Fuzzy Temporal Knowledge Reasoning” [Engineering (2016) 366–373]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2017",
+        "authors": ["He Zhuang", "Liping Feng", "C. Wen", "Qizhi Tang"],
+        "abstract": []
+      },
+      {
+        "title": "Influencing Factors of the Small and Medium-sized Railway Transport Service Provider's Elaborating Management System",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["J. Li", "Qiyuan Peng", "J. Guo", "Qingwei Zhong"],
+        "abstract": ["This paper embarks from the elaborating management of small and medium-sized Railway transport service provider, combines with the enterprise features, establishes an elaborating management system of small and medium-sized Railway transport service provider that can describe the relationship among variables. The model remedies many defects, thus it..."]
+      },
+      {
+        "title": "Rolling Stock Deadhead Routing Problem Before Operation Period of an Urban Rail Transit Line",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2017",
+        "authors": ["Jun Zhao", "Qingwei Zhong", "C. Wen", "Qiyuan Peng"],
+        "abstract": ["In an urban rail transit line, trains running during the initial operation period are served by rolling stocks parked at depots. Hence, before the operation period, rolling stocks consecutively leave the depots, and quickly run without passengers to the origin station of their served trains using either a direct route or an indirect route via a swi..."]
+      },
+      {
+        "title": "A Timetable Rescheduling Approach and Transition Phases for High-Speed Railway Traffic During Disruptions",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Peijuan Xu", "Francesco Corman", "Qiyuan Peng", "Xiaojie Luan"],
+        "abstract": ["Research focused on the real-time rescheduling of high-speed railway traffic with a quasi-moving blocking system and transition process affected by the entrance delays and disruptions determining speed limitation. A mixed-integer linear program model related to a job shop model of operations is formulated to reduce the final delay (tardiness) of tr..."]
+      },
+      {
+        "title": "Analyzing Railway Disruptions and Their Impact on Delayed Traffic in Chinese High-Speed Railway",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["Peijuan Xu", "Francesco Corman", "Qiyuan Peng"],
+        "abstract": ["Chinese high-speed railways faced large development in the recent years. Their performance is still confronted with disruptions, which impact the traffic and the passengers. With the aim to better understand the influences of the sources of disruptions, we study the statistical characteristics of the causes of disruptions and delayed traffic. We us..."]
+      },
+      {
+        "title": "A rolling horizon approach to the high speed train rescheduling problem in case of a partial segment blockage",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Shuguang Zhan", "Leo G. Kroon", "Jun Zhao", "Qiyuan Peng"],
+        "abstract": []
+      },
+      {
+        "title": "Real-time train rescheduling on high-speed railway under partial segment blockages",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Shuguang Zhan", "J. Zhao", "Qiyuan Peng"],
+        "abstract": ["This paper investigated the real-time train rescheduling issue on high-speed railways under the situation where one track of a double-track segment was blocked due to disruptions. The issue is to properly arrange the order and time of bi-directional trains that will pass through each segment, especially the blocked segment, from the disruption occu..."]
+      },
+      {
+        "title": "High-Speed Railway Train Timetable Conflict Prediction Based on Fuzzy Temporal Knowledge Reasoning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["He Zhuang", "Liping Feng", "C. Wen", "Qizhi Tang"],
+        "abstract": ["Trains are prone to delays and deviations from train operation plans during their operation because of internal or external disturbances. Delays may develop into operational conflicts between adjacent trains as a result of delay propagation, which may disturb the arrangement of the train operation plan and threaten the operational safety of trains...."]
+      },
+      {
+        "title": "Forecasting research of commercial volume of integrated transportation hub property-a case study of Shapingba integrated transportation hub in Chongqing",
+        "tags": ["Article"],
+        "date": "Aug 2016",
+        "authors": ["Qiyuan Peng", "X.-M. Chen", "Yong Yin", "D.-Y. Zhou"],
+        "abstract": ["Present researches about the development of superstructure of integrated transportation hub station mainly focused on the social economy and the benefits, rather than considering the impact to the traffic and the impact from the roads around it. In this paper, taking the Chongqing Shapingba integrated transportation hub as the example, basing on la..."]
+      },
+      {
+        "title": "Influences of high-speed railway construction on railway transportation of China",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Qiyuan Peng", "J. Li", "Y. Yang", "C. Wen"],
+        "abstract": ["Large-scale construction and operation of high-speed railway in China have achieved outstanding results in improving the network scale and quality, alleviating the shortage of transport capacity, and improving the quality of rail transport services. This paper summarizes the influences of high-speed railway systematically from the aspects of promot..."]
+      },
+      {
+        "title": "Improved approaches to the network design problem in regional hazardous waste management systems",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Jun Zhao", "Lixia Huang", "Der-Horng Lee", "Qiyuan Peng"],
+        "abstract": ["This paper investigates the network design problem arising from the regional hazardous waste management system. The problem is to identify the locations of various waste facilities, and determine the transportation routes of hazardous wastes and waste residues between those waste facilities. Aiming at minimizing jointly the total cost and total ris..."]
+      },
+      {
+        "title": "Identifying Key Trains and Its Reasonable Ratios in High-Speed Rail Timetable",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Jianguang Li", "C. Wen", "Ping Huang", "Chaozhe Jiang"],
+        "abstract": ["A key train plays an important role in the rail timetable. The unreasonable key trains' layout greatly influences the normal train-running order, thus affecting the quality of the high-speed rail (HSR) timetable. This paper studies the probability produced by train paths for overcoming bottlenecks, and identifies key trains in the HSR timetable by..."]
+      },
+      {
+        "title": "#RRS-LRP GAMS 5 nodes 2 vehicles Finished",
+        "tags": ["Data"],
+        "date": "Feb 2016",
+        "authors": ["Gongyuan Lu", "Xuesong Simon Zhou", "Qiyuan Peng", "Jun Zhao"],
+        "abstract": []
+      },
+      {
+        "title": "Solving Resource Recharging Station Location-routing Problem through a Resource- space-time Network Representation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Gongyuan Lu", "Xuesong Simon Zhou", "Qiyuan Peng", "Jun Zhao"],
+        "abstract": ["The resource recharging station location routing problem is a generalization of the location routing problem with sophisticated and critical resource consumption and recharging constraints. Based on a representation of discretized acyclic resource-space-time networks, we propose a generic formulation to optimize dynamic infrastructure location and..."]
+      },
+      {
+        "title": "A Particular Waiting Mode for Overnight Operation of the Chinese Beijing-Guanghzou High-Speed Railway",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2015",
+        "authors": ["Qiyuan Peng", "Kui Yang", "C. Wen", "Siyu Tao"],
+        "abstract": ["With great development in the last decade, the operation of high speed railway in China has entered into network era from single line era. With expanded service area and long traveling time, the high speed railway in China is qualified for overnight operation in net structure and time space, which is significantly different from that of high speed..."]
+      },
+      {
+        "title": "Diffusion Model Based on a Complex Network of Green Supply Chain Management",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2015",
+        "authors": ["Bekzod Bakhodirov", "Qiyuan Peng"],
+        "abstract": ["The Implementation of green supply chain management (GSCM) is important for the sustainable development of enterprises, while the internal factors affecting the implementation of green supply chain management includes organization structure, resource ability and the performance of enterprises. In order to depict the mechanism that these internal fa..."]
+      },
+      {
+        "title": "An SMDP-Based Optimization Model for Railway Passenger Ticketing",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2015",
+        "authors": ["Fanxiao Liu", "Qiyuan Peng", "Hongbin Liang"],
+        "abstract": ["Although the Passenger Railway has developed rapidly, the ticketing is still on a first come, first served basis. Gradually, we find it always induced the seats unoccupied and reduced the system rewards because of the halfway-station requests. This paper presents the Railway Passenger Ticketing Optimization Model based on Semi-Markov Decision Proce..."]
+      },
+      {
+        "title": "Hybrid stop schedule of urban rail train",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Zhengmin Tan", "Jie Cheng", "Qiyuan Peng", "Mi Gan"],
+        "abstract": ["Purpose: In order to better serve the transport demand of urban area by rail, the Urban Rail Train Stop Schedule problem was considered. Design/methodology/approach: Mathematic modeling as the Bi-level mathematical programming model with a game theory relation between the two level was used. Findings: A 0-1 bi-level mathematical programming model f..."]
+      },
+      {
+        "title": "Automatic Approval of Railway Car Requisition Plans for One Type of Car",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Qiyuan Peng", "Yongxiang Zhang", "C. Wen", "Chaozhe Jiang"],
+        "abstract": ["Approval of car requisition plans is the core and foundation for the preparation of railway daily freight traffic plans, whose preparation efficiency and quality can be improved by optimizing that approval, thereby improving the economic and social benefit of a railway. This paper comprehensively aims to achieve a set of optimization goals for buil..."]
+      },
+      {
+        "title": "Collaborative Mechanism of High-Speed Railway Dispatching System",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Qiyuan Peng", "Chao Wen", "Chaozhe Jiang", "Yanling Wei"],
+        "abstract": ["The high-speed railway dispatching command system is the nerve center of a high-speed railway. The construction of such a system that has high reliability is of great significance in ensuring the safe operation and all-weather operation of trains. This study analyses the collaborative needs of a high-speed railway dispatching system, and investigat..."]
+      },
+      {
+        "title": "Analysis about Factors Affecting Waste Household Appliances Recycling Behavior",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2014",
+        "authors": ["Li Lei", "Qiyuan Peng"],
+        "abstract": ["Based on the domestic and foreign research status regarding the recycling behavior of household appliances, and combined with the condition of the local recycling situation, this paper uses the initial questionnaire data and then adopts exploratory factor analysis for dimensionality reduction to get the main factors influencing residents' recycling..."]
+      },
+      {
+        "title": "Collaborative decision model of driver “desired trajectory-desired speed” applying to complex circuit",
+        "tags": ["Article"],
+        "date": "Jun 2014",
+        "authors": ["Jin Xu", "Jun Zhao", "Kui Yang", "Qiyuan Peng"],
+        "abstract": []
+      },
+      {
+        "title": "Particle Swarm Optimization (PSO) Performance in Solving the Train Location Problem at Transshipment Yard",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Alhossein Mohamed", "Qiyuan Peng"],
+        "abstract": []
+      },
+      {
+        "title": "Outline of Research on High-Speed Railway Dispatching Command System",
+        "tags": ["Conference Paper"],
+        "date": "Oct 2013",
+        "authors": ["Qiyuan Peng", "Yanling Wei", "Chao Wen"],
+        "abstract": ["The high-speed railway dispatching command system is the nerve center of the high-speed railway. The construction of high-speed rail dispatching command system with high reliability is of great significance to ensure the safe operation and all-weather operation of trains. This paper analyzes the collaborative needs of the high-speed railway dispatc..."]
+      },
+      {
+        "title": "A rolling horizon-based decomposition algorithm for the railway network train timetabling problem",
+        "tags": ["Article"],
+        "date": "Aug 2013",
+        "authors": ["Qiyuan Peng", "Jun Zhao", "Chao Wen"],
+        "abstract": ["This article presents the train timetabling problem in the complex railway network (including single-track line, double-track line, mixed-track line and terminal) and a solution algorithm. The problem is to determine the arrival, departure or through time of each train at each station on its predetermined route to satisfy several operational and sa..."]
+      }
+    ],
+    "degree": ["Professor", "(Transportation", "Planning", "and", "Management)"],
+    "bio": [],
+    "publications": [139],
+    "reads": [27860],
+    "citations": [1330]
   }
 }

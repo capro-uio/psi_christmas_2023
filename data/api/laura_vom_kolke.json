@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Laura Vom Kolke",
-    "id": "1632561",
+    "name": ["Laura Vom Kolke"],
+    "id": ["1632561"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Lea-Vom-Kolke",
+    "name": "Lea Vom Kolke",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Radboud University | RU, Radboud University, Department of Psychology",
+    "keywords": ["Social Influence"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

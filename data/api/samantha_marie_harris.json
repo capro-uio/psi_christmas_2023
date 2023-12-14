@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Samantha Harris",
-    "id": "rVHWJSAAAAAJ",
-    "affiliation": "Post-doctoral research fellow, University of Oslo",
+    "name": ["Samantha Harris"],
+    "id": ["rVHWJSAAAAAJ"],
+    "affiliation": ["Post-doctoral research fellow, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -203,8 +203,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-4274-0587",
-    "name": "Samantha Marie Harris",
+    "orcid": ["0000-0003-4274-0587"],
+    "name": ["Samantha Marie Harris"],
     "distinctions": [],
     "education": [
       {
@@ -303,8 +303,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Samantha Marie Harris",
-    "id": "1092477",
+    "name": ["Samantha Marie Harris"],
+    "id": ["1092477"],
     "keywords": [],
     "position": ["Guest", "Post-doctoral research fellow"],
     "img": {},
@@ -427,5 +427,15 @@
         "url": "https://api.cristin.no/v2/results/1727671"
       }
     ]
+  },
+  "rg": {
+    "id": "Samantha-Marie",
+    "name": "Samantha Marie",
+    "img": "https://i1.rgstatic.net/ii/profile.image/674520608288768-1537829653028_Q128/Samantha-Marie.jpg",
+    "affiliation": "Roosevelt University, counseling",
+    "keywords": [],
+    "works": [],
+    "degree": ["Master", "of", "Education"],
+    "bio": []
   }
 }

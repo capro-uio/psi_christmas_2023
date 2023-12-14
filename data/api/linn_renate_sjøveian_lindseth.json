@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-6727-6744",
-    "name": "Linn Renate Sjøveian Lindseth",
+    "orcid": ["0000-0002-6727-6744"],
+    "name": ["Linn Renate Sjøveian Lindseth"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Linn Renate Sjøveian Lindseth",
-    "id": "395530",
+    "name": ["Linn Renate Sjøveian Lindseth"],
+    "id": ["395530"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -27,5 +27,15 @@
         "url": "https://api.cristin.no/v2/results/2111391"
       }
     ]
+  },
+  "rg": {
+    "id": "Linn-Royset",
+    "name": "Linn Renate Røyset",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281098470839-1668944997067_Q128/Linn-Royset.jpg",
+    "affiliation": "Høgskulen i Volda, Lærerutdanning",
+    "keywords": ["Teaching and Learning", "Adult Learning", "Pedagogy"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

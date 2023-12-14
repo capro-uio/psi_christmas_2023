@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-0179-002X",
-    "name": "Linne Melsom",
+    "orcid": ["0000-0002-0179-002X"],
+    "name": ["Linne Melsom"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -26,8 +26,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Linne Melsom",
-    "id": "474304",
+    "name": ["Linne Melsom"],
+    "id": ["474304"],
     "keywords": [],
     "position": ["Guest", "Guest"],
     "img": {},
@@ -68,5 +68,61 @@
         "url": "https://api.cristin.no/v2/results/2051206"
       }
     ]
+  },
+  "rg": {
+    "id": "Linne-Melsom",
+    "name": "Linne Melsom",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1173370146172934-1656764651905_Q128/Linne-Melsom.jpg",
+    "affiliation": "Modum Bad",
+    "keywords": ["Psychodynamic Psychotherapy", "Psychotherapy", "Psychotherapeutic Processes", "Mental Illness", "Therapeutic Alliance", "Treatment", "Counseling", "Clinical Psychiatry", "Psychoeducation", "Therapeutic Outcomes"],
+    "works": [
+      {
+        "title": "Emotional and cognitive processes in psychotherapy are associated with different aspects of the therapeutic relationship",
+        "tags": ["Article"],
+        "date": "Sep 2023",
+        "authors": ["Ingvild Finsrud", "Helene A. Nissen-Lie", "Pål G. Ulvenes", "Bruce Wampold"],
+        "abstract": []
+      },
+      {
+        "title": "Self-Compassion and Fear of Compassion in the Treatment of Chronic Depression: Mechanisms of Change?",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Linne Melsom", "Pål G. Ulvenes", "Ole André Solbakken", "Bruce Wampold"],
+        "abstract": ["Objective: \nThe aim of this naturalistic process study was to investigate the relationship between self-compassion, fear of compassion from others, and depressive symptoms over the course of psychotherapy in patients with chronic depression.\n\nMethod: \nA sample of 226 patients with chronic depression who received inpatient short-term psychodynamic p..."]
+      },
+      {
+        "title": "Self-compassion in eating disorders and childhood trauma: A study of within-person effects in a randomized controlled trial",
+        "tags": ["Article"],
+        "date": "Jan 2023",
+        "authors": ["Maren C G Kopland", "Karianne R Vrabel", "Linne Melsom", "Sverre Urnes Johnson"],
+        "abstract": ["Background: \nPatients with eating disorders and childhood trauma have clinical presentations that make them less suitable for standard eating disorder treatment. This might be due to high levels of shame and self-criticism. Self-compassion can be a mechanism of change, especially for patients with eating disorders and childhood trauma.\n\nMethod: \nA..."]
+      },
+      {
+        "title": "Confidence in the therapist and confidence in the treatment predict symptomatic improvement week by week in therapy: A latent curve modeling approach",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Ingvild Finsrud", "Helene A. Nissen-Lie", "Pål Gunnar Ulvenes", "Bruce Wampold"],
+        "abstract": ["Previous research suggests that common relationship factors are composed of two overarching factors, \"Confidence in the therapist\" and \"Confidence in the treatment.\" The aim of this naturalistic process-outcome study was to investigate the reciprocal relationships between these two constructs and patients' symptom level across treatment. The sample..."]
+      },
+      {
+        "title": "Emotional clarity and tolerance of emotional distress as mechanisms of change in short-term psychodynamic psychotherapy for chronic depression",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Linne Melsom", "Pål G. Ulvenes", "Ole André Solbakken", "Bruce Wampold"],
+        "abstract": ["Objective: \nThe aim of this naturalistic process study was to investigate the relationship between emotional clarity and tolerance of emotional distress and depressive symptoms over the course of short-term psychodynamic psychotherapy for chronically depressed patients.\n\nMethod: \nWeekly self-reports of emotional clarity, tolerance of emotional dist..."]
+      },
+      {
+        "title": "A latent trajectory analysis of inpatient depression treatment",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Pål Gunnar Ulvenes", "Christina Soma", "Linne Melsom", "Bruce Wampold"],
+        "abstract": ["Patients seeking psychotherapy may progress through treatment in varying ways. Modeling multiple treatment trajectories through growth mixture modeling provides a comprehensive way of understanding a patient population. Multiple trajectories may additionally help researchers describe complexities within a patient population, such as those with seve..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [6],
+    "reads": [1023],
+    "citations": [16]
   }
 }

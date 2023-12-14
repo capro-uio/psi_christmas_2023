@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0005-3792-7533",
-    "name": "June Lystad",
+    "orcid": ["0009-0005-3792-7533"],
+    "name": ["June Lystad"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "June Ullevoldsæter Lystad",
-    "id": "3915",
+    "name": ["June Ullevoldsæter Lystad"],
+    "id": ["3915"],
     "keywords": [],
     "position": ["Associate professor", "Associate professor", null],
     "img": {},
@@ -202,5 +202,264 @@
         "url": "https://api.cristin.no/v2/results/1320776"
       }
     ]
+  },
+  "rg": {
+    "id": "June-Lystad",
+    "name": "June Ullevoldsæter Lystad",
+    "img": "https://i1.rgstatic.net/ii/profile.image/305820095451136-1449924600417_Q128/June-Lystad.jpg",
+    "affiliation": "Oslo University Hospital, Division of Mental Health and Addiction",
+    "keywords": ["Schizophrenia", "Neuropsychological Tests", "Cognitive Behavioral Therapy", "Psychopathology", "Clinical Psychology", "Neurodevelopmental Disorders", "Vocational Rehabilitation", "Mental Illness", "Cognitive Neuropsychology"],
+    "works": [
+      {
+        "title": "Cognitive remediation and occupational outcome in schizophrenia spectrum disorders: A 2year follow-up study",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Vegard Øksendal Haaland", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "Neurocognition and occupational functioning in schizophrenia spectrum disorders: The MATRICS Consensus Cognitive Battery (MCCB) and workplace assessments",
+        "tags": ["Article"],
+        "date": "Dec 2015",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Vegard Øksendal Haaland", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "The MATRICS Consensus Cognitive Battery (MCCB): performance and functional correlates",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Christine Mohn", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "Factor analyzing the Norwegian MATRICS Consensus Cognitive Battery: Factor analyzing the MCCB",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2017",
+        "authors": ["Christine Mohn", "June Ullevoldsæter Lystad", "Torill Ueland", "Bjørn Rishovd Rund"],
+        "abstract": ["Aim: \nThe MATRICS Consensus Cognitive Battery (MCCB) assesses seven cognitive domains with ten subtests. This domain structure has not been demonstrated. Three factors have been produced in US samples. We examined the dimensional structure of the Norwegian MCCB. In addition, we studied the contribution of each subtest to the battery sum score.\n\nMet..."]
+      },
+      {
+        "title": "Vocational rehabilitation for adults with psychotic disorders in a Scandinavian welfare society",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Erik Falkum", "Ole Klungsøyr", "June Ullevoldsæter Lystad", "Torill Ueland"],
+        "abstract": ["Background\nThis study examined the outcomes of a vocational rehabilitation program (The Job Management Program, JUMP) for persons with psychotic disorders based on close collaboration between health and welfare services. Methods\nParticipants (N = 148) with broad schizophrenia spectrum disorders (age 18–65) were recruited from six counties in Norway..."]
+      },
+      {
+        "title": "Late-Onset PTSD in Military Peacekeepers: A Longitudinal Analysis Over 23 Years",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Andreas Espetvedt Nordstrand", "June Ullevoldsæter Lystad"],
+        "abstract": ["The current study examined the occurrence of late-onset PTSD in Norwegian peacekeepers over a period of 23 years."]
+      },
+      {
+        "title": "COPSYC-19: The impact of early phase lockdown on mental health among people with psychotic disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Andreas Seierstad", "Olivia Schjøtt-Pedersen", "Stig Evensen", "June Ullevoldsæter Lystad"],
+        "abstract": ["Purpose\nOn March 12th 2020 extensive measures were implemented to prevent spread of the coronavirus disease-19 (COVID-19). These measures were commonly referred to as “lockdown”. In this study we investigate the psychological impact associated with living under these circumstances among patients with psychotic disorders receiving care from speciali..."]
+      },
+      {
+        "title": "Lockdown during the early phase of Covid-19 - effects on specialized mental health services and vocational activities for patients with psychotic disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Olivia Schjøtt-Pedersen", "Andreas Seierstad", "Stig Evensen", "June Ullevoldsæter Lystad"],
+        "abstract": ["Purpose: \nPeople with psychotic disorders may be particularly vulnerable to adverse effects from restrictions implemented to limit the COVID-19 pandemic. Mental health professionals may also be at risk of adverse effects. The aim of this study was to investigate the impact of potential changes in accessibility, quality of care and vocational activi..."]
+      },
+      {
+        "title": "Arbeidsrettet behandling ved alvorlig psykisk lidelse i spesialisthelsetjenesten",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["June Ullevoldsæter Lystad", "Eline Borger Rognli", "Ellen Ånestad Moen", "Hanne Lorimer Aamodt"],
+        "abstract": ["Employment is an important focus area in the treatment of severe mental illness and substance use disorders. Health and welfare services are instructed to collaborate closely on implementing evidence-based practices of vocational rehabilitation such as Individual Placement and Support (IPS) in treatment guidelines, clinical pathways and the current..."]
+      },
+      {
+        "title": "Vocational rehabilitation augmented with cognitive behavioral therapy or cognitive remediation for individuals with schizophrenia: a 5-year follow-up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Oda Skancke Gjerdalen", "June Ullevoldsæter Lystad", "Helen Bull", "Stig Evensen"],
+        "abstract": ["Introduction: \nAlthough employment is an important part of recovery for individuals with schizophrenia spectrum disorders, the employment rate for this group remains low. Increasing evidence supports the use of augmented vocational rehabilitation (VR) programs to improve occupational outcome. The aim of this study is to explore 5-year follow-up reg..."]
+      },
+      {
+        "title": "The effect evaluation of Individual Placement and Support (IPS) for patients with substance use disorders: study protocol for a randomized controlled trial of IPS versus enhanced self-help",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Eline Borger Rognli", "Erlend Marius Aas", "Robert E. Drake", "Espen Arnevik"],
+        "abstract": ["Background\nEmployment is associated with better outcomes of substance use treatment and protects against relapse after treatment completion. Unemployment rates are high for people with substance use disorders (SUD) who undergo treatment, with Norwegian estimates ranging from 81 to 91%. Evidence-based vocational models are lacking for patients in SU..."]
+      },
+      {
+        "title": "G-estimation of causal pathways in vocational rehabilitation for adults with psychotic disorders – a secondary analysis of a randomized trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Ole Klungsøyr", "June Ullevoldsæter Lystad", "Helen Bull", "Erik Falkum"],
+        "abstract": ["Background\nVocational rehabilitation (VR) has increasingly become an important intervention targeting poor occupational functioning in schizophrenia. The Norwegian Job Management Program (JUMP), sought to enhance occupational outcomes by augmenting VR with either cognitive behavioral therapy (CBT) techniques aiming to improve psychotic symptoms or..."]
+      },
+      {
+        "title": "Pandemi og jobb: Hvordan påvirket smittevernrestriksjonene arbeidsmarkedet for unge mennesker med alvorlige psykiske lidelser?",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Andreas Seierstad", "Kari Mette Sørgård", "Tonje Kathrine Kretschmer Thue", "June Ullevoldsæter Lystad"],
+        "abstract": []
+      },
+      {
+        "title": "G-Estimation of Causal Pathways in Vocational Rehabilitation For Adults With Psychotic Disorders – A Secondary Analysis of A Randomized Trial",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Ole Klungsøyr", "June Ullevoldsæter Lystad", "Helen Bull", "Erik Falkum"],
+        "abstract": ["Background: Vocational rehabilitation (VR) has increasingly become an important intervention targeting poor occupational functioning in schizophrenia. The Norwegian Job Management Program (JUMP), sought to enhance occupational outcomes by augmenting VR with either cognitive behavioral therapy (CBT) techniques aiming to improve psychotic symptoms or..."]
+      },
+      {
+        "title": "Caring for Coronavirus Healthcare Workers: Lessons Learned From Long-Term Monitoring of Military Peacekeepers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["Background: The current outbreak of the coronavirus disease (COVID-19) is of unprecedented proportions in several regards. Recent reports suggest that many frontline healthcare workers (HCWs) suffer from mental health problems, including posttraumatic stress symptoms (PTSS). Previous studies have identified several key factors associated with short..."]
+      },
+      {
+        "title": "Prevalence and Correlates of Mental Health Problems in Norwegian Peacekeepers 18–38 Years Postdeployment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["Peacekeeping missions involve experiences that may impact the mental health of participating soldiers. However, research on the long-term mental health consequences of peacekeeping is sparse. The present study aimed to find the prevalence of mental health problems (MHPs), possible MHP predictors, and associations between predictors and MHPs in Norw..."]
+      },
+      {
+        "title": "Caring for Coronavirus Healthcare Workers: Lessons Learned from Long-Term Monitoring of Military Peacekeepers",
+        "tags": ["Preprint"],
+        "date": "Jun 2020",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["Background: The current outbreak of the coronavirus disease (COVID-19) is of unprecedented proportions in several regards. Recent reports suggest that many frontline healthcare workers (HCWs) suffer from mental health problems, including posttraumatic stress symptoms (PTSS). Previous studies have identified several key factors associated with short..."]
+      },
+      {
+        "title": "Caring for coronavirus healthcare workers: lessons learned from long-term monitoring of military peacekeepers",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["Background: The current outbreak of the coronavirus disease (COVID-19) is of unprecedented proportions in several regards. Recent reports suggest that many frontline healthcare workers (HCWs) suffer from mental health problems, including posttraumatic stress symptoms (PTSS). Previous studies have identified several key factors associated with short..."]
+      },
+      {
+        "title": "Prevalence and predictors of mental health problems in Norwegian peacekeepers: a 27 year follow-up study (PREPRINT)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["This study aimed to find the prevalence and possible predictors of mental health problems (MHP) in Norwegian peacekeepers 27 years after deployment to a UN peacekeeping mission."]
+      },
+      {
+        "title": "Prevalence and predictors of mental health problems in Norwegian peacekeepers: a 27 year follow-up study (Poster presented at ISTSS Boston, November 2019)",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["We aimed to find the prevalence and possible predictors of\nmental health problems (MHP) in Norwegian\npeacekeepers 27 years after deployment to a UN\npeacekeeping mission."]
+      },
+      {
+        "title": "Exploring the potential cost-effectiveness of a vocational rehabilitation program for individuals with schizophrenia in a high-income welfare society",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Stig Evensen", "Torbjørn Wisløff", "June Ullevoldsæter Lystad", "Erik Falkum"],
+        "abstract": ["Background\nOver the past decades research has shown that employment has a positive impact on quality of life, global functioning and recovery in individuals with schizophrenia. However, access to vocational rehabilitation services for this group is limited and unemployment rates remain high. In this study we explore the potential cost-effectiveness..."]
+      },
+      {
+        "title": "A Short History of Individual Placement and Support in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Vigdis Sveinsdottir", "Helen Bull", "Stig Evensen", "June Ullevoldsæter Lystad"],
+        "abstract": ["Objective: Norway is a high-income and high-cost society with a generous welfare system, and it has the largest mental health–related unemployment gap of the OECD countries. The aim of the current article was to present a short history of Individual Placement and Support (IPS) services to increase work participation in Norway. \n\nMethod: We provide..."]
+      },
+      {
+        "title": "T3. METACOGNITIVE BELIEFS IN SEVERE MENTAL DISORDERS",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Tiril Østefjells", "Ingrid Melle", "Sofie R Aminoff", "Jan Ivar Rossberg"],
+        "abstract": ["Background\nAffective dysregulation and psychotic experiences or symptoms often co-occur in the general population as well as in bipolar and psychotic disorders, suggesting a complex interplay. Early trauma is hypothesised to be important for the aetiology of both, and individuals with early traumatic experiences often develop disorders characterise..."]
+      },
+      {
+        "title": "Metacognitive beliefs mediate the effect of emotional abuse on depressive and psychotic symptoms in severe mental disorders",
+        "tags": ["Article"],
+        "date": "Apr 2017",
+        "authors": ["Tiril Østefjells", "June Ullevoldsæter Lystad", "Akiah Ottesen", "Jan Ivar Rossberg"],
+        "abstract": ["Background\nEarly trauma is linked to higher symptom levels in bipolar and psychotic disorders, but the translating mechanisms are not well understood. This study examines whether the relationship between early emotional abuse and depressive symptoms is mediated by metacognitive beliefs about thoughts being uncontrollable/dangerous, and whether this..."]
+      },
+      {
+        "title": "SU121. Apathy and Vocational Functioning—A 2-Year Follow-up",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Helen Bull", "Torill Ueland", "June Ullevoldsæter Lystad", "Erik Falkum"],
+        "abstract": ["Background: Negative symptoms are a core characteristic of schizophrenia affecting vocational, social and daily life functioning (Haro et al, 2015; Hunter and Barry, 2012). Of the negative symptoms, apathy has an independent negative impact on both social and vocational functioning (Fervaha et al, 2015; Strauss et al, 2013). However, less is known..."]
+      },
+      {
+        "title": "SU27. Cognitive Remediation, Cognitive Behavioral Therapy, and Occupational Outcome in Schizophrenia Spectrum Disorders: A 2-Year Follow-up Study",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Vegard Øksendal Haaland", "Torill Ueland"],
+        "abstract": ["Background: Neurocognitive impairment is prominent in schizophrenia and significantly related to low occupational attainment and poor occupational outcomes (August et al, 2012). Vocational rehabilitation (VR) is frequently implemented to counteract high unemployment rates. Individuals with schizophrenia however face numerous challenges such as neur..."]
+      },
+      {
+        "title": "An exploration of metacognitive beliefs and thought control strategies in bipolar disorder",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Tiril Østefjells", "Ingrid Melle", "Sofie R Aminoff", "Jan Ivar Rossberg"],
+        "abstract": []
+      },
+      {
+        "title": "Employment outcome and predictors of competitive employment at 2-year follow-up of a vocational rehabilitation programme for individuals with schizophrenia in a high-income welfare society",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Stig Evensen", "Torill Ueland", "June Ullevoldsæter Lystad", "Erik Falkum"],
+        "abstract": ["Background: Employment is an important part of recovery for individuals with schizophrenia. The employment rate for this group is as low as 10% in Norway, and major system related barriers to employment are evident.\nAims: This study reports the competitive employment outcome at 2-year follow-up of a vocational rehabilitation study augmented with co..."]
+      },
+      {
+        "title": "Vocational Functioning in Schizophrenia Spectrum Disorders",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Helen Bull", "Torill Ueland", "June Ullevoldsæter Lystad", "Erik Falkum"],
+        "abstract": ["While the influence of negative symptoms on vocational outcome is well documented, the specific contribution of apathy is less explored. The current study examined the influence of apathy on vocational outcome. A total of 148 participants were included in a vocational rehabilitation study, offering cognitive remediation (CR) or cognitive behavior t..."]
+      },
+      {
+        "title": "Prevalence, Employment Rate, and Cost of Schizophrenia in a High-Income Welfare Society: A Population-Based Study Using Comprehensive Health and Welfare Registers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Stig Evensen", "Torbjørn Wisløff", "June Ullevoldsæter Lystad", "Erik Falkum"],
+        "abstract": ["Schizophrenia is associated with recurrent hospitalizations, need for long-term community support, poor social functioning,\nand low employment rates. Despite the wide- ranging financial and social burdens associated with the illness, there is great\nuncertainty regarding prevalence, employment rates, and the societal costs of schizophrenia. The curr..."]
+      },
+      {
+        "title": "NEUROCOGNITION AND OCCUPATIONAL FUNCTIONING IN SCHIZOPHRENIA SPECTRUM DISORDERS",
+        "tags": ["Conference Paper"],
+        "date": "Mar 2015",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Vegard Øksendal Haaland", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "Validation of the Work Behavior Inventory",
+        "tags": ["Article"],
+        "date": "Nov 2014",
+        "authors": ["Helen Bull", "Torill Ueland", "June Ullevoldsæter Lystad", "Erik Falkum"],
+        "abstract": ["Background: \nThe Work Behavior Inventory (WBI) was developed in the USA for the assessment of vocational functioning for people with severe mental illness. It is rated in a work setting by an employment specialist through observation and an interview with the immediate supervisor.\n\nAims: \nThe present study aims to examine the psychometric propertie..."]
+      },
+      {
+        "title": "Poster #M140 COST EFFECTIVENESS OF THE JOB MANAGEMENT PROGRAM (JUMP)",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Stig Evensen", "Torill Ueland", "June Ullevoldsæter Lystad", "Erik Falkum"],
+        "abstract": []
+      },
+      {
+        "title": "Poster #M247 CAN WORK HISTORY AT BASELINE PREDICT WORK BEHAVIOR WITHIN THE FIRST FOUR WEEKS OF VOCATIONAL REHABILITATION?",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Helen Bull", "Torill Ueland", "June Ullevoldsæter Lystad", "Erik Falkum"],
+        "abstract": []
+      },
+      {
+        "title": "Poster #M249 HELPING PEOPLE WITH PSYCHOTIC DISORDERS BACK TO WORK – THE sJUMP STUDY",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Erik Falkum", "June Ullevoldsæter Lystad", "Helen Bull", "Torill Ueland"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [35],
+    "reads": [5801],
+    "citations": [407]
   }
 }

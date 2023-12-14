@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Guro Charlotte Teig Øiestad",
-    "id": "3057",
+    "name": ["Guro Charlotte Teig Øiestad"],
+    "id": ["3057"],
     "keywords": [],
     "position": ["Senior lecturer"],
-    "img": "https://api.cristin.no/v2/persons/3057/picture",
+    "img": ["https://api.cristin.no/v2/persons/3057/picture"],
     "works": [
       {
         "type": "Reader opinion piece",
@@ -23,8 +23,8 @@
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "The journey towards becoming an integrative psychotherapist: Teaching integration in as a perspective on theory, research and practice.",
-        "url": "https://api.cristin.no/v2/results/1400687"
+        "url": "https://api.cristin.no/v2/results/1400687",
+        "title": "The journey towards becoming an integrative psychotherapist: Teaching integration in as a perspective on theory, research and practice."
       },
       {
         "type": "Non-fiction book",
@@ -57,5 +57,558 @@
         "url": "https://api.cristin.no/v2/results/928847"
       }
     ]
+  },
+  "rg": {
+    "id": "Norbert-Teig",
+    "name": "Norbert Teig",
+    "img": "https://i1.rgstatic.net/ii/profile.image/376246530789377-1466715571406_Q128/Norbert-Teig.jpg",
+    "affiliation": "RuhrUniversität Bochum | RUB, RuhrUniversität Bochum, Childrens Hospital Dptof Neonatology and Pediatric Intensive Care",
+    "keywords": ["Neonatal Intensive Care", "Mechanical Ventilation", "Neonatal Resuscitation", "Pediatric Pulmonology", "Bronchopulmonary Dysplasia"],
+    "works": [
+      {
+        "title": "Neovitaa – Multicenter, Randomized Controlled Trial Title: Early Postnatal High-Dose Enteral Vitamin a Supplementation to Prevent Moderate or Severe Bronchopulmonary Dysplasia or Death in Extremely Low Birth Weight Infants",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Sascha Meyer", "Johannes Bay", "Axel Franz", "Ludwig Gortner"],
+        "abstract": []
+      },
+      {
+        "title": "Comparison of cerebral oxygen desaturation events between children under general anesthesia and chloral hydrate sedation - a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Philipp Gude", "Thomas P Weber", "Stefan Dazert", "Katrin Neumann"],
+        "abstract": ["Background\nDuring pediatric general anesthesia (GA) and sedation, clinicians aim to maintain physiological parameters within normal ranges. Accordingly, regional cerebral oxygen saturation (rScO 2 ) should not drop below preintervention baselines. Our study compared rScO 2 desaturation events in children undergoing GA or chloral hydrate sedation (C..."]
+      },
+      {
+        "title": "Association of Administration of Surfactant Using Less Invasive Methods With Outcomes in Extremely Preterm Infants Less Than 27 Weeks of Gestation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Christoph Härtel", "Egbert Herting", "Alexander Humberg", "Krueger Marcus"],
+        "abstract": ["Importance: \nThe inclusion of less invasive surfactant administration (LISA) in the care of preterm infants has been found to be beneficial for respiratory outcomes. Recently, the OPTIMIST trial found higher mortality rates in the subgroup of infants born at 25 to 26 weeks' gestational age (GA) who received surfactant treatment while spontaneously..."]
+      },
+      {
+        "title": "Multicentre randomised trial of invasive and less invasive surfactant delivery methods showed similar spirometry results at 5‐9 years of age",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Wolfgang Göpel", "Angela Kribs", "Claudia Roll", "Egbert Herting"],
+        "abstract": ["Aim: \nWe explored whether subnormal forced expiratory volume within one second (FEV1 ) at 5-9 years of age was lower in children born preterm who received less invasive surfactant administration (LISA) rather than surfactant via an endotracheal tube.\n\nMethods: \nThe multicentre, randomised Nonintubated Surfactant Application trial enrolled 211 prete..."]
+      },
+      {
+        "title": "5 Tage altes Neugeborenes mit „Gelbsucht“5-day-old neonate—Jaundice: Vorbereitung auf die Facharztprüfung: Fall 39Preparation for the medical specialist examination: part 39",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Mutations in TP73 Cause Cortical Malformation Consistent with Lissencephaly",
+        "tags": ["Conference Paper"],
+        "date": "Nov 2021",
+        "authors": ["Julia Wallmeier", "Diana Carolin Bracht", "Hessa S Alsaif", "Heymut Omran"],
+        "abstract": []
+      },
+      {
+        "title": "Mutations in TP73 cause impaired mucociliary clearance and lissencephaly",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Julia Wallmeier", "Diana Carolin Bracht", "Hessa S Alsaif", "Heymut Omran"],
+        "abstract": ["TP73 belongs to the TP53 family of transcription factors and has therefore been well studied in cancer research. Studies in mice, however, have revealed non-oncogenic activities related to multiciliogenesis. Utilizing whole-exome sequencing analysis in a cohort of individuals with a mucociliary clearance disorder and cortical malformation, we ident..."]
+      },
+      {
+        "title": "Developmental outcome of extremely preterm infants is improved after less invasive surfactant application (LISA)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Katrin Mehler", "Alexander Broer", "Claudia Roll", "Angela Kribs"],
+        "abstract": ["Aim: \nThe aim of this study was to evaluate neurocognitive outcome at 24 months corrected age after less invasive surfactant application (LISA) in p4reterm infants born at 23 - 26 weeks gestational age.\n\nMethods: \nSurviving participants of a LISA trial conducted in 13 German level III neonatal intensive care units were reviewed for assessment of de..."]
+      },
+      {
+        "title": "Characterization of a universal screening approach for congenital CMV infection based on a highly-sensitive, quantitative, multiplex real-time PCR assay",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Angela Nagel", "Emmanouela Dimitrakopoulou", "Norbert Teig", "Klaus Überla"],
+        "abstract": ["The majority of congenital cytomegalovirus (cCMV) infections are asymptomatic at birth and therefore not diagnosed. Approximately 10-15% of these infants develop late-onset hearing loss and other developmental disorders. Implementation of a universal screening approach at birth may allow early initiation of symptomatic interventions due to a closer..."]
+      },
+      {
+        "title": "Active perinatal care of preterm infants in the German Neonatal Network",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Alexander Humberg", "Christoph Härtel", "Tanja K. Rausch", "Wolfgang Göpel"],
+        "abstract": ["Objective\nTo determine if survival rates of preterm infants receiving active perinatal care improve over time.\n\nDesign\nThe German Neonatal Network is a cohort study of preterm infants with birth weight <1500 g. All eligible infants receiving active perinatal care are registered. We analysed data of patients discharged between 2011 and 2016.\n\nSettin..."]
+      },
+      {
+        "title": "Laminin 332-Dependent YAP Dysregulation Depletes Epidermal Stem Cells in Junctional Epidermolysis Bullosa",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Laura De Rosa", "Alessia Secone Seconetti", "Giorgio De Santis", "Michele De Luca"],
+        "abstract": ["Laminin 332-deficient junctional epidermolysis bullosa (JEB) is a severe genetic skin disease. JEB is marked by epidermal stem cell depletion, the origin of which is unknown. We show that dysregulation of the YAP and TAZ pathway underpins such stem cell depletion. Laminin 332-mediated YAP activity sustains human epidermal stem cells, detected as ho..."]
+      },
+      {
+        "title": "355 Regeneration of the Entire Human Epidermis by Transgenic Epidermal Stem Cell Transplants and its Implications for the Treatment of Burns",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Maximilian Kueckelhaus", "Tobias Rothoeft", "Norbert Teig", "T Hirsch"],
+        "abstract": ["Introduction\nWe recently performed the regeneration of almost an entire human epidermis by transplantation of genetically modified epidermal stem cells in a 7-year-old patient suffering from terminal Junctional Epidermolysis Bullosa (JEB). JEB is caused by mutations of genes encoding for basement membrane components, LAMB3 in this case, leading to..."]
+      },
+      {
+        "title": "Influence of PCO2 Control on Clinical and Neurodevelopmental Outcomes of Extremely Low Birth Weight Infants",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Ulrich H Thome", "Jens Dreyhaupt", "Orsolya Genzel-Boroviczény", "Helmut D. Hummler"],
+        "abstract": ["Background: \nLevels or fluctuations in the partial pressure of CO2 (PCO2) may affect outcomes for extremely low birth weight infants.\n\nObjectives: \nIn an exploratory analysis of a randomized trial, we hypothesized that the PCO2 values achieved could be related to significant outcomes.\n\nMethods: \nOn each treatment day, infants were divided into 4 gr..."]
+      },
+      {
+        "title": "Regeneration of the entire human epidermis using transgenic stem cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Tobias Hirsch", "Tobias Rothoeft", "Norbert Teig", "Michele De Luca"],
+        "abstract": ["Junctional epidermolysis bullosa (JEB) is a severe and often lethal genetic disease caused by mutations in genes encoding the basement membrane component laminin-332. Surviving patients with JEB develop chronic wounds to the skin and mucosa, which impair their quality of life and lead to skin cancer. Here we show that autologous transgenic keratino..."]
+      },
+      {
+        "title": "Seltene Ursachen von postnatalen Anpassungsstörungen: „Manchmal muss man an Zebras denken...“",
+        "tags": ["Conference Paper"],
+        "date": "Oct 2017",
+        "authors": ["B Methling", "N Bielefeld", "S Dettmers", "Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Treatment with long-acting lanreotide autogel in early infancy in patients with severe neonatal hyperinsulinism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Heike Corda", "Sebastian Kummer", "Alena Welters", "Thomas Meissner"],
+        "abstract": ["Background\nTreatment of severe diffuse congenital hyperinsulinism (CHI) without sufficient response to diazoxide is complicated by the lack of approved drugs. Therefore, patients are often hospitalized long-term or have to undergo pancreatic surgery if episodes of severe hypoglycaemia cannot be prevented. A long-acting somatostatin analogue, octreo..."]
+      },
+      {
+        "title": "The interdisciplinary Management of Severe Burns in Pregnancy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Christoph Wallner", "Peter Kern", "Norbert Teig", "Björn Behr"],
+        "abstract": ["Background: Severe burns in pregnant women present an exceedingly challenging situation due to the limitation in therapeutic options including pain management and operative care.Case: We present a 30 years old patient, 38th week of pregnancy, who suffered a full thickness skin burns in 20% total body surface area and an inhalation trauma. In a Leve..."]
+      },
+      {
+        "title": "Neurodevelopmental outcomes of extremely low birthweight infants randomised to different PCO2 targets: The PHELBI follow-up study",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Ulrich H Thome", "Orsolya Genzel-Boroviczény", "Bettina Bohnhorst", "Helmut D Hummler"],
+        "abstract": ["Background: \nTolerating higher partial pressures of carbon dioxide (PCO2) in mechanically ventilated extremely low birthweight infants to reduce ventilator-induced lung injury may have long-term neurodevelopmental side effects. This study analyses the results of neurodevelopmental follow-up of infants enrolled in a randomised multicentre trial.\n\nMe..."]
+      },
+      {
+        "title": "Evaluation of the effect of the Newborn Life Support (NLS) course in Germany on resuscitation skills and the participants’ perceived benefit",
+        "tags": ["Article"],
+        "date": "Sep 2016",
+        "authors": ["Elisabeth Resch", "Ulrich Kreth", "Norbert Teig", "Eckard Hamelmann"],
+        "abstract": []
+      },
+      {
+        "title": "Evaluation of the effect of the Newborn Life Support (NLS)-course in Germany on resuscitation skills and the participants’ perceived benefit",
+        "tags": ["Article"],
+        "date": "Sep 2016",
+        "authors": ["Elisabeth Resch", "Ulrich Kreth", "Thomas Boesing", "Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Influence of Maternal Graduation on the Cognitive Development of Very Low-Birth-Weight Infants",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["A. Weitkämper", "Norbert Teig", "U. Schauer", "T. Lücke"],
+        "abstract": ["Background: Very low-birth-weight infants with birth weight less than 1,500 g have an increased risk for a worse neurocognitive outcome. Early therapeutic intervention can reduce the level of developmental disorder. To detect the infants with the need of early support it is important to define risk factors affecting the development beside birth wei..."]
+      },
+      {
+        "title": "Central Vocal Cord Paresis as Complication of a FBXL4-Associated Mitochondrial Depletions Syndrome",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["C. Decker", "Norbert Teig", "A. Abicht", "T. Lücke"],
+        "abstract": ["Background: Autosomal-recessive inherited mutations of the FBXL4-gene are part of the mitochondrial depletion syndromes. They cause a reduction in mitochondrial DNA that leads to an impairment of mitochondrial function and severe encephalomyopathy. FBXL4-mutations are known since 2013. To date, 29 patients with FBXL4 deficiency have been described...."]
+      },
+      {
+        "title": "Observational Study on Less Invasive Surfactant Administration (LISA) in Preterm Infants<29 Weeks - Short and Long-term Outcomes",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Norbert Teig", "A Weitkämper", "J Rothermel", "Eckard Hamelmann"],
+        "abstract": ["Background: A recent trial has demonstrated short-term benefits of a new minimal invasive procedure of surfactant administration in spontaneously breathing preterm infants ≥26 weeks (less invasive surfactant administration, LISA).\nAim: To assess safety as well as short- and long-term outcomes of the LISA procedure in preterm infants between 23–28 w..."]
+      },
+      {
+        "title": "Permissive hypercapnia in extremely low birthweight infants (PHELBI): A randomised controlled multicentre trial",
+        "tags": ["Article"],
+        "date": "Jun 2015",
+        "authors": ["Ulrich H Thome", "Orsolya Genzel-Boroviczény", "Bettina Bohnhorst", "Helmut D Hummler"],
+        "abstract": ["Tolerating higher partial pressure of carbon dioxide (pCO2) in mechanically ventilated, extremely low birthweight infants might reduce ventilator-induced lung injury and bronchopulmonary dysplasia. We aimed to test the hypothesis that higher target ranges for pCO2 decrease the rate of bronchopulmonary dysplasia or death.\nIn this randomised multicen..."]
+      },
+      {
+        "title": "Nonintubated Surfactant Application vs Conventional Therapy in Extremely Preterm Infants: A Randomized Clinical Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Angela Kribs", "Claudia Roll", "Wolfgang Göpel", "Bernhard Roth"],
+        "abstract": ["Treatment of respiratory distress syndrome in premature infants with continuous positive airway pressure (CPAP) preserves surfactant and keeps the lung open but is insufficient in severe surfactant deficiency. Traditional surfactant administration is related to short periods of positive pressure ventilation and implies the risk of lung injury. CPAP..."]
+      },
+      {
+        "title": "Less invasive surfactant administration is associated with improved pulmonary outcomes in spontaneously breathing preterm infants",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Wolfgang Göpel", "Angela Kribs", "Christoph Härtel", "Egbert Herting"],
+        "abstract": ["Providing less invasive surfactant administration (LISA) to spontaneously breathing preterm infants has been reported to reduce mechanical ventilation and bronchopulmonary dysplasia (BPD) in randomised controlled trials. This large cohort study compared these outcome measures between LISA treated infants and controls.\nInfants receiving LISA, who we..."]
+      },
+      {
+        "title": "Resection of a large cystic cervical lymphatic malformation complicated by severe postoperative necrotizing enterocolitis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Ralf-Bodo Tröbs", "M. Bahr", "Claudia Roll", "Matthias Neid"],
+        "abstract": ["Here, we report on a patient with severe postoperative intestinal complications after the resection of a prenatally diagnosed large cervical lymphatic malformation. To elucidate the pathogenesis of this life-threatening complication, we analyzed this case as part of a matched pair. The mature index patient was delivered by Caesarean section, and th..."]
+      },
+      {
+        "title": "Safety and Effectiveness of Less Invasive Surfactant Administration in Routine Clinical Practice",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Egbert Herting", "A. Kribs", "Bernhard Roth", "W. Goepel"],
+        "abstract": []
+      },
+      {
+        "title": "Correspondence (letter to the editor): One-Sided Calculation",
+        "tags": ["Article"],
+        "date": "Feb 2013",
+        "authors": ["Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Very low birth weight infants after discharge: What do parents describe?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Juliane Spiegler", "Martin Schlaud", "Inke König", "Wolfgang Göpel"],
+        "abstract": ["Background: \nMorbidity and mortality in Very Low Birth Weight (VLBW) infants during their hospital stay have been well described. However, there are insufficient data regarding health problems after discharge.\n\nStudy design: \nIn a multicenter study performed between January 2009 and December 2010 including 2493 VLBW infants, questionnaires were sen..."]
+      },
+      {
+        "title": "Pseudotumerous enlargement of the umbilical cord owing to an intra-amniotic varicosity associated with thrombocytopenia",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Ralf-Bodo Tröbs", "Norbert Teig", "Matthias Neid", "Peter Kozlowski"],
+        "abstract": ["Herein, we describe a male infant with an antenatally diagnosed single umbilical artery and extensive varicosities of the umbilical vein with tumor-like appearances. Consumption coagulopathy occurred postnatally, and surgical resection of the umbilical cord led to a normalization of the platelet count."]
+      },
+      {
+        "title": "Betreuung der Kinder nach der Entlassung",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Inflammatory Markers in Induced Sputum of School Children Born Before 32 Completed Weeks of Gestation",
+        "tags": ["Article"],
+        "date": "Aug 2012",
+        "authors": ["Norbert Teig", "Manel Allali", "Christian Rieger", "Eckard Hamelmann"],
+        "abstract": ["Objective: \nTo test whether chronic bronchial inflammation may be a contributing risk factor for persistent airflow limitation in children born before 32 weeks of gestation in later life.\n\nStudy design: \nThirty-six of 160 children born before 32 completed weeks of gestation who were born between 1988 and 1992 were recruited at a median age of 11 ye..."]
+      },
+      {
+        "title": "Fax The 'Effects of Transfusion Thresholds on Neurocognitive Outcome of Extremely Low Birth-Weight Infants (ETTNO)' Study: Background, Aims, and Study Protocol",
+        "tags": ["Article"],
+        "date": "Jun 2012",
+        "authors": ["Franz AR,", "Maier RF,", "Ulrich H Thome", "Joachim Riethmueller"],
+        "abstract": ["Abstract\nBackground: Infants with extremely low birth weight uniformly\ndevelop anemia of prematurity and frequently require\nred blood cell transfusions (RBCTs). Although RBCT is\nwidely practiced, the indications remain controversial in the\nabsence of conclusive data on the long-term effects of RBCT.\nObjectives: To summarize the current equipoise an..."]
+      },
+      {
+        "title": "Subglottic Cysts Cause of Inspiratory Wheezing in very young Premature babies",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Kerstin Gruendler", "Cordula Koerner-Rettberg", "Tobias Rothoeft", "Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Neurocognitive testing of very low birth weight infants at an age of 4 years",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["H Neumann", "A Weitkämper", "K Weigt-Usinger", "T Lücke"],
+        "abstract": []
+      },
+      {
+        "title": "Respiratorische Langzeitfolgen nach Frühgeburt",
+        "tags": ["Article"],
+        "date": "Feb 2012",
+        "authors": ["Norbert Teig"],
+        "abstract": ["Die vorliegende Arbeit fasst die aktuelle Literatur über den Einfluss von Frühgeburt und bronchopulmonale Dysplasie (BPD) auf die langfristige respiratorische Gesundheit zusammen. Frühgeborene mit BPD zeigen bis in das Erwachsenenalter hinein gehäuft persistierende respiratorische Auffälligkeiten. Zu diesen gehören eine obstruktive Ventilationsstör..."]
+      },
+      {
+        "title": "ATP-binding cassette member A3 (E292V) gene mutation and pulmonary morbidity in very-low-birth-weight infants",
+        "tags": ["Article"],
+        "date": "Dec 2011",
+        "authors": ["Christoph Härtel", "Ursula Felderhoff-Mueser", "Corinna Mirjam Gebauer", "Wolfgang Göpel"],
+        "abstract": ["ATP-binding cassette member A 3 (ABCA3) plays a critical role for the transport of surfactant phospholipids into the lamellar bodies of type II alveolar epithelial cells. Term infants carrying the E292V missense mutation of the gene encoding ABCA3 are likely to develop respiratory distress syndrome, and the mutation has also been linked to intersti..."]
+      },
+      {
+        "title": "Ultrasound and colour Doppler in infantile subglottic haemangioma",
+        "tags": ["Article"],
+        "date": "Sep 2011",
+        "authors": ["Leo Rossler", "Tobias Rothoeft", "Norbert Teig", "Eckard Hamelmann"],
+        "abstract": ["Subglottic haemangioma causes progressive and life-threatening stridor, typically manifesting at age 2-3 months. Standard diagnosis is by laryngoscopy. Larynx sonography is rarely used but allows assessment of the presence and extension of a mass that impinges on the subglottic airway. The additional use of colour Doppler enables demonstration of t..."]
+      },
+      {
+        "title": "Neonatologie. Therapeutische Kühlung von Neugeborenen – 1. evidenzbasierte Behandlungsmöglichkeit nach peripartaler Asphyxie",
+        "tags": ["Article"],
+        "date": "Aug 2011",
+        "authors": ["Norbert Teig", "R. Mittal", "G. Simbruner"],
+        "abstract": []
+      },
+      {
+        "title": "Tumor necrosis factor-α promoter −308 G/A polymorphism and susceptibility to sepsis in very-low-birth-weight infants",
+        "tags": ["Article"],
+        "date": "May 2011",
+        "authors": ["Christoph Härtel", "Claudia Hemmelmann", "Kirstin Faust", "Wolfgang Göpel"],
+        "abstract": ["To determine whether the tumor necrosis factor-α -308 G/A polymorphism is associated with blood culture-proven sepsis in two large cohorts of very-low-birth-weight infants.\nGenetic association studies.\nProspective, population-based, multicentered cohort of 1944 very-low-birth-weight infants born in 14 German study centers between 2003 and 2008 and..."]
+      },
+      {
+        "title": "P25.3 Neurodevelopmental outcome at 24 and 36 months of age in very low birth weight infants assessed by Bayley Scales of Infant Development II",
+        "tags": ["Article"],
+        "date": "Mar 2011",
+        "authors": ["A. Weitkaemper", "K. Weigt-Usinger", "Norbert Teig", "T. Lücke"],
+        "abstract": []
+      },
+      {
+        "title": "Neurodevelopmental outcome at 24 and 36 months of age in very low birth weight infants assessed by Bayley Scales of Infant Development II",
+        "tags": ["Article"],
+        "date": "Mar 2011",
+        "authors": ["A Weitkämper", "K Weigt-Usinger", "Norbert Teig", "T Lücke"],
+        "abstract": ["Introduction: Very low birth weight infants (VLBWI) are reported to have a high risk for neurodevelopmental delay. In Germany standardized neurologic follow-up examinations at the corrected age of 24 months has been introduced as part of a nationwide quality assurance program for very premature infants. We here assess the predictive power of these..."]
+      },
+      {
+        "title": "For the German Neonatal Network. Tumor necrosis factor-α promoter -308 G/A polymorphism and susceptibility to sepsis in very-low-birth-weight infants",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Christoph Härtel", "Claudia Hemmelmann", "Kirstin Faust", "Egbert Herting"],
+        "abstract": []
+      },
+      {
+        "title": "Neurokognitiver Status im Alter von 3 Jahren nach Sonden-Applikation von Surfactant unter Spontanatmung bei Frühgeborenen",
+        "tags": ["Article"],
+        "date": "Jun 2010",
+        "authors": ["A Weitkämper", "Eggert Lilienthal", "Leo Rossler", "Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic risk factors for obesity (MAF MC4R and FTO-polymorphisms) in a large cohort of German VLBW infants",
+        "tags": ["Article"],
+        "date": "Jun 2010",
+        "authors": ["Sebastian Haller", "Corinna Mirjam Gebauer", "Helmut Küster", "Jens Christian Möller"],
+        "abstract": []
+      },
+      {
+        "title": "Kongenitale bilaterale Stimmbandparese und Botulinumtoxintherapie",
+        "tags": ["Article"],
+        "date": "Jun 2010",
+        "authors": ["C Döing", "Thomas Nicolai", "Norbert Teig", "T Höhn"],
+        "abstract": ["Kongenitale Stimmbandparesen fuhren zu einem inspiratorischem Stridor und konnen bei zusatzlicher Schwellung der Stimmlippen zu akuten lebensbedrohlichen asphyktischen Situationen fuhren, welche nicht selten eine Tracheotomie erfordern. Eine Dekanulierung nach erfolgter Tracheotomie bei kongenitaler Stimmbandparese gelingt jedoch haufig erst nach d..."]
+      },
+      {
+        "title": "Letale Late-Onset-Sepsis durch Salmonella enteritidis bei einem reifen Neugeborenen",
+        "tags": ["Article"],
+        "date": "Jun 2010",
+        "authors": ["I Böhm", "U Haller", "A Weitkämper", "Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Neurocognitive Status at the Age of 3 Years after Probe Application of Surfactant in Spontaneous Breathing in Preterm Infants < 30 Weeks of Gestation",
+        "tags": ["Article"],
+        "date": "Jun 2010",
+        "authors": ["A. Weitkaemper", "Eggert Lilienthal", "Leo Rossler", "Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Lethal late-Onset-Sepsis due to Salmonella enteritidis mature in a newborn.",
+        "tags": ["Article"],
+        "date": "Jun 2010",
+        "authors": ["I. Boehm", "U. Haller", "A. Weitkaemper", "Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Congenital bilateral vocal cord palsy and botulinum toxin therapy.",
+        "tags": ["Article"],
+        "date": "Jun 2010",
+        "authors": ["C. Doeing", "Thomas Nicolai", "Norbert Teig", "T. Hoehn"],
+        "abstract": []
+      },
+      {
+        "title": "Neonatal outcome of VLBW infants in Berlin, Germany",
+        "tags": ["Article"],
+        "date": "May 2009",
+        "authors": ["Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Does the Enteral Feeding Advancement Affect Short-term Outcomes in Very Low Birth Weight Infants?",
+        "tags": ["Article"],
+        "date": "May 2009",
+        "authors": ["Christoph Härtel", "Berit Haase", "Kathryn Browning Carmo", "Wolfgang Göpel"],
+        "abstract": ["Controversy exists regarding the optimal enteral feeding regimen of very low birth weight infants (VLBW). Rapid advancement of enteral feeding has been associated with an increased rate of necrotizing enterocolitis. In contrast, delaying enteral feeding may have unfavorable effects on nutrition, growth, and neurodevelopment. The aim is to compare t..."]
+      },
+      {
+        "title": "Recurrent attacks of croup - causes, symptoms and diagnosis",
+        "tags": ["Article"],
+        "date": "Mar 2009",
+        "authors": ["Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "[Double tracheo-oesophageal fistula, oesophageal atresia, and tracheal stenosis--an exceptional tracheoscopic view].",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Ralf-Bodo Tröbs", "Petra Dettmer", "W Finke", "Norbert Teig"],
+        "abstract": ["This report highlights the diagnostic and therapeutic challenges which occurred in a newborn with oesophageal atresia of the type Vogt III c in association with a tubular supracarinal tracheal stenosis."]
+      },
+      {
+        "title": "Doppelte tracheoösophageale Fistel, Ösophagusatresie und Trachealstenose – ein ungewöhnlicher tracheoskopischer Befund",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Ralf-Bodo Tröbs", "Petra Dettmer", "W. Finke", "Norbert Teig"],
+        "abstract": ["Bei einem Neugeborenen mit Ösophagusatresie ermöglichte erst die präoperative Tracheoskopie die Diagnose des Typs Vogt III c . Zusätzlich bestand eine tubuläre supracarinale Trachealstenose."]
+      },
+      {
+        "title": "Recurrent attacks of croup - Causes, symptoms and diagnosis",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Norbert Teig"],
+        "abstract": []
+      },
+      {
+        "title": "Hepatic mesenchymal hamartoma in a preterm newborn: Demonstration by low-dose multidetector CT",
+        "tags": ["Article"],
+        "date": "Nov 2007",
+        "authors": ["Christoph M Heyer", "Almut Weitkaemper", "Norbert Teig", "Volkmar Nicolas"],
+        "abstract": ["Primary liver tumours are very rare in the neonatal period. Differential diagnoses include haemangioendothelioma, malignant hepatoblastoma and mesenchymal hamartoma. Due to non-specific clinical symptoms and indecisive imaging findings, correct diagnosis may be difficult to establish. We report a female preterm newborn who was delivered at 33 weeks..."]
+      },
+      {
+        "title": "Mortality among premature newborns below 32 weeks of gestational age depending on level of care and patient volume in Nordrhein-Westfalen/Germany",
+        "tags": ["Article"],
+        "date": "Jul 2007",
+        "authors": ["Norbert Teig", "H.-G. Wolf", "H.-J. Bücker-Nott"],
+        "abstract": ["It is an ongoing debate in Germany whether there is an association between the number of preterm infants admitted to a neonatal unit per year and neonatal mortality. Data from Germany on this topic are sparse and the generalizability of this data is questionable in face of a heterogeneous organization of perinatal care among federal states.\nWe used..."]
+      },
+      {
+        "title": "Erregerbedingte Atemregulationsstörungenbei Säuglingen",
+        "tags": ["Article"],
+        "date": "Feb 2007",
+        "authors": ["Norbert Teig", "Christian H. L. Rieger"],
+        "abstract": ["Summary Specific causes for\napneas in infants are, in order of\nimportance, the respiratory syncytial\nvirus (RSV), vaccinations, Bordetella\npertussis and, possibly, rotavirus.\nGroups at risk are premature\ninfants and infants below 6 months\nof age. Double infections may be\naggravating factors. Vaccination-associated\napneas are only relevant to\npremat..."]
+      },
+      {
+        "title": "Apnea due to infectious agents in infants",
+        "tags": ["Article"],
+        "date": "Jan 2007",
+        "authors": ["Norbert Teig", "C. H. L. Rieger"],
+        "abstract": []
+      },
+      {
+        "title": "Mortalität bei sehr unreifen Frühgeborenen (",
+        "tags": ["Article"],
+        "date": "Jan 2007",
+        "authors": ["Norbert Teig", "HG Wolf", "H Bücker-Nott"],
+        "abstract": []
+      },
+      {
+        "title": "Apnea due to infectious agentsin infants",
+        "tags": ["Article"],
+        "date": "Dec 2006",
+        "authors": ["Norbert Teig", "C. H. L. Rieger"],
+        "abstract": []
+      },
+      {
+        "title": "Pulmonary haemosiderosis in infants and children",
+        "tags": ["Article"],
+        "date": "Apr 2006",
+        "authors": ["Thomas Nuesslein", "Norbert Teig", "Christian H.L. Rieger"],
+        "abstract": ["Pulmonary haemosiderosis (PH) results from recurrent bleeding into alveolar spaces and interstitial lung tissue. If untreated, fibrosis and restrictive lung disease will develop and may lead to death. A distinction can be made between primary and secondary pulmonary haemosiderosis as a manifestation of auto-immune small vessel vasculitides, coagula..."]
+      },
+      {
+        "title": "Prospective Study of Fever After Bronchoalveolar Lavage in Children",
+        "tags": ["Article"],
+        "date": "Mar 2006",
+        "authors": ["T Hemmers", "Thomas Nuesslein", "Norbert Teig", "V Stephan"],
+        "abstract": ["We investigated the significance of bronchoalveolar lavage fluid (BALF) characteristics and bacterial pathogens isolated in bronchoalveolar lavage fluids, oropharyngeal cultures and blood cultures for the development of fever in children after flexible bronchoscopy.\nWe studied 41 consecutive patients (age 4 months to 15 years), who underwent bronch..."]
+      },
+      {
+        "title": "Chlamydophila pneumoniae and Mycoplasma pneumoniae in respiratory specimens of children with chronic lung diseases",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2005",
+        "authors": ["Norbert Teig", "A Anders", "C Schmidt", "Sören G Gatermann"],
+        "abstract": ["Persistent infection with Mycoplasma pneumoniae and Chlamydophila pneumoniae has been implicated in the progression or induction of asthma and chronic obstructive pulmonary disease. Evidence for this hypothesis has been obtained in adults either by serological methods or by direct pathogen detection using invasive procedures.\nWe investigated nasal..."]
+      },
+      {
+        "title": "N-terminal Pro Brain Natriuretic Peptide (N-BNP) im Nabelschnurblut korreliert mit der intensivmedizinischen Morbidität bei Frühgeborenen <32 SSW",
+        "tags": ["Article"],
+        "date": "Jul 2005",
+        "authors": ["Ute Feucht", "Norbert Teig", "Stefanie Schwamberg", "C Rieger"],
+        "abstract": []
+      },
+      {
+        "title": "Fulminante Lungenembolie bei einem Neugeborenen mit heterozygoter APC-Resistenz und Prothrombin-Mutation",
+        "tags": ["Article"],
+        "date": "Jul 2005",
+        "authors": ["N Peters", "C Thünemann", "Leo Rossler", "C Rieger"],
+        "abstract": []
+      },
+      {
+        "title": "Implementierung der Surfactant-Applikation bei spontan atmenden Frühgeborenen",
+        "tags": ["Article"],
+        "date": "Jul 2005",
+        "authors": ["Norbert Teig", "A Weitkämper", "Eggert Lilienthal", "C Rieger"],
+        "abstract": []
+      },
+      {
+        "title": "Unfälle und Verletzungen",
+        "tags": ["Chapter"],
+        "date": "Jan 2004",
+        "authors": ["P. Sacher", "Sergio Fanconi", "Norbert Teig", "P. Lemburg"],
+        "abstract": ["Thoraxverletzungen sind bei Kindern relativ selten. In den meisten Fällen führt ein Thoraxtrauma lediglich zu einer Lungenkontusion mit milder Beeinträchtigung der Atemfunktion."]
+      },
+      {
+        "title": "Systemkrankheiten mit Beteiligung des Respirationstraktes",
+        "tags": ["Chapter"],
+        "date": "Jan 2004",
+        "authors": ["Elisabeth Weissbarth-Riedel", "C. Rieger", "Keryn Paul", "V. Stephan"],
+        "abstract": ["Rheumatische Erkrankungen können verschiedene anatomische Strukturen der Atemwege und der Lunge betreffen. Am bekanntesten ist die Pleuritis bei Morbus Still, der systemischen Form der juvenilen idiopathischen Arthritis. Rheumatische Krankheiten können aber auch das Lungengewebe als interstitielle Pneumonitis mit der möglichen Folge einer Lungenfib..."]
+      },
+      {
+        "title": "Age-Related Changes in Human Blood Dendritic Cell Subpopulations",
+        "tags": ["Article"],
+        "date": "May 2002",
+        "authors": ["Norbert Teig", "D Moses", "S Gieseler", "U Schauer"],
+        "abstract": ["It is well known that the human immune system is functionally less mature at birth and, within the first years of life, undergoes a process of sequential development. Two subsets of dendritic cells (DCs) were identified in the blood: plasmacytoid and myeloid DCs. DCs stain negative for CD3, CD14, CD16, CD19, CD20 and CD56, and positive for human le..."]
+      },
+      {
+        "title": "Primäre Krankheiten des Lungenparenchyms",
+        "tags": ["Chapter"],
+        "date": "Jan 1999",
+        "authors": ["P. Birrer", "Hermann Lindemann", "G. Kusenbach", "H. von der Hardt"],
+        "abstract": ["Die interstitiellen Pneumopathien sind eine ätiologisch heterogene Gruppe von Lungenkrankheiten (Übersicht 12.1), die sich klinisch, radiologisch und lungenphysiologisch ähnlich manifestieren. Im Verlauf können sie sich sehr unterschiedlich präsentieren, ihr gemeinsames Ende finden sie in einer mehr oder weniger ausgeprägten Lungenfibrose, die sich..."]
+      },
+      {
+        "title": "Systemkrankheiten mit Beteiligung des Respirationstraktes",
+        "tags": ["Chapter"],
+        "date": "Jan 1999",
+        "authors": ["Elisabeth Weissbarth-Riedel", "C. Rieger", "K. Paul", "V. Stephan"],
+        "abstract": ["Rheumatische Erkrankungen können verschiedene anatomische Strukturen der Atemwege und der Lunge betreffen. Am bekanntesten ist die Pleuritis bei Morbus Still, der systemischen Form der juvenilen chronischen Arthritis, oder als Symptom des Lupus erythematodes. Rheumatische Krankheiten können aber auch das Lungengewebe als interstitielle Pneumonitis..."]
+      },
+      {
+        "title": "Megaösophagus in Kombination mit Tracheomalazie\nProbleme in Diagnostik und Therapie",
+        "tags": ["Article"],
+        "date": "Apr 1997",
+        "authors": ["Katrin Plinke", "P. Ahrens", "Christian Friedrich Poets", "D. Hofmann"],
+        "abstract": ["Tracheomalazie und Megaösophagus können sowohl einzeln als auch in Kombination ursächlich für eine vielschichtige pulmonale\nProblematik sein. Um dauerhafte Schäden zu vermeiden, ist eine kausal orientierte Therapie zwingend erforderlich. Durch sorgfältige\nDiagnostik und Ausschluß assoziierter Fehlbildungen werden langwierige Therapieverläufe und Ko..."]
+      },
+      {
+        "title": "Haemorrhagic shock encephalopathy syndrome presenting with myoglobinuria",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 1996",
+        "authors": ["Norbert Teig", "Thomas Nuesslein"],
+        "abstract": ["An infant with haemorrhagic shock encephalopathy syndrome (HSES) who in addition presented with hyperpyrexia and myoglobinuria is reported. As rhabdomyolysis is a feature of heat stroke and malignant hyperthermia, the association of HSES with myoglobinuria supports the hypothesis that HSES may be a form of hypermetabolic state triggered by hyperthe..."]
+      },
+      {
+        "title": "Severe penumonia and chronic lung disease in a young child with adenovirus and Bordetella pertussis infection",
+        "tags": ["Article"],
+        "date": "Jun 1995",
+        "authors": ["Carlos Severien", "Norbert Teig", "Frank Riedel", "C Rieger"],
+        "abstract": []
+      }
+    ],
+    "degree": ["MD"],
+    "bio": [],
+    "publications": [77],
+    "reads": [11067],
+    "citations": [1825]
   }
 }

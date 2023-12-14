@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Lars Tjelta Westlye",
-    "id": "zm7OAxsAAAAJ",
-    "affiliation": "Professor, Department of Psychology, University of Oslo, NORMENT, Oslo University …",
+    "name": ["Lars Tjelta Westlye"],
+    "id": ["zm7OAxsAAAAJ"],
+    "affiliation": ["Professor, Department of Psychology, University of Oslo, NORMENT, Oslo University …"],
     "data": {
       "publications": [
         {
@@ -1288,8 +1288,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-8644-956X",
-    "name": "Lars T. Westlye",
+    "orcid": ["0000-0001-8644-956X"],
+    "name": ["Lars T. Westlye"],
     "distinctions": [],
     "education": [
       {
@@ -1306,10 +1306,10 @@
       },
       {
         "start": "2012",
-        "end": "2018",
         "position": "Associate professor II",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       }
     ],
     "employment": [
@@ -1327,10 +1327,10 @@
       },
       {
         "start": "2012",
-        "end": "2018",
         "position": "Associate professor II",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       }
     ],
     "membership": [],
@@ -2706,11 +2706,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Lars Tjelta Westlye",
-    "id": "18517",
+    "name": ["Lars Tjelta Westlye"],
+    "id": ["18517"],
     "keywords": [],
     "position": ["Professor", null],
-    "img": "https://api.cristin.no/v2/persons/18517/picture",
+    "img": ["https://api.cristin.no/v2/persons/18517/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -3404,5 +3404,26 @@
         "url": "https://api.cristin.no/v2/results/1966220"
       }
     ]
+  },
+  "rg": {
+    "id": "Frode-Tjelta",
+    "name": "Frode Tjelta",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1043213003546627-1625732770318_Q128/Frode-Tjelta.jpg",
+    "affiliation": "University of Stavanger UiS, Department of Mechanical and Structural Engineering and Materials Science",
+    "keywords": ["Stress Analysis", "Mechanical Engineering", "Finite Element Analysis", "Mechanical Properties", "Structural Analysis", "Mechanics of Materials", "Finite Element Modeling", "Mechanical Testing", "FE Analysis", "Dynamics"],
+    "works": [
+      {
+        "title": "A Comparison Study of Pressure Vessel Design Using Different Standards",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Frode Tjelta", "Ove T Gudmestad"],
+        "abstract": "Several codes are currently available for design and analysis of pressure vessels. Two of the main contributors are the American Society of Mechanical Engineers providing the ASME VIII code, Ref /4/ and the Technical Committee for standardization in Brussels providing the European Standard, Ref /2/.\nMethods written in bold letters will be considere..."
+      }
+    ],
+    "degree": ["Master", "of", "Technology"],
+    "bio": "Electrical Motor Design",
+    "publication": [1],
+    "reads": [5175],
+    "citations": [4]
   }
 }

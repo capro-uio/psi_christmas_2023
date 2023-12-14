@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Rikka Kjelkenes",
-    "id": "gGqPMkIAAAAJ",
-    "affiliation": "NORMENT",
+    "name": ["Rikka Kjelkenes"],
+    "id": ["gGqPMkIAAAAJ"],
+    "affiliation": ["NORMENT"],
     "data": {
       "publications": [
         {
@@ -504,8 +504,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-4793-4428",
-    "name": "Rikka Kjelkenes",
+    "orcid": ["0000-0003-4793-4428"],
+    "name": ["Rikka Kjelkenes"],
     "distinctions": [],
     "education": [
       {
@@ -550,8 +550,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Rikka Kjelkenes",
-    "id": "1108678",
+    "name": ["Rikka Kjelkenes"],
+    "id": ["1108678"],
     "keywords": [],
     "position": ["Guest", "Guest", "Research fellow"],
     "img": {},
@@ -619,5 +619,138 @@
         "url": "https://api.cristin.no/v2/results/2021584"
       }
     ]
+  },
+  "rg": {
+    "id": "Rikka-Kjelkenes",
+    "name": "Rikka Kjelkenes",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1152107830886400-1651695320442_Q128/Rikka-Kjelkenes.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Biological Psychiatry", "Neuropsychiatry"],
+    "works": [
+      {
+        "title": "Testing the sensitivity of diagnosis-derived patterns in functional brain networks to symptom burden in a Norwegian youth sample",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Irene Voldsbekk", "Rikka Kjelkenes", "Erik Rimestad Frogner", "Dag Alnaes"],
+        "abstract": ["Aberrant brain network development represents a putative key aetiological component in mental disorders, which typically emerge during childhood and adolescence. Previous resting-state fMRI studies have identified brain connectivity patterns reflecting psychopathology, but the generalisability to other samples and politico-cultural contexts has not..."]
+      },
+      {
+        "title": "Effects of urban living environments on mental health in adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Jiayuan Xu", "Nana Liu", "Elli Polemiti", "George Ogoh"],
+        "abstract": ["Urban-living individuals are exposed to many environmental factors that may combine and interact to influence mental health. While individual factors of an urban environment have been investigated in isolation, no attempt has been made to model how complex, real-life exposure to living in the city relates to brain and mental health, and how this is..."]
+      },
+      {
+        "title": "Delineating disorder-general and disorder-specific dimensions of psychopathology from functional brain networks in a developmental clinical sample",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Irene Voldsbekk", "Rikka Kjelkenes", "Andreas Dahl", "Dag Alnæs"],
+        "abstract": ["The interplay between functional brain network maturation and psychopathology during development remains elusive. To establish the structure of psychopathology and its neurobiological mechanisms, mapping of both shared and unique functional connectivity patterns across developmental clinical populations is needed. We investigated shared association..."]
+      },
+      {
+        "title": "Machine Learning for Parsing Individual Differences",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Milin Kim", "Esten Leonardsen", "Rikka Kjelkenes", "Thomas Wolfers"],
+        "abstract": []
+      },
+      {
+        "title": "Delineating disorder-general and disorder-specific dimensions of psychopathology from functional brain networks in a clinical sample of children and adolescents",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Irene Voldsbekk", "Rikka Kjelkenes", "Andreas Dahl", "Dag Alnaes"],
+        "abstract": ["Background\nThe interplay between functional brain network maturation and psychopathology during development remains elusive. In pursuit of the structure of psychopathology and its underlying neurobiological mechanisms, mapping of both shared and unique functional connectivity patterns across developmental clinical populations is needed.\n\nMethods\nWe..."]
+      },
+      {
+        "title": "Linking brain maturation and puberty during early adolescence using longitudinal brain age prediction in the ABCD cohort",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Madelene C Holm", "Esten H Leonardsen", "Dani Beck", "Lars T Westlye"],
+        "abstract": ["The temporal characteristics of adolescent neurodevelopment are shaped by a complex interplay of genetic, biological, and environmental factors. Using a large longitudinal dataset of children aged 9-13 from the Adolescent Brain Cognitive Development (ABCD) study we tested the associations between pubertal status and brain maturation. Brain maturati..."]
+      },
+      {
+        "title": "Shared pattern of impaired social communication and cognitive ability in the youth brain across diagnostic boundaries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Irene Voldsbekk", "Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs"],
+        "abstract": ["Background: \nAbnormalities in brain structure are shared across diagnostic categories. Given the high rate of comorbidity, the interplay of relevant behavioural factors may also cross these classic boundaries.\n\nMethods: \nWe aimed to detect brain-based dimensions of behavioural factors using canonical correlation and independent component analysis i..."]
+      },
+      {
+        "title": "Deviations from normative brain white and gray matter structure are associated with psychopathology in youth",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnaes", "Lars T Westlye"],
+        "abstract": ["Combining imaging modalities and metrics that are sensitive to various aspects of brain structure and maturation may help identify individuals that show deviations in relation to same-aged peers, and thus benefit early-risk-assessment for mental disorders. We used one timepoint multimodal brain imaging, cognitive, and questionnaire data from 1280 e..."]
+      },
+      {
+        "title": "Associations between brain imaging and polygenic scores of mental health and educational attainment in children aged 9-11",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Sara Fernandez-Cabello", "Dag Alnæs", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Psychiatric disorders are highly heritable and polygenic, and many have their peak onset in late childhood and adolescence, a period of tremendous changes. Although the neurodevelopmental antecedents of mental illness are widely acknowledged, research in youth population cohorts is still scarce, preventing our progress towards the early characteriz..."]
+      },
+      {
+        "title": "Deviations from normative brain white and gray matter structure are associated with psychopathology in youth",
+        "tags": ["Preprint"],
+        "date": "Aug 2022",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["Combining imaging modalities and metrics that are sensitive to various aspects of brain structure and maturation may help identify individuals that show deviations in relation to same-aged peers, and thus benefit early-risk-assessment for mental disorders. We used one timepoint multimodal brain imaging, cognitive, and questionnaire data from 1280 8..."]
+      },
+      {
+        "title": "Traces of impaired social communication and cognitive performance across diagnostic boundaries in the brain of children and adolescents",
+        "tags": ["Preprint"],
+        "date": "Jun 2022",
+        "authors": ["Irene Voldsbekk", "Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs"],
+        "abstract": ["Background: Despite longstanding effort, psychopathology etiology remains elusive. Identification of shared and distinct traits across clinical groups may illuminate the structure of psychopathology. A multitude of factors is likely involved; however, most studies have investigated one or a few factors at a time. Methods: In a clinical youth sample..."]
+      },
+      {
+        "title": "Linking brain maturation and puberty during early adolescence using longitudinal brain age prediction in the ABCD cohort",
+        "tags": ["Preprint"],
+        "date": "May 2022",
+        "authors": ["Madelene C. Holm", "Esten H. Leonardsen", "Dani Beck", "Lars T. Westlye"],
+        "abstract": ["The temporal characteristics of brain maturation could potentially represent a mediating effect between pubertal development and life outcomes. Using a large longitudinal dataset of children aged 9-12 from the Adolescent Brain Cognitive Development (ABCD) study we tested the associations between pubertal status and brain maturation. Brain maturatio..."]
+      },
+      {
+        "title": "P403. Mapping Normative Trajectories of Cognitive Function and its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnaes", "Lars Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic and phenotypic associations between brain imaging, psychopathology and educational attainment in children aged 9-11",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Sara Fernandez-Cabello", "Dag Alnas", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Background\nPsychiatric disorders are highly heritable and polygenic, and many have their peak onset in late childhood and adolescence, a period of tremendous changes. Although the neurodevelopmental antecedents of mental illness are widely acknowledged, research in youth population cohorts is still scarce, preventing our progress towards the early..."]
+      },
+      {
+        "title": "Mapping Normative Trajectories of Cognitive Function and Its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["Background\nAdolescence hosts a sharp increase in the incidence of mental disorders. The prodromal phases are often characterized by cognitive deficits which predate disease onset by several years. Characterization of cognitive performance in relation to normative trajectories may have value for early risk assessment and monitoring.\n\nMethods\nYouth a..."]
+      },
+      {
+        "title": "Computational modeling of the N-Back task in the ABCD study: associations of drift diffusion model parameters to polygenic scores of mental disorders and cardiometabolic diseases",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Mads Lund Pedersen", "Dag Alnæs", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Background. Cognitive dysfunction is common in mental disorders and represents a potential risk factor in childhood. The nature and extent of associations between childhood cognitive function and polygenic risk for mental disorders is unclear. We applied computational modeling to gain insight into mechanistic processes underlying decision making an..."]
+      },
+      {
+        "title": "Mapping normative trajectories of cognitive function and its relation to psychopathology symptoms and genetic risk in youth",
+        "tags": ["Preprint"],
+        "date": "Oct 2021",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["Background. Adolescence hosts a sharp increase in the incidence of mental disorders. The prodromal phases are often characterized by cognitive deficits which predate disease onset by several years. Characterization of cognitive performance in relation to normative trajectories may have value for early risk assessment and monitoring. Methods. Youth..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Psychology"],
+    "bio": [],
+    "publications": [17],
+    "reads": [1363],
+    "citations": [52]
   }
 }

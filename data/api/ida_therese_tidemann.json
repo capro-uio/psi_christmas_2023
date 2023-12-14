@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-6304-1553",
-    "name": "Ida Tidemann",
+    "orcid": ["0000-0001-6304-1553"],
+    "name": ["Ida Tidemann"],
     "distinctions": [],
     "education": [
       {
@@ -33,8 +33,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ida Therese Tidemann",
-    "id": "405560",
+    "name": ["Ida Therese Tidemann"],
+    "id": ["405560"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
@@ -61,5 +61,15 @@
         "url": "https://api.cristin.no/v2/results/1551867"
       }
     ]
+  },
+  "rg": {
+    "id": "Ida-Hoevik",
+    "name": "Ida Therese Prestegaard Hoevik",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281110851969-1672762696160_Q128/Ida-Hoevik.jpg",
+    "affiliation": "Yonsei University, Underwood Division",
+    "keywords": ["International Politics", "Diplomacy", "International Relations Theory", "Global Studies", "Global Governance", "International Communication", "International Affairs", "IR Theory", "Cultural Diplomacy"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

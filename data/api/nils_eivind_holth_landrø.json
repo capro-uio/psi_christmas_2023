@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Nils Inge Landrø",
-    "id": "P7E4VKYAAAAJ",
-    "affiliation": "Professor i Nevropsykology ved Universitetet i Oslo",
+    "name": ["Nils Inge Landrø"],
+    "id": ["P7E4VKYAAAAJ"],
+    "affiliation": ["Professor i Nevropsykology ved Universitetet i Oslo"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-0354-5148",
-    "name": "Nils Inge Landrø",
+    "orcid": ["0000-0003-0354-5148"],
+    "name": ["Nils Inge Landrø"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -939,11 +939,88 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Nils Eivind Holth Landrø",
-    "id": "1021947",
+    "name": ["Nils Eivind Holth Landrø"],
+    "id": ["1021947"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Nils-Kamfjord",
+    "name": "Nils Eivind Kamfjord",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Elkem AS, Elkem Silicon Materials",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Energy Recovery at Elkem Salten. An Important Step in Emission Reductions and Improved Environmental Standard",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Nils Eivind Kamfjord", "Håkon Delbeck", "Over Sørdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Energy and exergy analysis of the silicon production process",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Marit Takla Børset", "Nils Eivind Kamfjord", "Halvard Tveit", "Signe Kjelstrup"],
+        "abstract": []
+      },
+      {
+        "title": "Mechanisms and Kinetics of Liquid Silicon Oxidation During Industrial Refining",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Mari K. Næss", "Gabriella Tranell", "Jan Erik Olsen", "Kai Tang"],
+        "abstract": ["During oxidative ladle refining (OLR) of silicon, the metal surface is partly oxidized, resulting in the formation of a condensed silica fume (SiO2). This fugitive emission of silica represents a potential health hazard to the workers in the silicon and ferrosilicon industry. In the current work, industrial measurement campaigns aimed at recording..."]
+      },
+      {
+        "title": "NOx Emissions from Silicon Production",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Edin Henrik Myrhaug", "Halvard Tveit", "Nils Eivind Kamfjord", "Åslaug Grøvlen"],
+        "abstract": ["The Norwegian silicon alloy smelters occupy 6 out of top 10 positions on the list of Norwegian land-based industrial single NOx sources. The paper describes the basics of NOx emissions from silicon production, with an overview of NOx formation principles, NOx measurements and a description of parameters affecting the magnitude of NOx emission."]
+      },
+      {
+        "title": "Equipment for Pilot Scale Experiments of NOx Emissions from the Silicon Process",
+        "tags": ["Chapter"],
+        "date": "May 2012",
+        "authors": ["I. Solheim", "Roar Jensen", "Nils Eivind Kamfjord"],
+        "abstract": []
+      },
+      {
+        "title": "Mechanisms of NO Formation during SiO Combustion",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Nils Eivind Kamfjord", "Halvard Tveit", "Mari K. Næss", "Edin H. Myrhaug"],
+        "abstract": ["As a part of the FUME research programme being done by the Norwegian Ferroalloy Research Association (FFF), the SINTEF Group and NTNU, several measurements towards quantifying the gaseous and solid emissions from the draining of the silicon furnaces for metal have been carried out. Based on the measured size distribution of the formed fume particle..."]
+      },
+      {
+        "title": "Pilot Scale Measurements of NO Emissions from the Silicon Process",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Nils Eivind Kamfjord", "Halvard Tveit", "I. Solheim"],
+        "abstract": ["Because of its negative environmental effect the attention towards NO emissions increases. This again leads to new demands from the authorities for better surveillance and control of emissions. Earlier and recent industrial measurements towards FeSi- and Si-metal furnaces reveal quite high NO-emission. The NO is believed to be produced in the combu..."]
+      },
+      {
+        "title": "Fugitive Emissions Related to Oxidation of Liquid Silicon during Ladle Refining",
+        "tags": ["Chapter"],
+        "date": "Apr 2011",
+        "authors": ["Mari K. Næss", "Gabriella Tranell", "Nils Eivind Kamfjord"],
+        "abstract": ["In oxidative ladle refining (OLR) of silicon, the metal surface is oxidized resulting in the formation of a condensed silica fume (SiO2). In the current work, industrial measurement campaigns were performed aiming to measure the fume generation during OLR. A thorough discussion of the possible mechanisms has been included in order to improve our un..."]
+      },
+      {
+        "title": "Energy balance of a 45 MW (ferro-) silicon submerged arc furnace",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Nils Eivind Kamfjord", "E.H. Myrhaug", "Halvard Tveit", "Bernd Wittgens"],
+        "abstract": ["As a part of the FUME research programme that is being done by the Norwegian Ferroalloy Research Association (FFF), the SINTEF Group and NTNU (Norwegian University of Science and Technology), an energy balance for a 45 MW (ferro-) silicon submerged arc furnace have been made. The energy content and dynamics in and out of the process have been measu..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [9],
+    "reads": [12142],
+    "citations": [112]
   }
 }

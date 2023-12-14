@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1899-9858",
-    "name": "Arvid Haugen",
+    "orcid": ["0000-0002-1899-9858"],
+    "name": ["Arvid Haugen"],
     "distinctions": [],
     "education": [
       {
@@ -234,11 +234,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Linda Josefine Aas Haugen",
-    "id": "1186249",
+    "name": ["Linda Josefine Aas Haugen"],
+    "id": ["1186249"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Ruder-Josefine",
+    "name": "Ruder Josefine",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Zurich | UZH, University of Zurich, Klinik und Poliklinik für Innere Medizin",
+    "keywords": ["Neuropathology", "Neurodegenerative Diseases", "Movement Disorders"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

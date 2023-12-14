@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Rosa Cheesman",
-    "id": "WHaogWMAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Rosa Cheesman"],
+    "id": ["WHaogWMAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -798,8 +798,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-3501-9540",
-    "name": "Catherine Gillespie",
+    "orcid": ["0000-0002-3501-9540"],
+    "name": ["Catherine Gillespie"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -810,8 +810,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Rosa Catherine Gillespie Cheesman",
-    "id": "1261943",
+    "name": ["Rosa Catherine Gillespie Cheesman"],
+    "id": ["1261943"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -1395,5 +1395,15 @@
         "url": "https://api.cristin.no/v2/results/1741248"
       }
     ]
+  },
+  "rg": {
+    "id": "Catherine_Gillespie3",
+    "name": "Catherine Gillespie",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of North Carolina at Greensboro | UNCG, University of North Carolina at Greensboro",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

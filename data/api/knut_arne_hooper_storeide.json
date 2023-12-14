@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2903-0284",
-    "name": "Knut Arne Hooper Storeide",
+    "orcid": ["0000-0002-2903-0284"],
+    "name": ["Knut Arne Hooper Storeide"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Knut Arne Hooper Storeide",
-    "id": "1525275",
+    "name": ["Knut Arne Hooper Storeide"],
+    "id": ["1525275"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -32,5 +32,15 @@
         "url": "https://api.cristin.no/v2/results/2097932"
       }
     ]
+  },
+  "rg": {
+    "id": "Brevig_Knut_Arne",
+    "name": "Brevig Knut Arne",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Jinrui Liu",
-    "id": "0ZE7PKQAAAAJ",
-    "affiliation": "Institute of Geology, China Earthquake Administration",
+    "name": ["Jinrui Liu"],
+    "id": ["0ZE7PKQAAAAJ"],
+    "affiliation": ["Institute of Geology, China Earthquake Administration"],
     "data": {
       "publications": [
         {
@@ -295,8 +295,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-4667-883X",
-    "name": "jinrui liu",
+    "orcid": ["0000-0003-4667-883X"],
+    "name": ["jinrui liu"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -307,11 +307,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jinrui Liu",
-    "id": "1560115",
+    "name": ["Jinrui Liu"],
+    "id": ["1560115"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Jinrui_Liu4",
+    "name": "Jinrui Liu",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of East Anglia | UEA, University of East Anglia, School of Environmental Sciences",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

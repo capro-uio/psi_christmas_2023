@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Siri Hausland Folstad",
-    "id": "Go8aP54AAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Siri Hausland Folstad"],
+    "id": ["Go8aP54AAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -102,8 +102,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-8008-5961",
-    "name": "Siri Hausland Folstad",
+    "orcid": ["0000-0001-8008-5961"],
+    "name": ["Siri Hausland Folstad"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -131,8 +131,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Siri Hausland Folstad",
-    "id": "1255039",
+    "name": ["Siri Hausland Folstad"],
+    "id": ["1255039"],
     "keywords": [],
     "position": ["Research fellow", "Academic assistant"],
     "img": {},
@@ -213,16 +213,37 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Evaluation of the physical health of adolescent in-patients in generic and secure services: retrospective case-note review",
-        "journal": "BJPsych bulletin",
-        "url": "https://api.cristin.no/v2/results/1903008"
+        "url": "https://api.cristin.no/v2/results/1903008",
+        "journal": "BJPsych bulletin"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "‘The Button Question’: A mixed-methods study of whether patients want to keep or remove bipolar disorder and the reasons for their decision",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/1903004"
+        "url": "https://api.cristin.no/v2/results/1903004",
+        "journal": "Journal of Affective Disorders"
       }
     ]
+  },
+  "rg": {
+    "id": "Pasupula-Siri",
+    "name": "Pasupula Siri",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Vasavi College of Engineering, Department of Electrical and Electronics Engineering",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Fighting for market power",
+        "tags": ["Chapter"],
+        "date": "Jan 2022",
+        "authors": ["Pasupula Siri"],
+        "abstract": "This chapter analyzes three aspects of developments in Norwegian aviation from an industrial economics perspective. It took four years after easing the hub airport's capacity problems before deregulation significantly affected competition. Next the market structure went from a stable duopoly, via capacity competition with an entrant, to an unstable..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [13],
+    "citations": [0]
   }
 }

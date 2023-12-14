@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-1455-5368",
-    "name": "Sarjo Kuyateh",
+    "orcid": ["0000-0003-1455-5368"],
+    "name": ["Sarjo Kuyateh"],
     "distinctions": [],
     "education": [
       {
@@ -11,11 +11,11 @@
         "country": "NO"
       },
       {
-        "start": "2015",
-        "end": "2018",
         "position": "Research Assistant",
         "organisation": "University of Tromsø - The Arctic University of Norway",
-        "country": "NO"
+        "country": "NO",
+        "start": "2015",
+        "end": "2018"
       }
     ],
     "employment": [
@@ -25,11 +25,11 @@
         "country": "NO"
       },
       {
-        "start": "2015",
-        "end": "2018",
         "position": "Research Assistant",
         "organisation": "University of Tromsø - The Arctic University of Norway",
-        "country": "NO"
+        "country": "NO",
+        "start": "2015",
+        "end": "2018"
       }
     ],
     "membership": [],
@@ -44,8 +44,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Sarjo Kuyateh",
-    "id": "1178427",
+    "name": ["Sarjo Kuyateh"],
+    "id": ["1178427"],
     "keywords": [],
     "position": ["Academic assistant", "Academic assistant"],
     "img": {},
@@ -65,5 +65,40 @@
         "url": "https://api.cristin.no/v2/results/1935156"
       }
     ]
+  },
+  "rg": {
+    "id": "Sarjo-Kuyateh",
+    "name": "Sarjo Kuyateh",
+    "img": "https://i1.rgstatic.net/ii/profile.image/934581477838863-1599832996511_Q128/Sarjo-Kuyateh.jpg",
+    "affiliation": "UiT The Arctic University of Norway",
+    "keywords": ["Learning", "Pedagogy and Education", "Teaching and Learning", "Curriculum Development", "Cognitive Neuropsychology", "Cognitive Neuroscience", "Neuroimaging", "Memory", "Neurodegenerative Diseases", "Learning and Memory"],
+    "works": [
+      {
+        "title": "Substituting facial movements in singers changes the sounds of musical intervals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Bruno Laeng", "Sarjo Kuyateh", "Tejaswinee Kelkar"],
+        "abstract": "Cross-modal integration is ubiquitous within perception and, in humans, the McGurk effect demonstrates that seeing a person articulating speech can change what we hear into a new auditory percept. It remains unclear whether cross-modal integration of sight and sound generalizes to other visible vocal articulations like those made by singers. We sur..."
+      },
+      {
+        "title": "Transcranial Direct Current Stimulation above the Medial Prefrontal Cortex Facilitates Decision-Making following Periods of Low Outcome Controllability",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Gabor Csifcsak", "Jorunn Bjørkøy", "Sarjo Kuyateh", "Matthias Mittner"],
+        "abstract": "Recent studies suggest that choice behavior in reinforcement learning tasks is shaped by the level of outcome controllability. In particular, Pavlovian bias (PB) seems to be enhanced under low levels of control, manifesting in approach tendencies toward rewards and response inhibition when facing potential losses. The medial prefrontal cortex (mPFC..."
+      },
+      {
+        "title": "Transcranial direct current stimulation above the medial prefrontal cortex counteracts the effects of diminished outcome controllability during reinforcement learning",
+        "tags": ["Preprint"],
+        "date": "Aug 2020",
+        "authors": ["Gabor Csifcsak", "Matthias Mittner", "Jorunn Bjørkøy", "Haakon Reithe"],
+        "abstract": "Background: The arbitration between decision-making strategies is shaped by the degree of controllability over environmental events. Under low control, individuals might rely more heavily on Pavlovian bias (PB), which facilitates and inhibits actions when facing appetitive and aversive cues, respectively. More recently, extreme PB was implicated in..."
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": [],
+    "publications": [3],
+    "reads": [186],
+    "citations": [8]
   }
 }

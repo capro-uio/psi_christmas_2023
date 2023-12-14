@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2102-6838",
-    "name": "Anette Åbom",
+    "orcid": ["0000-0002-2102-6838"],
+    "name": ["Anette Åbom"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,66 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anette Karin Åbom",
-    "id": "1448432",
+    "name": ["Anette Karin Åbom"],
+    "id": ["1448432"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Ditzen-Anette",
+    "name": "Ditzen Anette",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "ChristianAlbrechtsUniversität zu Kiel | CAU, ChristianAlbrechtsUniversität zu Kiel, Schwerpunkt Infektiologie",
+    "keywords": ["Antibiotics", "Antibiotic Resistance", "MRSA", "Methicillin Resistance", "Staphylococcus Aureus", "Antibiotic stewardship"],
+    "works": [
+      {
+        "title": "Detection of herpesviruses and adenovirus co-infections in patients undergoing allogeneic stem cell transplantation with a diagnostic DNA-microarray",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2008",
+        "authors": ["Ditzen Anette", "A. Rutzka", "M. Stichling", "Jacques Rohayem"],
+        "abstract": []
+      },
+      {
+        "title": "Disseminated cutaneous and pulmonary abscesses in an injecting drug user caused by a Panton-Valentine leucocidin-positive, methicillin-susceptible Staphylococcus aureus strain",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Ditzen Anette", "Ralf Ehricht", "Stefan Monecke"],
+        "abstract": ["Staphylococcus aureus is an important pathogen in injecting drug users. We illustrate this with a case of a young female patient who was admitted with multiple cutaneous and pulmonary abscesses. The causative strain was characterised using diagnostic microarrays. Genes encoding Panton-Valentine leucocidin (PVL) were detected, mecA was absent. The o..."]
+      },
+      {
+        "title": "Study of the relative abundance of Candida species under increasing application of the newer antifungal drugs voriconazole and caspofungin at the University Hospital of Dresden between 2002 and 2006",
+        "tags": ["Article"],
+        "date": "Sep 2007",
+        "authors": ["K. Hochauf", "K. Strietzel", "Christoph Pöhlmann", "E. Jacobs"],
+        "abstract": []
+      },
+      {
+        "title": "Haemophilus influenzae",
+        "tags": ["Article"],
+        "date": "Aug 2006",
+        "authors": ["Ditzen Anette", "P Spornraft-Ragaller"],
+        "abstract": ["A resurgence in the incidence of sexually transmitted diseases (STD) has occurred in Germany over the past ten years. Along with the classical STD such as syphilis and gonorrhea, new and as yet atypical organisms such as shigella or hepatitis A virus play a role in high-risk patients. We report a case of urethritis caused by H. influenzae Biotype I..."]
+      },
+      {
+        "title": "Haemophilus influenzae: Relevanter Erreger für Harnwegsinfektionen?",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Ditzen Anette", "P. Spornraft-Ragaller"],
+        "abstract": ["Die Zahl der sexuell übertragbaren Erkrankungen (STD) hat seit Ende der 90er-Jahre in Deutschland kontinuierlich zugenommen. Neben den ,,Klassikern“ wie Syphilis und Gonorrhö spielen aber auch bisher untypische STD-Erreger, wie z. B. Shigellen oder Hepatitis-A-Viren, bei Risikopatienten zunehmend eine Rolle. Wir berichten von einem HIV-Patienten mi..."]
+      },
+      {
+        "title": "The syphilis-HIV interdependency",
+        "tags": ["Article"],
+        "date": "Oct 2005",
+        "authors": ["Ditzen Anette", "Kai Braker", "K H Zoellner", "D Teichmann"],
+        "abstract": ["Resurgence in the incidence of HIV and syphilis infections has been reported from all Western European Countries and the USA during the past years, the majority of them in men who have sex with men. The attitude among HIV-positive patients towards the application of preventive measures is changing in comparison to the time immediately after the det..."]
+      }
+    ],
+    "degree": [null],
+    "publications": [6],
+    "reads": [114],
+    "citations": [19]
   }
 }

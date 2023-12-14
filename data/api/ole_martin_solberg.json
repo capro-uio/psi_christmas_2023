@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-9011-2780",
-    "name": "Ole Martin Solberg",
+    "orcid": ["0000-0002-9011-2780"],
+    "name": ["Ole Martin Solberg"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ole Martin Solberg",
-    "id": "1590129",
+    "name": ["Ole Martin Solberg"],
+    "id": ["1590129"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Ole-Martin-Solberg",
+    "name": "Ole Martin Solberg",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

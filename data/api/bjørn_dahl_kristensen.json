@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Bjørn Ralf Kristensen",
-    "id": "4exuYQQAAAAJ",
-    "affiliation": "Doctoral Student, Environmental Studies Program, University of Oregon",
+    "name": ["Bjørn Ralf Kristensen"],
+    "id": ["4exuYQQAAAAJ"],
+    "affiliation": ["Doctoral Student, Environmental Studies Program, University of Oregon"],
     "data": {
       "publications": [
         {
@@ -126,8 +126,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1271-0934",
-    "name": "Kasper Dahl Kristensen",
+    "orcid": ["0000-0003-1271-0934"],
+    "name": ["Kasper Dahl Kristensen"],
     "distinctions": [],
     "education": [
       {
@@ -138,10 +138,10 @@
       },
       {
         "start": "2013",
-        "end": "2016",
         "position": "Reasearcher",
         "organisation": "Specialist Oral Health Center for Western Norway, Rogaland",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "employment": [
@@ -153,10 +153,10 @@
       },
       {
         "start": "2013",
-        "end": "2016",
         "position": "Reasearcher",
         "organisation": "Specialist Oral Health Center for Western Norway, Rogaland",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "membership": [],
@@ -357,8 +357,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Bjørn Dahl Kristensen",
-    "id": "1231337",
+    "name": ["Bjørn Dahl Kristensen"],
+    "id": ["1231337"],
     "keywords": [],
     "position": ["Researcher"],
     "img": {},
@@ -371,5 +371,25 @@
         "url": "https://api.cristin.no/v2/results/2176667"
       }
     ]
+  },
+  "rg": {
+    "id": "Bjorn-Kristensen-2",
+    "name": "Bjørn Dahl Kristensen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1176585872900096-1657531340050_Q128/Bjorn-Kristensen-2.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "No single notion of cooperation explains when we respect ownership",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Erik Kjos Fonn", "Joakim Haugane Zahl", "Bjørn Dahl Kristensen", "Lotte Thomsen"],
+        "abstract": "Cooperation is fundamentally moderated by the form of relationship between the actors involved, as is normative resource distribution. We argue that possessions are likely treated differently across different types of cooperative relationships. Whereas Boyer's computational model might in principle account for this, the theory would benefit from a..."
+      }
+    ],
+    "degree": ["Cand.", "Psych."],
+    "publication": [1],
+    "reads": [61],
+    "citations": [0]
   }
 }

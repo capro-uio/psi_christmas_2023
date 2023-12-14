@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-7533-0627",
-    "name": "Martin von Arx",
+    "orcid": ["0000-0001-7533-0627"],
+    "name": ["Martin von Arx"],
     "distinctions": [],
     "education": [
       {
@@ -13,38 +13,38 @@
       },
       {
         "start": "2015",
-        "end": "2022",
         "position": "Scientific Officer",
         "organisation": "Swiss National Science Foundation",
-        "country": "CH"
+        "country": "CH",
+        "end": "2022"
       },
       {
         "start": "2014",
-        "end": "2015",
         "position": "Postdotoral Associate",
         "organisation": "University of Zurich",
-        "country": "CH"
+        "country": "CH",
+        "end": "2015"
       },
       {
         "start": "2012",
-        "end": "2014",
         "position": "Postdoctoral Associate",
         "organisation": "University of Arizona",
-        "country": "US"
+        "country": "US",
+        "end": "2014"
       },
       {
         "start": "2009",
-        "end": "2011",
         "position": "Postdoctoral Associate",
         "organisation": "Cornell University",
-        "country": "US"
+        "country": "US",
+        "end": "2011"
       },
       {
         "start": "2004",
-        "end": "2005",
         "position": "Research Assistant",
         "organisation": "Swiss Federal Institute for Forest, Snow and Landscape Research",
-        "country": "CH"
+        "country": "CH",
+        "end": "2005"
       }
     ],
     "employment": [
@@ -56,38 +56,38 @@
       },
       {
         "start": "2015",
-        "end": "2022",
         "position": "Scientific Officer",
         "organisation": "Swiss National Science Foundation",
-        "country": "CH"
+        "country": "CH",
+        "end": "2022"
       },
       {
         "start": "2014",
-        "end": "2015",
         "position": "Postdotoral Associate",
         "organisation": "University of Zurich",
-        "country": "CH"
+        "country": "CH",
+        "end": "2015"
       },
       {
         "start": "2012",
-        "end": "2014",
         "position": "Postdoctoral Associate",
         "organisation": "University of Arizona",
-        "country": "US"
+        "country": "US",
+        "end": "2014"
       },
       {
         "start": "2009",
-        "end": "2011",
         "position": "Postdoctoral Associate",
         "organisation": "Cornell University",
-        "country": "US"
+        "country": "US",
+        "end": "2011"
       },
       {
         "start": "2004",
-        "end": "2005",
         "position": "Research Assistant",
         "organisation": "Swiss Federal Institute for Forest, Snow and Landscape Research",
-        "country": "CH"
+        "country": "CH",
+        "end": "2005"
       }
     ],
     "membership": [],
@@ -105,8 +105,8 @@
       {
         "type": "journal-article",
         "title": "Floral Odors Can Interfere With the Foraging Behavior of Parasitoids Searching for Hosts",
-        "journal": "Frontiers in Ecology and Evolution",
-        "url": "http://dx.doi.org/10.3389/fevo.2020.00148"
+        "url": "http://dx.doi.org/10.3389/fevo.2020.00148",
+        "journal": "Frontiers in Ecology and Evolution"
       },
       {
         "type": "data-set",
@@ -126,62 +126,62 @@
       {
         "type": "journal-article",
         "title": "The Combined Use of an Attractive and a Repellent Sex Pheromonal Component by a Gregarious Parasitoid",
-        "journal": "Journal of Chemical Ecology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85064211783&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85064211783&partnerID=MN8TOARS",
+        "journal": "Journal of Chemical Ecology"
       },
       {
         "type": "journal-article",
         "title": "Diel rhythms and sex differences in the locomotor activity of hawkmoths",
-        "journal": "Journal of Experimental Biology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85018558161&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85018558161&partnerID=MN8TOARS",
+        "journal": "Journal of Experimental Biology"
       },
       {
         "type": "journal-article",
         "title": "Dual fitness benefits of post-mating sugar meals for female hawkmoths (Hyles lineata)",
-        "journal": "Journal of Insect Physiology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84875081443&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84875081443&partnerID=MN8TOARS",
+        "journal": "Journal of Insect Physiology"
       },
       {
         "type": "journal-article",
         "title": "Floral humidity and other indicators of energy rewards in pollination biology",
-        "journal": "Communicative and Integrative Biology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84875062853&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84875062853&partnerID=MN8TOARS",
+        "journal": "Communicative and Integrative Biology"
       },
       {
         "type": "journal-article",
         "title": "The effect of ambient humidity on the foraging behavior of the hawkmoth Manduca sexta",
-        "journal": "Journal of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84885955167&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84885955167&partnerID=MN8TOARS",
+        "journal": "Journal of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology"
       },
       {
         "type": "journal-article",
         "title": "Floral humidity as a reliable sensory cue for profitability assessment by nectar-foraging hawkmoths",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84862174774&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84862174774&partnerID=MN8TOARS",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "journal-article",
         "title": "Plant Volatiles Enhance Behavioral Responses of Grapevine Moth Males, Lobesia botrana to Sex Pheromone",
-        "journal": "Journal of Chemical Ecology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84857787973&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84857787973&partnerID=MN8TOARS",
+        "journal": "Journal of Chemical Ecology"
       },
       {
         "type": "journal-article",
         "title": "Host plant volatiles induce oriented flight behaviour in male European grapevine moths, Lobesia botrana",
-        "journal": "Journal of Insect Physiology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-80052484569&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-80052484569&partnerID=MN8TOARS",
+        "journal": "Journal of Insect Physiology"
       },
       {
         "type": "journal-article",
         "title": "Identification of host-plant chemical stimuli for the European grape berry moth Eupoecilia ambiguella",
-        "journal": "Physiological Entomology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-79955875546&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-79955875546&partnerID=MN8TOARS",
+        "journal": "Physiological Entomology"
       },
       {
         "type": "journal-article",
         "title": "Host plant volatiles serve to increase the response of male European grape berry moths, eupoecilia ambiguella, to their sex pheromone",
-        "journal": "Journal of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-69849113858&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-69849113858&partnerID=MN8TOARS",
+        "journal": "Journal of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology"
       }
     ],
     "services": [],
@@ -189,11 +189,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Tilmann Martin von Soest",
-    "id": "12829",
+    "name": ["Tilmann Martin von Soest"],
+    "id": ["12829"],
     "keywords": ["Youth", "Psykisk helse", "Young i Norway Survey"],
     "position": ["Professor", "Professor", "Researcher", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/12829/picture",
+    "img": ["https://api.cristin.no/v2/persons/12829/picture"],
     "works": [
       {
         "type": "Interview",
@@ -208,113 +208,113 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2206593",
         "title": "Childhood personality and academic performance: A sibling fixed-effects study",
-        "journal": "Journal of Personality",
-        "url": "https://api.cristin.no/v2/results/2206593"
+        "journal": "Journal of Personality"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2201362",
         "title": "Assessing the longitudinal associations between decision-making processes and attention problems in early adolescence",
-        "journal": "Research on Child and Adolescent Psychopathology",
-        "url": "https://api.cristin.no/v2/results/2201362"
+        "journal": "Research on Child and Adolescent Psychopathology"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2201168",
         "title": "Childbirth-related posttraumatic stress symptoms – examining associations with hair endocannabinoid concentrations during pregnancy and lifetime trauma",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2201168"
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Measuring Autism-Associated Traits in the General Population: Factor Structure and Measurement Invariance across Sex and Diagnostic  Status in the Social Communication Questionnaire",
-        "url": "https://api.cristin.no/v2/results/2185816"
+        "url": "https://api.cristin.no/v2/results/2185816",
+        "title": "Measuring Autism-Associated Traits in the General Population: Factor Structure and Measurement Invariance across Sex and Diagnostic  Status in the Social Communication Questionnaire"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2182426",
         "title": "The prospective reciprocal associations between smoking and depressive symptoms over three decades: A Random Intercept Cross-lagged Panel Model",
-        "journal": "Tobacco Prevention & Cessation",
-        "url": "https://api.cristin.no/v2/results/2182426"
+        "journal": "Tobacco Prevention & Cessation"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2182345",
         "title": "Do Municipal Contexts Matter for Adolescent Mental Health? A Within-Municipality Analysis of Nationwide Norwegian Survey Data Across Six Years",
-        "journal": "Research on Child and Adolescent Psychopathology",
-        "url": "https://api.cristin.no/v2/results/2182345"
+        "journal": "Research on Child and Adolescent Psychopathology"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2181352",
         "title": "Within-Person Prospective Associations Between Disordered Eating, Appearance Dissatisfaction, and Depressive Symptoms From Adolescence to Midlife: A 28-Year Longitudinal Population-Based Study",
-        "journal": "Journal of Psychopathology and Clinical Science",
-        "url": "https://api.cristin.no/v2/results/2181352"
+        "journal": "Journal of Psychopathology and Clinical Science"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2181253",
         "title": "Psychosocial well-being before, during and after the COVID-19 pandemic: a nationwide study of more than half a million Norwegian adolescents",
-        "journal": "Nature Mental Health",
-        "url": "https://api.cristin.no/v2/results/2181253"
+        "journal": "Nature Mental Health"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2178857",
         "title": "Increased nationwide use of green spaces in Norway during the COVID-19 pandemic",
-        "journal": "Environment International",
-        "url": "https://api.cristin.no/v2/results/2178857"
+        "journal": "Environment International"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2178823",
         "title": "Predicting suicide attempts among Norwegian adolescents without using suicide-related items: a machine learning approach",
-        "journal": "Frontiers in Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2178823"
+        "journal": "Frontiers in Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2176849",
         "title": "Development of prosocial behavior and inhibitory control in late childhood: A longitudinal exploration of sex differences and reciprocal relations",
-        "journal": "Child Development",
-        "url": "https://api.cristin.no/v2/results/2176849"
+        "journal": "Child Development"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2166378",
         "title": "Dyadic analyses on the prospective association between birth experience and parent-child-bonding: The role of postpartum depression, anxiety, and childbirth-related posttraumatic stress disorder",
-        "journal": "Journal of Anxiety Disorders",
-        "url": "https://api.cristin.no/v2/results/2166378"
+        "journal": "Journal of Anxiety Disorders"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2158284",
         "title": "Social problems and brain structure development following childhood mild traumatic brain injury",
-        "journal": "Cortex",
-        "url": "https://api.cristin.no/v2/results/2158284"
+        "journal": "Cortex"
       },
       {
         "type": "Errata",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2155592",
         "title": "Erratum to “Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents” [Dev. Cogn. Neurosci. 56C (2022) 101132] (Developmental Cognitive Neuroscience (2022) 56, (S1878929322000755), (10.1016/j.dcn.2022.101132))",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2155592"
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2154277",
         "title": "Puberty differentially predicts brain maturation in male and female youth: A longitudinal ABCD Study",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2154277"
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2148890",
         "title": "Sexual and Physical Victimization and Health Correlates Among Norwegian Adolescents",
-        "journal": "Archives of Sexual Behavior",
-        "url": "https://api.cristin.no/v2/results/2148890"
+        "journal": "Archives of Sexual Behavior"
       },
       {
         "type": "Interview",
@@ -324,16 +324,16 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2133719",
         "title": "Polysubstance use and its correlation with psychosocial and health risk behaviours among more than 95,000 Norwegian adolescents during the COVID-19 pandemic (January to May 2021): a latent profile analysis",
-        "journal": "The Lancet Regional Health - Europe",
-        "url": "https://api.cristin.no/v2/results/2133719"
+        "journal": "The Lancet Regional Health - Europe"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2123692",
         "title": "Explaining the Female Preponderance in Adolescent Depression—A Four-Wave Cohort Study",
-        "journal": "Research on Child and Adolescent Psychopathology",
-        "url": "https://api.cristin.no/v2/results/2123692"
+        "journal": "Research on Child and Adolescent Psychopathology"
       },
       {
         "type": "Interview",
@@ -343,16 +343,16 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2108569",
         "title": "Hair glucocorticoids during pregnancy in the context of trauma exposure and their predictive value for the development of childbirth-related posttraumatic stress disorder symptoms",
-        "journal": "Psychoneuroendocrinology",
-        "url": "https://api.cristin.no/v2/results/2108569"
+        "journal": "Psychoneuroendocrinology"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2098455",
         "title": "Self-esteem trajectories over three decades predict opposition to social equality in midlife",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "https://api.cristin.no/v2/results/2098455"
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "Interview",
@@ -372,8 +372,8 @@
       {
         "type": "Reader opinion piece",
         "year": "2022",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/2069675"
+        "url": "https://api.cristin.no/v2/results/2069675",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Programme participation",
@@ -383,8 +383,8 @@
       {
         "type": "Reader opinion piece",
         "year": "2022",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/2066341"
+        "url": "https://api.cristin.no/v2/results/2066341",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Interview",
@@ -394,9 +394,9 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2058364",
         "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2058364"
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Programme participation",
@@ -416,9 +416,9 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2049884",
         "title": "Adolescent and young adult drunkenness and future educational attainment and labour market integration: A population-based longitudinal study",
-        "journal": "Journal of Studies on Alcohol and Drugs",
-        "url": "https://api.cristin.no/v2/results/2049884"
+        "journal": "Journal of Studies on Alcohol and Drugs"
       },
       {
         "type": "Programme participation",
@@ -428,9 +428,9 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2046099",
         "title": "Prospective associations between loneliness and disordered eating from early adolescence to adulthood",
-        "journal": "International Journal of Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/2046099"
+        "journal": "International Journal of Eating Disorders"
       },
       {
         "type": "Interview",
@@ -440,9 +440,9 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2037760",
         "title": "Basic human values and sick leave: A study combining two-wave survey data with longitudinal register data",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/2037760"
+        "journal": "Scandinavian Journal of Psychology"
       },
       {
         "type": "Programme participation",
@@ -467,9 +467,9 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2017579",
         "title": "Cannabis and Tobacco Use Among Young People and Labor Market Outcomes in Midlife: A 23-Year Population-Based Longitudinal Study",
-        "journal": "Journal of Studies on Alcohol and Drugs",
-        "url": "https://api.cristin.no/v2/results/2017579"
+        "journal": "Journal of Studies on Alcohol and Drugs"
       },
       {
         "type": "Interview",
@@ -479,37 +479,37 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2013245",
         "title": "Worries About COVID-19 and Adolescents' Mental Health and Life Satisfaction: The Role of Sociodemographics and Social Support",
-        "journal": "Frontiers in pediatrics",
-        "url": "https://api.cristin.no/v2/results/2013245"
+        "journal": "Frontiers in pediatrics"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2007863",
         "title": "Posttraumatic growth during the COVID-19 lockdown: A large-scale population-based study among Norwegian adolescents",
-        "journal": "Journal of Traumatic Stress",
-        "url": "https://api.cristin.no/v2/results/2007863"
+        "journal": "Journal of Traumatic Stress"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2007862",
         "title": "An experience sampling study on the association between social media use and self-esteem",
-        "journal": "Journal of Media Psychology",
-        "url": "https://api.cristin.no/v2/results/2007862"
+        "journal": "Journal of Media Psychology"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/1988526",
         "title": "Adolescents’ psychosocial well-being one year after the outbreak of the COVID-19 pandemic in Norway",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/1988526"
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/1973958",
         "title": "Big five personality traits and physician-certified sickness absence",
-        "journal": "European Journal of Personality",
-        "url": "https://api.cristin.no/v2/results/1973958"
+        "journal": "European Journal of Personality"
       },
       {
         "type": "Academic lecture",
@@ -524,28 +524,28 @@
       {
         "type": "Feature article",
         "year": "2021",
-        "journal": "Aftenposten Viten",
-        "url": "https://api.cristin.no/v2/results/1949147"
+        "url": "https://api.cristin.no/v2/results/1949147",
+        "journal": "Aftenposten Viten"
       },
       {
         "type": "Feature article",
         "year": "2021",
-        "journal": "Fagsnakk fra Cappelen Damm",
-        "url": "https://api.cristin.no/v2/results/1948374"
+        "url": "https://api.cristin.no/v2/results/1948374",
+        "journal": "Fagsnakk fra Cappelen Damm"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1946605",
         "title": "Sexual victimization in the digital age: A population-based study of physical and image-based sexual abuse among adolescents",
-        "journal": "Archives of Sexual Behavior",
-        "url": "https://api.cristin.no/v2/results/1946605"
+        "journal": "Archives of Sexual Behavior"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1940976",
         "title": "Privileged background protects against drug charges: A long-term population-based longitudinal study  ",
-        "journal": "International journal of drug policy",
-        "url": "https://api.cristin.no/v2/results/1940976"
+        "journal": "International journal of drug policy"
       },
       {
         "type": "Interview",
@@ -555,8 +555,8 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "journal": "Tidsskrift for Den norske legeforening",
-        "url": "https://api.cristin.no/v2/results/1939391"
+        "url": "https://api.cristin.no/v2/results/1939391",
+        "journal": "Tidsskrift for Den norske legeforening"
       },
       {
         "type": "Interview",
@@ -581,30 +581,30 @@
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1926546",
         "title": "Differential predictors of birth-related posttraumatic stress disorder symptoms in mothers and fathers – A longitudinal cohort study",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/1926546"
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1925918",
         "title": "Severe recalled labor pain and elective cesarean section in a subsequent delivery: a cohort study of Norwegian parous women",
-        "journal": "Acta Obstetricia et Gynecologica Scandinavica",
-        "url": "https://api.cristin.no/v2/results/1925918"
+        "journal": "Acta Obstetricia et Gynecologica Scandinavica"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1925507",
         "title": "Examining Launch and Snare Effects in the Longitudinal Associations between Shyness and Socio-Emotional Difficulties in Childhood",
-        "journal": "Social Development",
-        "url": "https://api.cristin.no/v2/results/1925507"
+        "journal": "Social Development"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1899902",
         "title": "Smoking in early adulthood is prospectively associated with prescriptions of antipsychotics, mood stabilizers, antidepressants and anxiolytics",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/1899902"
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Interview",
@@ -614,14 +614,14 @@
       {
         "type": "Doctoral dissertation",
         "year": "2020",
-        "title": "Adolescent Physical Violence: Understanding Social Trends and Life Outcomes for Perpetrators",
-        "url": "https://api.cristin.no/v2/results/1913226"
+        "url": "https://api.cristin.no/v2/results/1913226",
+        "title": "Adolescent Physical Violence: Understanding Social Trends and Life Outcomes for Perpetrators"
       },
       {
         "type": "Popular scientific article",
         "year": "2020",
-        "journal": "Oslospeilet",
-        "url": "https://api.cristin.no/v2/results/1881260"
+        "url": "https://api.cristin.no/v2/results/1881260",
+        "journal": "Oslospeilet"
       },
       {
         "type": "Interview",
@@ -636,22 +636,22 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1843480",
         "title": "Adolescent income and binge drinking initiation: prospective evidence from the MyLife study",
-        "journal": "Addiction",
-        "url": "https://api.cristin.no/v2/results/1843480"
+        "journal": "Addiction"
       },
       {
         "type": "Feature article",
         "year": "2020",
-        "journal": "Aftenposten Viten",
-        "url": "https://api.cristin.no/v2/results/1840326"
+        "url": "https://api.cristin.no/v2/results/1840326",
+        "journal": "Aftenposten Viten"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1836600",
         "title": "Delinquency Abstainers in Adolescence and Educational and Labour Market Outcomes in Midlife: A Population-Based 25-year Longitudinal Study",
-        "journal": "Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/1836600"
+        "journal": "Developmental Psychology"
       },
       {
         "type": "Interview",
@@ -691,42 +691,42 @@
       {
         "type": "Feature article",
         "year": "2020",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/1833683"
+        "url": "https://api.cristin.no/v2/results/1833683",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1830947",
         "title": "Intelligence, alcohol consumption, and adverse consequences. A study of young Norwegian men",
-        "journal": "Scandinavian Journal of Public Health",
-        "url": "https://api.cristin.no/v2/results/1830947"
+        "journal": "Scandinavian Journal of Public Health"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1827499",
         "title": "The development of loneliness through adolescence and young adulthood: Its nature, correlates, and midlife outcomes",
-        "journal": "Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/1827499"
+        "journal": "Developmental Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1827497",
         "title": "Life satisfaction among adolescents before and during the COVID-19 pandemic",
-        "journal": "Tidsskrift for Den norske legeforening",
-        "url": "https://api.cristin.no/v2/results/1827497"
+        "journal": "Tidsskrift for Den norske legeforening"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1827496",
         "title": "Compliance with infection control rules among adolescents in Oslo during the COVID-19 pandemic",
-        "journal": "Tidsskrift for Den norske legeforening",
-        "url": "https://api.cristin.no/v2/results/1827496"
+        "journal": "Tidsskrift for Den norske legeforening"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1821987"
+        "url": "https://api.cristin.no/v2/results/1821987",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Report",
@@ -736,9 +736,9 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1815483",
         "title": "Physical Fighting and Leisure Activities among Norwegian Adolescents—Investigating Co-occurring Changes from 2015 to 2018",
-        "journal": "Journal of Youth and Adolescence",
-        "url": "https://api.cristin.no/v2/results/1815483"
+        "journal": "Journal of Youth and Adolescence"
       },
       {
         "type": "Lecture",
@@ -758,51 +758,525 @@
       {
         "type": "Abstract",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1784325",
         "title": "Does Facebook use make us lonely? A Norwegian experience sampling study",
-        "journal": "Scandinavian Journal of Public Health",
-        "url": "https://api.cristin.no/v2/results/1784325"
+        "journal": "Scandinavian Journal of Public Health"
       },
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1774671",
         "title": "Little in Norway: a prospective longitudinal community-based cohort from pregnancy to child age 18 months ",
-        "journal": "BMJ Open",
-        "url": "https://api.cristin.no/v2/results/1774671"
+        "journal": "BMJ Open"
       },
       {
         "type": "Abstract",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1763301",
         "title": "Posttraumatic stress symptoms following childbirth are associated with greater prenatal attachment in subsequent pregnancies",
-        "journal": "Journal of Reproductive and Infant Psychology",
-        "url": "https://api.cristin.no/v2/results/1763301"
+        "journal": "Journal of Reproductive and Infant Psychology"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "journal": "Norsk sosiologisk tidsskrift",
-        "url": "https://api.cristin.no/v2/results/1762816"
+        "url": "https://api.cristin.no/v2/results/1762816",
+        "journal": "Norsk sosiologisk tidsskrift"
       },
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1761388",
         "title": "Posttraumatic stress symptoms following childbirth: associations with prenatal attachment in subsequent pregnancies",
-        "journal": "Archives of Women's Mental Health",
-        "url": "https://api.cristin.no/v2/results/1761388"
+        "journal": "Archives of Women's Mental Health"
       },
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1747559",
         "title": "Cannabis use in early adulthood is prospectively associated with prescriptions of antipsychotics, mood stabilizers, and antidepressants",
-        "journal": "Acta Psychiatrica Scandinavica",
-        "url": "https://api.cristin.no/v2/results/1747559"
+        "journal": "Acta Psychiatrica Scandinavica"
       },
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1739086",
         "title": "Adolescent boys’ physical fighting and adult life outcomes: Examining the interplay with intelligence",
-        "journal": "Aggressive Behavior",
-        "url": "https://api.cristin.no/v2/results/1739086"
+        "journal": "Aggressive Behavior"
       }
     ]
+  },
+  "rg": {
+    "id": "Christian-Von-Soest",
+    "name": "Christian von Soest",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272419449470992-1441961266562_Q128/Christian-Von-Soest.jpg",
+    "affiliation": "German Institute for Global and Area Studies GIGA",
+    "keywords": ["Quantitative & Qualitative Research", "Politics", "South Africa", "Governance", "Corruption", "Authoritarianism", "Comparative Analysis", "Global Governance and Regionalism", "Political Participation", "Good Governance"],
+    "works": [
+      {
+        "title": "Democracy prevention: The international collaboration of authoritarian regimes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Current scholarship increasingly argues that international factors and, more specifically, authoritarian collaboration fundamentally affect the persistence of authoritarian rule. In order to generate a better understanding of the nature and effects of these international dimensions of authoritarianism, this article provides a conceptual framework f..."]
+      },
+      {
+        "title": "The Termination of International Sanctions: Explaining Target Compliance and Sender Capitulation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Hana Attia", "Julia Grauvogel", "Christian von Soest"],
+        "abstract": ["With the proliferation of sanctions after the end of the Cold War, the termination of these punitive measures has become a ubiquitous phenomenon in international politics. Yet, research has hitherto almost exclusively focused on sanctions’ implementation and effectiveness, whereas their termination has received little attention. In this paper, we d..."]
+      },
+      {
+        "title": "Claiming the right to rule: regime legitimation strategies from 1900 to 2019",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Christian von Soest", "Marcus Tannenberg", "Michael Bernhard", "Anna Lührmann"],
+        "abstract": ["Governments routinely justify why the regime over which they preside is entitled to rule. These claims to legitimacy are both an expression of and shape of how a rule is being exercised. In this paper, we introduce new expert-coded measures of regime legitimation strategies (RLS) for 183 countries in the world from 1900 to 2019. Country experts rat..."]
+      },
+      {
+        "title": "Why Do We Speak to Experts? Reviving the Strength of the Expert Interview Method",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Christian von Soest"],
+        "abstract": ["In political scientists’ drive to examine causal mechanisms, qualitative expert interviews have an important role to play. This is particularly true for the analysis of complex decision-making processes, where there is a dearth of data, and for linking macro and micro levels of analysis. The paper offers suggestions for making the most effective an..."]
+      },
+      {
+        "title": "Praising the leader: personalist legitimation strategies and the deterioration of executive constraints",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Lennart Joe Brunkert", "Christian von Soest"],
+        "abstract": ["In the face of current democratic backsliding and autocratization processes, research has rediscovered issues of autocratic legitimation. However, the question of whether rulers’ personalist rhetoric to bolster their legitimacy is followed by congruent political action remains underspecified. Using new expert-coded measures for 164 countries from t..."]
+      },
+      {
+        "title": "The Termination of International Sanctions",
+        "tags": ["Chapter"],
+        "date": "Sep 2023",
+        "authors": ["Hana Attia", "Julia Grauvogel", "Christian von Soest"],
+        "abstract": ["The termination of sanctions is an important but largely understudied phenomenon within international politics. Of the nearly 400 sanctions cases that were in place in 1990 or imposed thereafter, nearly three-quarters had been lifted by 2018. As almost all existing research has focused on threatened and imposed sanctions, we lack insight into when..."]
+      },
+      {
+        "title": "Neopatrimonialism: a critical assessment",
+        "tags": ["Chapter"],
+        "date": "Dec 2022",
+        "authors": ["Christian von Soest"],
+        "abstract": []
+      },
+      {
+        "title": "Ten Things to Watch in Africa in 2022",
+        "tags": ["Research", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Christian von Soest", "Julia Grauvogel"],
+        "abstract": ["Two years into the COVID-19 pandemic, there are signs that sub-Saharan Africa will experience a modest recovery in 2022. Yet at least in the first half of the year, the region will continue to suffer from inadequate provision and administration of vaccines. In addition, violent conflicts and structural weaknesses constitute considerable challenges...."]
+      },
+      {
+        "title": "Neopatrimonialism: A Critical Assessment",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Christian von Soest"],
+        "abstract": ["The aim of this chapter is to present the main features of the post-Weberian neopatrimonialism concept and to assess its primary application, particularly in describing and analysing social, economic and political development processes. The chapter first outlines the concept's origins, main characteristics and variations. This includes information..."]
+      },
+      {
+        "title": "Internationales Krisenmanagement",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Sandra Destradi", "Christian von Soest"],
+        "abstract": ["Beim internationalen Krisenmanagement liegt der Fokus auf der Rolle internationaler Akteure, die sich zur Lösung einer als Bedrohung der bestehenden Ordnung wahrgenommenen Krise engagieren. Nach einer grundlegenden Begriffsbestimmung stellt der Beitrag dar, in welchen Situationen Krisenmanagement angewendet wird, welche Formen es annehmen kann und..."]
+      },
+      {
+        "title": "A Heated Debate: Climate Change and Conflict in Africa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Sub-Saharan Africa is the world region most affected by climate change. Parts of East Africa, the Sahel, and Southern Africa have been the most severely impacted on. Existing research largely sees climate change as a “threat multiplier,” and perceives high poverty and low state capability as more influential drivers of conflict.\nGeneral assessments..."]
+      },
+      {
+        "title": "Internationales Krisenmanagement",
+        "tags": ["Book"],
+        "date": "Jan 2020",
+        "authors": ["Sandra Destradi", "Christian von Soest"],
+        "abstract": ["Beim internationalen Krisenmanagement liegt der Fokus auf der Rolle internationaler Akteure, die sich zur Lösung einer als Bedrohung der bestehenden Ordnung wahr- genommenen Krise engagieren. Nach einer grundlegenden Begriffsbestimmung stellt der Beitrag dar, in welchen Situationen Krisenmanagement angewendet wird, welche Formen es annehmen kann un..."]
+      },
+      {
+        "title": "Individual Sanctions: Toward a New Research Agenda",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Individual sanctions are an important category of economic sanctions, and an inextricable part of the global security and human rights regime that has informed international and national politics since the end of the Cold War. Shaping the international trend of individualizing accountability (Sikkink 2009), the United Nations, the United States, an..."]
+      },
+      {
+        "title": "Regime Legitimation Strategies (RLS), 1900 to 2018",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Marcus Tannenberg", "Michael Bernhard", "Johannes Gerschewski", "Christian von Soest"],
+        "abstract": ["In this paper we introduce new expert-coded measures of regime legitimation strategies for 179 countries inthe world from 1900 up until 2018 that are comparable across time and space. Country experts have ratedthe extent to which the government promotes or referencesits performance, the person of the leader, rational-legality, and ideologyin order..."]
+      },
+      {
+        "title": "Book review: Democratization Institutions and democracy in Africa. How the rules of the game shape political developments, edited by Nic Cheeseman",
+        "tags": ["Research", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Christian von Soest"],
+        "abstract": []
+      },
+      {
+        "title": "Ten Things to Watch in Africa in 2019",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Tabea Lakemann", "Christian von Soest"],
+        "abstract": ["While socio-economic development slowly progresses and democratic processes do seem to be taking root in some African countries, on balance many challenges still remain in 2019. Relations on the continent as well as with Europe and other world regions also give a mixed impression. We present a selective analysis of “10 things to watch” in Africa in..."]
+      },
+      {
+        "title": "Regime Legitimation Strategies (RLS) 1900 to 2018",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Marcus Tannenberg", "Michael Bernhard", "Johannes Gerschewski", "Christian von Soest"],
+        "abstract": ["In this paper we introduce new expert-coded measures of regime legitimation strategies for 179 countries in the world from 1900 up until 2018 that are comparable across time and space. Country experts have rated the extent to which the government promotes or references its performance, the person of the leader, rational-legality, and ideology in or..."]
+      },
+      {
+        "title": "Identity, procedures and performance: how authoritarian regimes legitimize their rule: Studies in Autocratic Legitimation",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Christian von Soest", "Julia Grauvogel"],
+        "abstract": []
+      },
+      {
+        "title": "The Contradictory Logics of International Intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Christian von Soest"],
+        "abstract": ["In the rapidly unfolding multipolar world order, an unprecedented number\nof states, international organisations, advocacy groups, and other actors are devising and implementing a growing number of interventions to strengthen democracy, peace, and security. The political and normative views on these external interventions differ fundamentally."]
+      },
+      {
+        "title": "Ten Things to Watch in Africa in 2018",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Jann Lay", "Christian von Soest"],
+        "abstract": ["The G20 Africa Partnership Conference and the AU–EU Summit, as well as the headlines related to African migrants in North Africa, put the African continent into the spotlight last year. Popular protests challenged various autocratic rulers, and the former liberation movements of Southern Africa faced their own struggles. These ambiguities in the co..."]
+      },
+      {
+        "title": "Comparisons across World Regions: Managing Conceptual, Methodological, and Practical Challenges",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Christian von Soest", "Alexander Stroh-Steckelberg"],
+        "abstract": ["Scholars often pay insufficient attention to bridging the research divide between different world regions. We argue that structured qualitative comparisons across world regions offer a sound middle ground for the integration of universal approaches and context knowledge. The paper puts forward suggestions about how to deal with challenges in cross-..."]
+      },
+      {
+        "title": "Nebenwirkungen von Sanktionen: Kulturelle Beziehungen mit Iran, Kuba, Russland und Belarus",
+        "tags": ["Research", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Christian von Soest", "Deborah Haffner", "Jonas Sell"],
+        "abstract": ["The report (in German) deals with the effects of international sanctions on cultural relations."]
+      },
+      {
+        "title": "Legitimationsstrategien von Autokratien im Vergleich: Ergebnisse einer neuen Expertenumfrage",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Julia Grauvogel", "Christian von Soest"],
+        "abstract": ["Zusammenfassung\nDer Forschung zur Legitimität autoritärer Regime ist es bislang nur unzureichend gelungen, die Legitimationsstrategien autoritärer Regime systematisch zu erfassen und zu vergleichen. Im Gegensatz zu bestehenden Analysen, welche sich in erster Linie auf die Akzeptanz autoritärer Herrschaft konzentrieren, argumentieren wir, dass Legit..."]
+      },
+      {
+        "title": "Identity, procedures and performance: how authoritarian regimes legitimize their rule",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Christian von Soest", "Julia Grauvogel"],
+        "abstract": ["Constructing convincing legitimacy claims is important for securing the stability of authoritarian regimes. However, extant research has struggled to systematically analyse how authoritarians substantiate their right to rule. We analyse a novel data set on authoritarian regimes’ claims to legitimacy that is based on leading country experts’ assessm..."]
+      },
+      {
+        "title": "Sanctions and Signals: How International Sanction Threats Trigger Domestic Protest in Targeted Regimes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Julia Grauvogel", "Amanda A. Licht", "Christian von Soest"],
+        "abstract": ["Western powers often turn to international sanctions in order to exert pressure on incumbent governments and signal their support for the opposition. Yet whether, and through what mechanisms, sanctions trigger protest remains unclear. We argue that sanction threats work as an international stamp of approval for would-be protesters; they encourage c..."]
+      },
+      {
+        "title": "External Intervention to Strengthen Democracy in Africa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Christian von Soest", "Fabian Bohnenberger"],
+        "abstract": ["Seen against the rise of China and other authoritarian powers, Western influence\nis declining in relative terms. However, Western countries still have an important\nrole to play in supporting democracy in Africa. Western assistance should\nbe citizen-centred and involve consistent support for civic education and common\ntraining programmes for young l..."]
+      },
+      {
+        "title": "Externe Unterstützung stärkt die Demokratie in Afrika",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Christian von Soest", "Fabian Bohnenberger"],
+        "abstract": ["Obwohl heute in vielen afrikanischen Staaten Wahldemokratien und \" mildere \" Formen autoritärer Regime als zur Zeit des Kalten Krieges vorherr-schen, hat sich der Demokratisierungsprozess in Afrika verlangsamt und in vielen Fällen sogar umgekehrt. Dies führt zu einer wachsenden Kluft zwi-schen Bürgern, die weitere demokratische Rechte und Freiheite..."]
+      },
+      {
+        "title": "Final article: Democracy prevention: The international collaboration of authoritarian regimes",
+        "tags": ["Data", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Christian von Soest"],
+        "abstract": []
+      },
+      {
+        "title": "Comparing Legitimation Strategies in Post-Soviet Countries",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Julia Grauvogel", "Christian von Soest"],
+        "abstract": ["Non‐democratic rulers in post‐Soviet countries use specific combinations of legitimating\nclaims to stay in power. Most notably, rulers claim to be the guardians of citizens’ socioeconomic\nwell‐being. Second, despite recurrent infringements on political and civil rights,\nthey maintain that their power is rule‐based and embodies the will of the peopl..."]
+      },
+      {
+        "title": "von Soest and Wahman - 2015 - Are democratic sanctions really counterproductive",
+        "tags": ["Data", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Christian von Soest", "Michael Wahman"],
+        "abstract": []
+      },
+      {
+        "title": "Are democratic sanctions really counterproductive?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Christian von Soest", "Michael Wahman"],
+        "abstract": ["Previous research has shown that sanctions have a negative impact on the level of democracy in targeted authoritarian countries. This runs counter to substantive comparative literature on democratization which finds that economic stress is connected with regime collapse and democratic liberalization. To solve this puzzle, we focus on the effects of..."]
+      },
+      {
+        "title": "Die verfehlte Sanktionspolitik des Westens gegen Simbabwe",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Christian von Soest", "Julia Grauvogel"],
+        "abstract": ["Als Reaktion auf Menschenrechtsverletzungen in Simbabwe hatten die EU, die USA und weitere westliche Staaten Anfang der 2000er Jahre Sanktionen gegen die Regierung Mugabe verhängt. Zeitweise waren mehrere Hundert Personen von Kontensperrungen und Reisebeschränkungen betroffen. Zwar sind im Fall von Simbabwe die Einwirkungsmöglichkeiten von außen gr..."]
+      },
+      {
+        "title": "Not all dictators are equal: Coups, fraudulent elections, and the selective targeting of democratic sanctions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Christian von Soest", "Michael Wahman"],
+        "abstract": ["Since the end of the Cold War, Western powers have frequently used sanctions to fight declining levels of democracy and human rights violations abroad. However, some of the world's most repressive autocracies have never been subjected to sanctions, while other more competitive authoritarian regimes have been exposed to repeated sanction episodes. I..."]
+      },
+      {
+        "title": "How Do Non‐Democratic Regimes Claim Legitimacy? Comparative Insights from Post‐Soviet Countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Christian von Soest", "Julia Grauvogel"],
+        "abstract": ["The analysis using the new Regime Legitimation Expert Survey (RLES) demonstrates that non‐democratic rulers in post‐Soviet countries use specific combinations of legitimating claims to stay in power. Most notably, rulers claim to be the guardians of citizens’ socioeconomic well‐being. Second, despite recurrent infringements on political and civil r..."]
+      },
+      {
+        "title": "Claims to legitimacy count: Why sanctions fail to instigate democratisation in authoritarian regimes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["Julia Grauvogel", "Christian von Soest"],
+        "abstract": ["International sanctions are one of the most commonly used tools to instigate democratisation in the post-Cold War era. However, despite long-term sanction pressure by the European Union, the United States and/or the United Nations, non-democratic rule has proven to be extremely persistent. Which domestic and international factors account for the re..."]
+      },
+      {
+        "title": "Persistent Systemic Corruption: Why Democratisation and Economic Liberalisation Have Failed to Undo an Old Evil: A Six-Country Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2013",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Why have the third wave of democratisation and concurrent economic liberalisation,\ncontrary to many expectations, failed to lower global corruption? This article comparatively assesses\nsystemic corruption and other features of personal rule in Argentina, Venezuela, Indonesia,\nthe Philippines, Kenya, and Zambia. It finds that systemic corruption in..."]
+      },
+      {
+        "title": "Sanctions and Democratization in the Post-Cold War Era",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2013",
+        "authors": ["Christian von Soest", "Michael Wahman No"],
+        "abstract": ["Previous research, which has focused mostly on pre‐1990 dynamics, has shown that sanctions\nhave a negative impact on the level of democracy in targeted authoritarian countries.\nGiven this finding, it is puzzling that democratization has become the most common goal\nof sanctions issued against authoritarian states. This paper studies how sanctions ha..."]
+      },
+      {
+        "title": "Stabilität durch regionale Sanktionen in Afrika?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Julia Grauvogel", "Katharina Newbery", "Christian von Soest"],
+        "abstract": ["Am 25. März 2013, nur einen Tag nach dem Militärputsch durch die Rebellenallianz Séléka, verhängte die Afrikanische Union (AU) Sanktionen gegen die Zentralafrika-nische Republik. Der Friedens-und Sicherheitsrat der AU suspendierte die Mitglied-schaft des Landes, verhängte Reisebeschränkungen für die Rebellen und ließ deren Konten einfrieren. Analys..."]
+      },
+      {
+        "title": "Are All Dictators Equal? The Selective Targeting of Democratic Sanctions against Authoritarian Regimes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Christian von Soest", "Michael Wahman No"],
+        "abstract": ["Since the end of the Cold War, Western powers have frequently used sanctions as a reaction\nto declining levels of democracy and human rights violations in authoritarian regimes.\nHowever, some of the world’s most repressive authoritarian regimes have never\nbeen subjected to sanctions, while other more competitive autocracies have been exposed\nto rep..."]
+      },
+      {
+        "title": "Südafrika: Der ANC hat keine Lösung für die soziale Misere",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Auf dem 53. ANC-Parteitag Ende Dezember 2012 gelang es dem Präsidenten Südafri-kas, Jacob Zuma, die zerstrittene Organisation vorerst zu befrieden und den wirtschafts-freundlichen Cyril Ramaphosa als stellvertretenden Parteivorsitzenden zu installieren. Analyse Der regierende African National Congress (ANC) ist gefangen im Selbstverständnis der Bef..."]
+      },
+      {
+        "title": "How Neopatrimonialism Affects Tax Administration: A Comparative Study of Three World Regions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2011",
+        "authors": ["Christian von Soest", "Karsten  Bechle", "Nina   Korte"],
+        "abstract": ["Neopatrimonialism is a concept that has predominately been applied to describe governance in sub‐Saharan Africa. Recently, though, it has also been used to describe states from other world regions. However, scholars have rarely attempted to systematically compare neopatrimonial rule in different regional settings. This paper aims to narrow this gap..."]
+      },
+      {
+        "title": "Den Machterhalt im Blick: Verfassungsreformen in Subsahara-Afrika",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Alexander Stroh-Steckelberg", "Christian von Soest"],
+        "abstract": ["Nach massiven öffentlichen Protesten mit der Forderung \"Rühr meine Verfassung nicht an!\" hat der senegalesische Staatspräsident Abdoulaye Wade am 23. Juni 2011 ein Ge-setz zur Änderung der Verfassung zurückgezogen, das die Wahl von Präsidentschafts-kandidaten schon im ersten Wahlgang erleichtern sollte. Die politischen Spannungen im Senegal halten..."]
+      },
+      {
+        "title": "Simbabwe: Düstere Aussichten für demokratische Reformen",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Christian von Soest", "Maxi Domke"],
+        "abstract": ["Auf ihrem Parteitag vom 6.-10. Dezember 2011 bestätigte Simbabwes Regierungspartei ZANU-PF Robert Mugabe, der das Land seit 31 Jahren regiert, als Spitzenkandidaten für die kommenden Präsidentschaftswahlen. Analyse Die ZANU-PF setzt damit weiter alles auf den 87-jährigen Mugabe – ein Nachfolger oder eine Nachfolgerin ist nicht in Sicht und die Refo..."]
+      },
+      {
+        "title": "How Neopatrimonialism Affects Tax Administration: A Comparative Study of Three World Regions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Christian von Soest", "Karsten Bechle", "Nina Korte"],
+        "abstract": ["Neopatrimonialism is a concept that has predominately been applied to describe governance in sub‐Saharan Africa. Recently, though, it has also been used to describe states from other world regions. However, scholars have rarely attempted to systematically compare neopatrimonial rule in different regional settings. This paper aims to narrow this gap..."]
+      },
+      {
+        "title": "Mittler zwischen Nord und Süd: Südafrikas Position nach dem Klimagipfel in Kopenhagen",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2010",
+        "authors": ["Christian von Soest"],
+        "abstract": []
+      },
+      {
+        "title": "Mediator between North and South. South Africa's position after the Climate summit in Copenhagen.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2010",
+        "authors": ["Christian von Soest"],
+        "abstract": []
+      },
+      {
+        "title": "What Neopatrimonialism Is - Six Questions to the Concept",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Christian von Soest"],
+        "abstract": ["The aim of this background paper is a modest one. It tries to establish in which areas consen- sus can be found in the application of the concept of neopatrimonialism. Also, it outlines the concept's limits and - more generally - puts forward some suggestions for using the concept in the following six areas: (1) Basic definition, (2) delimitation o..."]
+      },
+      {
+        "title": "Versöhner, Manager, Populist – Das Wirken der Präsidenten für die Konsolidierung der südafrikanischen Demokratie",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Christian von Soest"],
+        "abstract": []
+      },
+      {
+        "title": "Peitsche statt Zuckerbrot: Sind Sanktionen wirkungslos?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Matthias Basedau", "Clara Portela", "Christian von Soest"],
+        "abstract": ["Eine Reihe von Regimen wie Iran, Kuba, Myanmar oder Nordkorea ist seit langem von den USA, der EU oder den Vereinten Nationen mit Sanktionen belegt. Diese unterscheiden sich hinsichtlich ihrer Ziele und darin, ob sie „umfassend“ oder „zielgerichtet“ sind. Eines haben die Sanktionen jedoch gemeinsam: Sie sollen eine Änderung des politischen Verhalte..."]
+      },
+      {
+        "title": "Stagnation of a 'Miracle': Botswana’s Governance Record Revisited",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2009",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Botswana has been dubbed an “African miracle.” The country has been praised not only for maintaining a multiparty system and high growth rates since independence but also for its good governance record. In contrast to other African countries, the extent of neopatrimonialism, which runs counter to good governance, is said to be low. This article aim..."]
+      },
+      {
+        "title": "The African State and Its Revenues. How Politics Influences Tax Collection in Zambia and Botswana",
+        "tags": ["Book", "Full-text available"],
+        "date": "Mar 2009",
+        "authors": ["Christian von Soest"],
+        "abstract": ["The generation of income through tax administration is of central importance for viable statehood as it serves as the basis for all other state functions (e.g., security, public welfare). However, it is precisely this capability to raise revenue which has been a fundamental deficit of African states. More than 50 percent of the tax potential remain..."]
+      },
+      {
+        "title": "Informal Institutions Compared - Persistence and Change of Neopatrimonialism in Various World Regions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Christian von Soest"],
+        "abstract": ["The paper introduces the main facets of the research project “persistence and change of neopatrimonialism in various non-OECD-regions”. Neopatrimonialism is a prominent concept trying to make sense of governance in various, particularly non-OECD, regions. An attempt is made to grasp informal institutions which are functioning next to or are fused w..."]
+      },
+      {
+        "title": "Structural Stability: On the Prerequisites of Nonviolent Conflict Management",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2008",
+        "authors": ["Andreas Mehler", "Ulf Engel", "Lena Giesbert", "Christian von Soest"],
+        "abstract": ["The concept of “structural stability” has been gaining prominence in development policy circles. In the EU’s and the OECD Development Assistance Committee’s (OECD DAC) understanding, it describes the ability of societies to handle intra-societal conflict without resorting to violence. This study investigates the preconditions of structural stabilit..."]
+      },
+      {
+        "title": "AIDS, Access to Medicines, and the Different Roles of the Brazilian and South African Governments in Global Health Governance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Jan Peter Wogart", "Gilberto Calcagnotto", "Wolfgang Hein", "Christian von Soest"],
+        "abstract": ["The present article illustrates how the main actors in global health governance (GHG)— governments, nongovernmental organizations (NGOs), intergovernmental organizations (IOs), and transnational pharmaceutical companies (TNPCs)—have been interacting and, as a result, modifying the global health architecture in general and AIDS treatment in particul..."]
+      },
+      {
+        "title": "Wacklige „Bausteine“ und schwache „Maurer“: Die Afrikanische Union hat ein Integrationsproblem",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Am 1. Februar wurde der Außenminister Gabuns, Jean Ping, zum neuen Kommissionsvorsitzenden der Afrikanischen Union (AU) gewählt. Die Anforderungen an ihn sind beträchtlich: Er soll die regionale Integration des Kontinents vorantreiben, während sich gleichzeitig die ökonomische Spaltung zwischen den Regionalorganisationen Afrikas zu vertiefen droht...."]
+      },
+      {
+        "title": "Diktatur in Afrika",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Gero Erdmann", "Christian von Soest"],
+        "abstract": ["Anfang August der Militärputsch in Mauretanien, die anhaltende Krise in Simbabwe und das Verhalten des Baschir-Regimes im sudanesischen Darfur – nur einige Beispiele, die nahe zu legen scheinen, dass autoritäre Regime in Afrika wieder an Boden gewinnen. Ist auf dem Kontinent eine Renaissance autoritärer Herrschaft zu erwarten – möglicherwei-se unte..."]
+      },
+      {
+        "title": "Donor support for tax administration reform in Africa : Experiences in Ghana, Tanzania, Uganda and Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Tax administration reforms are of prime importance for strengthening fiscal state and governance relations in developing countries. African countries have been particularly deficient in this respect. Donor support for tax administration reform in Africa therefore might have a strong impact in enhancing the developing prospects of the continent. Thi..."]
+      },
+      {
+        "title": "How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2007",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Following the neopatrimonialism paradigm, it can be hypothesised that in African states informal politics of the rulers infringe on the collection of taxes and in turn reduce state revenue. This article tests this proposition for the case of Zambia. Neopatrimonial continuity in the country is evidenced by three factors: the concentration of politic..."]
+      },
+      {
+        "title": "Measuring the Capability to Raise Revenue Process and Output Dimensions and Their Application to the Zambia Revenue Authority",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2007",
+        "authors": ["Christian von Soest"],
+        "abstract": ["The worldwide diffusion of the good governance agenda and new public management has triggered a renewed focus on state capability and, more specifically, on the capability to raise revenue in developing countries. However, the analytical tools for a comprehensive understanding of the capability to raise revenue remain underdeveloped. This article a..."]
+      },
+      {
+        "title": "The Treatment Controversy: Global Health Governance and South Africa’s Fight Against HIV/AIDS",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Christian von Soest", "Martin Weinel"],
+        "abstract": ["This chapter endeavours to analyse the contentious relationship between actors of the global and national level of global health governance (GHG) in the fight against HIV/AIDS in South Africa. The case study deals predominantly with vertical relationships between actors on the national and global level, i.e. vertical interfaces (see Chapter 1). Des..."]
+      },
+      {
+        "title": "Between Conflict and Cooperation - Global-National Interfaces and the Fight Against Hiv/Aids in Brazil and South Africa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2006",
+        "authors": ["Christian von Soest", "Gilberto Calcagnotto", "Martin  Weinel"],
+        "abstract": ["This paper endeavours to analyse the relationship between Global Health Governance and national health politics in the case of HIV/AIDS. The paper compares Brazil and South Africa as two cases in which the relationship between national politics and GHG has been structured in contrasting ways, ranging from conflict to cooperation. Different reciproc..."]
+      },
+      {
+        "title": "How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Christian von Soest"],
+        "abstract": ["Following the neopatrimonialism paradigm, it can be hypothesised that in African states informal politics of the rulers infringe on the collection of taxes and in turn reduce state revenues. This article tests this proposition for the case of Zambia. The main finding is that there is no linear correlation between a neopatrimonial system and the col..."]
+      },
+      {
+        "title": "Measuring the Capability to Raise Revenue - Process and Output Dimensions and Their Application to the Zambia Revenue Authority",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Christian von Soest"],
+        "abstract": ["The worldwide diffusion of the good governance agenda and new public management has triggered a renewed focus on state capability and, more specifically, on the capability to raise revenue in developing countries. However, the analytical tools for a comprehensive understanding of the capability to raise revenue remain underdeveloped. This article a..."]
+      },
+      {
+        "title": "Tobias Debiel : UN-Friedensoperationen in Afrika. Weltinnenpolitik und die Realität von Bürgerkriegen. Sonderband der Stiftung Entwicklung und Frieden",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2004",
+        "authors": ["Christian von Soest"],
+        "abstract": []
+      },
+      {
+        "title": "Regionale Integration im südlichen Afrika: Wohin steuert die SADC?",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Christian von Soest", "Julia Scheller"],
+        "abstract": []
+      },
+      {
+        "title": "Comparing neopatrimonialism: First empirical results from Africa, Latin America and Southeast Asia and implications for the concept",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Christian von Soest"],
+        "abstract": ["The paper introduces the main facets of the research project \"persistence and change of neopatrimonialism in various non-OECD-regions\". Neopatrimonialism is a prominent concept trying to make sense of governance in various, particularly non-OECD, regions. An attempt is made to grasp informal institutions which are functioning next to or are fused w..."]
+      }
+    ],
+    "degree": ["Professor"],
+    "bio": "Visiting research fellow (2013/14) at the Weatherhead Center for International Affairs, Harvard University\nResearch project on authoritarian regimes and international sanctions",
+    "publications": [66],
+    "reads": [48612],
+    "citations": [1173]
   }
 }

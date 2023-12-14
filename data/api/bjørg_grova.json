@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Bjørg Grova",
-    "id": "8064",
+    "name": ["Bjørg Grova"],
+    "id": ["8064"],
     "keywords": [],
     "position": ["Emeritus", "Guest", null, null, "Scientific adviser"],
-    "img": "https://api.cristin.no/v2/persons/8064/picture",
+    "img": ["https://api.cristin.no/v2/persons/8064/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -272,5 +272,67 @@
         "url": "https://api.cristin.no/v2/results/207144"
       }
     ]
+  },
+  "rg": {
+    "id": "Bjorg-Grova",
+    "name": "Bjørg Grova",
+    "img": "https://i1.rgstatic.net/ii/profile.image/454159855034373-1485291555844_Q128/Bjorg-Grova.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychopathology", "Psychotherapy", "Treatment", "Behavioral Genetics", "Counseling"],
+    "works": [
+      {
+        "title": "Exploring Affect Integration in Children With Anxiety Disorders: A Pilot Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Eva Taarvig", "Ole André Solbakken", "Bjørg Grova", "Jon T Monsen"],
+        "abstract": "Affect integration is considered central to mental health. We define affect integration in terms of the affect consciousness construct as degrees of awareness, tolerance, nonverbal, and conceptual expression of 11 affects (Monsen, Eilertsen, Melgård, & Odegård, 1996). We assessed the construct using a child-adapted version of the semistructured Aff..."
+      },
+      {
+        "title": "Vurdering av affektintegrasjon med Affektbevissthetsintervju for barn",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Eva Taarvig", "Ole André Solbakken", "Bjørg Grova", "Jon T Monsen"],
+        "abstract": "Affect integration in children with internalizing problems: Affect Consciousness Interview in therapeutic work with children. Affect consciousness is operationalized as degrees of awareness, tolerance, emotional expression, and conceptual expression of specific affects; aspects assessed through an Affect Consciousness Interview (ACI) and scoring sc..."
+      },
+      {
+        "title": "Managing group supervision with beginning therapists: What can experienced supervisors tell us?",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Sissel Reichelt", "Jan Skjerve", "Geir Nielsen", "Anne Mari Torgersen"],
+        "abstract": "While group supervision in psychotherapy training has gained increasing attention, particularly in university settings, research on the group format is still scarce. The aim of the present, interview-based, qualitative study was to explore how group supervision is managed by experienced supervisors. Sixteen supervisors were interviewed. All partici..."
+      },
+      {
+        "title": "Affect Consciousness in children with internalizing problems: Assessment of affect integration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Eva Taarvig", "Ole André Solbakken", "Bjørg Grova", "Jon T Monsen"],
+        "abstract": "Affect integration was operationalized through the Affect Consciousness (AC) construct as degrees of awareness, tolerance, nonverbal expression and conceptual expression of 11 affects. These aspects are assessed through a semi-structured Affect Consciousness Interview (ACI) and separate rating scales (Affect Consciousness Scales (ACSs)) developed f..."
+      },
+      {
+        "title": "Experienced supervisors' view on clinical group supervision with student therapists",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Jan Skjerve", "Sissel Reichelt", "Geir Nielsen", "Anne Mari Torgersen"],
+        "abstract": "Traditionally, clinical supervision has been practiced mostly in a dyadic form, that is, as individual supervision. However, over the past decades, group supervision has gained increasing attention. Today, many training sites prefer the group format, even though its research base is still scarce. The aim of this study was to explore clinical group..."
+      },
+      {
+        "title": "A pilot study of attachment patterns in adult twins",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2007",
+        "authors": ["Anne Mari Torgersen", "Bjørg Grova", "Renate Sommerstad"],
+        "abstract": "The hypothesis that attachment in adults is influenced by genetic factors was investigated. The within-pair differences in attachment representation in same-sex monozygotic and dizygotic twins were compared using the Adult Attachment Interview (AAI). The results showed a clear tendency toward monozygotic twins (n = 28) being more concordant than di..."
+      },
+      {
+        "title": "Generalisering fra atferdsterapeutiske kasusstudier",
+        "tags": ["Article"],
+        "date": "Jun 1978",
+        "authors": ["Jan Skjerve", "Bjørg Grova"],
+        "abstract": "Atferdsterapeutiske kasusstudier blir vurdert med hensyn til indre og ytre validitet. Det slås fast at det er sjelden at et funns ytre validitet, dets generaliserbarhet, drøftes. Indikasjonsområdet for ulike terapeutiske tiltak blir dermed ikke avklart. En framgangsmåte, basert pa kasusstudier, for bedre å klargjøre indikasjoner med hensyn til klie..."
+      }
+    ],
+    "degree": [null],
+    "publications": [7],
+    "reads": [1826],
+    "citations": [58]
   }
 }

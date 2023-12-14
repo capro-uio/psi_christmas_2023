@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0003-2810-8582",
-    "name": "Andreas Voldstad",
+    "orcid": ["0009-0003-2810-8582"],
+    "name": ["Andreas Voldstad"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,20 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Andreas Voldstad",
-    "id": "1034768",
+    "name": ["Andreas Voldstad"],
+    "id": ["1034768"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Andreas-Voldstad",
+    "name": "Andreas Voldstad",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281132793144-1680244657184_Q128/Andreas-Voldstad.jpg",
+    "affiliation": "University of Oxford | OX, University of Oxford, Department of Psychiatry",
+    "keywords": [],
+    "works": [],
+    "degree": ["Master", "of", "Arts"]
   }
 }

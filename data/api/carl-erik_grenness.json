@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Carl-Erik Grenness",
-    "id": "21662",
+    "name": ["Carl-Erik Grenness"],
+    "id": ["21662"],
     "keywords": ["Conflicts", "Working life", "Learning", "Art", "Competence", "Media Psychology", "Psychology of Organizations", "History of Psychology", "Stress", "Philosophy of science", "Leadership and leader development", "Social psychology", "Stress and stress managemnet"],
     "position": ["Emeritus"],
     "img": {},
@@ -22,15 +22,15 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2005",
-        "title": "Consultants: A Critical Perspective",
-        "url": "https://api.cristin.no/v2/results/60136"
+        "url": "https://api.cristin.no/v2/results/60136",
+        "title": "Consultants: A Critical Perspective"
       },
       {
         "type": "Academic article",
         "year": "2005",
-        "title": "Trust and Knowledge creation: how the dynamics of trust and absorptive capacity may affect supply chain management develeopment projects",
         "journal": "International Journal of Logistics Research and Applications",
-        "url": "https://api.cristin.no/v2/results/394146"
+        "url": "https://api.cristin.no/v2/results/394146",
+        "title": "Trust and Knowledge creation: how the dynamics of trust and absorptive capacity may affect supply chain management develeopment projects"
       },
       {
         "type": "Non-fiction book",
@@ -88,8 +88,8 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "1989",
-        "title": "Words and Pictures",
-        "url": "https://api.cristin.no/v2/results/68500"
+        "url": "https://api.cristin.no/v2/results/68500",
+        "title": "Words and Pictures"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -122,5 +122,14 @@
         "url": "https://api.cristin.no/v2/results/27097"
       }
     ]
+  },
+  "rg": {
+    "id": "Carl_Erik_Heyvaert",
+    "name": "Carl-Erik Heyvaert",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "KU Leuven | ku leuven, KU Leuven, Department of Accountancy Finance and Insurance AFI",
+    "keywords": ["Machine Learning", "Neural Networks and Artificial Intelligence", "Classification", "Pattern Recognition", "Supervised Learning", "Feature Extraction", "Advanced Machine Learning", "Unsupervised Learning", "Computational Intelligence", "Text Mining"],
+    "works": [],
+    "degree": [null]
   }
 }

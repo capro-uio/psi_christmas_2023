@@ -2,11 +2,20 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Berit Johanne Moen",
-    "id": "1504844",
+    "name": ["Berit Johanne Moen"],
+    "id": ["1504844"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Mons_Johanne",
+    "name": "Mons Johanne",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Erasmushogeschool Brussel | EhB, Erasmushogeschool Brussel, Vroedkunde",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

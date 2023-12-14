@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-3906-9366",
-    "name": "Maud Edvoll",
+    "orcid": ["0000-0003-3906-9366"],
+    "name": ["Maud Edvoll"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Maud Edvoll",
-    "id": "1230196",
+    "name": ["Maud Edvoll"],
+    "id": ["1230196"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -52,15 +52,15 @@
         "type": "Academic article",
         "year": "2023",
         "title": "The relations between parent and toddler emotion regulation",
-        "journal": "Mental health & prevention",
-        "url": "https://api.cristin.no/v2/results/2138661"
+        "url": "https://api.cristin.no/v2/results/2138661",
+        "journal": "Mental health & prevention"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "A Randomized Controlled Trial of an Emotion Socialization Intervention in Norwegian Kindergartens",
-        "journal": "Early Education and Development",
-        "url": "https://api.cristin.no/v2/results/2101125"
+        "url": "https://api.cristin.no/v2/results/2101125",
+        "journal": "Early Education and Development"
       },
       {
         "type": "Academic lecture",
@@ -114,5 +114,33 @@
         "url": "https://api.cristin.no/v2/results/1963283"
       }
     ]
+  },
+  "rg": {
+    "id": "Maud-Edvoll",
+    "name": "Maud Edvoll",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281169371295-1687330503629_Q128/Maud-Edvoll.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Child Development", "Early Childhood Education"],
+    "works": [
+      {
+        "title": "The Relations Between Parent and Toddler Emotion Regulation",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Maud Edvoll", "Christiane E. Kehoe", "Anna Stigum Trøan", "Sophie S Havighurst"],
+        "abstract": []
+      },
+      {
+        "title": "A Randomized Controlled Trial of an Emotion Socialization Intervention in Norwegian Kindergartens",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Sophie S Havighurst", "Maud Edvoll", "Ida Tidemann", "Egil Nygaard"],
+        "abstract": ["Research Findings: Early childhood workers (ECW’s) play a pivotal role in shaping children’s emotional competence. This study examined the efficacy of Tuning in to Kids for Kindergarten Teachers (TIK-KT) used with CLASS observations to improve ECW’s emotion socialization, kindergarten emotional climate and children’s functioning. Five hundred and f..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [2],
+    "reads": [105],
+    "citations": [3]
   }
 }

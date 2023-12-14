@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Ingunn Olea Lund",
-    "id": "-3cMWhoAAAAJ",
-    "affiliation": "Research Professor at the Norwegian Institute of Public Health",
+    "name": ["Ingunn Olea Lund"],
+    "id": ["-3cMWhoAAAAJ"],
+    "affiliation": ["Research Professor at the Norwegian Institute of Public Health"],
     "data": {
       "publications": [
         {
@@ -915,8 +915,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-7412-4776",
-    "name": "Ingunn Olea Lund",
+    "orcid": ["0000-0001-7412-4776"],
+    "name": ["Ingunn Olea Lund"],
     "distinctions": [],
     "education": [
       {
@@ -933,31 +933,31 @@
       },
       {
         "start": "2016",
-        "end": "2019",
         "position": "Senior Researcher",
         "organisation": "Norwegian Institute of Public Health",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2016",
-        "end": "2016",
         "position": "Researcher",
         "organisation": "Norwegian Institute of Public Health",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       },
       {
         "start": "2013",
-        "end": "2015",
         "position": "Researcher",
         "organisation": "Norwegian Institute of Alcohol and Drug Research",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       },
       {
         "start": "2009",
-        "end": "2012",
         "position": "PhD student",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2012"
       }
     ],
     "employment": [
@@ -975,31 +975,31 @@
       },
       {
         "start": "2016",
-        "end": "2019",
         "position": "Senior Researcher",
         "organisation": "Norwegian Institute of Public Health",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2016",
-        "end": "2016",
         "position": "Researcher",
         "organisation": "Norwegian Institute of Public Health",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       },
       {
         "start": "2013",
-        "end": "2015",
         "position": "Researcher",
         "organisation": "Norwegian Institute of Alcohol and Drug Research",
-        "country": "NO"
+        "country": "NO",
+        "end": "2015"
       },
       {
         "start": "2009",
-        "end": "2012",
         "position": "PhD student",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2012"
       }
     ],
     "membership": [],
@@ -1429,11 +1429,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ingunn Olea Lund",
-    "id": "841",
+    "name": ["Ingunn Olea Lund"],
+    "id": ["841"],
     "keywords": [],
     "position": ["Associate professor", "Guest", "Academic assistant", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/841/picture",
+    "img": ["https://api.cristin.no/v2/persons/841/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -2069,5 +2069,530 @@
         "url": "https://api.cristin.no/v2/results/1031649"
       }
     ]
+  },
+  "rg": {
+    "id": "Ingunn-Olea-Lund",
+    "name": "Ingunn Olea Lund",
+    "img": "https://i1.rgstatic.net/ii/profile.image/283455851122688-1444592549057_Q128/Ingunn-Olea-Lund.jpg",
+    "affiliation": "Norwegian Institute of Public Health",
+    "keywords": ["Epidemiology", "Harm Reduction", "Mental Illness", "Psychiatry", "Addiction", "Family Studies", "Health Psychology", "Adolescent Development", "Depression", "Sleep"],
+    "works": [
+      {
+        "title": "Association of Constellations of Parental Risk With Children's Subsequent Anxiety and Depression Findings From a HUNT Survey and Health Registry Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Ingunn Olea Lund", "Svetlana Skurtveit", "Marte Handal", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Importance The research focus on children of parents with alcohol use disorder has eclipsed the potentially wider-reaching detrimental effects of subclinical parental drinking, both alone and in combination with other parental risk factors.\n\nObjective To identify constellations of early parental risk characterized by variations in drinking, mental..."]
+      },
+      {
+        "title": "Is the association between maternal alcohol consumption in pregnancy and pre-school child behavior and emotional problems causal? Multiple approaches for controlling unmeasured confounding",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Ingunn Olea Lund", "Espen Moen Eilertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": ["Background and aims\nHazardous drinking (i.e., alcohol consumption that places drinkers at risk for adverse health outcomes) during pregnancy is associated with adverse child outcomes. To address whether the associations are causal, we aimed to estimate the effect of maternal hazardous drinking during 1st trimester on offspring emotional and behavio..."]
+      },
+      {
+        "title": "Maternal Drinking and Child Emotional and Behavior Problems",
+        "tags": ["Article"],
+        "date": "Feb 2020",
+        "authors": ["Ingunn Olea Lund", "Espen Moen Eilsertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": ["Background and objectives: \nMaternal drinking is associated with child emotional and behavior problems. There is, however, a lack of studies that properly account for confounding. Our objective was to estimate the association between at-risk drinking in mothers of young children and child emotional and behavior problems, taking into account the pas..."]
+      },
+      {
+        "title": "Parental risk constellations and future alcohol use disorder (AUD) in offspring: A combined HUNT survey and health registries study",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Jasmina Burdzovic Andreas", "Fartein Ask Torvik", "Eivind Ystrom", "Ingunn Olea Lund"],
+        "abstract": ["Objective: \nWe examined the risk of developing a future alcohol use disorder (AUD) among offspring of families with different constellations of parental risk factors.\n\nMethod: \nWe analyzed a sample of 8,774 offspring (50.2% male) from 6,696 two-parent families who participated in the Nord-Trøndelag Health Study in Norway when offspring were 13-19 y..."]
+      },
+      {
+        "title": "Genotype-environment interplay in associations between maternal drinking and offspring emotional and behavioral problems",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Laurie John Hannigan", "Ingunn Olea Lund", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": ["Objective: We assess the moderation of associations between maternal at-risk drinking and childhood emotional and behavioral problems by common genetic variants linked to environmental sensitivity (genotype-environment interaction), while accounting for shared genetic risk between mothers and offspring (genotype-environment correlation). Method: We..."]
+      },
+      {
+        "title": "Genotype-environment interplay in associations between maternal drinking and offspring emotional and behavioral problems - CORRIGENDUM",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2023",
+        "authors": ["Laurie John Hannigan", "Ingunn Olea Lund", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Correction: Incidence rates of treated mental disorders before and during the COVID-19 pandemic—a nationwide study comparing trends in the period 2015 to 2021",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Pia Jensen", "Bo Engdahl", "Kristin Gustavson", "Ragnar Nesvåg"],
+        "abstract": []
+      },
+      {
+        "title": "Genotype-environment interplay in associations between maternal drinking and offspring emotional and behavioral problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Laurie John Hannigan", "Ingunn Olea Lund", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": ["Background\nWhile maternal at-risk drinking is associated with children's emotional and behavioral problems, there is a paucity of research that properly accounts for genetic confounding and gene–environment interplay. Therefore, it remains uncertain what mechanisms underlie these associations. We assess the moderation of associations between matern..."]
+      },
+      {
+        "title": "Contact with primary care physicians among adults with pre-existing common mental health problems during the COVID-19 pandemic: a registry-based study from Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Pia Jensen", "Christian Madsen", "Lars Johan Hauge", "Ragnar Nesvåg"],
+        "abstract": ["Background\nDuring the COVID-19 pandemic, individuals with pre-existing mental health problems may have experienced additional stress, which could worsen symptoms or trigger relapse. Thus, this study aimed to investigate if the number of consultations with general practitioners (GPs) among individuals with a pre-existing common mental health problem..."]
+      },
+      {
+        "title": "Incidence rates of treated mental disorders before and during the COVID-19 pandemic—a nationwide study comparing trends in the period 2015 to 2021",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Pia Jensen", "Bo Engdahl", "Kristin Gustavson", "Ragnar Nesvåg"],
+        "abstract": ["Background\nThere is a concern that exposure to psychosocial stressors during the COVID-19 pandemic may have led to a higher incidence of mental disorders. Thus, this study aimed to compare trends in incidence rates of depressive disorder, anxiety disorders, obsessive–compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and eating disor..."]
+      },
+      {
+        "title": "Parental drinking, mental health and educational level, and offspring’s subsequent prescription drugs treatment for sleep problems. A longitudinal HUNT survey and registry study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Ingunn Olea Lund", "Njål Andersen", "Helga Ask", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Background\nParental drinking, mental health and family socioeconomic status are all associated with offspring sleep problems, but there is a paucity of research that considers the effect of risk factors, as they co-occur within and across families. Also, sleep problems are closely linked with mental health problems. Disentangling the effects on one..."]
+      },
+      {
+        "title": "Incidence rates of treated mental disorders before and during the COVID-19 pandemic - a nationwide study comparing trends in the period 2015 to 2021",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Pia Jensen", "Bo Engdahl", "Kristin Gustavson", "Ragnar Nesvåg"],
+        "abstract": ["Background: There is a concern that exposure to psychosocial stressors during the COVID-19 pandemic may have led to a higher incidence of mental disorders. Thus, this study aimed to compare trends in incidence rates of depressive disorder, anxiety disorders, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and eating diso..."]
+      },
+      {
+        "title": "Contact with primary care physicians among adults with pre-existing common mental health problems during the COVID-19 pandemic: a registry-based study from Norway",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Pia Jensen", "Christian Madsen", "Lars Johan Hauge", "Ragnar Nesvåg"],
+        "abstract": ["Background: During the COVID-19 pandemic, individuals with pre-existing mental health problems may have experienced additional stress, which could worsen symptoms or trigger relapse.\nObjective: To investigate if the number of consultations with general practitioners (GPs) among individuals with a pre-existing common mental health problem during the..."]
+      },
+      {
+        "title": "Parental drinking, mental health and educational level, and offspring’s subsequent prescription drugs treatment for sleep problems. A Longitudinal HUNT Survey and Registry Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ingunn Olea Lund", "Njål Andersen", "Helga Ask", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Background\nParental drinking, mental health and family socioeconomic status are all associated with offspring sleep problems, but there is a paucity of research that considers the effect of several risk factors together, as they co-occur within and across families. Also, sleep problems are closely linked with mental health problems and disentanglin..."]
+      },
+      {
+        "title": "Prenatal alcohol exposure and child sleep problems: A family‐based quasi‐experimental study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ingunn Olea Lund", "Eivind Ystrom"],
+        "abstract": ["Background: \nWe examine whether associations between prenatal exposure to hazardous maternal alcohol consumption during the first trimester of pregnancy and sleep problems in young children represent a causal association.\n\nMethods: \nThe population-based sample consists of 15,911 mothers with 30,395 offspring from the Norwegian Mother, Father, and C..."]
+      },
+      {
+        "title": "INDIRECT GENETIC INFLUENCES ON MENTAL DISTRESS IN MOTHER-FATHER-OFFSPRING TRIOS DURING THE COVID-19 LOCKDOWN",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Johanne Pettersen", "Laurie Hannigan", "Espen Moen Eilertsen", "Helga Ask"],
+        "abstract": []
+      },
+      {
+        "title": "T93. POLYGENIC SCORES FOR MENTAL DISORDERS AND ADOLESCENT LEVEL OF MENTAL DISTRESS DURING THE FIRST YEAR OF THE COVID-19 PANDEMIC",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Johanne Pettersen", "Laurie Hannigan", "Kristin Gustavson", "Helga Ask"],
+        "abstract": []
+      },
+      {
+        "title": "T98. GENE-ENVIRONMENT INTERPLAY IN ASSOCIATIONS BETWEEN MATERNAL AT-RISK DRINKING AND EARLY CHILDHOOD EMOTIONAL AND BEHAVIOURAL DEVELOPMENT IN THE NORWEGIAN MOTHER, FATHER, AND CHILD COHORT STUDY",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Laurie Hannigan", "Ingunn Olea Lund", "Adrian Dahl Askelund", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Impact of the COVID-19 pandemic on mental healthcare consultations among children and adolescents in Norway: a nationwide registry study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Miriam Evensen", "Rannveig Kaldager Hart", "Anna Aasen Godøy", "Anne Reneflot"],
+        "abstract": ["The COVID-19 pandemic and its associated restrictions may have affected children and adolescent’s mental health adversely. We cast light on this question using primary and specialist consultations data for the entire population of children of age 6–19 years in Norway ( N = 908 272). Our outcomes are the monthly likelihood of having a consultation o..."]
+      },
+      {
+        "title": "Parental drinking, mental health and education, and extent of offspring’s healthcare utilisation for anxiety/depression: A HUNT survey and registry study",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Ingunn Olea Lund", "Njål Andersen", "Marte Handal", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Aims\nCertain risk constellations of parental drinking, mental health and years of education are prospectively associated with offspring’s risk for a diagnosis of anxiety/depression, but it remains unknown how they may relate to other aspects of offspring’s mental health. We examined whether such risk constellations were also prospectively associate..."]
+      },
+      {
+        "title": "PriSUD-Nordic-Diagnosing and Treating Substance Use Disorders in the Prison Population: Protocol for a Mixed Methods Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Anne Bukten", "Nicoline Lokdam", "Ingeborg Skjærvø", "Marianne Riksheim Stavseth"],
+        "abstract": ["Background: \nA large proportion of the prison population experiences substance use disorders (SUDs), which are associated with poor physical and mental health, social marginalization, and economic disadvantage. Despite the global situation characterized by the incarceration of large numbers of people with SUD and the health problems associated with..."]
+      },
+      {
+        "title": "PriSUD-Nordic—Diagnosing and Treating Substance Use Disorders in the Prison Population: Protocol for a Mixed Methods Study (Preprint)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Anne Bukten", "Nicoline Lokdam", "Ingeborg Skjærvø", "Marianne Riksheim Stavseth"],
+        "abstract": ["BACKGROUND\nA large proportion of the prison population experiences substance use disorders (SUDs), which are associated with poor physical and mental health, social marginalization, and economic disadvantage. Despite the global situation characterized by the incarceration of large numbers of people with SUD and the health problems associated with S..."]
+      },
+      {
+        "title": "Parental binge drinking and offspring’s high school non-completion: A prospective HUNT survey and educational registry study",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Jasmina Burdzovic Andreas", "Fartein Ask Torvik", "Ingunn Olea Lund"],
+        "abstract": ["Background\nAlcohol-use disorders (AUD) in parents are associated with adverse outcomes in offspring. It is less known whether other forms of parental drinking such as binge drinking may also be a risk factor for offspring’s outcomes -- specifically, high school non-completion.\n\nMethods\nThese questions were examined in a sample of 3,101 offspring (M..."]
+      },
+      {
+        "title": "Impact of the COVID-19 pandemic on mental healthcare consultations among children and adolescents in Norway: a nationwide registry study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Miriam Evensen", "Rannveig Kaldager Hart", "Anna Aasen Godøy", "Anne Reneflot"],
+        "abstract": ["The COVID-19 pandemic and its associated restrictions may have affected children and adolescent’s mental health adversely. We cast light on this question using primary and specialist consultations data for the entire population of children 6-19 years in Norway (N=908 272). Our outcomes are the monthly likelihood of having a consultation or hospital..."]
+      },
+      {
+        "title": "An 11-year nationwide registry-linkage study of opioid maintenance treatment in pregnancy in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Ingvild Odsbu", "Milada Mahic", "Svetlana Skurtveit", "Marte Handal"],
+        "abstract": ["Aim: We aimed to describe opioid maintenance treatment (OMT) to pregnant women in Norway and study the\nbackground characteristics of the pregnant women compared to the general population of pregnant women and\nto a previous clinical cohort study of OMT in pregnancy.\nMethods: Population-based cohort study with linked data from the Norwegian Medical B..."]
+      },
+      {
+        "title": "Cannabis Use during Pregnancy and Risk of Adverse Birth Outcomes: A Longitudinal Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Roman Gabrhelík", "Milada Mahic", "Ingunn Olea Lund", "Svetlana Skurtveit"],
+        "abstract": ["Background: \nWith recent changes in legislation regulating recreational and medical cannabis use around the globe, increased use in pregnancy is to be expected.\n\nObjectives: \nTo investigate the association between cannabis use during pregnancy and birth outcomes.\n\nMethod: \nData from the Norwegian Mother and Child Cohort Study (MoBa), a prospective..."]
+      },
+      {
+        "title": "Parental Drinking, Mental Health, and Education; The Association with Offspring’s Recurring contact with Healthcare Services for Anxiety/Depression. A longitudinal Combined HUNT Survey and Health Registry Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Ingunn Olea Lund", "Njål Andersen", "Marte Handal", "Jasmina Burdzovic Andreas"],
+        "abstract": ["Background and aims: Previous research have shown that certain risk constellations of parental drinking, mental health, and years of education were prospectively associated with increased risk of offspring receiving a diagnosis and/or treatment for anxiety/depression. We know less about how such constellations may relate to other aspects of offspri..."]
+      },
+      {
+        "title": "The emerging COVID-19 research: dynamic and regularly updated science maps and analyses",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Njål Andersen", "Jørgen G. Bramness", "Ingunn Olea Lund"],
+        "abstract": ["Background\nThe COVID-19 pandemic is a global public health emergency and experts emphasize the need for rapid and a high degree of communication and interaction between all parties, in order for critical research to be implemented. We introduce a resource (website) that provides bibliometric analysis showing the current content and structure of the..."]
+      },
+      {
+        "title": "Mapping the literature on parents with mental illness, across psychiatric sub- disciplines: a bibliometric review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Njål Andersen", "Ingunn Olea Lund"],
+        "abstract": ["Background: \nResearch on parental mental illness is often carried out in disorder specific research silos. Drawing on the different research areas, it is possible to leverage and combine existing knowledge, and identify insights that can be transferred across research areas. In this study, we identify the overarching structure of research on parent..."]
+      },
+      {
+        "title": "Factors associated with drug use in prison - Results from the Norwegian offender mental health and addiction (NorMA) study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Anne Bukten", "Ingunn Olea Lund", "Stuart A Kinner", "Marianne Riksheim Stavseth"],
+        "abstract": ["Background: \nRemarkably little is known about drug use during imprisonment, including whether it represents a continuation of pre-incarceration drug use, or whether prison is also a setting for drug use initiation. This paper aims to describe drug use among people in prison in Norway and investigate risk factors associated with in-prison drug use...."]
+      },
+      {
+        "title": "The emerging COVID-19 research: dynamic and regularly updated science maps and analyses",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Njål Andersen", "Jørgen Gustav Bramness", "Ingunn Olea Lund"],
+        "abstract": ["Background: The COVID-19 pandemic is a global public health emergency and experts emphasize the need for rapid and a high degree of communication and interaction between all parties, in order for critical research to be implemented. We introduce a resource (website) that provides bibliometric analysis showing the current content and structure of th..."]
+      },
+      {
+        "title": "The emerging COVID-19 research: dynamic and regularly updated science maps and analyses",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Njål Andersen", "Jørgen Gustav Bramness", "Ingunn Olea Lund"],
+        "abstract": ["Background: The COVID-19 pandemic is a global public health emergency and experts emphasize the need for rapid and a high degree of communication and interaction between all parties, in order for critical research to be implemented. We introduce a resource (website) that provides bibliometric analysis showing the current content and structure of th..."]
+      },
+      {
+        "title": "The emerging COVID-19 research: dynamic and regularly updated science maps and analyses",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Njål Andersen", "Jørgen Gustav Bramness", "Ingunn Olea Lund"],
+        "abstract": ["Background: The COVID-19 pandemic is a global public health emergency and experts emphasize the need for rapid and a high degree of communication and interaction between all parties, in order for critical research to be implemented. We introduce a resource (website) that provides bibliometric analysis showing the current content and structure of th..."]
+      },
+      {
+        "title": "Opioid maintenance treatment of pregnant women in the Scandinavian countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Marte Handal", "Svetlana Skurtveit", "Milada Mahic", "Ingunn Olea Lund"],
+        "abstract": ["Background\nWHO guidelines emphasise the need for descriptions of clinical practice and observational studies on risk and benefits of pharmacotherapies in pregnancy. The aims of the present study were to: (1) Describe opioid maintenance treatment (OMT) in the Scandinavian countries in general, and specifically for pregnant women, (2) Describe a proj..."]
+      },
+      {
+        "title": "Reaching families where a parent has a mental disorder: Using big data to plan early interventionsFamilien, in denen Eltern psychisch erkrankt sind, erreichen: Nutzung von ‚big data‘ für die Planung von Präventionsansätzen",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Ingrid Zechmeister", "Heinz Tüchler", "Melinda J Goodyear", "Jean Lillian Paul"],
+        "abstract": ["Background\nChildren who grow up with a parent who has a mental health problem (25%) are at increased risk of developing (health) problems themselves. One approach to reach those children for early intervention supports is through their parents seeking treatment within the adult mental healthcare system. We aimed to gain information on the users of..."]
+      },
+      {
+        "title": "The role of social cognition in perceived thresholds for transport mode change",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Trond Nordfjærn", "Hans Brende Lind", "Özlem Şimşekoğlu", "Torbjorn Rundmo"],
+        "abstract": []
+      },
+      {
+        "title": "Prenatal exposure to opioid maintenance treatment and neonatal outcomes: Nationwide registry studies from the Czech Republic and Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Marte Handal", "Blanka Nechanská", "Svetlana Skurtveit", "Viktor Mravcík"],
+        "abstract": ["here is lack of knowledge about the safety of treatment with methadone and bu‐prenorphine as part of opioid maintenance treatment (OMT) during pregnancy. The purpose of this study was to examine neonatal outcomes concerning the use of OMT during pregnancy. We used nationwide registry linkages from the Czech Republic (2000‐2014) and Norway (2004‐201..."]
+      },
+      {
+        "title": "Self-reported harm from others’ alcohol, cigarette and illegal drug use in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Inger Synnøve Moan", "Elin K Bye", "Elisabet E. Storvoll", "Ingunn Olea Lund"],
+        "abstract": ["Aims: \nWhile it is documented that substance use harms others than the user, less is known about which substances people experience most harm from, and who the victims and perpetrators are. The aims were: (i) to estimate the prevalence of and overlap in self-reported harm from others' alcohol, cigarette, and illegal drug use; (ii) to examine potent..."]
+      },
+      {
+        "title": "Improving Identification and Child-Focused Collaborative Care for Children of Parents With a Mental Illness in Tyrol, Austria",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Hanna Chistiansen", "Annette Bauer", "Batool Fatima", "Jean Lillian Paul"],
+        "abstract": ["Background: Children of parents with a mental illness (COPMI) are more likely to experience negative long-term adversities. However, interventions to support their needs early can significantly enhance adjustment and reduce negative outcomes. Approximately one in four children currently lives with a parent with mental illness worldwide. The lifelon..."]
+      },
+      {
+        "title": "An epidemiological, developmental and clinical overview of cannabis use during pregnancy",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Hanan El Marroun", "Qiana L. Brown", "Ingunn Olea Lund", "Yukiko Washio"],
+        "abstract": ["The objective of the current narrative literature review is to provide an epidemiological, developmental and clinical overview on cannabis use during pregnancy. Cannabis use in pregnancy poses major health concerns for pregnant mothers and their developing children. Although studies on the short- and long-term consequences of prenatal cannabis expo..."]
+      },
+      {
+        "title": "Parental drinking and child long-term depression and anxiety: A longitudinal combined survey and registry study.",
+        "tags": ["Poster"],
+        "date": "May 2018",
+        "authors": ["Ingunn Olea Lund", "Svetlana Skurtveit", "Marte Handal", "Jasmina Burdzovic Andreas"],
+        "abstract": []
+      },
+      {
+        "title": "Neonatal Outcomes after Fetal Exposure to Methadone and Buprenorphine: National Registry Studies from the Czech Republic and Norway",
+        "tags": ["Article"],
+        "date": "Feb 2018",
+        "authors": ["Blanka Nechanská", "Viktor Mravcík", "Svetlana Skurtveit", "Marte Handal"],
+        "abstract": ["Background and Aims\nOpioid maintenance treatment (OMT) is recommended to opioid dependent females during pregnancy. However, it is not clear which medication should be preferred. We aimed to compare neonatal outcomes after prenatal exposure to methadone (M) and buprenorphine (B) in two European countries.\n\nDesign \nNationwide register-based cohort s..."]
+      },
+      {
+        "title": "Worries about others’ substance use—Differences between alcohol, cigarettes and illegal drugs?",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Inger Synnøve Moan", "Elisabet E. Storvoll", "Ingunn Olea Lund"],
+        "abstract": ["Background\nWhile it is well documented that many experience harm from others’ substance use, little is known about the psychological strain associated with others’ use. The aims were: (1) to describe the prevalence of worries about others’ alcohol, cigarette and illegal drug use, (2) whose substance use people worry about, (3) the overlap in worrie..."]
+      },
+      {
+        "title": "Harm from others’ drinking: How problematic do people with and without experience of harm perceive it to be?",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["Ingunn Olea Lund", "Inger Synnøve Moan", "Elisabet E. Storvoll"],
+        "abstract": ["Background\nThe aims were (1) to map how problematic people perceive it to be that a person experiences different types of harm from others’ drinking, (2) to describe how problematic victims of harm from others’ drinking perceive the experience to be, and 3) to investigate how perceptions of harm from others’ drinking vary according to demographic c..."]
+      },
+      {
+        "title": "A Unique Opportunity to Study Short and Long Term Consequences in Children Prenatally Exposed to Illicit Drugs and Opioid Maintenance Treatment Using Czech and Scandinavian Registers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Roman Gabrhelík", "Blanka Nechanská", "Viktor Mravcík", "Marte Handal"],
+        "abstract": ["Licit and illicit drug use in pregnant women constitutes a long lasting and serious problem worldwide. Information on long-term effects of maternal drug use on the child is limited. Nationwide registers provide a great potential to study short and long-term consequences for children exposed to licit and illicit drugs during pregnancy. We discuss th..."]
+      },
+      {
+        "title": "Introductory Editorial: Harm to Others From Substance Use and Abuse",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Ingunn Olea Lund", "Erica Sundin", "Carolien Konijnenberg", "Andrea L Gordon"],
+        "abstract": []
+      },
+      {
+        "title": "Changes in transport risk perception in urban populations in Norway from 2004 to 2013",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Ingunn Olea Lund", "Trond Nordfjærn", "Torbjorn Rundmo"],
+        "abstract": ["Previous work has demonstrated that risk-related constructs are relevant for use of transport in urban populations. This study investigates changes in transport-related worry, risk perception and demand for risk mitigation among the urban population in Norway in 2004 and 2013. The results are based on self-completion questionnaire surveys conducted..."]
+      },
+      {
+        "title": "Negative Consequences of Other People’s Drinking: Prevalence, Perpetrators and Locations",
+        "tags": ["Article"],
+        "date": "Feb 2016",
+        "authors": ["Elisabet E. Storvoll", "Inger Synnøve Moan", "Ingunn Olea Lund"],
+        "abstract": ["Introduction and Aims. While both policy makers and researchers have shown renewed interest in drinking and harm to others,several questions concerning the issue remain unanswered. The aim of this study was to address some of these questions by: (i) presenting updated figures on the prevalence of experienced harm from other people’s drinking in var..."]
+      },
+      {
+        "title": "Harm Experienced from the Heavy Drinking of Family and Friends in the General Population: A Comparative Study of Six Northern European Countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Mats Ramstedt", "Erica Sundin", "Inger Synnøve Moan", "Christoffer Tigerstedt"],
+        "abstract": ["Background: \nEpidemiological research on alcohol-related harm has long given priority to studies on harm to the drinker. A limitation with this perspective is that it neglects the harm drinking causes to people around the drinker, and thus, it fails to give a full picture of alcohol-related harm in society.\n\nAim: \nThe aim was to compare the prevale..."]
+      },
+      {
+        "title": "A Cohort Study on Long-Term Adverse Effects of Parental Drinking: Background and Study Design",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Ingunn Olea Lund", "Anne Bukten", "Elisabet E Storvoll", "Ingeborg Rossow"],
+        "abstract": ["Although many studies have addressed adverse outcomes in children of parents with alcohol abuse/dependence, less is known about the possible long-term effects of more normative patterns of parental alcohol consumption, including drinking at lower risk levels and heavy episodic or binge drinking. The extent of harm from parental drinking may therefo..."]
+      },
+      {
+        "title": "A Cohort Study on Long-Term Adverse Effects of Parental Drinking: Background and Study Design",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Ingunn Olea Lund", "Anne Bukten", "Elisabet E. Storvoll", "Ingeborg Rossow"],
+        "abstract": ["Although many studies have addressed adverse outcomes in children of parents with alcohol abuse/dependence, less is known about the possible long-term effects of more normative patterns of parental alcohol consumption, including drinking at lower risk levels and heavy episodic or binge drinking. The extent of harm from parental drinking may therefo..."]
+      },
+      {
+        "title": "The Norwegian Offender Mental Health and Addiction Study – Design and Implementation of a National Survey and Prospective Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Anne Bukten", "Ingunn Olea Lund", "Eline Borger Rognli", "Nikolaj Kunøe"],
+        "abstract": ["The Norwegian prison inmates are burdened by problems before they enter prison. Few studies have managed to assess this burden and relate it to what occurs for the inmates once they leave the prison. The Norwegian Offender Mental Health and Addiction (NorMA) study is a large-scale longitudinal cohort study that combines national survey and registry..."]
+      },
+      {
+        "title": "Experienced Harm from Other People's Drinking: A Comparison of Northern European Countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Inger Synnøve Moan", "Elisabet E. Storvoll", "Erica Sundin", "Sveinbjörn Kristjansson"],
+        "abstract": ["Objective: \nThis study addresses how experienced harm from other people's drinking varies between six Northern European countries by comparing 1) the prevalence of experienced harm and 2) the correlates of harm.\n\nMethod: \nThe data comprise 18-69-year olds who participated in general population surveys in Denmark, Finland, Iceland, Norway, Sweden, a..."]
+      },
+      {
+        "title": "Harm to Others from Substance Use and Abuse: The Underused Potential in Nationwide Registers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Ingunn Olea Lund", "Anne Bukten"],
+        "abstract": ["This article considers the potential in using nationwide registers to study harm to others from substance use and abuse. The advantages of using registry data include the opportunity to include the data on the entire population nationwide and continuously updated longitudinal datasets; they allow for studying small subpopulations and have little mi..."]
+      },
+      {
+        "title": "Overlap in attitudes to policy measures on alcohol, tobacco and illegal drugs",
+        "tags": ["Article"],
+        "date": "Oct 2015",
+        "authors": ["Ingunn Olea Lund", "Torleif Halkjelsvik", "Elisabet E Storvoll"],
+        "abstract": ["Background: \nEffective alcohol, tobacco and illegal drug policies reduce the harm to users and third parties. Knowledge about determinants and interrelations between attitudes held by the general public to different types of policy measures can benefit policy-makers who aim to increase acceptance for effective policy. The present study describes th..."]
+      },
+      {
+        "title": "Commentary on Raitasalo et al . (2015): The great potential in nation-wide registers to study prescription drug use and abuse: Commentary",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Ingunn Olea Lund", "Svetlana Skurtveit", "Marte Handal"],
+        "abstract": []
+      },
+      {
+        "title": "Habitual, safety and security factors related to mode use on two types of travels among urban Norwegians",
+        "tags": ["Article"],
+        "date": "Mar 2015",
+        "authors": ["Trond Nordfjærn", "Hans Brende Lind", "Özlem Şimşekoğlu", "Torbjorn Rundmo"],
+        "abstract": []
+      },
+      {
+        "title": "Behavioural outcomes of four-year-old children prenatally exposed to methadone or buprenorphine: a test of three risk models",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Carolien Konijnenberg", "Ingunn Olea Lund", "Annika Melinder"],
+        "abstract": ["It is still under debate whether the reported effects of opioid maintenance therapy (OMT) on child behaviour are a direct effect of prenatal exposure, or whether other factors are involved. This prospective cohort study investigated three models: the teratogenic risk model, the maternal risk model, and a combined risk model in a group of 35 childre..."]
+      },
+      {
+        "title": "Mødre i LAR: Rus og relaterte problemer over tid?",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Ingunn Olea Lund", "Edle Ravndal", "Håvar Brendryen"],
+        "abstract": []
+      },
+      {
+        "title": "Characteristics of a national sample of intimate partner violence (IPV) victims: Associations between perpetrator substance use and physical IPV",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Ingunn Olea Lund"],
+        "abstract": ["Aims\nDuring the last two decades there has been a substantial liberalisation of Norwegian alcohol policy in terms of increased availability of alcohol. We have studied what happens with public support for alcohol control policies in a country where the policy is liberalised. First, we summarise the findings from previous Norwegian studies on change..."]
+      },
+      {
+        "title": "Characteristics of a national sample of victims of intimate partner violence (IPV): Associations between perpetrator substance use and physical IPV",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Ingunn Olea Lund"],
+        "abstract": ["BACKGROUND - This paper provides a characterisation of a national sample of intimate partner violence (IPV) victim shelter residents. The study also examines whether perpetrator substance use contributed to physical IPV in 2 subsamples: 1) Norwegian victims and perpetrators, and 2) immigrant victims and perpetrators. METHODS - A national sample (N=..."]
+      },
+      {
+        "title": "A Longitudinal Study on Substance Use and Related Problems in Women in Opioid Maintenance Treatment from Pregnancy to Four Years after Giving Birth",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Ingunn Olea Lund", "Håvar Brendryen", "Edle Ravndal"],
+        "abstract": ["Background: Women in opioid maintenance treatment (OMT) have a past characterized by drug abuse, which is a challenging start for parenthood. Studies of mothers in OMT are typically limited to pregnancy and early infancy. Knowledge about how they cope with substance use and related problems in the years following birth is therefore important. The a..."]
+      },
+      {
+        "title": "Balance - a pragmatic randomized controlled trial of an online intensive self-hel alcohol intervention",
+        "tags": ["Data"],
+        "date": "Jan 2014",
+        "authors": ["Håvar Brendryen", "Ingunn Olea Lund", "Ayna Johansen", "Fanny Duckert"],
+        "abstract": []
+      },
+      {
+        "title": "Balance—A pragmatic randomized controlled trial of an online intensive self-help alcohol intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Håvar Brendryen", "Ingunn Olea Lund", "Ayna Johansen", "Fanny Duckert"],
+        "abstract": ["To compare a brief versus a brief plus intensive self-help version of \"Balance\", a fully automated online alcohol intervention, on self-reported alcohol consumption.\nA pragmatic randomized controlled trial. Participants in both conditions received an online single session screening procedure including personalized normative feedback. The control gr..."]
+      },
+      {
+        "title": "Pregnant women in Opioid maintenance treatment (OMT) : Maternal and neonatal outcomes",
+        "tags": ["Thesis"],
+        "date": "Apr 2013",
+        "authors": ["Ingunn Olea Lund"],
+        "abstract": []
+      },
+      {
+        "title": "A Comparison of Buprenorphine + Naloxone to Buprenorphine and Methadone in the Treatment of Opioid Dependence during Pregnancy: Maternal and Neonatal Outcomes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2013",
+        "authors": ["Ingunn Olea Lund", "Gabriele Fischer", "Gabrielle Welle-Strand", "Hendrée E. Jones"],
+        "abstract": ["Given that buprenorphine + naloxone is prescribed for opioid-dependent pregnant women, it is important to examine the extent to which it differs from buprenorphine alone, methadone, or methadone-assisted withdrawal on neonatal and maternal outcomes. Summary statistics on maternal and neonatal outcomes were collected from 7 previously published stud..."]
+      },
+      {
+        "title": "A 2-year prospective study of psychological distress among a national cohort of pregnant women in opioid maintenance treatment and their partners",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Ingunn Olea Lund", "Svetlana Skurtveit", "Monica Sarfi", "Edle Ravndal"],
+        "abstract": ["Background: The prevalence of psychological distress among persons in opioid maintenance treat-ments (OMT) is high. It is important to assess psychological distress among OMT mothers and their partners because such psychological distress increases the risk of relapse to substance use. Methods: A national cohort of pregnant women in OMT (n = 37) and..."]
+      },
+      {
+        "title": "Female partners of opioid-injecting men in the Republic of Georgia: An initial characterization",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Ingunn Olea Lund", "Irma Kirtadze", "David Otiashvili", "Hendrée E. Jones"],
+        "abstract": ["Background\nHIV and Hepatitis C virus (HCV) infections are strongly related to injection drug use in the Republic of Georgia. Little information is available about HIV and HCV status, sexual risk, support for their partner, and risk for physical violence among the female partners of opioid-injecting men in the Republic of Georgia, many of whom may n..."]
+      },
+      {
+        "title": "Associations between risk judgments and demand for transport risk mitigation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Ingunn Olea Lund", "Trond Nordfjærn", "Torbjorn Rundmo", "Lund"],
+        "abstract": ["The present study tested a hypothesized model regarding associations between risk sensitivity, risk perception, transport priorities, worry, and demand for risk mitigation in transport. An additional aim was to investigate differences in risk perception, worry, risk sensitivity, transport priorities, and demand for risk mitiga-tion in age-groups, g..."]
+      },
+      {
+        "title": "Prescription drug use among pregnant women in Opioid Maintenance Treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Ingunn Olea Lund", "Svetlana Skurtveit", "Anders Engeland", "Marte Handal"],
+        "abstract": ["Aims: \nThis study describes the use of prescribed drugs among women in opioid maintenance treatment (OMT) prior to, and during, pregnancy.\n\nDesign: \nThis cohort study was based on data from two nationwide databases: the Medical Birth Registry of Norway and the Norwegian Prescription Database.\n\nSetting: \nNorway, 2004-2010.\n\nParticipants: \nOMT drugs..."]
+      },
+      {
+        "title": "Substance use during and after pregnancy among a national cohort of pregnant women in opioid maintenance treatment and their partners",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Ingunn Olea Lund", "Svetlana Skurtveit", "Monica Sarfi", "Edle Ravndal"],
+        "abstract": ["Background: Most individuals in opioid maintenance treatment (OMT) have had serious polydrug problems in addition to opiate addiction. Prospective studies on substance use among pregnant women in OMT and their male partners on a national level have been scarce and therefore deserve attention. Methods: The European Addiction Severity Index was used..."]
+      },
+      {
+        "title": "Comparing methadone and buprenorphine maintenance with methadone-assisted withdrawal for the treatment of opioid dependence during pregnancy: Maternal and neonatal outcomes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2012",
+        "authors": ["Ingunn Olea Lund", "Heather Fitzsimons", "Michelle Tuten", "Hendrée E. Jones"],
+        "abstract": ["Pregnancy can motivate opioid-dependent women to seek substance abuse treatment. Research has demonstrated that although prenatal exposure to buprenorphine results in less severe neonatal abstinence syndrome (NAS) relative to prenatal methadone exposure, the maternal and other neonatal outcomes are similar for the two medications. Maternal and neon..."]
+      },
+      {
+        "title": "Cross-cultural comparisons of traffic safety, risk perception, attitudes and behaviour",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2009",
+        "authors": ["Ingunn Olea Lund", "Torbjörn Rundmo"],
+        "abstract": ["The core aim of the present study is to examine cultural differences in risk perception and attitudes towards traffic safety and risk, taking behaviour in the Norwegian and the Ghanaian public. An additional aim is to discuss the applicability of various traffic measures, suited for low and middle income countries in Africa.Sample: The results of t..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "My primary research interests are Substance Use, Health Psychology, Health behaviors, Family studies, and Psychiatric epidemiology. I am a Research Professor at the Norwegian Institute of Public Health and at the Department of Psychology, University of Oslo.",
+    "publications": [73],
+    "reads": [9844],
+    "citations": [993]
   }
 }

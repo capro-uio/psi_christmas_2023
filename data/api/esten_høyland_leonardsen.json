@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-5099-116X",
-    "name": "Esten Leonardsen",
+    "orcid": ["0000-0002-5099-116X"],
+    "name": ["Esten Leonardsen"],
     "distinctions": [],
     "education": [
       {
@@ -63,8 +63,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Esten Høyland Leonardsen",
-    "id": "500357",
+    "name": ["Esten Høyland Leonardsen"],
+    "id": ["500357"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -118,5 +118,15 @@
         "url": "https://api.cristin.no/v2/results/1975067"
       }
     ]
+  },
+  "rg": {
+    "id": "Jose_Esten",
+    "name": "Jose Esten",
+    "img": "https://i1.rgstatic.net/ii/profile.image/801290900750350-1568054046740_Q128/Jose_Esten.jpg",
+    "affiliation": "Ministry of Economy Planning and Development, direction of economic and social development",
+    "keywords": ["Applied Econometrics", "Panel Data Econometrics", "Applied Microeconometrics", "Econometric Modeling", "Economic Policy Analysis"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

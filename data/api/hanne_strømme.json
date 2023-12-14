@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-5536-1071",
-    "name": "Hanne Strømme",
+    "orcid": ["0000-0001-5536-1071"],
+    "name": ["Hanne Strømme"],
     "distinctions": [],
     "education": [
       {
@@ -27,8 +27,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Hanne Strømme",
-    "id": "15073",
+    "name": ["Hanne Strømme"],
+    "id": ["15073"],
     "keywords": [],
     "position": ["Associate professor"],
     "img": {},
@@ -48,9 +48,9 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Learning Processes and Acquisition of Knowledge and Skills in Training and Supervision of Psychotherapy and Counselling: A Study Protocol for a Scoping Review",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1981679"
+        "url": "https://api.cristin.no/v2/results/1981679",
+        "title": "Learning Processes and Acquisition of Knowledge and Skills in Training and Supervision of Psychotherapy and Counselling: A Study Protocol for a Scoping Review"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -91,8 +91,8 @@
       {
         "type": "Academic anthology/Conference proceedings",
         "year": "2017",
-        "title": "From motivation to organizational integration: Training experiences of recently qualified psychoanalysts. In K. Martin & M. Siegward (Eds.), Psychology research progress. Psychoanalytic theory: A review and directions for research",
-        "url": "https://api.cristin.no/v2/results/1717840"
+        "url": "https://api.cristin.no/v2/results/1717840",
+        "title": "From motivation to organizational integration: Training experiences of recently qualified psychoanalysts. In K. Martin & M. Siegward (Eds.), Psychology research progress. Psychoanalytic theory: A review and directions for research"
       },
       {
         "type": "Feature article",
@@ -115,9 +115,9 @@
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Analytic change: Assessing ways of being in a psychoanalytic follow-up interview",
         "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1256226"
+        "url": "https://api.cristin.no/v2/results/1256226",
+        "title": "Analytic change: Assessing ways of being in a psychoanalytic follow-up interview"
       },
       {
         "type": "Reader opinion piece",
@@ -128,14 +128,14 @@
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "Psychoanalytic training. Comparative study of regular and nonregular settings in Europe. EPF and PIEE Project. First results",
-        "url": "https://api.cristin.no/v2/results/1214005"
+        "url": "https://api.cristin.no/v2/results/1214005",
+        "title": "Psychoanalytic training. Comparative study of regular and nonregular settings in Europe. EPF and PIEE Project. First results"
       },
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "Training Experience and Professional Development. Interviewing Phase and Content Analysis. Interpretative Phenomenological Thematic Analysis (IPA)",
-        "url": "https://api.cristin.no/v2/results/1213998"
+        "url": "https://api.cristin.no/v2/results/1213998",
+        "title": "Training Experience and Professional Development. Interviewing Phase and Content Analysis. Interpretative Phenomenological Thematic Analysis (IPA)"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -145,22 +145,22 @@
       {
         "type": "Poster",
         "year": "2014",
-        "title": "Psychotherapeutic competence in supervision and therapy (CIST). The Nordic Psychotherapy Training Study",
-        "url": "https://api.cristin.no/v2/results/1141401"
+        "url": "https://api.cristin.no/v2/results/1141401",
+        "title": "Psychotherapeutic competence in supervision and therapy (CIST). The Nordic Psychotherapy Training Study"
       },
       {
         "type": "Academic article",
         "year": "2014",
-        "title": "What can we expect from trainee therapists? A study of acquisition of competence in dynamic psychotherapy",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/1108870"
+        "url": "https://api.cristin.no/v2/results/1108870",
+        "title": "What can we expect from trainee therapists? A study of acquisition of competence in dynamic psychotherapy"
       },
       {
         "type": "Academic article",
         "year": "2014",
-        "title": "A bad and a better supervision process; Actualized relational scenarios in trainees: A longitudinal study of nondisclosure in psychodynamic supervision",
         "journal": "Psychoanalytic inquiry",
-        "url": "https://api.cristin.no/v2/results/1106316"
+        "url": "https://api.cristin.no/v2/results/1106316",
+        "title": "A bad and a better supervision process; Actualized relational scenarios in trainees: A longitudinal study of nondisclosure in psychodynamic supervision"
       },
       {
         "type": "Reader opinion piece",
@@ -189,29 +189,29 @@
       {
         "type": "Academic lecture",
         "year": "2012",
-        "title": "Psychodynamic therapy: Different supervision approaches and competence assessments among experienced supervisors \r\n",
-        "url": "https://api.cristin.no/v2/results/1214032"
+        "url": "https://api.cristin.no/v2/results/1214032",
+        "title": "Psychodynamic therapy: Different supervision approaches and competence assessments among experienced supervisors \r\n"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "Confronting helplessness: A study of the acquisition of dynamic psychotherapeutic competence by psychology students",
         "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/1002862"
+        "url": "https://api.cristin.no/v2/results/1002862",
+        "title": "Confronting helplessness: A study of the acquisition of dynamic psychotherapeutic competence by psychology students"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "Disclosure or non-disclosure? An in-depth study of psychodynamic supervision",
         "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/1002679"
+        "url": "https://api.cristin.no/v2/results/1002679",
+        "title": "Disclosure or non-disclosure? An in-depth study of psychodynamic supervision"
       },
       {
         "type": "Academic article",
         "year": "2010",
-        "title": "A widening scope on therapist development. A research interview informed by psychoanalysis",
         "journal": "Qualitative Research in Psychology",
-        "url": "https://api.cristin.no/v2/results/523529"
+        "url": "https://api.cristin.no/v2/results/523529",
+        "title": "A widening scope on therapist development. A research interview informed by psychoanalysis"
       },
       {
         "type": "Academic article",
@@ -220,5 +220,110 @@
         "url": "https://api.cristin.no/v2/results/397067"
       }
     ]
+  },
+  "rg": {
+    "id": "Hanne-Stromme",
+    "name": "Hanne Strømme",
+    "img": "https://i1.rgstatic.net/ii/profile.image/446436849524738-1483450247666_Q128/Hanne-Stromme.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Supervision", "Psychoanalysis", "Qualitative Research", "Psychodynamic Psychotherapy", "Qualitative Interviews"],
+    "works": [
+      {
+        "title": "Folkeopplysningens konklusjon er misvisende",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ole André Solbakken", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Hanne Strømme"],
+        "abstract": "Folkeopplysningens siste episode presenterte en rekke problematiske påstander om effekten av psykoterapi. Heldigvis er påstandene allerede blitt imøtegått av en rekke fagpersoner, forfatterne av denne kommentaren inkludert, på flere arenaer i ettertid. Med dette innlegget ønsker vi å redegjøre mer detaljert for hvorfor konklusjonen fra Folkeopplysn..."
+      },
+      {
+        "title": "Learning Processes and Acquisition of Knowledge and Skills in Training and Supervision of Psychotherapy and Counselling: A Study Protocol for a Scoping Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Hanne Weie Oddli", "Erkki Heinonen", "Stephan Hau", "Hanne Strømme"],
+        "abstract": "Background: Increased awareness of the individual therapist’s vital contribution to\ntreatment processes and outcome, and the potential role of training and supervision in\nthis respect, warrants a close look at the empirical and theoretical literature on teaching\nand learning of therapists and counselors.\nMethods: A scoping review of the literature..."
+      },
+      {
+        "title": "Moderne psykoanalytisk terapi: Samspillets potensial for utvikling og endring",
+        "tags": ["Chapter"],
+        "date": "Nov 2021",
+        "authors": ["Erik Stänicke", "Line Indrevoll Stänicke", "Hanne Strømme"],
+        "abstract": "I dette kapittelet om psykoanalytisk terapi vil vi fokusere på et sentralt perspektiv innen moderne psykoanalyse, som betegnes som «moderne objektrelasjonsteori». Innen objektrelasjonsteori vil samspillserfaringer og utviklingsvansker betraktes som et sentralt grunnlag for å forstå psykiske lidelser. Det er de internaliserte, destruktive eller fors..."
+      },
+      {
+        "title": "Klinisk tenkning og psykoanalyse",
+        "tags": ["Book"],
+        "date": "Nov 2019",
+        "authors": ["Line Indrevoll Stänicke", "Erik Stänicke", "Hanne Strømme", "sølvi kristiansen"],
+        "abstract": "Psykoanalysen har lang tradisjon både som personlighetsteori og behandlingsform. Men den kan også anvendes bredere; som et verktøy for å forstå menneskelig samspill både i nære relasjoner og på samfunnsnivå. I boken \"Klinisk tenkning og psykoanalyse\" illustreres bredden i dagens forståelse av psykoanalyse, med klinisk tenkning som rød tråd. Gjennom..."
+      },
+      {
+        "title": "From Motivation to Organisational Integration: Training Expreinces of Recently Qulified Psychoanalysts",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Svetlozar M. Vassilev", "Gabor Szonyi", "Hanne Strømme"],
+        "abstract": "The research project “Psychoanalytic Training in Different Settings: The Path (the Experience) and the Outcome”, is supported by the European Psychoanalytic Federation (EPF) under the auspices of the Han Groen-Prakken Psychoanalytic Institute (PIEE) and done by an international team (2011 to 2016). This chapter summarizes and discusses major findin..."
+      },
+      {
+        "title": "Cambio analítico: evaluando los modos de ser en las entrevistas de seguimiento psicoanalíticas",
+        "tags": ["Article"],
+        "date": "May 2015",
+        "authors": ["Erik Stänicke", "Hanne Strømme", "Bjørn Killingmo", "Siri Erika Gullestad"],
+        "abstract": "El artículo argumenta y propone que los conceptos de escenario relacional, afectos estructurados y afectos actualizados sean considerados a la hora de observar los cambios en los modos de ser relacionales que se expresan en la transferencia. Se presenta una entrevista psicoanalítica de seguimiento de un ex-paciente analítico para ilustrar cómo el c..."
+      },
+      {
+        "title": "A Bad and a Better Supervision Process; Actualized Relational Scenarios in Trainees: A Longitudinal Study of Nondisclosure in Psychodynamic Supervision",
+        "tags": ["Article"],
+        "date": "Aug 2014",
+        "authors": ["Hanne Strømme"],
+        "abstract": "This is a qualitative study of the supervision processes of two trainee clinical psychologists who conduct their first intensive psychodynamic therapy. The study questions whether the trainees’ degree of disclosure of feelings toward their supervisors to the supervisor was influenced by the evoked relational scenarios in them. The trainees had one..."
+      },
+      {
+        "title": "Analytic change: Assessing ways of being in a psychoanalytic follow-up interview",
+        "tags": ["Article"],
+        "date": "Mar 2014",
+        "authors": ["Erik Stänicke", "Hanne Strømme", "Bjørn Killingmo", "Siri Erika Gullestad"],
+        "abstract": "The article argues that the concepts of relational scenario, structuralized affect and actualized affect are proposed candidates for observation of changes in relational ways of being as it is expressed in transference. A psychoanalytic follow-up interview of a former analytic patient is presented in order to illustrate how change in relational way..."
+      },
+      {
+        "title": "The Scandinavian Psychoanalytic Review What can we expect from trainee therapists? A study of acquisition of competence in dynamic psychotherapy PLEASE SCROLL DOWN FOR ARTICLEpage/terms-and-conditions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Bjørn Killingmo", "Sverre Varvin", "Hanne Strømme", "Taylor & Francis"],
+        "abstract": "makes every effort to ensure the accuracy of all the information (the \"Content\") contained in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the Content. Any opinions and views expressed in..."
+      },
+      {
+        "title": "Confronting helplessness: A study of the acquisition of dynamic psychotherapeutic competence by psychology students",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2012",
+        "authors": ["Hanne Strømme"],
+        "abstract": "The helplessness student therapists initially feel while conducting their first dynamic psychotherapy is the main focus of a longitudinal study at the University of Oslo. The study involves 23 student therapists, the supervisors of the initial 21 student therapists and 23 patients. The analysis is based on triangulation of data from research interv..."
+      },
+      {
+        "title": "Disclosure or non-disclosure?",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Hanne Strømme", "Siri Erika Gullestad"],
+        "abstract": "Contemporary supervision discussions often imply that non-disclosure may hinder the learning process of a supervisee. However, is disclosure always a benefit? What are the consequences of non-disclosure—or disclosure—for a student therapist's training? These questions are discussed through an in-depth analysis of longitudinal data from a single-cas..."
+      },
+      {
+        "title": "Disclosure or non-disclosure?: An in-depth study of psychodynamic supervision",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Hanne Strømme", "S.E. Gullestad"],
+        "abstract": "Contemporary supervision discussions often imply that non-disclosure may hinder the learning process of a supervisee. However, is disclosure always a benefit? What are the consequences of non-disclosure - or disclosure - for a student therapist's training? These questions are discussed through an in-depth analysis of longitudinal data from a single..."
+      },
+      {
+        "title": "A Widened Scope on Therapist Development: Designing a Research Interview Informed by Psychoanalysis",
+        "tags": ["Article"],
+        "date": "Aug 2010",
+        "authors": ["Hanne Strømme", "Siri Erika Gullestad", "Erik Stänicke", "Bjørn Killingmo"],
+        "abstract": "This article presents a qualitative research interview method informed by psychoanalysis, which can collect data beyond the subjective report of the participants. The method has been used to study acquisition of psychodynamic understanding and therapy technique among student therapists in psychology. Within the psychodynamic tradition, the subjecti..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [13],
+    "reads": [1599],
+    "citations": [77]
   }
 }

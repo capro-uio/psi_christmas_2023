@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Bernadette Christensen",
-    "id": "19279",
+    "name": ["Bernadette Christensen"],
+    "id": ["19279"],
     "keywords": [],
     "position": ["Emeritus"],
     "img": {},
@@ -55,5 +55,59 @@
         "url": "https://api.cristin.no/v2/results/1043056"
       }
     ]
+  },
+  "rg": {
+    "id": "Bernadette-Christensen",
+    "name": "Bernadette Christensen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/590723611103233-1517850892748_Q128/Bernadette-Christensen.jpg",
+    "affiliation": "The Norwegian Center for Child Behavioral Development | NUBU, The Norwegian Center for Child Behavioral Development, Youth",
+    "keywords": ["Evidence Based Practice", "Implementation", "Counseling", "Treatment", "Therapeutic Alliance", "Behavioral Psychology", "Motivational Interviewing", "Addiction Psychology", "Psychology of Adolescence", "Therapeutic Outcomes"],
+    "works": [
+      {
+        "title": "Evaluating Modular Approach to Therapy for Children with Anxiety, Depression, Trauma and Conduct Problems (MATCH-ADCT) in Norwegian child and adolescent outpatient clinics: Study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Kristine amlund Hagen", "Asgeir Røyrhus Olseth", "Hanne Laland", "John Weisz"],
+        "abstract": ["Background\nNorwegian health, care, and welfare services are experiencing increased demands to deliver services that are safe, effective, of high quality, and that ensure user involvement. Yet, evidence-based treatment for common disorders such as depression, anxiety, trauma, and behavioral problems in children are not regularly used in clinical pra..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jan 2019",
+        "authors": ["Kristine amlund Hagen", "Asgeir Røyrhus Olseth", "Hanne Laland", "John Weisz"],
+        "abstract": []
+      },
+      {
+        "title": "Implementing and Evaluating Evidence-Based Treatments of Conduct Problems in Children and Youth in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2009",
+        "authors": ["Terje Ogden", "Kristine amlund Hagen", "Elisabeth Askeland", "Bernadette Christensen"],
+        "abstract": ["This article sums up 8 years of experience with evidence-based programs in the treatment of conduct problems in children and youth. A conceptual model describing the implementation components relevant to the Norwegian project is presented and discussed. Next, we describe a case study of the implementation strategy accompanied by outcomes from the c..."]
+      },
+      {
+        "title": "Bridging the Gap Between Science and Practice: The Effective Nationwide Transport of MST Programs in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2008",
+        "authors": ["Terje Ogden", "Bernadette Christensen", "Ashli J Sheidow", "Per Holth"],
+        "abstract": ["The successful nationwide transport and evaluation of Multisystemic Therapy (MST) programs in Norway is described. This description is provided within the context of the nation's movement towards the adoption of evidence-based practices (EBPs) during the past decade, the conduct of a multisite randomized clinical trial to examine the effectiveness..."]
+      },
+      {
+        "title": "Reflections During a Study on Family Therapy with Drug Addicts",
+        "tags": ["Article"],
+        "date": "Sep 1990",
+        "authors": ["SISSEL REICHELT M.D", "BERNADETTE CHRISTENSEN M.D", "Sissel Reichelt", "Bernadette Christensen"],
+        "abstract": ["This article presents ideas and reflections emerging during a project on family therapy with drug abusers. Initially inspired by the writings of Stanton and Todd (26, 27) on the subject, the project developed into a recursive and self-reflective process, characterized by increasing doubts about the usefulness of categorization of families, of pre-p..."]
+      },
+      {
+        "title": "MST-terapeuter er tilgjengelige for familien 24 timer i døgnet syv dager i uken. Tilbudet har gode resultater i Norge, og bør velges fremfor institusjonsbehandling",
+        "tags": ["Article"],
+        "authors": ["Bernadette Christensen", "Tori Mauseth"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "publications": [6],
+    "reads": [1370],
+    "citations": [99]
   }
 }

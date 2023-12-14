@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Bjørn Rishovd Rund",
-    "id": "DFmBywIAAAAJ",
-    "affiliation": "professor emeritus i psykolgi, Universitetet i Oslo",
+    "name": ["Bjørn Rishovd Rund"],
+    "id": ["DFmBywIAAAAJ"],
+    "affiliation": ["professor emeritus i psykolgi, Universitetet i Oslo"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0939-0012",
-    "name": "Bjørn Rishovd Rund",
+    "orcid": ["0000-0002-0939-0012"],
+    "name": ["Bjørn Rishovd Rund"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -939,11 +939,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Bjørn Rishovd Rund",
-    "id": "21883",
+    "name": ["Bjørn Rishovd Rund"],
+    "id": ["21883"],
     "keywords": ["Children", "Neuropsychology", "Cognitive psychology", "Youth", "Psychology of Law", "Schizophrenia", "Field- and reserach ethics"],
     "position": ["Emeritus", null],
-    "img": "https://api.cristin.no/v2/persons/21883/picture",
+    "img": ["https://api.cristin.no/v2/persons/21883/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1611,5 +1611,718 @@
         "url": "https://api.cristin.no/v2/results/882280"
       }
     ]
+  },
+  "rg": {
+    "id": "Bjorn-Rund",
+    "name": "Bjørn Rishovd Rund",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272373328904198-1441950270305_Q128/Bjorn-Rund.jpg",
+    "affiliation": "University of OsloVestre Viken Health Trust, Psychology",
+    "keywords": ["Forensic Psychiatry", "Mental Health", "Psychopathology", "Psychiatric Epidemiology", "Mental Illness", "Comorbidity", "Psychoeducation", "Clinical Psychology", "Neuropsychological Tests", "Clinical Psychiatry"],
+    "works": [
+      {
+        "title": "Anomalous self-experiences and neurocognitive functioning in adolescents at risk for psychosis: Still no significant associations found between these two vulnerability markers",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Caroline Ranem Mohn-Haugen", "Paul Møller", "Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["Background: \nAnomalous self-experiences (ASEs) and neurocognitive impairments are considered essential domains of vulnerability for developing psychotic disorders. However, little research exists of possible associations between ASEs and neurocognitive functions in individuals at-risk for psychosis. The interconnections between ASEs and neurocognit..."]
+      },
+      {
+        "title": "Association between early suicidal trajectories in first-episode psychosis and 10-year follow-up: TIPS registry-linked study",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Sherif M Gohar", "Wenche Ten Velden Hegelstad", "Bjørn Auestad", "Ingrid Melle"],
+        "abstract": ["Background: \nAlthough the risk of suicidality is high in first-episode psychosis, patterns and individual variability in suicidal thoughts and behaviours over time are under-researched. We aimed to identify early trajectories of suicidality over a 2-year follow-up, assess their baseline predictors, and explore associations between those trajectorie..."]
+      },
+      {
+        "title": "The “zipper model of empathy” applied to violence in schizophrenia: A search for social cognitive underpinnings of lack of empathic behavior",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Anja Vaskinn", "Katharina N. Engelstad", "Manuel Zamparini", "Bjørn Rishovd Rund"],
+        "abstract": ["Background: \nThe \"zipper model of empathy\" has been proposed for psychopathy. It postulates that empathic behavior may fail to arise due to impaired facial emotion recognition. In this study, we examined if the model may be of relevance for schizophrenia.\n\nMethods: \nIn a sample of participants with schizophrenia and a history of severe interpersona..."]
+      },
+      {
+        "title": "Cognitive functioning in a group of adolescents at risk for psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Caroline Ranem Mohn-Haugen", "Christine Mohn", "Frank Larøi", "Bjørn Rishovd Rund"],
+        "abstract": ["Cognitive deficits are a core feature of schizophrenia, and impairments are present in groups at-risk for psychosis. Most at-risk studies include young adults and not younger age-groups, such as adolescents. Participants are usually help-seeking individuals, even though risk factors may also be present in non-help seeking adolescents. We aim to exp..."]
+      },
+      {
+        "title": "A systematic review of premorbid cognitive functioning and its timing of onset in schizophrenia spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Caroline Ranem Mohn-Haugen", "Christine Mohn", "Frank Larøi", "Bjørn Rishovd Rund"],
+        "abstract": ["Cognitive impairments are core features of established schizophrenia spectrum disorders (SSD). However, it remains unclear whether specific cognitive functions are differentially impaired pre-onset and at what age these impairments can be detected. The purpose of this review was to elucidate these issues through a systematic summary of results from..."]
+      },
+      {
+        "title": "Negative Symptom Domains Are Associated With Verbal Learning in Adolescents With Early Onset Psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Lynn Mørch-Johnsen", "Runar Elle Smelror", "Dimitrios Andreou", "Ingrid Agartz"],
+        "abstract": ["Background: Early-onset psychosis (EOP) is among the leading causes of disease burden in adolescents. Negative symptoms and cognitive deficits predicts poorer functional outcome. A better understanding of the association between negative symptoms and cognitive impairment may inform theories on underlying mechanisms and elucidate targets for develop..."]
+      },
+      {
+        "title": "Childhood trauma, antipsychotic medication, and symptom remission in first-episode psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Akiah Ottesen", "Wenche Ten Velden Hegelstad", "Inge Joa", "Ingrid Melle"],
+        "abstract": ["Background\nTo what extent psychotic symptoms in first-episode psychosis (FEP) with a history of childhood interpersonal trauma (CIT) are less responsive to antipsychotic medication is not known. In this longitudinal study, we compare symptom trajectories and remission over the first 2 years of treatment in FEP with and without CIT and examine if di..."]
+      },
+      {
+        "title": "Childhood trauma, social cognition and schizophrenia: Specific association between physical neglect and cognitive theory of mind in homicide offenders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Anja Vaskinn", "Katharina N. Engelstad", "Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": ["Schizophrenia is associated with a small, but increased risk of violent behavior, including homicide. Violent individuals with schizophrenia have elevated rates of childhood trauma and substantial social cognitive impairments. The aim of this study was to examine if childhood trauma is related to social cognition in homicide offenders with schizoph..."]
+      },
+      {
+        "title": "Cognitive impairment profile in adolescent early-onset psychosis using the MATRICS Battery: Age and sex effects",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Runar Elle Smelror", "Cecilie H. Johannessen", "Kirsten Wedervang-Resell", "Ingrid Agartz"],
+        "abstract": ["Objective:\nTo examine cognitive performance, stratified by age and sex, in adolescents with early-onset psychosis (EOP), relative to the healthy adolescent standardized scores for the MATRICS Consensus Cognitive Battery (MCCB). \nMethod:\nSeventy-one EOP patients (12-18 years) were included in the study. Raw scores of nine MCCB tests were converted i..."]
+      },
+      {
+        "title": "Cognitive Performance in Early-Onset Schizophrenia and Attention-Deficit/Hyperactivity Disorder: A 25-Year Follow-Up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Merete Glenne Øie", "Kjetil Sundet", "Elisabeth Haug", "Bjørn Rishovd Rund"],
+        "abstract": ["Early-Onset Schizophrenia (EOS) and Attention Deficit-Hyperactivity Disorder (ADHD) are early- onset neurodevelopmental disorders associated with cognitive deficits. The current study represents the first attempt to compare these groups on a comprehensive cognitive test battery in a longitudinal design over 25 years in order to enhance our knowledg..."]
+      },
+      {
+        "title": "Negative and disorganized symptoms mediate the relationship between verbal learning and global functioning in adolescents with early-onset psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Runar Elle Smelror", "Bjørn Rishovd Rund", "Vera Lonning", "Ingrid Agartz"],
+        "abstract": ["Neurocognitive deficits are associated with impaired global functioning and psychotic symptoms. However, whether symptoms can mediate the relationship between neurocognition and global functioning in adolescent psychosis is unclear. Here, we investigated if symptoms assessed with the Positive And Negative Syndrome Scale (PANSS), mediated the relati..."]
+      },
+      {
+        "title": "Intracranial and subcortical volumes in adolescents with early‐onset psychosis: A multisite mega‐analysis from the ENIGMA consortium",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Tiril P. Gurholt", "Vera Lonning", "Stener Nerland", "Ingrid Agartz"],
+        "abstract": ["Early‐onset psychosis disorders are serious mental disorders arising before the age of 18 years. Here, we investigate the largest neuroimaging dataset, to date, of patients with early‐onset psychosis and healthy controls for differences in intracranial and subcortical brain volumes. The sample included 263 patients with early‐onset psychosis (mean..."]
+      },
+      {
+        "title": "Perinatal complications and executive dysfunction in early-onset schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Charlotte M. Teigset", "Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["Background: \nThe present study examined the association between perinatal obstetric complications and executive dysfunction in early-onset schizophrenia (EOS), compared to healthy controls. Higher incidences of obstetric complications and more severe executive dysfunctions characterize EOS. Research shows extensive brain maturation in newborns, sug..."]
+      },
+      {
+        "title": "Similar impairments shown on a neuropsychological test battery in adolescents with high-functioning autism and early onset schizophrenia: a two-year follow-up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Merete Glenne Øie", "Per Normann Andersen", "Kjell Tore Hovik", "Bjørn Rishovd Rund"],
+        "abstract": ["Introduction: Cognitive impairments are common in both Autism Spectrum Disorders (ASD) and schizophrenia, but it is unclear whether the pattern of difficulties is similar or different in the two disorders. This cross-sectional and longitudinal study compared the neuropsychological functioning in adolescents with ASD with adolescents with Early Onse..."]
+      },
+      {
+        "title": "Increased prevalence of psychopathy and childhood trauma in homicide offenders with schizophrenia compared to nonviolent individuals with schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Katharina Nymo Engelstad", "Bjørn Rishovd Rund", "Bjørn Lau", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Purpose: Schizophrenia is associated with an increased homicide risk. Personality pathology, particularly antisocial personality disorder and psychopathic traits, has been associated with increased violence risk in schizophrenia. Childhood trauma, more specifically physical abuse, has been associated with violence risk in healthy populations and in..."]
+      },
+      {
+        "title": "Early Substance Use Cessation Improves Cognition—10 Years Outcome in First-Episode Psychosis PatientsDataSheet_1.pdf",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Melissa A Weibell", "Jan Olav Johannessen", "Bjørn Auestad", "Wenche Ten Velden Hegelstad"],
+        "abstract": ["Background: Cognitive impairment may be a risk factor for, as well as a consequence of, psychosis. Non-remitting symptoms, premorbid functioning, level of education, and socioeconomic background are known correlates. A possible confounder of these associations is substance use, which is common among patients with psychosis and linked to worse clini..."]
+      },
+      {
+        "title": "O3.5. IMPROVED COGNITION WITH EARLY SUBSTANCE USE CESSATION IN FIRST-EPISODE PSYCHOSIS – 10 YEARS OUTCOME IN THE TIPS SAMPLE PATIENTS",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Melissa A Weibell", "Jan Olav Johannessen", "Bjørn Auestad", "Wenche Ten Velden Hegelstad"],
+        "abstract": ["Background\nNeurocognitive deficits may be a risk factor for, but also a result of, psychosis. Non-remitting symptoms, premorbid functioning, level of education, and socioeconomic background are known associations. A possible confounder is substance use, which is common among patients with psychosis and often accompanied by worse clinical outcomes...."]
+      },
+      {
+        "title": "Large social cognitive impairments characterize homicide offenders with schizophrenia",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Katharina Nymo Engelstad", "Bjørn Rishovd Rund", "Anne-Kari Torgalsbøen", "Anja Vaskinn"],
+        "abstract": []
+      },
+      {
+        "title": "Neurognitive function and symptom remission 2 years after ECT in major depressive disorders",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["Background: There is a lack of knowledge of possible cognitive side effects of electroconvulsive therapy (ECT) beyond the first few months after treatment. We aim to describe cognitive effects and symptom remission 2 years after ECT in major depressive disorders. Method: Twenty-seven depression patients were assessed with the MATRICS Consensus Cogn..."]
+      },
+      {
+        "title": "Adolescent Standardized Scoring Tables for the MCCB",
+        "tags": ["Data"],
+        "date": "Sep 2018",
+        "authors": ["Runar Elle Smelror", "Kjetil Nordbø Jørgensen", "Vera Lonning", "Ingrid Agartz"],
+        "abstract": ["MCCB Standardized Scores for Adolescents aged 11-19 years."]
+      },
+      {
+        "title": "Healthy Adolescent Performance With Standardized Scoring Tables for the MATRICS Consensus Cognitive Battery: A Multisite Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Runar Elle Smelror", "Kjetil Nordbø Jørgensen", "Vera Lonning", "Ingrid Agartz"],
+        "abstract": ["Objective: \nThe aim of this study was to develop standardized scores and scoring tables for test performance in healthy adolescents for the Measurement and Treatment Research to Improve Cognition in Schizophrenia (MATRICS) Consensus Cognitive Battery (MCCB) for each year from 11 to 19 years of age, by sex, with T scores and percentile ranks.\n\nMetho..."]
+      },
+      {
+        "title": "A review of factors associated with severe violence in schizophrenia",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Bjørn Rishovd Rund"],
+        "abstract": ["Background: There is a modest but consistent association between violence and schizophrenia. The consequences of serious violence could be catastrophic for the victims, as well as the patients themselves and the community. Any knowledge that would help to prevent acts of serious violence would be of considerable value for the individual and the soc..."]
+      },
+      {
+        "title": "Impaired neuropsychological profile in homicide offenders with schizophrenia",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Katharina Nymo Engelstad", "Anja Vaskinn", "Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Depression and functioning are important to subjective quality of life after a first episode psychosis",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Erlend Strand Gardsjord", "Kristin Lie Romm", "Jan Ivar Rossberg", "Ingrid Melle"],
+        "abstract": ["Background: \nSubjective quality of life (S-QoL) is an important outcome measure in first-episode psychosis, but its associations with clinical predictors may vary across the illness course. In this study we examine the association pattern, including both direct and indirect effects, between specific predefined clinical predictors (insight, depressi..."]
+      },
+      {
+        "title": "O8. Regional Cerebellar Volumes and Cerebello-Cerebral Structural Covariance in Adolescents With Early-Onset Psychosis: A Multisample Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Cecilie H. Johannessen", "Tiril P. Gurholt", "Stener Nerland", "Ingrid Agartz"],
+        "abstract": []
+      },
+      {
+        "title": "F86. SOCIAL COGNITION IN HOMICIDE OFFENDERS WITH SCHIZOPHRENIA",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Katharina Engelstad", "Bjørn Rishovd Rund", "Anne-Kari Torgalsbøen", "Anja Vaskinn"],
+        "abstract": ["Background\nSchizophrenia is characterized by impairments in social and non-social cognition that act as strong predictors of the poor outcome of the disorder, including violence. In fact, it has been suggested that the inclusion of (social) cognition in risk assessment tools may increase their accuracy. A premise for this line of thinking is that i..."]
+      },
+      {
+        "title": "S197. OBSTETRIC COMPLICATIONS, NEUROCOGNITION, AND SCHIZOPHRENIA",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Bjørn Rishovd Rund", "Charlotte M. Teigset", "Christine Mohn"],
+        "abstract": ["Background\nSchizophrenia is a disorder with a heterogeneous genetic and neurobiological background that influences early brain development. The symptoms is the behavioural outcome of deviations in early neurodevelopment, including prenatal insults such as obstetric complications (OC). OC have been linked to an increased risk for schizophrenia in of..."]
+      },
+      {
+        "title": "F66. DO CLINICAL VARIABLES DURING THE EARLY ILLNESS PERIOD PREDICT THE COGNITIVE COURSE IN EARLY-ONSET SCHIZOPHRENIA?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Charlotte M. Teigset", "Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["Background\nEarly-onset schizophrenia (EOS) affects approximately 5% of the schizophrenia population, and reflects increased disease severity, with a worse clinical course and outcome. Because of extensive brain maturation in the adolescence, the EOS patients provide unique neurodevelopmental data that may contribute to a better understanding of sch..."]
+      },
+      {
+        "title": "Do clinical characteristics predict the cognitive course in early-onset schizophrenia-spectrum disorders?",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Charlotte M. Teigset", "Christine Mohn", "Cathrine Brunborg", "Bjørn Rishovd Rund"],
+        "abstract": ["Background\nBeing in a period with extensive brain maturation, adolescents with early‐onset schizophrenia‐spectrum disorders (EOS) provide unique neurodevelopmental data that may contribute to a better understanding of schizophrenia at all ages. Cognitive dysfunction is a central feature of schizophrenia and is more pronounced in EOS than in later o..."]
+      },
+      {
+        "title": "The association between schizophrenia and violence",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "The research evidence for schizophrenia as a neurodevelopmental disorder",
+        "tags": ["Article"],
+        "date": "Feb 2018",
+        "authors": ["Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Rescue workers had greater confidence in their own mastery after the terror attacks of 22 July 2011",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Laila Skogstad", "Therese Brask-Rustad", "Bjørn Rishovd Rund", "Øivind Ekeberg"],
+        "abstract": []
+      },
+      {
+        "title": "A 10-year follow-up study of violent victimization in first episode psychosis: Risk and protective factors",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Johannes Langeveld", "Stål Bjørkly", "Julie Evensen", "Svein Friis"],
+        "abstract": ["Violent victimization in persons with severe mental illness has long-term adverse consequences. Little is known about the long-term prevalence of victimization in first episode psychosis, or about factors affecting victimization throughout the course of illness.\nTo assess the prevalence of violent victimization during a 10-year follow-up period in..."]
+      },
+      {
+        "title": "Is going into stable symptomatic remission associated with a more positive development of life satisfaction? A 10-year follow-up study of first episode psychosis",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Erlend Strand Gardsjord", "Kristin Lie Romm", "Jan Ivar Rossberg", "Ingrid Melle"],
+        "abstract": ["Background\nQuality of life is an important outcome measure for patients with psychosis.\nWe investigated whether going into stable symptomatic remission is associated with a more positive development of subjective quality of life (S-QoL) and if different patient characteristics are associated with S-QoL depending on remission status.\n\nMethods\nThree..."]
+      },
+      {
+        "title": "Causes and predictors of premature death in first‐episode schizophrenia spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Ingrid Melle", "Jan Olav Johannessen", "Ulrik Haahr", "Svein Friis"],
+        "abstract": []
+      },
+      {
+        "title": "The relationship between level of cognitive impairments and functional outcome trajectories in first-episode schizophrenia",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Susie Fu", "Nikolai Czajkowski", "Bjørn Rishovd Rund", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Although cognitive impairments are consistently linked to functional outcome in chronic schizophrenia, the relationship remains unclear for patients with first-episode schizophrenia. The objective of this present study was to determine whether there are distinct developmental trajectories for functional outcome in patients with different levels of..."]
+      },
+      {
+        "title": "SU47. Neurocognition and Substance use in First-Episode Psychosis: 10-Year Trajectories",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Melissa A Weibell", "Wenche Ten Velden Hegelstad", "Jan Olav Johannessen", "Ingrid Melle"],
+        "abstract": ["Background: Neurocognitive impairment is a core feature of schizophrenia and is observed in the majority of patients. Substance use is common among patients with psychosis and linked to poorer outcomes. As neurocognition is one of the strongest long-term predictors of functional outcome and recovery poorer outcomes would be expected for substance u..."]
+      },
+      {
+        "title": "The Effect of Substance Use on 10-Year Outcome in First-Episode Psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2017",
+        "authors": ["Melissa A Weibell", "Wenche Ten Velden Hegelstad", "Bjørn Auestad", "Svein Friis"],
+        "abstract": ["Substance use is common in first-episode psychosis (FEP) and has been linked to poorer outcomes with more severe psychopathology and higher relapse rates. Early substance discontinuation appears to improve symptoms and function. However, studies vary widely in their methodology, and few have examined patients longitudinally, making it difficult to..."]
+      },
+      {
+        "title": "Factor analyzing the Norwegian MATRICS Consensus Cognitive Battery: Factor analyzing the MCCB",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2017",
+        "authors": ["Christine Mohn", "June Ullevoldsæter Lystad", "Torill Ueland", "Bjørn Rishovd Rund"],
+        "abstract": ["Aim: \nThe MATRICS Consensus Cognitive Battery (MCCB) assesses seven cognitive domains with ten subtests. This domain structure has not been demonstrated. Three factors have been produced in US samples. We examined the dimensional structure of the Norwegian MCCB. In addition, we studied the contribution of each subtest to the battery sum score.\n\nMet..."]
+      },
+      {
+        "title": "Maintained Improvement of Neurocognitive Function in Major Depressive Disorders 6 Months after ECT",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["Both impaired and improved cognitive function after electroconvulsive therapy (ECT) in major depressive disorder (MDD) patients may occur. We have previously found improved cognitive function 6 weeks after ECT in this group. The aim of this study was to report 6-month follow-up results from the same prospective project monitoring cognitive effects..."]
+      },
+      {
+        "title": "Preventing Poor Vocational Functioning in Psychosis Through Early Intervention",
+        "tags": ["Article"],
+        "date": "Sep 2016",
+        "authors": ["Wenche Ten Velden Hegelstad", "Kolbjørn Kallesten Brønnick", "Helene Barder", "Svein Friis"],
+        "abstract": ["Objective: \nThis study tested the hypothesis that early detection of psychosis improves long-term vocational functioning through the prevention of negative symptom development.\n\nMethods: \nGeneralized estimating equations and mediation analysis were conducted to examine the association between employment and negative symptoms over ten years among pa..."]
+      },
+      {
+        "title": "Gestational length affects neurocognition in early-onset schizophrenia",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Charlotte M. Teigset", "Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Emergency Preparedness and Role Clarity among Rescue Workers during the Terror Attacks in Norway July 22, 2011",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["May Janne Botha Pedersen", "Astrid Gjerland", "Bjørn Rishovd Rund", "Laila Skogstad"],
+        "abstract": ["Background: \nFew studies address preparedness and role clarity in rescue workers after a disaster. On July 22, 2011, Norway was struck by two terror attacks; 77 people were killed and many injured. Healthcare providers, police officers and firefighters worked under demanding conditions. The aims of this study were to examine the level of preparedne..."]
+      },
+      {
+        "title": "Significantly improved neurocognitive function in major depressive disorders 6 weeks after ECT",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["Background: \nCognitive side effects may occur after electroconvulsive treatment (ECT) in depressive disorder patients. Previous studies have been limited by small numbers of cognitive functions assessed. The present study reports the first results from a prospective project monitoring cognitive effects of ECT using a comprehensive neuropsychologica..."]
+      },
+      {
+        "title": "Subjective quality of life in first-episode psychosis. A ten year follow-up study",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Erlend Strand Gardsjord", "Kristin Lie Romm", "Svein Friis", "Jan Ivar Rossberg"],
+        "abstract": []
+      },
+      {
+        "title": "103 Trauma Haahr-eip 2016",
+        "tags": ["Data", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Ulrik Haahr", "Tor Ketil Larsen", "Erik Simonsen", "Ingrid Melle"],
+        "abstract": []
+      },
+      {
+        "title": "Relation between premorbid adjustment, duration of untreated psychosis and close interpersonal trauma in first-episode psychosis",
+        "tags": ["Article"],
+        "date": "Feb 2016",
+        "authors": ["Ulrik Haahr", "Tor Ketil Larsen", "Erik Simonsen", "Ingrid Melle"],
+        "abstract": ["Aim: \nInterpersonal traumas are highly prevalent in patients with psychotic disorders. Trauma caused by those close to the patient might have a more profound impact than other types of trauma and may influence early life social functioning. The aim is to investigate the associations between different types of trauma, in particular close interperson..."]
+      },
+      {
+        "title": "Early Predictors of Ten-Year Course in First-Episode Psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Svein Friis", "Ingrid Melle", "Jan Olav Johannessen", "Thomas H Mcglashan"],
+        "abstract": ["Objective: \nIdentifying patients at risk of poor outcome at an early stage of illness can aid in treatment planning. This study sought to create a best-fit statistical model of known baseline and early-course risk factors to predict time in psychosis during a ten-year follow-up period after a first psychotic episode.\n\nMethods: \nBetween 1997 and 200..."]
+      },
+      {
+        "title": "Impaired Verbal Learning Is Associated with Larger Caudate Volumes in Early Onset Schizophrenia Spectrum Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Monica Juuhl", "Cecilie B Hartberg", "Aina Holmén", "K G Jebsen"],
+        "abstract": ["Background: \nBoth brain structural abnormalities and neurocognitive impairments are core features of schizophrenia. We have previously reported enlargements in subcortical brain structure volumes and impairment of neurocognitive functioning as measured by the MATRICS Cognitive Consensus Battery (MCCB) in early onset schizophrenia spectrum disorders..."]
+      },
+      {
+        "title": "Neurocognition and Duration of Psychosis: A 10-year Follow-up of First-Episode Patients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Bjørn Rishovd Rund", "Helene Eidsmo Barder", "Julie Evensen", "Svein Friis"],
+        "abstract": ["A substantial proportion of schizophrenia-spectrum patients exhibit a cognitive impairment at illness onset. However, the long-term course of neurocognition and a possible neurotoxic effect of time spent in active psychosis, is a topic of controversy. Furthermore, it is of importance to find out what predicts the long-term course of neurocognition...."]
+      },
+      {
+        "title": "72. Course and predictors of suicidality",
+        "tags": ["Data", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Ingrid Melle", "Jan Olav Johannessen", "Svein Friis", "Thomas H Mcglashan"],
+        "abstract": []
+      },
+      {
+        "title": "10 year course of IQ in first-episode psychosis: Relationship between duration of psychosis and long-term intellectual trajectories",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Helene Eidsmo Barder", "Kjetil Sundet", "Bjørn Rishovd Rund", "Svein Friis"],
+        "abstract": []
+      },
+      {
+        "title": "Preventing poor vocational functioning through early intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Wenche Ten Velden Hegelstad", "Kolbjørn Kallesten Brønnick", "Inge Joa", "Svein Friis"],
+        "abstract": ["OBJECTIVE: This study tested the hypothesis that early detection of psychosis improves long-term vocational functioning through the prevention of negative symptom development. METHODS: Generalized estimating equations and mediation analysis were conducted to examine the association between employment and negative symptoms over ten years among patie..."]
+      },
+      {
+        "title": "The MATRICS Consensus Cognitive Battery (MCCB): performance and functional correlates",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["June Ullevoldsæter Lystad", "Erik Falkum", "Christine Mohn", "Torill Ueland"],
+        "abstract": []
+      },
+      {
+        "title": "Relative stability of neurocognitive deficits in early onset schizophrenia spectrum patients",
+        "tags": ["Article"],
+        "date": "Jul 2014",
+        "authors": ["Monica Juuhl", "Aina Holmén", "Rune Thormodsen", "Bjørn Rishovd Rund"],
+        "abstract": ["In contrast to the findings of progressive structural brain changes in adolescence, longitudinal studies of patients with early onset schizophrenia spectrum disorders (EOS) indicate that neurocognitive deficits are relatively stable over the first years. The aim of this study is to assess neurocognitive functions longitudinally in patients with EOS..."]
+      },
+      {
+        "title": "Depressive symptoms in first-episode psychosis: A 10-year follow-up study",
+        "tags": ["Article"],
+        "date": "Jun 2014",
+        "authors": ["Nasrettin Sönmez", "Jan Ivar Rossberg", "Julie Evensen", "Svein Friis"],
+        "abstract": ["Aims: \nThe present study examined if any patient characteristics at baseline predicted depressive symptoms at 10 years and whether patients prone to depressive symptoms in the first year of treatment had a different prognosis in the following years.\n\nMethod: \nA total of 299 first-episode psychosis (FEP) patients with schizophrenia spectrum disorder..."]
+      },
+      {
+        "title": "The relationship between IQ and performance on the MATRICS Consensus Cognitive Battery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Christine Mohn", "Kjetil Sundet", "Bjørn Rishovd Rund"],
+        "abstract": ["The associations between IQ and individual tests of neurocognitive function are well studied. However, there is a lack of information as to how IQ relates to performance on neuropsychological test batteries as a whole and in the same individuals. In this study, 250 healthy participants aged 20-69 years were tested with the Wechsler Abbreviated Scal..."]
+      },
+      {
+        "title": "Treatment and violent behavior in persons with first episode psychosis during a 10-year prospective follow-up study",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Johannes Langeveld", "Stål Bjørkly", "Bjørn Auestad", "Svein Friis"],
+        "abstract": []
+      },
+      {
+        "title": "Neurocognitive predictors of remission of symptoms and social and role functioning in the early course of first-episode schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["In a Norwegian ongoing longitudinal study, we investigate the neurocognitive development in first-episode schizophrenia patients, and the influence of neurocognition on remission and real life functioning. In the present study, results from the early course of illness are reported.\nThe sample includes 28 schizophrenia spectrum patients and 28 pairw..."]
+      },
+      {
+        "title": "Poster #S219 THE RELATIONSHIP BETWEEN NEUROCOGNITION AND REAL LIFE FUNCTIONING IN FIRST-EPISODE SCHIZOPHRENIA: RESULTS FROM THE 2-YEAR FOLLOW-UP IN THE OSLO LONGITUDINAL RECOVERY STUDY",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn", "Nikolai Czajkowski", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "A 10 YEAR LONGITUDINAL FOLLOW-UP OF FIRST EPISODE PATIENTS (FEP) IN THE SCANDINAVIAN TIPS STUDY",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Bjørn Rishovd Rund", "Helne Barder", "Kjetil Sundet", "Svein Friis"],
+        "abstract": []
+      },
+      {
+        "title": "VBM artikkel",
+        "tags": ["Data", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Rune Thormodsen", "Monica Juuhl", "Aina Holmén", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "VBM artikkel",
+        "tags": ["Data", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Rune Thormodsen", "Monica Juuhl", "Aina Holmén", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "VBM artikkel",
+        "tags": ["Data"],
+        "date": "Mar 2014",
+        "authors": ["Rune Thormodsen", "Monica Juuhl", "Aina Holmén", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Age-related cortical thickness differences in adolescents with early-onset schizophrenia compared with healthy adolescents",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Rune Thormodsen", "Lars M Rimol", "Christian K Tamnes", "Ingrid Agartz"],
+        "abstract": ["The aim of the present study was to investigate the influence of age on cerebral cortical thickness in adolescents with early-onset schizophrenia (EOS) (n=22, aged 12-18 years), as compared to an age-matched healthy control group (n=32). All participants were scanned with magnetic resonance imaging. Whereas in the healthy control group there was a..."]
+      },
+      {
+        "title": "Corrigendum: “Ten year neurocognitive trajectories in first-episode psychosis”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Helene Barder", "Kjetil Sundet", "Bjørn Rishovd Rund", "Svein Friis"],
+        "abstract": ["Objective: Neurocognitive impairment is commonly reported at onset of psychotic disorders. However, the long-term neurocognitive course remains largely uninvestigated in first episode psychosis (FEP) and the relationship to clinically significant subgroups even more so. We report 10 year longitudinal neurocognitive development in a sample of FEP pa..."]
+      },
+      {
+        "title": "Does active psychosis cause neurobiological pathology? A critical review of the neurotoxicity hypothesis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Bjørn Rishovd Rund"],
+        "abstract": ["Since the neurotoxicity hypothesis was launched in 1991, it has generated a great deal of interest and given rise to several studies investigating the validity of the hypothesis that being psychotic has a toxic effect on the brain. The toxicity argument is used to justify early treatment. This review attempts to assess the studies that have address..."]
+      },
+      {
+        "title": "Neurocognitive development in first episode psychosis 5years follow-up: Associations between illness severity and cognitive course",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Helene Barder", "Kjetil Sundet", "Bjørn Rishovd Rund", "Svein Friis"],
+        "abstract": []
+      },
+      {
+        "title": "Variation in Duration of Untreated Psychosis in an 18-year perspective",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Wenche Ten Velden Hegelstad", "Inge Joa", "Helene Barder", "Tor K Larsen"],
+        "abstract": ["Aim: \nThe Scandinavian TIPS project engineered an early detection of psychosis programme that sought to reduce the duration of untreated psychosis (DUP) through early detection teams and extensive information campaigns since 1997. In 1997-2000, DUP was reduced from 26 to 4.5 weeks median. The programme was continued beyond the initial project in mo..."]
+      },
+      {
+        "title": "Standardisering av MATRICS Consensus Cognitive Battery (MCCB) for bruk i Norge.",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Christine Mohn", "Kjetil Sundet", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Is there an optimal factor structure of the Positive and Negative Syndrome Scale in patients with first-episode psychosis?",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Johannes Langeveld", "Ole A Andreassen", "Bjørn Auestad", "Tor Ketil Larsen"],
+        "abstract": ["Langeveld, J., Andreassen, O. A., Auestad, B., Faerden, A., Hauge, L. J., Joa, I., Johannessen, J. O., Melle, I., Rund, B. R., Røssberg, J. I., Simonsen, E., Vaglum, P. & Larsen, T. K. (2012). Is there an optimal factor structure of the Positive and Negative Syndrome Scale in patients with first-episode psychosis? Scandinavian Journal of Psychology..."]
+      },
+      {
+        "title": "Early detection, early symptom progression and symptomatic remission after ten years in a first episode of psychosis study",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Wenche Ten Velden Hegelstad", "Ulrik Haahr", "Tor K Larsen", "Svein Friis"],
+        "abstract": ["Background: \nPoor symptom outcome remains a challenge in psychosis: At least 50% of first-episode patients continue to have positive and/or negative symptoms after ten years.\n\nObjective: \nTo investigate rates, early predictors and early symptom progression of long-term non-remitted psychosis in an early detection study.\n\nMethods: \nSymptomatic remis..."]
+      },
+      {
+        "title": "Executive function in early- and adult onset schizophrenia",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Aina Holmén", "Monica Juuhl", "Rune Thormodsen", "Ingrid Melle"],
+        "abstract": ["Background: \nThe goal of this study was to investigate differences in executive functioning between patients with early-onset and adult-onset schizophrenia spectrum psychoses at the time of first treatment.\n\nMethods: \nNeuropsychological tests covering executive functioning domains were performed for 20 adolescents with early-onset schizophrenia (EO..."]
+      },
+      {
+        "title": "Recovery at 10 years in first-episode psychosis",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Erik Simonsen", "Ulrik Haahr", "Julie Evensen", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "The TIPS study and bias: replies to Dr Amos",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Svein Friis", "Helene Barder", "Julie Evensen", "Thomas H Mcglashan"],
+        "abstract": []
+      },
+      {
+        "title": "Comprehensive segmentation of subcortical brain volumes in early onset schizophrenia reveals limited structural abnormalities",
+        "tags": ["Article"],
+        "date": "Aug 2012",
+        "authors": ["Monica Juuhl", "Lars M Rimol", "Inge A Rasmussen", "Ingrid Agartz"],
+        "abstract": ["Structural brain abnormalities are well documented in adult schizophrenia, but there are few studies of brain structures in early onset schizophrenia (EOS) and findings are inconsistent. Most previous EOS studies have been limited to global morphometric measures, such as whole gray matter (GM) or cerebrospinal fluid (CSF), or to single brain struct..."]
+      },
+      {
+        "title": "Visual backward-masking performance in a longitudinal study of early onset schizophrenia",
+        "tags": ["Article"],
+        "date": "Jun 2012",
+        "authors": ["Rune Thormodsen", "Monica Juuhl", "Aina Holmén", "Bjørn Rishovd Rund"],
+        "abstract": ["The aim of the present study was to examine the effect of visual backward-masking (VBM) in patients with early onset schizophrenia (EOS, n=28) compared to healthy controls (n=80) at baseline and at one- and two-year follow-ups. Seventeen patients and 40 controls performed a VBM task at all three sessions, which included five different interstimuli..."]
+      },
+      {
+        "title": "Flat affect and social functioning: A 10 year follow-up study of first episode psychosis patients",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Julie Evensen", "Jan Ivar Rossberg", "Helene Barder", "Svein Friis"],
+        "abstract": ["Affective flattening has been described as enduring, but long term follow-up studies of first episode psychosis patients are lacking.\nThe aim of this study was to follow the symptom development of flat affect (FA), over a 10 year follow-up period, with focus on prevalence, predictors and outcome factors including social functioning.\nThree-hundred-a..."]
+      },
+      {
+        "title": "Apathy in first episode psychosis patients: A ten year longitudinal follow-up study",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["Julie Evensen", "Jan Ivar Rossberg", "Helene Barder", "Thomas H Mcglashan"],
+        "abstract": ["Apathy is a common symptom in first episode psychosis (FEP), and is associated with poor functioning. Prevalence and correlates of apathy 10 years after the first psychotic episode remain unexplored.\nThe aims of the study were twofold: 1) to examine prevalence and predictors of apathy at 10 years, and 2) to examine the relationship between apathy a..."]
+      },
+      {
+        "title": "The Norwegian standardization of the MATRICS (Measurement and Treatment Research to Improve Cognition in Schizophrenia) Consensus Cognitive Battery",
+        "tags": ["Article"],
+        "date": "Mar 2012",
+        "authors": ["Christine Mohn", "Kjetil Sundet", "Bjørn Rishovd Rund"],
+        "abstract": ["This is the first international reference study of neurocognitive function as assessed by the MATRICS (Measurement and Treatment Research to Improve Cognition in Schizophrenia) Consensus Cognitive Battery (MCCB). Two hundred and fifty healthy Norwegian men and women between the ages of 12 and 59 years were tested. The results were broken down acros..."]
+      },
+      {
+        "title": "Executive function tests in early-onset psychosis: Which one to choose?",
+        "tags": ["Article"],
+        "date": "Mar 2012",
+        "authors": ["Aina Holmén", "Monica Juuhl", "Rune Thormodsen", "Bjørn Rishovd Rund"],
+        "abstract": ["Holmén, A., Juuhl‐Langseth, M., Thormodsen, R., Sundet, K., Melle, I. & Rund, B. R. (2012). Executive function tests in early‐onset psychosis: which one to choose? Scandinavian Journal of Psychology 53, 200–205.\nPeople with schizophrenia exhibit executive functioning deficits, an area well investigated in the adult onset schizophrenia (AOS) group,..."]
+      },
+      {
+        "title": "Long-Term Follow-Up of the TIPS Early Detection in Psychosis Study: Effects on 10-Year Outcome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Wenche Ten Velden Hegelstad", "Tor K Larsen", "Bjørn Auestad", "Thomas H Mcglashan"],
+        "abstract": ["Early detection in first-episode psychosis confers advantages for negative, cognitive, and depressive symptoms after 1, 2, and 5 years, but longitudinal effects are unknown. The authors investigated the differences in symptoms and recovery after 10 years between regional health care sectors with and without a comprehensive program for the early det..."]
+      },
+      {
+        "title": "Patient satisfaction with treatment in first-episode psychosis",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Ulrik Haahr", "Erik Simonsen", "Jan Ivar Rossberg", "Thomas H Mcglashan"],
+        "abstract": ["Purpose: \nTo examine first-episode psychotic patients' satisfaction with elements of a comprehensive 2-year treatment program.\n\nSubjects and method: \nThe TIPS (Early Treatment and Intervention in Psychosis) project provided a 2-year treatment program consisting of milieu therapy (inpatient), individual psychotherapy, family intervention and medicat..."]
+      },
+      {
+        "title": "S01-01 - Early Detection in Psychosis: 5 year Outcome in the Scandinavian Tips-Study",
+        "tags": ["Article"],
+        "date": "Dec 2011",
+        "authors": ["T. K. Larsen", "Ingrid Melle", "Bjørn Auestad", "Svein Friis"],
+        "abstract": ["Background\nDuring the last decades we have seen a new focus on early treatment of psychosis. Several reviews have shown that duration of untreated psychosis (DUP) is correlated to better outcome. However, it is still unknown whether early treatment will lead to a better long term outcome. This study reports the effects of reducing DUP on 5-year cou..."]
+      },
+      {
+        "title": "Prefrontal hyperactivation during a working memory task in early-onset schizophrenia spectrum disorders: An fMRI study",
+        "tags": ["Article"],
+        "date": "Nov 2011",
+        "authors": ["Rune Thormodsen", "Jimmy Jensen", "Aina Holmén", "Bjørn Rishovd Rund"],
+        "abstract": ["Working memory (WM) dysfunction is increasingly recognized as a core feature of schizophrenia, but few studies have investigated prefrontal activation during WM tasks in early-onset schizophrenia spectrum disorder (EOS). Our aim was to explore prefrontal activation during a WM-task in EOS patients compared to healthy controls using functional magne..."]
+      },
+      {
+        "title": "Neurocognition and occupational functioning in patients with first-episode psychosis: A 2-year follow-up study",
+        "tags": ["Article"],
+        "date": "May 2011",
+        "authors": ["Marte Tandberg", "Torill Ueland", "Kjetil Sundet", "Thomas H Mcglashan"],
+        "abstract": []
+      },
+      {
+        "title": "The psychological well-being of Norwegian adolescents exposed in utero to radiation from the Chernobyl accident",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2011",
+        "authors": ["Kristin Sverdvik Heiervang", "Sarnoff Mednick", "Kjetil Sundet", "Bjørn Rishovd Rund"],
+        "abstract": ["On 26 April 1986, the Chernobyl nuclear power plant suffered an accident. Several areas of central Norway were heavily affected by far field radioactive fallout. The present study focuses on the psychological well-being of adolescents who were exposed to this radiation as fetuses.\nThe adolescents (n = 53) and their mothers reported their perception..."]
+      },
+      {
+        "title": "EARLY DETECTION AND INTERVENTION (EDI) IN FIRST EPISODE PSYCHOSIS: CAN IT REDUCE THE RISK FOR POOR OUTCOME? TIPS 10 YEAR FINDINGS",
+        "tags": ["Conference Paper"],
+        "date": "Mar 2011",
+        "authors": ["Svein Friis", "J. H. Evensen", "Ulrik Haahr", "Thomas H Mcglashan"],
+        "abstract": []
+      },
+      {
+        "title": "Contrasting Monosymptomatic Patients with Hallucinations and Delusions in First-Episode Psychosis Patients: A Five-Year Longitudinal Follow-Up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Julie Evensen", "Jan Ivar Rossberg", "Ulrik Haahr", "Thomas H Mcglashan"],
+        "abstract": ["The main aim of this study was to identify subgroups of patients characterized by having hallucinations only or delusions only and to examine whether these groups differed with regard to demographic characteristics, clinical characteristics and outcome factors, including suicidality.\nOut of 301 consecutively admitted patients with first-episode psy..."]
+      },
+      {
+        "title": "The Development of Subjective Quality of Life Over the First 2 Years in First-Episode Psychosis",
+        "tags": ["Article"],
+        "date": "Dec 2010",
+        "authors": ["Ingrid Melle", "Jan Ivar Rossberg", "Inge Joa", "Thomas H Mcglashan"],
+        "abstract": ["The main aim of this study was to examine changes in subjective quality of life (general s-QoL) in patients with first-episode psychosis from baseline to 2 years follow-up. A total of 201 of 252 patients had full quality of life assessment at both baseline and at 2 years. Repeated measure analyses of variance were done to evaluate the development o..."]
+      },
+      {
+        "title": "Are multi family groups appropriate for patients with first episode psychosis? A 5-year naturalistic follow-up study",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Jan Ivar Rossberg", "Jan Olav Johannessen", "Ole Klungsøyr", "Thomas H Mcglashan"],
+        "abstract": ["To compare outcome over 5 years for patients who participated in multi family groups (MFGs) to those who refused or were not offered participation.\nOf 301 first episode psychotic patients aged 15-65 years, 147 participated in MFGs. Outcome was measured by drop-out rates, positive and negative syndrome scale (PANSS) symptom scores, and duration of p..."]
+      },
+      {
+        "title": "Early identification of non‐remission in first‐episode psychosis in a two‐year outcome study",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Erik Simonsen", "Svein Friis", "S Opjordsmoen", "Thomas H Mcglashan"],
+        "abstract": ["To identify predictors of non-remission in first-episode, non-affective psychosis.\nDuring 4 years, we recruited 301 patients consecutively. Information about first remission at 3 months was available for 299 and at 2 years for 293 cases. Symptomatic and social outcomes were assessed at 3 months, 1 and 2 years.\nOne hundred and twenty-nine patients (..."]
+      },
+      {
+        "title": "The Chernobyl Accident and Cognitive Functioning: A Study of Norwegian Adolescents Exposed In Utero",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2010",
+        "authors": ["Kristin Sverdvik Heiervang", "Sarnoff Mednick", "Kjetil Sundet", "Bjørn Rishovd Rund"],
+        "abstract": ["The results of investigations on the cognitive outcomes of adolescents exposed prenatally to radiation from Chernobyl are inconsistent. In 2005 through 2006, we assessed individuals exposed prenatally (N = 84) and controls (N = 94) using a broad neuropsychological test battery. Neuropsychological performance was significantly weaker in the 84 adole..."]
+      },
+      {
+        "title": "Early detection of psychosis: Positive effects on 5-year outcome",
+        "tags": ["Article"],
+        "date": "Oct 2010",
+        "authors": ["T K Larsen", "Ingrid Melle", "Bjørn Auestad", "Thomas H Mcglashan"],
+        "abstract": ["During the last decades we have seen a new focus on early treatment of psychosis. Several reviews have shown that duration of untreated psychosis (DUP) is correlated to better outcome. However, it is still unknown whether early treatment will lead to a better long-term outcome. This study reports the effects of reducing DUP on 5-year course and out..."]
+      },
+      {
+        "title": "First-episode psychosis patients recruited into treatment via early detection teams versus ordinary pathways: Course and health service use during 5years",
+        "tags": ["Article"],
+        "date": "Aug 2010",
+        "authors": ["Jan Olav Johannessen", "Inge Joa", "Bjørn Auestad", "Thomas H Mcglashan"],
+        "abstract": ["Aim: To compare the 5-year course and outcome of first-episode psychosis (FEP) patients recruited via active outreach detection teams (DTs) versus ordinary referral channels (not-DT).\nMethods: Longitudinal comparison of two parallel consecutive samples on the Positive and Negative Syndrome Scale Score and the Global Assessment of Functioning Scale...."]
+      },
+      {
+        "title": "A 2-year follow-up of involuntary admission's influence upon adherence and outcome in first-episode psychosis",
+        "tags": ["Article"],
+        "date": "May 2010",
+        "authors": ["S Opjordsmoen", "Svein Friis", "Ingrid Melle", "Thomas H Mcglashan"],
+        "abstract": ["To see, if voluntary admission for treatment in first-episode psychosis results in better adherence to treatment and more favourable outcome than involuntary admission.\nWe compared consecutively first-admitted, hospitalised patients from a voluntary (n = 91) with an involuntary (n = 126) group as to psychopathology and functioning using Positive an..."]
+      },
+      {
+        "title": "Neuropsychological rehabilitation of schizophrenia",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Bjørn Rishovd Rund"],
+        "abstract": ["This chapter begins with a discussion of cognitive dysfunction in schizophrenia. It describes the two distinctly different approaches in cognitive therapy with schizophrenic patients. One focuses on cognitive content, while the other is process-oriented, emphasizing the correction of basic cognitive deficits. The chapter then discusses the Oslo Cog..."]
+      },
+      {
+        "title": "DURATION OF UNTREATED PSYCHOSIS, EARLY INTERVENTION AND SYMPTOM DEVELOPMENT IN FIRST-EPISODE PSYCHOSIS: EXPERIENCES FROM THE TIPS STUDY",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Ingrid Melle", "Tor Larsen", "Ulrik Haahr", "Per Vaglum"],
+        "abstract": []
+      },
+      {
+        "title": "CORRELATIONS BETWEEN HIPPOCAMPAL VOLUMES AND MEMORY PERFORMANCE IN EARLY ONSET SCHIZOPHRENIA",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Monica Juuhl", "Rune Thormodsen", "Inge-André Rasmussen jr", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Course and Predictors of Suicidality Over the First Two Years of Treatment in First-Episode Schizophrenia Spectrum Psychosis",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Ingrid Melle", "Jan Olav Johannessen", "Svein Friis", "Thomas H Mcglashan"],
+        "abstract": ["The objective of this study was to investigate the course of suicidal behavior over the first 2 years of comprehensive, integrated treatment in two groups of patients with DSM-IV first episode schizophrenia spectrum psychosis, where one group was recruited through an early detection program. We have previously shown that the rate of severe suicidal..."]
+      }
+    ],
+    "degree": ["Ph.D,", "MHA"],
+    "publications": [232],
+    "reads": [27417],
+    "citations": [8637]
   }
 }

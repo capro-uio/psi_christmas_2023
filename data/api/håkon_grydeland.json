@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Håkon Grydeland",
-    "id": "dnI4IoMAAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo",
+    "name": ["Håkon Grydeland"],
+    "id": ["dnI4IoMAAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -517,11 +517,11 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Håkon Grydeland",
-    "id": "8433",
+    "name": ["Håkon Grydeland"],
+    "id": ["8433"],
     "keywords": [],
     "position": ["Researcher"],
-    "img": "https://api.cristin.no/v2/persons/8433/picture",
+    "img": ["https://api.cristin.no/v2/persons/8433/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -888,5 +888,558 @@
         "url": "https://api.cristin.no/v2/results/344056"
       }
     ]
+  },
+  "rg": {
+    "id": "Hakon-Grydeland",
+    "name": "Hakon Grydeland",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Accelerated brain change in healthy adults is associated with genetic risk for Alzheimer's disease and uncovers adult lifespan memory decline",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["James Michael Roe", "Didac Vidal-Piñeiro", "Øystein Sørensen", "Yunpeng Wang"],
+        "abstract": ["Across healthy adult life our brains undergo gradual structural change in a pattern of atrophy that resembles accelerated brain changes in Alzheimer's disease (AD). Here, using four polygenic risk scores for AD (PRS-AD) in a longitudinal adult lifespan sample aged 30 to 89 years (2-7 timepoints), we show that healthy individuals who lose brain volu..."]
+      },
+      {
+        "title": "Hippocampal-cortical functional connectivity during memory encoding and retrieval",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Liisa Raud", "Markus H. Sneve", "Didac Vidal-Piñeiro", "Anders M. Fjell"],
+        "abstract": ["Memory encoding and retrieval are critical sub-processes of episodic memory. While the hippocampus is involved in both, less is known about its connectivity with the neocortex during memory processing in humans. This is partially due to variations in demands in common memory tasks, which inevitably recruit cognitive processes other than episodic me..."]
+      },
+      {
+        "title": "Blood-brain barrier permeability changes over the lifespan",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Beatriz Padrela", "Markus Handal Sneve", "Sanne Zelhorst", "Jan Petr"],
+        "abstract": ["Blood-brain-barrier (BBB) dysfunction is a hallmark of aging-related disorders, including cerebral small vessel disease and Alzheimer’s disease. An emerging biomarker of BBB dysfunction is time of exchange (Tex) of water across the BBB as measured by multi-echo arterial spin labeling MRI. We evaluated Tex across the age spectrum in 40 adults from t..."]
+      },
+      {
+        "title": "Hippocampal-cortical functional connectivity during memory encoding and retrieval",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Liisa Raud", "Markus Handal Sneve", "Didac Vidal-Piñeiro", "Anders M. Fjell"],
+        "abstract": ["Memory encoding and retrieval are critical sub-processes of episodic memory. While the hippocampus is involved in both, its connectivity with the neocortex during memory processing in humans has been elusive. This is partially due to variations in demands in common memory tasks, which inevitably recruit cognitive processes other than episodic memor..."]
+      },
+      {
+        "title": "Evidence for widespread alterations in cortical microstructure after 32 h of sleep deprivation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Irene Voldsbekk", "Atle Bjørnerud", "Inge Groote", "Hakon Grydeland"],
+        "abstract": ["Cortical microstructure is influenced by circadian rhythm and sleep deprivation, yet the precise underpinnings of these effects remain unclear. The ratio between T1-weighted and T2-weighted magnetic resonance images (T1w/T2w ratio) has been linked to myelin levels and dendrite density and may offer novel insight into the intracortical microstructur..."]
+      },
+      {
+        "title": "Associations of circulating C-reactive proteins, APOE ε4, and brain markers for Alzheimer’s disease in healthy samples across the lifespan",
+        "tags": ["Article"],
+        "date": "Dec 2021",
+        "authors": ["Yunpeng Wang", "Hakon Grydeland", "James Michael Roe", "Kristine W. Walhovd"],
+        "abstract": ["The apolipoprotein E gene ε4 allele (APOE ε4) and higher circulating level of C-reactive protein (CRP) have been extensively investigated as risk factors for Alzheimer’s disease (AD). Paradoxically, APOE ε4 has been associated with lower levels of blood CRP in middle-aged and older populations. However, few studies have investigated this intriguing..."]
+      },
+      {
+        "title": "The genetic organization of longitudinal subcortical volumetric change is stable throughout the lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Anders Martin Fjell", "Hakon Grydeland", "Yunpeng Wang", "Kristine Beate Walhovd"],
+        "abstract": ["Development and aging of the cerebral cortex show similar topographic organization and are governed by the same genes. It is unclear whether the same is true for subcortical regions, which follow fundamentally different ontogenetic and phylogenetic principles. We tested the hypothesis that genetically governed neurodevelopmental processes can be tr..."]
+      },
+      {
+        "title": "Evidence for widespread alterations in cortical microstructure after 32 hours of sleep deprivation",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Irene Voldsbekk", "Atle Bjørnerud", "Inge R. Groote", "Hakon Grydeland"],
+        "abstract": ["Background: Cortical macrostructure is influenced by circadian rhythm and sleep deprivation, yet the microstructural underpinnings of previous human brain MRI findings have remained unclear. The ratio between T1-weighted and T2-weighted magnetic resonance images (T1w/T2w ratio) has been linked to myelin levels and dendrite density, and may offer no..."]
+      },
+      {
+        "title": "Self-Reported Sleep Relates to Microstructural Hippocampal Decline in β-Amyloid Positive Adults Beyond Genetic Risk",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Hakon Grydeland", "Donatas Sederevičius", "Yunpeng Wang", "Anders M Fjell"],
+        "abstract": ["Study Objectives\nA critical role linking sleep with memory decay and β-amyloid (Aβ) accumulation, two markers of Alzheimer’s disease (AD) pathology, may be played by hippocampal integrity. We tested the hypotheses that worse self-reported sleep relates to decline in memory and intra-hippocampal microstructure, including in the presence of Aβ.\n\nMeth..."]
+      },
+      {
+        "title": "Cognitive reappraisal and expressive suppression relate differentially to longitudinal structural brain development across adolescence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["Emotional disorders commonly emerge in adolescence, a period characterized by changes in emotion-related processes. Thus, the ability to regulate emotions is crucial for well-being and adaptive social functioning during this period. Concurrently, the brain undergoes large structural and functional changes. We investigated relations between tendenci..."]
+      },
+      {
+        "title": "Cellular correlates of cortical thinning throughout the lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Didac Vidal-Piñeiro", "Nadine Parker", "Jean Shin", "Anders M. Fjell"],
+        "abstract": ["Cortical thinning occurs throughout the entire life and extends to late-life neurodegeneration, yet the neurobiological substrates are poorly understood. Here, we used a virtual-histology technique and gene expression data from the Allen Human Brain Atlas to compare the regional profiles of longitudinal cortical thinning through life (4004 magnetic..."]
+      },
+      {
+        "title": "The Functional Foundations of Episodic Memory Remain Stable Throughout the Lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Didac Vidal-Piñeiro", "Markus Handal Sneve", "Inge K Amlien", "Anders M Fjell"],
+        "abstract": ["It has been suggested that specific forms of cognition in older age rely largely on late-life specific mechanisms. Here instead, we tested using task-fMRI (n = 540, age 6–82 years) whether the functional foundations of successful episodic memory encoding adhere to a principle of lifespan continuity, shaped by developmental, structural, and evolutio..."]
+      },
+      {
+        "title": "The genetic organization of subcortical volumetric change is stable throughout the lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Anders M Fjell", "Hakon Grydeland", "Yunpeng Wang", "Kristine Beate Walhovd"],
+        "abstract": ["While development and aging of the cerebral cortex show a similar topographic organization and are mainly governed by the same genes, it is unclear whether the same is true for subcortical structures, which follow fundamentally different ontogenetic and phylogenetic principles than the cerebral cortex. To test the hypothesis that genetically govern..."]
+      },
+      {
+        "title": "Sleep Efficiency Relates to Hippocampal Integrity Decline in β-Amyloid Positive Adults",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Hakon Grydeland", "Donatas Sederevičius", "Yunpeng Wang", "Anders M. Fjell"],
+        "abstract": ["Objective: To test the hypothesis that worse self-reported sleep relates to reduced hippocampal integrity as indexed by increased intra-hippocampal water diffusion, and that this relationship is stronger in the presence of β-amyloid (Aβ) accumulation, a marker of Alzheimer's disease (AD) pathology.\nMethods: Two-hundred and fifty-one participants, a..."]
+      },
+      {
+        "title": "Cognitive reappraisal and expressive suppression relate differentially to longitudinal structural brain development across adolescence",
+        "tags": ["Preprint"],
+        "date": "Feb 2020",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["The ability to regulate emotions is crucial for well-being and adaptive social functioning. Emotional disorders commonly emerge in the transition from childhood to adulthood, a period characterized by changes in emotion and emotion-related processes, making emotion regulation a principal developmental task. Concurrently, the brain undergoes large s..."]
+      },
+      {
+        "title": "The functional foundations of episodic memory remain stable throughout the lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Didac Vidal-Piñeiro", "Markus Handal Sneve", "Inge K Amlien", "Anders M Fjell"],
+        "abstract": ["It is suggested that the functional mechanisms behind specific forms of cognition, particularly episodic memory, may be dynamic over the lifespan and that cognitive preservation or decay in older age thus relies on age-specific mechanisms such as compensatory processes. Here instead, we tested whether the functional foundations of successful episod..."]
+      },
+      {
+        "title": "Prosocial behavior relates to the rate and timing of cortical thinning from adolescence to young adulthood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["Prosocial behavior, or voluntary actions that intentionally benefit others, relate to desirable developmental outcomes such as peer acceptance, while lack of prosocial behavior has been associated with several neurodevelopmental disorders. Mapping the biological foundations of prosociality may thus aid our understanding of both normal and abnormal..."]
+      },
+      {
+        "title": "Prosocial behavior relates to the rate and timing of cortical thinning from adolescence to young adulthood",
+        "tags": ["Preprint"],
+        "date": "Apr 2019",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["Prosocial behavior, or voluntary actions that intentionally benefit others, relate to desirable developmental outcomes such as peer acceptance, while lack of prosocial behavior has been associated with several neurodevelopmental disorders. Mapping the biological foundations of prosociality may thus aid understanding of both normal and abnormal deve..."]
+      },
+      {
+        "title": "Waves of Maturation and Senescence in Micro-structural MRI Markers of Human Cortical Myelination over the Lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Hakon Grydeland", "Petra E Vértes", "František Váša", "Edward T Bullmore"],
+        "abstract": ["Seminal human brain histology work has demonstrated developmental waves of myelination. Here, using a micro-structural magnetic resonance imaging (MRI) marker linked to myelin, we studied fine-grained age differences to deduce waves of growth, stability, and decline of cortical myelination over the life-cycle. In 484 participants, aged 8-85 years,..."]
+      },
+      {
+        "title": "High-Expanding Regions in Primate Cortical Brain Evolution Support Supramodal Cognitive Flexibility",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Markus Handal Sneve", "Hakon Grydeland", "Marcello Rosa", "Anders M Fjell"],
+        "abstract": ["Primate cortical evolution has been characterized by massive and disproportionate expansion of a set of specific regions in the neocortex. The associated increase in neocortical neurons comes with a high metabolic cost, thus the functions served by these regions must have conferred significant evolutionary advantage. In the present series of analys..."]
+      },
+      {
+        "title": "Continuity and Discontinuity in Human Cortical Development and Change From Embryonic Stages to Old Age",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex is highly regionalized, and this feature emerges from morphometric gradients in the cerebral vesicles during embryonic development. We tested if this principle of regionalization could be traced from the embryonic development to the human life span. Data-driven fuzzy clustering was used to identify regions of coordinated l..."]
+      },
+      {
+        "title": "Prosocial behavior relates to the rate and timing of cortical thinning from adolescence to young adulthood",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Lia Ferschmann", "Nandita Vijayakumar", "Hakon Grydeland", "Christian K Tamnes"],
+        "abstract": ["Prosocial behavior, or voluntary actions that intentionally benefit others, relate to desirable developmental outcomes such as peer acceptance, while lack of prosocial behavior has been associated with several neurodevelopmental disorders. Mapping the biological foundations of prosociality may thus aid understanding of both normal and abnormal deve..."]
+      },
+      {
+        "title": "The hotspots in primate cortical brain evolution support supramodal cognitive flexibility",
+        "tags": ["Preprint"],
+        "date": "May 2018",
+        "authors": ["Markus Handal Sneve", "Hakon Grydeland", "Marcello Rosa", "Anders M Fjell"],
+        "abstract": ["Primate cortical evolution has been characterized by massive and disproportionate expansion of a set of specific regions in the neocortex. The associated increase in neocortical neurons comes with a high metabolic cost, thus the functions served by these regions must have conferred significant evolutionary advantage. Here, across a series of experi..."]
+      },
+      {
+        "title": "Continuity and discontinuity in human cortical development and change from embryonic stages to old age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex is highly regionalized. We aimed to test whether principles of regionalization could be traced from embryonic development throughout the human lifespan. A data-driven fuzzy-clustering approach was used to identify regions of coordinated longitudinal development of cortical surface area (SA) and thickness (CT) over 1.5 year..."]
+      },
+      {
+        "title": "Waves of Maturation and Senescence in Micro-Structural MRI Markers of Human Cortical Myelination over the Lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Hakon Grydeland", "Petra E Vértes", "František Váša", "Edward T. Bullmore"],
+        "abstract": ["Seminal human brain histology work has demonstrated developmental waves of myelination. Here, using a micro-structural magnetic resonance imaging (MRI) marker sensitive to myelin, we studied fine-grained age differences to deduce waves of growth, stability, and decline of cortical myelination over the life-cycle. In 484 participants, aged 8-85 year..."]
+      },
+      {
+        "title": "Development of white matter microstructure in relation to verbal and visuospatial working memory—A longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["Working memory capacity is pivotal for a broad specter of cognitive tasks and develops throughout childhood. This must in part rely on development of neural connections and white matter microstructure maturation, but there is scarce knowledge of specific relations between this and different aspects of working memory. Diffusion tensor imaging (DTI)..."]
+      },
+      {
+        "title": "S1 Fig",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["FA and MD in specific tracts with age.\nSpaghetti plots of individual participant change in FA and MD in specific tracts with age (years). Females are plotted in red and males in blue. For each measure, an assumption-free general additive mixed model as a function of age was fitted to accurately describe change across the age range. Three-dimensiona..."]
+      },
+      {
+        "title": "S2 Fig",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["RD and AD in specific tracts with age.\nSpaghetti plots of individual participant change in RD and AD in specific tracts with age (years). Females are plotted in red and males in blue. For each measure, an assumption-free general additive mixed model as a function of age was fitted to accurately describe change across the age range. Three-dimensiona..."]
+      },
+      {
+        "title": "S2 Table",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["DTI change in white matter tracts and visuospatial working memory change after excluding outliers (for each TOI).\nPartial correlations between change in FA, MD, RD and AD in specific white matter tracts and change in Spatial Span Backward scores, controlling for age, sex, interval and motion at both time points after excluding three participants wi..."]
+      },
+      {
+        "title": "S3 Table",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["FA change in white matter tracts and working memory change, controlling for mean FA change.\nPartial correlation between change in FA in specific white matter tracts and change in Spatial Span Backward and Digits Span Backward scores, controlling for age, sex, interval, motion at both time points and mean FA change. ILF = Inferior longitudinal fasci..."]
+      },
+      {
+        "title": "S5 Table",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["RD change in white matter tracts and working memory change, controlling for mean RD change.\nPartial correlation between change in RD in specific white matter tracts and change in Spatial Span Backward scores, controlling for age, sex, interval, motion at both time points and mean RD change. ILF = Inferior longitudinal fasciculus, IFOF = Inferior fr..."]
+      },
+      {
+        "title": "S6 Table",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["AD change in white matter tracts and working memory change, controlling for mean AD change.\nPartial correlation between change in AD in specific white matter tracts and change in Spatial Span Backward scores, controlling for age, sex, interval, motion at both time points and mean AD change. ILF = Inferior longitudinal fasciculus, IFOF = Inferior fr..."]
+      },
+      {
+        "title": "S8 Table",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["DTI change in non-linear white matter tracts and visuospatial working memory change, controlling for age2.\nPartial correlations between change in FA and MD in specific white matter tracts showing non-linear developmental patterns and change in Spatial Span Backward scores, controlling for age, sex, interval, motion at both time points and age2. ILF..."]
+      },
+      {
+        "title": "S1 Table",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["FA change in white matter tracts and working memory change.\nPartial correlation between change in FA in specific white matter tracts and change in Spatial Span Backward and Digits Span Backward scores, controlling for age, sex, interval and motion at both time points. ILF = Inferior longitudinal fasciculus, IFOF = Inferior fronto-occipital fascicul..."]
+      },
+      {
+        "title": "S4 Table",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["MD change in white matter tracts and working memory change, controlling for mean MD change.\nPartial correlation between change in MD in specific white matter tracts and change in Spatial Span Backward and Digits Span Backward scores, controlling for age, sex, interval, motion at both time points and mean MD change. ILF = Inferior longitudinal fasci..."]
+      },
+      {
+        "title": "S7 Table",
+        "tags": ["Data"],
+        "date": "Apr 2018",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["MD change in white matter tracts and working memory change, controlling for software update.\nPartial correlation between change in MD in specific white matter tracts and change in Spatial Span Backward and Digits Span Backward scores, controlling for age, sex, interval, motion at both time points and software upgrade. ILF = Inferior longitudinal fa..."]
+      },
+      {
+        "title": "Personality Traits Are Associated With Cortical Development Across Adolescence: A Longitudinal Structural MRI Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Lia Ferschmann", "Anders M. Fjell", "Margarete Vollrath", "Christian K Tamnes"],
+        "abstract": ["How personality traits relate to structural brain changes in development is an important but understudied question. In this study, cortical thickness (CT) and surface area (SA), estimated using magnetic resonance imaging (MRI), were investigated in 99 participants aged 8–19 years. Follow-up MRI data were collected after on average 2.6 years for 74..."]
+      },
+      {
+        "title": "The Effects of Memory Training on Behavioral and Microstructural Plasticity in Young and Older Adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Ann-Marie G de Lange", "Anne Cecilie Sjøli Bråthen", "Darius Adam Rohani", "Kristine Walhovd"],
+        "abstract": ["Age differences in human brain plasticity are assumed, but have not been systematically investigated. In this longitudinal study, we investigated changes in white matter (WM) microstructure in response to memory training relative to passive and active control conditions in 183 young and older adults. We hypothesized that (i) only the training group..."]
+      },
+      {
+        "title": "Supplementary Materials",
+        "tags": ["Data"],
+        "date": "Nov 2016",
+        "authors": ["Ann-Marie Glasø de Lange", "Anne Cecilie Sjøli Bråthen", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": []
+      },
+      {
+        "title": "Relationship between structural and functional connectivity change across the adult lifespan: A longitudinal investigation",
+        "tags": ["Article"],
+        "date": "Sep 2016",
+        "authors": ["Anders M. Fjell", "Markus Handal Sneve", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": ["Extensive efforts are devoted to understand the functional (FC) and structural connections (SC) of the brain. FC is usually measured by functional magnetic resonance imaging (fMRI), and conceptualized as degree of synchronicity in brain activity between different regions. SC is typically indexed by measures of white matter (WM) properties, for exam..."]
+      },
+      {
+        "title": "Neurodevelopmental origins of lifespan changes in brain and cognition",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "I.K. Amlien", "A.M. Fjell"],
+        "abstract": ["Neurodevelopmental origins of functional variation in older age are increasingly being acknowledged, but identification of how early factors impact human brain and cognition throughout life has remained challenging. Much focus has been on age-specific mechanisms affecting neural foundations of cognition and their change. In contrast to this approac..."]
+      },
+      {
+        "title": "Neurodevelopmental origins of lifespan changes in brain and cognition",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Anders M. Fjell"],
+        "abstract": ["Significance\nBrain and cognition change with age, with early gains and later declines. Attempts have been made to identify age-specific mechanisms, focusing on when and how declines begin in adults. However, even though general cognitive ability declines with age, there is a high stability in individuals’ cognitive ability relative to their same-ag..."]
+      },
+      {
+        "title": "White Matter Integrity as a Marker for Cognitive Plasticity in Aging",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Ann-Marie G de Lange", "Anne Cecilie Sjøli Bråthen", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": ["Age-related differences in white-matter (WM) integrity are substantial, but it is unknown whether between-subject variability in WM integrity influences the capacity for cognitive improvement. We investigated the effects of memory training related to active and passive control conditions in older adults and tested whether WM integrity at baseline w..."]
+      },
+      {
+        "title": "Accelerated longitudinal gray/white matter contrast decline in aging in lightly myelinated cortical regions",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Didac Vidal-Piñeiro", "Kristine Walhovd", "Andreas Berg Storsve", "Anders M Fjell"],
+        "abstract": ["Highly myelinated cortical regions seem to develop early and are more robust to age-related decline. By use of different magnetic resonance imaging (MRI) measures such as contrast between T1- and T2-weighted MRI scans (T1w/T2w) it is now possible to assess correlates of myelin content in vivo. Further, previous studies indicate that gray/white matt..."]
+      },
+      {
+        "title": "Decoupling of large-scale brain networks supports the consolidation of durable episodic memories",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Markus Handal Sneve", "Hakon Grydeland", "Inge K. Amlien", "Anders M. Fjell"],
+        "abstract": ["At a large scale, the human brain is organized into modules of interconnected regions, some of which play opposing roles in supporting cognition. In particular, the Default-Mode Network (DMN) has been linked to operations on internal representations, while task-positive networks are recruited during interactions with the external world. Here, we te..."]
+      },
+      {
+        "title": "The Disconnected Brain and Executive Function Decline in Aging",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Anders M. Fjell", "Markus Handal Sneve", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": ["Higher order speeded cognitive abilities depend on efficient coordination of activity across the brain, rendering them vulnerable to age reductions in structural and functional brain connectivity. The concept of \"disconnected aging\" has been invoked, suggesting that degeneration of connections between distant brain regions cause cognitive reduction..."]
+      },
+      {
+        "title": "Diffusion tensor imaging and behavior in premature infants at 8 years of age, a randomized controlled trial with long-chain polyunsaturated fatty acids",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Astrid Nylander Almaas", "Christian K Tamnes", "Britt Nakstad", "Christian A Drevon"],
+        "abstract": ["Background: \nVery low birth weight (VLBW, birth weight<1500g) children have increased risk of behavioral problems. Diffusion tensor imaging (DTI) of the brain shows reduced white matter maturation. Long-chain polyunsaturated fatty acids are hypothesized to improve both myelination and behavioral outcome.\n\nAims: \nTo test the hypothesis that postnata..."]
+      },
+      {
+        "title": "Effects of change in FreeSurfer version on classification accuracy of patients with Alzheimer's disease and mild cognitive impairment",
+        "tags": ["Article"],
+        "date": "Feb 2016",
+        "authors": ["Joy-Loi Chepkoech", "Kristine Walhovd", "Hakon Grydeland", "Anders M. Fjell"],
+        "abstract": ["Studies have found non-negligible differences in cortical thickness estimates across versions of software that are used for processing and quantifying MRI-based cortical measurements, and issues have arisen regarding these differences, as obtained estimates could potentially affect the validity of the results. However, more critical for diagnostic..."]
+      },
+      {
+        "title": "Online supplementary Table 1",
+        "tags": ["Data"],
+        "date": "Jan 2016",
+        "authors": ["Stine K Krogsrud", "Anders M. Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["Comparing annual percentage change between WM tracts and global skeleton for FA, MD, RD and AD."]
+      },
+      {
+        "title": "Development and aging of cortical thickness correspond to genetic organization patterns",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Anders M. Fjell", "Hakon Grydeland", "Stine K Krogsrud", "Kristine Walhovd"],
+        "abstract": ["Significance\nHere we show that developmental and adult aging-related changes in cortical thickness follow closely the genetic organization of the cerebral cortex. A total of 1,633 MRI scans from 974 participants from 4.1 to 88.5 y of age were used to measure longitudinal changes in cortical thickness, and the topographic pattern of change was compa..."]
+      },
+      {
+        "title": "Premises of plasticity — And the loneliness of the medial temporal lobe",
+        "tags": ["Article"],
+        "date": "Oct 2015",
+        "authors": ["Kristine Walhovd", "René Westerhausen", "Ann-Marie G de Lange", "Anders M Fjell"],
+        "abstract": ["In this perspective paper, we examine possible premises of plasticity in the neural substrates underlying cognitive change. We take the special role of the medial temporal lobe as an anchoring point, but also investigate characteristics throughout the cortex. Specifically, we examine the dimensions of evolutionary expansion, heritability, variabili..."]
+      },
+      {
+        "title": "Changes in white matter microstructure in the developing brain-A longitudinal diffusion tensor imaging study of children from 4 to 11years of age",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Stine K Krogsrud", "Anders M Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["The purpose of the present study was to detail the childhood developmental course of different white matter (WM) characteristics. In a longitudinal diffusion tensor imaging (DTI) study of 159 healthy children between 4 and 11years scanned twice, we used tract-based spatial statistics as well as delineation of 15 major WM tracts to characterize the..."]
+      },
+      {
+        "title": "Functional connectivity change across multiple cortical networks relates to episodic memory changes in aging",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Anders M Fjell", "Markus Handal Sneve", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": ["A major task of contemporary cognitive neuroscience of aging is to explain why episodic memory declines. Change in resting-state functional connectivity (rsFC) could be a mechanism accounting for reduced function. We addressed this through 3 studies. In study 1, 119 healthy participants (20-83 years) were followed for 3.5 years with verbal recall t..."]
+      },
+      {
+        "title": "Brain Events Underlying Episodic Memory Changes in Aging: A Longitudinal Investigation of Structural and Functional Connectivity",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Anders M Fjell", "Markus Handal Sneve", "Andreas Berg Storsve", "Kristine Walhovd"],
+        "abstract": ["Episodic memories are established and maintained by close interplay between hippocampus and other cortical regions, but degradation of a fronto-striatal network has been suggested to be a driving force of memory decline in aging. We wanted to directly address how changes in hippocampal-cortical versus striatal-cortical networks over time impact epi..."]
+      },
+      {
+        "title": "Intracortical Posterior Cingulate Myelin Content Relates to Error Processing: Results from T1- and T2-Weighted MRI Myelin Mapping and Electrophysiology in Healthy Adults",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Hakon Grydeland", "Lars T Westlye", "Kristine Walhovd", "Anders M Fjell"],
+        "abstract": ["Myelin content of the cerebral cortex likely impacts cognitive functioning, but this notion has scarcely been investigated in vivo in humans. Here we tested for a relationship between intracortical myelin and a direct measure of neural activity in the form of the electrophysiological response error-related negativity (ERN). Using magnetic resonance..."]
+      },
+      {
+        "title": "Mechanisms Underlying Encoding of Short-Lived Versus Durable Episodic Memories",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Markus Handal Sneve", "Hakon Grydeland", "Lars Nyberg", "Anders M Fjell"],
+        "abstract": ["We continuously encounter and process novel events in the surrounding world, but only some episodes will leave detailed memory traces that can be recollected after weeks and months. Here, our aim was to monitor brain activity during encoding of events that eventually transforms into long-term stable memories. Previous functional magnetic resonance..."]
+      },
+      {
+        "title": "Development of Hippocampal Subfield Volumes From 4 to 22 years",
+        "tags": ["Article"],
+        "date": "Nov 2014",
+        "authors": ["Stine K Krogsrud", "Christian K Tamnes", "Anders M Fjell", "Kristine Walhovd"],
+        "abstract": ["The hippocampus supports several important cognitive functions known to undergo substantial development during childhood and adolescence, for example, encoding and consolidation of vivid personal memories. However, diverging developmental effects on hippocampal volume have been observed across studies. It is possible that the inconsistent findings..."]
+      },
+      {
+        "title": "Organizing Principles of Human Cortical Development--Thickness and Area from 4 to 30 Years: Insights from Comparative Primate Neuroanatomy",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["Inge K Amlien", "Anders M Fjell", "Christian K Tamnes", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex undergoes a protracted, regionally heterogeneous development well into young adulthood. Cortical\nareas that expand the most during human development correspond to those that differ most markedly when the brains of macaque\nmonkeys and humans are compared. However, it remains unclear to what extent this relationship derives..."]
+      },
+      {
+        "title": "Regional Hippocampal Volumes and Development Predict Learning and Memory",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Christian K Tamnes", "Kristine Walhovd", "Andreas Engvig", "Anders M Fjell"],
+        "abstract": ["The hippocampus is an anatomically and functionally heterogeneous structure, but longitudinal studies of its regional development are scarce and it is not known whether protracted maturation of the hippocampus in adolescence is related to memory development. First, we investigated hippocampal subfield development using 170 longitudinally acquired b..."]
+      },
+      {
+        "title": "The Roots of Alzheimer's Disease: Are High-Expanding Cortical Areas Preferentially Targeted?",
+        "tags": ["Article"],
+        "date": "Mar 2014",
+        "authors": ["Anders M Fjell", "Inge K Amlien", "Markus Handal Sneve", "Kristine Walhovd"],
+        "abstract": ["Alzheimer's disease (AD) is regarded a human-specific condition, and it has been suggested that brain regions highly expanded in humans compared with other primates are selectively targeted. We calculated shared and unique variance in the distribution of AD atrophy accounted for by cortical expansion between macaque and human, affiliation to the de..."]
+      },
+      {
+        "title": "Intracortical Myelin Links with Performance Variability across the Human Lifespan: Results from T1-and T2-Weighted MRI Myelin Mapping and Diffusion Tensor Imaging",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Hakon Grydeland", "Kristine Walhovd", "Christian K Tamnes", "Anders M Fjell"],
+        "abstract": ["Cerebral myelin maturation and aging-related degradation constitute fundamental features of human brain integrity and functioning. Although mostly studied in the white matter, the cerebral cortex contains significant amounts of myelinated axons. However, how intracortical myelin content evolves during development, decays in aging, and links with co..."]
+      },
+      {
+        "title": "Improved Prediction of Alzheimer's Disease with Longitudinal White Matter/Gray Matter Contrast Changes",
+        "tags": ["Article"],
+        "date": "Nov 2013",
+        "authors": ["Hakon Grydeland", "Lars T Westlye", "Kristine Walhovd", "Anders M Fjell"],
+        "abstract": ["Brain morphometry measures derived from magnetic resonance imaging (MRI) are important biomarkers for Alzheimer's disease (AD). The objective of the present study was to test whether we could improve morphometry-based detection and prediction of disease state by use of white matter/gray matter (WM/GM) signal intensity contrast obtained from convent..."]
+      },
+      {
+        "title": "High-Expanding Cortical Regions in Human Development and Evolution Are Related to Higher Intellectual Abilities",
+        "tags": ["Article"],
+        "date": "Aug 2013",
+        "authors": ["Anders M Fjell", "Lars T Westlye", "Inge Amlien", "Kristine Walhovd"],
+        "abstract": ["Cortical surface area has tremendously expanded during human evolution, and similar patterns of cortical expansion have been observed during childhood development. An intriguing hypothesis is that the high-expanding cortical regions also show the strongest correlations with intellectual function in humans. However, we do not know how the regional d..."]
+      },
+      {
+        "title": "Longitudinal Working Memory Development Is Related to Structural Maturation of Frontal and Parietal Cortices",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Christian K Tamnes", "Kristine Walhovd", "Hakon Grydeland", "Anders M Fjell"],
+        "abstract": ["Parallels between patterns of brain maturation and cognitive development have been observed repeatedly, but studies directly testing the relationships between improvements in specific cognitive functions and structural changes in the brain are lacking. Working memory development extends throughout childhood and adolescence and likely plays a centra..."]
+      },
+      {
+        "title": "Critical ages in the life course of the adult brain: Nonlinear subcortical aging",
+        "tags": ["Article"],
+        "date": "May 2013",
+        "authors": ["Anders M Fjell", "Lars T Westlye", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": ["Age-related changes in brain structure result from a complex interplay among various neurobiological processes, which may contribute to more complex trajectories than what can be described by simple linear or quadratic models. We used a nonparametric smoothing spline approach to delineate cross-sectionally estimated age trajectories of the volume o..."]
+      },
+      {
+        "title": "Accelerating Cortical Thinning: Unique to Dementia or Universal in Aging?",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Anders M Fjell", "Lars T Westlye", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": ["Does accelerated cortical atrophy in aging, especially in areas vulnerable to early Alzheimer's disease (AD), unequivocally\nsignify neurodegenerative disease or can it be part of normal aging? We addressed this in 3 ways. First, age trajectories\nof cortical thickness were delineated cross-sectionally (n = 1100) and longitudinally (n = 207). Second,..."]
+      },
+      {
+        "title": "Brain development and aging: Overlapping and unique patterns of change",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Christian K Tamnes", "Kristine Walhovd", "Anders M Dale", "Anders M Fjell"],
+        "abstract": ["Early-life development is characterized by dramatic changes, impacting lifespan function more than changes in any other period. Developmental origins of neurocognitive late-life functions are acknowledged, but detailed longitudinal magnetic resonance imaging studies of brain maturation and direct comparisons with aging are lacking. To these aims, a..."]
+      },
+      {
+        "title": "Neuronal correlates of the five factor model (FFM) of human personality: Multimodal imaging in a large healthy sample",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Astrid Bjørnebekk", "Anders M Fjell", "Kristine Walhovd", "Lars T Westlye"],
+        "abstract": ["Advances in neuroimaging techniques have recently provided glimpse into the neurobiology of complex traits of human personality. Whereas some intriguing findings have connected aspects of personality to variations in brain morphology, the relations are complex and our current understanding is incomplete. Therefore, we aimed to provide a comprehensi..."]
+      },
+      {
+        "title": "Archieves 2011",
+        "tags": ["Data"],
+        "date": "Oct 2012",
+        "authors": ["Lars T Westlye", "Astrid Bjørnebekk", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": []
+      },
+      {
+        "title": "Mental time travel and default-mode network functional connectivity in the developing brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Ylva Østby Berger", "Kristine Walhovd", "Christian K Tamnes", "Anders M Fjell"],
+        "abstract": ["A core brain network is engaged in remembering the past and envisioning the future. This network overlaps with the so-called default-mode network, the activity of which increases when demands for focused attention are low. Because of their shared brain substrates, an intriguing hypothesis is that default-mode activity, measured at rest, is related..."]
+      },
+      {
+        "title": "Social Reward Dependence and Brain White Matter Microstructure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Astrid Bjørnebekk", "Lars T Westlye", "Anders M Fjell", "Kristine Walhovd"],
+        "abstract": ["People show consistent differences in their cognitive and emotional responses to environmental cues, manifesting, for example, as variability in social reward processing and novelty-seeking behavior. However, the neurobiological foundation of human temperament and personality is poorly understood. A likely hypothesis is that personality traits rely..."]
+      },
+      {
+        "title": "Exploring the relationship between white matter microstructure and working memory functioning following stroke: A single case study of computerized cognitive training",
+        "tags": ["Article"],
+        "date": "Jul 2011",
+        "authors": ["Jan Egil Nordvik", "Anne-Kristine Schanke", "Kristine Walhovd", "Nils Inge Landrø"],
+        "abstract": ["Cognitive impairment is a well-known consequence of acquired brain injuries, including stroke. Computerized cognitive training (CCT) is a rehabilitation approach intended to enhance cognitive functioning. It is unclear whether CCT leads to generalized cognitive improvements in daily life functioning, or if the subjects improve performance only on t..."]
+      },
+      {
+        "title": "Linking an Anxiety-Related Personality Trait to Brain White Matter Microstructure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2011",
+        "authors": ["Lars T Westlye", "Astrid Bjørnebekk", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": ["Emotional, cognitive, and behavioral response patterns underlying temperament and personality are established early and remain stable from childhood. Anxiety-related traits are associated with psychiatric disease and represent predisposing factors for various affective disorders, including depression and anxiety. Emotional processing relies on the..."]
+      },
+      {
+        "title": "Associations between Regional Cortical Thickness and Attentional Networks as Measured by the Attention Network Test",
+        "tags": ["Article"],
+        "date": "Feb 2011",
+        "authors": ["Lars T Westlye", "Hakon Grydeland", "Kristine Walhovd", "Anders M Fjell"],
+        "abstract": ["Efficient attention is pivotal for cognitive functioning, and individual differences in attentional functions are likely related to variations in structural properties of the brain. Attention is supported by separate processes, and models of the relationship between attention and brain structure must take this into account. The Attention Network Te..."]
+      },
+      {
+        "title": "Amnesia Following Herpes Simplex Encephalitis: Diffusion-Tensor Imaging Uncovers Reduced Integrity of Normal-appearing White Matter",
+        "tags": ["Article"],
+        "date": "Oct 2010",
+        "authors": ["Hakon Grydeland", "Kristine Walhovd", "Lars T Westlye", "Anders M Fjell"],
+        "abstract": ["To explore white matter (WM) and gray matter tissue integrity in the apparently unaffected hemisphere of patients with herpes simplex encephalitis (HSE) who have gross unilateral medial temporal lobe (MTL) lesions and both verbal and visuospatial memory deficits.\nThis study had institutional ethics committee approval and included written informed c..."]
+      },
+      {
+        "title": "Life-Span Changes of the Human Brain White Matter: Diffusion Tensor Imaging (DTI) and Volumetry",
+        "tags": ["Article"],
+        "date": "Sep 2010",
+        "authors": ["Lars T Westlye", "Kristine Walhovd", "Anders M Dale", "Anders M Fjell"],
+        "abstract": ["Magnetic resonance imaging volumetry studies report inverted U-patterns with increasing white-matter (WM) volume into middle age suggesting protracted WM maturation compared with the cortical gray matter. Diffusion tensor imaging (DTI) is sensitive to degree and direction of water permeability in biological tissues, providing in vivo indices of WM..."]
+      },
+      {
+        "title": "Differentiating maturational and aging-related changes of the cerebral cortex by use of thickness and signal intensity",
+        "tags": ["Article"],
+        "date": "Mar 2010",
+        "authors": ["Lars T Westlye", "Kristine Walhovd", "Anders M Dale", "Anders M Fjell"],
+        "abstract": ["Cortical thickness decreases from childhood throughout life, as estimated by magnetic resonance imaging (MRI). This monotone trajectory does not reflect the fundamentally different neurobiological processes underlying morphometric changes in development versus aging. We hypothesized that intracortical gray matter (GM) and subjacent white matter (WM..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [77],
+    "reads": [11698],
+    "citations": [4847]
   }
 }

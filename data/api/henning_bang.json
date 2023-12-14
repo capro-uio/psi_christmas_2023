@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Henning Bang",
-    "id": "LI8F3PYAAAAJ",
-    "affiliation": "Professor Department of psychology, University of Oslo, Norway",
+    "name": ["Henning Bang"],
+    "id": ["LI8F3PYAAAAJ"],
+    "affiliation": ["Professor Department of psychology, University of Oslo, Norway"],
     "data": {
       "publications": [
         {
@@ -343,8 +343,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-9533-5388",
-    "name": "Henning Bang",
+    "orcid": ["0000-0001-9533-5388"],
+    "name": ["Henning Bang"],
     "distinctions": [
       {
         "start": "2010",
@@ -455,8 +455,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Henning Bang",
-    "id": "21999",
+    "name": ["Henning Bang"],
+    "id": ["21999"],
     "keywords": [],
     "position": ["Professor", "Professor ii"],
     "img": {},
@@ -469,48 +469,48 @@
       {
         "type": "Poster",
         "year": "2023",
-        "title": "Measuring character strengths in army cadets: Are self-ratings or other-ratings most accurate?",
-        "url": "https://api.cristin.no/v2/results/2180357"
+        "url": "https://api.cristin.no/v2/results/2180357",
+        "title": "Measuring character strengths in army cadets: Are self-ratings or other-ratings most accurate?"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2138736",
         "title": "The Relationship between Psychological Safety and Management Team Effectiveness: The Mediating Role of Behavioral Integration",
-        "journal": "International Journal of Environmental Research and Public Health (IJERPH)",
-        "url": "https://api.cristin.no/v2/results/2138736"
+        "journal": "International Journal of Environmental Research and Public Health (IJERPH)"
       },
       {
         "type": "Abstract",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2138606",
         "title": "Measuring character strengths in army cadets: are self-ratings or other-ratings best?",
-        "journal": "INTED Proceedings",
-        "url": "https://api.cristin.no/v2/results/2138606"
+        "journal": "INTED Proceedings"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Measuring character strengths in army cadets: Are self-ratings or other-ratings best?",
-        "url": "https://api.cristin.no/v2/results/2135191"
+        "url": "https://api.cristin.no/v2/results/2135191",
+        "title": "Measuring character strengths in army cadets: Are self-ratings or other-ratings best?"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/1334602",
         "title": "Assessing the correlation between character\r\nstrengths and mental toughness in military officers",
-        "journal": "International Journal of Emergency Mental Health",
-        "url": "https://api.cristin.no/v2/results/1334602"
+        "journal": "International Journal of Emergency Mental Health"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2126382",
         "title": "Safe Among the Unsafe: Psychological Safety Climate Strength Matters for Team Performance",
-        "journal": "Small Group Research",
-        "url": "https://api.cristin.no/v2/results/2126382"
+        "journal": "Small Group Research"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Safe Among the Unsafe: Psychological Safety Climate Strength Matters for Team Performance",
-        "url": "https://api.cristin.no/v2/results/2043472"
+        "url": "https://api.cristin.no/v2/results/2043472",
+        "title": "Safe Among the Unsafe: Psychological Safety Climate Strength Matters for Team Performance"
       },
       {
         "type": "Popular scientific lecture",
@@ -585,8 +585,8 @@
       {
         "type": "Popular scientific lecture",
         "year": "2021",
-        "title": "Leading teams: How to develop effective management teams",
-        "url": "https://api.cristin.no/v2/results/1971889"
+        "url": "https://api.cristin.no/v2/results/1971889",
+        "title": "Leading teams: How to develop effective management teams"
       },
       {
         "type": "Popular scientific lecture",
@@ -666,8 +666,8 @@
       {
         "type": "Popular scientific lecture",
         "year": "2021",
-        "title": "Leading teams – how to develop more effective management teams",
-        "url": "https://api.cristin.no/v2/results/1956762"
+        "url": "https://api.cristin.no/v2/results/1956762",
+        "title": "Leading teams – how to develop more effective management teams"
       },
       {
         "type": "Popular scientific lecture",
@@ -687,8 +687,8 @@
       {
         "type": "Popular scientific lecture",
         "year": "2021",
-        "title": "What characterizes effective and well-functioning top management teams?",
-        "url": "https://api.cristin.no/v2/results/1954259"
+        "url": "https://api.cristin.no/v2/results/1954259",
+        "title": "What characterizes effective and well-functioning top management teams?"
       },
       {
         "type": "Popular scientific lecture",
@@ -698,15 +698,15 @@
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1907123",
         "title": "Predicting army cadets’ performance: The role of character strengths, GPA and GMA",
-        "journal": "Journal of Military Studies",
-        "url": "https://api.cristin.no/v2/results/1907123"
+        "journal": "Journal of Military Studies"
       },
       {
         "type": "Academic monograph",
         "year": "2021",
-        "title": "Effective management teams and organizational behavior: A research-based model for team development",
-        "url": "https://api.cristin.no/v2/results/1891782"
+        "url": "https://api.cristin.no/v2/results/1891782",
+        "title": "Effective management teams and organizational behavior: A research-based model for team development"
       },
       {
         "type": "Non-fiction book",
@@ -716,15 +716,15 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1828899",
         "title": "The Multidimensional Self-Control Scale (MSCS): Development and validation",
-        "journal": "Psychological Assessment",
-        "url": "https://api.cristin.no/v2/results/1828899"
+        "journal": "Psychological Assessment"
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Measuring character strengths: Are self-ratings or other-ratings best?",
-        "url": "https://api.cristin.no/v2/results/1817723"
+        "url": "https://api.cristin.no/v2/results/1817723",
+        "title": "Measuring character strengths: Are self-ratings or other-ratings best?"
       },
       {
         "type": "Academic monograph",
@@ -734,8 +734,8 @@
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Differences in Balanced leadership Behavior in the Norwegian Armed Forces",
-        "url": "https://api.cristin.no/v2/results/1735764"
+        "url": "https://api.cristin.no/v2/results/1735764",
+        "title": "Differences in Balanced leadership Behavior in the Norwegian Armed Forces"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -745,125 +745,125 @@
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Balanced leadership behavior in the Norwegian Armed Forces ",
-        "url": "https://api.cristin.no/v2/results/1694626"
+        "url": "https://api.cristin.no/v2/results/1694626",
+        "title": "Balanced leadership behavior in the Norwegian Armed Forces "
       },
       {
         "type": "Academic article",
         "year": "2018",
+        "url": "https://api.cristin.no/v2/results/1640237",
         "title": "OBSCIF – A RELIABLE AND VALID OBSERVATIONAL INSTRUMENT FOR MEASURING CHARACTER STRENGTHS",
-        "journal": "ICERI Proceedings",
-        "url": "https://api.cristin.no/v2/results/1640237"
+        "journal": "ICERI Proceedings"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "OBSCIF - A reliable and valid observational instrument for measuring character strenghts",
-        "url": "https://api.cristin.no/v2/results/1630737"
+        "url": "https://api.cristin.no/v2/results/1630737",
+        "title": "OBSCIF - A reliable and valid observational instrument for measuring character strenghts"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Character  strengths  predict  academic  and  military  performance",
-        "url": "https://api.cristin.no/v2/results/1598701"
+        "url": "https://api.cristin.no/v2/results/1598701",
+        "title": "Character  strengths  predict  academic  and  military  performance"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1527930",
         "title": "What characterizes effective management teams? A research - based approach",
-        "journal": "Consulting Psychology Journal: Practice and Research",
-        "url": "https://api.cristin.no/v2/results/1527930"
+        "journal": "Consulting Psychology Journal: Practice and Research"
       },
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Character strengths as important predictors for success in the military\r\n",
-        "url": "https://api.cristin.no/v2/results/1504751"
+        "url": "https://api.cristin.no/v2/results/1504751",
+        "title": "Character strengths as important predictors for success in the military\r\n"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1499250",
         "title": "Do character strengths predict how well military cadets succeed during their Bachelor`s program?",
-        "journal": "ICERI Proceedings",
-        "url": "https://api.cristin.no/v2/results/1499250"
+        "journal": "ICERI Proceedings"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1470778",
         "title": "Measuring important character strengths in Norwegian Special Forces officers",
-        "journal": "EDULEARN Proceedings",
-        "url": "https://api.cristin.no/v2/results/1470778"
+        "journal": "EDULEARN Proceedings"
       },
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Important Character Strengths for Norwegian Special Forces Officers",
-        "url": "https://api.cristin.no/v2/results/1470091"
+        "url": "https://api.cristin.no/v2/results/1470091",
+        "title": "Important Character Strengths for Norwegian Special Forces Officers"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1405496",
         "title": "The Big 12: The Most Important Character Strengths for Military Officers",
-        "journal": "Athens Journal of Social Sciences",
-        "url": "https://api.cristin.no/v2/results/1405496"
+        "journal": "Athens Journal of Social Sciences"
       },
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "Assessing the correlation between character strengths and mental toughness in military officers \r\n",
-        "url": "https://api.cristin.no/v2/results/1461158"
+        "url": "https://api.cristin.no/v2/results/1461158",
+        "title": "Assessing the correlation between character strengths and mental toughness in military officers \r\n"
       },
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1399338",
         "title": "The Big 12: The Most Important Character\r\nStrengths for Military Officers",
-        "journal": "Atiner Conference Paper Series",
-        "url": "https://api.cristin.no/v2/results/1399338"
+        "journal": "Atiner Conference Paper Series"
       },
       {
         "type": "Poster",
         "year": "2016",
-        "title": "Measuring character strengths",
-        "url": "https://api.cristin.no/v2/results/1398872"
+        "url": "https://api.cristin.no/v2/results/1398872",
+        "title": "Measuring character strengths"
       },
       {
         "type": "Poster",
         "year": "2016",
-        "title": "OBSCIF: Self-assessment and observed behaviour",
-        "url": "https://api.cristin.no/v2/results/1398871"
+        "url": "https://api.cristin.no/v2/results/1398871",
+        "title": "OBSCIF: Self-assessment and observed behaviour"
       },
       {
         "type": "Poster",
         "year": "2016",
-        "title": "OBSCIF: Evaluating Character strengths",
-        "url": "https://api.cristin.no/v2/results/1398868"
+        "url": "https://api.cristin.no/v2/results/1398868",
+        "title": "OBSCIF: Evaluating Character strengths"
       },
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1385814",
         "title": "Measuring character strengths: A methodological study of military cadets during a field exercise",
-        "journal": "ICERI Proceedings",
-        "url": "https://api.cristin.no/v2/results/1385814"
+        "journal": "ICERI Proceedings"
       },
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1385811",
         "title": "A study of observed character strengths in military cadets during a combat fatigue course",
-        "journal": "ICERI Proceedings",
-        "url": "https://api.cristin.no/v2/results/1385811"
+        "journal": "ICERI Proceedings"
       },
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1375792",
         "title": "Development of an observational instrument (OBSCIF) for evaluating character strengths in army cadets",
-        "journal": "EDULEARN Proceedings",
-        "url": "https://api.cristin.no/v2/results/1375792"
+        "journal": "EDULEARN Proceedings"
       },
       {
         "type": "Report",
         "year": "2016",
-        "title": "OBSCIF – Evaluation of your character strengths: An observational instrument for rating of character strengths in army cadets.",
-        "url": "https://api.cristin.no/v2/results/1364244"
+        "url": "https://api.cristin.no/v2/results/1364244",
+        "title": "OBSCIF – Evaluation of your character strengths: An observational instrument for rating of character strengths in army cadets."
       },
       {
         "type": "Report",
@@ -873,8 +873,8 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2016",
-        "title": "The Big 12: The Most Important Character Strengths for\r\nOfficers",
-        "url": "https://api.cristin.no/v2/results/1357856"
+        "url": "https://api.cristin.no/v2/results/1357856",
+        "title": "The Big 12: The Most Important Character Strengths for\r\nOfficers"
       },
       {
         "type": "Academic lecture",
@@ -904,16 +904,16 @@
       {
         "type": "Academic article",
         "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1248087",
         "title": "Evaluating character strengths in cadets during a military field exercise: Consistency between different evaluation sources",
-        "journal": "EDULEARN Proceedings",
-        "url": "https://api.cristin.no/v2/results/1248087"
+        "journal": "EDULEARN Proceedings"
       },
       {
         "type": "Academic article",
         "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1235200",
         "title": "Experienced military officer’s perception of \r\nimportant character strengths\r\n",
-        "journal": "Procedia - Social and Behavioral Sciences",
-        "url": "https://api.cristin.no/v2/results/1235200"
+        "journal": "Procedia - Social and Behavioral Sciences"
       },
       {
         "type": "Lecture",
@@ -923,16 +923,16 @@
       {
         "type": "Academic article",
         "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1191796",
         "title": "Developing an observational instrument for measuring character strengths during military field exercises",
-        "journal": "Procedia - Social and Behavioral Sciences",
-        "url": "https://api.cristin.no/v2/results/1191796"
+        "journal": "Procedia - Social and Behavioral Sciences"
       },
       {
         "type": "Academic article",
         "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1191792",
         "title": "Selecting the most relevant character strengths for Norwegian Army officers: An educational tool",
-        "journal": "Procedia - Social and Behavioral Sciences",
-        "url": "https://api.cristin.no/v2/results/1191792"
+        "journal": "Procedia - Social and Behavioral Sciences"
       },
       {
         "type": "Lecture",
@@ -942,20 +942,20 @@
       {
         "type": "Report",
         "year": "2014",
-        "title": "Character in military leaders - a short project description for VIA",
-        "url": "https://api.cristin.no/v2/results/1165110"
+        "url": "https://api.cristin.no/v2/results/1165110",
+        "title": "Character in military leaders - a short project description for VIA"
       },
       {
         "type": "Popular scientific lecture",
         "year": "2013",
-        "title": "What characterizes effective management teams?",
-        "url": "https://api.cristin.no/v2/results/1088246"
+        "url": "https://api.cristin.no/v2/results/1088246",
+        "title": "What characterizes effective management teams?"
       },
       {
         "type": "Academic literature review",
         "year": "2013",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1034783"
+        "url": "https://api.cristin.no/v2/results/1034783",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Textbook",
@@ -975,21 +975,21 @@
       {
         "type": "Editorial",
         "year": "2010",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/489772"
+        "url": "https://api.cristin.no/v2/results/489772",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2010",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/343443"
+        "url": "https://api.cristin.no/v2/results/343443",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2010",
+        "url": "https://api.cristin.no/v2/results/339338",
         "title": "Effectiveness in top management group meetings: The role of goal clarity, focused communication, and learning behavior",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/339338"
+        "journal": "Scandinavian Journal of Psychology"
       },
       {
         "type": "Report",
@@ -999,14 +999,14 @@
       {
         "type": "Academic article",
         "year": "2008",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/362097"
+        "url": "https://api.cristin.no/v2/results/362097",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2007",
-        "journal": "Magma forskning og viten",
-        "url": "https://api.cristin.no/v2/results/850185"
+        "url": "https://api.cristin.no/v2/results/850185",
+        "journal": "Magma forskning og viten"
       },
       {
         "type": "Popular scientific lecture",
@@ -1029,5 +1029,355 @@
         "url": "https://api.cristin.no/v2/results/850055"
       }
     ]
+  },
+  "rg": {
+    "id": "Henning-Bang",
+    "name": "Henning Bang",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272892923478016-1442074151801_Q128/Henning-Bang.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Industrial and Organizational Psychology", "Organizational Behavior", "Applied Psychology", "Management", "Organizational Psychology", "Interpersonal Communication", "Exercise"],
+    "works": [
+      {
+        "title": "Organisasjonskultur",
+        "tags": ["Book"],
+        "date": "Jun 2023",
+        "authors": ["Henning Bang"],
+        "abstract": ["The book \"Organisasjonskultur\" has become a modern classic in Norway since it was first published in 1988. The current edition (5th) is from 2020, and gives an overview of research on organizational culture: what it is, how it develops in organizations, how culture can be identified and analyzed, ways to measure organizational culture, and how to c..."]
+      },
+      {
+        "title": "Cultivating flexibility: The relationship between flexible organizational values, participation climate, and job attitudes from an employee perspective",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Marius Duhović Hafstad", "Henning Bang", "Cato Bjørkli", "Knut Inge Fostervold"],
+        "abstract": ["Adopting a flexible organizational culture can be a potential remedy for organizations that face globalization, technological advancements, and higher expectations from the workforce. However, research on the mechanism between organizational culture and its outcomes remain understudied. This study adopts an employee-centric approach, suggesting tha..."]
+      },
+      {
+        "title": "MEASURING CHARACTER STRENGTHS IN ARMY CADETS: ARE SELF-RATINGS OR OTHER-RATINGS BEST?",
+        "tags": ["Conference Paper"],
+        "date": "Mar 2023",
+        "authors": ["Henning Bang", "Fredrik Andre Nilsen", "Ole Boe", "Johannes Kibsgaard"],
+        "abstract": []
+      },
+      {
+        "title": "The Relationship between Psychological Safety and Management Team Effectiveness: The Mediating Role of Behavioral Integration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Emil Viduranga Mogård", "Ole Bendik Rørstad", "Henning Bang"],
+        "abstract": ["This study explores whether there is an indirect effect of psychological safety on team effectiveness in management teams, operating through the mediating variable of behavioral integration. Whilst there exists a fair amount of research on the relationship between psychological safety and team effectiveness, few have looked at potential mechanisms..."]
+      },
+      {
+        "title": "Safe Among the Unsafe: Psychological Safety Climate Strength Matters for Team Performance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Bård Fyhn", "Henning Bang", "Therese Egeland", "Vidar Schei"],
+        "abstract": ["Team psychological safety, as a shared perception, is persistently found to be important for team performance. However, team members may not necessarily agree on the level of safety within the team. What happens when team members have dispersed perceptions of team psychological safety? Through a survey-based study involving 1,149 members of 160 man..."]
+      },
+      {
+        "title": "Predicting army cadets’ performance: The role of character strengths, GPA and GMA",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Henning Bang", "Fredrik Andre Nilsen", "Ole Boe", "Ole Christian Lang-Ree"],
+        "abstract": ["The purpose of this study was to examine how well a set of 12 character strengths (Leadership, Integrity, Open-Mindedness, Bravery, Teamwork, Persistence, Social Intelligence, Love of Learning, Fairness, Self-Regulation, Perspective and Creativity) will predict academic performance (AP) and military performance (MP), compared to high school grade p..."]
+      },
+      {
+        "title": "Management Group or Management Team?",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Supportive Organizational Systems",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Team Boundary Spanning",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Effective Management Teams and Organizational Behavior: A Research-Based Model for Team Development",
+        "tags": ["Book"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Management Team Development—Principles and Dilemmas",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "A Model for Effectiveness in Management Teams",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "The Management Team—A Special Type of Team?",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "A Clear Team Purpose",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Tools for Developing Management Teams",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Appropriate Team Tasks",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Capitalizing on Diversity",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Continuous Team Learning",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "What Kind of Results Do Effective Management Teams Achieve?",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "The Absence of Political Behavior",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Appropriate Team Composition",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Setting Clear Meeting Goals",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Effective Team Leadership",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "Focused Communication",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": []
+      },
+      {
+        "title": "The Multidimensional Self-Control Scale (MSCS): Development and Validation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Fredrik Andre Nilsen", "Henning Bang", "Ole Boe", "Espen Røysamb"],
+        "abstract": ["Trait self-control is important for well-being and mental and physical health. Most extant measures of self-control are limited in that they do not account for the multidimensionality and specificity of the trait. The aim of this study was to develop and validate a multidimensional and hierarchical scale of self-control in a full and a short versio..."]
+      },
+      {
+        "title": "Karakterstyrker hos den militære leder.",
+        "tags": ["Chapter"],
+        "date": "Oct 2019",
+        "authors": ["Ole Boe", "Henning Bang", "Fredrik Andre Nilsen"],
+        "abstract": []
+      },
+      {
+        "title": "OBSCIF – A RELIABLE AND VALID OBSERVATIONAL INSTRUMENT FOR MEASURING CHARACTER STRENGTHS",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Henning Bang", "Ole Boe", "Dag Erik Eilertsen", "Fredrik Andre Nilsen"],
+        "abstract": []
+      },
+      {
+        "title": "DO CHARACTER STRENGTHS PREDICT HOW WELL MILITARY CADETS SUCCEED DURING THEIR BACHELOR’S PROGRAM?",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Henning Bang", "Ole Boe", "Fredrik Andre Nilsen", "Dag Erik Eilertsen"],
+        "abstract": []
+      },
+      {
+        "title": "What characterizes effective management teams? A research-based approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": ["Most organizations use management teams at different levels in the hierarchy to oversee and coordinate their businesses. Such teams typically make decisions, solve problems, coordinate tasks, and keep one another informed, and they can strongly influence the performance of an organization. Hence it is vital to identify factors that are associated w..."]
+      },
+      {
+        "title": "MEASURING IMPORTANT CHARACTER STRENGTHS IN NORWEGIAN SPECIAL FORCES OFFICERS",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Ole Boe", "Fredrik Andre Nilsen", "Ola Kristiiansen", "Henning Bang"],
+        "abstract": ["Problem statement: Serving as a soldier or officer in a military elite or special unit is highly demanding. This requires among other things that the soldier or officer has a well-developed character. Previous studies have identified that 12 character strengths are highly relevant and important for succeeding as a regular officer in the Norwegian A..."]
+      },
+      {
+        "title": "MEASURING IMPORTANT CHARACTER STRENGTHS IN NORWEGIAN SPECIAL FORCES OFFICERS",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Ole Boe", "Fredrik Andre Nilsen", "Ola Kristiansen", "Henning Bang"],
+        "abstract": []
+      },
+      {
+        "title": "Measuring character strengths: A methodological study of military cadets during a field exercise.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Ole Boe", "Bengt-Andre Heiskel", "Øyvind M. Grande", "Henning Bang"],
+        "abstract": ["The Norwegian Military Academy (NMA) uses two different instruments in order to measure character strengths in its cadets. The instruments are a self-report questionnaire called Values In Action-Inventory of Strengths (VIA-IS) and an observational instrument developed by the NMA referred to as OBServation of Character In Field (OBSCIF). The purpose..."]
+      },
+      {
+        "title": "A study of observed character strengths in military cadets during a combat fatigue course.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Ole Boe", "Sofia Ellen Davidson", "Fredrik Andre Nilsen", "Henning Bang"],
+        "abstract": ["This study is a quantitative study on observed character strengths in military cadets at the Norwegian Military Academy. The study aims to answer the research question to what extent there is consistency between the cadet’s self-assessment and the observed behaviour. A follow-up question was what this consistency or lack thereof would mean? This st..."]
+      },
+      {
+        "title": "The Big 12: The Most Important Character Strengths for Military Officers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Ole Boe", "Henning Bang"],
+        "abstract": ["The Norwegian Military Academy´s main role is to educate future military\nleaders for the Norwegian Army. After graduating from the Norwegian\nMilitary Academy, these leaders will most likely have to deal with a great deal\nof responsibility and to cope with challenging and difficult situations.\nLeadership in these situations will demand a high degree..."]
+      },
+      {
+        "title": "MEASURING CHARACTER STRENGTHS: A METHODOLOGICAL STUDY OF MILITARY CADETS DURING A FIELD EXERCISE",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Ole Boe", "Bengt Andre Heiskel", "Øyvind Moholdt Grande", "Henning Bang"],
+        "abstract": ["The Norwegian Military Academy (NMA) uses two different instruments in order to measure character strengths in its cadets, respectively a self-report questionnaire and an observational instrument. The self-report questionnaire is called Values In Action-Inventory of Strengths (VIA-IS) and is a recognized questionnaire. The observational instrument..."]
+      },
+      {
+        "title": "A STUDY OF OBSERVED CHARACTER STRENGTHS IN MILITARY CADETS DURING A COMBAT FATIGUE COURSE",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Ole Boe", "Sofia Ellen Davidson", "Fredrik Andre Nilsen", "Henning Bang"],
+        "abstract": ["A STUDY OF OBSERVED CHARACTER STRENGTHS IN MILITARY CADETS DURING A COMBAT FATIGUE COURSE\nO. Boe ¹, S.E. Davidson ², F.A. Nilsen ¹, H. Bang ²\n\n1Norwegian Military Academy (NORWAY)\n2University of Oslo (NORWAY)\n\nThis study is a quantitative study on observed character strengths in military cadets at the Norwegian Military Academy. Through descriptive..."]
+      },
+      {
+        "title": "DEVELOPMENT OF AN OBSERVATIONAL INSTRUMENT (OBSCIF) FOR EVALUATING CHARACTER STRENGTHS IN ARMY CADETS",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Henning Bang", "Dag Erik Eilertsen", "Ole Boe", "Fredrik Andre Nilsen"],
+        "abstract": ["Problem statement: The Norwegian Military Academy (NMA) aims to educate highly competent officers, who have the capacity to lead under extreme conditions. Building on Peterson and Seligman's [1] taxonomy of character strengths, previous studies have identified 12 particularly important character strengths for succeeding as an officer in the Norwegi..."]
+      },
+      {
+        "title": "EVALUATING CHARACTER STRENGTHS IN CADETS DURING A MILITARY FIELD EXERCICE - CONSISTENCY BETWEEN DIFFERENT EVALUATION SOURCES - FINAL 060715",
+        "tags": ["Data"],
+        "date": "Nov 2015",
+        "authors": ["Ole Boe", "Henning Bang", "Fredrik Andre Nilsen"],
+        "abstract": []
+      },
+      {
+        "title": "Evaluating character strengths in cadets during a military field exercise: Consistency between different evaluation sources",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Henning Bang", "Ole Boe", "Fredrik Andre Nilsen", "Dag Erik Eilertsen"],
+        "abstract": ["Problem statement: The Norwegian Military Academy (NMA) educates cadets to serve as officers in international military operations. To do so, specific personal strengths and characteristics are required. By applying assumptions and formulations based on Peterson and Seligman’s [2] taxonomy of 24 character strengths, previous studies have identified..."]
+      },
+      {
+        "title": "Developing an Observational Instrument to Measure Character Strengths during Military Field Exercises",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Ole Boe", "Henning Bang", "Fredrik Andre Nilsen"],
+        "abstract": ["Problem statement: Serving as an officer in international military operations is often demanding, and requires that the officer has a well-developed character. Character and character strength are difficult concepts to measure objectively. The most common method for measuring character strengths is with a rating instrument called VIA-IS (Peterson &..."]
+      },
+      {
+        "title": "Selecting the Most Relevant Character Strengths for Norwegian Army Officers: An Educational Tool",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Ole Boe", "Henning Bang", "Fredrik Andre Nilsen"],
+        "abstract": ["Problem statement: Officers educated at the Norwegian Military Academy (NMA) will most likely serve in leading roles in international military operations, which will demand both intellect and character. There is, however, a lack of systematic research on which character traits that are crucial for succeeding in these operations, and hence, to devel..."]
+      },
+      {
+        "title": "Experienced Military Officer's Perception of Important Character Strengths",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Ole Boe", "Henning Bang", "Fredrik Andre Nilsen"],
+        "abstract": ["Problem statement: Military officers educated from the Norwegian Military Academy are expected to become leaders in military international operations. Leadership in these contexts will demand a high degree of intellect and character. However, there is a lack of systematic research on which specific character strengths that are crucial to possess fo..."]
+      },
+      {
+        "title": "Bang et al 2010 - Effectiveness in top management group meetings - tidsskriftversjon",
+        "tags": ["Data", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Henning Bang"],
+        "abstract": []
+      },
+      {
+        "title": "Organisasjonskultur - en begrepsavklaring",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Henning Bang"],
+        "abstract": ["The concept of organizational culture has been part of our everyday language since the 1980s. Yet there is confusion among practioners like employees, managers and organizational consultants on what is actually meant by the culture of an organization. This article aims to clarify the concept of organizational culture, based on the extensive interna..."]
+      },
+      {
+        "title": "What prevents senior executives from commenting upon miscommunication in top management team meetings?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Henning Bang"],
+        "abstract": ["Purpose – The purpose of this paper is to explore why executives participating in a top management\nteam meeting avoid speaking up when they experience the goal as unclear or the discussion as\nwandering off track.\nDesign/methodology/approach – A total of 21 executives (CEOs and level 2 managers) from seven\ntop management teams were interviewed, and..."]
+      },
+      {
+        "title": "Effectiveness in top management group meetings: The role of goal clarity, focused communication, and learning behavior",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2010",
+        "authors": ["Henning Bang", "Synne L Fuglesang", "Mariann R Ovesen", "Dag Erik Eilertsen"],
+        "abstract": ["Bang, H., Fuglesang, S. L., Ovesen, M. R. & Eilertsen, D. E. (2010). Effectiveness in top management group meetings: The role of goal clarity, focused communication, and learning behavior. Scandinavian Journal of Psychology, 51, 253–261.\nTo explore the relationship between goal clarity, focused communication, learning behavior, and team effectivene..."]
+      },
+      {
+        "title": "Dialog og effektivitet i ledergrupper",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Henning Bang", "Thomas Nesset Midelfart"],
+        "abstract": ["To what extent does a dialogical communication stylepromote effectiveness in management teams? Four hundred and thirty one Norwegian managers from 75 different management teams completed a questionnaire evaluating the extent of dialogical communication and team effectiveness in their respective teams. The results of this survey indicate that there..."]
+      },
+      {
+        "title": "Effektivitet i lederteam - hva er det, og hvilke faktorer påvirker det?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Henning Bang"],
+        "abstract": ["This article reviews empirical research related to effectiveness in management teams. Effectiveness is defined as the degree to which a management team meets or exceeds its goals in three areas: task performance, team viability, and individual satisfaction. Variables identified from empirical studies are presented, using an «input-process-output» m..."]
+      }
+    ],
+    "degree": ["PhD,", "MBA,", "Mag.art.", "in", "psychology"],
+    "bio": "My research interests are effectiveness in management teams, and the importance of character strengths for performance. I am currently working on three projects: 1) Identifying mediators and moderators in the relationship between input and output factors in management teams, 2) Examining to what extent team building interventions works in management teams, and 3) Examining to what extent certain character strengths predict military and academic performance among army cadets.",
+    "publications": [48],
+    "reads": [61438],
+    "citations": [276]
   }
 }

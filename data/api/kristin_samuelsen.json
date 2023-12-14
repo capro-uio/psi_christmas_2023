@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Kristin W Samuelson",
-    "id": "B3uZexgAAAAJ",
-    "affiliation": "Clinical and Forensic Psychologist",
+    "name": ["Kristin W Samuelson"],
+    "id": ["B3uZexgAAAAJ"],
+    "affiliation": ["Clinical and Forensic Psychologist"],
     "data": {
       "publications": [
         {
@@ -527,8 +527,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Kristin Samuelsen",
-    "id": "915002",
+    "name": ["Kristin Samuelsen"],
+    "id": ["915002"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -541,5 +541,15 @@
         "url": "https://api.cristin.no/v2/results/2148966"
       }
     ]
+  },
+  "rg": {
+    "id": "Sonnia-Kristin",
+    "name": "Sonnia Kristin",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Universitas Padjadjaran | UNPAD, Universitas Padjadjaran",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

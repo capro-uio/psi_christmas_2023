@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Anders Fjell",
-    "id": "yiSLTAcAAAAJ",
-    "affiliation": "Professor of cognitive psychology, Center for Lifespan Changes in Brain and Cognition …",
+    "name": ["Anders Fjell"],
+    "id": ["yiSLTAcAAAAJ"],
+    "affiliation": ["Professor of cognitive psychology, Center for Lifespan Changes in Brain and Cognition …"],
     "data": {
       "publications": [
         {
@@ -1220,8 +1220,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-2502-8774",
-    "name": "Anders Martin Fjell",
+    "orcid": ["0000-0003-2502-8774"],
+    "name": ["Anders Martin Fjell"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1397,11 +1397,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anders Martin Fjell",
-    "id": "23265",
+    "name": ["Anders Martin Fjell"],
+    "id": ["23265"],
     "keywords": [],
     "position": ["Professor", null],
-    "img": "https://api.cristin.no/v2/persons/23265/picture",
+    "img": ["https://api.cristin.no/v2/persons/23265/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -2089,5 +2089,14 @@
         "url": "https://api.cristin.no/v2/results/1534521"
       }
     ]
+  },
+  "rg": {
+    "id": "Martin_Anders3",
+    "name": "Martin Anders",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

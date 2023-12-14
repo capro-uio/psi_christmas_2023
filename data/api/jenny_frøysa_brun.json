@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Jenny Frøysa Brun",
-    "id": "1504872",
+    "name": ["Jenny Frøysa Brun"],
+    "id": ["1504872"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Rolf-Froysa",
+    "name": "Rolf Frøysa",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272276742471696-1441927242646_Q128/Rolf-Froysa.jpg",
+    "affiliation": "DataGuard AS, CTO",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0001-5521-7915",
-    "name": "Ragnhild Undseth",
+    "orcid": ["0009-0001-5521-7915"],
+    "name": ["Ragnhild Undseth"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ragnhild Marie Undseth",
-    "id": "15727",
+    "name": ["Ragnhild Marie Undseth"],
+    "id": ["15727"],
     "keywords": [],
     "position": ["Associate professor", null, "Head physician"],
     "img": {},
@@ -147,5 +147,15 @@
         "url": "https://api.cristin.no/v2/results/422839"
       }
     ]
+  },
+  "rg": {
+    "id": "Ragnhild_Hansen6",
+    "name": "Ragnhild Marie Hansen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "GKN Aerospace Norway, Technology",
+    "keywords": [],
+    "works": [],
+    "degree": ["Master", "of", "Science"],
+    "bio": []
   }
 }

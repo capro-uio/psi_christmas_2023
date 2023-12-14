@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Genevieve Richard",
-    "id": "554342",
+    "name": ["Genevieve Richard"],
+    "id": ["554342"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -275,5 +275,15 @@
         "url": "https://api.cristin.no/v2/results/1197212"
       }
     ]
+  },
+  "rg": {
+    "id": "Genevieve_Richard2",
+    "name": "Geneviève Richard",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Centre hospitalier intercommunal EureSeine, education thérapeutique du patient",
+    "keywords": ["Pedagogy and Education", "Pedagogy"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

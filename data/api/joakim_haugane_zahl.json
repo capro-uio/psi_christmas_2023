@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Joakim Haugane Zahl",
-    "id": "781632",
+    "name": ["Joakim Haugane Zahl"],
+    "id": ["781632"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -23,5 +23,40 @@
         "url": "https://api.cristin.no/v2/results/1976211"
       }
     ]
+  },
+  "rg": {
+    "id": "Joakim-Zahl",
+    "name": "Joakim Haugane Zahl",
+    "img": "https://i1.rgstatic.net/ii/profile.image/422139804295168-1477657380146_Q128/Joakim-Zahl.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Judgment and Decision Making", "Evolutionary Psychology", "Emotion", "social relations", "Coordination"],
+    "works": [
+      {
+        "title": "No single notion of cooperation explains when we respect ownership",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Erik Kjos Fonn", "Joakim Haugane Zahl", "Bjørn Dahl Kristensen", "Lotte Thomsen"],
+        "abstract": "Cooperation is fundamentally moderated by the form of relationship between the actors involved, as is normative resource distribution. We argue that possessions are likely treated differently across different types of cooperative relationships. Whereas Boyer's computational model might in principle account for this, the theory would benefit from a..."
+      },
+      {
+        "title": "The boss is not always right: Norwegian preschoolers do not selectively endorse the testimony of a novel dominant agent",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Erik Kjos Fonn", "Joakim Haugane Zahl", "Lotte Thomsen"],
+        "abstract": "Theories of cultural evolution posit that cues of competence-based prestige, rather than formidability-based dominance, should guide culturally transmitted learning, but recent work suggested that French and Kaqchikel Guatamalan preschoolers place their epistemic trust in dominant others. In contrast, this study shows that 249 three- to six-year-ol..."
+      },
+      {
+        "title": "The boss is not always right: Norwegian preschoolers do not selectively endorse the testimony of a novel dominant agent",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Erik Kjos Fonn", "Joakim Haugane Zahl", "Lotte Thomsen"],
+        "abstract": "Theories of cultural evolution posit that cues of competence-based prestige, rather than formidability-based dominance, should guide culturally-transmitted learning, but recent work suggested that French and Kaqchikel Guatamalan preschoolers place their epistemic trust in dominant others. In contrast, here we report positive Bayesian evidence that..."
+      }
+    ],
+    "degree": ["Master", "in", "Social", "Psychology"],
+    "bio": "With complex social interaction, humans need a remarkably fine-tuned computational apparatus to notice and understand the significance of social information. To be able to learn the intricacy of social rules and practices, infants should have the capability to recognize social details and have some basic expectations about social interaction. That is, infants should have an early emerging social-grammar instilled with differentiated expectations and motives that match the basic types of relations humans obtain. Investigating and revealing this social-grammar is central to my research. Understanding this social-grammar has the potential to increase the understanding of our evolved social nature.",
+    "publications": [3],
+    "reads": [368],
+    "citations": [9]
   }
 }

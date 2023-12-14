@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Joakim Coleman Ebeltoft",
-    "id": "1511123",
+    "name": ["Joakim Coleman Ebeltoft"],
+    "id": ["1511123"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -45,5 +45,15 @@
         "url": "https://api.cristin.no/v2/results/2168890"
       }
     ]
+  },
+  "rg": {
+    "id": "Bessard_Joakim",
+    "name": "Bessard Joakim",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Geneva | UNIGE, University of Geneva, Department of Geography and the Environment",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

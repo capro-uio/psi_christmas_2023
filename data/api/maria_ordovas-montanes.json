@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Maria Ordovas-Montanes",
-    "id": "i1APQC8AAAAJ",
-    "affiliation": "",
+    "name": ["Maria Ordovas-Montanes"],
+    "id": ["i1APQC8AAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -72,11 +72,53 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Maria Ordovas-Montanes",
-    "id": "1504847",
+    "name": ["Maria Ordovas-Montanes"],
+    "id": ["1504847"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Maria-Ordovas-Montanes",
+    "name": "Maria Ordovas-Montanes",
+    "img": "https://i1.rgstatic.net/ii/profile.image/653002704683016-1532699385194_Q128/Maria-Ordovas-Montanes.jpg",
+    "affiliation": "University of Oxford | OX, University of Oxford, Department of Zoology",
+    "keywords": ["Bacteria", "Cloning", "General Microbiology", "Microbial Culture", "Pathogenesis", "Nematodes", "Caenorhabditis elegans"],
+    "works": [
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Nov 2017",
+        "authors": ["Sabine Kuss", "Eden E L Tanner", "Maria Ordovas-Montanes", "R. G. Compton"],
+        "abstract": []
+      },
+      {
+        "title": "Electrochemical Recognition and Quantification of Cytochrome c Expression in Bacillus subtilis and aerobe/anaerobe Escherichia coli using N,N,N’,N’-tetramethyl-para-phenylene-diamine (TMPD)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Sabine Kuss", "Eden E L Tanner", "Maria Ordovas-Montanes", "R. G. Compton"],
+        "abstract": ["The colorimetric identification of pathogenic and non-pathogenic bacteria in cell culture is commonly performed using the redox mediator N,N,N’,N’-tetramethyl-para-phenylene-diamine (TMPD) in the so-called oxidase test, which indicates the presence of bacterial cytochrome c oxidases. The presented study demonstrates the ability of electrochemistry..."]
+      },
+      {
+        "title": "CD5L/AIM Regulates Lipid Biosynthesis and Restrains Th17 Cell Pathogenicity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2015",
+        "authors": ["Chao Wang", "Nir Yosef", "Jellert T Gaublomme", "Vijay K. Kuchroo"],
+        "abstract": ["Th17 cells play a critical role in host defense against extracellular pathogens and tissue homeostasis but can induce autoimmunity. The mechanisms implicated in balancing \"pathogenic\" and \"non-pathogenic\" Th17 cell states remain largely unknown. We used single-cell RNA-seq to identify CD5L/AIM as a regulator expressed in non-pathogenic, but not in..."]
+      },
+      {
+        "title": "REV-ERB-ALPHA circadian gene variant associates with obesity in two independent populations: Mediterranean and North American",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Marta Garaulet", "Caren E Smith", "Purificación Gomez-Abellán", "Jose M Ordovas"],
+        "abstract": ["Despite the solid connection between REV-ERB and obesity, the information about whether genetic variations at this locus may be associated with obesity traits is scarce. Therefore our objective was to study the association between REV-ERB-ALPHA1 rs2314339 and obesity in two independent populations.\nParticipants were 2214 subjects from Spanish Medit..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [4],
+    "reads": [771],
+    "citations": [341]
   }
 }

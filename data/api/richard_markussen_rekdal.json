@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Richard Markussen Rekdal",
-    "id": "VSzhSK0AAAAJ",
-    "affiliation": "PhD Candidate, BI Norwegian Business School",
+    "name": ["Richard Markussen Rekdal"],
+    "id": ["VSzhSK0AAAAJ"],
+    "affiliation": ["PhD Candidate, BI Norwegian Business School"],
     "data": {
       "publications": [
         {
@@ -19,8 +19,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0009-0009-5094-6324",
-    "name": "Richard Rekdal",
+    "orcid": ["0009-0009-5094-6324"],
+    "name": ["Richard Rekdal"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -31,8 +31,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Richard Markussen Rekdal",
-    "id": "1021907",
+    "name": ["Richard Markussen Rekdal"],
+    "id": ["1021907"],
     "keywords": [],
     "position": ["Research fellow", "Academic assistant", "Higher Executive Officer"],
     "img": {},
@@ -44,5 +44,570 @@
         "url": "https://api.cristin.no/v2/results/2162978"
       }
     ]
+  },
+  "rg": {
+    "id": "Simen-Markussen",
+    "name": "Simen Markussen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272412944105483-1441959715472_Q128/Simen-Markussen.jpg",
+    "affiliation": "University of Oslo, Department of Economics",
+    "keywords": ["Applied Econometrics", "Social Insurance", "Employment", "Labor Market", "Economic Growth", "Wages"],
+    "works": [
+      {
+        "title": "The rising influence of family background on early school performance",
+        "tags": ["Article"],
+        "date": "Dec 2023",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Effect of ADHD medication on risk of injuries: a preference-based instrumental variable analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Tarjei Widding-Havneraas", "Felix Elwert", "Simen Markussen", "Arnstein Mykletun"],
+        "abstract": ["ADHD is associated with an increased risk of injury. Causal evidence for effects of pharmacological treatment on injuries is scarce. We estimated effects of ADHD medication on injuries using variation in provider preference as an instrumental variable (IV). Using Norwegian registry data, we followed 8051 patients who were diagnosed with ADHD aged 5..."]
+      },
+      {
+        "title": "When health trumps money: Economic incentives and health equity in the public provision of nursing homes in Norway",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Øystein Hernæs", "Snorre Kverndokk", "Simen Markussen", "Henning Øien"],
+        "abstract": ["The allocation of public care services should be determined by individual needs, but can be influenced by economic factors. This paper examines the impact of economic incentives on the allocation of public nursing home care in the Norwegian long-term care system. In Norway, municipalities and city districts have economic incentives for choosing nur..."]
+      },
+      {
+        "title": "Socioeconomic differences in the long-term effects of teacher absence on student outcomes",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Nicolai Topstad Borgen", "Simen Markussen", "Oddbjörn Raaum"],
+        "abstract": []
+      },
+      {
+        "title": "Ageing and Labor Productivity",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Erik Hernæs", "Tom Kornstad", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "The Impact of Pension Reform on Employment, Retirement and Disability Insurance Claims",
+        "tags": ["Article"],
+        "date": "Jan 2023",
+        "authors": ["Erik Hernæs", "Simen Markussen", "John Piggott", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "An imperfect wealth tax and employment in closely held firms",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Marie Bjørneby", "Simen Markussen", "Knut Røed"],
+        "abstract": ["Fuelled by increasing inequality and rising fiscal deficits, the interest in wealth taxation has grown over recent years, both in the public debate and in academia. A key concern is that the wealth tax may reduce the amount of capital available to closely held firms and drag down their employment. Yet knowledge about the behavioural effects of a we..."]
+      },
+      {
+        "title": "Are richer neighborhoods always better for the kids?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["Based on Norwegian administrative registers, we provide new empirical evidence on the effects of the childhood neighborhood’s socioeconomic status on early educational performance. A neighborhood’s status is measured annually by its adult inhabitants’ earnings ranks within larger commuting zones, and the childhood neighborhood status is the average..."]
+      },
+      {
+        "title": "Immigration and economic mobility",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Maria Forthun Hoen", "Simen Markussen", "Knut Røed"],
+        "abstract": ["We examine how immigration affects natives’ relative prime-age labor market outcomes by economic class background, with class background established on the basis of parents’ earnings rank. Exploiting alternative sources of variation in immigration patterns across time and space, we find that immigration from low-income countries reduces intergenera..."]
+      },
+      {
+        "title": "Trends in Assortative Mating and Offspring Outcomes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Bernt Bratsberg", "Simen Markussen", "Oddbjørn Raaum", "Ole Rogeberg"],
+        "abstract": ["We study assortative mating of Norwegian parents over five decades and its consequences for offspring outcomes. Parents are characterized by the earnings decile of their parents (the offspring's grandparents) as an indicator of social class. While assortative mating has remained stable across decades, parenthood has become more skewed toward the hi..."]
+      },
+      {
+        "title": "Kun etter behov? Mottak av pleie- og omsorgstjenester og sammenheng med sosioøkonomisk status",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Øystein Hernæs", "Snorre Kverndokk", "Simen Markussen", "Henning Øien"],
+        "abstract": ["Mottak av pleie- og omsorgstjenester skal prinsipielt styres av behov alene og ikke sosioøkonomisk posisjon. I denne studien bruker vi registerdata (Gerica, Norsk pasientregister, KUHR og inntekts- og populasjonsregistre fra SSB) til å undersøke sammenhengen mellom sosioøkonomisk status og mottak av pleie- og omsorgstjenester for personer mellom 70..."]
+      },
+      {
+        "title": "Saving Effects of a Real-Life Imperfectly Implemented Wealth Tax: Evidence from Norwegian Micro Data",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Annette Alstadsæter", "Marie Bjørneby", "Wojciech Kopczuk", "Knut Røed"],
+        "abstract": ["Countries that implement wealth taxes make many practical compromises regarding relative treatment and approach to valuation of different categories of assets in order to ease assessment and liquidity difficulties with this form of taxation. Relying on Norwegian variation in tax and base rules, we illustrate the resulting complexity and evaluate th..."]
+      },
+      {
+        "title": "Koronaledighetens sosiale gradient",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Annette Alstadsæter", "Bernt Bratsberg", "Simen Markussen", "Oddbjörn Raaum"],
+        "abstract": ["Vi studerer virkningene av koronakrisen på arbeidsledighet blant personer som var i jobb da krisen startet. Vi undersøker hvordan ledighetseksponering har variert på tvers av tre ulike dimensjoner: posisjon i lønnsfordelingen før krisen, landbakgrunn og utdanning. Vårt mål for ledighetseksponering omfatter tapt arbeidstid grunnet permittering, opps..."]
+      },
+      {
+        "title": "Effects of Dialogue Meetings on Sickness Absence - Evidence from a Large Field Experiment",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Matteo Alpino", "Karen Evelyn Hauge", "Andreas Kotsadam", "Simen Markussen"],
+        "abstract": ["Sickness absence entails large individual and societal costs. Dialogue Meetings (DMs) where the absentee, the employer, and the physician discuss arrangements for full or partial work resumption have been in place in Norway since 2007. In collaboration with the Labour and Welfare Administration, we conducted a large-scale, pre-registered, randomize..."]
+      },
+      {
+        "title": "Born or bred? The roles of nature and nurture for intergenerational persistence in labour market outcomes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Marte E. S. Ulvestad", "Simen Markussen"],
+        "abstract": ["Using a Norwegian sample of adoptees from South Korea, matched to a sample of Norwegian-born children, we study the intergenerational transmission of labour market outcomes, including earnings, disability insurance participation and sickness absence, as well as education. We find the nurture effect to be substantial for education, labour earnings,..."]
+      },
+      {
+        "title": "Children and labor market outcomes: separating the effects of the first three children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Simen Markussen", "Marte Strøm"],
+        "abstract": ["We use miscarriage as a biological shock to fertility to estimate the effect of the first three children on women’s and men’s labor market outcomes. For women, we find that the effect is almost the same for the first, second and third child in the short run. The reduction in female earnings in the three first years after birth is on average 28 perc..."]
+      },
+      {
+        "title": "Saving Effects of a Real-Life Imperfectly Implemented Net Wealth Tax: Evidence from Norwegian Micro Data",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Annette Alstadsaeter", "Marie Bjørneby", "Wojciech Kopczuk", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Pension Reform and the Efficiency-Equity Trade-Off Impacts of Removing an Early Retirement Subsidy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Asbjørn Goul Andersen", "Simen Markussen", "Knut Røed"],
+        "abstract": ["We provide empirical evidence that the removal of work disincentives embedded in retirement earnings tests can increase old-age labor supply considerably, but it does so at the cost of more income inequality. To identify causal effects, we exploit a reform of the Norwegian early retirement program, which entailed that adjacent birth cohorts faced c..."]
+      },
+      {
+        "title": "Bidrar medikalisering av ungdom til utstøtning fra skole og arbeidsliv?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["Det er økende tilstrømning til uføretrygd, særlig blant unge. Vi drøfter mulige årsaker til dette, og reiser spørsmål om vi har for lett for å ty til en sykdomsforståelse av de personlige utfordringene mange ungdommer møter. Vi studerer hvordan geografisk variasjon i sannsynligheten for å bli diagnostisert med et psykisk helseproblem samvarierer me..."]
+      },
+      {
+        "title": "Økende inntektssegregering i norske byregioner",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Øystein Hernæs", "Simen Markussen", "Knut Røed"],
+        "abstract": ["Vi studerer endringer i bosettingsmønsteret i norske nabolag de siste 25 årene (1993–2017), med basis i en indikator som beskriver den gjennomsnittlige forskjellen i inntektsrang mellom voksne innen nabolag (grunnkretser). Inntektsrang er beregnet nasjonalt eller innenfor pendlerregioner, og separat etter alder og kjønn for alle mellom 30 og 60 år...."]
+      },
+      {
+        "title": "Does the Wealth Tax Kill Jobs?",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Marie Bjørneby", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Pension Reform and the Efficiency-Equity Trade-Off: Impacts of Removing an Early Retirement Subsidy",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Asbjørn Andersen", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Economic Mobility Under Pressure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["Based on complete population data, with the exact same definitions of family class background and economic outcomes for a large number of birth cohorts, we examine post-war trends in intergenera-tional economic mobility in Norway. Standard summary statistics indicate stable or mildly declining rank–rank mobility for sons and sharply declining mobil..."]
+      },
+      {
+        "title": "Local Labor Demand and Participation in Social Insurance Programs",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Asbjørn Goul Andersen", "Simen Markussen", "Knut Røed"],
+        "abstract": ["Based on administrative data from Norway, we explore the “gray area” between the roles of unemployment- and temporary disability-insurances by examining how participation in these two program types is affected by local labor demand conditions. Local labor demand is identified by means of a shift-share instrumental variables strategy, where initial..."]
+      },
+      {
+        "title": "Innvandring og sosial mobilitet. Svar til kritikerne",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Maria Forthun Hoen", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Health, Longevity and Retirement Reform",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Tobias Laun", "Simen Markussen", "Trond Christian Vigtel", "Johanna Wallenius"],
+        "abstract": ["In this paper, we study alternative retirement reforms designed to achieve fiscal sustainability in the face of demographic change. We are particularly interested in the heterogeneous effects across demographic groups, as improvements in health and longevity have not been uniform across the population. To this end, we develop a dynamic, structural..."]
+      },
+      {
+        "title": "Local Labor Demand and Participation in Social Insurance Programs",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Asbjørn Andersen", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Welfare Activation and Youth Crime",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Bernt Bratsberg", "Øystein Hernæs", "Simen Markussen", "Knut Røed"],
+        "abstract": ["We evaluate the impact on youth crime of a welfare reform that tightened activation requirements for social assistance clients. The evaluation strategy exploits administrative individual data in combination with geographically differentiated implementation of the reform. We find that the reform reduced crime among teenage boys from economically dis..."]
+      },
+      {
+        "title": "Immigration and Social Mobility",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Maria Forthun Hoen", "Simen Markussen", "Knut Røed"],
+        "abstract": ["Using Norwegian administrative data, we examine how exposure to immigration over the past decades has affected natives' relative prime age labor market outcomes by social class background. Social class is established on the basis of parents' earnings rank. By exploiting variation in immigration patterns over time across commuting zones, we find tha..."]
+      },
+      {
+        "title": "The Golden Middle Class Neighborhood: Trends in Residential Segregation and Consequences for Offspring Outcomes",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Welfare Activation and Youth Crime",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["Bernt Bratsberg", "Oeystein Hernaes", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Trends in Assortative Mating and Offspring Outcomes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Bernt Bratsberg", "Simen Markussen", "Oddbjørn Raaum", "Ole Rogeberg"],
+        "abstract": []
+      },
+      {
+        "title": "Television, Cognitive Ability, and High School Completion",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Øystein Hernæs", "Simen Markussen", "Knut Røed"],
+        "abstract": ["We exploit supply-driven heterogeneity in the expansion of cable television across Norwegian municipalities to identify developmental effects of commercial television exposure during childhood. We find that higher exposure to commercial television reduces cognitive ability and high school graduation rates for boys. The effects appear to be driven b..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Oct 2017",
+        "authors": ["Sara Cools", "Simen Markussen", "Marte Strøm"],
+        "abstract": []
+      },
+      {
+        "title": "Children and Careers: How Family Size Affects Parents' Labor Market Outcomes in the Long Run",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Sara Cools", "Simen Markussen", "Marte Strøm"],
+        "abstract": ["We estimate the effect of family size on various measures of labor market outcomes over the whole career until retirement, using instrumental variables estimation in data from Norwegian administrative registers. Parents’ number of children is instrumented with the sex mix of their first two children. We find that having additional children causes s..."]
+      },
+      {
+        "title": "Can Compulsory Dialogues Nudge Sick-Listed Workers Back to Work?",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Simen Markussen", "Knut Røed", "Ragnhild C. Schreiner"],
+        "abstract": ["We evaluate the impacts of a compulsory dialogue meeting for long-term sick-listed workers in Norway. The meeting is organised by the local social security administration after around six months of absence, and its purpose is to bring together the absentee, the employer, and the family physician to discuss whether arrangements can be made to facili..."]
+      },
+      {
+        "title": "The Market for Paid Sick Leave",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["In many countries, general practitioners (GPs) are assigned the task of controlling the validity of their own patients’ insurance claims. At the same time, they operate in a market where patients are customers free to choose their GP. Are these roles compatible? Can we trust that the gatekeeping decisions are untainted by private economic interests..."]
+      },
+      {
+        "title": "Can Welfare Conditionality Combat High School Dropout?",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Øystein Hernæs", "Simen Markussen", "Knut Røed"],
+        "abstract": ["Based on administrative data, we analyze empirically the effects of stricter conditionality for social assistance receipt on welfare dependency and high school completion rates among Norwegian youths. Our evaluation strategy exploits a geographically differentiated implementation of conditionality. The causal effects are identified on the basis of..."]
+      },
+      {
+        "title": "The gender gap in entrepreneurship – The role of peer effects",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["In virtually all industrialized countries, women are underrepresented in entrepreneurship, and the gender gap exhibits a remarkable persistence. We examine one particular source of persistence, namely the prevalence of gendered peer influences. We study how early career entrepreneurship is affected by existing entrepreneurship among neighbors, fami..."]
+      },
+      {
+        "title": "Egalitarianism Under Pressure: Toward Lower Economic Mobility in the Knowledge Economy?",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Pension reform and labor supply",
+        "tags": ["Article"],
+        "date": "Aug 2016",
+        "authors": ["Erik Hernæs", "Simen Markussen", "John Piggott", "Knut Røed"],
+        "abstract": ["We exploit a comprehensive restructuring of the early retirement system in Norway in 2011 to examine labor supply responses to increases in work incentives and actuarially neutral reductions in the age of first access to pension benefits. We find that increasing the returns to work is a powerful policy: The removal of an earnings test, implying a d..."]
+      },
+      {
+        "title": "Leaving Poverty Behind? The Effects of Generous Income Support Paired with Activation",
+        "tags": ["Article"],
+        "date": "Feb 2016",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["We evaluate a comprehensive activation program in Norway targeted at hard-to-employ social assistance claimants with reduced work capacity. The program offers a combination of tailored rehabilitation, training, and job practice, and a generous, stable, and non-means-tested benefit. Its primary aims are to mitigate poverty and subsequently promote s..."]
+      },
+      {
+        "title": "Can Welfare Conditionality Combat High School Dropout?",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Oeystein Hernaes", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Television, Cognitive Ability, and High School Completion",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Oeystein Hernaes", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "The Market for Paid Sick Leave",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Gendered Entrepreneurship Networks",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Menns og kvinners sykefravær: Hvilken rolle spiller antall barn?",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Sara Cools", "Simen Markussen", "Marte Strøm"],
+        "abstract": []
+      },
+      {
+        "title": "Kan kjønnsforskjellen i sykefravær forklares av holdninger, normer og preferanser?",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Karen Evelyn Hauge", "Simen Markussen", "Oddbjørn Raaum", "Marte Ulvestad"],
+        "abstract": []
+      },
+      {
+        "title": "Can Compulsory Dialogues Nudge Sick-Listed Workers Back to Work?",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Simen Markussen", "Knut Røed", "Ragnhild Camilla Schreiner"],
+        "abstract": []
+      },
+      {
+        "title": "Pension Reform and Labor Supply: Flexibility vs. Prescription",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Erik Hernæs", "Simen Markussen", "John Piggott", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "The Impacts of Vocational Rehabilitation",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["Based on local variations in vocational rehabilitation (VR) priorities, we examine the impacts of alternative VR programs on short- and long-term labor market outcomes for temporary disability insurance (TDI) claimants in Norway. The analysis builds on rich and detailed administrative registers covering 345,000 claimants. We find that a strategy fo..."]
+      },
+      {
+        "title": "NAV-reformen: Støvet legger seg etter en turbulent omstilling",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Elisabeth Fevang", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "Daylight and Absenteeism - Evidence from Norway",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["Based on administrative register data from Norway, we examine the impact of hours of daylight on sick-leave absences among workers. Our preferred estimates imply that an additional hour of daylight increases the daily entry rate to absenteeism by 0.5 percent and the corresponding recovery rate by 0.8 percent, ceteris paribus. The overall relationsh..."]
+      },
+      {
+        "title": "Leaving Poverty Behind? The Effects of Generous Income Support Paired with Activation",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "The Impacts of Vocational Rehabilitation",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "The changing of the guards: Can family doctors contain worker absenteeism?",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Simen Markussen", "Knut Røed", "Ole Rogeberg"],
+        "abstract": ["Using administrative data from Norway, we examine the extent to which family doctors influence their clients' propensity to claim sick-pay. The analysis exploits exogenous switches of family doctors occurring when physicians quit, retire, or for other reasons sell their patient lists. We find that family doctors have significant influence on their..."]
+      },
+      {
+        "title": "Reconsidering Retirement: How Losses and Layoffs Affect Older Workers. Courtney C. Coile and Phillip B. Levine. Brookings Institution Press, 2010, ISBN 978-0-8157-0499-7, 156 pages.",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Simen Markussen"],
+        "abstract": ["Reconsidering Retirement: How Losses and Layoffs Affect Older Workers. Courtney C.Coile and Phillip B.Levine. Brookings Institution Press, 2010, ISBN 978-0-8157-0499-7, 156 pages. - Volume 12 Issue 4 - Simen Markussen"]
+      },
+      {
+        "title": "Does Retirement Age Impact Mortality?",
+        "tags": ["Article"],
+        "date": "Mar 2013",
+        "authors": ["Erik Hernæs", "Simen Markussen", "John Piggott", "Ola Lotherington Vestad"],
+        "abstract": ["The relationship between retirement and mortality is studied with a unique administrative data set covering the full population of Norway. A series of retirement policy changes in Norway reduced the retirement age for a group of workers but not for others. Difference-in-differences estimation based on monthly birth cohorts and treatment group statu..."]
+      },
+      {
+        "title": "The Changing of the Guards: Can Physicians Contain Social Insurance Costs?",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Simen Markussen", "Knut Røed", "Ole Rogeberg"],
+        "abstract": ["Based on administrative data from Norway, we examine the extent to which family doctors influence their clients' propensity to claim sick pay and disability benefits. The analysis is based on exogenous shifts of family doctors occurring when physicians quit, retire, or for other reasons sell their patient lists to other doctors. Our key finding is..."]
+      },
+      {
+        "title": "The Case for Presenteeism — Evidence from Norway's Sickness Insurance Program",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Simen Markussen", "Arnstein Mykletun", "Knut Røed"],
+        "abstract": ["Can a work-first strategy control moral hazard problems in temporary disability insurance, and accelerate recovery? Based on empirical analysis of Norwegian data, we show that it can. Activation requirements not only bring down benefit claims, they also reduce the likelihood that long-term sickness absence leads to inactivity. Our findings show tha..."]
+      },
+      {
+        "title": "The Individual Cost of Sick Leave",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Simen Markussen"],
+        "abstract": ["This paper aims to estimate the causal effect of sick leave on subsequent earnings and employment, using an administrative\ndataset for Norway. To obtain experiment-like variation in sick leave among otherwise similar workers, the leniency of these\nworkers’ physicians—certifying sickness absences—is used as an instrumental variable for sick leave. A..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Oct 2012",
+        "authors": ["Simen Markussen"],
+        "abstract": []
+      },
+      {
+        "title": "[Sickness absence associated with major life events]",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2012",
+        "authors": ["Simen Markussen", "Ole Rogeberg"],
+        "abstract": ["Sickness absence in the Norwegian workplace doubled in the period 1993-2003. However, the extent to which the driving factors were medical or non-medical remains unclear, as does the extent to which the cause may be found in the composition of the workforce.\nA differences-in-differences regression model was used to estimate the added sickness absen..."]
+      },
+      {
+        "title": "Social Insurance Networks",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": ["Based on administrative panel data from Norway, we examine how social insurance dependency spreads within neighborhoods, families, ethnic minorities, and among former schoolmates. We use a fixed effects methodology that accounts for endogenous group formation, contextual interactions, and time-constant as well as time-varying confounders. We report..."]
+      },
+      {
+        "title": "Social Insurance Networks",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "The Sick Pay Trap",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2011",
+        "authors": ["Elisabeth Fevang", "Simen Markussen", "Knut Røed"],
+        "abstract": ["In most countries, employers are financially responsible for sick pay during an initial period of a worker's absence spell, after which the public insurance system covers the bill. Based on a quasi-natural experiment in Norway, where pay liability was removed for pregnancy-related absences, we show that firms' absence costs significantly affect emp..."]
+      },
+      {
+        "title": "The Sick Pay Trap",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Elisabeth Fevang", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "The Case for Presenteeism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Simen Markussen", "Arnstein Mykletun", "Knut Røed"],
+        "abstract": ["Can activation requirements control moral hazard problems in public sickness absence insurance and accelerate recovery? Based on empirical analysis of Norwegian data, we show that it can. Activation requirements not only bring down benefit claims, they also reduce the likelihood that long-term sickness absence leads to inactivity. Our findings show..."]
+      },
+      {
+        "title": "The anatomy of absenteeism",
+        "tags": ["Article"],
+        "date": "Dec 2010",
+        "authors": ["Simen Markussen", "Knut Røed", "Ole Rogeberg", "Simen Gaure"],
+        "abstract": ["Based on comprehensive administrative register data from Norway, we examine the determinants of sickness absence behavior; in terms of employee characteristics, workplace characteristics, panel doctor characteristics, and economic conditions. The analysis is based on a novel concept of a worker's steady state sickness absence propensity, computed f..."]
+      },
+      {
+        "title": "The Rise in Absenteeism: Disentangling the Impacts of Cohort, Age and Time",
+        "tags": ["Article"],
+        "date": "Jan 2010",
+        "authors": ["Erik Bi�rn", "Simen Gaure", "Simen Markussen", "Knut Røed"],
+        "abstract": []
+      },
+      {
+        "title": "The Rise in Absenteeism: Disentangling the Impacts of Cohort, Age and Time",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Erik Bi�rn", "Simen Gaure", "Simen Markussen", "Knut Røed"],
+        "abstract": ["We examine the remarkable rise in absenteeism among Norwegian employees since the early 1990's, with particular emphasis on disentangling the roles of cohort, age, and time. Based on a fixed effects model, we show that individual age-adjusted absence propensities have risen even more than aggregate absence rates from 1993 to 2005, debunking the pop..."]
+      },
+      {
+        "title": "The Anatomy of Absenteeism",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Simen Markussen", "Knut Røed", "Ole Rogeberg", "Simen Gaure"],
+        "abstract": []
+      },
+      {
+        "title": "The Effects of Sick-Leaves on Earnings",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Simen Markussen"],
+        "abstract": ["This paper assesses the causal effect of sick-leaves on subsequent earnings using an administrative dataset for Norway linking individual earnings, sick-leave records and primary care physicians. The leniency of a worker's physician - certifying sickness absence - is used as instrument for sick-leaves. Sick-leaves have a substantial impact on futur..."]
+      },
+      {
+        "title": "Closing the Gates? Evidence from a Natural Experiment on Physicians' Sickness Certification",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Simen Markussen"],
+        "abstract": ["This paper exploits a Norwegian physician directed reform aimed to reduce sick-leave. Physicians were required to consider part-time sick-leave as the default treatment and – in the case of long lasting full-time sick-leave – to file a report documenting why the worker was unable to perform any work related activities. The reform had a large impact..."]
+      },
+      {
+        "title": "How the Left Prospers from Prosperity",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Simen Markussen"],
+        "abstract": ["This paper investigates the relationship between fluctuations in economic growth, unemployment, and voting along a left-right axis. I estimate a model that explains how political fluctuations are caused by economic fluctuations in the OECD countries. I find that higher economic growth causes a shift to the left of policy sentiments. I hold the prov..."]
+      },
+      {
+        "title": "Økonomisk sykefraværsforskning: Hva vet vi, og hvor bør vi gå?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Simen Markussen"],
+        "abstract": []
+      },
+      {
+        "title": "Trade-offs between health and absenteeism in welfare states: striking the balance",
+        "tags": ["Article"],
+        "date": "Jan 2007",
+        "authors": ["Simen Markussen"],
+        "abstract": ["This paper provides a survey on studies that analyze the macroeconomic effects of intellectual property rights (IPR). The first part of this paper introduces different patent policy instruments and reviews their effects on R&D and economic growth. This part also discusses the distortionary effects and distributional consequences of IPR protection a..."]
+      },
+      {
+        "title": "Why more generosity may reduce absenteeism",
+        "tags": ["Article"],
+        "authors": ["Simen Markussen"],
+        "abstract": []
+      },
+      {
+        "title": "How physicians can reduce sick leave - evidence from a natural experiment",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Simen Markussen"],
+        "abstract": ["A Norwegian reform was launched on July 1st 2004, changing regulations for sick-leave certification by primary care physicians, and coincided with a drop in the sick-leave rate of more than 20 percent. Using individual sick-leave records matched with data covering primary care physicians, this paper evaluates this reform and concludes that it reduc..."]
+      }
+    ],
+    "degree": ["Phd", "Economics"],
+    "bio": [],
+    "publications": [79],
+    "reads": [6173],
+    "citations": [1132]
   }
 }

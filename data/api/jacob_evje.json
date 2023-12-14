@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0007-9952-7521",
-    "name": "Jacob Evje",
+    "orcid": ["0009-0007-9952-7521"],
+    "name": ["Jacob Evje"],
     "distinctions": [],
     "education": [
       {
@@ -49,11 +49,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jacob Evje",
-    "id": "1623190",
+    "name": ["Jacob Evje"],
+    "id": ["1623190"],
     "keywords": [],
     "position": ["Researcher"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Pauline-Jacob-4",
+    "name": "Pauline Margarete Jacob",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Leipzig, Institute for the Study of Culture",
+    "keywords": ["Social Communication", "Journalism"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

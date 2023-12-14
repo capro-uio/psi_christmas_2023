@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Dani Beck",
-    "id": "2M81se4AAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Dani Beck"],
+    "id": ["2M81se4AAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -427,8 +427,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0974-9304",
-    "name": "Dani Beck",
+    "orcid": ["0000-0002-0974-9304"],
+    "name": ["Dani Beck"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -553,8 +553,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Dani Beck",
-    "id": "752076",
+    "name": ["Dani Beck"],
+    "id": ["752076"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -773,5 +773,410 @@
         "url": "https://api.cristin.no/v2/results/1646675"
       }
     ]
+  },
+  "rg": {
+    "id": "Dani-Beck",
+    "name": "Dani Beck",
+    "img": "https://i1.rgstatic.net/ii/profile.image/816765181386760-1571743402934_Q128/Dani-Beck.jpg",
+    "affiliation": "Diakonhjemmet Hospital Norway, Department of Psychiatry",
+    "keywords": ["R Programming", "Statistical Analysis", "Neuroimaging", "Neuroscience", "Cognitive Neuroscience", "Data Analysis", "Mental Illness", "Clinical Neuropsychology", "Clinical Neuroscience", "Science Communication"],
+    "works": [
+      {
+        "title": "Dissecting unique and common variance across body and brain health indicators using age prediction",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Tiril P Gurholt", "Lars T Westlye"],
+        "abstract": ["Ageing is a heterogeneous multisystem process involving different rates of decline in physiological integrity across biological systems. The current study dissects the unique and common variance across body and brain health indicators and parses inter-individual heterogeneity in the multisystem ageing process. Using machine-learning regression mode..."]
+      },
+      {
+        "title": "Distinct longitudinal brain white matter microstructure changes and associated polygenic risk of common psychiatric disorders and Alzheimer's disease in the UK Biobank",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Max Korbmacher", "Dennis van der Meer", "Dani Beck", "Ivan I. Maximov"],
+        "abstract": ["During the course of adulthood and ageing, white matter (WM) structure and organisation are characterised by slow degradation processes such as demyelination and shrinkage. An acceleration of such ageing process has been linked to the development of a range of diseases. Thus, an accurate description of healthy brain maturation, in particular, in te..."]
+      },
+      {
+        "title": "Brain asymmetries from midlife to old adulthood and hemispheric brain age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Max Korbmacher", "Dennis van der Meer", "Dani Beck", "Ivan I. Maximov"],
+        "abstract": ["The human brain demonstrates structural and functional asymmetries which have implications for ageing and the development of mental and neurological diseases. We used a set of magnetic resonance imaging (MRI) metrics derived from structural and diffusion MRI data in N = 48,040 UK Biobank participants to evaluate age-related differences in brain asy..."]
+      },
+      {
+        "title": "Assessing the longitudinal associations between decision-making processes and attention problems in early adolescence",
+        "tags": ["Preprint"],
+        "date": "Aug 2023",
+        "authors": ["Thea Wiker", "Mads Lund Pedersen", "Lia Ferschmann", "Christian K Tamnes"],
+        "abstract": ["Cognitive functions and psychopathology develop in parallel in childhood and adolescence, but the temporal dynamics of their associations are poorly understood. The present study sought to elucidate the intertwined development of decision-making processes and attention problems using longitudinal data from late childhood (9-10 years) to mid adolesc..."]
+      },
+      {
+        "title": "Spherical means-based free-water volume fraction from multi-shell diffusion MRI increases non-linearly with age in the white matter of the healthy human brain",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Tomasz Pieciak", "Guillem París", "Dani Beck", "Santiago Aja-Fernández"],
+        "abstract": ["The term free-water volume fraction (FWVF) refers to the signal fraction that could be found as the cerebrospinal fluid of the brain, which has been demonstrated as a sensitive measure that correlates with cognitive performance and various neuropathological processes. It can be quantified by properly fitting the isotropic component of the magnetic..."]
+      },
+      {
+        "title": "Complete Auditory cortex thickness is associated with N100 amplitude in schizophrenia spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Nora Slapø", "Stener Nerland", "Kjetil Nordbø Jørgensen", "Erik G Jönsson"],
+        "abstract": ["Background and Hypothesis\nThe auditory cortex (AC) may play a central role in the pathophysiology of schizophrenia and auditory hallucinations (AH). Previous schizophrenia studies report thinner AC and impaired AC function, as indicated by decreased N100 amplitude of the auditory evoked potential (AEP). However, whether these structural and functio..."]
+      },
+      {
+        "title": "Bio-psycho-social factors' associations with brain age: a large-scale UK Biobank diffusion study of 35,749 participants",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Max Korbmacher", "Tiril P Gurholt", "Ann-Marie G de Lange", "Ivan I Maximov"],
+        "abstract": ["Brain age refers to age predicted by brain features. Brain age has previously been associated with various health and disease outcomes and suggested as a potential biomarker of general health. Few previous studies have systematically assessed brain age variability derived from single and multi-shell diffusion magnetic resonance imaging data. Here,..."]
+      },
+      {
+        "title": "Puberty differentially predicts brain maturation in male and female youth: A longitudinal ABCD Study",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Dani Beck", "Lia Ferschmann", "Niamh MacSweeney", "Christian K Tamnes"],
+        "abstract": ["Research has demonstrated associations between pubertal development and brain maturation. However, existing studies have been limited by small samples, cross-sectional designs, and inconclusive findings regarding directionality of effects and sex differences.\nWe examined the longitudinal temporal coupling of puberty status assessed using the Pubert..."]
+      },
+      {
+        "title": "Brain-wide associations between white matter and age highlight the role of fornix microstructure in brain ageing",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Max Korbmacher", "Ann-Marie G de Lange", "Dennis van der Meer", "Ivan I. Maximov"],
+        "abstract": ["Unveiling the details of white matter (WM) maturation throughout ageing is a fundamental question for understanding the ageing brain. In an extensive comparison of brain age predictions and age-associations of WM features from different diffusion approaches, we analyzed UK Biobank diffusion magnetic resonance imaging (dMRI) data across midlife and..."]
+      },
+      {
+        "title": "Roadmap towards understanding sex and gender in neuroscience of mental health",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Lara Wierenga", "Amber Ruigrok", "Eira Aksnes", "Marieke Bos"],
+        "abstract": ["There are prominent sex differences in the prevalence of numerous mental health and neurodiverse conditions. Both sex and gender related factors affect the expression and diagnosis of mental health conditions. Even though, sex and gender research has been integrated in research policies, the underlying mechanisms and interactions between them are s..."]
+      },
+      {
+        "title": "Widespread alterations of diffusion tensor imaging metrics in patients with schizophrenia without current auditory hallucinations",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Stener Nerland", "Nora Slapø", "Claudia Barth", "Ingrid Agartz"],
+        "abstract": ["Background\nStudies have linked auditory hallucinations (AH) in schizophrenia-spectrum disorders (SCZ) to altered cerebral white matter microstructure within the language and auditory processing circuitry (LAPC). However, the neuroanatomical distribution and specificity to the LAPC remains unclear. Here, we investigated the relationship between AH a..."]
+      },
+      {
+        "title": "Associations between everyday activities and arterial spin labeling-derived cerebral blood flow: A longitudinal study in community-dwelling elderly volunteers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Anne-Marthe Sanders", "Genevieve Richard", "Knut Kolskår", "Lars T. Westlye"],
+        "abstract": ["Cerebral blood flow (CBF) is critical for brain metabolism and function. Age-related changes in CBF are associated with increased risk of neurocognitive disorders and vascular events such as stroke. Identifying correlates and positive modifiers of age-related changes in CBF before the emergence of incipient clinical decline may inform public health..."]
+      },
+      {
+        "title": "Relationship between function and structure in the visual cortex in healthy individuals and in patients with severe mental disorders",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Nora Slapø", "Kjetil Nordbø Jørgensen", "Torbjørn Elvsåshagen", "Erik G Jönsson"],
+        "abstract": ["Patients with schizophrenia spectrum disorders (SCZspect) and bipolar disorders (BD) show impaired function in the primary visual cortex (V1), indicated by altered visual evoked potential (VEP). While the neural substrate for altered VEP in these patients remains elusive, altered V1 structure may play a role. One previous study found a positive rel..."]
+      },
+      {
+        "title": "Reaction Time Variability in Children Is Specifically Associated With Attention Problems and Regional White Matter Microstructure",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Thea Wiker", "Linn B. Norbom", "Dani Beck", "Christian K Tamnes"],
+        "abstract": ["Background: \nIncreased intraindividual variability (IIV) in reaction times (RT) has been suggested as a key cognitive and behavioral marker of attention problems, but findings for other dimensions of psychopathology are less consistent. Moreover, while studies have linked IIV to brain white matter microstructure, large studies testing the robustnes..."]
+      },
+      {
+        "title": "The value of arterial spin labelling perfusion MRI in brain age prediction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Mathijs B. J. Dijsselhof", "Michelle Barboure", "Michael Stritt", "Jan Petr"],
+        "abstract": ["Current structural MRI-based brain age estimates and their difference from chronological age-the brain age gap (BAG)-are limited to late-stage pathological brain-tissue changes. The addition of physiological MRI features may detect early-stage pathological brain alterations and improve brain age prediction. This study investigated the optimal combi..."]
+      },
+      {
+        "title": "Linking brain maturation and puberty during early adolescence using longitudinal brain age prediction in the ABCD cohort",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Madelene C Holm", "Esten H Leonardsen", "Dani Beck", "Lars T Westlye"],
+        "abstract": ["The temporal characteristics of adolescent neurodevelopment are shaped by a complex interplay of genetic, biological, and environmental factors. Using a large longitudinal dataset of children aged 9-13 from the Adolescent Brain Cognitive Development (ABCD) study we tested the associations between pubertal status and brain maturation. Brain maturati..."]
+      },
+      {
+        "title": "Parental education and income are linked to offspring cortical brain structure and psychopathology at 9-11 years",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Linn B. Norbom", "Jaroslav Rokicki", "Espen Moen Eilertsen", "Christian K Tamnes"],
+        "abstract": ["Background\nA child’s socioeconomic environment can shape central aspects of their life, including vulnerability to mental disorders. Negative environmental influences in youth may interfere with the extensive and dynamic brain development occurring at this time. Indeed, there are numerous yet diverging reports of associations between parental socio..."]
+      },
+      {
+        "title": "Puberty differentially predicts brain maturation in males and females during early adolescence: A longitudinal ABCD Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Dani Beck", "Lia Ferschmann", "Niamh MacSweeney", "Christian K Tamnes"],
+        "abstract": ["Background: Research has demonstrated associations between pubertal development and brain maturation. However, existing studies have been limited by small samples, cross-sectional designs, and inconclusive findings regarding coupling directionality and sex differences.\nMethods: We examined the longitudinal temporal coupling of puberty status assess..."]
+      },
+      {
+        "title": "Bio-psycho-social factors' associations with brain age: a large-scale UK Biobank diffusion study of 35,749 participants",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Max Korbmacher", "Tiril P. Gurholt", "Ann-Marie G de Lange", "Ivan I. Maximov"],
+        "abstract": ["Brain age refers to age predicted by brain features. Brain age has previously been associated with various health and disease outcomes and suggested as a potential biomarker of general health. Few previous studies have systematically assessed brain age variability derived from single and multi-shell diffusion magnetic resonance imaging data. Here,..."]
+      },
+      {
+        "title": "Reaction time variability in children is specifically associated with attention problems and regional white matter microstructure",
+        "tags": ["Preprint"],
+        "date": "Nov 2022",
+        "authors": ["Thea Wiker", "Linn B. Norbom", "Dani Beck", "Christian K Tamnes"],
+        "abstract": ["Background: Increased intraindividual variability (IIV) in reaction times (RT) has been suggested as a key cognitive and behavioral marker of attention problems, but whether this also applies to other dimensions of psychopathology is unknown. Moreover, while studies have linked IIV to brain white matter microstructure, large studies testing the rob..."]
+      },
+      {
+        "title": "The link between liver fat and cardiometabolic diseases is highlighted by genome-wide association study of MRI-derived measures of body composition",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Dennis van der Meer", "Tiril P. Gurholt", "Ida E Sønderby", "Ole A Andreasssen"],
+        "abstract": ["Obesity and associated morbidities, metabolic associated fatty liver disease (MAFLD) included, constitute some of the largest public health threats worldwide. Body composition and related risk factors are known to be heritable and identification of their genetic determinants may aid in the development of better prevention and treatment strategies...."]
+      },
+      {
+        "title": "Free-water volume fraction increases non-linearly with age in the white matter of the healthy human brain",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Tomasz Pieciak", "Guillem París", "Dani Beck", "Santiago Aja-Fernández"],
+        "abstract": ["The term free-water volume fraction (FWVF) refers to the cerebrospinal and interstitial fluids in the extracellular space of the white matter (WM) of the brain, which has been demonstrated as a sensitive biomarker that correlates with the cognitive performance and the neuropathological processes modifying the interstitial extracellular spaces. It c..."]
+      },
+      {
+        "title": "Associations between abdominal adipose tissue, reproductive span, and brain characteristics in post-menopausal women",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Louise S. Schindler", "Sivaniya Subramaniapillai", "Claudia Barth", "Ann-Marie G de Lange"],
+        "abstract": ["The menopause transition involves changes in oestrogens and adipose tissue distribution, which may influence female brain health post-menopause. Although increased central fat accumulation is linked to risk of cardiometabolic diseases, adipose tissue also serves as the primary biosynthesis site of oestrogens post-menopause. It is unclear whether di..."]
+      },
+      {
+        "title": "Brain-wide associations between white matter and age highlight the role of fornix microstructure in brain age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Max Korbmacher", "Ann-Marie G de Lange", "Dennis van der Meer", "Ivan I. Maximov"],
+        "abstract": ["Identifying white matter (WM) microstructure parameters that reflect the underlying biology of the brain will advance our understanding of ageing and brain health. In this extensive comparison of brain age predictions and age-associations of WM features from different diffusion approaches, we analysed UK Biobank diffusion Magnetic Resonance Imaging..."]
+      },
+      {
+        "title": "Associations between everyday activities and arterial spin labelling-derived cerebral blood flow: A longitudinal study in community-dwelling elderly volunteers",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Anne-Marthe Sanders", "Genevieve Richard", "Knut Kolskar", "Lars T. Westlye"],
+        "abstract": ["Background: Cerebral blood flow (CBF) is critical for brain metabolism and overall function. Age-related changes in CBF have been associated with cognitive deficits and increased risk of neurocognitive disorders and vascular events such as stroke. Exercise is considered among the protective factors for age-related brain and cognitive impairment, bu..."]
+      },
+      {
+        "title": "Associations between abdominal adipose tissue, reproductive span, and brain characteristics in post-menopausal women",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Louise S. Schindler", "Sivaniya Subramaniapillai", "Claudia Barth", "Ann-Marie G de Lange"],
+        "abstract": ["The menopause transition involves changes in oestrogens and adipose tissue distribution, which may influence female brain health post-menopause. Although increased central fat accumulation is linked to risk of metabolic diseases, adipose tissue also serves as the primary biosynthesis site of oestrogens post-menopause. It is unclear whether differen..."]
+      },
+      {
+        "title": "The oxytocin signalling gene pathway contributes to the association between loneliness and cardiometabolic health ⁠– Dirk Hellhammer Award Paper 2022",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Adriano Winterton", "Francesco Bettella", "Dani Beck", "Daniel Quintana"],
+        "abstract": ["Increasing evidence has shown adverse effects of loneliness on cardiometabolic health. The neuromodulator and hormone oxytocin has traditionally been linked with social cognition and behaviour. However, recent implications of the oxytocin system in energy metabolism and the overrepresentation of metabolic issues in psychiatric illness suggests that..."]
+      },
+      {
+        "title": "A comparison of intracranial volume estimation methods and their cross‐sectional and longitudinal associations with age",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Stener Nerland", "Therese S. Stokkan", "Kjetil N. Jørgensen", "Claudia Barth"],
+        "abstract": ["Intracranial volume (ICV) is frequently used in volumetric magnetic resonance imaging (MRI) studies, both as a covariate and as a variable of interest. Findings of associations between ICV and age have varied, potentially due to differences in ICV estimation methods. Here, we compared five commonly used ICV estimation methods and their associations..."]
+      },
+      {
+        "title": "Linking brain maturation and puberty during early adolescence using longitudinal brain age prediction in the ABCD cohort",
+        "tags": ["Preprint"],
+        "date": "May 2022",
+        "authors": ["Madelene C. Holm", "Esten H. Leonardsen", "Dani Beck", "Lars T. Westlye"],
+        "abstract": ["The temporal characteristics of brain maturation could potentially represent a mediating effect between pubertal development and life outcomes. Using a large longitudinal dataset of children aged 9-12 from the Adolescent Brain Cognitive Development (ABCD) study we tested the associations between pubertal status and brain maturation. Brain maturatio..."]
+      },
+      {
+        "title": "Free-water volume fraction increases nonlinearly across the lifespan in healthy human brain white matter areas",
+        "tags": ["Conference Paper"],
+        "date": "May 2022",
+        "authors": ["Tomasz Pieciak", "Guillem París", "Dani Beck", "Santiago Aja-Fernández"],
+        "abstract": ["The free-water (FW) volume fraction f is a sensitive diffusion MRI biomarker correlated with microstructural alterations in the human brain. This paper studies the variations in the FW volume fraction f in healthy human brain white matter (WM) across the lifespan from a set of 248 female and 140 male subjects. Our study reveals positive nonlinear c..."]
+      },
+      {
+        "title": "Sex‐ and age‐specific associations between cardiometabolic risk and white matter brain age in the UK Biobank cohort",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Sivaniya Subramaniapillai", "Sana Suri", "Claudia Barth", "Ann-Marie G de Lange"],
+        "abstract": ["Cardiometabolic risk (CMR) factors are associated with accelerated brain aging and increased risk for sex-dimorphic illnesses such as Alzheimer's disease (AD). Yet, it is unknown how CMRs interact with sex and apolipoprotein E-ϵ4 (APOE4), a known genetic risk factor for AD, to influence brain age across different life stages. Using age prediction b..."]
+      },
+      {
+        "title": "A comparison of intracranial volume estimation methods and their cross-sectional and longitudinal associations with age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Stener Nerland", "Therese S. Stokkan", "Kjetil N. Jørgensen", "Claudia Barth"],
+        "abstract": ["Intracranial volume (ICV) is frequently used in volumetric brain magnetic resonance imaging (MRI) studies, both as an adjustment factor for head size and as a variable of interest. Associations with age have been reported in both longitudinal and cross-sectional studies, but results have varied, potentially due to differences in ICV estimation meth..."]
+      },
+      {
+        "title": "Title: Adipose tissue distribution from body MRI is associated with cross-sectional and longitudinal brain age in adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["There is an intimate body-brain connection in ageing, and obesity is a key risk factor for poor cardiometabolic health and neurodegenerative conditions. Although research has demonstrated deleterious effects of obesity on brain structure and function, the majority of studies have used conventional measures such as waist-to-hip ratio, waist circumfe..."]
+      },
+      {
+        "title": "A Comparison of Brain Age Estimation And Brain Parenchymal Fraction as Imaging Markers in Multiple Sclerosis",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Einar August Høgestøl", "Tobias Kaufmann", "Ann-Marie G de Lange", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "A Comparison of Brain Age Estimation And Brain Parenchymal Fraction as Imaging Markers in Multiple Sclerosis",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Einar August Høgestøl", "Tobias Kaufmann", "Ann-Marie G de Lange", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Sex- and age-specific associations between cardiometabolic risk and white matter brain age in the UK Biobank cohort",
+        "tags": ["Preprint"],
+        "date": "Dec 2021",
+        "authors": ["Sivaniya Subramaniapillai", "Sana Suri", "Claudia Barth", "Ann-Marie G de Lange"],
+        "abstract": ["Cardiometabolic risk factors (CMRs) are associated with accelerated brain aging and increased risk for sex-dimorphic illnesses such as Alzheimer’s Disease (AD). Yet, it is unknown how CMRs interact with sex and apolipoprotein E-ε4 (APOE4), a known genetic risk factor for AD, to influence brain age across different life stages. Using age prediction..."]
+      },
+      {
+        "title": "Relationship Between the Visual Evoked Potential and Structure in the Primary Visual Cortex in Healthy Individuals and in Patients with Severe Mental Disorders",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Nora Slapø", "Kjetil Jørgensen", "Torbjørn Elvsåshagen", "Erik G Jönsson"],
+        "abstract": ["Schizophrenia (SCZ) spectrum and bipolar disorder (BD) are severe mental disorders with unknown pathophysiology. Altered visual evoked potential (VEP), an electroencephalogram signal reflecting function in the primary visual cortex (V1), abnormal visual processing and visual hallucinations reported in these patients, all point towards V1 dysfunctio..."]
+      },
+      {
+        "title": "Cardiometabolic risk factors associated with brain age and accelerate brain ageing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Mads Lund Pedersen", "Lars T. Westlye"],
+        "abstract": ["The structure and integrity of the ageing brain is interchangeably linked to physical health, and cardiometabolic risk factors (CMRs) are associated with dementia and other brain disorders. In this mixed cross-sectional and longitudinal study (interval mean = 19.7 months), including 790 healthy individuals (mean age = 46.7 years, 53% women), we inv..."]
+      },
+      {
+        "title": "The oxytocin signalling gene pathway contributes to the association between loneliness and cardiometabolic health",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["A. Winterton", "F. Bettella", "Dani Beck", "D.S. Quintana"],
+        "abstract": ["Increasing evidence has shown adverse effects of loneliness on cardiometabolic health. Oxytocin has been linked with social cognition and behaviour, however, recently also with energy metabolism and obesity suggesting that oxytocin may underlie common mechanisms bridging mental and somatic traits. To clarify whether the oxytocin system contributes..."]
+      },
+      {
+        "title": "Linking objective measures of physical activity and capability with brain structure in healthy community dwelling older adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Anne-Marthe Sanders", "Genevieve Richard", "Knut Kolskår", "Lars T. Westlye"],
+        "abstract": ["Maintaining high levels of daily activity and physical capability have been proposed as important constituents to promote healthy brain and cognitive aging. Studies investigating the associations between brain health and physical activity in late life have, however, mainly been based on self-reported data or measures designed for clinical populatio..."]
+      },
+      {
+        "title": "A history of previous childbirths is linked to women's white matter brain age in midlife and older age",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Irene Voldsbekk", "Claudia Barth", "Ivan I. Maximov", "Ann-Marie G de Lange"],
+        "abstract": ["Maternal brain adaptations occur in response to pregnancy, but little is known about how parity impacts white matter and white matter ageing trajectories later in life. Utilising global and regional brain age prediction based on multi‐shell diffusion‐weighted imaging data, we investigated the association between previous childbirths and white matte..."]
+      },
+      {
+        "title": "Evidence for Reduced Long-Term Potentiation-Like Visual Cortical Plasticity in Schizophrenia and Bipolar Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Mathias Valstad", "Daniël Roelfs", "Nora Slapø", "Torbjørn Elvsåshagen"],
+        "abstract": ["Several lines of research suggest that impairments in long-term potentiation (LTP)-like synaptic plasticity might be a key pathophysiological mechanism in schizophrenia (SZ) and bipolar disorder type I (BDI) and II (BDII). Using modulations of visually evoked potentials (VEP) of the electroencephalogram, impaired LTP-like visual cortical plasticity..."]
+      },
+      {
+        "title": "Adipose tissue distribution from body MRI is associated with cross-sectional and longitudinal brain age in adults",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Dag Alnaes", "Lars T. Westlye"],
+        "abstract": ["There is an intimate body-brain connection in ageing, and obesity is a key risk factor for poor cardiometabolic health and neurodegenerative conditions. Although research has demonstrated deleterious effects of obesity on brain structure and function, the majority of studies have used conventional measures such as waist-to-hip ratio, waist circumfe..."]
+      },
+      {
+        "title": "Cardiometabolic risk factors associated with brain age and accelerate brain ageing",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Mads Lund Pedersen", "Lars T Westlye"],
+        "abstract": ["Here, we investigated cardio-metabolic risk factors and their associations with brain ageing.\n\nUtilising a Bayesian framework, we found credible associations between brain age gap (BAG) and systolic blood pressure, smoking, pulse, and C-reactive protein, indicating older-appearing brains in people with higher cardiometabolic risk.\n\nLongitudinal evi..."]
+      },
+      {
+        "title": "Linking objective measures of physical activity and capability with brain structure in healthy community dwelling older adults",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Anne-Marthe Sanders", "Genevieve Richard", "Knut Kolskår", "Lars T. Westlye"],
+        "abstract": ["Maintaining high levels of daily activity and physical capability have been proposed as important constituents to promote healthy brain and cognitive aging. Studies investigating the associations between brain health and physical activity in late life have, however, mainly been based on self-reported data or measures designed for clinical populatio..."]
+      },
+      {
+        "title": "White matter microstructure across the adult lifespan: A mixed longitudinal and cross-sectional study using advanced diffusion models and brain-age prediction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Ivan I Maximov", "Lars T Westlye"],
+        "abstract": ["The macro-and microstructural architecture of human brain white matter undergoes substantial alterations throughout development and ageing. Most of our understanding of the spatial and temporal characteristics of these lifespan adaptations come from magnetic resonance imaging (MRI), including diffusion MRI (dMRI), which enables visualisation and qu..."]
+      },
+      {
+        "title": "Women with a history of previous childbirths show less evident white matter brain ageing",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Irene Voldsbekk", "Claudia Barth", "Ivan I. Maximov", "Ann-Marie G de Lange"],
+        "abstract": ["Maternal brain adaptations occur in response to pregnancy, but little is known about how parity impacts white matter (WM) microstructure and WM ageing trajectories later in life. Utilising global and regional brain-age prediction based on multi-shell diffusion MRI data, we investigated the association between previous childbirths and WM brain age i..."]
+      },
+      {
+        "title": "Experience-dependent modulation of the visual evoked potential: Testing effect sizes, retention over time, and associations with age in 415 healthy individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Mathias Valstad", "Torgeir Moberget", "Daniël Roelfs", "Torbjørn Elvsåshagen"],
+        "abstract": ["Experience-dependent modulation of the visual evoked potential (VEP) is a promising proxy measure of synaptic plasticity in the cerebral cortex. However, existing studies are limited by small to moderate sample sizes as well as by considerable variability in how VEP modulation is quantified. In the present study, we used a large sample (n=415) of h..."]
+      },
+      {
+        "title": "Brain Age Prediction Reveals Aberrant Brain White Matter in Schizophrenia and Bipolar Disorder: A Multisample Diffusion Tensor Imaging Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Siren Tønnesen", "Tobias Kaufmann", "Ann-Marie G de Lange", "Lars T. Westlye"],
+        "abstract": ["Background\nSchizophrenia (SZ) and bipolar disorders (BD) share substantial neurodevelopmental components affecting brain maturation and architecture. This necessitates a dynamic lifespan perspective in which brain aberrations are inferred from deviations from expected lifespan trajectories. We applied machine learning to diffusion tensor imaging (D..."]
+      },
+      {
+        "title": "Evidence for reduced long-term potentiation-like visual cortical plasticity in schizophrenia and bipolar disorder",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Mathias Valstad", "Daniel Roelfs", "Nora Slapø", "Torbjørn Elvsåshagen"],
+        "abstract": ["Background\nSeveral lines of research suggest that impairments in long-term potentiation (LTP)-like synaptic plasticity might be a key pathophysiological mechanism in schizophrenia (SZ) and bipolar disorder type I (BDI) and II (BDII). Using modulations of visually evoked potentials (VEP) of the electroencephalogram, impaired LTP-like visual cortical..."]
+      },
+      {
+        "title": "White matter microstructure across the adult lifespan: A mixed longitudinal and cross-sectional study using advanced diffusion models and brain-age prediction",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Ivan I. Maximov", "Lars T. Westlye"],
+        "abstract": ["The macro- and microstructural architecture of human brain white matter undergo substantial alterations throughout development and ageing. Most of our understanding of the spatial and temporal characteristics of these lifespan adaptations come from magnetic resonance imaging (MRI), in particular diffusion MRI (dMRI), which enables visualization and..."]
+      },
+      {
+        "title": "Experience-dependent modulation of the visual evoked potential: testing effect sizes, retention over time, and associations with age in 415 healthy individuals",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Mathias Valstad", "Torgeir Moberget", "Daniël Roelfs", "Torbjørn Elvsåshagen"],
+        "abstract": ["Experience-dependent modulation of the visual evoked potential (VEP) is a promising proxy measure of synaptic plasticity in the cerebral cortex. However, existing studies are limited by small to moderate sample sizes as well as by considerable variability in how VEP modulation is quantified. In the present study, we used a large sample (n = 415) of..."]
+      },
+      {
+        "title": "Multimodal fusion of structural and functional brain imaging in depression using linked independent component analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Luigi A. Maglanoc", "Tobias Kaufmann", "Rune Jonassen", "Lars T. Westlye"],
+        "abstract": ["Previous structural and functional neuroimaging studies have implicated distributed brain regions and networks in depression. However, there are no robust imaging biomarkers that are specific to depression, which may be due to clinical heterogeneity and neurobiological complexity. A dimensional approach and fusion of imaging modalities may yield a..."]
+      },
+      {
+        "title": "Multimodal fusion of structural and functional brain imaging in depression using linked independent component analysis",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Luigi A Maglanoc", "Tobias Kaufmann", "Rune Jonassen", "Lars T Westlye"],
+        "abstract": ["Background\nPrevious structural and functional neuroimaging studies have implicated distributed brain regions and networks in depression. However, there are no robust imaging biomarkers that are specific to depression, which may be due to clinical heterogeneity and neurobiological complexity. A dimensional approach and fusion of imaging modalities m..."]
+      },
+      {
+        "title": "Continuity and Discontinuity in Human Cortical Development and Change From Embryonic Stages to Old Age",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex is highly regionalized, and this feature emerges from morphometric gradients in the cerebral vesicles during embryonic development. We tested if this principle of regionalization could be traced from the embryonic development to the human life span. Data-driven fuzzy clustering was used to identify regions of coordinated l..."]
+      },
+      {
+        "title": "Continuity and discontinuity in human cortical development and change from embryonic stages to old age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": ["The human cerebral cortex is highly regionalized. We aimed to test whether principles of regionalization could be traced from embryonic development throughout the human lifespan. A data-driven fuzzy-clustering approach was used to identify regions of coordinated longitudinal development of cortical surface area (SA) and thickness (CT) over 1.5 year..."]
+      }
+    ],
+    "degree": ["PhD", "in", "Clinical", "Neuroscience", "and", "Brain", "Imaging"],
+    "publications": [56],
+    "reads": [4365],
+    "citations": [403]
   }
 }

@@ -1,3 +1,7 @@
+body {
+  font-size: 18px; /* Set your desired base font size */
+}
+        
 .skin-red .main-header .logo {
     background-color: #cc4c4c;
 }
@@ -15,7 +19,7 @@ a {
   color: #4f7272;
 }
 .box-title {
-  color: white;
+  color: black;
 }
 
 .skin-red .content-wrapper,
@@ -33,4 +37,15 @@ a {
   color: #85bfbf;
 }
 
+.btn-primary {
+  background-color: #20242a !important;
+  border-color: white !important  ;
+  color: white !important;
+}
+
+.box.box-solid.box-success>.box-header {
+  color: #20242a !important;
+    background: #85bfbf;
+    background-color: #85bfbf;
+}
 

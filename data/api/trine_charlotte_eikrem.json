@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1964-4055",
-    "name": "Trine Eikrem",
+    "orcid": ["0000-0002-1964-4055"],
+    "name": ["Trine Eikrem"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Trine Charlotte Eikrem",
-    "id": "884893",
+    "name": ["Trine Charlotte Eikrem"],
+    "id": ["884893"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -44,8 +44,8 @@
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "To be an expert in a non-expert world",
-        "url": "https://api.cristin.no/v2/results/2065408"
+        "url": "https://api.cristin.no/v2/results/2065408",
+        "title": "To be an expert in a non-expert world"
       },
       {
         "type": "Interview",
@@ -60,9 +60,9 @@
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "I do it for the children, and it's not a walk in the park: Parents' stories about how to maintain cooperative co-parenting during the divorce process",
         "journal": "Child & Family Social Work",
-        "url": "https://api.cristin.no/v2/results/2059892"
+        "url": "https://api.cristin.no/v2/results/2059892",
+        "title": "I do it for the children, and it's not a walk in the park: Parents' stories about how to maintain cooperative co-parenting during the divorce process"
       },
       {
         "type": "Academic article",
@@ -71,5 +71,26 @@
         "url": "https://api.cristin.no/v2/results/1995434"
       }
     ]
+  },
+  "rg": {
+    "id": "Erin-Trine",
+    "name": "Erin Trine",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Western Oregon University | WOU, Western Oregon University, Interpreting Studies",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Fostering Participation and Collaboration in Online Education:: A Self-Study of Two Cohorts",
+        "tags": ["Chapter"],
+        "date": "Apr 2015",
+        "authors": ["VICKI DARDEN", "EMILY K. OTT", "Erin Trine", "SARAH HEWLETT"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [8],
+    "citations": [2]
   }
 }

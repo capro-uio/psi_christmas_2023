@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Christina Thunberg",
-    "id": "5Lq9UKYAAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo",
+    "name": ["Christina Thunberg"],
+    "id": ["5Lq9UKYAAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -71,8 +71,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-6607-2689",
-    "name": "Christina Thunberg",
+    "orcid": ["0000-0001-6607-2689"],
+    "name": ["Christina Thunberg"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -83,8 +83,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Christina Thunberg",
-    "id": "970140",
+    "name": ["Christina Thunberg"],
+    "id": ["970140"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -118,5 +118,14 @@
         "url": "https://api.cristin.no/v2/results/1811258"
       }
     ]
+  },
+  "rg": {
+    "id": "Joana-Christina",
+    "name": "Joana Christina",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Washington University in St Louis | WUSTL  Wash U, Washington University in St Louis, Department of Psychology",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

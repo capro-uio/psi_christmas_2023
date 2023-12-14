@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Hanne Haavind",
-    "id": "jeX79bgAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Hanne Haavind"],
+    "id": ["jeX79bgAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -912,8 +912,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-9708-5167",
-    "name": "Hanne Haavind",
+    "orcid": ["0000-0001-9708-5167"],
+    "name": ["Hanne Haavind"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -924,11 +924,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Hanne Haavind",
-    "id": "22968",
+    "name": ["Hanne Haavind"],
+    "id": ["22968"],
     "keywords": ["Gender", "Children", "Psychological treatment", "Development Psychology", "Gender Relations", "Youth", "Children's reality", "Cultural psychology", "Psychotherapy", "Feminist theory", "Everyday life", "Social transitions form child to teenager", "Familylife, parenting, child-care", "Relationships between men and women", "Identity and cultural complexity"],
     "position": ["Guest", "Professor ii"],
-    "img": "https://api.cristin.no/v2/persons/22968/picture",
+    "img": ["https://api.cristin.no/v2/persons/22968/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1548,5 +1548,529 @@
         "url": "https://api.cristin.no/v2/results/51288"
       }
     ]
+  },
+  "rg": {
+    "id": "Hanne-Haavind",
+    "name": "Hanne Haavind",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277567132192777-1443188569154_Q128/Hanne-Haavind.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Child Development", "Adolescent Development", "Early Childhood Education", "Youth Development", "Family Studies", "Violence Prevention", "Psychological Assessment", "Parenting", "Early Childhood", "ADD"],
+    "works": [
+      {
+        "title": "““Why shouldn’t I expect things from life?” – what people with lived experience from psychosis highlight as important to their personally defined long-term recovery process”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Gina Åsbø", "Hanne Haavind", "S. Hembre Kruse", "Carmen Simonsen"],
+        "abstract": ["Introduction\nMany people with lived experience from psychosis recover and thrive, contrary to the common stigmatizing belief that they will be chronic “patients”. But there are several ways to understand recovery, one is as a subjective process best explored through qualitative interviews with people who have recovered from psychosis. However, ther..."]
+      },
+      {
+        "title": "Repeated explorations of violent scripts: psychotherapy for men acting violently against their female partner",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Bente Lømo", "Hanne Haavind", "Odd Arne Tjersland"],
+        "abstract": ["The effects of psychotherapy for men perpetrating violence toward their female partners have been found to be modest or equivocal; therefore, further research is necessary to determine how therapists can intervene to help clients stop acting violently. To obtain a better understanding of successful therapist strategies in a particular case, we cond..."]
+      },
+      {
+        "title": "When singing strengthens the capacity to aspire: girls’ reflexivity in rural Bangladesh",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Maria Jordet", "Siri Erika Gullestad", "Hanne Haavind"],
+        "abstract": ["In the present paper, we explore the impact of singing for girls in rural Bangladesh. Previous findings in this field-based interview study (with 18 girls) have demonstrated that singing can act as a driving force in young girls’ psychological individuation processes, implying increased agency and autonomy. A critical question, however, is to what..."]
+      },
+      {
+        "title": "Förändringar i förhållandet mellan kvinnor och män",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Hanne Haavind"],
+        "abstract": ["De traditionella könsrollerna är stadda i upplösning och vad kön skall betyda är idag något som vi ständigt måste förhandla om. Detta hävdar Hanne Haavind i sin analys av nya interaktionsmönster mellan kvinnor och män. Hennes huvudintresse ärmaktförhållandet: vad händerför närvarande med mans dominans en och den kvinnliga underordningen?"]
+      },
+      {
+        "title": "Assessments in Psychotherapy with Suicidal Patients: The Precedence of Alliance Work",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Kristin Østlie", "Erik Stänicke", "Hanne Haavind"],
+        "abstract": ["In this article the aim was to explore how therapists handle suicide risk assessment in connection with patient’s experience of alliance in psychotherapy. In a naturalistic, longitudinal study, 19 suicidal patients were interviewed three times: just before they started in therapy (T1), during the early phase (T2), and again after one year (T3). 17..."]
+      },
+      {
+        "title": "Discovering One’s Own Way: Adolescent Girls’ Different Pathways Into and Out of Self-Harm",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Line Indrevoll Stänicke", "Hanne Haavind", "Frida Gullestad Rø", "Siri Erika Gullestad"],
+        "abstract": ["Self-harm is associated with mental illness and suicide risk. The present study aims to increase knowledge of adolescent girls’ pathways into and out of self-harm. The participants were 19 girls, 13 to 18 years of age, who were strategically selected from an outpatient care unit. A naturalistic multiple case study was done with personal interviews...."]
+      },
+      {
+        "title": "How psychotherapists make use of their experiences from being a client: Lessons from a collective autoethnography",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Marit Råbu", "John McLeod", "Hanne Haavind", "Christian Moltu"],
+        "abstract": ["First-hand experience of being a client is regarded by many psychotherapists as making an essential contribution to professional development. Although research has not established any direct influence on client outcome, arising from therapist participation in personal therapy, qualitative studies have explored how therapists transfer learning from..."]
+      },
+      {
+        "title": "\"Where did we arrive in the end?\" Conjoint explorations of improvements in the last phase of psychotherapy.",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2019",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["Most studies of psychotherapy will assess the outcome according to independent standards. In naturalistic therapies the termination has to be a matter of negotiations. Thereby outcomes will be an integral part of the process of ending. We have explored how clients and therapists reach shared notions about what they have accomplished through psychot..."]
+      },
+      {
+        "title": "Finding a Common Ground: Therapist Responsiveness to Male Clients Who Have Acted Violently Against Their Female Partner",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Bente Lømo", "Hanne Haavind", "Odd Arne Tjersland"],
+        "abstract": ["Men in treatment for intimate partner violence (IPV) do often present with problem formulations that do not fit the therapeutic endeavor of personal change and may, therefore, challenge therapists in their effort to build an alliance. However, the therapist’s initial contributions are also likely to influence whether the client finds it worthwhile..."]
+      },
+      {
+        "title": "Feeling Gender. A Generational and Psychosocial Approach",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Michael Helge Rønnestad", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["There is a need for studies that advance our knowledge of therapist eﬀectiveness, expanding the deﬁnition of what constitutes \ntherapeutic success. In the present study, four aspects of clinical outcome were analyzed using a sample of highly experienced \npsychotherapists (mean years of experience as therapy practitioners = 30) who also serve as cli..."]
+      },
+      {
+        "title": "Mediation strategies in the face of custody conflicts",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Wenke Gulbrandsen", "Hanne Haavind", "Odd Arne Tjersland"],
+        "abstract": ["Systematic analyses of initiatives and responses from mediators working with parents in intense conflicts about child custody and care brought forward variations in effective strategies. The findings are presented along six dimensions: The topics that were addressed, how the agenda for the sessions was decided, focus on agreement vs relational topi..."]
+      },
+      {
+        "title": "‘Not a film about my slackness’: Making sense of medically unexplained illness in youth using collaborative visual methods",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Silje Vagli Østbye", "Maria Fredriksen Kvamme", "Catharina Elisabeth Arfwedson Wang", "Mette Bech Risør"],
+        "abstract": ["Persistent medically unexplained symptoms have debilitating consequences for adolescents, dramatically altering their social world and future aspirations. Few studies have focused on social and moral aspects of illness experience relevant to adolescents. In this study, the aim is to explore these aspects in depth by focusing on a single case and to..."]
+      },
+      {
+        "title": "How Do Young People Understand Their Own Self-Harm? A Meta-synthesis of Adolescents’ Subjective Experience of Self-Harm",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Line Indrevoll Stänicke", "Hanne Haavind", "Siri Erika Gullestad"],
+        "abstract": ["What makes young people—most often young women—inflict damage on their own bodies? Epidemiological studies drawing on surveys have estimated incidence and identified risk factors, but studies that explore the individuals’ experience and understanding of self-harm, which typically comprise a small series of persons, are omitted in many reviews. We c..."]
+      },
+      {
+        "title": "High-conflict parents in mediation: An analysis of dialogues and sources to conflict",
+        "tags": ["Article"],
+        "date": "Feb 2018",
+        "authors": ["Wenke Gulbrandsen", "Hanne Haavind", "Odd Arne Tjersland"],
+        "abstract": ["A significant proportion of parents in mediation present destructive and escalating conflicts. In a naturalistic study of sessions with high-conflict couples, we observed dialogues with frequent interruptions, rapidly shifting subjects, and emotional attacks. A systematic search revealed eight distinct sources of conflict that interfered with the m..."]
+      },
+      {
+        "title": "Kvinneforskning og vitenskapelige paradigmer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Young Men, Masculinities and Suicide",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Mette Lyberg Rasmussen", "Hanne Haavind", "Gudrun Dieserud"],
+        "abstract": ["Objective: \nYoung men constitute one of the highest risk groups for suicide in most countries. This gives reason to explore how meanings attached to masculinity can be evoked and handled when a young man takes his life.\n\nMethod: \nIn-depth interviews with five to eight informants for each of ten suicides, as well as suicide notes, were analysed usin..."]
+      },
+      {
+        "title": "\"Hvor langt kom vi? Felles utforskning av bedring i siste fase av psykoterapi.",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["How do clients and therapists reach shared notions about what they have accomplished through psychotherapy? This is a question about the dynamic between improvement and coming to an end. A reanalysis of a qualitative study of twelve processes of psychotherapy where clients and therapists negotiated and decided about ending, demonstrated how improve..."]
+      },
+      {
+        "title": "Coming to terms: Client subjective experience of ending psychotherapy",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["How do clients consider their own contribution and that of their therapist in the last phase of therapy when they are moving toward the end? Thirty-seven clients who had received therapy from highly experienced clinicians were interviewed. Since the time for ending had not been decided at the onset, clients in both short- and long-term therapies we..."]
+      },
+      {
+        "title": "Conceptualizing the Complexity of Change in Psychotherapy: The Case of “Cora”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Margrethe Seeger Halvorsen", "John McLeod", "Kirsten Benum", "Hanne Haavind"],
+        "abstract": ["p>In this article we respond to the commentaries by Altman and Miller (2016), Bohart (2016), and Timulak and Keogh (2016) on our case of “Cora,” which involved over 121 psychotherapy sessions with a client with a history of severe relational trauma that had led to difficulty in forming close relationships, as well as a series of suicide attempts (H..."]
+      },
+      {
+        "title": "A Life-Saving Therapy: The Theory-Building Case of \"Cora\"",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Margrethe Seeger Halvorsen", "Kirsten Benum", "Hanne Haavind", "John McLeod"],
+        "abstract": ["p>The present paper presents a case study of long-term (121 sessions over three years), integrative therapy with \"Cora,\" a client with a history of severe relational trauma that had led to difficulty in forming close relationships, and a history of hospitalization resulting from a series of suicide attempts. Despite these challenges, Cora reported..."]
+      },
+      {
+        "title": "Medical and Psychology Student’s Experiences in Learning Mindfulness: Benefits, Paradoxes, and Pitfalls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Ida Solhaug", "Thor Eirik Eriksen", "Michael de Vibe", "Jan Harald Rosenvinge"],
+        "abstract": ["Mindfulness has attracted increased interest in the field of health professionals’ education due to its proposed double benefit of providing self-help strategies to counter stress and burnout symptoms and cultivating attitudes central to the role of professional helpers. The current study explored the experiential aspects of learning mindfulness. S..."]
+      },
+      {
+        "title": "A listening perspective in psychotherapy with suicidal patients: Establishing convergence in therapists and patients private theories on suicidality and cure",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Kristin Østlie", "Erik Stänicke", "Hanne Haavind"],
+        "abstract": ["Objective: \nTo explore ways that psychotherapists and suicidal patients handle suicidality as a topic, and how it impacts the bond between them.\n\nMethod: \nNineteen suicidal patients and their therapists participated in a naturalistic study. Patients were interviewed before they started in therapy, and both patients and therapists were interviewed a..."]
+      },
+      {
+        "title": "From Resistance to Invitations: How Men Voluntarily in Therapy for Intimate Partner Violence May Contribute to the Development of a Working Alliance",
+        "tags": ["Article"],
+        "date": "Feb 2016",
+        "authors": ["Bente Lømo", "Hanne Haavind", "Odd Arne Tjersland"],
+        "abstract": ["The high drop-out rate and modest outcome for men in treatment for intimate partner violence (IPV) have highlighted the question of how therapists can establish an effective working alliance with these clients. The aim of this study was to conceptualize the variety of ways in which male clients using violence against a female partner might present..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jan 2016",
+        "authors": ["Ida Solhaug", "Thor Eirik Eriksen", "Michael de Vibe", "Jan Harald Rosenvinge"],
+        "abstract": []
+      },
+      {
+        "title": "The Role of Self-Esteem in Suicides Among Young Men",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Mette Lyberg Rasmussen", "Kari Madeleine Stabell Dyregrov", "Hanne Haavind", "Gudrun Dieserud"],
+        "abstract": ["This study explores self-esteem in suicide among young males with no earlier history of suicide attempt(s) or treatment in mental health services. The data come from an ongoing psychological autopsy study; 10 cases of young men aged 18 to 30, were selected to generate a phenomenologically based understanding of the psychological mechanisms and proc..."]
+      },
+      {
+        "title": "The Contradictions of Love: Towards a Feminist-realist Ontology of Sociosexuality",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Maladaptive Perfectionism: Understanding the Psychological Vulnerability to Suicide in Terms of Developmental History",
+        "tags": ["Article"],
+        "date": "Jun 2015",
+        "authors": ["Parvin Kiamanesh", "Gudrun Dieserud", "Kari Madeleine Stabell Dyregrov", "Hanne Haavind"],
+        "abstract": ["This study aimed to explore how the life history of suicide victims with no history of treatment in mental health care or of attempted suicide seemed to presdispose them to maladaptive perfectionism. The study is part of an ongoing psychological autopsy study. It aimed to produce a phenomenological understanding of the vulnerability to suicide rela..."]
+      },
+      {
+        "title": "Mandatory Mediation outside the Court: A Process and Effect Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Odd Arne Tjersland", "Wenke Gulbrandsen", "Hanne Haavind"],
+        "abstract": ["In a study of 154 couples in precourt mandatory mediation in Norway, a majority of the thirty-eight high-conflict (HC) cases left the mediation after two sessions and without any agreements. Eighteen months later, five of ten HC couples were still without an agreement. With seven sessions available free of charge, the mediation system seems to fail..."]
+      },
+      {
+        "title": "From a Cracking Façade to a Total Escape. Maladaptive Perfectionism and Suicide",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Parvin Kiamanesh", "Gudrun Dieserud", "Hanne Haavind"],
+        "abstract": ["ABSTRACT This study explored the final stages of the suicide process among six men characterized as maladaptive perfectionists. These men, aged 22 to 58, had no history of suicide attempts or mental health treatment. In-depth interviews with five to nine informants for each person were analyzed by utilizing Interpretative Phenomenological Analysis...."]
+      },
+      {
+        "title": "Suicide and Perfectionism: A Psychological Autopsy Study of Non-Clinical Suicides",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Parvin Kiamanesh", "Kari Madeleine Stabell Dyregrov", "Hanne Haavind", "Gudrun Dieserud"],
+        "abstract": ["This study explores suicide in relation to perfectionism among individuals who died by suicide with no history of treatment in mental health care or of suicide attempts. The study is part of an ongoing psychological autopsy study (PA-study). It aimed to produce a phenomenological understanding of the dynamics/processes from perfectionism to suicide..."]
+      },
+      {
+        "title": "Warning signs of suicide among young men",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Mette Lyberg Rasmussen", "Gudrun Dieserud", "Kari Madeleine Stabell Dyregrov", "Hanne Haavind"],
+        "abstract": ["When young men unexpectedly take their own lives, those close to the deceased will ask themselves if there were any signs that might have indicated suicide in the near term. Ten young men, aged 18-30, were selected from a psychological autopsy study of suicides among individuals with no prior psychiatric treatment and no previous suicide attempts...."]
+      },
+      {
+        "title": "Exploring Vulnerability to Suicide in the Developmental History of Young Men: A Psychological Autopsy Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Mette Lyberg Rasmussen", "Hanne Haavind", "Gudrun Dieserud", "Kari Madeleine Stabell Dyregrov"],
+        "abstract": ["This study explores the developmental history of ten young men who completed suicide in the transition to adulthood. The young men, aged 18-30, had no previous history of suicide attempts or treatment in mental health. In-depth interviews with four to eight informants for each suicide were analyzed using Interpretative Phenomenological Analysis. Th..."]
+      },
+      {
+        "title": "\"Because nobody likes Chinese girls\": Intersecting identities and emotional experiences of subordination and resistance in school life",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["Hanne Haavind", "Barrie Thorne", "Wendy Hollway", "Eva Magnusson"],
+        "abstract": ["How do emotions enter into children’s negotiated understandings and situated uses of categories of identity? This question guided a revisit to an ethnographic study of a multi-cultural context in Oakland, California. A focus group discussion among four Chinese American girls just graduating from elementary school and an interviewer, also Chinese Am..."]
+      },
+      {
+        "title": "Råbu, M, Binder, P.E. & Haavind, H. (2013) Negotiating ending: a qualitative study of the process of ending psychotherapy,",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Marit Råbu", "Per-Einar Binder", "Hanne Haavind"],
+        "abstract": ["Objectives: When psychotherapy is open-ended, the question of termination is a matter for negotiation. A model based on both content and the process of ending may explain how ‘good enough’ psychotherapies can be brought to ‘good enough’ endings.\nDesign: Twelve processes of ending were explored through a combination of audio recordings made during t..."]
+      },
+      {
+        "title": "Becoming a Mother Through Culture",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Cathy Urwin", "Mona-Iren Hauge", "Wendy Hollway", "Hanne Haavind"],
+        "abstract": ["“Culture” is often considered in terms of identifiable artifacts, rules, and practices, with less attention given to how investment in these features comes about. Using data extracts from a case study of a young woman who is becoming a mother for the first time, we pay attention to how people react to cultural processes in terms of how they “feel.”..."]
+      },
+      {
+        "title": "Negotiating ending: A qualitative study of the process of ending psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Marit Råbu", "Per-Einar Binder", "Hanne Haavind"],
+        "abstract": ["Objectives: When psychotherapy is open-ended, the question of termination is a matter for negotiation. A model based on both content and the process of ending may explain how 'good enough' psychotherapies can be brought to 'good enough' endings. Design: Twelve processes of ending were explored through a combination of audio recordings made during t..."]
+      },
+      {
+        "title": "We have travelled a long distance and sorted out the mess in the drawers: Metaphors for moving towards the end in psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Marit Råbu", "Hanne Haavind", "Per-Einar Binder"],
+        "abstract": ["Aim: To explore the process of ending in psychotherapy, in particular how clients and therapists draw on their notions of client improvements and prepare for the upcoming end. Data: The data comes from an intensive process-outcome study at the University of Oslo, Norway. The study includes audio-recording from all sessions and separate post-therapy..."]
+      },
+      {
+        "title": "Råbu, M. & Haavind, H. (2012) Coming to an end: A case study of an ambigous process of ending. Counselling and Psychotherapy Research, 12, 109-117",
+        "tags": ["Article"],
+        "date": "Jun 2012",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["Aim: When the duration of therapy is not preset and the outcome is a matter for negotiation, the decision to end psychotherapy will be an experiential concern for the two participants. This case study draws attention to how ambiguities may be settled in a process where ending is initiated by the therapist and resisted by the client. Method and anal..."]
+      },
+      {
+        "title": "Coming to an end: A case study of an ambiguous process of ending psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["Aim: When the duration of therapy is not preset and the outcome is a matter for negotiation, the decision to end psychotherapy will be an experiential concern for the two participants. This case study draws attention to how ambiguities may be settled in a process where ending is initiated by the therapist and resisted by the client. Method and anal..."]
+      },
+      {
+        "title": "Parenting After a Natural Disaster: A Qualitative Study of Norwegian Families Surviving the 2004 Tsunami in Southeast Asia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2012",
+        "authors": ["Gertrud Sofie Hafstad", "Hanne Haavind", "Tine K. Jensen"],
+        "abstract": ["How do parents support their children after a high-impact disaster? To answer this question, face-to-face interviews were conducted with 51 Norwegian parents. These parents and children were all severely exposed to the trauma of the tsunami disaster. The analyses show how parents interpret their children's signs of distress, as well as their own st..."]
+      },
+      {
+        "title": "“If only” and “despite all”: Narrative configuration among young people living in residential care",
+        "tags": ["Article"],
+        "date": "Sep 2011",
+        "authors": ["Anne Jansen", "Hanne Haavind"],
+        "abstract": ["First-person narratives are meaning-making devices that can be used as powerful tools to direct developmental changes. For young people who have endured difficulties in their lives, the selection and configuration of such experiences may contribute in significant ways to how they come to understand themselves and what possibilities they hold. Repea..."]
+      },
+      {
+        "title": "Feminist Approaches to Psychology in the Nordic Countries: The Fates of Feminism in Psychology in Modern Welfare Societies",
+        "tags": ["Chapter"],
+        "date": "Jul 2011",
+        "authors": ["Eva Magnusson", "Hanne Haavind"],
+        "abstract": ["The Nordic welfare states – Denmark, Finland, Iceland, Norway and Sweden – declared gender equality as a political ambition\nat an early stage. Consequently, research that documented the living conditions of women and their subordination in public\nand private social arenas has received some institutional and financial support. This chapter describes..."]
+      },
+      {
+        "title": "Loving and caring for small children: Contested issues for everyday practices",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Hanne Haavind"],
+        "abstract": ["The ways in which mothers—and fathers—organize care for their children in the first three years of life are undergoing cultural and institutional changes all over Europe—and in the Nordic countries in particular. Psychological studies of babies and toddlers bring new knowledge about the capacities and vulnerabilities of small children during these..."]
+      },
+      {
+        "title": "Everyday life in psychology",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Hanne Haavind"],
+        "abstract": ["The aim of each article in this Special Issue is to show how the format of everyday life is important for the understanding of psychological phenomena. All five articles are in the Nordic sociocultural context, but their claims to knowledge reach beyond a description of the state of affairs in this region. The authors combine application of theoret..."]
+      },
+      {
+        "title": "Råbu, M. Halvorsen, M.S. & Haavind, H. (2011) Early relationship struggles: A case study of alliance formation and reparation. Counselling and Psychotherapy Research, 11, 23- 33 (Special issue: The contribution of systematic case study research to building an evidence base for counselling and psychotherapy).",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Marit Råbu", "Margrethe Seeger Halvorsen", "Hanne Haavind"],
+        "abstract": ["Aim: A good alliance established during the early sessions of psychotherapy will most likely lead to a good outcome. As a result, there is much to learn from a case in which both the patient and therapist regarded the alliance as being poor for an extended period (the first 15 sessions), yet still managed to develop a solid and stable alliance and..."]
+      },
+      {
+        "title": "Boys' bodies and the constitution of adolescent masculinities",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Mona-Iren Hauge", "Hanne Haavind"],
+        "abstract": ["In the social transition between childhood and adolescence, boys draw on discourses of masculinity that address the male body in constituting themselves as adolescents. They make themselves as no longer children and acquire a sense of themselves as adolescents by performing bodily practices that position them within some of these discourses. Repeat..."]
+      },
+      {
+        "title": "Det kliniske intervjuet: Bind II. Praksis med ulike klientgrupper",
+        "tags": ["Book"],
+        "date": "Jan 2011",
+        "authors": ["Anna von der Lippe", "Arne Holte", "Per Nerdrum", "Michael Helge Rønnestad"],
+        "abstract": []
+      },
+      {
+        "title": "Who does he think he is?: Making new friends and leaving others behind-on the path from childhood to youth",
+        "tags": ["Chapter"],
+        "date": "Jan 2011",
+        "authors": ["Hanne Haavind"],
+        "abstract": ["Bullying is a socially and culturally complex phenomenon that until now has largely been understood in the context of the individual. This book challenges the dominance of this approach, examining the processes of extreme exclusion that are enacted in bullying - whether at school, through face-to-face meetings or virtual encounters - in the context..."]
+      },
+      {
+        "title": "Råbu, M., Hytten, K. Haavind, H. & Binder, P.E. (2010) Development through interruptions and reparations – A case study of a mutually challenging psychotherapy. European Journal of Psychotherapy and Counselling, 12, 287-302.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Marit Råbu", "Karsten Hytten", "Hanne Haavind", "Per-Einar Binder"],
+        "abstract": ["The aim of this study was to understand how relational difficulties in\npsychotherapy may be handled to represent possibilities for change.\nTemporary interruptions and subsequent reestablishment of contact were\nchosen as the strategic focus in one severely challenging case of long term\npsychodynamic psychotherapy where outcome was known to be good...."]
+      },
+      {
+        "title": "Development through interruptions and reparations – A case study of a dual challenging psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Marit Råbu", "Karsten Hytten", "Hanne Haavind", "Per-Einar Binder"],
+        "abstract": ["The aim of this study was to understand how relational difficulties in psychotherapy may be handled to represent possibilities for change. Temporary interruptions and subsequent reestablishment of contact were chosen as the strategic focus in one severely challenging case of long term psychodynamic psychotherapy where outcome was known to be good...."]
+      },
+      {
+        "title": "What Constitutes a Good Working Alliance in Therapy with Children That May Have Been Sexually Abused?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Tine K. Jensen", "Hanne Haavind", "Wenke Gulbrandsen", "Odd Arne Tjersland"],
+        "abstract": ["The use of qualitative methods in a case by case study of fifteen psychotherapies with children allowed for inquiries into how the working alliance can be established when children are involved. Therapy hours were recorded, and the children’s, their caregivers’ and the therapists’ views about what happened during therapy were collected at the end o..."]
+      },
+      {
+        "title": "Dette nummers samlede anmeldelser",
+        "tags": ["Article"],
+        "date": "Dec 2007",
+        "authors": ["Anmeldere: Lene Falgaard Eplov", "Birgitte Possing", "Helene Pristed Nielsen", "Annemette Hejlsted"],
+        "abstract": ["I dette nummer er følgnde bøger blevet anmeldt:Karin Garde: Køn, psykisk sygdom og behandling.Katarina Leppänen: Rethinking Civilization in a European Feminist Context: History, Nature, Women in Elin Wägner’s Väckerklocka.Helen Krag: Mangfoldighed, Magt og Minoriteter. Introduktion til minoritetsforskningens teorier.Anette Borchorst og Ann-Dorte Ch..."]
+      },
+      {
+        "title": "Midt i tredje akt? Fedres deltakelse i det omsorgsfulle foreldreskap",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Feminism and Psychology in the Context of Nordic Welfare Ideologies and Policies",
+        "tags": ["Article"],
+        "date": "May 2005",
+        "authors": ["Hanne Haavind", "Eva Magnusson"],
+        "abstract": []
+      },
+      {
+        "title": "The Nordic Countries - Welfare Paradises for Women and Children?",
+        "tags": ["Article"],
+        "date": "May 2005",
+        "authors": ["Hanne Haavind", "Eva Magnusson"],
+        "abstract": []
+      },
+      {
+        "title": "Feminism, Psychology and Identity Transformations in the Nordic Countries",
+        "tags": ["Article"],
+        "date": "May 2005",
+        "authors": ["Hanne Haavind", "Eva Magnusson"],
+        "abstract": []
+      },
+      {
+        "title": "Towards a Multifaceted Understanding of Children as Social Participants",
+        "tags": ["Article"],
+        "date": "Feb 2005",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Masculinity by rule-breaking: Cultural contestations in the transitional move from being a child to being a young male",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2003",
+        "authors": ["Hanne Haavind"],
+        "abstract": ["In every school some boys will display such extensive rule-breaking behaviour during their 13th year that each appears to be a candidate for the diagnosis of anti-social personality disorder. When a selection of such boys were studied as participants in a social landscape in and out of a school with a multi-ethnic body of students, their involvemen..."]
+      },
+      {
+        "title": "Pro-feminist and non-psychoanalytic – and other pros and cons of psychotherapy",
+        "tags": ["Article"],
+        "date": "Mar 2003",
+        "authors": ["Hanne Haavind"],
+        "abstract": ["Any political assessment of psychotherapy practice will have to consider both the context of the therapeutic work and the guiding theoretical ideas that the therapist subscribes to. In my case, psychotherapy is linked to my teaching, and the experiences work as inspiration for my research. The kind of service that I belong to is cheap and easily ac..."]
+      },
+      {
+        "title": "Analytiske retningslinjer ved empiriske studier av kjønnede betydninger",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2000",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "På jakt etter kjønnede betydninger",
+        "tags": ["Chapter"],
+        "date": "Jan 2000",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Searching for gendered meanings",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Book Reviews : Susan J. Hekman: Moral Voices, Moral Selves. Carol Gilligan and Feminist Moral Theory. Oxford: Polito Press, 1995",
+        "tags": ["Article"],
+        "date": "Jan 1997",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Er det kjønnsnøytrale menneskesyn et vitenskapelig ideal?",
+        "tags": ["Article"],
+        "date": "Jan 1988",
+        "authors": ["Hanne Haavind"],
+        "abstract": ["Psychology as a modern social science has been developed through the construction of neutral positions for the observation of human behavior. Gender neutrality in psychology is presented as a platform consisting of six legs. The building of the platform has solved certain theoretical problems and contributed to widening possibilities for social act..."]
+      },
+      {
+        "title": "Cooperation and conflict: A case study of a women's research network in Norway",
+        "tags": ["Article"],
+        "date": "Dec 1985",
+        "authors": ["Harriet Holter", "Hildur Ve", "Hanne Haavind"],
+        "abstract": ["During four years (1978–82), 25–30 Norweigian women social scientists formed a research network of small local groups, studying ‘Women's mutual relations’ in various settings. Women's friendships, their cooperation in factories and local communities and in women's organizations were the focus of our research. This article, however, is not about the..."]
+      },
+      {
+        "title": "F�r�ndringar i f�rh�llandet mellan kvinnor och m�n",
+        "tags": ["Article"],
+        "date": "Jan 1985",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "»Vi forstår du føler det slik—men hvorfor spør du ikke oss?«—om hegemonisme og psykoterapibegrepet",
+        "tags": ["Article"],
+        "date": "Jan 1985",
+        "authors": ["Hanne Haavind", "Per Eriksen", "Sissel Reichelt"],
+        "abstract": []
+      },
+      {
+        "title": "Changes in relations between women and men",
+        "tags": ["Article"],
+        "date": "Jan 1985",
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "Utvidet omsorgsansvar i familier med funksjonshemmete småbarn.",
+        "tags": ["Chapter"],
+        "date": "Jan 1984",
+        "authors": ["Hanne Haavind", "Benedicte Ingstad", "Magne Mæhle"],
+        "abstract": []
+      },
+      {
+        "title": "Mothers as Teachers and their Children as Learners: A Study of the Influence of Social Interaction upon Cognitive Development",
+        "tags": ["Chapter"],
+        "date": "Dec 1981",
+        "authors": ["Ellen Hartmann", "Hanne Haavind"],
+        "abstract": []
+      },
+      {
+        "title": "THE CHILD IN THE FAMILY",
+        "tags": ["Article"],
+        "date": "Jan 1980",
+        "authors": ["Lea Pitkänen-Pulkkinen", "Pirkko Niemelä", "Hanne Haavind", "Helga Hannesdóttir"],
+        "abstract": []
+      },
+      {
+        "title": "Contesting and Recognizing Historical Changes and Selves in Development - Methodological challenges",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Hanne Haavind"],
+        "abstract": []
+      }
+    ],
+    "degree": ["dr.philos."],
+    "bio": [],
+    "publications": [73],
+    "reads": [19614],
+    "citations": [882]
   }
 }

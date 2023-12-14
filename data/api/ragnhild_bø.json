@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Ragnhild Bø",
-    "id": "GqU-Gl8AAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Ragnhild Bø"],
+    "id": ["GqU-Gl8AAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -367,8 +367,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-3809-3084",
-    "name": "Ragnhild Bø",
+    "orcid": ["0000-0002-3809-3084"],
+    "name": ["Ragnhild Bø"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -379,11 +379,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ragnhild Bø",
-    "id": "5327",
+    "name": ["Ragnhild Bø"],
+    "id": ["5327"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
-    "img": "https://api.cristin.no/v2/persons/5327/picture",
+    "img": ["https://api.cristin.no/v2/persons/5327/picture"],
     "works": [
       {
         "type": "Poster",
@@ -395,43 +395,43 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Cognitive predictors of stress-induced mood malleability in depression",
-        "journal": "Anxiety, Stress, & Coping",
-        "url": "https://api.cristin.no/v2/results/2179368"
+        "url": "https://api.cristin.no/v2/results/2179368",
+        "journal": "Anxiety, Stress, & Coping"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Combining antidepressants and attention bias modification in primary health care (DEPTREAT): Protocol for a pragmatic randomized controlled trial",
-        "journal": "Contemporary Clinical Trials",
-        "url": "https://api.cristin.no/v2/results/2175163"
+        "url": "https://api.cristin.no/v2/results/2175163",
+        "journal": "Contemporary Clinical Trials"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Examining attentional functioning in depression using a personalized network approach: A proof-of-principle study",
-        "journal": "Psychiatry Research Communications",
-        "url": "https://api.cristin.no/v2/results/2167117"
+        "url": "https://api.cristin.no/v2/results/2167117",
+        "journal": "Psychiatry Research Communications"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The long-term effects of ABM on symptom severity in patients with recurrent depression: A randomized sham-controlled trial",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/2167055"
+        "url": "https://api.cristin.no/v2/results/2167055",
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The association between depression symptoms and reduced executive functioning is primarily linked by fatigue",
-        "journal": "Psychiatry Research Communications",
-        "url": "https://api.cristin.no/v2/results/2140158"
+        "url": "https://api.cristin.no/v2/results/2140158",
+        "journal": "Psychiatry Research Communications"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The effect of attention bias modification on depressive symptoms in a comorbid sample: a randomized controlled trial",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2103107"
+        "url": "https://api.cristin.no/v2/results/2103107",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic lecture",
@@ -453,110 +453,306 @@
         "type": "Article in business/trade/industry journal",
         "year": "2022",
         "title": "Cognitive rehabilitation in post-COVID-19 condition: A study protocol for a randomized controlled trial",
-        "journal": "Contemporary Clinical Trials",
-        "url": "https://api.cristin.no/v2/results/2061109"
+        "url": "https://api.cristin.no/v2/results/2061109",
+        "journal": "Contemporary Clinical Trials"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Self-reported Memory Problems 8 Months After COVID-19 Infection",
-        "journal": "JAMA Network Open",
-        "url": "https://api.cristin.no/v2/results/1927795"
+        "url": "https://api.cristin.no/v2/results/1927795",
+        "journal": "JAMA Network Open"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Symptom severity moderates the outcome of attention bias modification for depression: An exploratory study",
-        "journal": "Journal of Psychiatric Research",
-        "url": "https://api.cristin.no/v2/results/1917531"
+        "url": "https://api.cristin.no/v2/results/1917531",
+        "journal": "Journal of Psychiatric Research"
       },
       {
         "type": "Letter to the editor",
         "year": "2020",
         "title": "Attention and executive functions are not associated with unemployment in patients with major depressive disorder",
-        "journal": "Psychiatry Research",
-        "url": "https://api.cristin.no/v2/results/1814675"
+        "url": "https://api.cristin.no/v2/results/1814675",
+        "journal": "Psychiatry Research"
       },
       {
         "type": "Academic literature review",
         "year": "2019",
         "title": "Is (poly-) substance use associated with impaired inhibitory control? A mega-analysis controlling for confounders",
-        "journal": "Neuroscience and Biobehavioral Reviews",
-        "url": "https://api.cristin.no/v2/results/1718581"
+        "url": "https://api.cristin.no/v2/results/1718581",
+        "journal": "Neuroscience and Biobehavioral Reviews"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1673707"
+        "url": "https://api.cristin.no/v2/results/1673707",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Popular scientific article",
         "year": "2017",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1511177"
+        "url": "https://api.cristin.no/v2/results/1511177",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Do executive functions predict binge-drinking patterns? Evidence from a longitudinal study in young adulthood",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1467128"
+        "url": "https://api.cristin.no/v2/results/1467128",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Inhibitory control and response monitoring are not systematically related to weekly alcohol consumption in the general population",
-        "journal": "Psychopharmacology",
-        "url": "https://api.cristin.no/v2/results/1453654"
+        "url": "https://api.cristin.no/v2/results/1453654",
+        "journal": "Psychopharmacology"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Binge drinking is characterized by decisions favoring positive and discounting negative consequences",
-        "journal": "Addiction Research and Theory",
-        "url": "https://api.cristin.no/v2/results/1348054"
+        "url": "https://api.cristin.no/v2/results/1348054",
+        "journal": "Addiction Research and Theory"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Which facets of impulsivity predict binge drinking?",
-        "journal": "Addictive Behaviors Reports",
-        "url": "https://api.cristin.no/v2/results/1344692"
+        "url": "https://api.cristin.no/v2/results/1344692",
+        "journal": "Addictive Behaviors Reports"
       },
       {
         "type": "Feature article",
         "year": "2015",
-        "journal": "Forebygging.no",
-        "url": "https://api.cristin.no/v2/results/1299597"
+        "url": "https://api.cristin.no/v2/results/1299597",
+        "journal": "Forebygging.no"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Binge drinkers are fast, able to stop - But they fail to adjust",
-        "journal": "Journal of the International Neuropsychological Society",
-        "url": "https://api.cristin.no/v2/results/1299594"
+        "url": "https://api.cristin.no/v2/results/1299594",
+        "journal": "Journal of the International Neuropsychological Society"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Inhibition and response to error in remitted major depression",
-        "journal": "Psychiatry Research",
-        "url": "https://api.cristin.no/v2/results/1295033"
+        "url": "https://api.cristin.no/v2/results/1295033",
+        "journal": "Psychiatry Research"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Serotonin transporter polymorphisms predict response inhibition in healthy volunteers",
-        "journal": "Neuroscience Letters",
-        "url": "https://api.cristin.no/v2/results/1164498"
+        "url": "https://api.cristin.no/v2/results/1164498",
+        "journal": "Neuroscience Letters"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1089266"
+        "url": "https://api.cristin.no/v2/results/1089266",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       }
     ]
+  },
+  "rg": {
+    "id": "Ragnhild-Bo-2",
+    "name": "Ragnhild Bø",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281121386970-1676968831709_Q128/Ragnhild-Bo-2.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cognitive Neuropsychology", "Executive Function", "Neuropsychological Assessment", "Clinical Neuropsychology", "Psychopathology", "Clinical Neuroscience", "Neuropsychology", "Biological Psychology", "Neuropsychiatry", "Cognitive Neuroscience"],
+    "works": [
+      {
+        "title": "Cognitive predictors of stress-induced mood malleability in depression",
+        "tags": ["Article"],
+        "date": "Sep 2023",
+        "authors": ["Ragnhild Bø", "Brage Kraft", "Jutta Joormann", "Nils Inge Landrø"],
+        "abstract": ["Background & objectives: \nBasic attentional control, negative biases in attention and interpretation, and rumination are all cognitive processes associated with depression; however, less is known about their predictive role in depressive mood reactivity and -recovery in response to stress, and their relation to severity of depression.\n\nDesign & met..."]
+      },
+      {
+        "title": "The long-term effects of ABM on symptom severity in patients with recurrent depression: A randomized sham-controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Ragnhild Bø", "Brage Kraft", "Rune Jonassen", "Nils Inge Landrø"],
+        "abstract": ["Background: \nThe present study reports on long-term outcomes of ABM over one year in self-reported and clinician-rated depression symptoms, anxiety symptoms, and relapse rates.\n\nMethods: \nWe conducted a double-blind randomized sham-controlled trial in 301 participants with recurrent major depression disorder between January 2015 and October 2016 (#..."]
+      },
+      {
+        "title": "Combining antidepressants and attention bias modification in primary health care (DEPTREAT): Protocol for a pragmatic randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Nils Inge Landrø", "Catherine Harmer", "Simon E Blackwell", "Jan Ivar Rossberg"],
+        "abstract": ["Background: \nMajor depressive disorder (MDD) is a highly prevalent psychiatric condition associated with significant disability, mortality and economic burden. A large proportion of MDD patients are treated in primary health care in the local community. Attentional Bias Modification (ABM) training in combination with antidepressants could be an eff..."]
+      },
+      {
+        "title": "Examining attentional functioning in depression using a personalized network approach: A proof-of-principle study",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Brage Kraft", "Ragnhild Bø", "Kristof Hoorelbeke", "Nils Inge Landrø"],
+        "abstract": ["Reduced attentional functioning has been identified as an important factor in depression etiology and maintenance. However, current research does not fully take into account the large heterogeneity of depression, for example identifying for whom and how reduced attentional functioning plays a role. In this proof-of-principle study, we demonstrate h..."]
+      },
+      {
+        "title": "The association between depression symptoms and reduced executive functioning is primarily linked by fatigue",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Brage Kraft", "Ragnhild Bø", "Rune Jonassen", "Nils Inge Landrø"],
+        "abstract": ["Depression is associated with reduced executive functioning. Still, we lack a more detailed understanding of the factors explaining this association. Addressing several limitations in the previous literature, we examine whether poor executive functioning is associated with specific depression symptoms using a network approach. The sample consisted..."]
+      },
+      {
+        "title": "The effect of attention bias modification on depressive symptoms in a comorbid sample: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Ragnhild Bø", "Brage Kraft", "Mads Lund Pedersen", "Nils Inge Landrø"],
+        "abstract": ["Background: \nStudies investigating the long-term effect of attention bias modification (ABM) in clinical samples are lacking. This study investigates the 6-months follow-up effect of ABM on depressive symptoms in participant with major depressive disorder with and without comorbid disorders.\n\nMethods: \nWe conducted a double-blind randomized sham-co..."]
+      },
+      {
+        "title": "Combining Antidepressants and Attention Bias Modification in Primary Health Care (Deptreat): Protocol for a Pragmatic Randomized Controlled Trial",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Nils Inge Landrø", "Catherine Harmer", "Simon E Blackwell", "Jan Ivar Rossberg"],
+        "abstract": []
+      },
+      {
+        "title": "The effect of attentional bias modification on attentional bias change is related to increased emotional reactivity",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Ragnhild Bø", "B. Kraft", "R. Jonassen", "N.I. Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive rehabilitation in post-COVID-19 condition: A study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Bjørn Ingulfsvann Hagen", "Anners Lerdal", "Arne Søraas", "Jan Stubberud"],
+        "abstract": ["Background\nPost-COVID-19 condition is frequently comprised of persistent cognitive sequela, including deficits in attention and executive functions (EFs), which can act as a barrier for regaining pre-illness functional levels. Goal Management Training (GMT) is a cognitive rehabilitation (CR) intervention for improving attention and EFs that has rec..."]
+      },
+      {
+        "title": "Affect Dynamics in Depression Are Associated With Cognitive Factors and Impaired Mood Recovery",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Brage Kraft", "Ragnhild Bø", "Catherine Harmer", "Nils Inge Landrø"],
+        "abstract": ["This study examined the relationship between affect dynamics and cognitive factors and mood reactivity/recovery in a sample with on-going and previous depression. Participants (n = 62) completed up to five assessments of positive and negative affect per day for 13 days using an experience sampling method. Based on this, two indicators of affect dyn..."]
+      },
+      {
+        "title": "Cognitive predictors of mood reactivity and recovery in depression",
+        "tags": ["Preprint"],
+        "date": "Mar 2022",
+        "authors": ["Ragnhild Bø", "Brage Kraft", "Jutta Joormann", "Nils Inge Landrø"],
+        "abstract": ["Theoretical models define how stressful life events interact with cognitive vulnerability factors, leading to depression. This study investigates whether these factors simultaneously predict mood variability in response to stress in a clinical sample. We included 92 participants fulfilling the criteria for Major Depressive Disorder. The majority al..."]
+      },
+      {
+        "title": "Symptom Dynamics and Attention in Depression: Fatigue and Low Positive Affect are Associated With Reduced Orienting Efficiency",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Brage Kraft", "Ragnhild Bø", "Kristof Hoorelbeke", "Nils Inge Landrø"],
+        "abstract": ["Depression is a heterogeneous mental disorder involving a complex interplay between potential etiological and maintenance factors. The current study examined how depression heterogeneity is related to attentional functioning. Relying on person-specific network models, we explored the associations between symptom centrality (expected influence) and..."]
+      },
+      {
+        "title": "Depression-related Impairment in Executive Functioning is Primarily Associated with Fatigue and Anhedonia",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Brage Kraft", "Ragnhild Bø", "Alexandre Heeren", "Nils Inge Landrø"],
+        "abstract": ["Background: Depression is associated with reduced executive functioning. Still, we lack a more detailed understanding of the causes, nature, and mechanisms explaining this association. Addressing limitations in the previous literature, for example the “task impurity”-problem and depression heterogeneity, we examine whether poor executive functionin..."]
+      },
+      {
+        "title": "Self-reported Memory Problems 8 Months after COVID-19 Infection",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Arne Søraas", "Ragnhild Bø", "Karl Trygve Kalleberg", "Nils Inge Landrø"],
+        "abstract": ["This cohort study examines self-reported memory problems 8 months after COVID-19 infection."]
+      },
+      {
+        "title": "Symptom severity moderates the outcome of attention bias modification for depression: An exploratory study",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Ragnhild Bø", "Brage Kraft", "Rune Jonassen", "Nils Inge Landrø"],
+        "abstract": ["A recent meta-analysis has questioned the relevance of attention bias modification (ABM) for depression outcomes. However, there might be patient characteristics not yet accounted for, that are relevant to the outcome. In the context of personalized treatment, the lack of moderator studies have limited the potential for matching ABM-treatment to in..."]
+      },
+      {
+        "title": "Attention and executive functions are not associated with unemployment in patients with Major Depressive Disorder",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Ragnhild Bø", "Nils Inge Landrø"],
+        "abstract": []
+      },
+      {
+        "title": "Is (poly-) substance use associated with impaired inhibitory control? A mega-analysis controlling for confounders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Yang Liu", "Wery P.M. van den Wildenberg", "Ysanne de Graaf", "Reinout W Wiers"],
+        "abstract": ["Many studies have reported that heavy substance use is associated with impaired response inhibition. Studies typically focused on associations with a single substance, while polysubstance use is common. Further, most studies compared heavy users with light/non-users, though substance use occurs along a continuum. The current mega-analysis accounted..."]
+      },
+      {
+        "title": "Kognitiv rehabilitering ved alkohol­avhengighet: supplement til ordinær behandling?",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Ragnhild Bø"],
+        "abstract": ["Cognitive remediation in alcohol use disorder: supplement to treatment-as-usal?\nBackground: The treatment of patients with alcohol use disorder (AUD) is possibly complicated by the presence of cognitive deficits, increasing the risk of unfavorable clinical outcomes. Goal: Review the current literature on cognitive remediation in AUD and its relatio..."]
+      },
+      {
+        "title": "Inhibitory control and response monitoring are not systematically related to weekly alcohol consumption in the general population",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Ragnhild Bø", "Nils Inge Landrø"],
+        "abstract": ["Background: \nIn alcohol use disorder, deficits in cognitive control (i.e., inhibition and response monitoring) might underlie the loss of self-control and, thereby, failure to adjust alcohol consumption in response to associated negative consequences. According to the continuum hypothesis, the magnitude of these deficits should be related in a stai..."]
+      },
+      {
+        "title": "Do Executive Functions Predict Binge-Drinking Patterns? Evidence from a Longitudinal Study in Young Adulthood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Ragnhild Bø", "Joel Billieux", "Line C. Gjerde", "Nils Inge Landrø"],
+        "abstract": ["Background: Impairments in executive functions (EFs) are related to binge drinking in young adulthood, but research on how EFs influence future binge drinking is lacking. The aim of the current report is therefore to investigate the association between various EFs and later severity of, and change in, binge drinking over a prolonged period during y..."]
+      },
+      {
+        "title": "Binge drinking is characterized by decisions favoring positive and discounting negative consequences",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Ragnhild Bø", "Joel Billieux", "Nils Inge Landrø"],
+        "abstract": ["Background: Decision making in binge drinkers is both risky and disadvantageous; however, previous operationalization of binge drinking has failed to capture the dimensionality of the phenomenon, differentiate drinking pattern from actual alcohol consumption and control for the influence of other substance use and general executive ability. Therefo..."]
+      },
+      {
+        "title": "Which facets of impulsivity predict binge drinking?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Ragnhild Bø", "Joel Billieux", "Nils Inge Landrø"],
+        "abstract": ["Background: Impulsive binge drinking is a serious public health issue, and to reveal predisposing factors to this consumption pattern is, therefore, required. Impulsivity-related traits are important predictors of alcohol use and abuse. Nonetheless, previous research in binge drinking has been confounded by various definitions and cut-off scores, i..."]
+      },
+      {
+        "title": "Binge Drinkers Are Fast, Able to Stop - but They Fail to Adjust",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Ragnhild Bø", "Martin Aker", "Joel Billieux", "Nils Inge Landrø"],
+        "abstract": ["Binge drinking leads to brain damage. However, at present few studies have taken into account the continuity in the binge drinking phenomenon, and treated binge drinking as a clearly separable category from other types of drinking patterns. The aim of the present study was to investigate whether severity of binge drinking can predict specific neuro..."]
+      },
+      {
+        "title": "Inhibition and response to error in remitted major depression",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Martin Aker", "Ragnhild Bø", "Catherine Harmer", "Nils Inge Landrø"],
+        "abstract": ["Depression is a common illness which tends to have a relapsing progression. Revealing vulnerability factors is an important step towards improved treatment and prevention. Previous studies of individuals in remission indicate that inhibitory control is more strongly impaired than other cognitive functions. Studies have mostly used Stroop tasks; it..."]
+      },
+      {
+        "title": "Serotonin transporter polymorphisms predict response inhibition in healthy volunteers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Nils Inge Landrø", "Rune Jonassen", "Luke Clark", "Tore C. Stiles"],
+        "abstract": ["Serotoninergic transmission is reliably implicated in inhibitory control processes. The aim of this study was to test the hypothesis if serotonin transporter polymorphisms mediate inhibitory control in healthy people. 141 healthy subjects, carefully screened for previous and current psychopathology, were genotyped for the 5-HTTLPR and rs25531 polym..."]
+      },
+      {
+        "title": "Udiagnostiserte synsendringer etter ervervet hjerneskade",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Elisabeth Kjellén", "Ragnhild Bø"],
+        "abstract": ["Many patients with acquired brain injury do not receive appropriate assessment of Visual deficit caused by acquired brain injury. As a result, visual disturbances in these patients often remain undetected. Practitioners\nshould be aware that it might result in detrimental effects for their patients in their daily and vocational functioning. There is..."]
+      }
+    ],
+    "degree": ["Cand.psychol.", "Ph.D."],
+    "bio": "I'm wondering if anyone have a copy of the 36-item POMS short form (Sascham, 1983, Journal of Personality Assessment) to share? I have the 65-item version, but to save time when doing repeated testing, I'm in need of the short form. Many thanks",
+    "publications": [26],
+    "reads": [2815],
+    "citations": [299]
   }
 }

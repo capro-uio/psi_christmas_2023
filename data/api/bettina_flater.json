@@ -2,11 +2,20 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Bettina Flater",
-    "id": "1395576",
+    "name": ["Bettina Flater"],
+    "id": ["1395576"],
     "keywords": [],
     "position": ["Research fellow", "Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Bettina-Flater-3",
+    "name": "Bettina Flater",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Norwegian Academy of Music, Department of Music",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

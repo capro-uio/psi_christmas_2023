@@ -2,11 +2,67 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Sara Wicksell Torp",
-    "id": "1623186",
+    "name": ["Sara Wicksell Torp"],
+    "id": ["1623186"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Rikard_Wicksell2",
+    "name": "Rikard Wicksell",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1169519343091715-1655846548780_Q128/Rikard_Wicksell2.jpg",
+    "affiliation": "Karolinska Institutet | KI, Karolinska Institutet, Department of Clinical Neuroscience",
+    "keywords": [],
+    "works": [
+      {
+        "title": "User-centered development of a digital exposure treatment for youth with chronic pain",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Zeena Khazendar", "Lauren Harrison", "Rikard Wicksell", "Laura Simons"],
+        "abstract": "Chronic pain affects the lives of over a quarter of youth, with societal costs exceeding $19.5 billion dollars in the U.S. each year. Many barriers limit access to available efficacious behavioral interventions, highlighting the critical need to develop digitally delivered versions to increase reach. Graded exposure treatment targets pain-related i..."
+      },
+      {
+        "title": "The Psychological Inflexibility in Pain Scale (PIPS): Validity and Reliability of the Japanese Version for Chronic Low Back Pain and Knee Pain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Yasuhiro Nagasawa", "Ai Shibata", "Hanako Fukamachi", "Koichiro Oka"],
+        "abstract": "Purpose: \nThe aim of this study was to translate the Psychological Inflexibility in Pain Scale Japanese version (PIPS-J) and inspect its validity and reliability in older patients with chronic low back pain and knee pain.\n\nMaterials and methods: \nThe PIPS was translated into Japanese by a bilingual linguistic expert and three researchers and admini..."
+      },
+      {
+        "title": "An observational study on risk factors for prolonged opioid prescription after severe trauma",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Jenny Åström", "Ylva Lidén", "Rikard Wicksell", "Karl-Fredrik Sjölund"],
+        "abstract": "Background and aims: \nTrauma is one of the most common causes of morbidity and mortality in people of working age. Following surgery, approximately 10% of patients develop persistent postsurgical pain. Chronic pain is a complex phenomenon that can adversely affect quality of life and is associated with psychiatric conditions such as anxiety and dep..."
+      },
+      {
+        "title": "Pain in persons with mild-moderate Parkinson’s disease: a cross-sectional study of pain severity and associated factors",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Conran Joseph", "Jondi Jonsson-Lecapre", "Rikard Wicksell", "Erika Franzén"],
+        "abstract": "The aims of this study were to determine pain severity in persons with mild-moderate Parkinson's disease compared with healthy age- and sex-matched controls, and identify related factors, that is, demographic, disease severity, and functioning, of pain severity in the Parkinson's disease group. A cross-sectional study design was adopted to assess p..."
+      },
+      {
+        "title": "Parent psychological flexibility in the context of pediatric pain: Brief assessment and associations with parent behavior and child functioning",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Inge Timmers", "Laura E Simons", "J. Maya Hernandez", "Dustin P Wallace"],
+        "abstract": "Background\nThe parent's role in the context of pediatric chronic pain is essential. There is growing evidence that parent psychological flexibility positively impacts child functioning. To assess parents’ abilities to respond with psychological flexibility to their child's pain, the Parent Psychological Flexibility Questionnaire (PPFQ) was develope..."
+      },
+      {
+        "title": "Internet-based Exposure Therapy for Fibromyalgia: A Randomized Controlled Trial",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Maria Hedman-Lagerlöf", "Erik Hedman", "Erland Axelsson", "Erik Andersson"],
+        "abstract": "Background: \nFibromyalgia (FM) is a common and disabling chronic pain disorder, for which existing pharmacological and psychological treatments have yet yielded insufficient effects. Previous literature has shown that exposure therapy may be an effective treatment for chronic pain. This study constitutes the first randomized controlled trial evalua..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [6],
+    "reads": [607],
+    "citations": [84]
   }
 }

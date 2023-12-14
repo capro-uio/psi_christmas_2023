@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-9488-1002",
-    "name": "Dag Erik Eilertsen",
+    "orcid": ["0000-0001-9488-1002"],
+    "name": ["Dag Erik Eilertsen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Dag Erik Eilertsen",
-    "id": "21292",
+    "name": ["Dag Erik Eilertsen"],
+    "id": ["21292"],
     "keywords": ["Method"],
     "position": ["Associate professor"],
-    "img": "https://api.cristin.no/v2/persons/21292/picture",
+    "img": ["https://api.cristin.no/v2/persons/21292/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -399,5 +399,416 @@
         "url": "https://api.cristin.no/v2/results/443378"
       }
     ]
+  },
+  "rg": {
+    "id": "Dag-Eilertsen",
+    "name": "Dag Erik Eilertsen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/273664801243160-1442258181626_Q128/Dag-Eilertsen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "CCP-2022-0133_Supplemental_materials_Emotional Changes and Outcomes in Psychotherapy.pdf",
+        "tags": ["Data"],
+        "date": "Jun 2023",
+        "authors": ["Nils Martin Sønderland", "Ole André Solbakken", "Dag Erik Eilertsen", "Jon T Monsen"],
+        "abstract": []
+      },
+      {
+        "title": "Visual-abstract-JCCP-Emotional Changes and Outcome in Psychotherapy.pptx",
+        "tags": ["Data"],
+        "date": "Jun 2023",
+        "authors": ["Nils Martin Sønderland", "Ole André Solbakken", "Dag Erik Eilertsen", "Jon T Monsen"],
+        "abstract": ["This review demonstrates that helping clients differentiate between emotion-eliciting stimuli and their associated affective responses is essential across theoretical approaches. Increased affective differentiation presumably leads to reorganization of perceptual processes, improves tolerance of emotional activation, and fosters openness to the inf..."]
+      },
+      {
+        "title": "Emotional changes and outcomes in psychotherapy: A systematic review and meta-analysis",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Nils M Sønderland", "Ole André Solbakken", "Dag Erik Eilertsen", "Jon T Monsen"],
+        "abstract": ["Objective: \nThis systematic review and meta-analysis summarize current knowledge on emotional change processes and mechanisms and their relationship with outcomes in psychotherapy.\n\nMethod: \nWe reviewed the main change processes and mechanisms in the literature and conducted meta-analyses of process/mechanism-outcome associations whenever methodolo..."]
+      },
+      {
+        "title": "Implementing integrative lighting in conventional office luminaires: Effects on melatonin secretion and sleepiness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Knut Inge Fostervold", "Dag Erik Eilertsen"],
+        "abstract": ["The discovery of intrinsically photosensitive retinal ganglion cells in the eye and their interaction with melatonin has shown that light has significant effects beyond vision. The present study compared the effect of an integrative lighting system, providing low-intensity melanopic illuminance with the effect of an ordinary, qualitatively equivale..."]
+      },
+      {
+        "title": "Predicting army cadets’ performance: The role of character strengths, GPA and GMA",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Henning Bang", "Fredrik Andre Nilsen", "Ole Boe", "Ole Christian Lang-Ree"],
+        "abstract": ["The purpose of this study was to examine how well a set of 12 character strengths (Leadership, Integrity, Open-Mindedness, Bravery, Teamwork, Persistence, Social Intelligence, Love of Learning, Fairness, Self-Regulation, Perspective and Creativity) will predict academic performance (AP) and military performance (MP), compared to high school grade p..."]
+      },
+      {
+        "title": "Effectiveness of Open-Ended Psychotherapy Under Clinically Representative Conditions",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Magnus Nordmo", "Nils Martin Sønderland", "Odd E Havik", "Ole André Solbakken"],
+        "abstract": ["Objective\nThis study investigates the effectiveness of open-ended psychotherapy in a large, naturalistic, and diverse patient cohort using rigorous and multifaceted assessments.Method\nPatients (N = 370) in open-ended psychotherapy completed an extensive set of self-report measures and diagnostic interviews, including long-term follow-up in order to..."]
+      },
+      {
+        "title": "Effect of Self-Efficacy on Quality of Life in People With Mild Cognitive Impairment and Mild Dementia: The Mediating Roles of Depression and Anxiety",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Johanne B. Tonga", "Dag Erik Eilertsen", "Ingrid Konstanse Ledel Solem", "Ingun D. Ulstein"],
+        "abstract": ["Objectives\nTo examine the mediating effects of depression and anxiety in the relationship between self-efficacy and quality of life among people with mild cognitive impairment (MCI) or mild dementia.\n\nMethod\nA total of 196 patients diagnosed with MCI or dementia due to Alzheimer disease completed structured measures of self-efficacy, quality of lif..."]
+      },
+      {
+        "title": "OBSCIF – A RELIABLE AND VALID OBSERVATIONAL INSTRUMENT FOR MEASURING CHARACTER STRENGTHS",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Henning Bang", "Ole Boe", "Dag Erik Eilertsen", "Fredrik Andre Nilsen"],
+        "abstract": []
+      },
+      {
+        "title": "DO CHARACTER STRENGTHS PREDICT HOW WELL MILITARY CADETS SUCCEED DURING THEIR BACHELOR’S PROGRAM?",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Henning Bang", "Ole Boe", "Fredrik Andre Nilsen", "Dag Erik Eilertsen"],
+        "abstract": []
+      },
+      {
+        "title": "Misforstått kritikk",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Svein Magnussen", "Dag Erik Eilertsen", "Ulf Stridbeck", "Ellen Wessel"],
+        "abstract": []
+      },
+      {
+        "title": "DEVELOPMENT OF AN OBSERVATIONAL INSTRUMENT (OBSCIF) FOR EVALUATING CHARACTER STRENGTHS IN ARMY CADETS",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Henning Bang", "Dag Erik Eilertsen", "Ole Boe", "Fredrik Andre Nilsen"],
+        "abstract": ["Problem statement: The Norwegian Military Academy (NMA) aims to educate highly competent officers, who have the capacity to lead under extreme conditions. Building on Peterson and Seligman's [1] taxonomy of character strengths, previous studies have identified 12 particularly important character strengths for succeeding as an officer in the Norwegi..."]
+      },
+      {
+        "title": "Urimelig tvil: Et tilsvar",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Svein Magnussen", "Dag Erik Eilertsen", "Karl Halvor Teigen", "Ellen Wessel"],
+        "abstract": []
+      },
+      {
+        "title": "Disclosure of child sexual abuse: Expressed emotions and credibility judgments of a child mock victim",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Ellen Wessel", "Dag Erik Eilertsen", "Espen Langnes", "Svein Magnussen"],
+        "abstract": ["Both lay persons and professionals believe that the emotions displayed by a child witness during disclosure of sexual abuse are a factor of importance when judging the child's credibility. Unfortunately, not all children display emotions according to expectations, leading to misjudgments, and possible miscarriage of justice. In the present study we..."]
+      },
+      {
+        "title": "Evaluating character strengths in cadets during a military field exercise: Consistency between different evaluation sources",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Henning Bang", "Ole Boe", "Fredrik Andre Nilsen", "Dag Erik Eilertsen"],
+        "abstract": ["Problem statement: The Norwegian Military Academy (NMA) educates cadets to serve as officers in international military operations. To do so, specific personal strengths and characteristics are required. By applying assumptions and formulations based on Peterson and Seligman’s [2] taxonomy of 24 character strengths, previous studies have identified..."]
+      },
+      {
+        "title": "«Utover rimelig tvil»? - En kvantitativ studie av sikkerhet i bevisvurdering i straffesaker hos norske fagdommere og lekdommere",
+        "tags": ["Article"],
+        "date": "Dec 2014",
+        "authors": ["Svein Magnussen", "Dag Erik Eilertsen", "Karl Halvor Teigen", "Ellen Wessel"],
+        "abstract": []
+      },
+      {
+        "title": "Framing Unauthorized Immigrants: The Effects of Labels on Evaluations",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Reidar Ommundsen", "Kees Van der Veer", "Knud S Larsen", "Dag Erik Eilertsen"],
+        "abstract": ["In the U.S. media, unauthorized immigrants are often referred to interchangeably as “illegal aliens,” “illegal immigrants,” and undocumented immigrants.” In spite of formal equivalence, these terms carry different connotations. Moreover, the effects of these labels on people’s attitudes toward immigrants are not well documented. In the present stud..."]
+      },
+      {
+        "title": "The Probability of Guilt in Criminal Cases: Are People Aware of Being ‘Beyond Reasonable Doubt’?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Svein Magnussen", "Dag Erik Eilertsen", "Karl Halvor Teigen", "Ellen Wessel"],
+        "abstract": ["Data from a series of studies presenting video recorded witness statements to laypersons and legal professionals were examined to trace the relationship between judged probability of guilt and the willingness to vote guilty or not guilty in hypothetical trials, in the absence of specific jury instructions. The results show that a majority of jury-e..."]
+      },
+      {
+        "title": "Prevalence, comorbidity and stability of post-traumatic stress disorder and anxiety and depression symptoms after exposure to physical assault: An 8-year prospective longitudinal study",
+        "tags": ["Article"],
+        "date": "Nov 2012",
+        "authors": ["Venke A Johansen", "Dag Erik Eilertsen", "Dag Nordanger", "Lars Weisæth"],
+        "abstract": ["Background: There is a lack of prospective longitudinal studies focusing specifically on the victims exposed to physical violence by a perpetrator other than a family member. Aims: To assess the prevalence and comorbidity of post-traumatic stress disorder (PTSD) and anxiety and depression symptoms and the stability of symptoms, in a population of v..."]
+      },
+      {
+        "title": "The emotional witness effect: Story content, emotional valence and credibility of a male suspect",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Ellen Wessel", "Guri C. Bollingmo", "Carina Sønsteby", "Svein Magnussen"],
+        "abstract": ["Most previous studies of the relation between emotional expression and perceived credibility carried out in the context of witness research have focused on female witnesses, frequently cast in the role of victims of crimes. In this study the focus is shifted, examining the impact of emotional expression on judgments of credibility of a young man su..."]
+      },
+      {
+        "title": "Short-term memory for flavour",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Felicia Fiore", "Cesare Cornoldi", "Rossana De Beni", "Svein Magnussen"],
+        "abstract": ["The short-term memory for the flavour of a wine in frequent but nonexpert drinkers was studied in an experiment comparing memory for wine under conditions where participants imagined and remembered a target wine with memory under conditions where participants carried out subsequent imaging and image rating tasks on the wine and on competing mental..."]
+      },
+      {
+        "title": "FC02-04 - Assessment of schizophrenia in adults with intellectual disability and autism - an empirical study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Trine Lise Bakken", "H. Martinsen", "Svein Friis", "Dag Erik Eilertsen"],
+        "abstract": ["Introduction\nIn adults with intellectual disability and autism, psychosis is rarely detected due to misinterpretation of psychotic symptoms being autism or idiosyncratic communication. The patients can poorly communicate the delusions and hallucinations they experience. Observable indicators are therefore necessary.\n\nObjectives\nTo establish reliabl..."]
+      },
+      {
+        "title": "Integrating immigrant minorities: Developing a scale to measure majority members’ attitudes toward their own proactive efforts",
+        "tags": ["Article"],
+        "date": "Apr 2011",
+        "authors": ["Joshua Phelps", "Dag Erik Eilertsen", "Salman Türken", "Reidar Ommundsen"],
+        "abstract": ["Phelps, J. M., Eilertsen, D. E., Türken, S. & Ommundsen, R. (2011). Integrating immigrant minorities: Developing a scale to measure majority members’ attitudes toward their own proactive efforts. Scandinavian Journal of Psychology 52, 404–410.\nThe present study is based on the premise that the integration of ethnic minorities may involve more than..."]
+      },
+      {
+        "title": "Psychiatric disorders in adolescents and adults with autism and intellectual disability: A representative study in one county in Norway",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Trine Lise Bakken", "Sissel Berge Helverschou", "Dag Erik Eilertsen", "Harald Martinsen"],
+        "abstract": ["Unlabelled: \nFew studies assess psychiatric disorders in representative samples of individuals with autism and ID. Symptoms of autism and psychiatric disorders have been confounded. PAC, a conceptually analysed and validated screening instrument, was used.\n\nAims: \nAssess prevalence of psychiatric disorders in individuals with intellectual disabilit..."]
+      },
+      {
+        "title": "The role of maternal attachment in children's attachment and cognitive executive functioning: A preliminary study",
+        "tags": ["Article"],
+        "date": "Sep 2010",
+        "authors": ["Anna von der Lippe", "Dag Erik Eilertsen", "Ellen Hartmann", "Kari Killen"],
+        "abstract": ["The influence of maternal attachment on children's attachment and executive functioning skills through maternal sensitivity and decentered tutoring were studied in 40 middle-class mother-child dyads. Infant attachment security in the Strange Situation Procedure was related to maternal attachment security, evaluated with the Adult Attachment Intervi..."]
+      },
+      {
+        "title": "Effectiveness in top management group meetings: The role of goal clarity, focused communication, and learning behavior",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2010",
+        "authors": ["Henning Bang", "Synne L Fuglesang", "Mariann R Ovesen", "Dag Erik Eilertsen"],
+        "abstract": ["Bang, H., Fuglesang, S. L., Ovesen, M. R. & Eilertsen, D. E. (2010). Effectiveness in top management group meetings: The role of goal clarity, focused communication, and learning behavior. Scandinavian Journal of Psychology, 51, 253–261.\nTo explore the relationship between goal clarity, focused communication, learning behavior, and team effectivene..."]
+      },
+      {
+        "title": "On Misconceptions About Behavior Analysis Among University Students and Teachers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2010",
+        "authors": ["Erik Arntzen", "Jon Løkke", "Gunn Lokke", "Dag Erik Eilertsen"],
+        "abstract": ["Students frequently show misconceptions regarding scientific psychology in general and basic concepts in behavior analysis in particular. We wanted to replicate the study by Lamal (1995) and to expand the study by including some additional statements. In the current study, the focus was on misconceptions about behavior analysis held by undergraduat..."]
+      },
+      {
+        "title": "CSF biomarker pathology correlates with a medial temporo-parietal network affected by very mild to moderate Alzheimer's disease but not a fronto-striatal network affected by healthy aging",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["Anders M Fjell", "Inge K Amlien", "Lars T Westlye", "Kristine Walhovd"],
+        "abstract": ["It is suggested that reductions in a medial temporo-parietal episodic memory network characterize Alzheimer's disease (AD), while changes in a fronto-striatal executive network characterize healthy aging. In the present study, magnetic resonance imaging (MRI) was used to test this directly. MRI scans of 372 participants from two samples were analyz..."]
+      },
+      {
+        "title": "The effect of biased and non-biased information on judgments of witness credibility",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Guri Bollingmo", "Ellen Wessel", "Yvonne Sandvold", "Svein Magnussen"],
+        "abstract": ["The effects of biased and non-biased instructions on judgments of the credibility of witnesses, in the present study a female rape victim, were studied. The instructions related to the importance of the emotional expression accompanying her free recall account of the incident that was given with one of three emotional expressions, and either pointe..."]
+      },
+      {
+        "title": "The validity of disorganized behavior as an indicator of schizophrenia in adults with autism and intellectual disability: A single case study",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["T.L. Barken", "Dag Erik Eilertsen", "Nina Aarhus Smeby", "H. Martinsen"],
+        "abstract": ["Schizophrenia in adults with intellectual disability and autism is rarely detected due to the patients' limited ability to report psychotic symptoms, and due to the complex task of differentiating between behavioral problems, psychotic disorders and depression in these patients. Behavioral indicators are therefore needed in the assessment process...."]
+      },
+      {
+        "title": "Treatment failure in psychotherapy: The pull of hostility",
+        "tags": ["Article"],
+        "date": "Aug 2008",
+        "authors": ["Anna von der Lippe", "Jon T Monsen", "Michael Helge Rønnestad", "Dag Erik Eilertsen"],
+        "abstract": ["Client-therapist interactions were studied in 14 positive-change (PC) and 14 negative-change or nonchange (NC) therapies with the same therapists and similar clients. Aggregated structural analysis of social behavior (SASB) scores showed increasingly dissimilar interaction styles between client and therapist in NC therapies. First-lag transition an..."]
+      },
+      {
+        "title": "Effective Communication Related to Psychotic Disorganised Behaviour in Adults with Intellectual Disability and Autism",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Trine Lise Bakken", "Dag Erik Eilertsen", "Nina Aarhus Smeby", "Harald Martinsen"],
+        "abstract": ["Background: Adults with intellectual disability, autism, and psychotic symptoms display severe disorganisation, which affects their ability to communicate and to perform well-known tasks. They display an aggravated loss of ability to initiate interaction with their staff."]
+      },
+      {
+        "title": "Observing Communication Skills in Staff Interacting with Adults Suffering from Intellectual Disability, Autism and Schizophrenia",
+        "tags": ["Article"],
+        "date": "Mar 2008",
+        "authors": ["Trine Lise Bakken", "Dag Erik Eilertsen", "Nina Aarhus Smeby", "Harald Martinsen"],
+        "abstract": ["Background: Related to nursing, co-morbidity of intellectual disability (ID), autism and mental health problems, generate a need for integrated knowledge from both intellectual disability nursing and psychiatric nursing."]
+      },
+      {
+        "title": "Credibility of the emotional witness: A study of ratings by police investigators",
+        "tags": ["Article"],
+        "date": "Jan 2008",
+        "authors": ["Guri C. Bollingmo", "Ellen Wessel", "Dag Erik Eilertsen", "Svein Magnussen"],
+        "abstract": ["Credibility judgments by police investigators were examined. Sixty-nine investigators viewed one of three video-recorded versions of a rape victim's statement where the role was played by a professional actress. The statements were given in a free recall manner with identical wording, but differing in the emotions displayed, termed congruent, neutr..."]
+      },
+      {
+        "title": "Erratum: Treatment failure in psychotherapy: The pull of hostility (IPsychotherapy Research (2008) vol. 18 (4) 420-432))",
+        "tags": ["Article"],
+        "date": "Jan 2008",
+        "authors": ["Anna von der Lippe", "Jon T Monsen", "M.H. Roønnestad", "Dag Erik Eilertsen"],
+        "abstract": []
+      },
+      {
+        "title": "Displayed emotions and witness credibility: A comparison of judgements by individuals and mock juries",
+        "tags": ["Article"],
+        "date": "Dec 2007",
+        "authors": ["Janne Dahl", "Ida Enemo", "Guri C. B. Drevland", "Svein Magnussen"],
+        "abstract": ["Mock juries of 5–7 jurors viewed one of three video-recorded versions of a rape victim's testimony, role-played by a professional actress. The statement was given in a free-recall manner with one of three kinds of emotions displayed, termed congruent, neutral and incongruent emotional expressions. The juries were requested to reach a decision on it..."]
+      },
+      {
+        "title": "Prevalence and predictors of post-traumatic stress disorder (PTSD) in physically injured victims of non-domestic violence. A longitudinal study",
+        "tags": ["Article"],
+        "date": "Aug 2007",
+        "authors": ["Venke A Johansen", "Astrid Klopstad Wahl", "Dag Erik Eilertsen", "Lars Weisæth"],
+        "abstract": ["Victims of violent assault experience diverse post-event emotional problems such as post-traumatic stress disorder (PTSD), and they may have multiple emotional problems. The aim of the present study was to evaluate the prevalence and predictors of PTSD in a longitudinal design.\nThe levels of physical injury, perceived life threat, prior experience..."]
+      },
+      {
+        "title": "Validation of the SASB Introject Surface in a Norwegian Clinical and Nonclinical Sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2007",
+        "authors": ["Jon T Monsen", "Anna von der Lippe", "Odd E Havik", "Dag Erik Eilertsen"],
+        "abstract": ["In this study, we examined the reliability and construct validity of the Structural Analysis of Social Behavior Introject Surface, Intrex long form A (SASB-IS; Benjamin, 1995) in 2 Norwegian samples. The fit of the 8 SASB-IS scales to the structural requirements of a circumplex model with relaxed equal spacing constraints was reasonably good in an..."]
+      },
+      {
+        "title": "The predictive value of post-traumatic stress disorder symptoms for quality of life: A longitudinal study of physically injured victms of non-domestic violence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2007",
+        "authors": ["Venke A Johansen", "Astrid Klopstad Wahl", "Dag Erik Eilertsen", "Berit Rokne"],
+        "abstract": ["Little is known about longitudinal associations between post-traumatic stress disorder (PTSD) and quality of life (QoL) after exposure to violence. The aims of the current study were to examine quality of life (QoL) and the predictive value of post-traumatic stress disorder (PTSD) for QoL in victims of non-domestic violence over a period of 12 mont..."]
+      },
+      {
+        "title": "Credibility of the Emotional Witness: A Study of Ratings by Court Judges",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2006",
+        "authors": ["Ellen Wessel", "Guri C. B. Drevland", "Dag Erik Eilertsen", "Svein Magnussen"],
+        "abstract": ["Previous studies have shown that the emotional behavior displayed during testimony may affect the perceived credibility of the witness. The present study compares credibility ratings by Norwegian court judges with those made by lay people. The participants viewed one of three video-recorded versions of a rape victim's statement, role played by a pr..."]
+      },
+      {
+        "title": "Circumplex Structure and Personality Disorder Correlates of the Interpersonal Problems Model (IIP-C): Construct Validity and Clinical Implications",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2006",
+        "authors": ["Jon T Monsen", "Knut A Hagtvet", "Odd E Havik", "Dag Erik Eilertsen"],
+        "abstract": ["This study assessed the construct validity of the circumplex model of the Inventory of Interpersonal Problems (IIP-C) in Norwegian clinical and nonclinical samples. Structure was examined by evaluating the fit of the circumplex model to data obtained by the IIP-C. Observer-rated personality disorder criteria (DSM-IV, Axis II) were used as external..."]
+      },
+      {
+        "title": "Acute psychological reactions in assault victims of non-domestic violence: Peritraumatic dissociation, post-traumatic stress disorder, anxiety and depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2006",
+        "authors": ["Venke A Johansen", "Astrid Klopstad Wahl", "Dag Erik Eilertsen", "Lars Weisæth"],
+        "abstract": ["The aims of this study were to investigate acute and subacute post-traumatic reactions in victims of physical non-domestic violence. A Norwegian sample of 138 physically assaulted victims was interviewed and a questionnaire was completed. The following areas were examined: the frequency and intensity of acute and subacute psychological reactions su..."]
+      },
+      {
+        "title": "Effects of age on volumes of cortex, white matter and subcortical structures",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Kristine Walhovd", "Anders M Fjell", "Ivar Reinvang", "Bruce Fischl"],
+        "abstract": ["The effect of age was investigated in and compared across 16 automatically segmented brain measures: cortical gray matter, cerebral white matter, hippocampus, amygdala, thalamus, the accumbens area, caudate, putamen, pallidum, brainstem, cerebellar cortex, cerebellar white matter, the lateral ventricle, the inferior lateral ventricle, and the 3rd a..."]
+      },
+      {
+        "title": "Beliefs about child witnesses: A survey of professionals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2004",
+        "authors": ["Annika Melinder", "Gail S. Goodman", "Dag Erik Eilertsen", "Svein Magnussen"],
+        "abstract": ["This research addressed how professionals involved with the legal system evaluate children, primarily between 4 and 8 years old, as witnesses. In particular, we focused on professionals’ beliefs and opinions regarding children's memory, suggestibility, and behaviors as they relate to witness credibility. In addition, we surveyed professionals’ eval..."]
+      },
+      {
+        "title": "Family, activity, and stress reactions in exile",
+        "tags": ["Article"],
+        "date": "Dec 2004",
+        "authors": ["Birgit Lie", "Nora Sveaass", "Dag Erik Eilertsen"],
+        "abstract": ["The possible protective effect of family and activity (including work and employment training) on posttraumatic reactions in traumatized refugees living in a host society was explored. A total of 966 refugees participated in the study, the majority of whom had been exposed to war and/or torture trauma prior to arrival in Norway. The study sample co..."]
+      },
+      {
+        "title": "Cross-cultural Similarities in ADHD-Like Behaviour Amongst South African Primary School Children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2004",
+        "authors": ["Anneke Meyer", "Dag Erik Eilertsen", "Jon Martin Sundet", "Terje Sagvolden"],
+        "abstract": ["This study investigates whether the Disruptive Behaviour Disorders (DBDs) rating scale measures the same constructs in South African as in Western cultures, and explores the differences in scale scores as a function of language, gender and age. Teacher ratings between 1997 and 1999 of the 18 DSM-IV symptoms of Attention-Deficit/Hyperactivity Disord..."]
+      },
+      {
+        "title": "Memory for a staged criminal event witnessed live and on video",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2003",
+        "authors": ["Cecilie Ihlebaek", "Tonja Løve", "Dag Erik Eilertsen", "Svein Magnussen"],
+        "abstract": ["Memory for a staged robbery was tested in two groups of participants witnessing the event either live (n = 62) or on video (n = 64). Immediately after the event participants filled out a questionnaire probing memory with emphasis on the timing of the event and robber characteristics. The results showed that participants who watched a video recordin..."]
+      },
+      {
+        "title": "[Prediction of developmental problems and functional disabilities in infancy]",
+        "tags": ["Article"],
+        "date": "Feb 2000",
+        "authors": ["A M Rostad", "H Martinsen", "Dag Erik Eilertsen", "O Kjelsvik"],
+        "abstract": ["Methods to identify developmental problems in children have been requested for a long time. We wanted to find out whether high scores of cumulative non-optimality during infancy indicated disability or developmental problems. In a prospective study, a population of children (n = 1,217) was followed from pregnancy until the age of four. Medical, mot..."]
+      },
+      {
+        "title": "Ratings of high quality interactions by professionals: Similarities despite differences in theoretical orientation",
+        "tags": ["Article"],
+        "date": "Sep 1999",
+        "authors": ["Willy-Tore Mørch", "Dag Erik Eilertsen", "John Golden", "S.C. Cross"],
+        "abstract": ["Two groups of mental retardation professionals, one with a behavioral theoretical background and one with an eclectic theoretical background, were asked to evaluate the quality of videotaped interactions between direct care staff and individuals with mental retardation. A five-point Likert scale combined with the Training Proficiency Scale (Watson,..."]
+      },
+      {
+        "title": "The extended Staff Observation Aggression Scale (SOAS-E): Development, presentation and evaluation",
+        "tags": ["Article"],
+        "date": "Jul 1998",
+        "authors": ["A Hallsteinsen", "M Kristensen", "Alv A. Dahl", "Dag Erik Eilertsen"],
+        "abstract": ["The Staff Observation Aggression Scale (SOAS) was developed as a scale for reporting aggressive incidents involving psychiatric in-patients. The SOAS -- Extended Version (SOAS-E) has the same aim, but has additional categories and subcategories. The SOAS-E clearly distinguishes between violent and non-violent aggressive behaviour and characterizes..."]
+      },
+      {
+        "title": "Changes in heritability across increasing levels of behavior in young twins",
+        "tags": ["Article"],
+        "date": "Aug 1996",
+        "authors": ["Helene Gjone", "Jim Stevenson", "Jon Martin Sundet", "Dag Erik Eilertsen"],
+        "abstract": ["The present study addresses the issue of differential heritability with increasing severity of parent-reported internalizing and externalizing behavior problems assessed by the Child Behavior Checklist. The sample includes 526 identical and 389 fraternal samesexed twin pairs from five national birth cohorts, aged 5–6, 8–9, and 12–15 years. Heritabi..."]
+      },
+      {
+        "title": "Affects and affect consciousness: Initial experiences with the assessment of affect integration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 1996",
+        "authors": ["Jon T Monsen", "Dag Erik Eilertsen", "T Melgård", "P Odegård"],
+        "abstract": ["Affect consciousness (AC) was operationalized as degrees of awareness, tolerance, nonverbal expression, and conceptual expression of nine specific affects. A semistructured interview (ACI) and separate scales were developed to assess these aspects of affect integration. Their psychometric properties were preliminarily explored by having 20 former p..."]
+      },
+      {
+        "title": "The Effect of Sex Education on Adolescents' Use of Condoms: Applying the Solomon Four-Group Design",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 1996",
+        "authors": ["Ingela Lundin Kvalem", "Jon Martin Sundet", "Kate I. Rivø", "Leiv S. Bakketeig"],
+        "abstract": ["A school-based sex education program was developed in order to prevent sexually transmitted diseases and unwanted pregnancies. A Solomon four-group design, with random assignment to the different conditions, was used to evaluate an intervention based on cognitive social learning theory and social influence theory. The main goal of the intervention..."]
+      },
+      {
+        "title": "Personality disorders and psychosocial changes after intensive psychotherapy: A prospective follow-up study of an outpatient psychotherapy project, 5 years after end of treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 1995",
+        "authors": ["Jon T Monsen", "Torleiv Odland", "Anne Faugli", "Dag Erik Eilertsen"],
+        "abstract": ["This report presents the results of a 7-year prospective outcome study designed to examine the psychosocial changes during and after therapy among 25 outpatients suffering from personality disorders and psychoses. The therapeutic approach was based mainly on object relations theory and psychodynamic self-psychology, and focused in particular on aff..."]
+      },
+      {
+        "title": "Personality Disorders: Changes and Stability after Intensive Psychotherapy Focusing on Affect Consciousness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 1995",
+        "authors": ["Jon T Monsen", "Thorleiv Odland", "Anne Faugli", "Dag Erik Eilertsen"],
+        "abstract": ["Twenty-five patients participated in a prospective follow-up study at an outpatient psychotherapy unit specializing in treating patients with personality disorders and psychosis. The therapeutic approach was broadly based on object relations theory and psychodynamic self-psychology, and was focused in particular on affect consciousness, parental im..."]
+      },
+      {
+        "title": "No differential heritability of intelligence test scores across ability levels in Norway",
+        "tags": ["Article"],
+        "date": "Jul 1994",
+        "authors": ["Jon Martin Sundet", "Dag Erik Eilertsen", "Kristian Tambs", "Per Magnus"],
+        "abstract": ["The possibility of differential heritability of intelligence test scores across levels of ability has been raised in several recent reports. In the present paper intelligence test data from 862 monozygotic and 1325 dizygotic male twin pairs tested at about 19 years of age were analyzed in search for changes in heritability and shared environmentali..."]
+      },
+      {
+        "title": "The influence of management training upon organizational climate: An exploratory study",
+        "tags": ["Article"],
+        "date": "Sep 1991",
+        "authors": ["Paul Moxnes", "Dag Erik Eilertsen"],
+        "abstract": ["The influence of three management training programs (MT) for first line supervisors (foremen) upon organizational climate were evaluated using a questionnaire design with repeated testing and statistical controls. The main objective for two of the three MT programs under study was to change the organizational climate in a direction that would facil..."]
+      },
+      {
+        "title": "Prosjekt for oppbygging av knutepunkt for autisme og psykiske lidelser hos voksne",
+        "tags": ["Article"],
+        "authors": ["Trine Lise Bakken", "Sissel Berge Helverschou", "Jarle Eknes", "Harald Martinsen"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "publications": [57],
+    "reads": [23787],
+    "citations": [2429]
   }
 }

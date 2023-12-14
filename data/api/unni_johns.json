@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Unni Johns",
-    "id": "404358",
+    "name": ["Unni Johns"],
+    "id": ["404358"],
     "keywords": [],
     "position": ["Emeritus"],
     "img": {},
@@ -117,5 +117,544 @@
         "url": "https://api.cristin.no/v2/results/1639388"
       }
     ]
+  },
+  "rg": {
+    "id": "Narayanan-Unni",
+    "name": "Narayanan Unni",
+    "img": "https://i1.rgstatic.net/ii/profile.image/708691191926784-1545976555902_Q128/Narayanan-Unni.jpg",
+    "affiliation": "National Institute for Interdisciplinary Science and Technology | NIIST, National Institute for Interdisciplinary Science and Technology, Photosciences and Photonics",
+    "keywords": ["Solid State Physics", "Thin Films"],
+    "works": [
+      {
+        "title": "Investigating mass transport and recombination as a function of structural variation in dye-sensitized solar cells employing indole fused heterocyclic organic sensitizers and cobalt electrolytes",
+        "tags": ["Article"],
+        "date": "Dec 2023",
+        "authors": ["Jayadev Velore", "Sourava Chandra Pradhan", "P.R. Nitha", "Suraj Soman"],
+        "abstract": []
+      },
+      {
+        "title": "Substituent-Controlled Photophysical Responses in Dihydropyridine Derivatives and Their Application in the Detection of Volatile Organic Contaminants",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["S. Shurooque Kanneth", "Diana Mathew", "Pattiyil Parameswaran", "Lakshmi Chakkumkumarath"],
+        "abstract": []
+      },
+      {
+        "title": "Thermally Activated Delayed Fluorescent Solvent-free Organic Liquid Hybrids for Tunable Emission Applications",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Aakash Nidhankar", "Premkumar Anil Kothavade", "Sangram Dongre", "Santhosh Sukumaran Babu"],
+        "abstract": ["The synthetic feasibility and excellent luminescence features of organic molecules attracted much attention and were eventually found useful in lighting applications. In this context, a solvent-free organic liquid having attractive thermally activated delayed fluorescence features in bulk along with high processability has prime importance. Herein,..."]
+      },
+      {
+        "title": "Synergetic effect of TiO 2 /ZnO bilayer photoanodes realizing exceptionally high V OC for dye-sensitized solar cells under outdoor and indoor illumination",
+        "tags": ["Article"],
+        "date": "Jan 2023",
+        "authors": ["Anooja Jagadeesh", "Ganapathy Veerappan", "Parukuttyamma Sujatha Devi", "Suraj Soman"],
+        "abstract": ["Harnessing energy from the surrounding light using indoor photovoltaics has gained momentum to address the carbon footprint resulting from used and dead batteries. Dye-sensitized solar cells (DSCs) has emerged as..."]
+      },
+      {
+        "title": "New boomerang-shaped host materials for phosphorescent organic light-emitting diodes",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Ishita Neogi", "Vibhu Darshan", "Amrutham Linet", "Narayanan Unni"],
+        "abstract": ["Inspite of being a good triplet sensitizer, benzophenones are not useful as host materials for phosphorescent organic light-emitting diodes (PhOLEDs), primarily due to their low thermal stability. In this work, we have addressed this shortcoming by judicial tethering of benzoyl units onto different positions of a rigid Tröger’s base (TB) scaffold t..."]
+      },
+      {
+        "title": "Amplified Spontaneous Emission from Zwitterionic Excited-State Intramolecular Proton Transfer",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Atul Shukla", "Van Thi Ngoc Mai", "Velayudhan V. Divya", "Shih-Chun Lo"],
+        "abstract": ["The unique four-level photocycle characteristics of excited-state intramolecular proton transfer (ESIPT) materials enable population inversion and large spectral separation between absorption and emission through their respective enol and keto forms. This leads to minimal or no self-absorption losses, a favorable feature in acting as an optical gai..."]
+      },
+      {
+        "title": "Can mixed anion transition metal dichalcogenide electrodes enhance the performance of electrochemical energy storage devices? The case of MoS2xSe2(1-x)",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Manuraj Mohan", "Visakh V. Mohan", "S. Assa Aravindh", "Raghavan Baby Rakhi"],
+        "abstract": ["A significant enhancement in performance of electrochemical energy storage devices has been achieved by optimizing the S:Se ratio in electrodes made from MoS2xSe2(1-x) alloys synthesized through a facile hydrothermal technique. In symmetric two electrode configuration, the transition metal dichalcogenide with S: Se ratio of 1:1 exhibits a battery t..."]
+      },
+      {
+        "title": "Understanding Mass Transport in Copper Electrolyte-Based Dye-Sensitized Solar Cells",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Jayadev Velore", "Sourava Chandra Pradhan", "Thomas William Hamann", "Suraj Soman"],
+        "abstract": ["Copper redox shuttles, particularly [Cu(tmby)2]2+/1+ (tmby = bis(4,4′,6,6′-tetramethyl-2,2′-bipyridine)), proved to be among the best electrolytes for dye-sensitized solar cells (DSCs), realizing higher power conversion efficiencies both under full sun and indoor illumination than conventional iodide/triiodide and cobalt electrolytes. Even though [..."]
+      },
+      {
+        "title": "Visible-blind UV photodetectors using a polymer/ZnO nanocomposite thin film",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Hanna Babu", "Lekshmi R Pillai", "Kavya Rajeev", "Narayanan Unni"],
+        "abstract": ["We report the fabrication and characterization of visible-blind UV photodetectors using thin films of polymer/zinc oxide (ZnO) nanocomposites. Polymer-ZnO nanocomposites based on three polymers, poly(methyl methacrylate)(PMMA), polystyrene(PS) and poly(vinylidene difluoride-trifluoroethylene(P(VDF-TrFE)) were studied. The electrical response of the..."]
+      },
+      {
+        "title": "Polymer electret based organic field-effect transistor memory with a solution processable bilayer (PαMS/ cross-linked PVP) gate dielectric",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Rajeev VR", "Narayanan Unni"],
+        "abstract": ["Pentacene based organic field-effect transistors (OFETs) were fabricated, with both cross-linked poly vinyl phenol (CL-PVP) and a bilayer of poly(α-methylstyrene) ( PαMS )/ CL-PVP as gate dielectric. The PαMS layer decreases the surface energy of the gate dielectric and increases the hydrophobic nature, which leads to favourable growth of pentacene..."]
+      },
+      {
+        "title": "Enhanced light extraction from organic light emitting diodes using a flexible polymer-nanoparticle scattering layer",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Anjali K. Sajeev", "Nishkarsh Agarwal", "Anjaly Soman", "Narayanan Unni"],
+        "abstract": ["Efficient optical outcoupling from Organic Light Emitting Diodes (OLEDs) is an important challenge in solid state lighting technology. In this work, the effect of an external light extraction layer, prepared using polydimethylsiloxane (PDMS) and zinc oxide (ZnO) nanoparticles, was studied on the performance of red, green, blue and white OLEDs. The..."]
+      },
+      {
+        "title": "Influence of Polymer Gate Dielectric on Organic Field‐Effect Transistors: Interdependence of Molecular Weight, Solvent Polarity and Surface Energy‐ A Case Study with PMMA and Pentacene",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Rajeev V R", "Sradha S. Pillai", "Jean-Michel Nunzi", "Narayanan Unni"],
+        "abstract": ["The semiconductor/dielectric interface controls the performance of organic field-effect transistors (OFETs). Herein, we systematically investigated the influence of both the molecular weight and the polarity of the solvent of a poly(methyl methacrylate) (PMMA)-based gate dielectric on the performance of pentacene OFETs, by studying surface energy,..."]
+      },
+      {
+        "title": "Indoor Light Harvesting Dye-sensitized Solar Cells Surpassing 30% Efficiency without Co-sensitizers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Reethu Haridas", "Jayadev Velore", "Sourava Chandra Pradhan", "Ayyappanpillai Ajayaghosh"],
+        "abstract": ["Dye-sensitized solar cells (DSCs) have proven to be one of the best photovoltaic approaches for harnessing indoor/artificial light. Herein, we report two new molecularly engineered, cost-effective, metal-free, carbazole-based D-π-A sensitizers (YK 8 and YK 9) by judiciously varying their π-spacers, which are suitable for indoor photovoltaic applica..."]
+      },
+      {
+        "title": "White Organic Light-Emitting Diodes from Single Emissive Layers: Combining Exciplex Emission with Electromer Emission",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["C. K. Vipin", "Atul Shukla", "Kavya Rajeev", "Narayanan Unni"],
+        "abstract": []
+      },
+      {
+        "title": "ZnO hierarchical structures as sacrificial inclusions for enhanced performance under full sun and indoor light in bifacial dye sensitized solar cells",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Swetha Sasidharan", "Anooja Jagadeesh", "Sourava Chandra Pradhan", "U S Hareesh"],
+        "abstract": ["We have already demonstrated a facile strategy for improving light scattering in bifacial dye sensitized solar cells (DSSCs) through fugitive inclusions of ZnO micro-flowers leading to enhanced photovoltaic performance without adversely affecting the transparency (Sasidharan et al., 2020). In the present work, we were able to further ameliorate the..."]
+      },
+      {
+        "title": "Enhanced performance of room temperature ammonia sensors using morphology-controlled organic field-effect transistors",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Vibhu Darshan", "Rajeev V R", "Narayanan Unni"],
+        "abstract": ["Developing electronic sensors for ammonia (NH3) is very useful for environmental monitoring and diagnostic purposes. In this work, a highly sensitive, organic field-effect transistor (OFET) based, room temperature sensor for NH3 has been fabricated using dinaphtho[2,3-b:2′,3′-f]thieno[3,2-b]thiophene (DNTT), which showed a fast response to low conc..."]
+      },
+      {
+        "title": "An efficient and facile method to develop defect-free OLED displays",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Ankur Solanki", "Asha Awasthi", "Narayanan Unni", "Deepak"],
+        "abstract": ["Organic light emitting diodes (OLEDs) have captured the attention of the flat-panel display market owing to their high luminescence and versatile properties. However, substrate processing plays a critical part in the fabrication of OLED displays, demonstrated here as a passive matrix display, where plenty of defects, which appear during the process..."]
+      },
+      {
+        "title": "Natural rubber (Hevea Brasiliensis)-based quasi-solid electrolyte as a potential candidate for arresting recombination and improving performance in aqueous dye-sensitized solar cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Koffi A. Kamenan", "Anooja Jagadeesh", "Raymond Kre N’Guessan", "Narayanan Unni"],
+        "abstract": ["We successfully fabricated dye sensitized solar cells (DSSCs) employing a quasi-solid state electrolyte based on pristine insulator natural rubber latex from Hevea brasiliensis and iodide electrolyte. Optimized devices exhibited a maximum power conversion efficiency (PCE) of 1.14% under simulated sunlight with 90 mW/cm2 illumination, 0.46% under 10..."]
+      },
+      {
+        "title": "Correction to: Natural rubber (Hevea Brasiliensis)-based quasi-solid electrolyte as a potential candidate for arresting recombination and improving performance in aqueous dye-sensitized solar cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Koffi A. Kamenan", "Anooja Jagadeesh", "Raymond Kre N’Guessan", "Narayanan Unni"],
+        "abstract": ["A correction to this paper has been published: https://doi.org/10.1007/s10854-021-06180-2"]
+      },
+      {
+        "title": "Structural Integration of Carbazole and Tetraphenylethylene: Ultrafast Excited‐State Relaxation Dynamics and Efficient Electroluminescence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Sarah K. M. McGregor", "Chinju Govind", "Michael K. R. Wood", "Shih-Chun Lo"],
+        "abstract": ["We report the synthesis, characterisation, and spectroscopic investigations of a new solution‐processable N‐styrylcarbazole‐linked tetraphenylethylene (TPE) derivative (TPE‐BCzS), exhibiting green‐orange emission. While the material displayed weak photoluminescence in solution with a low photoluminescence quantum yield (PLQY of 4±0.2%), significant..."]
+      },
+      {
+        "title": "Corrigendum to“Ammonia gas detection using field-effect transistor based on a solution-processable organic semiconductor” [Vacuum 158 (2018) 271–277]",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Rajeev V R", "Akhil K Paulose", "Narayanan Unni"],
+        "abstract": []
+      },
+      {
+        "title": "Correction: Indolo[3,2- b ]indole donor-based D–π–A dyes for DSCs: investigating the role of π-spacers towards recombination",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["P. V. Santhini", "Jayadev Velore", "Sourava Chandra Pradhan", "Suraj Soman"],
+        "abstract": ["Correction for ‘Indolo[3,2- b ]indole donor-based D–π–A dyes for DSCs: investigating the role of π-spacers towards recombination’ by P. V. Santhini et al. , New J. Chem. , 2019, 43 , 862–873, DOI: 10.1039/C8NJ04561E."]
+      },
+      {
+        "title": "Bifacial Dye-Sensitized Solar Cells with Enhanced Light Scattering and Improved Power Conversion Efficiency under Full Sun and Indoor Light Conditions",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Swetha Sasidharan", "Sourava Chandra Pradhan", "Anooja Jagadeesh", "U S Hareesh"],
+        "abstract": ["Improved photovoltaic performance under full sun (100 mW cm-2) and indoor light (1000 lux, CFL) conditions were achieved in dye-sensitized solar cells (DSSCs) through surface texturing of TiO2 photoanodes. Herein, surface roughness/imprints in the TiO2 layer was introduced through fugitive inclusions of ZnO microflowers leading to enhanced light sc..."]
+      },
+      {
+        "title": "MoSe2 nanoflowers as efficient electrode materials for supercapacitors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Manuraj Mohan", "S. Jyothilakshmi", "Narayanan Unni", "Raghavan Baby Rakhi"],
+        "abstract": ["Herein, we report a facile hydrothermal synthesis of MoSe2 nanoflowers composed of several MoSe2 nanosheets for electrochemical energy storage. As an electrode material of supercapacitor, MoSe2 nanoflower exhibits high specific capacitance (95 Fg⁻¹) and excellent cycling stability (90% after 10,000 cycles) due to their porous morphology, indicating..."]
+      },
+      {
+        "title": "Aerogels of V2O5 nanowires reinforced by polyaniline for electromagnetic interference shielding",
+        "tags": ["Article"],
+        "date": "Oct 2020",
+        "authors": ["Aparna P N", "Narayanan Unni", "Surendran K. Peethambharan"],
+        "abstract": ["Green electromagnetic interference (EMI) shielding materials are the most promising among EM wave attenuating solutions because of their less environmental hazard resulting from efficiently attenuating spurious waves with minimal secondary reflection. Against this background, the present paper reports a facile strategy for developing green and ultr..."]
+      },
+      {
+        "title": "Opto-electronic properties of solution-processed zinc oxide thin films: role of solvents and doping",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Hanna Babu", "Manuraj Mohan", "Surendran K. Peethambharan", "Narayanan Unni"],
+        "abstract": ["Undoped zinc oxide (ZnO) and nitrogen-doped zinc oxide (NZO) thin films were prepared on transparent conducting oxide-coated glass substrates by employing sol–gel technique. The effect of different solvents and nitrogen doping on the optical, structural, and electrical properties was investigated by UV–visible absorption spectroscopy, atomic force..."]
+      },
+      {
+        "title": "Butterfly‐Shaped Thiophene‐Pyridine Hybrids: Green Electroluminescence and Large Third‐Order Optical Nonlinearities",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["Udaya Kumar Dalimba", "Viprabha Kakekochi", "Sathish C G", "Narayanan Unni"],
+        "abstract": ["A set of four symmetric, butterfly‐shaped 4‐(4‐(decyloxy)phenyl)‐2,6‐di(thiophen‐2‐yl)pyridine (TPY) derivatives viz ., 2TPA‐TPY containing TPY moiety at the center and triphenylamine units as end groups, 2CBZ‐TPY possessing TPY moiety at the center and N‐ethyl carbazole units as end groups, 2TPy‐TPA comprising triphenylamine unit at the center wit..."]
+      },
+      {
+        "title": "Heterostructured MoS2-RuO2 nanocomposite: A promising electrode material for supercapacitors",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Manuraj Mohan", "Jomiya Chacko", "Narayanan Unni", "Raghavan Baby Rakhi"],
+        "abstract": ["A heterostructured nanocomposite material consisting of MoS2 nanowires and RuO2 nanoparticles has been synthesized by an easy hydrothermal method and a simple chemical reduction technique followed by a calcination process. For the first time, the electrochemical performance of the as-prepared RuO2 nanoparticle dispersed MoS2 hybrid composite has be..."]
+      },
+      {
+        "title": "Reversible Shift from Excitonic to Excimer Emission in Fluorescent Organic Light-Emitting Diodes: Dependence on Deposition Parameters and Electrical Bias",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Anjaly Soman", "Anjali K. Sajeev", "Kavya Rajeev", "Narayanan Unni"],
+        "abstract": ["Organic light-emitting diodes (OLEDs), in general, require multilayer devices and microcavity structures for emission tuning, which increases the complexity and cost of production. Hence, it is imperative to develop techniques for spectral tuning, which employ simplified device structures. In this study, we have selected a tris(8-hydroxyquinolinato..."]
+      },
+      {
+        "title": "High performance supercapacitors based on MoS2 nanostructures with near commercial mass loading",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Manuraj Mohan", "K.V. Kavya Nair", "Narayanan Unni", "Raghavan Baby Rakhi"],
+        "abstract": ["In this work MoS2 nanostructures with near commercial mass loading (30 mg cm⁻²) are grown over Ni foam substrates by a simple hydrothermal process conducted at different growth times. MoS2 nanorods in a brush-like arrangement grown over Ni foam obtained after 36 h exhibit excellent electrochemical performance in three electrode measurements with a..."]
+      },
+      {
+        "title": "Variation of Donor and Acceptor in D-A-π-A based Cyanopyridine Dyes and its effect on Dye Sensitized Solar Cells",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Hemavathi B", "Jayadev Velore", "Praveen Ramamurthy", "Balakrishna R Geetha"],
+        "abstract": ["Two metal free organic dyes (TPCTh and TPCRh) with D-A-π-A configuration, having 3-cyanopyridine as auxiliary acceptor, thiophene π-linkers along with triphenylamine donor and cyanoacetic acid /rhodanine-3-acetic acid anchoring groups were successfully synthesized and utilized as sensitizers in the fabrication of dye-sensitized solar cells (DSSCs)...."]
+      },
+      {
+        "title": "Solution Processable Deep-Red Phosphorescent Pt(II) Complex: Direct Conversion from Its Pt(IV) Species via a Base Promoted Reduction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Ilene Allison", "Hyunsoo Lim", "Atul Shukla", "Shih-Chun Lo"],
+        "abstract": ["Color purity is a critical prerequisite for full color displays. Creation of deep-red phosphorescent materials with high PLQYs is particularly challenging because of “energy gap law”. Simultaneously achieving high yielding solution-processable Pt(II) complexes further complicates this challenge. In this report, we developed a high-yielding syntheti..."]
+      },
+      {
+        "title": "Enhancement in electron transport and exciton confinement in OLEDs: role of n-type doping and electron blocking layers",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Anjaly Soman", "Narayanan Unni"],
+        "abstract": ["Doped transport layers are essential for achieving high efficiency in organic light emitting diodes (OLEDs). We have studied the effect of doping the electron transport layer (ETL), tris-(8-hydroxyquinoline) aluminum (Alq 3 ) with different percentages of lithium fluoride (LiF). We have also studied the effect of different electron blocking layers..."]
+      },
+      {
+        "title": "Directed Assembly of Hierarchical Supramolecular Block Copolymers: A Strategy To Create Donor–Acceptor Charge-Transfer Stacks",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Deepthi Krishnan", "Raj R. B. Amal", "Rajeev V R", "Bhoje Gowd Erathimmanna"],
+        "abstract": ["The hierarchical self-assembly of the charge-transfer (CT) complexes in the solid state is of paramount importance to dictate the performance of electronic devices. In this work, we describe a three-component hierarchical self-assembly approach to generate stable alternate donor-acceptor (D-A) assemblies within block copolymer microdomains by invol..."]
+      },
+      {
+        "title": "Hole mobility in thieno[3,2-b]thiophene oligomers",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Vladimir V. Malov", "Tanwistha Ghosh", "Vijayakumar Chakkooth", "A. R. Tameev"],
+        "abstract": ["A study of transient and steady state electrical currents in the solution-processed thin films of thieno[3,2-b]thiophene oligomers has demonstrated charge carrier mobility of about 10 ⁻² cm ² V ⁻¹ s ⁻¹ . Thieno[3,2-b]thiophene moieties serve as reasonable charge transport sites providing the high mobility. Varying end alkyl chains in such oligomers..."]
+      },
+      {
+        "title": "\"Indolo[3,2-b]indole donor based D-π-A dyes for DSCs: Investigating the role of π-spacers towards recombination",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["P. V. Santhini", "Jayadev Velore", "Sourava Chandra Pradhan", "Suraj Soman"],
+        "abstract": ["Dye solar cells (DSCs) are gaining increased interest since the recent realization of its high-performance potential in low/indoor light environments. Fused conjugated metal-free organic dyes have become a prominent class of dyes to be used\nin DSC in recent times by virtue of its better backbone rigidity, efficient charge transport properties, and..."]
+      },
+      {
+        "title": "Low temperature-processed ZnO thin films for p–n junction-based visible-blind ultraviolet photodetectors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Hanna Babu", "Surendran K. Peethambharan", "Narayanan Unni"],
+        "abstract": ["Ultraviolet (UV) photodetectors have drawn extensive attention due to their numerous applications in both civilian and military areas including flame detection, UV sterilization, aerospace UV monitoring, missile early warning, and ultraviolet imaging. Zinc oxide (ZnO)-based UV detectors exhibit remarkable performance; however, many of them are not..."]
+      },
+      {
+        "title": "2D organic-inorganic hybrid composite material as a high-performance supercapacitor electrode",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["Manuraj Mohan", "Narayanan Unni", "Raghavan Baby Rakhi"],
+        "abstract": ["2D layered graphene and inorganic graphene analogue structures are attracting considerable research interest as electrode materials of energy storage devices due to their intrinsic electronic properties. Herein, we report the preparation of few-layered MoS2 nanosheets by exfoliation from bulk for electrochemical application. A nanocomposite contain..."]
+      },
+      {
+        "title": "Aggregation induced light harvesting of molecularly engineered D-A-π-A carbazole dyes for dye-sensitized solar cells",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Hemavathi B", "Jayadev Velore", "Sourava Chandra Pradhan", "R. Geetha Balakrishna"],
+        "abstract": ["Novel class of metal free organic dyes (CCTh and CCBz) with D-A-π-A configuration, having carbazole as donor\nand 3-cyanopyridine as auxiliary acceptor replacing conventional benzannulated heterocycles along with variable\nπ-linkers were synthesized and used in dye-sensitized solar cells (DSSCs). Both the dyes are having cyanoacrylic\nacid as the anch..."]
+      },
+      {
+        "title": "Ammonia gas detection using field-effect transistor based on a solution-processable organic semiconductor",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Rajeev V R", "Akhil K Paulose", "Narayanan Unni"],
+        "abstract": []
+      },
+      {
+        "title": "Physicochemical Studies on Nafion® Modified ZnO Interlayers for Enhanced Electron Transport in the Inverted Polymer Solar Cells",
+        "tags": ["Article"],
+        "date": "Sep 2018",
+        "authors": ["Remya Ravi", "P. T. G. Gayathri", "Narayanan Unni", "Biswapriya Deb"],
+        "abstract": ["Electron selective intermediate layers are crucial for both efficiency and stability of the inverted polymer solar cells (I‐PSCs). In this paper, an established low‐temperature (<130 °C) recipe to fabricate nano zinc oxide (ZnO) layers (L‐ZnO) exhibited typical values of power conversion efficiency (PCE∼3.3%) with the standard P3HT:PC61BM blend. Ho..."]
+      },
+      {
+        "title": "Addressing the efficiency roll-off in a fluorescent OLED by facile electron transport layer doping and carrier confinement",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Anjaly Soman", "Manuraj Mohan", "Narayanan Unni"],
+        "abstract": ["Organic light emitting diodes (OLEDs) often face the issue of decreasing power efficiency with increasing brightness. Loss of charge carrier balance is one of the factors contributing to the efficiency roll-off. We demonstrate that by using a combination of doped electron transport layer (ETL) and a specially chosen electron blocking layer (EBL) ha..."]
+      },
+      {
+        "title": "Solution Processable Carbazole Derivatives for Dopant Free Single Molecule White Electroluminescence by Room Temperature Phosphorescence",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Athira Krishna", "Vibhu Darshan", "Cherumuttathu H Suresh", "Ramavarma Luxmi Varma"],
+        "abstract": ["White electroluminescence from a single molecule is a challenging topic in organic light emitting diode (OLED) research. Herein, we report the white light emission from a carbazole derivative, 9-ethyl-3,6-bis(4-(trifluoromethyl)phenyl)-carbazole (Cz(PhCF3)2), by harvesting both singlet and triplet emissions. The blue fluorescence and a broad emissi..."]
+      },
+      {
+        "title": "Simple solution processable carbazole-oxadiazole hybrids for un-doped deep-blue OLEDs",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Shameel Thurakkal", "Anjaly Soman", "Narayanan Unni", "Danaboyina Ramaiah"],
+        "abstract": ["Development of new efficient luminescent materials is one of the active research areas of interest due to its promising optoelectronic applications including in organic light emitting devices (OLEDs). Among the various luminescent systems, emitters of deep blue electroluminescence with excellent color purity have great deal of importance as these a..."]
+      },
+      {
+        "title": "Design and synthesis of solution processable green fluorescent D-π-A dyads for OLED applications",
+        "tags": ["Article"],
+        "date": "Feb 2018",
+        "authors": ["Danaboyina Ramaiah", "Shameel Thurakkal", "Sanju Krishnankutty", "Joshy Joseph"],
+        "abstract": ["New solution processable organic donor-π-acceptor dyads 1 and 2 having electron donating phenoxazine and accepting oxadiazole groups have been synthesized. Intramolecular electron communication between the donor and acceptor moieties of these dyads was tuned through changing the substitution pattern at the phenylene linker. The photophysical proper..."]
+      },
+      {
+        "title": "Photokinetic study on remarkable excimer phosphorescence from heteroleptic cyclometalated platinum(II) complexes bearing a benzoylated 2-phenylpyridinate ligand",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Naoki Okamura", "Takeshi Maeda", "Hideki Fujiwara", "Shigeyuki Yagi"],
+        "abstract": ["Novel heteroleptic cyclmetalated platinum(II) complexes consisting of 5’-benzoylated 2-phenylpyridinate (ppy) cyclometalated and acetylacetonate ancillary ligands were synthesized, and their photoluminescence (PL) properties were investigated. The 5’-benzoylated complex without any other substituents exhibited phosphorescence-based monomer emission..."]
+      },
+      {
+        "title": "Fine tuning of compact ZnO blocking layers for enhanced photovoltaic performance in ZnO based DSSCs: a detailed insight using β recombination, EIS, OCVD and IMVS techniques",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Swetha Sasidharan", "Suraj Soman", "Sourava Chandra Pradhan", "U S Hareesh"],
+        "abstract": ["The electron-hole recombination and back electron flow at the conducting oxide-mesoporous film interface in dye-sensitized solar cells (DSSCs) are addressed primarily by the use of pre-blocking layers. Herein, the effects of zinc oxide (ZnO) blocking layers (BLs) on the photovoltaic performance of ZnO based DSSCs are investigated in detail using el..."]
+      },
+      {
+        "title": "Effect of the electric field during annealing of organic light emitting diodes for improving its on/off ratio",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Rahul K Sharma", "Monica Katiyar", "I V Kameshwar Rao", "Deepak"],
+        "abstract": ["If an organic light emitting diode is to be used as part of a matrix addressed array, it should exhibit low reverse leakage current. In this paper we present a method to improve the on/off ratio of such a diode by simultaneous application of heat and electric field post device fabrication. A green OLED with excellent current efficiency was seen to..."]
+      },
+      {
+        "title": "Organic Electronics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Narayanan Unni", "Himadri Majumdar", "Manoj A. G. Nambuthiry"],
+        "abstract": []
+      },
+      {
+        "title": "New processing technique of photolithography to make defect free organic light emitting diode display",
+        "tags": ["Patent"],
+        "date": "Aug 2012",
+        "authors": ["Ankur Solanki", "Asha Awasthi", "Narayanan Unni", "Prof. Deepak Gupta"],
+        "abstract": []
+      },
+      {
+        "title": "Detection of Physical Defects in Full Color Passive-Matrix OLED Display by Image Driving Techniques",
+        "tags": ["Article"],
+        "date": "Mar 2012",
+        "authors": ["Pankaj Uttwani", "Boby Chaitanya", "Narayanan Unni", "Deepak"],
+        "abstract": ["Access to display pixels for the purpose of identification\nof a defect in a sealed display is difficult. Thus, it will be useful to investigate\nthe physical defects in a passive-matrix organic light-emitting diode (PMOLED)\ndisplay, such as electrically open anode or cathode, shorted anode or cathode\nor pixel short by driving the display as red, blu..."]
+      },
+      {
+        "title": "Improving the contrast ratio of OLED displays: An analysis of various techniques",
+        "tags": ["Article"],
+        "date": "Feb 2012",
+        "authors": ["Ranbir Singh", "Narayanan Unni", "Ankur Solanki", "Deepak"],
+        "abstract": []
+      },
+      {
+        "title": "Improved performance of a fluorescent blue organic light emitting diode with hole blocking materials as dopants for transport layers",
+        "tags": ["Article"],
+        "date": "Jan 2010",
+        "authors": ["Gulan Samal", "Narayanan Unni", "S. Bharat", "Deepak"],
+        "abstract": ["Realizing a highly efficient deep blue organic light emitting diode (OLED) with sufficient life time is the biggest challenge in the fabrication of full color OLED displays. Using hole blocking layers (HBL) has been an established technique to confine excitons or carriers in the recombination region. In the present work, we have doped the hole tran..."]
+      },
+      {
+        "title": "Improved efficiency in fluorescent blue organic light emitting diode with a carrier confining structure",
+        "tags": ["Article"],
+        "date": "Nov 2009",
+        "authors": ["Gulan Samal", "Narayanan Unni", "Saswat Bharat", "Deepak"],
+        "abstract": ["A blue organic light emitting device (OLED) with improved efficiency and good color purity is reported. The highest occupied molecular orbital (HOMO) level of the hole transport layer (HTL) and that of the emissive layer (EML) differs by 0.3 eV. This energy level mismatch confines the carriers at the HTL/EML interface. Conventional devices have onl..."]
+      },
+      {
+        "title": "Influence of the polymer dielectric characteristics on the performance of pentacene organic field-effect transistors",
+        "tags": ["Article"],
+        "date": "Feb 2008",
+        "authors": ["Narayanan Unni", "Sylvie Dabos-Seignon", "Ajay K. Pandey", "Jean-Michel Nunzi"],
+        "abstract": ["Organic field-effect transistors were fabricated with pentacene as the active material and different polymeric dielectrics such as cyanoethylpullulan, poly(4-vinyl phenol), polymethylmethacrylate, parylene-C and polyimide as the gate material. The performance of the devices is compared with respect to the parameters, field-effect mobility, threshol..."]
+      },
+      {
+        "title": "Pentacene/Perylene co-deposited solar cells",
+        "tags": ["Article"],
+        "date": "Jul 2006",
+        "authors": ["Ajay K. Pandey", "Narayanan Unni", "Jean-Michel Nunzi"],
+        "abstract": ["Solar cells were fabricated with a photoactive layer consisting of a vacuum co-evaporated film of pentacene and a perylene derivative: N, N′-ditridecylperylene-3, 4, 9, 10-tetracarboxylic diimide. The device characteristics were evaluated in an oxygen-free environment. Maximum power conversion efficiency of 0.54% under standard AM 1.5 illumination..."]
+      },
+      {
+        "title": "Molecular model T6:C60 bulk-heterojunction solar cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2006",
+        "authors": ["Salima Alem", "Ajay K. Pandey", "Narayanan Unni", "P. Blanchard"],
+        "abstract": ["Organic photovoltaic devices offer a large technological potential as a renewable source of electrical energy because of their low cost and ease of processing. For the last few years, the interest in such devices has grown rapidly, allowing multiplication of the solar conversion efficiency by 5 within about 10 years . The highest conversion efficie..."]
+      },
+      {
+        "title": "Ambipolar organic field-effect transistor fabricated by co-evaporation of pentacene and N,N′-ditridecylperylene-3,4,9,10-tetracarboxylic diimide",
+        "tags": ["Article"],
+        "date": "Apr 2006",
+        "authors": ["Narayanan Unni", "Ajay K. Pandey", "Salima Alem", "Jean-Michel Nunzi"],
+        "abstract": ["Organic field-effect transistors were fabricated where the active semiconductor layer consisted of a co-evaporated film of pentacene and a perylene derivative, N,N′-ditridecylperylene-3,4,9,10-tetracarboxylic diimide. The device characteristics were evaluated in an oxygen-free environment. The field-effect transistor showed excellent ambipolar oper..."]
+      },
+      {
+        "title": "Influence of the polymer dielectric characteristics on the performance of a quaterthiophene organic field-effect transistor",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2006",
+        "authors": ["Narayanan Unni", "Sylvie Dabos-Seignon", "Jean-Michel Nunzi"],
+        "abstract": ["Organic field-effect transistors were fabricated with quaterthiophene as the active material and various polymeric dielectrics\nas the gate insulator. The conduction parameters such as mobility, threshold voltage, subthreshold swing, the maximum density\nof surface states etc. were found out. The performances of the devices were compared with respect..."]
+      },
+      {
+        "title": "Step growth in single crystal diamond grown by microwave plasma chemical vapor deposition",
+        "tags": ["Article"],
+        "date": "Feb 2006",
+        "authors": ["Pawan K Tyagi", "Abha Misra", "Narayanan Unni", "Swarnim Kulshreshtha"],
+        "abstract": ["Single crystal diamond films of varying quality are deposited using microwave plasma chemical vapor deposition (MPCVD) apparatus. Unpolished natural diamond seeds are used as substrates in the temperature (Ts) range 850–1200 °C. The gas mixture of methane (CH4), hydrogen (H2) and oxygen (O2) is used for the deposition of diamond. The deposition pre..."]
+      },
+      {
+        "title": "N-channel organic field-effect transistors using N,N '-ditridecylperylene-3,4,9,10-tetracarboxylic diimide and a polymeric dielectric",
+        "tags": ["Article"],
+        "date": "May 2005",
+        "authors": ["Narayanan Unni", "Ajay K. Pandey", "Jean-Michel Nunzi"],
+        "abstract": ["Organic field-effect transistors were fabricated using N,N′-ditridecylperylene-3, 4, 9, 10-tetracarboxylic diimide (PTCDI-C13H27) as the active material and a polymeric insulator polymethylmethacrylate (PMMA) as the gate dielectric. A mobility value of 1.7 × 10−2 cm2 V−1 s−1 was estimated from the transistor characteristics. The threshold voltage w..."]
+      },
+      {
+        "title": "A nonvolatile memory element based on a quaterthiophene field-effect transistor",
+        "tags": ["Article"],
+        "date": "Apr 2005",
+        "authors": ["Narayanan Unni", "Rémi de Bettignies", "Sylvie Dabos-Seignon", "Jean-Michel Nunzi"],
+        "abstract": ["Organic field-effect transistors were fabricated with Quaterthiophene (4T) as the active material and a ferroelectric copolymer poly(vinylidene fluoride-trifluoroethylene) as the gate insulator. As-prepared devices showed normal p-type transistor operation. The ON and OFF-states could be written to the device by applying appropriate voltages to the..."]
+      },
+      {
+        "title": "Improved performance of pentacene field-effect transistors using a polyimide gate dieletric layer",
+        "tags": ["Article"],
+        "date": "Apr 2005",
+        "authors": ["Narayanan Unni", "Sylvie Dabos-Seignon", "Jean-Michel Nunzi"],
+        "abstract": ["Organic field-effect transistors using pentacene have been fabricated employing polyimide gate dielectric layers. The root-mean square surface roughness of polyimide films is 9 Å. Devices with thin polyimide films as gate achieved a mobility of 0.16 cm2 V−1 s−1, threshold voltage −6.4 V, on–off ratio ~ 104 and subthreshold slope 7.5 dec−1 with the..."]
+      },
+      {
+        "title": "A nonvolatile memory element based on an organic field-effect transistor",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2004",
+        "authors": ["Narayanan Unni", "Rémi de Bettignies", "Sylvie Dabos-Seignon", "Jean-Michel Nunzi"],
+        "abstract": ["Organic field-effect transistors were fabricated with pentacene as the active material and a ferroelectric copolymer poly(vinylidene fluoride-trifluoroethylene) as the gate insulator. As-prepared devices showed normal p-type transistor operation. The ON- and OFF-states could be written to the device by applying appropriate voltages to the gate with..."]
+      },
+      {
+        "title": "Integrated Optoelectronic Devices 2004",
+        "tags": ["Article"],
+        "date": "Jun 2004",
+        "authors": ["Narayanan Unni", "Rémi de Bettignies", "Sylvie Dabos-Seignon", "Jean-Michel Nunzi"],
+        "abstract": ["The nonvolatile transistor memory element is an interesting topic in organic electronics. In this case a memory cell consists of only one device where the stored information is written as a gate insulator polarization by a gate voltage pulse and read by the channel conductance control with channel voltage pulse without destruction of the stored inf..."]
+      },
+      {
+        "title": "The memory effect of a pentacene field-effect transistor with a polarizable gate dielectric",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2004",
+        "authors": ["Narayanan Unni", "Rémi de Bettignies", "Sylvie Dabos-Seignon", "Jean-Michel Nunzi"],
+        "abstract": ["The nonvolatile transistor memory element is an interesting topic in organic electronics. In this case a memory cell consists of only one device where the stored information is written as a gate insulator polarization by a gate voltage pulse and read by the channel conductance control with channel voltage pulse without destruction of the stored inf..."]
+      },
+      {
+        "title": "Diamond nucleation and growth on zeolites",
+        "tags": ["Article"],
+        "date": "Oct 2003",
+        "authors": ["E. Titus", "Manoj Kumar Singh", "Narayanan Unni", "Devi Misra"],
+        "abstract": ["In this work, we report the use of zeolites as substrates for the deposition of porous diamond films. Films were deposited in a hot-filament chemical vapor deposition (HFCVD) apparatus. The HFCVD system was fed with a mixture of methane (0.8%) with the balance being hydrogen. A series of depositions were done in the pressure range 20–120 Torr and a..."]
+      },
+      {
+        "title": "Effect of heavy ion irradiation on self-supported diamond sheets",
+        "tags": ["Article"],
+        "date": "Oct 2003",
+        "authors": ["Umesh Palnitkar", "V. S. Shirodkar", "Manoj Kumar Singh", "Devesh Avasthi"],
+        "abstract": ["The self-supported diamond sheets were deposited at various deposition pressure (Pd) using HFCVD technique. The sheets were characterized using X-ray diffraction (XRD), Raman spectroscopy, scanning electron microscopy (SEM). XRD shows the growth of cubic diamond. This is confirmed by Raman spectroscopy showing a sharp line at 1332 cm−1 in all the s..."]
+      },
+      {
+        "title": "Optical characterization of europium diphthalocyanine thin films",
+        "tags": ["Article"],
+        "date": "Apr 2003",
+        "authors": ["Narayanan Unni"],
+        "abstract": ["Thin films of europium diphthalocyanine were prepared on glass substrates by vacuum sublimation. The absorption and reflection spectra were recorded in the UV–Visible range. The B band absorption occurs at 360 nm and the Q band shows a doublet at 632 and 680 nm. From the absorption and reflectivity data, various optical parameters such as absorptio..."]
+      },
+      {
+        "title": "Static induction transistor characteristics of organic copper phthalocyanine films",
+        "tags": ["Article"],
+        "date": "Aug 2001",
+        "authors": ["Joseph C M", "Narayanan Unni", "C. S. Menon"],
+        "abstract": ["Static and dynamic characteristics of an organic static induction transistor (SIT) fabricated using copper phthalocyanine (CuPc) thin films are reported. Layered structure using CuPc as active layer consists of Au(drain)/CuPc/Al (gate)/Al(discontinuous)/CuPc/Au(source)/glass. Excellent electrical characteristics are obtained at low negative gate vo..."]
+      },
+      {
+        "title": "Electrical and optical studies on europium diphthalocyanine thin films",
+        "tags": ["Article"],
+        "date": "Jul 2001",
+        "authors": ["Narayanan Unni", "C. S. Menon"],
+        "abstract": ["The electrical and optical properties of europium diphthalocynine thin films at different substrate temperatures were studied. Diphthalocyanines are the candidate materials in photodynamic therapy, photovoltaic devices, imaging and information storage. The activation energy for conduction for europium thin films decreased with increase in the thick..."]
+      },
+      {
+        "title": "Electrical and optical studies on nickel phthalocyanine thin films",
+        "tags": ["Article"],
+        "date": "Jul 2001",
+        "authors": ["Narayanan Unni", "C.S. Menon"],
+        "abstract": ["The electrical and optical properties of metal-free phthalocyanine thin films deposited at different substrate temperatures were analyzed. Variation of activation energy with thickness for H2Pc thin films deposited at room temperature and tranmission spectrum of thin film thickness was investigated. The activation energy for conduction of thin film..."]
+      },
+      {
+        "title": "Electrical and optical studies on metal-free phthalocyanine thin films",
+        "tags": ["Article"],
+        "date": "Jul 2001",
+        "authors": ["Narayanan Unni", "C. S. Menon"],
+        "abstract": []
+      },
+      {
+        "title": "Investigations on sandwich structures of metal-free phthalocyanine (H2Pc) thin films using gold electrodes",
+        "tags": ["Article"],
+        "date": "Mar 2001",
+        "authors": ["Narayanan Unni", "C.S. Menon"],
+        "abstract": ["Sandwich structures of metal-free phthalocyanine (H2Pc) thin films using gold electrodes have been prepared by thermal evaporation. The J-V characteristics are determined for films exposed to air and for films annealed in air at 523K. The temperature dependence of current density is studied for both ohmic and space charge limited conduction (SCLC)...."]
+      },
+      {
+        "title": "Electrical, optical and structural studies on nickel phthalocyanine thin films",
+        "tags": ["Article"],
+        "date": "Oct 2000",
+        "authors": ["Narayanan Unni", "C.S Menon"],
+        "abstract": ["Vacuum-sublimed thin films of nickel phthalocyanine were prepared. Post-evaporation annealing was done at temperatures of 323, 373, 423 and 473 K. The electrical conductivity and optical absorption spectra of these films were studied. Their structure and grain size have been determined."]
+      }
+    ],
+    "degree": ["Ph", "D", "(MGU)"],
+    "bio": "Narayanan Unni currently works at the Photosciences and Photonics Section, National Institute for Interdisciplinary Science and Technology. His current research interests are Organic Light Emitting Diode, Organic Field-Effect Transistor, Dye Sensitized Solar Cells, supercapacitors and photodetectors.",
+    "publications": [75],
+    "reads": [11221],
+    "citations": [1458]
   }
 }

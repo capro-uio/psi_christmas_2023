@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Anne Inger Helmen Borge",
-    "id": "22836",
+    "name": ["Anne Inger Helmen Borge"],
+    "id": ["22836"],
     "keywords": ["Children", "Health", "Inheritance and environment", "Behaviour", "Psychosomatic medicine", "Deviance", "Youth and child"],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/22836/picture",
+    "img": ["https://api.cristin.no/v2/persons/22836/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -629,5 +629,60 @@
         "url": "https://api.cristin.no/v2/results/472167"
       }
     ]
+  },
+  "rg": {
+    "id": "Jennifer-Helmen",
+    "name": "Jennifer Helmen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Anti-Inflammatory and Antipyretic Analgesics and Drugs Used in Gout",
+        "tags": ["Chapter"],
+        "date": "Dec 2015",
+        "authors": ["H. Raber", "A. Ali", "A. Dethloff", "E. Sheridan"],
+        "abstract": ["The Side Effects of Drug Annuals form a series of volumes in which the adverse effects of drugs and adverse reactions to them are surveyed. The series supplements the contents of Meyler's Side Effects of Drugs: the International Encyclopedia of Adverse Drug Reactions and Interactions. This review covers the July 2013 to December 2014 publications o..."]
+      },
+      {
+        "title": "Are NSAIDs safe for pain management in patients taking warfarin?",
+        "tags": ["Article"],
+        "date": "Mar 2011",
+        "authors": ["J. Fashner", "A. Sagarsee", "Jennifer Helmen"],
+        "abstract": []
+      },
+      {
+        "title": "Clinical inquiries. Should you treat a symptomatic patient by phone when his child has confirmed strep throat?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2007",
+        "authors": ["Ed Sheridan", "Jennifer Ludwig", "Jennifer Helmen", "Irene Thomas Thevatheril"],
+        "abstract": ["Only 5% to 10% of adults and 20% to 25% of children presenting in an office setting with acute pharyngitis actually have GABHS pharyngitis. The prevalence of GABHS pharyngitis is higher for patients presenting to urgent care centers or emergency rooms than office practices. Clinical prediction rules can help: Useful and well-validated clinical pred..."]
+      },
+      {
+        "title": "How should you manage a depressed patient unresponsive to an SSRI?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Daniel Triezenberg", "Dominic Vachon", "Jennifer Helmen", "David Schneider"],
+        "abstract": ["The best approach among studied alternatives to manage a patient with treatment-resistant depression is not clear from the evidence. All of the options reviewed seem to have about a 25% to 30% success rate. Switching to other antidepressants or augmenting with non-antidepressant drugs has the best supporting evidence (strength of recommendation [SO..."]
+      },
+      {
+        "title": "Clinical inquiries. What is the diagnostic approach to a 1-year-old with chronic cough?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2005",
+        "authors": ["Michelle Pearson", "Daniel Triezenberg", "Jennifer Helmen", "Phong Luu"],
+        "abstract": []
+      },
+      {
+        "title": "Clinical inquiries. When should patients with mitral valve prolapse get endocarditis prophylaxis?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2004",
+        "authors": ["Daniel Triezenberg", "Jennifer Helmen", "Michelle Pearson", "David M Bercaw"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "publications": [6],
+    "reads": [326],
+    "citations": [21]
   }
 }

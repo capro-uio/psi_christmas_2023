@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Aaron Hansen",
-    "id": "KgjJyiwAAAAJ",
-    "affiliation": "Princess Margaret - University Health Network",
+    "name": ["Aaron Hansen"],
+    "id": ["KgjJyiwAAAAJ"],
+    "affiliation": ["Princess Margaret - University Health Network"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0497-5070",
-    "name": "Margrethe  Foss Hansen",
+    "orcid": ["0000-0002-0497-5070"],
+    "name": ["Margrethe  Foss Hansen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -939,11 +939,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Margrethe Hansen",
-    "id": "884888",
+    "name": ["Margrethe Hansen"],
+    "id": ["884888"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Margrethe-Hansen-2",
+    "name": "Margrethe Hansen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/761145619136513-1558482665954_Q128/Margrethe-Hansen-2.jpg",
+    "affiliation": "UiT The Arctic University of Norway, Department of Health and Care Sciences",
+    "keywords": ["Nursing", "Clinical Nursing", "Nursing Education", "Nursing Management", "Nursing Theory"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

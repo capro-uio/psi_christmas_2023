@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Anne Caroline Seierstad",
-    "id": "1504431",
+    "name": ["Anne Caroline Seierstad"],
+    "id": ["1504431"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
@@ -27,5 +27,25 @@
         "url": "https://api.cristin.no/v2/results/2202877"
       }
     ]
+  },
+  "rg": {
+    "id": "Anne-Caroline-2",
+    "name": "Anne Caroline",
+    "img": "https://i1.rgstatic.net/ii/profile.image/966196463693824-1607370596846_Q128/Anne-Caroline-2.jpg",
+    "affiliation": "Universidade Federal de Sergipe, Departamento de Computação",
+    "keywords": ["Software Development", "SQL", "Web Development", "Object-Oriented Programming", "Java Programming", "HTML code programming"],
+    "works": [
+      {
+        "title": "Multimedia resources as a support for requirements engineering and software maintenance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Anne Caroline", "Methanias Colaço Júnior", "Edna de Carvalho Andrade"],
+        "abstract": "Context: Textual documentations are frequently used in the software development process to outline features and behaviors of an application. For some people, textual descriptions may not be enough to understand what is being developed. In this scenario, multimedia resources appear as an option for software documentation, providing other ways to obs..."
+      }
+    ],
+    "degree": [null],
+    "publication": [1],
+    "reads": [243],
+    "citation": [1]
   }
 }

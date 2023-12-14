@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Espen (Roysamb) Røysamb",
-    "id": "v8rAQvsAAAAJ",
-    "affiliation": "Professor, University of Oslo / Norwegian Institute of Public Health",
+    "name": ["Espen (Roysamb) Røysamb"],
+    "id": ["v8rAQvsAAAAJ"],
+    "affiliation": ["Professor, University of Oslo / Norwegian Institute of Public Health"],
     "data": {
       "publications": [
         {
@@ -1129,11 +1129,11 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Espen Røysamb",
-    "id": "22170",
+    "name": ["Espen Røysamb"],
+    "id": ["22170"],
     "keywords": ["Psychological problems", "Health", "Inheritance and environment", "Depression", "Quality of Life", "Youth", "Suicide", "Cultural psychology", "Psychometrics", "Heritability", "Personality"],
     "position": ["Professor", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/22170/picture",
+    "img": ["https://api.cristin.no/v2/persons/22170/picture"],
     "works": [
       {
         "type": "Poster",
@@ -1202,85 +1202,85 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Wellbeing and illbeing in women exposed to physical and sexual violence: A population based longitudinal study.",
-        "journal": "OSF Preprints",
-        "url": "https://api.cristin.no/v2/results/2201635"
+        "url": "https://api.cristin.no/v2/results/2201635",
+        "journal": "OSF Preprints"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Preschool structural quality and student–teacher closeness are related to children's adjustment: Sibling-informed design",
-        "journal": "Early Childhood Research Quarterly",
-        "url": "https://api.cristin.no/v2/results/2200888"
+        "url": "https://api.cristin.no/v2/results/2200888",
+        "journal": "Early Childhood Research Quarterly"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Anxiety and depression in expectant parents: ART versus spontaneous conception",
-        "journal": "Human Reproduction",
-        "url": "https://api.cristin.no/v2/results/2176938"
+        "url": "https://api.cristin.no/v2/results/2176938",
+        "journal": "Human Reproduction"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Worldwide Well-Being: Simulated Twins Reveal Genetic and (Hidden) Environmental Influences",
-        "journal": "Perspectives on Psychological Science",
-        "url": "https://api.cristin.no/v2/results/2166830"
+        "url": "https://api.cristin.no/v2/results/2166830",
+        "journal": "Perspectives on Psychological Science"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Mental Health and Environmental Factors in Adults: A Population-Based Network Analysis",
-        "journal": "American Psychologist",
-        "url": "https://api.cristin.no/v2/results/2162803"
+        "url": "https://api.cristin.no/v2/results/2162803",
+        "journal": "American Psychologist"
       },
       {
         "type": "Errata",
         "year": "2023",
         "title": "Erratum to “Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents” [Dev. Cogn. Neurosci. 56C (2022) 101132] (Developmental Cognitive Neuroscience (2022) 56, (S1878929322000755), (10.1016/j.dcn.2022.101132))",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2155592"
+        "url": "https://api.cristin.no/v2/results/2155592",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Errata",
         "year": "2023",
         "title": "Erratum: The p factor of psychopathology and personality in middle childhood: Genetic and gestational risk factors (Psychological Medicine (2023) DOI: 10.1017/S0033291723000077)",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2152703"
+        "url": "https://api.cristin.no/v2/results/2152703",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Changes in life satisfaction among unaccompanied asylum-seeking and refugee minors who participated in teaching recovery techniques (TRT)",
-        "journal": "Child and Adolescent Psychiatry and Mental Health (CAPMH)",
-        "url": "https://api.cristin.no/v2/results/2152699"
+        "url": "https://api.cristin.no/v2/results/2152699",
+        "journal": "Child and Adolescent Psychiatry and Mental Health (CAPMH)"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Psychometric Properties and Diagnostic Associations of the Short-Form Community Assessment of Psychic Experiences in a Population-Based Sample of 29 021 Adult Men",
-        "journal": "Schizophrenia Bulletin",
-        "url": "https://api.cristin.no/v2/results/2151913"
+        "url": "https://api.cristin.no/v2/results/2151913",
+        "journal": "Schizophrenia Bulletin"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Self-construals predict personal life satisfaction with different strengths across societal contexts differing in national wealth and religious heritage",
-        "journal": "Self and Identity",
-        "url": "https://api.cristin.no/v2/results/2151661"
+        "url": "https://api.cristin.no/v2/results/2151661",
+        "journal": "Self and Identity"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Children's mental health: The role of multiple risks and child care quality",
-        "journal": "Journal of Applied Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/2151644"
+        "url": "https://api.cristin.no/v2/results/2151644",
+        "journal": "Journal of Applied Developmental Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The structure of well-being: a single underlying factor with genetic and environmental influences",
-        "journal": "Quality of Life Research",
-        "url": "https://api.cristin.no/v2/results/2148327"
+        "url": "https://api.cristin.no/v2/results/2148327",
+        "journal": "Quality of Life Research"
       },
       {
         "type": "Academic lecture",
@@ -1292,57 +1292,57 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Insights into the accuracy of social scientists’ forecasts of societal change",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/2146227"
+        "url": "https://api.cristin.no/v2/results/2146227",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Family First: Evidence of Consistency and Variation in the Value of Family Versus Personal Happiness Across 49 Different Cultures",
-        "journal": "Journal of Cross-Cultural Psychology",
-        "url": "https://api.cristin.no/v2/results/2145783"
+        "url": "https://api.cristin.no/v2/results/2145783",
+        "journal": "Journal of Cross-Cultural Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Unpackaging the link between economic inequality and self-construal",
-        "journal": "Self and Identity",
-        "url": "https://api.cristin.no/v2/results/2145706"
+        "url": "https://api.cristin.no/v2/results/2145706",
+        "journal": "Self and Identity"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The structure of psychiatric comorbidity without selection and assortative mating",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143880"
+        "url": "https://api.cristin.no/v2/results/2143880",
+        "journal": "PsyArXiv"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/2141400"
+        "url": "https://api.cristin.no/v2/results/2141400",
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The p factor of psychopathology and personality in middle childhood: genetic and gestational risk factors",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2125361"
+        "url": "https://api.cristin.no/v2/results/2125361",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The association of cognitive abilities with language disorder in 8-year-old children: A population-based clinical sample",
-        "journal": "International journal of language and communication disorders",
-        "url": "https://api.cristin.no/v2/results/2125224"
+        "url": "https://api.cristin.no/v2/results/2125224",
+        "journal": "International journal of language and communication disorders"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143876"
+        "url": "https://api.cristin.no/v2/results/2143876",
+        "journal": "PsyArXiv"
       },
       {
         "type": "Academic lecture",
@@ -1354,15 +1354,15 @@
         "type": "Abstract",
         "year": "2022",
         "title": "A trio-gcta study of indirect and direct genetic effects on hyperactivity, inattention, conduct problems, and oppositional-defiant behaviors",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2087337"
+        "url": "https://api.cristin.no/v2/results/2087337",
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Abstract",
         "year": "2022",
         "title": "Disentangling intrafamilial effects on maternal depression using trio-GCTA",
-        "journal": "European Neuropsychopharmacology",
-        "url": "https://api.cristin.no/v2/results/2087332"
+        "url": "https://api.cristin.no/v2/results/2087332",
+        "journal": "European Neuropsychopharmacology"
       },
       {
         "type": "Poster",
@@ -1426,22 +1426,22 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Effectiveness of the International Child Development Programme: Results from a randomized controlled trial",
-        "journal": "Child & Family Social Work",
-        "url": "https://api.cristin.no/v2/results/2061981"
+        "url": "https://api.cristin.no/v2/results/2061981",
+        "journal": "Child & Family Social Work"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Child internalizing and externalizing behaviors: Interplay between maternal depressive symptoms and child inhibitory control",
-        "journal": "JCPP Advances",
-        "url": "https://api.cristin.no/v2/results/2061485"
+        "url": "https://api.cristin.no/v2/results/2061485",
+        "journal": "JCPP Advances"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2058364"
+        "url": "https://api.cristin.no/v2/results/2058364",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Lecture",
@@ -1452,8 +1452,8 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Subjective Well-Being Among Unaccompanied Refugee Youth: Longitudinal Associations With Discrimination and Ethnic Identity Crisis",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2047947"
+        "url": "https://api.cristin.no/v2/results/2047947",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic lecture",
@@ -1465,22 +1465,22 @@
         "type": "Academic article",
         "year": "2022",
         "title": "On the importance of parenting in externalizing disorders: an evaluation of indirect genetic effects in families",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2042569"
+        "url": "https://api.cristin.no/v2/results/2042569",
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The role of neuroticism and pain in dental anxiety: A twin study",
-        "journal": "Community Dentistry and Oral Epidemiology",
-        "url": "https://api.cristin.no/v2/results/2027957"
+        "url": "https://api.cristin.no/v2/results/2027957",
+        "journal": "Community Dentistry and Oral Epidemiology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Teachers’ competence promote close relationships to children with externalising problems and conflictual relationships",
-        "journal": "Educational Psychology",
-        "url": "https://api.cristin.no/v2/results/2024691"
+        "url": "https://api.cristin.no/v2/results/2024691",
+        "journal": "Educational Psychology"
       },
       {
         "type": "Academic lecture",
@@ -1491,22 +1491,22 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Justice sensitivity is undergirded by separate heritable motivations to be morally principled and opportunistic",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/2023434"
+        "url": "https://api.cristin.no/v2/results/2023434",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Pathways From Preschool Language Difficulties to School-Age Internalizing Problems",
-        "journal": "Journal of Speech, Language and Hearing Research",
-        "url": "https://api.cristin.no/v2/results/2020094"
+        "url": "https://api.cristin.no/v2/results/2020094",
+        "journal": "Journal of Speech, Language and Hearing Research"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Flattening the quality of life curve? A prospective person-centred study from Norway amid COVID-19",
-        "journal": "Quality of Life Research",
-        "url": "https://api.cristin.no/v2/results/2016486"
+        "url": "https://api.cristin.no/v2/results/2016486",
+        "journal": "Quality of Life Research"
       },
       {
         "type": "Lecture",
@@ -1533,8 +1533,8 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Validation and short-form development of Conflict and Problem-solving Strategy Scales",
-        "journal": "Journal of Family Studies",
-        "url": "https://api.cristin.no/v2/results/1944442"
+        "url": "https://api.cristin.no/v2/results/1944442",
+        "journal": "Journal of Family Studies"
       },
       {
         "type": "Academic lecture",
@@ -1545,64 +1545,64 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Psycho-social factors associated with mental resilience in the Corona lockdown",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1926094"
+        "url": "https://api.cristin.no/v2/results/1926094",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Vital personality scores and healthy aging: Life-course associations and familial transmission",
-        "journal": "Social Science and Medicine",
-        "url": "https://api.cristin.no/v2/results/1926089"
+        "url": "https://api.cristin.no/v2/results/1926089",
+        "journal": "Social Science and Medicine"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Effects of Covid-19 lockdown on parental functioning in vulnerable families",
-        "journal": "Journal of Marriage and Family",
-        "url": "https://api.cristin.no/v2/results/1926086"
+        "url": "https://api.cristin.no/v2/results/1926086",
+        "journal": "Journal of Marriage and Family"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Societal emotional environments and cross-cultural differences in life satisfaction: A forty-nine country study",
-        "journal": "Journal of Positive Psychology",
-        "url": "https://api.cristin.no/v2/results/1919604"
+        "url": "https://api.cristin.no/v2/results/1919604",
+        "journal": "Journal of Positive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Introducing two types of psychological resilience with partly unique genetic and environmental sources",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/1908519"
+        "url": "https://api.cristin.no/v2/results/1908519",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Education differences in sickness absence and the role of health behaviors: a prospective twin study",
-        "journal": "BMC Public Health",
-        "url": "https://api.cristin.no/v2/results/1850697"
+        "url": "https://api.cristin.no/v2/results/1850697",
+        "journal": "BMC Public Health"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Personal life satisfaction as a measure of societal happiness is an individualistic presumption: Evidence from fifty countries",
-        "journal": "Journal of Happiness Studies",
-        "url": "https://api.cristin.no/v2/results/1841525"
+        "url": "https://api.cristin.no/v2/results/1841525",
+        "journal": "Journal of Happiness Studies"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The asylum-process, bicultural identity and depression among unaccompanied young refugees",
-        "journal": "Journal of Adolescence",
-        "url": "https://api.cristin.no/v2/results/1838443"
+        "url": "https://api.cristin.no/v2/results/1838443",
+        "journal": "Journal of Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Preschool speech intelligibility and 8-year literacy: A moderated mediation analysis",
-        "journal": "Journal of Speech, Language and Hearing Research",
-        "url": "https://api.cristin.no/v2/results/1829558"
+        "url": "https://api.cristin.no/v2/results/1829558",
+        "journal": "Journal of Speech, Language and Hearing Research"
       },
       {
         "type": "Report",
@@ -1613,63 +1613,63 @@
         "type": "Academic article",
         "year": "2020",
         "title": "A Common Family Factor Underlying Language Difficulties and Internalizing Problems: Findings From a Population-Based Sibling Study",
-        "journal": "Journal of Learning Disabilities",
-        "url": "https://api.cristin.no/v2/results/1829354"
+        "url": "https://api.cristin.no/v2/results/1829354",
+        "journal": "Journal of Learning Disabilities"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The Multidimensional Self-Control Scale (MSCS): Development and validation",
-        "journal": "Psychological Assessment",
-        "url": "https://api.cristin.no/v2/results/1828899"
+        "url": "https://api.cristin.no/v2/results/1828899",
+        "journal": "Psychological Assessment"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Predicting Literacy Skills at 8 Years From Preschool Language Trajectories: A Population-Based Cohort Study",
-        "journal": "Journal of Speech, Language and Hearing Research",
-        "url": "https://api.cristin.no/v2/results/1823114"
+        "url": "https://api.cristin.no/v2/results/1823114",
+        "journal": "Journal of Speech, Language and Hearing Research"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Culture competence and mental health across different immigrant and refugee groups",
-        "journal": "BMC Public Health",
-        "url": "https://api.cristin.no/v2/results/1807892"
+        "url": "https://api.cristin.no/v2/results/1807892",
+        "journal": "BMC Public Health"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Maternal Drinking and Child Emotional and Behavior Problems",
-        "journal": "Pediatrics",
-        "url": "https://api.cristin.no/v2/results/1800673"
+        "url": "https://api.cristin.no/v2/results/1800673",
+        "journal": "Pediatrics"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Compatibility of riders’ personality traits and the perceived personality of their horse",
-        "journal": "Human-Animal Interaction Bulletin",
-        "url": "https://api.cristin.no/v2/results/1752775"
+        "url": "https://api.cristin.no/v2/results/1752775",
+        "journal": "Human-Animal Interaction Bulletin"
       },
       {
         "type": "Editorial",
         "year": "2019",
-        "journal": "Tidsskrift for Den norske legeforening",
-        "url": "https://api.cristin.no/v2/results/1829356"
+        "url": "https://api.cristin.no/v2/results/1829356",
+        "journal": "Tidsskrift for Den norske legeforening"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "A Life Course Study of Genetic and Environmental Influences on Work Incapacity",
-        "journal": "Twin Research and Human Genetics",
-        "url": "https://api.cristin.no/v2/results/1787150"
+        "url": "https://api.cristin.no/v2/results/1787150",
+        "journal": "Twin Research and Human Genetics"
       },
       {
         "type": "Abstract",
         "year": "2019",
         "title": "To what extent can passive genetic transmission account for associations between maternal depressive symptoms and child early life psychopathology symptoms?",
-        "journal": "Behavior Genetics",
-        "url": "https://api.cristin.no/v2/results/1776399"
+        "url": "https://api.cristin.no/v2/results/1776399",
+        "journal": "Behavior Genetics"
       },
       {
         "type": "Academic lecture",
@@ -1687,8 +1687,8 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Associations between maternal depressive symptoms and risk for offspring early-life psychopathology: the role of genetic and non-genetic mechanisms",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/1761028"
+        "url": "https://api.cristin.no/v2/results/1761028",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic lecture",
@@ -1706,22 +1706,22 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Correlations between social dominance orientation and political attitudes reflect common genetic underpinnings",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "https://api.cristin.no/v2/results/1754459"
+        "url": "https://api.cristin.no/v2/results/1754459",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Assessing Children’s Responses to Interparental Conflict: Validation and Short Scale Development of SIS and CPIC-Properties Scales",
-        "journal": "Journal of Abnormal Child Psychology",
-        "url": "https://api.cristin.no/v2/results/1749418"
+        "url": "https://api.cristin.no/v2/results/1749418",
+        "journal": "Journal of Abnormal Child Psychology"
       },
       {
         "type": "Abstract",
         "year": "2019",
         "title": "Personality, Family and School influence on Adolescence Subjective Well-being: Results from the Nord-Trøndelag Health Study (HUNT).",
-        "journal": "Scandinavian Journal of Public Health",
-        "url": "https://api.cristin.no/v2/results/1742421"
+        "url": "https://api.cristin.no/v2/results/1742421",
+        "journal": "Scandinavian Journal of Public Health"
       },
       {
         "type": "Academic lecture",
@@ -1745,29 +1745,29 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Preventing bias from selective non-response in population-based survey studies: findings from a Monte Carlo simulation study",
-        "journal": "BMC Medical Research Methodology",
-        "url": "https://api.cristin.no/v2/results/1710023"
+        "url": "https://api.cristin.no/v2/results/1710023",
+        "journal": "BMC Medical Research Methodology"
       },
       {
         "type": "Letter to the editor",
         "year": "2019",
         "title": "The role of genetics in subjective well-being",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/1702756"
+        "url": "https://api.cristin.no/v2/results/1702756",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Is the association between maternal alcohol consumption in pregnancy and pre-school child behavioural and emotional problems causal? Multiple approaches for controlling unmeasured confounding",
-        "journal": "Addiction",
-        "url": "https://api.cristin.no/v2/results/1684544"
+        "url": "https://api.cristin.no/v2/results/1684544",
+        "journal": "Addiction"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Perfect riders. Personality, Perfectionism and Mental Health in Norwegian Competition Riders.",
-        "journal": "Journal of Equine Veterinary Science",
-        "url": "https://api.cristin.no/v2/results/1667005"
+        "url": "https://api.cristin.no/v2/results/1667005",
+        "journal": "Journal of Equine Veterinary Science"
       },
       {
         "type": "Academic lecture",
@@ -1779,9 +1779,723 @@
         "type": "Academic article",
         "year": "2018",
         "title": "A Twin Study of Normative Personality and DSM-IV Personality Disorder Criterion Counts: Evidence for Separate Genetic Influences",
-        "journal": "American Journal of Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1650839"
+        "url": "https://api.cristin.no/v2/results/1650839",
+        "journal": "American Journal of Psychiatry"
       }
     ]
+  },
+  "rg": {
+    "id": "Espen-Roysamb",
+    "name": "Espen Røysamb",
+    "img": "https://i1.rgstatic.net/ii/profile.image/692419267928070-1542097026388_Q128/Espen-Roysamb.jpg",
+    "affiliation": "University of Oslo, PROMENTA Research Center Department of Psychology",
+    "keywords": ["Mental Illness", "Personality Assessment", "Psychological Assessment", "Psychopathology", "Psychotherapeutic Processes", "Counseling", "Treatment", "Clinical Assessment", "Psychological Testing", "DSM"],
+    "works": [
+      {
+        "title": "The joint structure of DSM-IV and Axis I and II disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Espen Røysamb", "Kenneth S. Kendler", "Kristian Tambs", "Ted Reichborn-Kjennerud"],
+        "abstract": ["The Diagnostic and Statistical Manual (4th ed. [DSM-IV]; American Psychiatric Association, 1994) distinction between clinical disorders on Axis I and personality disorders on Axis II has become increasingly controversial. Although substantial comorbidity between axes has been demonstrated, the structure of the liability factors underlying these two..."]
+      },
+      {
+        "title": "Genetics, personality and wellbeing. A twin study of traits, facets and life satisfaction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes", "Nikolai O. Czajkowski", "Olav Vassend"],
+        "abstract": ["Human wellbeing is influenced by personality traits, in particular neuroticism and extraversion. Little is known about which facets that drive these associations, and the role of genes and environments. Our aim was to identify personality facets that are important for life satisfaction, and to estimate the contribution of genetic and environmental..."]
+      },
+      {
+        "title": "Worldwide Well-Being: Simulated Twins Reveal Genetic and (Hidden) Environmental Influences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Espen Røysamb", "Terrie E Moffitt", "Avshalom Caspi", "Ragnhild Bang Nes"],
+        "abstract": ["What are the major sources of worldwide variability in subjective well-being (SWB)? Twin and family studies of SWB have found substantial heritability and strong effects from unique environments but virtually no effects from shared environments. However, extant findings are not necessarily valid at the global level. Prior studies have examined with..."]
+      },
+      {
+        "title": "Mental health and environmental factors in adults: A population-based network analysis",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Omid V. Ebrahimi", "Xiaoyu Lan", "Espen Røysamb"],
+        "abstract": ["Few studies have assessed the multifactorial nature of environmental influences on population mental health. In this large-scale, population-based study of adults, we applied network analysis to study the relationship between environmental factors and symptoms of depression, anxiety, and well-being. We estimated networks with overall mental health..."]
+      },
+      {
+        "title": "The structure of well-being: a single underlying factor with genetic and environmental influences",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Ragnhild Bang Nes", "Nikolai Czajkowski", "Espen Røysamb"],
+        "abstract": ["Purpose\nThe structure of well-being has been debated for millennia. Dominant conceptualisations, such as the hedonic and eudaimonic models, emphasise different constituents of the well-being construct. Some previous studies have suggested that the underlying structure of well-being may consist of one or a few general well-being factors. We conducte..."]
+      },
+      {
+        "title": "Disentangling direct and indirect genetic effects from partners and offspring on maternal depression using trio-GCTA",
+        "tags": ["Preprint"],
+        "date": "Sep 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Espen Moen Eilertsen", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Maternal depressive symptoms are highly prevalent and can negatively impact affected individuals and family members. Understanding aetiological influences on maternal depression, such as genetic liability, is key to inform treatment and prevention efforts. In the present study, we quantified direct and indirect genetic effects (i.e., when genetic v..."]
+      },
+      {
+        "title": "Anxiety and depression in expectant parents: ART versus spontaneous conception",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Aurora Oftedal", "Stella Tsotsi", "Anne Kaasen", "Mona Bekkhus"],
+        "abstract": ["Study question: \nDo expectant parents experience increased anxiety and depression during pregnancies conceived through ART compared to spontaneous conception?\n\nSummary answer: \nAmong all expectant parents in the sample, those who conceived through ART reported overall lower levels of anxiety and depression in pregnancy compared to expectant parents..."]
+      },
+      {
+        "title": "Identifying associations between stressful life events and depressive symptoms in two large-scale population-based samples of adults using network analysis",
+        "tags": ["Preprint"],
+        "date": "Jun 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Omid V. Ebrahimi", "Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": ["Stressful life events (SLEs) constitute key risk factors for depression. However, previous studies examining the relationship between SLEs and depression have been limited by focusing on single events, combining events into broad categories, and/or ignoring interrelationships between events in statistical analyses. To surpass these limitations, we..."]
+      },
+      {
+        "title": "Psychometric Properties and Diagnostic Associations of the Short-Form Community Assessment of Psychic Experiences in a Population-Based Sample of 29 021 Adult Men",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Viktoria Birkenæs", "Nora Refsum Bakken", "Evgeniia Frei", "Ida Elken Sønderby"],
+        "abstract": ["Background and hypothesis: \nAround 5%-7% of the adult population are estimated to have lifetime psychotic experiences (PEs), which are associated with psychosis risk. PEs assessed with Community Assessment of Psychic Experiences (CAPE) are associated with psychosis but also non-psychotic disorders, which could be partly explained by CAPE indirectly..."]
+      },
+      {
+        "title": "Promoting wellbeing: A randomized controlled trial of the web-based Five Ways to Wellbeing for All Intervention (Preprint)",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Monica Prydz", "Nikolai Czajkowski", "Maja Eilertsen", "Ragnhild Bang Nes"],
+        "abstract": ["BACKGROUND\nBackground: Compromised wellbeing constitutes a major threat to individuals and societies worldwide, and resource-intensive psychological treatment alone cannot solve this burden. There is a need for low-cost evidence-based preventive and wellbeing promotive interventions. Five activity domains seem to be associated with wellbeing promot..."]
+      },
+      {
+        "title": "Children's mental health: The role of multiple risks and child care quality",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Tiril Wilhelmsen", "Espen Røysamb", "Ratib Lekhal", "Mari Vaage Wang"],
+        "abstract": []
+      },
+      {
+        "title": "Self-construals predict personal life satisfaction with different strengths across societal contexts differing in national wealth and religious heritage",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Ángel Sánchez-Rodríguez", "Vivian L Vignoles", "Michael Harris Bond", "John Michael Zelenski"],
+        "abstract": ["We explore to what extent previously observed pan-cultural association between dimensions of self-construal and personal life satisfaction (PLS) may be moderated by three national-contextual variables: national wealth, economic inequality, and religious heritage. The results showed that MSelf-reliance (vs. dependence on others) predicted PLSpositiv..."]
+      },
+      {
+        "title": "Changes in life satisfaction among unaccompanied asylum-seeking and refugee minors who participated in teaching recovery techniques (TRT)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Anne Kristine Solhaug", "Espen Røysamb", "Brit Oppedal"],
+        "abstract": ["Background\nUnaccompanied asylum-seeking and refugee minors report low life satisfaction and high levels of mental health problems, nevertheless they often do not seek or receive help for their problems. Teaching Recovery Techniques (TRT) is a low-threshold, five sessions intervention developed to reduce distressing war- and disaster-related trauma..."]
+      },
+      {
+        "title": "Unpackaging the link between economic inequality and self-construal",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Ángel Sánchez-Rodríguez", "Ayse K. Uskul", "Rosa Rodríguez-Bailón", "John Michael Zelenski"],
+        "abstract": ["Past research has shown that economic inequality shapes individuals’ self-construals. However, it has been unclear which dimensions of self-construal are associated with and affected by economic inequality. A correlational (Study 1: N = 264) and an experimental study (Study 2: N = 532) provided converging evidence linking perceived economic inequal..."]
+      },
+      {
+        "title": "The p factor of psychopathology and personality in middle childhood: Genetic and gestational risk factors - Corrigendum",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Line C. Gjerde", "Espen Moen Eilertsen", "Tom A Mcadams", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "Family First: Evidence of Consistency and Variation in the Value of Family Versus Personal Happiness Across 49 Different Cultures",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Kuba Krys", "June Chun Yeung", "Brian Haas", "Yukiko Uchida"],
+        "abstract": ["People care about their own well-being and about the well-being of their families. It is currently, however, unknown how much people tend to value their own versus their family’s well-being. A recent study documented that people value family happiness over personal happiness across four cultures. In this study, we sought to replicate this finding a..."]
+      },
+      {
+        "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Ziada Ayorech", "Rosa Cheesman", "Espen M. Eilertsen", "Eivind Ystrom"],
+        "abstract": ["Within-family studies typically assess indirect genetic effects of parents on children, however social support theory points to a critical role of partners and children on women's depression. To address this research gap and account for the high heterogeneity of depression, we calculated a general psychiatric factor using eleven major psychiatric p..."]
+      },
+      {
+        "title": "The p factor of psychopathology and personality in middle childhood: genetic and gestational risk factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Line C. Gjerde", "Espen Moen Eilertsen", "Tom A Mcadams", "Eivind Ystrom"],
+        "abstract": ["Background\nA joint, hierarchical structure of psychopathology and personality has been reported in adults but should also be investigated at earlier ages, as psychopathology often develops before adulthood. Here, we investigate the joint factor structure of psychopathology and personality in eight-year-old children, estimate factor heritability and..."]
+      },
+      {
+        "title": "Insights into the accuracy of social scientists’ forecasts of societal change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Igor Grossmann", "Amanda Rotella", "Cendri A Hutcherson", "Tom Wilkening"],
+        "abstract": ["How well can social scientists predict societal change, and what processes\nunderlie their predictions? To answer these questions, we ran two\nforecasting tournaments testing the accuracy of predictions of societal\nchange in domains commonly studied in the social sciences: ideological\npreferences, political polarization, life satisfaction, sentiment..."]
+      },
+      {
+        "title": "The association of cognitive abilities with language disorder in 8‐year‐old children: A population‐based clinical sample",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Fufen Jin", "Synnve Schjolberg", "Patricia Eadie", "Mila Vulchanova"],
+        "abstract": ["Background: \nDespite accumulated evidence that language development depends on basic cognitive processes, the balance in contributions of verbal and non-verbal cognitive skills to language abilities is still underexplored. Little is known about which cognitive measures best predict the degree of severity in children with language disorder (LD).\n\nAi..."]
+      },
+      {
+        "title": "Mental health and environmental factors in adults: A population-based network analysis",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Omid V. Ebrahimi", "Xiaoyu Lan", "Espen Røysamb"],
+        "abstract": ["Few studies have assessed the multifactorial nature of environmental influences on population mental health. In this large-scale, population-based study of adults, we applied network analysis to study the relationship between environmental factors and symptoms of depression, anxiety, and wellbeing. We estimated networks with overall mental health n..."]
+      },
+      {
+        "title": "The structure of psychiatric comorbidity without selection and assortative mating",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Ziada Ayorech", "Fartein Ask Torvik", "Rosa Cheesman", "Eivind Ystrom"],
+        "abstract": ["The widespread comorbidity observed across psychiatric disorders may be the result of processes such as assortative mating, gene-environment correlation, or selection into population studies. Between-family analyses of comorbidity are subject to these sources of bias, whereas within-family analyses are not. Because of Mendelian inheritance, alleles..."]
+      },
+      {
+        "title": "Introduction to a Culturally Sensitive Measure of Well-Being: Combining Life Satisfaction and Interdependent Happiness Across 49 Different Cultures",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Kuba Krys", "Brian Haas", "Eric R. Igou", "Michael Harris Bond"],
+        "abstract": ["How can one conclude that well-being is higher in country A than country B, when well-being is being measured according to the way people in country A think about well-being? We address this issue by proposing a new culturally sensitive method to comparing societal levels of well-being. We support our reasoning with data on life satisfaction and in..."]
+      },
+      {
+        "title": "The structure of wellbeing–a single underlying factor with genetic and environmental influences",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ludvig Daae Bjørndal", "Ragnhild Bang Nes", "Nikolai Olavi Czajkowski", "Espen Røysamb"],
+        "abstract": ["The structure of wellbeing has been debated for millennia. Dominant conceptualisations, such as the hedonic and eudaimonic models, emphasise different constituents of the wellbeing construct. Some previous studies have suggested that the underlying structure of wellbeing may consist of one or a few general wellbeing factors. We conducted three stud..."]
+      },
+      {
+        "title": "Maternal depression and the polygenic p factor: A family perspective on direct and indirect effects",
+        "tags": ["Preprint"],
+        "date": "Nov 2022",
+        "authors": ["Ziada Ayorech", "Rosa Cheesman", "Espen Moen Eilertsen", "Eivind Ystrom"],
+        "abstract": ["Within-family studies typically assess indirect genetic effects of parents on children, however social support theory points to a critical role of partners and children on women's depression. To address this research gap and account for the high heterogeneity of depression, we calculated a general psychiatric factor using eleven major psychiatric p..."]
+      },
+      {
+        "title": "Child internalizing and externalizing behaviors: Interplay between maternal depressive symptoms and child inhibitory control",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Tone Kristine Hermansen", "Kari E. Syrstad", "Espen Røysamb", "Annika M. D. Melinder"],
+        "abstract": ["Maternal depression is a risk factor for child internalizing and externalizing behaviors. Aiming to investigate the moderating role of child inhibitory control on this relationship, we invited a sub-sample of dyads from the Norwegian Mother, Father, and Child Cohort study (MoBa) for a lab-based assessment (N = 92, M age = 68 months, Range = 59-80,..."]
+      },
+      {
+        "title": "T2. A TRIO-GCTA STUDY OF INDIRECT AND DIRECT GENETIC EFFECTS ON HYPERACTIVITY, INATTENTION, CONDUCT PROBLEMS, AND OPPOSITIONAL-DEFIANT BEHAVIORS",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Espen Moen Eilertsen", "Rosa Cheesman", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "DISENTANGLING INTRAFAMILIAL GENETIC EFFECTS ON MATERNAL DEPRESSION USING TRIO-GCTA",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Ludvig Daae Bjørndal", "Espen Moen Eilertsen", "Jessie Baldwin", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "Effectiveness of the International Child Development Programme: Results from a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Idunn Brekke", "Robert Smith", "Eia Elena Skjønsberg", "Heidi Aase"],
+        "abstract": ["This study aimed to evaluate the effectiveness of the International Child Development Programme (ICDP), a group‐based parenting programme used internationally and implemented nationally in Norway. We used a cluster randomized controlled trial in which 81 groups were randomly assigned to either the intervention or waitlist control condition after th..."]
+      },
+      {
+        "title": "Insights into accuracy of social scientists' forecasts of societal change",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Igor Grossmann", "Amanda Modesta Rotella", "Cendri Hutcherson", "Tom Wilkening"],
+        "abstract": ["How well can social scientists predict societal change, and what processes underlie their predictions? To answer these questions, we ran two forecasting tournaments testing accuracy of predictions of societal change in domains commonly studied in the social sciences: ideological preferences, political polarization, life satisfaction, sentiment on s..."]
+      },
+      {
+        "title": "Subjective Well-Being Among Unaccompanied Refugee Youth: Longitudinal Associations With Discrimination and Ethnic Identity Crisis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Brit Oppedal", "Serap Keles", "Espen Røysamb"],
+        "abstract": ["Unaccompanied refugee youth (URY), who as children fled their countries to seek asylum in a foreign country without the company of an adult legal caretaker are described as being in a vulnerable situation. Many of them struggle with mental reactions to traumatic events experienced pre-migration, and to the daily hassles they face after being grante..."]
+      },
+      {
+        "title": "The genetic underpinnings of right-wing authoritarianism and social dominance orientation explains prejudice beyond big five personality",
+        "tags": ["Preprint"],
+        "date": "Aug 2022",
+        "authors": ["Thomas Haarklau Kleppestø", "Nikolai Olavi Czajkowski", "Olav Vassend", "Lotte Thomsen"],
+        "abstract": ["One of the most robust findings in political psychology is that political and prejudicial attitudes are predicted by right-wing authoritarianism (RWA), social dominance orientation (SDO), and some of the Big Five personality traits. An unresolved question is whether RWA and SDO form a functional package of traits that is independent of common perso..."]
+      },
+      {
+        "title": "On the importance of parenting in externalizing disorders: an evaluation of indirect genetic effects in families",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Espen Moen Eilertsen", "Rosa Cheesman", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Background: \nTheoretical models of the development of childhood externalizing disorders emphasize the role of parents. Empirical studies have not been able to identify specific aspects of parental behaviors explaining a considerable proportion of the observed individual differences in externalizing problems. The problem is complicated by the contri..."]
+      },
+      {
+        "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Linn B. Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": ["Gradients in parental socioeconomic status (SES) are closely linked to important life outcomes in children and adolescents, such as cognitive abilities, school achievement, and mental health. Parental SES may also influence brain development, with several magnetic resonance imaging (MRI) studies reporting associations with youth brain morphometry...."]
+      },
+      {
+        "title": "The role of neuroticism and pain in dental anxiety: A twin study",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Olav Vassend", "Nikolai Olavi Czajkowski", "Espen Røysamb", "Christopher Sivert Nielsen"],
+        "abstract": ["Objectives: \nAccumulating evidence has revealed that dental anxiety is robustly associated with dental care-related pain and discomfort, but also with the personality trait of neuroticism (i.e. the relatively stable disposition to experience the world as distressing, threatening and unsafe). However, there is a near absence of research on these ris..."]
+      },
+      {
+        "title": "Teachers’ competence promote close relationships to children with externalising problems and conflictual relationships",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["T. Wilhelmsen", "N. Alexandersen", "Espen Røysamb", "Mari Vaage Wang"],
+        "abstract": ["This study explored longitudinal associations between student-teacher closeness in Early Childhood Education and Care (ECEC) at 5 years of age and children’s externalising problems at 3, 5 and 8 years, and its potential dependency on teachers’ perceived competence regarding children’s behavioural and social problems. We applied structural equation..."]
+      },
+      {
+        "title": "Justice sensitivity is undergirded by separate heritable motivations to be morally principled and opportunistic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Nikolai Haahjem Eftedal", "Thomas Haarklau Kleppestø", "Nikolai Olavi Czajkowski", "Lotte Thomsen"],
+        "abstract": ["Injustice typically involves some people benefitting at the expense of others. An opportunist might then be selectively motivated to amend only the injustice that is harmful to them, while someone more principled would respond consistently regardless of whether they stand to gain or lose. Here, we disentangle such principled and opportunistic motiv..."]
+      },
+      {
+        "title": "Flattening the quality of life curve? A prospective person-centred study from Norway amid COVID-19",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Ragnhild Bang Nes", "Baeksan Yu", "Thomas Hansen", "Thomas Sevenius Nilsen"],
+        "abstract": ["Purpose\nWe examined multidimensional, heterogeneous reactions to the COVID-19 pandemic and associated measures to provide further insights into the developmental processes of risk and adaptation.\n\nMethod\nWe used three-wave questionnaire data from 8156 individuals participating in the Norwegian County Public Health Survey assessed 1–5 months before..."]
+      },
+      {
+        "title": "Pathways From Preschool Language Difficulties to School-Age Internalizing Problems",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Siri Saugestad Helland", "Espen Røysamb", "Synnve Schjolberg", "Kristin Gustavson"],
+        "abstract": ["Purpose\nEarly language difficulties are associated with later internalizing problems across different ages and for different aspects of language. The mechanisms behind this association are, however, less understood. In the current study, we investigated longitudinal associations between language difficulties at 5 years and internalizing problems at..."]
+      },
+      {
+        "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
+        "tags": ["Preprint"],
+        "date": "Jan 2022",
+        "authors": ["Linn B. Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": ["Gradients in parental socioeconomic status (SES) are closely linked to important life outcomes in children and adolescents, such as cognitive abilities, school achievement, and mental health. Parental SES may also influence brain development, with several magnetic resonance imaging (MRI) studies reporting associations with youth brain morphometry...."]
+      },
+      {
+        "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
+        "tags": ["Preprint"],
+        "date": "Jan 2022",
+        "authors": ["Linn B. Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": ["Gradients in parental socioeconomic status (SES) are closely linked to important life outcomes in children and adolescents, such as cognitive abilities, school achievement, and mental health. Parental SES may also influence brain development, with several magnetic resonance imaging (MRI) studies reporting associations with youth brain morphometry...."]
+      },
+      {
+        "title": "Parental Socioeconomic Status is Linked to Cortical Microstructure and Language Abilities in Children and Adolescents",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Linn Norbom", "Jamie Lars Hanson", "Dennis van der Meer", "Christian K Tamnes"],
+        "abstract": []
+      },
+      {
+        "title": "Validation and short-form development of Conflict and Problem-solving Strategy Scales",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Maren Sand Helland", "Tonje Holt", "Kristin Gustavson", "Espen Røysamb"],
+        "abstract": ["The Strategy scales from the Conflicts and Problem-solving Scales is widely used and meaningfully distinguishes between conflict behaviours characterized by Cooperation, Avoidance, Child Involvement, Stalemating, and Verbal and Physical Aggression. The aim of this study was to validate the scale and develop a short-form for use across family struct..."]
+      },
+      {
+        "title": "Attachment and politics are two functionally distinct systems, and both share genetics with interpersonal trust and altruism",
+        "tags": ["Preprint"],
+        "date": "Sep 2021",
+        "authors": ["Thomas Haarklau Kleppestø", "Nikolai Olavi Czajkowski", "Olav Vassend", "Lotte Thomsen"],
+        "abstract": ["The evolved attachment system maintains proximity and care-giving behavior between parents and offspring, in a way that is argued to shape people’s mental models of how relationships work, resulting in secure, anxious or avoidant interpersonal styles. Several theorists have suggested that the attachment system is closely connected to orientations a..."]
+      },
+      {
+        "title": "Effects of Covid‐19 lockdown on parental functioning in vulnerable families",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Maren Sand Helland", "Torkild Hovde Lyngstad", "Tonje Holt", "Espen Røysamb"],
+        "abstract": ["Objective\nThe aim of this study was to increase the knowledge about how the initial Covid-19 lockdown influenced parental functioning in vulnerable families.\n\nBackground\nThe Covid-19 pandemic has caused major changes to family life. Using a natural experiment design can potentially adjudicate on former inconclusive findings about the effects of loc..."]
+      },
+      {
+        "title": "Vital personality scores and healthy aging: Life-course associations and familial transmission",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Jasmin Wertz", "Salomon Israel", "Louise Arseneault", "Avshalom Caspi"],
+        "abstract": ["Objectives\nPersonality traits are linked with healthy aging, but it is not clear how these associations come to manifest across the life-course and across generations. To study this question, we tested a series of hypotheses about (a) personality-trait prediction of markers of healthy aging across the life-course, (b) developmental origins, stabili..."]
+      },
+      {
+        "title": "Societal emotional environments and cross-cultural differences in life satisfaction: A forty-nine country study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Kuba Krys", "June Chun Yeung", "Colin Capaldi", "Chien-Ru"],
+        "abstract": ["In this paper, we introduce the concept of ‘societal emotional environment’: the emotional climate of a society (operationalized as the degree to which positive and negative emotions are expressed in a society). Using data collected from 12,888 participants across 49 countries, we show how societal emotional environments vary across countries and c..."]
+      },
+      {
+        "title": "Personal Life Satisfaction as a Measure of Societal Happiness is an Individualistic Presumption: Evidence from Fifty Countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Kuba Krys", "Joonha Park", "Agata Kocimska-Zych", "Mladen Adamovic"],
+        "abstract": ["Numerous studies document that societal happiness is correlated with individualism, but the nature of this phenomenon remains understudied. In the current paper, we address this gap and test the reasoning that individualism correlates with societal happiness because the most common measure of societal happiness (i.e., country-level aggregates of pe..."]
+      },
+      {
+        "title": "Introducing two types of psychological resilience with partly unique genetic and environmental sources",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Live Skow Hofgaard", "Ragnhild Bang Nes", "Espen Røysamb"],
+        "abstract": ["Psychological resilience is indicated when individuals demonstrate good mental health despite exposure to significant stress or adversity. Good mental health may involve low levels of illbeing and/or high levels of wellbeing. There is still very limited knowledge about the potential differences between these outcomes in relation to stressors. We pr..."]
+      },
+      {
+        "title": "Connecting the genetics of wellbeing, brain structure and risk for psychopathology in children: Preregistration",
+        "tags": ["Preprint"],
+        "date": "Mar 2021",
+        "authors": ["Christian K Tamnes", "Dennis van der Meer", "Andreas Dahl", "Lars T. Westlye"],
+        "abstract": ["This project contains a preregistration of secondary data analysis for a research project on the complex links between the genetics influence on the wellbeing spectrum, brain structure, and risk for psychopathology in children."]
+      },
+      {
+        "title": "Psycho-social factors associated with mental resilience in the Corona lockdown",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Ilya M. Veer", "Antje Riepenhausen", "Matthias Zerban", "Raffael Kalisch"],
+        "abstract": ["Abstract The SARS-CoV-2 pandemic is not only a threat to physical health but is also having severe impacts on mental health. Although increases in stress-related symptomatology and other adverse psycho-social outcomes, as well as their most important risk factors have been described, hardly anything is known about potential protective factors. Resi..."]
+      },
+      {
+        "title": "Effects of Covid-19 lockdown on parental functioning in vulnerable families",
+        "tags": ["Preprint"],
+        "date": "Dec 2020",
+        "authors": ["Maren Sand Helland", "Torkild Hovde Lyngstad", "Tonje Holt", "Espen Røysamb"],
+        "abstract": ["The Covid-19 pandemic has caused major changes to family life followed by a call for knowledge about how these changes have affected parental functioning, particularly in vulnerable families (Prime, Wade & Brooks, 2020). This study uses a natural experiment design to investigate the effect of the Covid-19 lockdown on parental mental health, parenti..."]
+      },
+      {
+        "title": "The asylum-process, bicultural identity and depression among unaccompanied young refugees",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Brit Oppedal", "Visnja Ramberg", "Espen Røysamb"],
+        "abstract": ["Introduction\nThe overall aim of the present study was to expand our knowledge about depression among unaccompanied refugee minors in the years after they were granted protection in Norway. Predictors were contextual variables in terms of the asylum-process, acculturation variables in terms of bicultural identity, and demographic information such as..."]
+      },
+      {
+        "title": "Education differences in sickness absence and the role of health behaviors: a prospective twin study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Karoline B Seglem", "Ragnhild Orstavik", "Fartein Ask Torvik", "M. Vollrath"],
+        "abstract": ["Background\nLong-term sickness absences burden the economy in many industrialized countries. Both educational attainment and health behaviors are well-known predictors of sickness absence. It remains, however, unclear whether these associations are causal or due to confounding factors. The co-twin control method allows examining causal hypotheses by..."]
+      },
+      {
+        "title": "Supplemental Material for \"Personal life satisfaction as a measure of societal happiness is an individualistic presumption\"",
+        "tags": ["Data"],
+        "date": "Oct 2020",
+        "authors": ["Kuba Krys", "Joonha Park", "Agata Kocimska-Zych", "Mladen Adamovic"],
+        "abstract": []
+      },
+      {
+        "title": "Livskvalitet i Norge 2019",
+        "tags": ["Book", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Ragnhild Bang Nes", "Thomas Sevenius Nilsen", "Lars Johan Hauge", "Espen Røysamb"],
+        "abstract": ["Hvordan hadde vi det egentlig i Norge i 2019? Og hvor jevnt var livskvaliteten egentlig fordelt? Denne rapporten gir en første oversikt over sider av livskvaliteten i Norge som vi tidligere har hatt lite kunnskap om. Den gir et utgangspunkt for å studere utviklingen i livskvalitet i befolkningen og befolkningsgrupper i årene fremover. \nRapporten by..."]
+      },
+      {
+        "title": "Preschool Speech Intelligibility and 8-Year Literacy: A Moderated Mediation Analysis",
+        "tags": ["Article"],
+        "date": "Sep 2020",
+        "authors": ["Fufen Jin", "Synnve Schjolberg", "Patricia Eadie", "Espen Røysamb"],
+        "abstract": ["Purpose\nThe aims of this study were (a) to examine the relationship between speech intelligibility at the age of 5 years and literacy skills at the age of 8 years, (b) to explore the possible mediating or moderating role of broader language skills at 5 years in the relationship of interest, and (c) to assess whether the potential risk factors (chil..."]
+      },
+      {
+        "title": "The Multidimensional Self-Control Scale (MSCS): Development and Validation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Fredrik Andre Nilsen", "Henning Bang", "Ole Boe", "Espen Røysamb"],
+        "abstract": ["Trait self-control is important for well-being and mental and physical health. Most extant measures of self-control are limited in that they do not account for the multidimensionality and specificity of the trait. The aim of this study was to develop and validate a multidimensional and hierarchical scale of self-control in a full and a short versio..."]
+      },
+      {
+        "title": "Psycho-social factors associated with mental resilience in the Corona lockdown",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Ilya M. Veer", "Antje Riepenhausen", "Matthias Zerban", "Raffael Kalisch"],
+        "abstract": []
+      },
+      {
+        "title": "Compatibility of riders' personality traits and the perceived personality of their horse",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["Bente Traeen", "Espen Røysamb"],
+        "abstract": ["This study addresses the relationship between competition riders' personality traits and the perception of their horse's personality, and it assesses whether a match in personality is associated with aspects of the riders' self-esteem, general self-efficacy, satisfaction with life, anxiety and depression. An invitation to participate in the study a..."]
+      },
+      {
+        "title": "Predicting Literacy Skills at 8 Years From Preschool Language Trajectories: A Population-Based Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Fufen Jin", "Synnve Schjolberg", "Mari Vaage Wang", "Kristian Tambs"],
+        "abstract": ["Purpose\nThis article explored the predictive values of three main language delay (LD) trajectories (i.e., persistent, late onset, and transient) across 3–5 years on poor literacy at 8 years. Additionally, the effect of gender was assessed, using both gender-neutral and gender-specific thresholds.\n\nMethod\nThe data comprised mother-reported questionn..."]
+      },
+      {
+        "title": "Causality and confounding between Right Wing Authoritarianism, education, and Socio-Economic Status; a twin study",
+        "tags": ["Preprint"],
+        "date": "Jun 2020",
+        "authors": ["Nikolai Haahjem Eftedal", "Thomas Haarklau Kleppestø", "Nikolai Olavi Czajkowski", "Lotte Thomsen"],
+        "abstract": ["While it is well-established that education and Right Wing Authoritarianism (RWA) are quite strongly negatively correlated, it is still unclear why this is the case. There could be causal effects between these variables, in one or both directions, which can be either direct or mediated. And there could also be confounding third variables influencin..."]
+      },
+      {
+        "title": "Disentangling principled and opportunistic motives for reacting to injustice: A genetically-informed exploration of justice sensitivity",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Nikolai Haahjem Eftedal", "Thomas Haarklau Kleppestø", "Nikolai Olavi Czajkowski", "Lotte Thomsen"],
+        "abstract": ["Moral judgments may be driven by both principled and opportunistic motivations. Being morally principled is to consistently adhere to a single set of rules about morality and justice. Opportunistic morality rather involves selectively enforcing rules when they are beneficial to one's interests. These two kinds of motivations sometimes pull in the s..."]
+      },
+      {
+        "title": "A Common Family Factor Underlying Language Difficulties and Internalizing Problems: Findings From a Population-Based Sibling Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Siri Saugestad Helland", "Espen Røysamb", "Ragnhild Eek Brandlistuen", "Kristin Gustavson"],
+        "abstract": ["Studies have identified concurrent, longitudinal, and bidirectional associations between language difficulties and internalizing problems. This is commonly explained by social exclusion or withdrawal from peers, but underlying mechanisms are not well understood. This study uses sibling data to investigate if the comorbidity between language difficu..."]
+      },
+      {
+        "title": "Culture Competence and Mental Health across Different Immigrant and Refugee Groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Brit Oppedal", "Serap Keles", "Charissa S L Cheah", "Espen Røysamb"],
+        "abstract": ["Background: Over the last decades, due to high rates of immigration, many high-income countries have witnessed demographic shifts towards more cultural diversity in the population. Socio-economic deprivation and traumatic experiences pre-migration contribute to a high risk for mental health problems among immigrant background youth. Moreover, when..."]
+      },
+      {
+        "title": "Maternal Drinking and Child Emotional and Behavior Problems",
+        "tags": ["Article"],
+        "date": "Feb 2020",
+        "authors": ["Ingunn Olea Lund", "Espen Moen Eilsertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": ["Background and objectives: \nMaternal drinking is associated with child emotional and behavior problems. There is, however, a lack of studies that properly account for confounding. Our objective was to estimate the association between at-risk drinking in mothers of young children and child emotional and behavior problems, taking into account the pas..."]
+      },
+      {
+        "title": "A Life Course Study of Genetic and Environmental Influences on Work Incapacity",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Karoline B Seglem", "Fartein Ask Torvik", "Espen Røysamb", "Ragnhild Ørstavik"],
+        "abstract": ["Work incapacity is a major public health challenge and an economic burden to both society and individuals. Understanding the underlying causes is becoming ever more relevant as many countries face an aging workforce. We examined stability and change in genetic and environmental factors influencing work incapacity from age 18 until retirement, and s..."]
+      },
+      {
+        "title": "Associations between maternal depressive symptoms and risk for offspring early-life psychopathology: The role of genetic and non-genetic mechanisms",
+        "tags": ["Article"],
+        "date": "Dec 2019",
+        "authors": ["Line C. Gjerde", "Espen Moen Eilertsen", "Laurie Hannigan", "Eivind Ystrom"],
+        "abstract": ["Background\nAlthough maternal depressive symptoms are robustly associated with offspring early-life psychopathology symptoms, it is not clear which potential mechanisms are at play. We aimed to estimate the relative importance of genetic transmission and direct environmental exposure in these associations on three occasions in early childhood.\n\nMeth..."]
+      },
+      {
+        "title": "Studies from the Norwegian Twin Registry on risk factors for health related work incapacity",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Ragnhild Orstavik", "Karoline B Seglem", "Line C. Gjerde", "M Vollrath"],
+        "abstract": ["Background\nFor the past decade, researchers from the Nordic countries have taken the advantage of their large twin cohorts and reliable official registries to deepen our understanding of sick leave and disability pension. This presentation will give a brief summary of studies based on data from The Norwegian Twin Registry (NTR).\n\nMethods\nMonozygoti..."]
+      },
+      {
+        "title": "Education, lifestyle and life course differences in level of work incapacity – genes and environment",
+        "tags": ["Conference Paper"],
+        "date": "Nov 2019",
+        "authors": ["Karoline B Seglem", "Fartein Ask Torvik", "Espen Røysamb", "M Vollrath"],
+        "abstract": ["Background\nAs many countries face an aging workforce, it is becoming ever more relevant to understand the underlying causes of work incapacity across the entire working age. Previous twin studies have demonstrated that work incapacity is influenced by genetic as well as environmental factors. Furthermore, educational attainment and lifestyle behavi..."]
+      },
+      {
+        "title": "Assessing Children’s Responses to Interparental Conflict: Validation and Short Scale Development of SIS and CPIC-Properties Scales",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Tonje Holt", "Maren Sand Helland", "Kristin Gustavson", "Espen Røysamb"],
+        "abstract": ["The Children’s Perception of the Interparental Conflict Scale (CPIC) and The Security in the Interparental Subsystem (SIS) are two widely used scales capturing (a) children’s perception of the interparental conflict properties and (b) children’s reactions to the conflict. The aims of this study were to validate the part of CPIC measuring children’s..."]
+      },
+      {
+        "title": "Correlations between social dominance orientation and political attitudes reflect common genetic underpinnings",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Thomas Haarklau Kleppestø", "Nikolai Olavi Czajkowski", "Olav Vassend", "Lotte Thomsen"],
+        "abstract": ["Significance\nDeciphering the underlying psychology of societal attitudes and prejudices is important in times of political unpredictability. We focus on the foundational construct of preference for (or against) hierarchies between groups, as reflected in the 2 subdimensions of social dominance orientation (SDO). Studying SDO with a large-sample twi..."]
+      },
+      {
+        "title": "From thoughts to numbers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Espen Røysamb"],
+        "abstract": []
+      },
+      {
+        "title": "When Life Happens: Investigating Short and Long-Term Effects of Life Stressors on Life Satisfaction in a Large Sample of Norwegian Mothers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Gunvor M Dyrdal", "Espen Røysamb", "Ragnhild Bang Nes", "Joar Vittersø"],
+        "abstract": ["The purpose of this study was to examine the impact of major life stressors on the short and long-term life satisfaction (LS) of Norwegian mothers using data from the Norwegian Mother and Child Cohort study (MoBa, N = 46,342). Data on LS were collected at T1 (6 months postpartum) and T3 (36 months postpartum), and data on life stressors at T2 (18 m..."]
+      },
+      {
+        "title": "Preventing bias from selective non-response in population-based survey studies: findings from a Monte Carlo simulation study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Kristin Gustavson", "Espen Røysamb", "Ingrid Borren"],
+        "abstract": ["Background: \nHealth researchers often use survey studies to examine associations between risk factors at one time point and health outcomes later in life. Previous studies have shown that missing not at random (MNAR) may produce biased estimates in such studies. Medical researchers typically do not employ statistical methods for treating MNAR. Henc..."]
+      },
+      {
+        "title": "Is the association between maternal alcohol consumption in pregnancy and pre-school child behavior and emotional problems causal? Multiple approaches for controlling unmeasured confounding",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Ingunn Olea Lund", "Espen Moen Eilertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": ["Background and aims\nHazardous drinking (i.e., alcohol consumption that places drinkers at risk for adverse health outcomes) during pregnancy is associated with adverse child outcomes. To address whether the associations are causal, we aimed to estimate the effect of maternal hazardous drinking during 1st trimester on offspring emotional and behavio..."]
+      },
+      {
+        "title": "Perfect Riders. Personality, Perfectionism and Mental Health in Norwegian Competition Riders",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Bente Træen", "Katrine Finstad", "Espen Røysamb"],
+        "abstract": []
+      },
+      {
+        "title": "Maternal Perinatal and Concurrent Anxiety and Mental Health Problems in Early Childhood: A Sibling‐Comparison Study",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Line C. Gjerde", "Espen Moen Eilertsen", "Thalia C Eley", "Eivind Ystrom"],
+        "abstract": ["Do associations between maternal anxiety symptoms and offspring mental health remain after comparing differentially exposed siblings? Participants were 17,724 offspring siblings and 11,553 mothers from the Norwegian Mother and Child Cohort study. Mothers reported anxiety and depressive symptoms at 30 weeks’ gestation, and 0.5, 1.5, 3, and 5 years p..."]
+      },
+      {
+        "title": "bcmDN[1]",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "The role of genetics in subjective well-being",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Development of ADHD symptoms in preschool children: Genetic and environmental contributions",
+        "tags": ["Article"],
+        "date": "Sep 2018",
+        "authors": ["Espen Moen Eilertsen", "Line C. Gjerde", "Kenneth S. Kendler", "Eivind Ystrom"],
+        "abstract": ["We examined genetic and environmental contributions to the development of symptoms of attention-deficit/hyperactivity disorder (ADHD) in preschool children. ADHD symptoms in siblings at 1.5, 3, and 5 years of age were investigated in a population-based sample from the prospective Norwegian Mother and Child Cohort Study. The longitudinal contributio..."]
+      },
+      {
+        "title": "Livskvalitet. Anbefalinger for et bedre målesystem",
+        "tags": ["Book", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Ragnhild Bang Nes", "Thomas Hansen", "Anders Barstad", "Espen Røysamb"],
+        "abstract": []
+      },
+      {
+        "title": "Body Dissatisfaction and Depressive Symptoms on the Threshold to Adolescence: Examining Gender Differences in Depressive Symptoms and the Impact of Social Support",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Ida Sund Morken", "Espen Røysamb", "Wendy Nilsen", "Evalill Bølstad Karevold"],
+        "abstract": ["The current study focused on the relationship between body dissatisfaction and depressive symptoms on the threshold of adolescence. We aimed to investigate the role of body dissatisfaction in gender differences in depressive symptoms, as well as the impact of social support from peers and parents. Mediation and moderation analyses were based on sel..."]
+      },
+      {
+        "title": "Fatigue symptoms in relation to neuroticism, anxiety-depression, and musculoskeletal pain. A longitudinal twin study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Olav Vassend", "Espen Røysamb", "Christopher Sivert Nielsen", "Nikolai Olavi Czajkowski"],
+        "abstract": ["Background\nThe nature of the relationship between fatigue and its risk factors is poorly understood. In the present study the genetic and environmental association between anxiety-depression, musculoskeletal (MS) pain and fatigue was examined, and the role of neuroticism as a shared risk factor that may possibly explain the co-occurrence between th..."]
+      },
+      {
+        "title": "S1 Fig",
+        "tags": ["Data"],
+        "date": "Jun 2018",
+        "authors": ["Olav Vassend", "Espen Røysamb", "Christopher Sivert Nielsen", "Nikolai Olavi Czajkowski"],
+        "abstract": ["Path diagram of the second AE Cholesky model (including neuroticism assessed at time 1).\n(TIF)"]
+      },
+      {
+        "title": "Web Material",
+        "tags": ["Data"],
+        "date": "Jun 2018",
+        "authors": ["Maria Christine Magnus", "Rosalind J Wright", "Espen Røysamb", "Wenche Nystad"],
+        "abstract": []
+      },
+      {
+        "title": "The Genetics of Well-being",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "A Twin Study of Normative Personality and DSM-IV Personality Disorder Criterion Counts: Evidence for Separate Genetic Influences",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Nikolai Czajkowski", "Steven H Aggen", "Robert F Krueger", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Objective: \nBoth normative personality and DSM-IV personality disorders have been found to be heritable. However, there is limited knowledge about the extent to which the genetic and environmental influences underlying DSM personality disorders are shared with those of normative personality. The aims of this study were to assess the phenotypic simi..."]
+      },
+      {
+        "title": "The genetics of wellbeing",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Associations Between Paternal and Adolescent Depressive Symptoms",
+        "tags": ["Chapter"],
+        "date": "Jan 2018",
+        "authors": ["Kristin Garaas Løchen", "Wendy Nilsen", "Espen Røysamb"],
+        "abstract": ["In stark contrast to the focus on the effects of maternal depression on their children, the effects of depression among fathers on child and adolescent psychopathology has been mostly overlooked in research until recently and is still poorly understood. We need more knowledge about the relationship between paternal symptoms and child problems to be..."]
+      },
+      {
+        "title": "Maternal Psychosocial Stress Associates With Increased Risk of Asthma Development in Offspring",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Maria Christine Magnus", "Rosalind J Wright", "Espen Røysamb", "Wenche Nystad"],
+        "abstract": ["Prenatal maternal psychosocial stress might influence childhood asthma development. Evaluating paternal psychosocial stress and conducting a sibling comparison could provide further insight into the role of unmeasured confounding. We examined the associations of parental psychosocial stress during and after pregnancy with asthma at 7 years in the N..."]
+      },
+      {
+        "title": "Language difficulties and internalizing problems: Bidirectional associations from 18 months to 8 years among boys and girls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Siri Saugestad Helland", "Espen Røysamb", "Mari Vaage Wang", "Kristin Gustavson"],
+        "abstract": ["Studies have shown that early language difficulties are associated with later internalizing problems. Less is known about the nature of the association: the bidirectional relationship over time, the role of different types of language difficulties, and gender differences. The present study examined bidirectional longitudinal associations between pa..."]
+      },
+      {
+        "title": "Happiness in Behaviour Genetics: An Update on Heritability and Changeability",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb"],
+        "abstract": ["In this paper we summarize recent behaviour genetic findings on happiness measured as life satisfaction (LS) and subjective wellbeing (SWB) and discuss important implications pertaining to stability and change, including the potential of individual and societal interventions. Broadly speaking, two main research strategies explore genetic and enviro..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jul 2017",
+        "authors": ["Line C. Gjerde", "Espen Moen Eilertsen", "Ted Reichborn-Kjennerud", "Eivind Ystrom"],
+        "abstract": ["Table S1. Differential item functioning for the included Child Behavior Checklist items.\n\nFigure S1. An illustration of the basic model used in the analyses."]
+      },
+      {
+        "title": "Experiences matter: Positive emotions facilitate intrinsic motivation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Helga S. Løvoll", "Espen Røysamb", "Joar Vittersø"],
+        "abstract": ["This paper has two major aims. First, to investigate how positive emotions and intrinsic motivation affect each other over time. Second, to test the effect of positive emotions and intrinsic motivation on subsequent educational choices. Through two ordinary study semesters, 64 sport students in Norway reported on their intrinsic motivation for outd..."]
+      },
+      {
+        "title": "Parental Child-Rearing Conflicts Through Adolescence: Trajectories and Associations With Child Characteristics and Externalizing Patterns",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Maren Sand Helland", "Anne Kjeldsen", "Tilmann von Soest", "Wendy Nilsen"],
+        "abstract": ["Research on longitudinal interparental conflict patterns and offspring development is scarce. The population-based TOPP study (N = 459) was used to investigate (1) child-rearing conflict trajectories through four time points during childhood and adolescence (ages 8–16), and (2) associations between conflict trajectories and child characteristics (i..."]
+      },
+      {
+        "title": "Stability and Change in Etiological Factors for Alcohol Use Disorder and Major Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Fartein Ask Torvik", "Tom Rosenström", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Alcohol use disorder (AUD) and major depressive disorder (MDD) are often comorbid. It is not understood how genetic risk factors for these disorders relate to each other over time and to what degree they are stable. Age-dependent characteristics of the disorders indicate that different genetic factors could be relevant at different stages of life,..."]
+      },
+      {
+        "title": "Cohort profile: The Tracking Opportunities and Problems Study (TOPP) - A study of Norwegian children and their parents followed from infancy to adulthood",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["Wendy Nilsen", "Anne Kjeldsen", "Evalill Bølstad Karevold", "Kristin Schjelderup Mathiesen"],
+        "abstract": []
+      },
+      {
+        "title": "Maternal alcohol use during pregnancy and offspring attention-deficit hyperactivity disorder (ADHD): A prospective sibling control study",
+        "tags": ["Article"],
+        "date": "Apr 2017",
+        "authors": ["Espen Moen Eilertsen", "Line C. Gjerde", "Ted Reichborn-Kjennerud", "Eivind Ystrom"],
+        "abstract": ["Background: \nMaternal alcohol use during pregnancy has repeatedly been associated with development of attention-deficit hyperactivity disorder (ADHD) in the offspring. It is, however not known whether this reflects a direct casual intra-uterine effect or a non-causal relationship due to confounding. We used three different approaches to control for..."]
+      },
+      {
+        "title": "Musculoskeletal Complaints, Anxiety-Depression Symptoms, and Neuroticism: A Study of Middle-Aged Twins",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Olav Vassend", "Espen Røysamb", "Christopher Sivert Nielsen", "Nikolai Olavi Czajkowski"],
+        "abstract": ["Background: \nMusculoskeletal (MS) complaints are reported commonly, but the extent to which such complaints reflect the severity of site-specific pathology or a more generalized susceptibility to feel pain/discomfort is uncertain. Both site-specific and more widespread MS conditions have been shown to be linked to anxiety and depression, but the na..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "Wellbeing, happiness, life satisfaction, mental health, personality\nTwin studies, genetics, environments\nBiometric modelling, longitudinal studies",
+    "publications": [245],
+    "reads": [123539],
+    "citations": [9656]
   }
 }

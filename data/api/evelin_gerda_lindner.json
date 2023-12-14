@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-4336-4480",
-    "name": "Evelin Gerda Lindner",
+    "orcid": ["0000-0003-4336-4480"],
+    "name": ["Evelin Gerda Lindner"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Evelin Gerda Lindner",
-    "id": "601",
+    "name": ["Evelin Gerda Lindner"],
+    "id": ["601"],
     "keywords": [],
     "position": ["Emeritus", "Guest"],
-    "img": "https://api.cristin.no/v2/persons/601/picture",
+    "img": ["https://api.cristin.no/v2/persons/601/picture"],
     "works": [
       {
         "type": "Lecture",
@@ -27,14 +27,14 @@
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "European Social Psychology and Its Responsibilities: Dignity and Humiliation",
-        "url": "https://api.cristin.no/v2/results/2178192"
+        "url": "https://api.cristin.no/v2/results/2178192",
+        "title": "European Social Psychology and Its Responsibilities: Dignity and Humiliation"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "From Humiliation and Depression to Dignity: What Can We Do?",
-        "url": "https://api.cristin.no/v2/results/2178191"
+        "url": "https://api.cristin.no/v2/results/2178191",
+        "title": "From Humiliation and Depression to Dignity: What Can We Do?"
       },
       {
         "type": "Popular scientific lecture",
@@ -49,8 +49,8 @@
       {
         "type": "Popular scientific lecture",
         "year": "2023",
-        "title": "What Is a Dignity Economy?",
-        "url": "https://api.cristin.no/v2/results/2178186"
+        "url": "https://api.cristin.no/v2/results/2178186",
+        "title": "What Is a Dignity Economy?"
       },
       {
         "type": "Lecture",
@@ -60,56 +60,56 @@
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Humiliation and Dignity, Focusing on Rwanda",
-        "url": "https://api.cristin.no/v2/results/2178184"
+        "url": "https://api.cristin.no/v2/results/2178184",
+        "title": "Humiliation and Dignity, Focusing on Rwanda"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Shame and Humiliation",
-        "url": "https://api.cristin.no/v2/results/2178183"
+        "url": "https://api.cristin.no/v2/results/2178183",
+        "title": "Shame and Humiliation"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "From Domestic Chastisement to Domestic Violence",
-        "url": "https://api.cristin.no/v2/results/2178182"
+        "url": "https://api.cristin.no/v2/results/2178182",
+        "title": "From Domestic Chastisement to Domestic Violence"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Interpersonal Skills for Academicians",
-        "url": "https://api.cristin.no/v2/results/2178179"
+        "url": "https://api.cristin.no/v2/results/2178179",
+        "title": "Interpersonal Skills for Academicians"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Dignity at the Global Workplace",
-        "url": "https://api.cristin.no/v2/results/2178177"
+        "url": "https://api.cristin.no/v2/results/2178177",
+        "title": "Dignity at the Global Workplace"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "From Humiliation to Dignity: Interpersonal Skills for Academicians",
-        "url": "https://api.cristin.no/v2/results/2178175"
+        "url": "https://api.cristin.no/v2/results/2178175",
+        "title": "From Humiliation to Dignity: Interpersonal Skills for Academicians"
       },
       {
         "type": "Lecture",
         "year": "2023",
-        "title": "World Peace Through Equal Dignity in Mutual Solidarity",
-        "url": "https://api.cristin.no/v2/results/2178174"
+        "url": "https://api.cristin.no/v2/results/2178174",
+        "title": "World Peace Through Equal Dignity in Mutual Solidarity"
       },
       {
         "type": "Interview",
         "year": "2023",
-        "title": "Rabbi David Rosen's Extraordinary Life Mission",
-        "url": "https://api.cristin.no/v2/results/2178173"
+        "url": "https://api.cristin.no/v2/results/2178173",
+        "title": "Rabbi David Rosen's Extraordinary Life Mission"
       },
       {
         "type": "Popular scientific lecture",
         "year": "2023",
-        "title": "From Humiliation to Dignity: Sharing Thoughts",
-        "url": "https://api.cristin.no/v2/results/2178171"
+        "url": "https://api.cristin.no/v2/results/2178171",
+        "title": "From Humiliation to Dignity: Sharing Thoughts"
       },
       {
         "type": "Academic lecture",
@@ -129,45 +129,45 @@
       {
         "type": "Academic monograph",
         "year": "2023",
-        "title": "From Humiliation to Dignity: For a Future of Global Solidarity",
-        "url": "https://api.cristin.no/v2/results/2042775"
+        "url": "https://api.cristin.no/v2/results/2042775",
+        "title": "From Humiliation to Dignity: For a Future of Global Solidarity"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/1464588",
         "title": "A Global Life Design: Reflections and a Chronological Description",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1464588"
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Interview",
         "year": "2022",
-        "title": "Interview with Dr. Walid Sarhan About His Life Achievements",
-        "url": "https://api.cristin.no/v2/results/2176475"
+        "url": "https://api.cristin.no/v2/results/2176475",
+        "title": "Interview with Dr. Walid Sarhan About His Life Achievements"
       },
       {
         "type": "Interview",
         "year": "2022",
-        "title": "Interview with Dr. Walid Sarhan About HumanDHS",
-        "url": "https://api.cristin.no/v2/results/2176473"
+        "url": "https://api.cristin.no/v2/results/2176473",
+        "title": "Interview with Dr. Walid Sarhan About HumanDHS"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "From Humiliation to Dignity: From the Brink of Disaster to a Future of Global Dignity in Solidarity",
-        "url": "https://api.cristin.no/v2/results/2176448"
+        "url": "https://api.cristin.no/v2/results/2176448",
+        "title": "From Humiliation to Dignity: From the Brink of Disaster to a Future of Global Dignity in Solidarity"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "The Interconnectivity of Crises: Learning Through the Lens of the Three Ecologies, Intellectual, Social, and Environmental",
-        "url": "https://api.cristin.no/v2/results/2176441"
+        "url": "https://api.cristin.no/v2/results/2176441",
+        "title": "The Interconnectivity of Crises: Learning Through the Lens of the Three Ecologies, Intellectual, Social, and Environmental"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Learning for a Dignified and Dignifying Future",
-        "url": "https://api.cristin.no/v2/results/2176436"
+        "url": "https://api.cristin.no/v2/results/2176436",
+        "title": "Learning for a Dignified and Dignifying Future"
       },
       {
         "type": "Lecture",
@@ -177,14 +177,14 @@
       {
         "type": "Lecture",
         "year": "2022",
-        "title": "Support in preparation to 'Unity in Humanity? Where Two Hands Meet'",
-        "url": "https://api.cristin.no/v2/results/2040186"
+        "url": "https://api.cristin.no/v2/results/2040186",
+        "title": "Support in preparation to 'Unity in Humanity? Where Two Hands Meet'"
       },
       {
         "type": "Lecture",
         "year": "2022",
-        "title": "Human Dignity and Humiliation Dialogue: An Interdisciplinary Seminar ",
-        "url": "https://api.cristin.no/v2/results/2040185"
+        "url": "https://api.cristin.no/v2/results/2040185",
+        "title": "Human Dignity and Humiliation Dialogue: An Interdisciplinary Seminar "
       },
       {
         "type": "Lecture",
@@ -194,63 +194,63 @@
       {
         "type": "Interview",
         "year": "2022",
-        "title": "Linda Hartling and Evelin Lindner on Metta Spencer's Talk Show, Episode 473",
-        "url": "https://api.cristin.no/v2/results/2040181"
+        "url": "https://api.cristin.no/v2/results/2040181",
+        "title": "Linda Hartling and Evelin Lindner on Metta Spencer's Talk Show, Episode 473"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Colloquium: From Humiliation to Dignity: Research since 1997 at the Department of Psychology",
-        "url": "https://api.cristin.no/v2/results/2040180"
+        "url": "https://api.cristin.no/v2/results/2040180",
+        "title": "Colloquium: From Humiliation to Dignity: Research since 1997 at the Department of Psychology"
       },
       {
         "type": "Interview",
         "year": "2022",
-        "title": "The Human Climate: Carol Smaldino with Guest Evelin Lindner and Linda Hartling",
-        "url": "https://api.cristin.no/v2/results/2040178"
+        "url": "https://api.cristin.no/v2/results/2040178",
+        "title": "The Human Climate: Carol Smaldino with Guest Evelin Lindner and Linda Hartling"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Humiliation and Dignity, Focusing on Rwanda",
-        "url": "https://api.cristin.no/v2/results/2040177"
+        "url": "https://api.cristin.no/v2/results/2040177",
+        "title": "Humiliation and Dignity, Focusing on Rwanda"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Humiliation and Dignity, Focusing on Rwanda",
-        "url": "https://api.cristin.no/v2/results/2040175"
+        "url": "https://api.cristin.no/v2/results/2040175",
+        "title": "Humiliation and Dignity, Focusing on Rwanda"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "The History of the World Dignity University Idea",
-        "url": "https://api.cristin.no/v2/results/1972957"
+        "url": "https://api.cristin.no/v2/results/1972957",
+        "title": "The History of the World Dignity University Idea"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Stop Sociocide! Stop the Wearing Down of Our Sociosphere!",
-        "url": "https://api.cristin.no/v2/results/1972951"
+        "url": "https://api.cristin.no/v2/results/1972951",
+        "title": "Stop Sociocide! Stop the Wearing Down of Our Sociosphere!"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "From Humiliation to Dignity: For a Future of Global Solidarity",
-        "url": "https://api.cristin.no/v2/results/1972945"
+        "url": "https://api.cristin.no/v2/results/1972945",
+        "title": "From Humiliation to Dignity: For a Future of Global Solidarity"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1972939",
         "title": "From humiliation to dignity: For a Future of Global Solidarity – The Coronavirus Pandemic as Opportunity in the Midst of Suffering",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1972939"
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "From Humiliation to Dignity: For a Future of Responsible Global Solidarity",
-        "url": "https://api.cristin.no/v2/results/1972923"
+        "url": "https://api.cristin.no/v2/results/1972923",
+        "title": "From Humiliation to Dignity: For a Future of Responsible Global Solidarity"
       },
       {
         "type": "Popular scientific lecture",
@@ -260,28 +260,28 @@
       {
         "type": "Lecture",
         "year": "2021",
-        "title": "Can Human Solidarity Globalize?",
-        "url": "https://api.cristin.no/v2/results/1921926"
+        "url": "https://api.cristin.no/v2/results/1921926",
+        "title": "Can Human Solidarity Globalize?"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1899693",
         "title": "International Women’s Day on 8th March 2021: Reflections",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1899693"
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Sexual Abuse of Children in the Context of Dignity and Humiliation",
-        "url": "https://api.cristin.no/v2/results/1881637"
+        "url": "https://api.cristin.no/v2/results/1881637",
+        "title": "Sexual Abuse of Children in the Context of Dignity and Humiliation"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1864461",
         "title": "Message of Appreciation for Peter Coleman, as He Was Honored with the 2020 HumanDHS Lifetime Commitment Award",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1864461"
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Popular scientific lecture",
@@ -296,32 +296,32 @@
       {
         "type": "Popular scientific lecture",
         "year": "2020",
-        "title": "Message to the World from Linda Hartling and Evelin Lindner",
-        "url": "https://api.cristin.no/v2/results/1864345"
+        "url": "https://api.cristin.no/v2/results/1864345",
+        "title": "Message to the World from Linda Hartling and Evelin Lindner"
       },
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "From Humiliation to Dignity: For a Future of Global Solidarity — From a Virus Pandemic to a Pandemic of Dignity: How Can We Escape Complicity with Institutionalized Humiliation?",
-        "url": "https://api.cristin.no/v2/results/1864341"
+        "url": "https://api.cristin.no/v2/results/1864341",
+        "title": "From Humiliation to Dignity: For a Future of Global Solidarity — From a Virus Pandemic to a Pandemic of Dignity: How Can We Escape Complicity with Institutionalized Humiliation?"
       },
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "From Humiliation to Dignity: For a Future of Global Solidarity — A Meta-Narrative for Times of Radical Transformation",
-        "url": "https://api.cristin.no/v2/results/1864340"
+        "url": "https://api.cristin.no/v2/results/1864340",
+        "title": "From Humiliation to Dignity: For a Future of Global Solidarity — A Meta-Narrative for Times of Radical Transformation"
       },
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "From Humiliation to Dignity: For a Future of Global Solidarity — Narratives in Times of Radical Transformation",
-        "url": "https://api.cristin.no/v2/results/1864339"
+        "url": "https://api.cristin.no/v2/results/1864339",
+        "title": "From Humiliation to Dignity: For a Future of Global Solidarity — Narratives in Times of Radical Transformation"
       },
       {
         "type": "Popular scientific lecture",
         "year": "2020",
-        "title": "Heart-Talk on Transformation",
-        "url": "https://api.cristin.no/v2/results/1864335"
+        "url": "https://api.cristin.no/v2/results/1864335",
+        "title": "Heart-Talk on Transformation"
       },
       {
         "type": "Popular scientific lecture",
@@ -331,28 +331,28 @@
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "From Humiliation to Dignity: For a Future of Global Solidarity",
-        "url": "https://api.cristin.no/v2/results/1864325"
+        "url": "https://api.cristin.no/v2/results/1864325",
+        "title": "From Humiliation to Dignity: For a Future of Global Solidarity"
       },
       {
         "type": "Lecture",
         "year": "2020",
-        "title": "Human Dignity and Humiliation Dialogue",
-        "url": "https://api.cristin.no/v2/results/1824622"
+        "url": "https://api.cristin.no/v2/results/1824622",
+        "title": "Human Dignity and Humiliation Dialogue"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1823257",
         "title": "From Humiliation to Dignity: For a Future of Global Solidarity – The Corona Pandemic as Oppportunity in the Midst of Suffering",
-        "journal": "InterViews: An Interdisciplinary Journal in Social Sciences",
-        "url": "https://api.cristin.no/v2/results/1823257"
+        "journal": "InterViews: An Interdisciplinary Journal in Social Sciences"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1820838",
         "title": "Humiliation to Dignity: Future of Global Solidarity: IANS Interview with Evelin Lindner after the E-Conclave with Sri Sathya Sai Vidya Vihar in Indore, India",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1820838"
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Lecture",
@@ -362,14 +362,14 @@
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "On Dignity and Humiliation: The Case of the Amazon Rainforest",
-        "url": "https://api.cristin.no/v2/results/1819278"
+        "url": "https://api.cristin.no/v2/results/1819278",
+        "title": "On Dignity and Humiliation: The Case of the Amazon Rainforest"
       },
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "Post-Conflict Reconstruction and Reconciliation: The Case of Rwanda",
-        "url": "https://api.cristin.no/v2/results/1819277"
+        "url": "https://api.cristin.no/v2/results/1819277",
+        "title": "Post-Conflict Reconstruction and Reconciliation: The Case of Rwanda"
       },
       {
         "type": "Lecture",
@@ -379,66 +379,66 @@
       {
         "type": "Lecture",
         "year": "2020",
-        "title": "Humiliation to Dignity: Future of Global Solidarity",
-        "url": "https://api.cristin.no/v2/results/1819275"
+        "url": "https://api.cristin.no/v2/results/1819275",
+        "title": "Humiliation to Dignity: Future of Global Solidarity"
       },
       {
         "type": "Lecture",
         "year": "2020",
-        "title": "Dignity Now — Forum Contribution to \"After the Pandemic: Which Future?\"",
-        "url": "https://api.cristin.no/v2/results/1814128"
+        "url": "https://api.cristin.no/v2/results/1814128",
+        "title": "Dignity Now — Forum Contribution to \"After the Pandemic: Which Future?\""
       },
       {
         "type": "Academic lecture",
         "year": "2020",
-        "title": "From Humiliation to Dignity: For a Future of Global Solidarity — The Coronavirus Pandemic as Opportunity in the Midst of Suffering",
-        "url": "https://api.cristin.no/v2/results/1814127"
+        "url": "https://api.cristin.no/v2/results/1814127",
+        "title": "From Humiliation to Dignity: For a Future of Global Solidarity — The Coronavirus Pandemic as Opportunity in the Midst of Suffering"
       },
       {
         "type": "Popular scientific article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1809874",
         "title": "From humiliation to dignity: For a future of global solidarity – The Corona pandemic as oppportunity in the midst of suffering",
-        "journal": "TRANSCEND Media Service",
-        "url": "https://api.cristin.no/v2/results/1809874"
+        "journal": "TRANSCEND Media Service"
       },
       {
         "type": "Chapter",
         "year": "2020",
-        "title": "Raising Our Resilience in Times of Risk",
-        "url": "https://api.cristin.no/v2/results/1809082"
+        "url": "https://api.cristin.no/v2/results/1809082",
+        "title": "Raising Our Resilience in Times of Risk"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2020",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1805595"
+        "url": "https://api.cristin.no/v2/results/1805595",
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1804828",
         "title": "From Humiliation to Dignity: For a Future of Global Solidarity – The Coronavirus Pandemic as Opportunity in the Midst of Suffering",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1804828"
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Lecture",
         "year": "2020",
-        "title": "Reflections on A Great Ethics Transition: The Earth Charter At Twenty",
-        "url": "https://api.cristin.no/v2/results/1787161"
+        "url": "https://api.cristin.no/v2/results/1787161",
+        "title": "Reflections on A Great Ethics Transition: The Earth Charter At Twenty"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1864344",
         "title": "Human Nature and Dignity: If We Continue to Believe in the Evilness of Human Nature, We May Be Doomed",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1864344"
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1805104",
         "title": "Bringing Dignity to Globalisation: A Psychologist’s Personal Experience as a Global Citizen - Evelin Lindner’s Global Life",
-        "journal": "Human Dignity and Humiliation Studies",
-        "url": "https://api.cristin.no/v2/results/1805104"
+        "journal": "Human Dignity and Humiliation Studies"
       },
       {
         "type": "Documentary",
@@ -448,20 +448,20 @@
       {
         "type": "Interview",
         "year": "2019",
-        "title": "Poly Money Podcast with Mel Wymore, Stefanie Overbeck and Riley Paul",
-        "url": "https://api.cristin.no/v2/results/1766350"
+        "url": "https://api.cristin.no/v2/results/1766350",
+        "title": "Poly Money Podcast with Mel Wymore, Stefanie Overbeck and Riley Paul"
       },
       {
         "type": "Lecture",
         "year": "2019",
-        "title": "Can We Teach Dignity? Lessons from the People of the Amazon",
-        "url": "https://api.cristin.no/v2/results/1766349"
+        "url": "https://api.cristin.no/v2/results/1766349",
+        "title": "Can We Teach Dignity? Lessons from the People of the Amazon"
       },
       {
         "type": "Lecture",
         "year": "2019",
-        "title": "A Summary of Evelin Lindner's Impressions During the 2019 Dignity Conference in the Amazon",
-        "url": "https://api.cristin.no/v2/results/1736224"
+        "url": "https://api.cristin.no/v2/results/1736224",
+        "title": "A Summary of Evelin Lindner's Impressions During the 2019 Dignity Conference in the Amazon"
       },
       {
         "type": "Interview",
@@ -471,8 +471,8 @@
       {
         "type": "Popular scientific lecture",
         "year": "2019",
-        "title": "Evelin Lindner on Combú Island, Amazonian State of Pará, Brasil",
-        "url": "https://api.cristin.no/v2/results/1730564"
+        "url": "https://api.cristin.no/v2/results/1730564",
+        "title": "Evelin Lindner on Combú Island, Amazonian State of Pará, Brasil"
       },
       {
         "type": "Popular scientific lecture",
@@ -482,20 +482,20 @@
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Encontre e conecte! Please Meet and Connect!",
-        "url": "https://api.cristin.no/v2/results/1730562"
+        "url": "https://api.cristin.no/v2/results/1730562",
+        "title": "Encontre e conecte! Please Meet and Connect!"
       },
       {
         "type": "Lecture",
         "year": "2019",
-        "title": "The World Dignity University Initiative in Vila Praia Alta",
-        "url": "https://api.cristin.no/v2/results/1730489"
+        "url": "https://api.cristin.no/v2/results/1730489",
+        "title": "The World Dignity University Initiative in Vila Praia Alta"
       },
       {
         "type": "Popular scientific lecture",
         "year": "2019",
-        "title": "Circle of Love Gifts in Marabá, Amazonian State of Pará, Brasil",
-        "url": "https://api.cristin.no/v2/results/1730488"
+        "url": "https://api.cristin.no/v2/results/1730488",
+        "title": "Circle of Love Gifts in Marabá, Amazonian State of Pará, Brasil"
       },
       {
         "type": "Popular scientific lecture",
@@ -510,8 +510,8 @@
       {
         "type": "Interview",
         "year": "2019",
-        "title": "Dignity and Humiliation",
-        "url": "https://api.cristin.no/v2/results/1730478"
+        "url": "https://api.cristin.no/v2/results/1730478",
+        "title": "Dignity and Humiliation"
       },
       {
         "type": "Academic monograph",
@@ -521,14 +521,14 @@
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Post-Conflict Reconstruction and Reconciliation: The Case of Rwanda",
-        "url": "https://api.cristin.no/v2/results/1695305"
+        "url": "https://api.cristin.no/v2/results/1695305",
+        "title": "Post-Conflict Reconstruction and Reconciliation: The Case of Rwanda"
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "On Dignity and Humiliation",
-        "url": "https://api.cristin.no/v2/results/1695304"
+        "url": "https://api.cristin.no/v2/results/1695304",
+        "title": "On Dignity and Humiliation"
       },
       {
         "type": "Popular scientific lecture",
@@ -538,20 +538,20 @@
       {
         "type": "Lecture",
         "year": "2019",
-        "title": "Annual Mandela Lecture: From Humiliation to Dignity: For a Future of Global Solidarity",
-        "url": "https://api.cristin.no/v2/results/1695302"
+        "url": "https://api.cristin.no/v2/results/1695302",
+        "title": "Annual Mandela Lecture: From Humiliation to Dignity: For a Future of Global Solidarity"
       },
       {
         "type": "Lecture",
         "year": "2018",
-        "title": "Greetings from the Dignity Conference in Egypt",
-        "url": "https://api.cristin.no/v2/results/1647695"
+        "url": "https://api.cristin.no/v2/results/1647695",
+        "title": "Greetings from the Dignity Conference in Egypt"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Welcome to Human Dignity and Humiliation Studies and the World Dignity University Initiative",
-        "url": "https://api.cristin.no/v2/results/1647694"
+        "url": "https://api.cristin.no/v2/results/1647694",
+        "title": "Welcome to Human Dignity and Humiliation Studies and the World Dignity University Initiative"
       },
       {
         "type": "Popular scientific lecture",
@@ -566,45 +566,753 @@
       {
         "type": "Popular scientific lecture",
         "year": "2018",
-        "title": "Honor, Humiliation, and Terror: An Explosive Mix – And How We Can Defuse It with Dignity",
-        "url": "https://api.cristin.no/v2/results/1647690"
+        "url": "https://api.cristin.no/v2/results/1647690",
+        "title": "Honor, Humiliation, and Terror: An Explosive Mix – And How We Can Defuse It with Dignity"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "From Humiliation to Dignity: For a Future of Global Solidarity",
-        "url": "https://api.cristin.no/v2/results/1647689"
+        "url": "https://api.cristin.no/v2/results/1647689",
+        "title": "From Humiliation to Dignity: For a Future of Global Solidarity"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "How Does a Dignified Future Look Like?",
-        "url": "https://api.cristin.no/v2/results/1647688"
+        "url": "https://api.cristin.no/v2/results/1647688",
+        "title": "How Does a Dignified Future Look Like?"
       },
       {
         "type": "Lecture",
         "year": "2018",
-        "title": "Invitation to the 2018 Conference ‘Strategies for a Sustainable Future’ in Cairo, Egypt",
-        "url": "https://api.cristin.no/v2/results/1647687"
+        "url": "https://api.cristin.no/v2/results/1647687",
+        "title": "Invitation to the 2018 Conference ‘Strategies for a Sustainable Future’ in Cairo, Egypt"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Post-Conflict Reconstruction and Reconciliation: The Case of Rwanda",
-        "url": "https://api.cristin.no/v2/results/1647686"
+        "url": "https://api.cristin.no/v2/results/1647686",
+        "title": "Post-Conflict Reconstruction and Reconciliation: The Case of Rwanda"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "On Dignity and Humiliation",
-        "url": "https://api.cristin.no/v2/results/1647685"
+        "url": "https://api.cristin.no/v2/results/1647685",
+        "title": "On Dignity and Humiliation"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Humiliation, and How We Can Overcome It",
-        "url": "https://api.cristin.no/v2/results/1647684"
+        "url": "https://api.cristin.no/v2/results/1647684",
+        "title": "Humiliation, and How We Can Overcome It"
       }
     ]
+  },
+  "rg": {
+    "id": "Evelin-Lindner",
+    "name": "Evelin Gerda Lindner",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277708970971169-1443222386868_Q128/Evelin-Lindner.jpg",
+    "affiliation": "Human Dignity and Humiliation Studies, wwwhumiliationstudiesorgwhoweareevelinphp",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Can Systemic Humiliation Be Transformed into Systemic Dignity?",
+        "tags": ["Chapter"],
+        "date": "Mar 2018",
+        "authors": ["Linda M. Hartling", "Evelin Gerda Lindner"],
+        "abstract": ["The United States, as in other nations, is in the midst of a social-climate crisis inflamed by a staggering economic gap between the rich and the poor, a polarized and paralyzed political system, a history of criminal injustice that has led to mass incarceration of marginalized populations, a proliferation of gun violence and rampage shootings, and..."]
+      },
+      {
+        "title": "Toward a globally informed psychology of humiliation: Comment on McCauley (2017).",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Linda M. Hartling", "Evelin Gerda Lindner"],
+        "abstract": ["There has never been a more urgent time for psychologists to gain a broader and deeper understanding of the pernicious dynamics of humiliation. Congratulations to the American Psychologist for introducing an article on the topic of humiliation and asymmetric conflict. Based on more than 20 years of research, a global community of scholars has estab..."]
+      },
+      {
+        "title": "Healing Humiliation: From Reaction to Creative Action",
+        "tags": ["Article"],
+        "date": "Oct 2016",
+        "authors": ["Linda M. Hartling", "Evelin Gerda Lindner"],
+        "abstract": ["• Abstract, 2016: In the midst of global crises, feelings of humiliation are intensified (Lindner, 2008; Moïsi, 2009). Counselors are often on the front lines of suffering during turbulent times. This article explores how the dynamics of humiliation are coming to the forefront of concern around the globe. Applying a relational framework, the author..."]
+      },
+      {
+        "title": "The journey of humiliation and dignity, and the significance of the year 1757",
+        "tags": ["Book"],
+        "date": "Jan 2016",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "A global life design: Reflections and a chronological description, 2006 – 2016",
+        "tags": ["Book"],
+        "date": "Jan 2016",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Nobel Peace Prize Nomination 2015: Reflections by Evelin Lindner",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["We are celebrating all of the remarkable individuals and groups who have been nominated for the 2015 Nobel Peace Prize in February 2015. We are especially delighted that included on this list, as representative of our Human Dignity and Humiliation Studies network, is Evelin Lindner, our Founding President. Her nomination is an affirmation of her fo..."]
+      },
+      {
+        "title": "Sustainable peace survey",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Dignity, humiliation, and food: The way we eat as part of a large-scale dignity revolution",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Regaining dignity: A dignity renaissance",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "The dangerous 'glory' of killing: La Donna del Lago and Die Flerdermaus",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Hva har kultur- og samfunnspsykologi med verdighet å gjøre?",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This lecture has been video-taped and can be viewed at http://www.sv.uio.no/it/av/PSYC3203-14.1.09.html"]
+      },
+      {
+        "title": "Reflections on the 25th Dignity Conference in Rwanda in 2015",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Puccini’s Tosca, and the journey toward respect for equal dignity for all",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Beyond Foucault: The rise of indigenous subjugated knowledges – Dialogues with Howard Richards, Catherine Odora Hoppers, and Evelin Lindner",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Howard Richards", "Catherine Odora Hoppers", "Evelin Gerda Lindner"],
+        "abstract": ["In May of 2013 Howard Richards gave a series of twelve lectures titled “Against Foucault” in Pretoria, South Africa, under the auspices of the South African Research Chair in Development Education hosted at the University of South Africa. Catherine Hoppers is the incumbent of the Chair. Evelin Lindner was then a visiting scholar invited by the Chai..."]
+      },
+      {
+        "title": "Alban Berg's Lulu, and the journey from humiliation to dignity, from the “machine principle” to the “life principle”",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Tannhäuser, terrorism, revolution, and economism",
+        "tags": ["Book"],
+        "date": "Jan 2015",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "The need to avoid humiliation and create equality of dignity",
+        "tags": ["Book"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Verdighet eller ydmykelse?",
+        "tags": ["Book"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This lecture has been video-taped and can be viewed at http://www.sv.uio.no/it/av/PSYC3203-14.1.09.html"]
+      },
+      {
+        "title": "Urban dignity - global dignity: What is it? How do we achieve it? Part 1 and 2",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Dignity, peace and harmony",
+        "tags": ["Book"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Ydmykelse, ydmykhet og demokrati",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "A global Dignilogue (Dignity + Dialogue) with Evelin Lindner and Linda Hartling",
+        "tags": ["Book"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner", "Linda M. Hartling"],
+        "abstract": []
+      },
+      {
+        "title": "The terrorist",
+        "tags": ["Book"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Global dignity: What is it? How do we achieve it?",
+        "tags": ["Book"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Living globally: Global citizenship of dignity and care as personal practice",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["I admit, I am a pioneer, almost too far ahead of my time – I have not yet met another person who intentionally develops a global life design like me. Yet I am sure that many more people would derive great joy from trying my path."]
+      },
+      {
+        "title": "Humiliation: A nuclear bomb of emotions?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Linda M. Hartling", "Evelin Gerda Lindner", "Uli Spalthoff", "M. Britton"],
+        "abstract": []
+      },
+      {
+        "title": "A dignity economy",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner", "Kosheek Sewchurran"],
+        "abstract": []
+      },
+      {
+        "title": "How can we break the cycles of humiliation and co-create our common future?",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner", "James Alexander Arnfinsen"],
+        "abstract": []
+      },
+      {
+        "title": "Dignity and humiliation: Evelin Lindner: Interview with Bathabile K. S. Mthombeni",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner", "Siyabonga Mthombeni"],
+        "abstract": []
+      },
+      {
+        "title": "Dignity and humiliation: Norway and the concept of likeverd",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This lecture has been video-taped and can be viewed at http://www.sv.uio.no/it/av/PSYC3203-14.1.09.html"]
+      },
+      {
+        "title": "There is no path to peace. Peace is the path",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "A global perspective: A dignilogue with Evelin Lindner",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "International Day of Democracy: The Contribution of the Human Dignity and Humiliation Studies Network",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Linda M. Hartling", "Evelin Gerda Lindner", "Ulrich Josef Spalthoff", "Michael Francis Britton"],
+        "abstract": []
+      },
+      {
+        "title": "Konstruktive Veränderungsprozesse in der Behandlung von traumatisierten oder anders gedemütigten Menschen",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Beyond humiliation: Toward learning that dignifies the lives of all people",
+        "tags": ["Chapter"],
+        "date": "Jan 2013",
+        "authors": ["Linda M. Hartling", "Evelin Gerda Lindner", "Michael Francis Britton", "Ulrich Josef Spalthoff"],
+        "abstract": []
+      },
+      {
+        "title": "Human dignity, humiliation and violent conflict - Interview with Dr. Evelin Lindner and Dr. Linda Hartling",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner", "Linda M. Hartling"],
+        "abstract": []
+      },
+      {
+        "title": "Who we are and our latest news",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Human dignity and humiliation studies: Transdisciplinarity in practice",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner", "Robert Morrell"],
+        "abstract": []
+      },
+      {
+        "title": "Verdighetens økonomi",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Fostering global citizenship (2)",
+        "tags": ["Book"],
+        "date": "May 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["Morton Deutsch wrote in 1973: “In a cooperative situation the goals are so linked that everybody ‘sinks or swims’ together, while in the competitive situation if one swims, the other must sink.” This chapter argues that, at present, global society has not yet learned to swim together, and thus risks sinking together. Global society’s psychological,..."]
+      },
+      {
+        "title": "Ydmykelse, identitet og konflikt",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Dignidad humana en el quehacer político",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Encuentra Cordinadoria de la Universidad Mondial de la Dignidad",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["Seminar with Evelin Lindner at the Dialogue Home of Howard Richards and the Centro para el desarrollo alternativo en Limache, Chile, 5th April 2012, upon the invitation of Howard Richards and Claudia Arcos Duarte (who translated from German into Spanish) and Andrea Osorio Mendez (who contributed with making food).\nWe concluded that dignity, or equa..."]
+      },
+      {
+        "title": "Reflexões Democráticas: Direitos Humanos, Tolerância e Humilhação (Democratic reflections: Human rights, tolerance and humiliation)",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "La Ética de la Dignidad y la Humildad, Presentación de la iniciativa Universidad Mundial de la Dignidad",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["La Ética de la Dignidad y la Humildad, Presentación de la iniciativa Universidad Mundial de la Dignidad: Charla por El Departamento de extensión del Instituto de Ciencias Religiosas Ad Instar Facultatis de la Pontificia Universidad Católica de Valparaíso, Chile.\n20th April 2012, El Departamento de extensión del Instituto de Ciencias Religiosas Ad I..."]
+      },
+      {
+        "title": "Ydmykelse er årsaken til krig, vold og undertrykking: Intervju med Aase Cathrine Myrtveit",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner", "Aase Cathrine Myrtveit"],
+        "abstract": []
+      },
+      {
+        "title": "Dignity, humiliation, and conflict: Interview with Pattie Porter",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner", "Pattie Porter"],
+        "abstract": []
+      },
+      {
+        "title": "¿Se puede manifestar más dignidad? En lugar de más humillación?",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This talk was given in German, kindly translated by Claudia Arcos into Spanish. See the political background for this talk described in an article in The Economist, Chile: Progress and its Discontents - A popular student rebellion shows that, as Chileans become better off, they want the government to guarantee a fairer society. Politicians are stru..."]
+      },
+      {
+        "title": "Dignidad humana en el quehacer político",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Ydmykelse som bakenforliggende motiv i internasjonale konflikter og politisk massevold",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Who we are and our latest news",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Conflict resolution",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner", "Hayal Koksal"],
+        "abstract": []
+      },
+      {
+        "title": "A dignity economy: Creating an economy that serves human dignity and preserves our planet",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["See www.humiliationstudies.org/whoweare/evelin/04.php. \nPlease contact the author at e.g.lindner@psykologi.uio.no if you would like to have access to this book. Please see also www.humiliationstudies.org/whoweare/evelin02.php for other full texts to download."]
+      },
+      {
+        "title": "Dialogue on dignity and humiliation",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["Presentation given at Centro de Direitos Humanos e Educação Popular de Campo Limpo (CHDEP) in Jardim Ângela, São Paulo, where also Fernando Rangel presented the path-breaking Agência Popular Solano Trindade, which is a currency, a bank, and a community in Capão Redondo, Friday, 1st June 2012.\nSee the video where Gabriela Saab Presents the World Dig..."]
+      },
+      {
+        "title": "The paradigm of dignity: An interview with Dr. Evelin Gerda Lindner, Gaialogue with Joanna Harcourt-Smith",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["Evelin Lindner speaks with Joanna abour dignity as sustainability; inequality and humiliation: Rwanda and South Africa; convergence of activism and spiritual practice; living “a dignity economy”; love and social cohesion instead of predator capitalism; the World Dignity University…"]
+      },
+      {
+        "title": "Interview with Ignacia Imboden",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner", "Ignacia Imboden"],
+        "abstract": []
+      },
+      {
+        "title": "Radio intervju med Margrete Nåvik",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner", "Margrete Nåvik"],
+        "abstract": []
+      },
+      {
+        "title": "World citizen radio with Garry Davis",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner", "Garry Davis"],
+        "abstract": []
+      },
+      {
+        "title": "Dialogue on dignity and humiliation",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "After 22nd July: Humiliation and terrorism",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Creating a dignified world: A video message to the Brazilian people from Evelin Lindner",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Shame, humiliation, and humility: How human rights ideals impact their roles in the continuum of balance and the continuum of toxicity",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Humiliation and terrorism",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This lecture has been video-taped and can be viewed at http://www.sv.uio.no/it/av/PSYC3203-14.1.09.html"]
+      },
+      {
+        "title": "Fostering global citizenship",
+        "tags": ["Chapter"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Ydmykelse og folkemord - den indre forbindelsen",
+        "tags": ["Book"],
+        "date": "Jan 2012",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Human Dignity and Humiliation Studies: A Global Network Advancing Dignity through Dialogue",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Evelin Gerda Lindner", "Linda M. Hartling", "Uli Spalthoff"],
+        "abstract": ["Human rights are universally based on the concept of human dignity. Various 5 international organizations are developing the theoretical, legal, and political framework for 6 human rights. The underlying concept of human dignity is less disputed, but also receives 7 less attention. This shortcoming is addressed by a worldwide group of scholars and..."]
+      },
+      {
+        "title": "Gender, Humiliation, and Global Security: Dignifying relationships from love, sex, and parenthood to world affairs",
+        "tags": ["Book"],
+        "date": "Jan 2010",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["Foreword by Desmod Tutu. See www.humiliationstudies.org/whoweare/evelin/03.php. Please contact the author at e.g.lindner@psykologi.uio.no if you would like to have access to this book. Please see also www.humiliationstudies.org/whoweare/evelin02.php for other full texts to download."]
+      },
+      {
+        "title": "Peace and Dignity: More than the Absence of Humiliation–What We Can Learn from the Asia-Pacific Region",
+        "tags": ["Article"],
+        "date": "Dec 2009",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["In an interdependent world, peace is not optional, it is compulsory, if humankind is to survive. Local conflicts, particularly protracted conflicts, are inscribed into, and taken hostage by larger global pressures, and vice versa, and this diffuses insecurity. Peace is more than resolved conflict. What is needed is the pro-active creation of global..."]
+      },
+      {
+        "title": "How Asia Can Contribute to World Peace Psychology: Creating a Dignified and Peaceful World by Employing Unity in Diversity",
+        "tags": ["Chapter"],
+        "date": "May 2009",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["Kaku (2005), a renowned physicist born in California of Asian background, writes: “The generation now alive is perhaps the\nmost important generation of humans ever to walk the Earth. Unlike previous generations, we hold in our hands the future destiny\nof our species, whether we soar into fulfilling our promise as a type I civilization (meaning a ci..."]
+      },
+      {
+        "title": "Genocide, humiliation, and inferiority: An interdisciplinary perspective",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This chapter argues that the root of gen ocides does not lie in ethnic fault lines, dwindling resources, \"rational\" conflicts of interest, or any general \"evil\" of human nature or modernity, but rather in complex psychological mindsets and behavioral clusters that exhibit their own homicidal- and also often suicidal-\"rationality.\" History offers ma..."]
+      },
+      {
+        "title": "Emotion and conflict: How human rights can dignify emotion and help us wage good conflict",
+        "tags": ["Book"],
+        "date": "Jan 2009",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["See www.humiliationstudies.org/whoweare/evelin/02.php. \nPlease contact the author at e.g.lindner@psykologi.uio.no if you would like to have access to this book. Please see also www.humiliationstudies.org/whoweare/evelin02.php for other full texts to download."]
+      },
+      {
+        "title": "Why there can be no conflict resolution as long as people are being humiliated",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This paper discusses how conflict resolution and reconciliation, in their interplay with emotions, are embedded into two current trends: The transition toward increasing global interdependence, and the call for equal dignity for all. In a traditional world of ranked honour, humiliation is often condoned as a legitimate and useful tool; however, in..."]
+      },
+      {
+        "title": "The Need for a New World",
+        "tags": ["Article"],
+        "date": "Jan 2008",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["We live in times of crisis. This paper is a conceptual paper, aiming at exposing the core patterns that can help us build a new world. It views the required changes against the backdrop of a larger geo-historical context. This paper points out that when old paradigms fall, space opens for a new future. This space has to be filled constructively. \"I..."]
+      },
+      {
+        "title": "Dynamics of Humiliation in a Globalizing World",
+        "tags": ["Article"],
+        "date": "Sep 2007",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This article argues that a new concept of Realpolitik has to be developed. Old Realpolitik was defined by fear, collective fear of attack from outgroups, informed by the so-called security dilemma. In contrast, the new concept of Realpolitik should take into account the new normative system that currently gains mainstream acceptance in a globalizin..."]
+      },
+      {
+        "title": "Making enemies: Humiliation and international conflict",
+        "tags": ["Book"],
+        "date": "Jan 2006",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["See www.humiliationstudies.org/whoweare/evelin/01.php. \nPlease contact the author at e.g.lindner@psykologi.uio.no if you would like to have access to this book. Please see also www.humiliationstudies.org/whoweare/evelin02.php for other full texts to download."]
+      },
+      {
+        "title": "Emotion and conflict: Why it is important to understand how emotions affect conflict and how conflict affects emotions",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Humiliation, War and Gender: Worse Than Death: Humiliating Words",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Human Rights, Humiliation, and Globalization",
+        "tags": ["Article"],
+        "date": "Feb 2005",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This text is a chapter that highlights how human rights ideals together with globalization profoundly impinge on relationships, both globally and locally. This chapter calls attention to how certain psychological phenomena, such as dynamics of humiliation, gain significance, and thus have to be included into any equation of strategy or public polic..."]
+      },
+      {
+        "title": "Humiliation in a Globalizing World: Does Humiliation Become the Most Disruptive Force?",
+        "tags": ["Article"],
+        "date": "Jan 2005",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This paper highlights how globalization is interlinked with new and unprecedented psychological dynamics that call for novel solutions at all levels - macro, meso and micro levels, and in all fields of public policy. This paper is a central program paper of Human Dignity and Humiliation Studies, a global network of academicians and practitioners, o..."]
+      },
+      {
+        "title": "Humiliation or Dignity: Regional Conflicts in the Global Village",
+        "tags": ["Article"],
+        "date": "Feb 2003",
+        "authors": ["Gerda Evelin", "Lindner", "Dr Psychol Med Evelin", "Evelin Gerda Lindner"],
+        "abstract": ["Often regional conflicts are treated as if they are placed in a vacuum, independent of their environment. This paper attempts to put regional conflict regions into the perspective of a globalising world. It is suggested that feelings of humiliation play a central role in this process. Human rights ideals extend dignity to all humankind and prohibit..."]
+      },
+      {
+        "title": "Humiliation or dignity: Regional conflicts in the global village",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Healing the Cycles of Humiliation: How to Attend to the Emotional Aspects of Unsolvable Conflicts and the Use of Humiliation Entrepreneurship",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2002",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This article identifies the dynamics of humiliation as a core agent in conflicts that escalate into cycles of violence, such as terrorism or genocide, where parties feel humiliated and entitled to retaliate with violence. I describe a 4-year research project on the notion of humiliation, which had its starting point in the hypothesis that the humil..."]
+      },
+      {
+        "title": "'Gendercide and Humiliation in Honor and Human-Rights Societies'",
+        "tags": ["Article"],
+        "date": "Mar 2002",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Ydmykelse og konflikt – en nøkkel til å forstå verden og oss selv",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Humiliation-Trauma That Has Been Overlooked: An Analysis Based on Fieldwork in Germany, Rwanda/Burundi, and Somalia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2001",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["What differentiates trauma from humiliation? This is one of the questions this article tries to answer. Trauma may occur without humiliation, as in the case of natural disaster, however, humiliation may be the core agent of trauma. Furthermore, this paper suggests that the role and significance of humiliation for traumatic experiences has long been..."]
+      },
+      {
+        "title": "Humiliation and the human condition: Mapping a minefield",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["Dr Psychol Med Evelin", "Evelin Gerda Lindner"],
+        "abstract": ["A major cause of socio-political violence is the social process of humiliation, whose main elements are closely related to central aspects of the cultural repertoire of complex societies. This paper presents a theory of humiliation, showing that the capacity to humiliate and be humiliated are aspects of a dense web of 'hot' filaments wired into the..."]
+      },
+      {
+        "title": "Humiliation and human rights: Mapping a minefield",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["A major cause of socio-political violence is the social process of humiliation, whose main elements are closely related to central aspects of the cultural repertoire of complex societies. This paper presents the outlines of a theory of humiliation, showing that the capacity to humiliate and be humiliated are aspects of a dense web of\"hot\"filaments..."]
+      },
+      {
+        "title": "Humiliation as the source of terrorism: A new paradigm",
+        "tags": ["Article"],
+        "date": "Jan 2001",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Were Ordinary Germans Hitler's 'Willing Executioners'? Or Were They Victims of Humiliating Seduction and Abandonment? The Case of Germany and Somalia",
+        "tags": ["Article"],
+        "date": "Dec 2000",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This article presents findings from fieldwork in Africa (1998, 1999) and Germany (1994-2000). It includes a detailed discussion of Hitler's views about propaganda and his use of this instrument to seduce the masses. It concludes that present-day Germans suffer feelings of humiliation and anger not only at having lost World War II (and in some cases..."]
+      },
+      {
+        "title": "The Psychology of Humiliation: Somalia, Rwanda / Burundi, and Hitler's Germany",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "Humiliation, Rape, and Love: Force and Fraud in the Erogenous Zones 'Force and fraud are in war the two cardinal virtues' (Hobbes in 'Leviathan')",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This paper is about the intersection between war, sexuality and gender. It encompasses micro- social relations and macro-social structures and integrates several theoretical and disciplinary traditions (social psychology, sociology, anthropology, philosophy, feminism, history and international relations) Its object is to discern the logic of male-f..."]
+      },
+      {
+        "title": "Recognition or Humiliation - The Psychology of Intercultural Communication",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["In the case of conflicts between members of different cultures: which should be respected, the other culture or the other person? The article will put forward the following answer: What I have to recognise, acknowledge and respect is the other person and not his or her membership in 'another' culture, and this is because each individual has her per..."]
+      },
+      {
+        "title": "HUMILIATION AND HOW TO RESPOND TO IT: SPATIAL METAPHOR IN ACTION",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["This paper plays out the dynamics of humiliation within the framework of Lakoff's and Johnson's work on metaphor, combined with a Grounded Theory and a Psycho-Logic rationale. Humiliation may be responded to within four categories of reactions: i) Humiliation may be accepted, ii) it may be responded to with depression, iii) it may be countered with..."]
+      },
+      {
+        "title": "Die Psychologie der Demütigung",
+        "tags": ["Article"],
+        "date": "Jan 1990",
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": ["deutschen Geschichte befassen.2 Dieser Satz stellt in seiner Grundstruktur nichts anderes dar als eine sozialpsychologische Hypothese, nämlich dass Demütigung zu Krieg führen kann. Die folgende Frage scheint berechtigt: Ist diese Hypothese angemessen? Spiegelt sie die Wirklichkeit korrekt? Wenn ja, wo und wie spielt diese Hypothese eine Rolle? Ist..."]
+      },
+      {
+        "title": "Humiliation, human rights, and global corporate responsibility",
+        "tags": ["Article"],
+        "authors": ["Dr Psychol Med Evelin", "Evelin Gerda Lindner"],
+        "abstract": ["Abstract This article starts out from the suggestion thatglobal social policy would benefit from more corporate awareness,of the necessity of their responsible involvement. The typical response to such a proposition is that the corporate sector is not interested in charity, but in earning money. This paper suggests that the corporate sector has, in..."]
+      },
+      {
+        "title": "Humiliation, killing, war, and gender",
+        "tags": ["Article"],
+        "authors": ["By Evelin", "Evelin Gerda Lindner"],
+        "abstract": ["In order to phone me, please send first an email to e.g.lindner@psykologi.uio.no in order to find out where I might be phoned; I am continuously traveling Currently, both honor and equal dignity are cultural concepts that are significant for people worldwide. What we see today is the transition from norms of honor to norms of equal dignity but also..."]
+      },
+      {
+        "title": "Social constructionism, logical positivism, and the story of humiliation",
+        "tags": ["Article"],
+        "authors": ["Dr Psychol Med Evelin", "Evelin Gerda Lindner"],
+        "abstract": ["Abstract This paper explores possible historical connections between the development of philosophical positions and changes in the character and extent of psychologically and sociologically embedded,dynamics,of humiliation within societies. Particular attention is paid to the philosophical perspectives adopted by logical positivism and social const..."]
+      },
+      {
+        "title": "How globalisation transforms gender relations: the changing face of humiliation",
+        "tags": ["Article"],
+        "authors": ["Dr Psychol Med Evelin", "Evelin Gerda Lindner"],
+        "abstract": ["Abstract This paper explores the idea that there is a link between,prospects for peace and constructive co-operation in two kinds of relationships: the relations between nations and ethnic groups in the global arena, and the relations between men and women in the many contexts of everyday life. As key link between these two spheres the process of h..."]
+      },
+      {
+        "title": "Definitions of Terms as They are Used in Lindner's Writing",
+        "tags": ["Article"],
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      },
+      {
+        "title": "The Psychology of Humiliation Summary of Results and What the Research on Humiliation Added to Pre-Existing Knowledge",
+        "tags": ["Article"],
+        "authors": ["Evelin Gerda Lindner"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Dr.", "med,", "Dr.", "psychol."],
+    "bio": "Please see my background on www.humiliationstudies.org/whoweare/evelin.php.  \n\nIf you wish to have full texts of my publications, please download them from www.humiliationstudies.org/whoweare/evelin02.php. See also www.cristin.no. See, furthermore, www.humiliationstudies.org/whoweare/evelin021.php.  \n\nI am so very sorry that I am too overloaded with work to follow messages from Researchgate. If you wish to get in touch with me personally, please kindly send an email to the contact address on www.humiliationstudies.org. Thanks for your kind understanding and patience!",
+    "publications": [128],
+    "reads": [12821],
+    "citations": [927]
   }
 }

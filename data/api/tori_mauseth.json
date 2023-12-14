@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Tori Mauseth",
-    "id": "23433",
+    "name": ["Tori Mauseth"],
+    "id": ["23433"],
     "keywords": [],
     "position": ["Senior lecturer", "Project manager"],
     "img": {},
@@ -61,9 +61,9 @@
       {
         "type": "Academic article",
         "year": "2007",
-        "title": "Multisystemic therapy: A home- and community-based treatment for youths with serious antisocial behavior",
         "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1043056"
+        "url": "https://api.cristin.no/v2/results/1043056",
+        "title": "Multisystemic therapy: A home- and community-based treatment for youths with serious antisocial behavior"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -81,5 +81,82 @@
         "url": "https://api.cristin.no/v2/results/1042978"
       }
     ]
+  },
+  "rg": {
+    "id": "Sara-Tori-2",
+    "name": "Sara Tori",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1043226593091590-1625736010265_Q128/Sara-Tori-2.jpg",
+    "affiliation": "Vrije Universiteit Brussel | VUB, Vrije Universiteit Brussel, Mobilise",
+    "keywords": ["Urban Mobility", "Mobility"],
+    "works": [
+      {
+        "title": "Brussels mobility in 2050: Participatory mixed-method scenario building to explore alternative futures",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Sara Tori", "Geert te Boveldt", "Imre Keseru", "Cathy Macharis"],
+        "abstract": []
+      },
+      {
+        "title": "Building scenarios for urban mobility in 2030: The combination of cross-impact balance analysis with participatory stakeholder workshops",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Sara Tori", "Geert te Boveldt", "Imre Keseru"],
+        "abstract": ["In recent years, scenarios have been increasingly used as a tool for helping decision makers deal with uncertainty, assess risks, enhance policy performance, expand creativity, and stimulate open discussion. In transport, scenario planning is an established method to help solve the mobility challenges of cities. In this paper, we propose a mixed-me..."]
+      },
+      {
+        "title": "Reactions of the public transport sector to the COVID-19 pandemic Insights from Belgium",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Sara Tori", "Alice de Séjournet", "Cathy Macharis"],
+        "abstract": ["Throughout the COVID-19 pandemic, public transport has been one of the hardest hit transport modes, losing ridership due to fear of contagion. This can partially be explained by the lack of preparedness in the sector to a pandemic scenario, as only few cities had epidemic contingency plans for the transport sector. To anticipate disruptions caused..."]
+      },
+      {
+        "title": "Developing disruptive mobility scenarios for rural areas. Participatory mobility scenario building in a Belgian village for the year 2050",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Sara Tori", "Jesse Pappers", "Imre Keseru"],
+        "abstract": ["Background\nHistorically, quantitative forecasting methods have been used in transport planning. As forecasts can be unreliable to plan for the medium- and long-term, scenario building has recently been increasingly used. However, scenario building methods often fail to take disruptions and wild cards into account, i.e., low probability but high imp..."]
+      },
+      {
+        "title": "Methodology for Consequence Analysis of Future Mobility Scenarios: The SPROUT Framework",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Elpida Xenou", "Georgia Ayfantopoulou", "Beatriz Royo", "Marco Mazzarino"],
+        "abstract": ["The various social, political, environmental, and economical mega-trends together with the rapid rise of digitalization are shaping cities worldwide including the way that citizens and products move within the urban environment. New mobility services are popping up which are showing the path toward more on-demand and personalized mobility patterns...."]
+      },
+      {
+        "title": "Evolution of urban mobility behaviour in Brussels as a result of the COVID‐19 pandemic",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Alice de Séjournet", "Cathy Macharis", "Sara Tori", "Lieselot Vanhaverbeke"],
+        "abstract": ["The goal of this research is to understand the impact of COVID‐19 restrictions measures on the change in urban mobility in Brussels, Belgium. With daily data over the last two years depicting both the affluence to different places and the level and type of restrictions, we investigate through regression analysis their impacts on the changes in driv..."]
+      },
+      {
+        "title": "'Koning auto' aan de band? Toekomstbeelden in een Vlaams dorp voor 2050",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Jesse Pappers", "Sara Tori", "Imre Keseru"],
+        "abstract": ["Steeds vaker worden toekomstonderzoeken gebruikt om een antwoord te bieden op de uitdagingen die teweeggebracht worden door mobiliteit. Hierbij gaat het niet om voorspellingen, die op lange termijn vaak onbetrouwbaar zijn. Echter gaat het om visies en scenario's, die respectievelijk de gewenste en mogelijke toekomstbeelden weergeven. In stedelijke..."]
+      },
+      {
+        "title": "A conceptual assessment framework for capturing the sustainability impacts of city-specific future mobility scenarios: the SPROUT approach",
+        "tags": ["Conference Paper"],
+        "date": "Feb 2022",
+        "authors": ["Elpida Xenou", "Georgia Ayfantopoulou", "Beatriz Royo", "Marco Mazzarino"],
+        "abstract": ["The various social, political, environmental and economical mega-trends together with the rapid rise of digitalization are shaping cities worldwide including the way that citizens and products move within the urban environment. New mobility services are popping up which and are showing the path towards more on demand and personalized mobility patte..."]
+      },
+      {
+        "title": "Can the COVID-19 Crisis be a Catalyst for Transition to Sustainable Urban Mobility? Assessment of the Medium- and Longer-Term Impact of the COVID-19 Crisis on Mobility in Brussels",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Cathy Macharis", "Sara Tori", "Alice de Séjournet", "Lieselot Vanhaverbeke"],
+        "abstract": ["In this paper, we investigate what the impact of the COVID-19 crisis was on travel patterns and how it could be a catalyst for the transition toward a more sustainable mobility system. To study this, we use the sustainable mobility framework of the 7A's, namely Awareness, Avoidance, Act and Shift, Anticipation of new technologies, Actor involvement..."]
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": [],
+    "publications": [9],
+    "reads": [679],
+    "citations": [33]
   }
 }

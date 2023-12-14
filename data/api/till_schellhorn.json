@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-5336-0515",
-    "name": "Till Schellhorn",
+    "orcid": ["0000-0002-5336-0515"],
+    "name": ["Till Schellhorn"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Till Schellhorn",
-    "id": "17260",
+    "name": ["Till Schellhorn"],
+    "id": ["17260"],
     "keywords": [],
     "position": ["Guest", "Head physician", "Head physician"],
     "img": {},
@@ -156,5 +156,173 @@
         "url": "https://api.cristin.no/v2/results/351915"
       }
     ]
+  },
+  "rg": {
+    "id": "Till-Schellhorn",
+    "name": "Till Schellhorn",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1140288152174592-1648877289657_Q128/Till-Schellhorn.jpg",
+    "affiliation": "Oslo University Hospital, Department of Radiology and Nuclear Medicine",
+    "keywords": ["Magnetic Resonance", "Neuroimaging", "Neurodegenerative Diseases", "Neurodegeneration", "Stroke Rehabilitation", "Traumatic Brain Injury", "Clinical Neurology", "Neurological Diseases", "Neuroanatomy", "Spinal Cord Injury"],
+    "works": [
+      {
+        "title": "Radiological features of brain hemorrhage through automated segmentation from computed tomography in stroke and traumatic brain injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Bradley J. MacIntosh", "Qinghui Liu", "Till Schellhorn", "Atle Bjørnerud"],
+        "abstract": ["Introduction\nRadiological assessment is necessary to diagnose spontaneous intracerebral hemorrhage (ICH) and traumatic brain injury intracranial hemorrhage (TBI-bleed). Artificial intelligence (AI) deep learning tools provide a means for decision support. This study evaluates the hemorrhage segmentations produced from three-dimensional deep learnin..."]
+      },
+      {
+        "title": "Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Qinghui Liu", "Elies Fuster-Garcia", "Ivar Thokle Hovden", "Kyrre Emblem"],
+        "abstract": ["Diffuse gliomas are malignant brain tumors that grow widespread through the brain. The complex interactions between neoplastic cells and normal tissue, as well as the treatment-induced changes often encountered, make glioma tumor growth modeling challenging. In this paper, we present a novel end-to-end network capable of generating future tumor mas..."]
+      },
+      {
+        "title": "Characterizing personalized neuropathology in dementia and mild cognitive impairment with explainable artificial intelligence",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Esten H Leonardsen", "Karin Persson", "Edvard Grødem", "Yunpeng Wang"],
+        "abstract": ["Deep learning applied to magnetic resonance imaging data have shown great promise as a translational technology for diagnosis and prognosis in dementia, but its impact clinically has thus far been limited. This is partially attributed to the opaqueness of deep learning models, causing insufficient understanding of what underlies their decisions. To..."]
+      },
+      {
+        "title": "Voxels Intersecting Along Orthogonal Levels Attention U-Net for Intracerebral Haemorrhage Segmentation in Head CT",
+        "tags": ["Conference Paper"],
+        "date": "Apr 2023",
+        "authors": ["Qinghui Liu", "Bradley J MacIntosh", "Till Schellhorn", "Atle Bjørnerud"],
+        "abstract": []
+      },
+      {
+        "title": "Diagnostic imaging strategies of acute intracerebral hemorrhage in European academic hospitals—a decision-making analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Paul Martin Putora", "Gonçalo G. Almeida", "Simon Wildermuth", "Tim Fischer"],
+        "abstract": ["Purpose\nTo evaluate and compare which factors are relevant to the diagnostic decision-making and imaging workup of intracerebral hemorrhages in large, specialized European centers.\n\nMethods\nExpert neuroradiologists from ten large, specialized centers (where endovascular stroke treatment is routinely performed) in nine European countries were select..."]
+      },
+      {
+        "title": "Longitudinal brain age prediction and cognitive function after stroke",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Eva Birgitte Aamodt", "Dag Alnæs", "Ann-Marie G de Lange", "Lars T. Westlye"],
+        "abstract": ["Advanced age is associated with post-stroke cognitive decline. Machine learning based on brain scans can be used to estimate brain age of patients, and the corresponding difference from chronological age, the brain age gap (BAG), has been investigated in a range of clinical conditions, yet not thoroughly in post-stroke neurocognitive disorder (NCD)..."]
+      },
+      {
+        "title": "Voxels Intersecting along Orthogonal Levels Attention U-Net (viola-Unet) to Segment Intracerebral Haemorrhage Using Computed Tomography Head Scans",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Qinghui Liu", "Bradley J MacIntosh", "Till Schellhorn", "Atle Bjørnerud"],
+        "abstract": ["We implemented two distinct 3-dimensional deep learning neural networks and evaluate their ability to segment intracranial hemorrhage (ICH) seen on non-contrast computed tomography (CT). One model, referred to as \"Voxels-Intersecting along Orthogonal Levels of Attention U-Net\" (viola-Unet), has architecture elements that are amenable to the INSTANC..."]
+      },
+      {
+        "title": "Longitudinal Brain Changes After Stroke and the Association With Cognitive Decline",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Eva Birgitte Aamodt", "Stian Lydersen", "Dag Alnæs", "Asta Kristine Håberg"],
+        "abstract": ["Background\nCognitive impairment is common after stroke. So is cortical- and subcortical atrophy, with studies reporting more atrophy in the ipsilesional hemisphere than the contralesional hemisphere. The current study aimed to investigate the longitudinal associations between (I) lateralization of brain atrophy and stroke hemisphere, and (II) cogni..."]
+      },
+      {
+        "title": "Longitudinal brain age prediction and cognitive function after stroke",
+        "tags": ["Preprint"],
+        "date": "Mar 2022",
+        "authors": ["Eva Birgitte Aamodt", "Dag Alnæs", "Ann-Marie G de Lange", "Lars T. Westlye"],
+        "abstract": ["Background\nAdvanced age and poor brain health have been associated with higher risk for more severe clinical and cognitive outcomes following stroke, but more accurate models for clinical prediction are needed. Machine learning based on brain scans can be used to estimate brain age of individual patients, and the corresponding difference from chron..."]
+      },
+      {
+        "title": "Is Frailty Index a better predictor than pre-stroke modified Rankin Scale for neurocognitive outcomes 3-months post-stroke?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Ragnhild Munthe-Kaas", "Stina Aam", "Ingvild Saltvedt", "Hege ihle-hansen"],
+        "abstract": ["Background\nThe prognostic value of frailty measures for post-stroke neurocognitive disorder (NCD) remains to be evaluated.\n\nAims\nThe aim of this study was to compare the predictive value of pre-stroke FI with pre-stroke modified Rankin Scale (mRS) for post-stroke cognitive impairment. Further, we explored the added value of including FI in predicti..."]
+      },
+      {
+        "title": "Neuroimaging improves the prediction of post-stroke major neurocognitive disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Eva Birgitte Aamodt", "Till Schellhorn", "Edwin Stage", "Mona K Beyer"],
+        "abstract": []
+      },
+      {
+        "title": "Predicting the Emergence of Major Neurocognitive Disorder Within Three Months After a Stroke",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Eva Birgitte Aamodt", "Till Schellhorn", "Edwin Stage", "Mona K Beyer"],
+        "abstract": ["Background: Neurocognitive disorder (NCD) is common after stroke, with major NCD appearing in about 10% of survivors of a first-ever stroke. We aimed to classify clinical- and imaging factors related to rapid development of major NCD 3 months after a stroke, so as to examine the optimal composition of factors for predicting rapid development of the..."]
+      },
+      {
+        "title": "Pre-stroke cognitive impairment is associated with vascular imaging pathology: a prospective observational study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Till Schellhorn", "Manuela Zucknick", "Torunn Askim", "Mona K Beyer"],
+        "abstract": ["Background\nChronic brain pathology and pre-stroke cognitive impairment (PCI) is predictive of post-stroke dementia. The aim of the current study was to measure pre-stroke neurodegenerative and vascular disease burden found on brain MRI and to assess the association between pre-stroke imaging pathology and PCI, whilst also looking for potential sex..."]
+      },
+      {
+        "title": "Abstract P66: Prediction of Early Post-Stroke Major Neurocognitive Disorder Using Support Vector Machines",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Eva Birgitte Aamodt", "Till Schellhorn", "Liana G Apostolova", "Mona K Beyer"],
+        "abstract": ["Neurocognitive disorder (NCD) appears in 10% of survivors of a first-ever stroke and in 30% after a recurrent one. We aimed to classify clinical- and imaging factors related to the development of major NCD 3 months post stroke, so as to examine whether early development (<1 yr) is mainly of a neurodegenerative or vascular origin. Based on previous..."]
+      },
+      {
+        "title": "Clinically accessible neuroimaging predictors of post-stroke neurocognitive disorder: a prospective observational study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Till Schellhorn", "Eva Birgitte Aamodt", "Stian Lydersen", "Mona K Beyer"],
+        "abstract": ["Background\nNeurocognitive disorder (NCD) is common in stroke survivors. We aimed to identify clinically accessible imaging markers of stroke and chronic pathology that are associated with early post-stroke NCD.\n\nMethods\nWe included 231 stroke survivors from the “Norwegian Cognitive Impairment after Stroke (Nor-COAST)” study who underwent a standard..."]
+      },
+      {
+        "title": "Vascular brain pathology is more important than neurodegeneration in the pathogenesis of pre-stroke cognitive impairment",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Till Schellhorn", "Manuela Zucknick", "Torunn Askim", "Mona K Beyer"],
+        "abstract": ["Introduction: To better understand the development of post-stroke cognitive impairment, we explored the association between pre-stroke neuroimaging features and pre-stroke cognitive impairment and investigated possible gender differences. Few previous studies on this topic have been performed.\nMethods: In this large prospective longitudinal multice..."]
+      },
+      {
+        "title": "Analysis of diffusion tensor imaging metrics for gliomas grading at 3 T",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Andres Server", "Bjørn A Graff", "Roger Josefsen", "Per H Nakstad"],
+        "abstract": ["To assess the diagnostic accuracy of axial diffusivity (AD), radial diffusivity (RD), apparent diffusion coefficient (ADC) and fractional anisotropy (FA) values derived from DTI for grading of glial tumors, and to estimate the correlation between DTI parameters and tumor grades.\nSeventy-eight patients with glial tumors underwent DTI. AD, RD, ADC an..."]
+      },
+      {
+        "title": "Measurements of diagnostic examination performance and correlation analysis using microvascular leakage, cerebral blood volume, and blood flow derived from 3T dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging in glial tumor grading",
+        "tags": ["Article"],
+        "date": "Jun 2011",
+        "authors": ["Andres Server", "Bjørn A Graff", "Tone E Døli Orheim", "Per H Nakstad"],
+        "abstract": ["To assess the diagnostic accuracy of microvascular leakage (MVL), cerebral blood volume (CBV) and blood flow (CBF) values derived from dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging (DSC-MR imaging) for grading of cerebral glial tumors, and to estimate the correlation between vascular permeability/perfusion parameters and tu..."]
+      },
+      {
+        "title": "[High-grade gliomas in adults]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2011",
+        "authors": ["Anette Storstein", "Eirik Helseth", "Tom Børge Johannesen", "Rene van Helvoirt"],
+        "abstract": ["High-grade glioma is a primary malignant brain tumour which affects about 200 Norwegian patients each year. Diagnosis and treatment of high-grade gliomas in adults has been reviewed.\nThe article is based on recent literature retrieved through a non-systematic search in PubMed and the authors' experience with the patient group.\nThe most common sympt..."]
+      },
+      {
+        "title": "Proton magnetic resonance spectroscopy in the distinction of high-grade cerebral gliomas from single metastatic brain tumors",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Andres Server", "Roger Josefsen", "Bettina Kulle Andreassen", "Per H Nakstad"],
+        "abstract": ["Background: \nBrain metastases and primary high-grade gliomas, including glioblastomas multiforme (GBM) and anaplastic astrocytomas (AA), may be indistinguishable by conventional magnetic resonance (MR) imaging. Identification of these tumors may have therapeutic consequences.\n\nPurpose: \nTo assess the value of MR spectroscopy (MRS) using short and i..."]
+      },
+      {
+        "title": "Quantitative Apparent Diffusion Coefficients in the Characterization of Brain Tumors and Associated Peritumoral Edema",
+        "tags": ["Article"],
+        "date": "Jun 2009",
+        "authors": ["Andres Server", "Bettina Kulle Andreassen", "J Maehlen", "P.H. Nakstad"],
+        "abstract": ["Conventional magnetic resonance (MR) imaging has a number of limitations in the diagnosis of the most common intracranial brain tumors, including tumor specification and the detection of tumoral infiltration in regions of peritumoral edema.\nTo prospectively assess if diffusion-weighted MR imaging (DWI) could be used to differentiate between differe..."]
+      },
+      {
+        "title": "Fluoroscopy-Guided Sacroplasty: Special Focus on Preoperative Planning from Three-Dimensional Computed Tomography",
+        "tags": ["Article"],
+        "date": "Sep 2008",
+        "authors": ["Øivind Gjertsen", "Till Schellhorn", "P H Nakstad"],
+        "abstract": ["Osteoporotic sacral insufficiency fractures are usually spontaneous or caused by discrete traumas. The fluoroscopic anatomy of the sacrum can be difficult to understand, and this is why sacroplasty is considered more challenging than ordinary vertebroplasties. Purpose: To demonstrate the planning of the procedure and the effectiveness of treatment..."]
+      }
+    ],
+    "degree": ["MD"],
+    "bio": [],
+    "publications": [22],
+    "reads": [1516],
+    "citations": [388]
   }
 }

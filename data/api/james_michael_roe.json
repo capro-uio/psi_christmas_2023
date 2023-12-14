@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "James M Roe",
-    "id": "ahMoOxIAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["James M Roe"],
+    "id": ["ahMoOxIAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -252,8 +252,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-8008-902X",
-    "name": "James Michael Roe",
+    "orcid": ["0000-0002-8008-902X"],
+    "name": ["James Michael Roe"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -351,11 +351,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "James Michael Roe",
-    "id": "576689",
+    "name": ["James Michael Roe"],
+    "id": ["576689"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
-    "img": "https://api.cristin.no/v2/persons/576689/picture",
+    "img": ["https://api.cristin.no/v2/persons/576689/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -509,5 +509,593 @@
         "url": "https://api.cristin.no/v2/results/1329334"
       }
     ]
+  },
+  "rg": {
+    "id": "James-Michael",
+    "name": "James Michael",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Iowa State University | ISU, Iowa State University, Department of Mechanical Engineering",
+    "keywords": ["Optics and Photonics", "Fluid Mechanics", "Laser Diagnostics in Flows and Combustion"],
+    "works": [
+      {
+        "title": "Effect of secondary atomization on blood backspatter affected by muzzle gases",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Kailin Chen", "James Michael", "Alexander L. Yarin"],
+        "abstract": ["Blood backspatter pattern analysis provides important evidence in firearm-related crime scenes. The mechanisms behind particular patterns have attracted significant recent attention in forensic sciences, in general, and in forensic-science-motivated fluid dynamics, in particular. However, investigations on the secondary atomization of blood drops i..."]
+      },
+      {
+        "title": "Emission thermometry of microwave-assisted alkali-doped propellant combustion",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Keke Zhu", "Stuart Barkley", "Travis Ray Sippel", "James Michael"],
+        "abstract": ["Recently, the application of high-power microwave fields to sodium-doped aluminized solid propellants has been shown to increase the atmospheric burning rate by up to 60%. Two main mechanisms have been proposed to increase the burning rate: (1) plasma enhancement by the presence of low-ionization threshold sodium and (2) the dielectric thermal runa..."]
+      },
+      {
+        "title": "Evaluating the role of product gas composition in vibrational relaxation in pulsed microwave plasma-enhanced flames",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2023",
+        "authors": ["Fynn Reinbacher", "Sarang Bidwai", "James Michael", "Chloe Dedic"],
+        "abstract": []
+      },
+      {
+        "title": "Comparison of rotational and vibrational thermometry of detonation in microchannels",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2023",
+        "authors": ["Sarang Bidwai", "James Michael", "Chloe Dedic"],
+        "abstract": []
+      },
+      {
+        "title": "Broadband NIR water absorption thermometry of lab scale metalized explosives",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2023",
+        "authors": ["Anthony C. LoCurto", "Michael Allen Welch", "James Michael", "Michael Soo"],
+        "abstract": []
+      },
+      {
+        "title": "Physicochemical Evolution and Fluidization of Biomass Particle at Pyrolysis Conditions Using Overset Lattice Boltzmann Method",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Yongsuk Cho", "James Michael", "Song-Charng Kong"],
+        "abstract": []
+      },
+      {
+        "title": "Smart Electromagnetic Thermites: GO/rGO Nanoscale Thermite Composites with Thermally Switchable Microwave Ignitability",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Stuart Barkley", "Adam R Lawrence", "Murtaza Zohair", "Travis R Sippel"],
+        "abstract": []
+      },
+      {
+        "title": "Smart Electromagnetic Thermites: GO/rGO Nanoscale Thermite Composites with Thermally Switchable Microwave Ignitability",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Stuart Barkley", "Adam R Lawrence", "Murtaza Zohair", "Travis R Sippel"],
+        "abstract": []
+      },
+      {
+        "title": "High-speed visible supercontinuum laser absorption spectroscopy of metal oxides",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Anthony C. LoCurto", "James Michael", "Travis R. Sippel", "Michael Allen Welch"],
+        "abstract": ["Supercontinuum laser absorption spectroscopy is applied to energetic material combustion fireball environments using the visible spectrum for temperature and column density measurements of key metal combustion intermediates TiO and AlO. Fireballs are produced by igniting metal/ammonium perchlorate powder beds on a thermal-jump apparatus. This work..."]
+      },
+      {
+        "title": "Thermalization dynamics in a pulsed microwave plasma-enhanced laminar flame",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Chloe Dedic", "James Michael"],
+        "abstract": ["Energy transfer in a pulsed-microwave enhanced flame is investigated using hybrid fs/ps coherent anti-Stokes Raman scattering (CARS) to monitor both vibrational and rotational temperatures of nitrogen in an atmospheric pressure laminar premixed natural gas/air stagnation flame. Temperatures were measured throughout the laminar flame structure follo..."]
+      },
+      {
+        "title": "Blood backspatter interaction with propellant gases",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Gen Li", "Nathaniel Sliefert", "James Michael", "Alexander L. Yarin"],
+        "abstract": ["The theoretical results of the present work reveal a significant interaction of the oncoming vortex ring of propellant muzzle gases with backward blood spatter. It is shown that there is even possibility that a blood droplet from the backspatter will fully turn around by a powerful vortex ring and land behind a victim. Such a predicted outcome is c..."]
+      },
+      {
+        "title": "Experimental and numerical study of blood backspatter interaction with firearm propellant gases",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Nathaniel Sliefert", "Gen Li", "James Michael", "Alexander L. Yarin"],
+        "abstract": ["Experiments are used to quantify the influence of propellant gases on blood backspatter and the numerical model presented in the first part of this work (G. Li, N. Sliefert, J. B. Michael, A. L. Yarin, Phys. Fluids, 33, 043318 (2021)) is compared with the experimental results, which stem from muzzle gas expansion. Experimental results with blood ba..."]
+      },
+      {
+        "title": "Combustion and Flame Microwave-assisted modulation of light emission intensity in alkali-pyrotechnic plumes",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Stuart Barkley", "Joel Lynch", "Eric J. Miklaszewski", "Travis R Sippel"],
+        "abstract": ["Creating next-generation pyrotechnic emitters capable of dynamically controllable light output requires a paradigm shift away from emission control via formulation. This work demonstrates the ability to modulate light emission intensity of a pyrotechnic flame with 2.46 GHz microwave energy within a multimodal cavity. Stoichiometric mixtures of thre..."]
+      },
+      {
+        "title": "Multi-component fuel drop-wall interactions at high ambient pressures",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Abhijeet Chausalkar", "Chol-Bum Mike Kweon", "James Michael"],
+        "abstract": ["In direct injection engines, multicomponent fuels are injected at high pressures-resulting in a finely atomized spray which impacts on the hot wall of the piston crown and cylinder liner. The variable operating load of typical combustors results in widely varying wall temperature and ambient pressures. For quantitative prediction of the combustion..."]
+      },
+      {
+        "title": "Leidenfrost behavior in drop-wall impacts at combustor-relevant ambient pressures",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Abhijeet Chausalkar", "Chol-Bum Mike Kweon", "Song-Charng Kong", "James Michael"],
+        "abstract": ["Liquid-fueled combustion systems demand optimal performance over a range of operating conditions—requiring predictable fuel injection events, spray breakup, and vaporization across a range of temperatures and pressures. In direct injection combustors, these sprays impinge directly on combustion chamber surfaces. Although the outcome of fuel droplet..."]
+      },
+      {
+        "title": "Two-photon laser-induced fluorescence ofsodium in multiphase combustion",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Keke Zhu", "James Michael", "Chloe Dedic", "Travis R. Sippel"],
+        "abstract": ["Alkali metals are prevalent in coal combustion, biomass thermal conversion to fuels, and energetic material combustion, and have applications as dopants for combustion diagnostics and plasma-based combustion control. Recently, the dynamic control of propellant burning rate and pyrotechnic luminosity have been demonstrated through combined microwave..."]
+      },
+      {
+        "title": "Imaging and emission spectroscopy in optically dense metal cloud combustion",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2020",
+        "authors": ["Fynn Reinbacher", "Keke Zhu", "Travis R. Sippel", "James Michael"],
+        "abstract": []
+      },
+      {
+        "title": "Imaging of propellant flame structure with femtosecond two-photon laser-induced fluorescence of CN",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2020",
+        "authors": ["Keke Zhu", "Stuart Barkley", "Anthony Locurto", "James Michael"],
+        "abstract": []
+      },
+      {
+        "title": "Deep Learning Algorithms for Detecting Combustion Instabilities",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Tryambak Gangopadhyay", "Anthony Locurto", "James Michael", "Soumik Sarkar"],
+        "abstract": ["Combustion instabilities are prevalent in a variety of systems including gas turbine engines. In this regard, the introduction of active control opens the potential for new paradigms in combustor design and optimization. However, the limited ability to detect the onset of instabilities can lead to difficulty in implementing active control approache..."]
+      },
+      {
+        "title": "Interpretable Deep Learning for Monitoring Combustion Instability",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Tryambak Gangopadhyay", "Sin Yong Tan", "Anthony Locurto", "Soumik Sarkar"],
+        "abstract": ["Transitions from stable to unstable states occurring in dynamical systems can be sudden leading to catastrophic failure and huge revenue loss. For detecting these transitions during operation, it is of utmost importance to develop an accurate data-driven framework that is robust enough to classify stable and unstable scenarios. In this paper, we pr..."]
+      },
+      {
+        "title": "Visualization of physicochemical phenomena during biomass pyrolysis in an optically accessible reactor",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Jordan Tiarks", "Chloe Dedic", "Terrence R Meyer", "James Michael"],
+        "abstract": ["The thermochemical conversion of biomass via fast pyrolysis requires detailed descriptions of both the kinetic and heat and mass transport rates, which are often in direct competition. To investigate the evolution of products, whole biomass and biomass constituents (e.g. cellulose and lignin) are pyrolyzed in a novel optically accessible reactor. T..."]
+      },
+      {
+        "title": "Multicomponent drop breakup during impact with heated walls",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Abhijeet Chausalkar", "Song-Charng Kong", "James Michael"],
+        "abstract": ["Understanding multicomponent drop breakup during impact with walls is critical to the prediction and optimization of fuel-air mixture distribution in combustion systems. In combustors, drops impact walls over a range of wall temperatures and drop velocities, resulting in complex outcomes. In this paper, the regimes of drop impact are characterized..."]
+      },
+      {
+        "title": "Tracer-free liquid–vapor imaging using lifetime-filtered planar laser-induced fluorescence",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Alber Douglawi", "Anthony McMaster", "Megan E. Paciaroni", "Terrence R Meyer"],
+        "abstract": ["The separation of liquid phase and vapor phase laser-induced fluorescence (LIF) signals using tracer species suffers from uncertainties in tracer–fuel coevaporation, as well as a disparity in liquid and vapor signals. This work demonstrates the use of a simple technique, referred to as lifetime-filtered LIF, to help separate the liquid and vapor si..."]
+      },
+      {
+        "title": "Flame temperature measurement of microwave-assisted aluminum particle combustion",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Keke Zhu", "Stuart Barkley", "Travis R. Sippel", "James Michael"],
+        "abstract": []
+      },
+      {
+        "title": "Microwave Control of Composite Solid Propellant Flame Spread Through Eddy Current Heating of Wired/Foiled Propellant",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2019",
+        "authors": ["Stuart Barkley", "Keke Zhu", "James Michael", "Travis R. Sippel"],
+        "abstract": []
+      },
+      {
+        "title": "Characterization of Time-Domain Supercontinuum Absorption Spectroscopy for Water Vapor in the NIR for Combustion Applications",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2019",
+        "authors": ["Anthony Locurto", "Keke Zhu", "Travis Ray Sippel", "James Michael"],
+        "abstract": []
+      },
+      {
+        "title": "Microwave plasma enhancement of multiphase flames: On-demand control of solid propellant burning rate",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Stuart Barkley", "Keke Zhu", "Joel Lynch", "Travis Ray Sippel"],
+        "abstract": ["This effort explores the microwave-supported plasma enhancement of an aluminized, ammonium per-chlorate composite solid propellant flame. The technique is enabled through novel alkali metal doping, which provides increased levels of ionization and allows efficient microwave energy deposition to the flame structure and subsequent perturbation of the..."]
+      },
+      {
+        "title": "Characterizing Combustion Instability Using Deep Convolutional Neural Network",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Tryambak Gangopadhyay", "Anthony Locurto", "Paige Boor", "Soumik Sarkar"],
+        "abstract": ["Detecting the transition to an impending instability is important to initiate effective control in a combustion system. As one of the early applications of characterizing thermoacoustic instability using Deep Neural Networks, we train our proposed deep convolutional neural network (CNN) model on sequential image frames extracted from hi-speed flame..."]
+      },
+      {
+        "title": "Two-photon laser-induced fluorescence imaging of CW microwave-enhanced sodium-doped propellant flames",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Keke Zhu", "Stuart Barkley", "Chloe Dedic", "James Michael"],
+        "abstract": []
+      },
+      {
+        "title": "Evaluation of vibrational excitation in a microwave plasma enhanced flame using hybrid fs/ps CARS",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Chloe Dedic", "James Michael"],
+        "abstract": []
+      },
+      {
+        "title": "Single-shot vibrational energy distributions of a microscale detonation using hybrid fs/ps CARS",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2018",
+        "authors": ["Chloe Dedic", "Terrence R Meyer", "James Michael"],
+        "abstract": ["Single-shot O2 and N2 vibrational energy distributions behind gaseous detonations are studied using hybrid fs/ps CARS. Differences in measured vibrational temperature and Chapman-Jouguet predictions are discussed using detonation theory and nonequilibrium kinetics."]
+      },
+      {
+        "title": "Single-shot ultrafast coherent anti-Stokes Raman scattering of vibrational/rotational nonequilibrium",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Chloe Dedic", "Terrence R Meyer", "James Michael"],
+        "abstract": ["The study of internal molecular energy transfer is important for a variety of nonequilibrium and nonthermal environments, including plasma-based manufacturing and materials treatment, medical device treatment applications, and plasma-assisted combustion. In the current work, hybrid femtosecond/picosecond coherent anti-Stokes Raman scattering spectr..."]
+      },
+      {
+        "title": "Multicomponent droplet breakup during heated wall impact",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Abhijeet Chausalkar", "James Michael", "SC Kong"],
+        "abstract": ["The regimes of single droplet breakup behavior during wall impact are critical to the prediction and optimiza-tion of fuel vaporization and mixing in combustion systems. These impacts often take place at elevated walltemperatures and at significant impact velocities resulting in a wealth of physical phenomena. In this paper,regimes of droplet impac..."]
+      },
+      {
+        "title": "Pulsed Microwave-Plasma Coupling to Composite Solid Propellants",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2017",
+        "authors": ["Stuart Barkley", "Keke Zhu", "Travis R. Sippel", "James Michael"],
+        "abstract": []
+      },
+      {
+        "title": "Sodium two-photon laser-induced fluorescence characterization with nanosecond and femtosecond excitation",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2017",
+        "authors": ["James Michael", "Keke Zhu", "Chloe Dedic"],
+        "abstract": []
+      },
+      {
+        "title": "Investigation of energy distributions behind a microscale gas-phase detonation tube using hybrid fs/ps coherent anti-Stokes Raman scattering",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2017",
+        "authors": ["Chloe Dedic", "James Michael", "Terrence R Meyer"],
+        "abstract": []
+      },
+      {
+        "title": "Effect of Particle Size on Microwave Seeded Plasma Enhancement of Composite Propellant Combustion",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2016",
+        "authors": ["Stuart Barkley", "Keke Zhu", "Manuel Ballestero", "Travis R. Sippel"],
+        "abstract": []
+      },
+      {
+        "title": "Measurements of Dielectric Properties of Condensed Phase Aluminized Composite Propellants",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2016",
+        "authors": ["Stuart Barkley", "Keke Zhu", "Manuel Ballestero", "Travis R. Sippel"],
+        "abstract": []
+      },
+      {
+        "title": "Microwave Seeded Plasma Enhancement of Composite Propellant Flame Temperature",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2016",
+        "authors": ["Stuart Barkley", "Keke Zhu", "James Michael", "T R Sippel"],
+        "abstract": ["The development of game-changing throttling and performance enhancing technologies that are applicable to a variety of propellants formulations is required to for the advancement of solid propulsion. Previous work has demonstrated that using alkali earth metal doping techniques, composite propellant flames can be made to have strong electromagnetic..."]
+      },
+      {
+        "title": "Microscale droplet impact investigation on heated metal surfaces",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Abhijeet Chausalkar", "Song-Charng Kong", "James Michael"],
+        "abstract": ["The impact of micro-scale droplets on metal surfaces is critical to performance prediction in internal combustion engines, and can result in a wealth of physical phenomena depending on the droplet impact parameters. Modern fuel injection systems generate micro-scale droplets that can impact cylinder walls at high velocity and this interaction has i..."]
+      },
+      {
+        "title": "Microwave-Supported Plasma Combustion Enhancement of Composite Solid Propellants Using Alkali Metal Dopants",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2016",
+        "authors": ["Stuart Barkley", "Keke Zhu", "Joel Lynch", "Travis R Sippel"],
+        "abstract": ["This effort explores the microwave-supported plasma enhancement of a composite solid propellant flame through a novel alkali metal doping technique. The technique enables formation of a high temperature plasma within the propellant flame in order to perturb the burning rate of a composite solid propellant. The aim of this effort is to investigate t..."]
+      },
+      {
+        "title": "Evaluation of Hybrid fs/ps coherent anti-Stokes Raman scattering temperature and pressure sensitivity at combustor relevant conditions",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2016",
+        "authors": ["Chloe Dedic", "James Michael", "Joseph D Miller", "Terrence R Meyer"],
+        "abstract": []
+      },
+      {
+        "title": "Hybrid fs/ps Coherent anti-Stokes Raman Scattering for non-equilibrium Environments",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2016",
+        "authors": ["Chloe Dedic", "Terrence R. Meyer", "James Michael"],
+        "abstract": ["N2 vibrational and rotational distributions are probed using hybrid CARS to investigate a ns-laser spark environment. Experiments and simulations explore measurement feasibility and accuracy when rotational and vibrational temperature and number density are unknown."]
+      },
+      {
+        "title": "New diagnostic methods for laser plasma- and microwave-enhanced combustion",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["R.B. Miles", "James Michael", "Christopher Limbach", "Arthur Dogariu"],
+        "abstract": ["The study of pulsed laser- and microwave-induced plasma interactions with atmospheric and higher pressure combusting gases requires rapid diagnostic methods that are capable of determining the mechanisms by which these interactions are taking place. New rapid diagnostics are presented here extending the capabilities of Rayleigh and Thomson scatteri..."]
+      },
+      {
+        "title": "Hybrid fs/ps coherent anti-Stokes Raman scattering in a non-equilibrium environment initiated by a ns laser spark",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2015",
+        "authors": ["Chloe Dedic", "James Michael", "Terrence R Meyer"],
+        "abstract": []
+      },
+      {
+        "title": "Effects of repetitive pulsing on multi-kHz planar laser-induced incandescence imaging in laminar and turbulent flames",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["James Michael", "Prabhakar Venkateswaran", "Christopher R Shaddix", "Terrence R Meyer"],
+        "abstract": ["Planar laser-induced incandescence (LII) imaging is reported at repetition rates up to 100 kHz using a burst-mode laser system to enable studies of soot formation dynamics in highly turbulent flames. To quantify the accuracy and uncertainty of relative soot volume fraction measurements, the temporal evolution of the LII field in laminar and turbule..."]
+      },
+      {
+        "title": "100 kHz thousand-frame burst-mode planar imaging in turbulent flames",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["James Michael", "Prabhakar Venkateswaran", "Joseph D Miller", "Terrence R Meyer"],
+        "abstract": ["High-repetition-rate, burst-mode lasers can achieve higher energies per pulse compared with continuously pulsed systems, but the relatively few number of laser pulses in each burst has limited the temporal dynamic range of measurements in unsteady flames. A fivefold increase in the range of timescales that can be resolved by burst-mode laser-based..."]
+      },
+      {
+        "title": "High repetition rate two-dimensional laser induced incandescence studies in a C2H4/H2/N2 non-premixed flame",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2014",
+        "authors": ["Prabhakar Venkateswaran", "James Michael", "Daniel Diaz", "Terrence R Meyer"],
+        "abstract": ["This paper presents an investigation of high-repetition-rate excitation for twodimensional laser-induced incandescence (LII) imaging of soot evolution and distribution in ethylene/hydrogen/nitrogen (C2H4/H2/N2) jet flames. This work focuses primarily on characterizing the intrusive effects of repetitive pulsing on the LII signal and investigating t..."]
+      },
+      {
+        "title": "Simultaneous high-speed planar imaging of mixture fraction and velocity using a burst-mode laser",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Joseph D Miller", "James Michael", "Mikhail N. Slipchenko", "James R. Gord"],
+        "abstract": ["Simultaneous high-speed quantitative imaging of mixture fraction and velocity is demonstrated using the fourth- and second-harmonic outputs, respectively, of a burst-mode Nd:YAG laser. A tenfold increase in the record length and 16-fold increase in per-pulse energy are achieved compared with previous measurements of mixture fraction using burst-mod..."]
+      },
+      {
+        "title": "Femtosecond Laser Electronic Excitation Tagging (FLEET) for Imaging Flow Structure in Unseeded Air",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2013",
+        "authors": ["Arthur Dogariu", "Matthew R. Edwards", "James Michael", "R.B. Miles"],
+        "abstract": ["A one millijoule, 150 femtosecond laser focused into either air or nitrogen dissociates nitrogen molecules along a line through the focal region, and the atomic nitrogen fragments emit light as they recombine. This emission lasts for tens of microseconds and allows the displaced line to be imaged with a time gated camera. Displacement and resolutio..."]
+      },
+      {
+        "title": "Sustained propagation of ultra-lean methane/air flames with pulsed microwave energy deposition",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["James Michael", "Tat Loon Chng", "R.B. Miles"],
+        "abstract": ["An investigation of pulsed microwave energy addition to laminar methane/air flame fronts is undertaken. Microwave coupling efficiencies of up to 60% are measured in a microwave resonator with very low average power requirements (<30 W). Pulsed microwave energy addition to laminar flame fronts is quantified using power absorption measurements and co..."]
+      },
+      {
+        "title": "Towards Quantitative Flame Species Concentration Measurements Using Radar REMPI",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2013",
+        "authors": ["Tat Loon Chng", "James Michael", "Arthur Dogariu", "R.B. Miles"],
+        "abstract": ["This paper details recent efforts aimed at the development of the Radar REMPI technique as a combustion diagnostic. Radar REMPI, which combines the benefits of coherent microwave scattering and the selective ionization capabilities of resonance enhanced multiphoton ionization (REMPI), has been largely successful when used to measure stable species..."]
+      },
+      {
+        "title": "A New Architecture for Burst-Mode Planar Imaging of Turbulent Flames",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2013",
+        "authors": ["James Michael", "Joseph D Miller", "Terrence R Meyer", "James Gord"],
+        "abstract": ["Diode-pumped amplification of a pulsed fiber source is used to extend the duration of traditional burst-mode laser systems past 30 ms with sufficient pulse energy for nonlinear frequency conversion and linear spectroscopic approaches. Pulse repetition rates from 10- 100 kHz are possible, thereby increasing the temporal dynamic range of high-speed m..."]
+      },
+      {
+        "title": "High speed imaging and analysis of turbulent flames",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["James Michael", "H. Subramani", "Terrence R Meyer", "J.R. Gord"],
+        "abstract": ["The study of time-dependent phenomena in turbulent flames requires detailed knowledge of both the chemistry and flowfield interactions that are present in regions of localized extinction or ignition. Recent developments in burst-mode laser technology, coupled with high-speed CMOS detectors, allow imaging at rates sufficient to resolve small-scale v..."]
+      },
+      {
+        "title": "Femtosecond Laser Guiding of High-Voltage Discharge And the Restoration of Dielectric Strength",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["S. B. Leonov", "Aleksandr A. Firsov", "Mikhail Shurupov", "Nikolay A. Popov"],
+        "abstract": ["The use of a low energy, high peak intensity (>100 TW/cm{sup 2}) femtosecond laser pulse is investigated for guiding and control of a sub-microsecond high voltage discharge. Study of the laser induced plasma channel and measurements of the field required for breakdown in air and nitrogen at atmospheric pressure are presented. Direct imaging of the..."]
+      },
+      {
+        "title": "High-Voltage Discharge in Air and Nitrogen, Guided by Femtosecond Laser",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Sergey Leonov", "James Michael", "R.B. Miles", "Mikhail Shurupov"],
+        "abstract": ["The ability of a low energy (El<2mJ), femtosecond laser pulse to\nmodify a high energy (Ed>1J), high voltage discharge is examined in\ndetail. The geometry and breakdown voltage of a long filamentary\nsubmicrosecond high-voltage pulse discharge are studied by noting the\neffect on initial streamer formation, the breakdown location and overall\ngeometry,..."]
+      },
+      {
+        "title": "Strongly Correlated Atomic Oxygen Lasing In Air With Nanosecond Pumping",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2012",
+        "authors": ["James Michael", "Arthur Dogariu", "R.B. Miles"],
+        "abstract": ["Investigation of the fast-time behavior of atomic oxygen lasing in the forward and back- ward direction in air is undertaken. Fast photodiodes and a 20 GHz oscilloscope were used to characterize the time history of the ultraviolet pump beam at 226 nm for single laser shots along with the forward and backward generated atomic oxygen lasing at 845 nm..."]
+      },
+      {
+        "title": "Forward-backward pulse correlation in air laser emission for atmospheric remote sensing",
+        "tags": ["Conference Paper"],
+        "date": "May 2012",
+        "authors": ["Arthur Dogariu", "James Michael", "Alexei V Sokolov", "R.B. Miles"],
+        "abstract": ["We examine the correlations between the forward and backward emitted pulses from the amplified spontaneous emission oxygen air laser. We show a high degree of correlation and regular 0.8 ns pulse spiking intervals."]
+      },
+      {
+        "title": "Standoff stimulated emission in air",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Arthur Dogariu", "James Michael", "R.B. Miles"],
+        "abstract": ["We investigate our recently demonstrated remote air laser by studying\nthe directional backwards and forward emission at 845nm while monitoring\nthe atomic oxygen excitation using a microwave scattering technique. We\nstudy the high gain achieved by focusing an UV laser in air in order to\nproduce and excite the oxygen atoms responsible for the stimula..."]
+      },
+      {
+        "title": "Bringing bombs to light",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2012",
+        "authors": ["R.B. Miles", "Arthur Dogariu", "James Michael"],
+        "abstract": ["With a mighty zap, a laser can detect fumes from hidden explosives. — Today we rely on dogs to sniff out hidden explosives. The problem is, you can't debrief a dog, so you can't identify the kind of explosive or even be sure that the animal is smelling explosives rather than packaging material. And who wants to risk the lives of dogs and their hand..."]
+      },
+      {
+        "title": "Superradiant light source for atmospheric remote sensing",
+        "tags": ["Article"],
+        "date": "Feb 2012",
+        "authors": ["Dmitri V. Voronine", "Andrew Traverso", "Rodrigo Sanchez-Gonzalez", "Marlan Scully"],
+        "abstract": ["We have studied coherent emission from ambient air and demonstrated\nefficient generation of laser-like beams directed both forward and\nbackward with respect to a nanosecond ultraviolet pumping laser beam.\nThe generated optical gain is a result of two-photon photolysis of\natmospheric O2, followed by two-photon excitation of atomic oxygen. We\nhave an..."]
+      },
+      {
+        "title": "Remote Backwards Emission in Air Via Stimulated Emission in Atomic Oxygen",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2012",
+        "authors": ["Arthur Dogariu", "James Michael", "R.B. Miles"],
+        "abstract": ["We demonstrate and investigate coherent stimulated emission in the forward and backward direction form a remotely induced gain region created by an ultraviolet laser which dissociates molecular oxygen and excites atomic oxygen"]
+      },
+      {
+        "title": "Towards species concentration measurements for a pulsed subcritical microwave-enhanced flame",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2012",
+        "authors": ["James Michael", "Tat Loon Chng", "Arthur Dogariu", "R.B. Miles"],
+        "abstract": ["Pulsed microwaves are coupled to methane/air laminar flame fronts in a stagnation flame configuration. The energy deposited in the flame front is measured using forward and reflected microwave power measurements. In order to examine the effect of this pulsed energy addition to the flame front which results in large temperature increases locally, we..."]
+      },
+      {
+        "title": "Velocimetry by femtosecond laser electronic excitation tagging (FLEET) of air and nitrogen",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2012",
+        "authors": ["James Michael", "Matthew Edwards", "Arthur Dogariu", "R.B. Miles"],
+        "abstract": ["Supersonic air speeds are measured using femtosecond laser tagging of molecular nitrogen in unseeded air and in pure nitrogen by monitoring fluorescent emission with a time-delayed, fast-gated camera. Single and multiple lines are written in air by focusing a 120 fs, 1.2 mJ, 810 nm laser and relying on nonlinear nitrogen excitation and dissociation..."]
+      },
+      {
+        "title": "Non-adiabatic Atomic Coherence at Work in the Oxygen Laser Source for Atmospheric Remote Sensing",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2012",
+        "authors": ["Alexei V Sokolov", "Luqi Yuan", "Andrew Traverso", "Marlan Scully"],
+        "abstract": ["We pump ambient air by loosely-focused ultraviolet pulses and generate a backward laser-like beam for use in remote sensing. We find that this efficient emission is likely linked to non-adiabatic coherence effects in atomic oxygen."]
+      },
+      {
+        "title": "Correlations and collisions in air laser emission for atmospheric remote sensing",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2012",
+        "authors": ["Arthur Dogariu", "James Michael", "Alexei V Sokolov", "R.B. Miles"],
+        "abstract": ["We measure strong correlations between the forward and backward emitted pulses from the atomic oxygen laser. We show that the laser spikes are correlated with the pump and do not depend on the collisional frequency."]
+      },
+      {
+        "title": "Ignition Delay Time and Laminar Flame Velocity for a Combined Laser–Microwave Ignition",
+        "tags": ["Article"],
+        "date": "Dec 2011",
+        "authors": ["A.A. Tropina", "James Michael", "M.N. Shneider", "R.B. Miles"],
+        "abstract": ["An analysis of the ignition delay time dependence on microwave energy input time, electric field strength, and discharge energy at high-pressure conditions is presented for a combined laser-microwave ignition. The existence of a saturation power effect at high-pressure conditions is predicted. An analytical formula for a laminar flame velocity is o..."]
+      },
+      {
+        "title": "Femtosecond laser electronic excitation tagging for quantitative velocity imaging in air",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2011",
+        "authors": ["James Michael", "Matthew R Edwards", "Arthur Dogariu", "R.B. Miles"],
+        "abstract": ["Time-accurate velocity measurements in unseeded air are made by tagging nitrogen with a femtosecond-duration laser pulse and monitoring the displacement of the molecules with a time-delayed, fast-gated camera. Centimeter-long lines are written through the focal region of a ∼1 mJ, 810 nm laser and are produced by nonlinear excitation and dissociatio..."]
+      },
+      {
+        "title": "High gain atomic oxygen lasing in air",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2011",
+        "authors": ["Arthur Dogariu", "James Michael", "R.B. Miles"],
+        "abstract": ["We demonstrate coherent light generation and propagation forwards and backwards from a remotely generated high gain region created in ambient air. A 100 ps ultraviolet laser pulse is tuned to a two-photon atomic oxygen resonance, resulting in simultaneous dissociation and excitation in the focal volume. The excitation laser excites the resulting at..."]
+      },
+      {
+        "title": "Localized microwave plasma grid by laser-designation",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2011",
+        "authors": ["James Michael", "Matthew Edwards", "R.B. Miles", "Arthur Dogariu"],
+        "abstract": ["The volumetric addition of energy into flowfields associated with high speed aircraft has the potential to provide drag reduction, flow control, and ignition speed improvements. Using a femtosecond laser system and a microwave cavity, we have shown the ability to deposit microwave energy at locations designated by the laser system. The temperature..."]
+      },
+      {
+        "title": "Ultra-lean combustion sustained by pulsed subcritical microwaves",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2011",
+        "authors": ["James Michael", "R.B. Miles"],
+        "abstract": ["The extension of the lean combustion limit in methane/air mixtures is achieved using pulsed microwave energy deposition. Energy deposition is localized to the region between the reaction zone and the post- flame zone. Lean limit extension from equivalence ratio of 0.6 to 0.3 and flame speed increases of approximately 25 percent are achieved with a..."]
+      },
+      {
+        "title": "Remote backwards lasing in air",
+        "tags": ["Article"],
+        "date": "May 2011",
+        "authors": ["Arthur Dogariu", "James Michael", "Marlan Scully", "R.B. Miles"],
+        "abstract": ["We demonstrate high gain lasing in air from two-photon dissociation of molecular oxygen and simultaneous resonant two-photon pumping of an atomic oxygen fragment. This backwards emission provides a remote laser source for standoff detection."]
+      },
+      {
+        "title": "Remote air lasing for trace detection",
+        "tags": ["Article"],
+        "date": "May 2011",
+        "authors": ["Arthur Dogariu", "James Michael", "R.B. Miles"],
+        "abstract": ["We demonstrate coherent light propagating backwards from a remotely generated high gain air laser. A short ultraviolet laser pulse tuned to a two-photon atomic oxygen electronic resonance at 226 nm simultaneously dissociates the oxygen molecules in air and excites the resulting atomic oxygen fragments. Due to the focal depth of the pumping laser, a..."]
+      },
+      {
+        "title": "Efficient Backward Emission from Optically Pumped Air",
+        "tags": ["Article"],
+        "date": "Mar 2011",
+        "authors": ["Andrew Traverso", "Rodrigo Sanchez-Gonzalez", "Michael Grubb", "Alexei V Sokolov"],
+        "abstract": ["We demonstrate the generation of backwards emitted coherent light in atmosphere via optical pumping. The backwards emitted light is narrow band centered at 845 nm and is generated from the dissociation of molecular oxygen and then subsequent two photon excitation of these newly dissociated oxygen atoms. Both the dissociation and excitation of oxyge..."]
+      },
+      {
+        "title": "High-Gain Backward Lasing in Air",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Arthur Dogariu", "James Michael", "Marlan Scully", "R.B. Miles"],
+        "abstract": ["The need for molecular standoff detection has motivated the development of a\nremotely pumped, high gain air laser that produces lasing in the backward\ndirection and can sample the air as the beam returns. High gain is achieved in\nthe near infrared following pumping with a focused ultraviolet laser. The\npumping mechanism is simultaneous resonant two..."]
+      },
+      {
+        "title": "Methane-Air Mixture Ignition by Combined Laser and Microwave Discharges",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2011",
+        "authors": ["A.A. Tropina", "James Michael", "M.N. Shneider", "R.B. Miles"],
+        "abstract": []
+      },
+      {
+        "title": "Time-Resolved Temperature Measurements of Laser-Designated, Microwave Driven Ignition",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2011",
+        "authors": ["James Michael", "Matthew Edwards", "R.B. Miles"],
+        "abstract": []
+      },
+      {
+        "title": "Sustained methane/air combustion by pulsed microwave energy deposition",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["James Michael", "R.B. Miles"],
+        "abstract": ["The extension of the lean limit for methane/air mixtures is achieved using pulsed subcritical microwaves coupled into an outwardly propagating flame front. The lean limit is extended from an equivalence ratio of 0.6 to 0.3 by applying a series of short-duration microwave pulses at a 1 kHz repetition rate. Atmospheric pressure flame kernels are obse..."]
+      },
+      {
+        "title": "Subcritical microwave coupling to femtosecond and picosecond laser ionization for localized, multipoint ignition of methane/air mixtures",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["James Michael", "Arthur Dogariu", "M.N. Shneider", "R.B. Miles"],
+        "abstract": ["Ignition in methane/air mixtures has been achieved using low energy seed laser pulses and an overlapping subcritical microwave pulse. It is shown that the extremely weak ionization of the laser localizes the microwave energy deposition—leading to rapid heating, high temperatures, and ignition. Multiple simultaneous localized regions of ignition are..."]
+      },
+      {
+        "title": "Laser-Initiated, Microwave Driven Ignition in Methane/Air Mixtures",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2010",
+        "authors": ["James Michael", "Arthur Dogariu", "M.N. Shneider", "R.B. Miles"],
+        "abstract": ["We have recently demonstrated the use of a pre-ionization laser pulse and a second microwave heating pulse to achieve ignition in near-stoichiometric methane/air mixtures. An ultrashort, 800nm non-resonant laser pulse (200 fs, 200 μJ) for seed ionization in combination with a 3GHz microwave pulse (2 μs, 50 mJ) achieved ignition in a premixed methan..."]
+      },
+      {
+        "title": "Atomic Oxygen Detection Using Radar REMPI",
+        "tags": ["Article"],
+        "date": "May 2009",
+        "authors": ["Arthur Dogariu", "James Michael", "Emanuel Stockman", "R.B. Miles"],
+        "abstract": ["We use a microwave scattering based resonantly enhanced multi-photon ionization scheme for monitoring the concentration of oxygen atoms in a flame. This technique allows for remote investigation of concentration of atomic species with nanosecond resolution."]
+      },
+      {
+        "title": "Toward High Q, Evanescent Coupled Microwave Controlled Combustion",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2009",
+        "authors": ["Emanuel Stockman", "James Michael", "Alex Fuller", "R.B. Miles"],
+        "abstract": ["Recent progress in microwave enhanced combustion technology has focused on two main tasks: improving the coupling efficiency of the microwave/flame interaction and designing a system in which the flame can be enhanced outside of the strict confines of a resonant waveguide. The first task has met success with the use of pulsed microwave technology,..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [82],
+    "reads": [10757],
+    "citations": [1132]
   }
 }

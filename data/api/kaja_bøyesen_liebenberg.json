@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Kaja Bøyesen Liebenberg",
-    "id": "1071524",
+    "name": ["Kaja Bøyesen Liebenberg"],
+    "id": ["1071524"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -16,5 +16,15 @@
         "url": "https://api.cristin.no/v2/results/1888283"
       }
     ]
+  },
+  "rg": {
+    "id": "Dorian-Boyesen-2",
+    "name": "Dorian Boyesen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/940296812642307-1601195638560_Q128/Dorian-Boyesen-2.jpg",
+    "affiliation": "ChristianAlbrechtsUniversität zu Kiel | CAU, ChristianAlbrechtsUniversität zu Kiel, Englisches Seminar",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

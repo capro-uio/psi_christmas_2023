@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-3135-3522",
-    "name": "Gina Åsbø",
+    "orcid": ["0000-0003-3135-3522"],
+    "name": ["Gina Åsbø"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Gina Åsbø",
-    "id": "1277052",
+    "name": ["Gina Åsbø"],
+    "id": ["1277052"],
     "keywords": [],
     "position": ["Guest", "Research fellow"],
     "img": {},
@@ -95,5 +95,124 @@
         "url": "https://api.cristin.no/v2/results/1875802"
       }
     ]
+  },
+  "rg": {
+    "id": "Gina-Asbo",
+    "name": "Gina Åsbø",
+    "img": "https://i1.rgstatic.net/ii/profile.image/830501220802560-1575018329475_Q128/Gina-Asbo.jpg",
+    "affiliation": "Oslo University Hospital, Division of Mental Health and Addiction",
+    "keywords": ["Clinical Assessment", "Cognitive Assessment"],
+    "works": [
+      {
+        "title": "The relationship between visual hallucinations, functioning, and suicidality over the course of illness: a 10-year follow-up study in first-episode psychosis",
+        "tags": ["Preprint"],
+        "date": "Aug 2023",
+        "authors": ["Isabel Kreis", "Kristin Fjelnseth Wold", "Gina Åsbø", "Ingrid Melle"],
+        "abstract": "Background: Visual hallucinations are common across psychotic disorders and have been linked to impaired functioning and increased suicide risk. However, little is known about the stability of these associations over the long-term course of illness. Methods: 184 individuals with first-episode psychosis were assessed with semi-structured clinical in..."
+      },
+      {
+        "title": "““Why shouldn’t I expect things from life?” – what people with lived experience from psychosis highlight as important to their personally defined long-term recovery process”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Gina Åsbø", "Hanne Haavind", "S. Hembre Kruse", "Carmen Simonsen"],
+        "abstract": "Introduction\nMany people with lived experience from psychosis recover and thrive, contrary to the common stigmatizing belief that they will be chronic “patients”. But there are several ways to understand recovery, one is as a subjective process best explored through qualitative interviews with people who have recovered from psychosis. However, ther..."
+      },
+      {
+        "title": "Identifying early signs of Treatment Resistance in First Episode Psychosis to revise and aid further treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Kristin Fjelnseth Wold", "Camilla Bärthel Flaaten", "Gina Åsbø", "Ingrid Melle"],
+        "abstract": "Introduction\nApproximately 1/3 of patients with first episode psychosis (FEP) will not benefit from antipsychotic medications and are considered treatment resistant (TR). TR is currently defined as sustained lack of remission with functional loss in the context of two adequate trials of different antipsychotics. Studies suggest that early initiatio..."
+      },
+      {
+        "title": "The relationship between visual hallucinations, functioning and suicidality over the course of illness: a 10-year follow-up study in first-episode psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["I. Kreis", "Kristin Fjelnseth Wold", "Gina Åsbø", "Ingrid Melle"],
+        "abstract": "Introduction\nVisual hallucinations are a common symptom across psychotic disorders and have been linked to illness severity, impaired functioning, and increased suicide risk. However, little is known about the stability of this relationship over the long-term course of illness.\n\nObjectives\nThis study aims to assess whether the presence of visual ha..."
+      },
+      {
+        "title": "Long‐term course of cognitive functioning in bipolar disorder: A ten‐year follow‐up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Camilla Bärthel Flaaten", "Ingrid Melle", "Thomas Doug Bjella", "Torill Ueland"],
+        "abstract": "Introduction: \nCognitive impairments are common in bipolar disorder (BD), but the long-term course remains understudied. Longitudinal data on cognitive functioning from the start of the first treatment could help clarify pathophysiological processes that shape the illness outcome. We here aim to investigate the 10-year cognitive course in BD compar..."
+      },
+      {
+        "title": "Identifying early signs of Treatment Resistance in First Episode Psychosis to revise and aid further treatment",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Kristin Fjelnseth Wold", "Line Widing", "Ingrid Melle", "Gina Åsbø"],
+        "abstract": "Conclusions • The TRRIP consensus definition of TR identifies only a portion of FEP patients without sufficient clinical and functional improvement at one year follow-up, indicating that we may underestimate the prevalence of early TR when using consensus criteria. • The main reason for not meeting full TR criteria is a lack of two adequate antipsy..."
+      },
+      {
+        "title": "Early identification of treatment non-response in first-episode psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Kristin Fjelnseth Wold", "Akiah Ottesen", "Camilla Bärthel Flaaten", "Ingrid Melle"],
+        "abstract": "Background: Approximately one-third of patients with psychotic disorders does not respond to standard antipsychotic treatments. Consensus criteria for treatment resistance (TR) may aid the identification of non-response and subsequent tailoring of treatments. Since consensus criteria require stability of clinical status, they are challenging to app..."
+      },
+      {
+        "title": "Long-term Outcomes of People with DSM Psychotic Disorder NOS",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Line Widing", "Carmen Simonsen", "Thomas Doug Bjella", "Ingrid Melle"],
+        "abstract": "Introduction\nThe DSM-IV diagnostic category \"Psychotic disorder not otherwise specified\" (PNOS) is seldom investigated, and we lack knowledge about long-term outcomes. We examined long-term symptom severity, global functioning, remission/recovery rates, and diagnostic stability after the first treatment for PNOS.\n\nMethods\nParticipants with first tr..."
+      },
+      {
+        "title": "The trajectory of two negative symptom dimensions in first-episode psychosis and the role of cannabis use: A 10-year follow-up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Henrik Myhre Ihler", "Siv Hege Lyngstad", "Erlend Strand Gardsjord", "Kristin Lie Romm"],
+        "abstract": "Objective: \nTo investigate the trajectories of diminished expression and apathy over 10 years. Further, to explore the effects of baseline- and persistent cannabis use on the development of diminished expression and apathy during follow-up, while controlling other potential sources and predictors of secondary negative symptoms.\n\nMethods: \n351 parti..."
+      },
+      {
+        "title": "Domain-specific cognitive course in schizophrenia: Group- and individual-level changes over 10 years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Camilla Bärthel Flaaten", "Ingrid Melle", "Thomas Doug Bjella", "Torill Ueland"],
+        "abstract": "Cognitive impairments in schizophrenia are well-documented, present across several cognitive domains and found to be relatively stable over time. However, there is a high degree of heterogeneity and indications of domain-specific developmental courses. The present study investigated the 10-year cognitive course in participants with first-episode sc..."
+      },
+      {
+        "title": "The Time is Ripe for a Consensus Definition of Clinical Recovery in First-episode Psychosis: Suggestions Based on a 10-Year Follow-up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Gina Åsbø", "Camilla Bärthel Flaaten", "Kristin Fjelnseth Wold", "Carmen Simonsen"],
+        "abstract": "Objectives\nA consensus definition of clinical recovery in first-episode psychosis (FEP) is required to improve knowledge about recovery rates in this population. To propose criteria for a future consensus definition, this study aims to investigate rates of clinical recovery when using a standard definition (full psychotic symptom remission and adeq..."
+      },
+      {
+        "title": "Cognitive and Global Functioning in Patients With First-Episode Psychosis Stratified by Level of Negative Symptoms. A 10-Year Follow-Up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Magnus Johan Engen", "Anja Vaskinn", "Ingrid Melle", "Torill Ueland"],
+        "abstract": "Negative and cognitive symptoms are core features of schizophrenia that are correlated in cross-sectional designs. To further explore the relationship between these critical symptom dimensions we use a method for stratifying participants based on level and persistence of negative symptoms from absent to sustained levels over a 10-year follow-up per..."
+      },
+      {
+        "title": "Course of intellectual functioning in schizophrenia and bipolar disorder: a 10-year follow-up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Camilla Bärthel Flaaten", "Ingrid Melle", "Erlend Strand Gardsjord", "Torill Ueland"],
+        "abstract": "Background\nIntellectual functioning (IQ) is lower in schizophrenia patients compared to healthy controls, with bipolar patients intermediate between the two. Declines in IQ mark the onset of schizophrenia, while stability is generally found post-onset. There are to date few studies on long-term IQ development in bipolar disorder. This study present..."
+      },
+      {
+        "title": "Premorbid characteristics of patients with DSM-IV psychotic disorder not otherwise specified",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Line Widing", "Carmen Simonsen", "Camilla Bärthel Flaaten", "Ingrid Melle"],
+        "abstract": "Introduction\nPsychotic disorder not otherwise specified (PNOS) is considered part of the psychosis spectrum, together with schizophrenia spectrum disorders (SZ) and psychotic bipolar spectrum disorders (BD). PNOS is classified diagnostically as part of the broader SZ spectrum, but is largely understudied. Little is known about premorbid characteris..."
+      },
+      {
+        "title": "Symptom Profiles in Psychotic Disorder Not Otherwise Specified",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Line Widing", "Carmen Simonsen", "Camilla Bärthel Flaaten", "Ingrid Melle"],
+        "abstract": "Introduction: Approximately 10% of patients with psychotic disorders receive the diagnosis “Psychotic disorder not otherwise specified” (PNOS). However, there is a lack of knowledge about the clinical presentations captured by this diagnosis in the mental health services. Therefore, we examined the symptom profiles of participants with PNOS compare..."
+      }
+    ],
+    "degree": ["Doctor", "of", "Psychology"],
+    "bio": [],
+    "publications": [15],
+    "reads": [1543],
+    "citations": [41]
   }
 }

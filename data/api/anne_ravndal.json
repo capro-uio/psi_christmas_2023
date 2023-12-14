@@ -2,11 +2,59 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Anne Ravndal",
-    "id": "1360711",
+    "name": ["Anne Ravndal"],
+    "id": ["1360711"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Freese-Anne",
+    "name": "Freese Anne",
+    "img": "https://i1.rgstatic.net/ii/profile.image/721138925715458-1548944326714_Q128/Freese-Anne.jpg",
+    "affiliation": "HumboldtUniversität zu Berlin | HU Berlin, HumboldtUniversität zu Berlin, Büro der zentralen Frauenbeauftragten",
+    "keywords": ["History of Medicine", "20th Century History", "Cultural History", "Gender History", "History of Science"],
+    "works": [
+      {
+        "title": "Gewalt - Deutung - Selbstoptimierung. Eine Geschichte der posttraumatischen Belastungsstörung seit dem Vietnam-Syndrom",
+        "tags": ["Book"],
+        "date": "Dec 2018",
+        "authors": ["Freese Anne"],
+        "abstract": ["Das Trauma ist eines der wichtigsten, wenn nicht sogar das zentrale hermeneutische Konzept, mittels dessen in Nordamerika und Westeuropa das Verhältnis zwischen Gewalterfahrungen, ihrer Verarbeitung in der Psyche und ihren psychischen und somatischen Folgeerscheinungen gedacht wird. Anne Freese untersucht den Wandel des psychischen Traumakonzeptes..."]
+      },
+      {
+        "title": "Title",
+        "tags": ["Data"],
+        "date": "Jan 2019",
+        "authors": ["Freese Anne"],
+        "abstract": []
+      },
+      {
+        "title": "Einleitung. Gewalt - Deutung - Selbstoptimierung..pdf",
+        "tags": ["Data"],
+        "date": "Jan 2019",
+        "authors": ["Freese Anne"],
+        "abstract": []
+      },
+      {
+        "title": "Histoire et philosophie de la psychiatrie au XXe siècle : regards croisés franco-allemands Paris - ENS, 19 Octobre 2016 Entrée libre dans la limite des places disponibles. Merci de vous inscrire en envoyant un mail à mireille.delbraccio@ens.fr",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Elisabetta Basso", "Emmanuel Delille", "Samuel Thoma", "Mireille Delbraccio"],
+        "abstract": ["Entrée libre dans la limite des places disponibles. Merci de vous inscrire en envoyant un mail à mireille.delbraccio@ens.fr"]
+      },
+      {
+        "title": "Bilan scientifique: Colloque Junior CIERA - Histoire et philosophie de la psychiatrie au XXe siècle : regards croisés franco-allemands - Paris 19 oct. 2016",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Elisabetta Basso", "Emmanuel Delille", "Samuel Thoma", "Jonathan CHalier"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Dr."],
+    "publications": [5],
+    "reads": [175],
+    "citations": [5]
   }
 }

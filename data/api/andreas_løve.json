@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Andrea C. Love",
-    "id": "LqDM68QAAAAJ",
-    "affiliation": "Immunologist and Microbiologist",
+    "name": ["Andrea C. Love"],
+    "id": ["LqDM68QAAAAJ"],
+    "affiliation": ["Immunologist and Microbiologist"],
     "data": {
       "publications": [
         {
@@ -131,11 +131,20 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Andreas Løve",
-    "id": "1662435",
+    "name": ["Andreas Løve"],
+    "id": ["1662435"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Reinhart_Andreas",
+    "name": "Reinhart Andreas",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Surya University, Department of Physics Engineering",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

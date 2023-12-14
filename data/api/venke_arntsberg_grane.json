@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-2712-0056",
-    "name": "Venke Arntsberg Grane",
+    "orcid": ["0000-0003-2712-0056"],
+    "name": ["Venke Arntsberg Grane"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Venke Arntsberg Grane",
-    "id": "326436",
+    "name": ["Venke Arntsberg Grane"],
+    "id": ["326436"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -35,15 +35,15 @@
         "type": "Academic article",
         "year": "2016",
         "title": "ERP correlates of proactive and reactive cognitive control in treatment-naïve adult adhd",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1375287"
+        "url": "https://api.cristin.no/v2/results/1375287",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Behavior Rating Inventory of Executive Function Adult Version in Patients with Neurological and Neuropsychiatric Conditions: Symptom Levels and Relationship to Emotional Distress",
-        "journal": "Journal of the International Neuropsychological Society",
-        "url": "https://api.cristin.no/v2/results/1356038"
+        "url": "https://api.cristin.no/v2/results/1356038",
+        "journal": "Journal of the International Neuropsychological Society"
       },
       {
         "type": "Poster",
@@ -55,16 +55,72 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Attentional control and subjective executive function in treatment-naive adults with attention deficit hyperactivity disorder",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1218331"
+        "url": "https://api.cristin.no/v2/results/1218331",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Discriminating between ADHD adults and controls using independent ERP components and a support vector machine: a validation study",
-        "journal": "Nonlinear Biomedical Physics",
-        "url": "https://api.cristin.no/v2/results/914799"
+        "url": "https://api.cristin.no/v2/results/914799",
+        "journal": "Nonlinear Biomedical Physics"
       }
     ]
+  },
+  "rg": {
+    "id": "Venke-Grane",
+    "name": "Venke Arntsberg Grane",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277902542295042-1443268537167_Q128/Venke-Grane.jpg",
+    "affiliation": "Helgeland Hospital, Department of Neuropsychology",
+    "keywords": ["Event-Related Potentials", "Cognitive Neuroscience", "Cognitive Neuropsychology", "Executive Function", "Experimental Neuropsychology", "ADHD", "Cognitive Science", "Cognitive Psychology", "Neuropsychology"],
+    "works": [
+      {
+        "title": "Correction: ERP Correlates of Proactive and Reactive Cognitive Control in Treatment-Naïve Adult ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Venke Arntsberg Grane", "Jan Ferenc Brunner", "Tor Endestad", "Anne‐Kristin Solbakk"],
+        "abstract": "[This corrects the article DOI: 10.1371/journal.pone.0159833.]."
+      },
+      {
+        "title": "ERP Correlates of Proactive and Reactive Cognitive Control in Treatment-Naïve Adult ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Venke Arntsberg Grane", "Jan Ferenc Brunner", "Tor Endestad", "Anne‐Kristin Solbakk"],
+        "abstract": "This study investigated whether treatment naïve adults with Attention Deficit Hyperactivity Disorder (ADHD; n = 33; 19 female) differed from healthy controls (n = 31; 17 female) in behavioral performance, event-related potential (ERP) indices of preparatory attention (CueP3 and late CNV), and reactive response control (Go P3, NoGo N2, and NoGo P3)..."
+      },
+      {
+        "title": "Behavior Rating Inventory of Executive Function Adult Version in Patients with Neurological and Neuropsychiatric Conditions: Symptom Levels and Relationship to Emotional Distress",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Marianne Løvstad", "Solrun Sigurdardottir", "Stein Andersson", "Anne‐Kristin Solbakk"],
+        "abstract": "Objectives: \nThe present study explored the level of self-and informant reported executive functioning in daily living using the Behavior Rating Inventory of Executive Function-Adult Version (BRIEF-A) in a large sample comprising healthy adults and patient cohorts with neurological and neuropsychiatric disorders. The relationship to neuropsychologi..."
+      },
+      {
+        "title": "Attentional Control and Subjective Executive Function in Treatment-Naive Adults with Attention Deficit Hyperactivity Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Venke Arntsberg Grane", "Tor Endestad", "Arnfrid Farbu Pinto", "Anne‐Kristin Solbakk"],
+        "abstract": "We investigated performance-derived measures of executive control, and their relationship with self- and informant reported executive functions in everyday life, in treatment-naive adults with newly diagnosed Attention Deficit Hyperactivity Disorder (ADHD; n = 36) and in healthy controls (n = 35). Sustained attentional control and response inhibiti..."
+      },
+      {
+        "title": "Discriminating between ADHD adults and controls using independent ERP components and a support vector machine: A validation study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2011",
+        "authors": ["A. Mueller", "Gian Candrian", "Venke Arntsberg Grane", "Gian-Marco Baschera"],
+        "abstract": "There are numerous event-related potential (ERP) studies in relation to attention-deficit hyperactivity disorder (ADHD), and a substantial number of ERP correlates of the disorder have been identified. However, most of the studies are limited to group differences in children. Independent component analysis (ICA) separates a set of mixed event-relat..."
+      },
+      {
+        "title": "Neuropsychological disturbances in frontal lobe epilepsy due to mutated nicotinic receptors",
+        "tags": ["Article"],
+        "date": "Feb 2009",
+        "authors": ["Fabienne Picard", "Alan J Pegna", "Venke Arntsberg Grane", "Eylert Brodtkorb"],
+        "abstract": "Mutations in nicotinic receptor subunits have been identified in some families with autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE). Normal intelligence has currently been considered the rule, although anecdotal cases with intellectual disability have been reported. We aimed to evaluate the frequency and degree of neuropsychological dis..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [6],
+    "reads": [4473],
+    "citations": [271]
   }
 }

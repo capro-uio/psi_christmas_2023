@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Bruno Laeng",
-    "id": "V4q7ZdUAAAAJ",
-    "affiliation": "Professor of Cognitive Neuropsychology, University of Oslo",
+    "name": ["Bruno Laeng"],
+    "id": ["V4q7ZdUAAAAJ"],
+    "affiliation": ["Professor of Cognitive Neuropsychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -1172,8 +1172,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-1539-4893",
-    "name": "Bruno Laeng",
+    "orcid": ["0000-0003-1539-4893"],
+    "name": ["Bruno Laeng"],
     "distinctions": [],
     "education": [
       {
@@ -1198,8 +1198,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Bruno Laeng",
-    "id": "6704",
+    "name": ["Bruno Laeng"],
+    "id": ["6704"],
     "keywords": ["Cognitive neuroscience"],
     "position": ["Professor", "Professor", "Professor"],
     "img": {},
@@ -1214,8 +1214,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Mind surfing: attention in musical absorption",
-        "journal": "Cognitive Systems Research",
-        "url": "https://api.cristin.no/v2/results/2197300"
+        "url": "https://api.cristin.no/v2/results/2197300",
+        "journal": "Cognitive Systems Research"
       },
       {
         "type": "Academic lecture",
@@ -1227,50 +1227,50 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Mental Effort and Expressive Interaction in Expert and Student String Quartet Performance",
-        "journal": "Music & Science",
-        "url": "https://api.cristin.no/v2/results/2193545"
+        "url": "https://api.cristin.no/v2/results/2193545",
+        "journal": "Music & Science"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Unveiling Adolescent Suicidality: Holistic Analysis of Protective and Risk Factors Using Multiple Machine Learning Algorithms",
-        "journal": "Journal of Youth and Adolescence",
-        "url": "https://api.cristin.no/v2/results/2187404"
+        "url": "https://api.cristin.no/v2/results/2187404",
+        "journal": "Journal of Youth and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Beat alignment ability is associated with formal musical training not current music playing",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2175966"
+        "url": "https://api.cristin.no/v2/results/2175966",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Are false positives in suicide classification models a risk group? Evidence for “true alarms” in a population-representative longitudinal study of Norwegian adolescents",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2175963"
+        "url": "https://api.cristin.no/v2/results/2175963",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Tracking semantic relatedness: numeral classifiers guide gaze to visual world objects",
-        "journal": "Frontiers in Language Sciences",
-        "url": "https://api.cristin.no/v2/results/2172871"
+        "url": "https://api.cristin.no/v2/results/2172871",
+        "journal": "Frontiers in Language Sciences"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "From pre-processing to advanced dynamic modeling of pupil data",
-        "journal": "Behavior Research Methods",
-        "url": "https://api.cristin.no/v2/results/2159052"
+        "url": "https://api.cristin.no/v2/results/2159052",
+        "journal": "Behavior Research Methods"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Into the Hive-Mind: Shared Absorption and Cardiac Interrelations in Expert and Student String Quartets",
-        "journal": "Music & Science",
-        "url": "https://api.cristin.no/v2/results/2156528"
+        "url": "https://api.cristin.no/v2/results/2156528",
+        "journal": "Music & Science"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1282,36 +1282,36 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Recognition of brief sounds in rapid serial auditory presentation",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/2143172"
+        "url": "https://api.cristin.no/v2/results/2143172",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Using Automated Speech Processing for Repeated Measurements in a Clinical Setting of the Behavioral Variability in the Stroop Task",
-        "journal": "Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/2132703"
+        "url": "https://api.cristin.no/v2/results/2132703",
+        "journal": "Brain Sciences"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Caressed by music: Related preferences for velocity of touch and tempo of music?",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2130975"
+        "url": "https://api.cristin.no/v2/results/2130975",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Beat alignment ability is associated with formal musical training not current music playing",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2127270"
+        "url": "https://api.cristin.no/v2/results/2127270",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The lateralized flash-lag illusion: A psychophysical and pupillometry study",
-        "journal": "Brain and Cognition",
-        "url": "https://api.cristin.no/v2/results/2122658"
+        "url": "https://api.cristin.no/v2/results/2122658",
+        "journal": "Brain and Cognition"
       },
       {
         "type": "Interview",
@@ -1322,8 +1322,8 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Human voices escape the auditory attentional blink: Evidence from detections and pupil responses",
-        "journal": "Brain and Cognition",
-        "url": "https://api.cristin.no/v2/results/2084920"
+        "url": "https://api.cristin.no/v2/results/2084920",
+        "journal": "Brain and Cognition"
       },
       {
         "type": "Poster",
@@ -1353,29 +1353,29 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Pupil drift rate indexes groove ratings",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/2037757"
+        "url": "https://api.cristin.no/v2/results/2037757",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The other-race effect in the uncanny valley",
-        "journal": "International Journal of Human-Computer Studies",
-        "url": "https://api.cristin.no/v2/results/2032380"
+        "url": "https://api.cristin.no/v2/results/2032380",
+        "journal": "International Journal of Human-Computer Studies"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Environmental risks to humans, the first database of valence and arousal ratings for images of natural hazards",
-        "journal": "Scientific Data",
-        "url": "https://api.cristin.no/v2/results/2031747"
+        "url": "https://api.cristin.no/v2/results/2031747",
+        "journal": "Scientific Data"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The Eye Pupil Adjusts to Illusorily Expanding Holes",
-        "journal": "Frontiers in Human Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2028914"
+        "url": "https://api.cristin.no/v2/results/2028914",
+        "journal": "Frontiers in Human Neuroscience"
       },
       {
         "type": "Academic lecture",
@@ -1387,15 +1387,15 @@
         "type": "Academic article",
         "year": "2021",
         "title": "The ascending arousal system promotes optimal performance through mesoscale network integration in a visuospatial attentional task",
-        "journal": "Network Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1970694"
+        "url": "https://api.cristin.no/v2/results/1970694",
+        "journal": "Network Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Substituting facial movements in singers changes the sounds of musical intervals",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/1956285"
+        "url": "https://api.cristin.no/v2/results/1956285",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Poster",
@@ -1407,36 +1407,36 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Move like everyone is watching: Social context affects head motion and gaze in string quartet performance",
-        "journal": "Journal of New Music Research",
-        "url": "https://api.cristin.no/v2/results/1936905"
+        "url": "https://api.cristin.no/v2/results/1936905",
+        "journal": "Journal of New Music Research"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Musical and Bodily Predictors of Mental Effort in String Quartet Music: An Ecological Pupillometry Study of Performers and Listeners",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1919217"
+        "url": "https://api.cristin.no/v2/results/1919217",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "‘Defrosting’ music chills with naltrexone: The role of endogenous opioids for the intensity of musical pleasure",
-        "journal": "Consciousness and Cognition",
-        "url": "https://api.cristin.no/v2/results/1896956"
+        "url": "https://api.cristin.no/v2/results/1896956",
+        "journal": "Consciousness and Cognition"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "“Mickey Mousing” in the Brain: Motion-Sound Synesthesia and the Subcortical Substrate of Audio-Visual Integration",
-        "journal": "Frontiers in Human Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1889727"
+        "url": "https://api.cristin.no/v2/results/1889727",
+        "journal": "Frontiers in Human Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Brightness perception changes related to pupil size",
-        "journal": "Vision Research",
-        "url": "https://api.cristin.no/v2/results/1841729"
+        "url": "https://api.cristin.no/v2/results/1841729",
+        "journal": "Vision Research"
       },
       {
         "type": "Doctoral dissertation",
@@ -1448,120 +1448,120 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Who Moves to Music? Empathic Concern Predicts Spontaneous Movement Responses to Rhythm and Music",
-        "journal": "Music & Science",
-        "url": "https://api.cristin.no/v2/results/1877438"
+        "url": "https://api.cristin.no/v2/results/1877438",
+        "journal": "Music & Science"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "More mental rotation time does not imply more mental effort: Pupillary diameters do not change with angular distance",
-        "journal": "Brain and Cognition",
-        "url": "https://api.cristin.no/v2/results/1856618"
+        "url": "https://api.cristin.no/v2/results/1856618",
+        "journal": "Brain and Cognition"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Effects of nicotine on pupil size and performance during multiple-object tracking in non-nicotine users",
-        "journal": "International Journal of Psychophysiology",
-        "url": "https://api.cristin.no/v2/results/1841391"
+        "url": "https://api.cristin.no/v2/results/1841391",
+        "journal": "International Journal of Psychophysiology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Mental Effort When Playing, Listening, and Imagining Music in One Pianist’s Eyes and Brain.",
-        "journal": "Frontiers in Human Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1840063"
+        "url": "https://api.cristin.no/v2/results/1840063",
+        "journal": "Frontiers in Human Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The effect of intranasal oxytocin on visual processing and salience of human faces",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1832016"
+        "url": "https://api.cristin.no/v2/results/1832016",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The effects of cognitive abilities and task demands on tonic and phasic pupil sizes",
-        "journal": "Biological Psychology",
-        "url": "https://api.cristin.no/v2/results/1828065"
+        "url": "https://api.cristin.no/v2/results/1828065",
+        "journal": "Biological Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Classifiers in non-European languages and semantic impairments in western neurological patients have a common cognitive structure",
-        "journal": "Lingua",
-        "url": "https://api.cristin.no/v2/results/1826238"
+        "url": "https://api.cristin.no/v2/results/1826238",
+        "journal": "Lingua"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Does stereopsis improve face identification? A study using a virtual reality display with integrated eye-tracking and pupillometry",
-        "journal": "Acta Psychologica",
-        "url": "https://api.cristin.no/v2/results/1824502"
+        "url": "https://api.cristin.no/v2/results/1824502",
+        "journal": "Acta Psychologica"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Pupillary and behavioral markers of alerting and orienting: An individual difference approach",
-        "journal": "Brain and Cognition",
-        "url": "https://api.cristin.no/v2/results/1823762"
+        "url": "https://api.cristin.no/v2/results/1823762",
+        "journal": "Brain and Cognition"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Cueing the Necker cube: Pupil dilation reflects the viewing-from-above constraint in bistable perception.",
-        "journal": "Journal of Vision",
-        "url": "https://api.cristin.no/v2/results/1818277"
+        "url": "https://api.cristin.no/v2/results/1818277",
+        "journal": "Journal of Vision"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Headphones or Speakers? An Exploratory Study of Their Effects on Spontaneous Body Movement to Rhythmic Music",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1817757"
+        "url": "https://api.cristin.no/v2/results/1817757",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Fearful expressions of rapidly presented hybrid-faces modulate the lag 1 sparing in the attentional blink",
-        "journal": "Acta Psychologica",
-        "url": "https://api.cristin.no/v2/results/1817414"
+        "url": "https://api.cristin.no/v2/results/1817414",
+        "journal": "Acta Psychologica"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "No Evidence for an Auditory Attentional Blink for Voices Regardless of Musical Expertise",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1779477"
+        "url": "https://api.cristin.no/v2/results/1779477",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Filtered beauty in Oslo and Tokyo: A spatial\r\nfrequency analysis of facial attractiveness",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1774697"
+        "url": "https://api.cristin.no/v2/results/1774697",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Distinct Neural Mechanisms Meet Challenges in Dynamic Visual Attention due to Either Load or Object Spacing",
-        "journal": "Journal of Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1772696"
+        "url": "https://api.cristin.no/v2/results/1772696",
+        "journal": "Journal of Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Microtiming and mental effort: Onset asynchronies in musical rhythm modulate pupil size",
-        "journal": "Music Perception",
-        "url": "https://api.cristin.no/v2/results/1761440"
+        "url": "https://api.cristin.no/v2/results/1761440",
+        "journal": "Music Perception"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Where Are the Months? Mental Images of Circular Time in a Large Online Sample",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1757290"
+        "url": "https://api.cristin.no/v2/results/1757290",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Chapter",
@@ -1573,29 +1573,29 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Colorful glares: Effects of colors on brightness illusions measured with pupillometry",
-        "journal": "Acta Psychologica",
-        "url": "https://api.cristin.no/v2/results/1712751"
+        "url": "https://api.cristin.no/v2/results/1712751",
+        "journal": "Acta Psychologica"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Individual differences in resting-state pupil size: Evidence for association between working memory capacity and pupil size variability",
-        "journal": "International Journal of Psychophysiology",
-        "url": "https://api.cristin.no/v2/results/1709591"
+        "url": "https://api.cristin.no/v2/results/1709591",
+        "journal": "International Journal of Psychophysiology"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Neurodegenerative interplay of cardiovascular autonomic dysregulation and the retina in early multiple sclerosis",
-        "journal": "Frontiers in Neurology",
-        "url": "https://api.cristin.no/v2/results/1705303"
+        "url": "https://api.cristin.no/v2/results/1705303",
+        "journal": "Frontiers in Neurology"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Unilateral neglect post stroke: Eye movement frequencies indicate directional hypokinesia while fixation distributions suggest compensational mechanism",
-        "journal": "Brain and Behavior",
-        "url": "https://api.cristin.no/v2/results/1643208"
+        "url": "https://api.cristin.no/v2/results/1643208",
+        "journal": "Brain and Behavior"
       },
       {
         "type": "Academic lecture",
@@ -1613,15 +1613,15 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Transcranial random noise stimulation (tRNS) over prefrontal cortex does not influence the evaluation of facial emotions",
-        "journal": "Social Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1681941"
+        "url": "https://api.cristin.no/v2/results/1681941",
+        "journal": "Social Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Multiple object tracking and pupillometry reveal deficits in both selective and intensive attention in unilateral spatial neglect",
-        "journal": "Journal of Clinical and Experimental Neuropsychology",
-        "url": "https://api.cristin.no/v2/results/1630738"
+        "url": "https://api.cristin.no/v2/results/1630738",
+        "journal": "Journal of Clinical and Experimental Neuropsychology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1633,8 +1633,8 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Gaze and the Eye Pupil Adjust to Imagined Size and Distance",
-        "journal": "Cognitive Science",
-        "url": "https://api.cristin.no/v2/results/1619297"
+        "url": "https://api.cristin.no/v2/results/1619297",
+        "journal": "Cognitive Science"
       },
       {
         "type": "Poster",
@@ -1658,43 +1658,43 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Chasing Animals With Split Attention: Are Animals Prioritized in Visual Tracking?",
-        "journal": "i-Perception",
-        "url": "https://api.cristin.no/v2/results/1606770"
+        "url": "https://api.cristin.no/v2/results/1606770",
+        "journal": "i-Perception"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Ocular signatures of proactive versus reactive cognitive control in young adults",
-        "journal": "Cognitive, Affective, & Behavioral Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1599545"
+        "url": "https://api.cristin.no/v2/results/1599545",
+        "journal": "Cognitive, Affective, & Behavioral Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "The \"face race lightness illusion\": An effect of the eyes and pupils?",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1599544"
+        "url": "https://api.cristin.no/v2/results/1599544",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Morphine reduced perceived anger from neutral and implicit emotional expressions",
-        "journal": "Psychoneuroendocrinology",
-        "url": "https://api.cristin.no/v2/results/1598291"
+        "url": "https://api.cristin.no/v2/results/1598291",
+        "journal": "Psychoneuroendocrinology"
       },
       {
         "type": "Errata",
         "year": "2018",
         "title": "Corrigendum to \"Binocular rivalry after right-hemisphere stroke: Effects of attention impairment on perceptual dominance patterns\" [Brain Cogn. 117 (2017) 84–96]",
-        "journal": "Brain and Cognition",
-        "url": "https://api.cristin.no/v2/results/1596838"
+        "url": "https://api.cristin.no/v2/results/1596838",
+        "journal": "Brain and Cognition"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Pupillary Responses to Illusions of Brightness in Autism Spectrum Disorder",
-        "journal": "i-Perception",
-        "url": "https://api.cristin.no/v2/results/1585826"
+        "url": "https://api.cristin.no/v2/results/1585826",
+        "journal": "i-Perception"
       },
       {
         "type": "Poster",
@@ -1718,99 +1718,99 @@
         "type": "Academic article",
         "year": "2017",
         "title": "Animals Do Not Induce or Reduce Attentional Blinking, But They Are Reported More Accurately in a Rapid Serial Visual Presentation Task",
-        "journal": "i-Perception",
-        "url": "https://api.cristin.no/v2/results/1505071"
+        "url": "https://api.cristin.no/v2/results/1505071",
+        "journal": "i-Perception"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Analog and Digital Windowing of Attention in Language, Visual Perception, and the Brain",
-        "journal": "Cognitive Semantics",
-        "url": "https://api.cristin.no/v2/results/1490315"
+        "url": "https://api.cristin.no/v2/results/1490315",
+        "journal": "Cognitive Semantics"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "The Eye Pupil’s Response to Static and Dynamic Illusions of Luminosity and Darkness",
-        "journal": "i-Perception",
-        "url": "https://api.cristin.no/v2/results/1486164"
+        "url": "https://api.cristin.no/v2/results/1486164",
+        "journal": "i-Perception"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Binocular rivalry after right-hemisphere stroke: Effects of attention impairment on perceptual dominance patterns",
-        "journal": "Brain and Cognition",
-        "url": "https://api.cristin.no/v2/results/1483217"
+        "url": "https://api.cristin.no/v2/results/1483217",
+        "journal": "Brain and Cognition"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Fatigue and cognition: Pupillary responses to problem-solving in early multiple sclerosis patients",
-        "journal": "Brain and Behavior",
-        "url": "https://api.cristin.no/v2/results/1473480"
+        "url": "https://api.cristin.no/v2/results/1473480",
+        "journal": "Brain and Behavior"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "The µ-Opioid System Promotes Visual Attention to Faces and Eyes",
-        "journal": "Social Cognitive & Affective Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1453688"
+        "url": "https://api.cristin.no/v2/results/1453688",
+        "journal": "Social Cognitive & Affective Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Modulating adaptation to emotional faces by spatial frequency filtering",
-        "journal": "Psychological Research",
-        "url": "https://api.cristin.no/v2/results/1416176"
+        "url": "https://api.cristin.no/v2/results/1416176",
+        "journal": "Psychological Research"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Practice-induced and sequential modulations in the Simon task: evidence from pupil dilation",
-        "journal": "International Journal of Psychophysiology",
-        "url": "https://api.cristin.no/v2/results/1406973"
+        "url": "https://api.cristin.no/v2/results/1406973",
+        "journal": "International Journal of Psychophysiology"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Wine labels: an eye-tracking and pupillometry study",
-        "journal": "International Journal of Wine Business Research",
-        "url": "https://api.cristin.no/v2/results/1402096"
+        "url": "https://api.cristin.no/v2/results/1402096",
+        "journal": "International Journal of Wine Business Research"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Music chills: The eye pupil as a mirror to music’s soul",
-        "journal": "Consciousness and Cognition",
-        "url": "https://api.cristin.no/v2/results/1370879"
+        "url": "https://api.cristin.no/v2/results/1370879",
+        "journal": "Consciousness and Cognition"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Why Saturday could be both green and red in synesthesia",
-        "journal": "Cognitive Processing",
-        "url": "https://api.cristin.no/v2/results/1370435"
+        "url": "https://api.cristin.no/v2/results/1370435",
+        "journal": "Cognitive Processing"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Using space to represent categories: insights from gaze position",
-        "journal": "Psychological Research",
-        "url": "https://api.cristin.no/v2/results/1368538"
+        "url": "https://api.cristin.no/v2/results/1368538",
+        "journal": "Psychological Research"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "The Change Detection Advantage for Animals: An Effect of Ancestral Priorities or Progeny of Experimental Design?",
-        "journal": "i-Perception",
-        "url": "https://api.cristin.no/v2/results/1364672"
+        "url": "https://api.cristin.no/v2/results/1364672",
+        "journal": "i-Perception"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "The cerebral correlates of subliminal emotions: An eleoencephalographic study with emotional hybrid faces",
-        "journal": "European Journal of Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1337409"
+        "url": "https://api.cristin.no/v2/results/1337409",
+        "journal": "European Journal of Neuroscience"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1840,44 +1840,53 @@
         "type": "Academic article",
         "year": "2015",
         "title": "Eye and hand motor interactions with the Symbol Digit Modalities Test in early multiple sclerosis",
-        "journal": "Multiple Sclerosis and Related Disorders",
-        "url": "https://api.cristin.no/v2/results/1277203"
+        "url": "https://api.cristin.no/v2/results/1277203",
+        "journal": "Multiple Sclerosis and Related Disorders"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Tracking down the path of memory: eye scanpaths facilitate retrieval of visuospatial information",
-        "journal": "Cognitive Processing",
-        "url": "https://api.cristin.no/v2/results/1258913"
+        "url": "https://api.cristin.no/v2/results/1258913",
+        "journal": "Cognitive Processing"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Cool Guys and Warm Husbands: The Effect of Smiling on Male Facial Attractiveness for Short- and Long-Term Relationships",
-        "journal": "Evolutionary Psychology",
-        "url": "https://api.cristin.no/v2/results/1258912"
+        "url": "https://api.cristin.no/v2/results/1258912",
+        "journal": "Evolutionary Psychology"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Functional connectivity indicates differential roles for the intraparietal sulcus and the superior parietal lobule in multiple object tracking",
-        "journal": "NeuroImage",
-        "url": "https://api.cristin.no/v2/results/1258168"
+        "url": "https://api.cristin.no/v2/results/1258168",
+        "journal": "NeuroImage"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Conscious and unconscious processing of facial expressions: Evidence from two split-brain patients",
-        "journal": "Journal of Neuropsychology",
-        "url": "https://api.cristin.no/v2/results/1234982"
+        "url": "https://api.cristin.no/v2/results/1234982",
+        "journal": "Journal of Neuropsychology"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Hemispheric lateralization in top-down attention during spatial relation processing: a Granger causal model approach",
-        "journal": "European Journal of Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1225248"
+        "url": "https://api.cristin.no/v2/results/1225248",
+        "journal": "European Journal of Neuroscience"
       }
     ]
+  },
+  "rg": {
+    "id": "Erika-Bruno",
+    "name": "Erika Bruno",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Catania | UNICT, University of Catania, Department of Civil Engineering and Architecture",
+    "keywords": ["Designing", "Design Thinking", "Creativity and Innovation", "Sketching", "Drawing", "Graphics", "Prototyping", "Illustration", "Photography", "Creativeness"],
+    "works": [],
+    "degree": [null]
   }
 }

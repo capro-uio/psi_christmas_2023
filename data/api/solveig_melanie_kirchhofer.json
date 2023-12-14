@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Solveig Melanie Kirchhofer",
-    "id": "1177391",
+    "name": ["Solveig Melanie Kirchhofer"],
+    "id": ["1177391"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -18,9 +18,19 @@
         "type": "Academic literature review",
         "year": "2022",
         "title": "A systematic review of social support for siblings of children with neurodevelopmental disorders",
-        "journal": "Research in Developmental Disabilities",
-        "url": "https://api.cristin.no/v2/results/2018371"
+        "url": "https://api.cristin.no/v2/results/2018371",
+        "journal": "Research in Developmental Disabilities"
       }
     ]
+  },
+  "rg": {
+    "id": "Oluoch-Solveig-2",
+    "name": "Oluoch Solveig",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Nairobi | UON, University of Nairobi, School of Economics",
+    "keywords": ["Financial Analysis", "Corporate Finance", "Financial Accounting", "Investment", "Accounting", "Finance Management", "Management Accounting", "Corporate Governance", "Managerial Accounting", "Portfolio Management"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

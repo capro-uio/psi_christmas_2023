@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-0679-1320",
-    "name": "Pål Gunnar Ulvenes",
+    "orcid": ["0000-0002-0679-1320"],
+    "name": ["Pål Gunnar Ulvenes"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -237,8 +237,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Pål Gunnar Ulvenes",
-    "id": "3733",
+    "name": ["Pål Gunnar Ulvenes"],
+    "id": ["3733"],
     "keywords": [],
     "position": ["Associate professor", "Research Scientist"],
     "img": {},
@@ -705,5 +705,236 @@
         "url": "https://api.cristin.no/v2/results/1040962"
       }
     ]
+  },
+  "rg": {
+    "id": "Pal-Ulvenes",
+    "name": "Pål Gunnar Ulvenes",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Modum Bad, Reserach Institute",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Childhood trauma and outcome trajectories in patients with longstanding eating disorders across 17 years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Hanna P. Eielsen", "Pål Gunnar Ulvenes", "Asle Hoffart", "Karianne R Vrabel"],
+        "abstract": ["Background: \nA large proportion of patients with eating disorders (ED) report experiences of childhood trauma. Latent trajectory analysis in ED samples reveals the complexities in course and outcome and can explore the long-term impact of adverse experiences in childhood.\n\nMethod: \nA total of 84 patients with longstanding ED were included. ED sympt..."]
+      },
+      {
+        "title": "A naturalistic pilot study exploring the differences between fragile and resistant patients in ISTDP",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Mikkel Eielsen", "Pål Gunnar Ulvenes", "Bruce Wampold", "Allan Abbass"],
+        "abstract": []
+      },
+      {
+        "title": "De therapeutische alliantie als voorspeller van vooruitgang in relatietherapie",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Terje Tilden", "Sverre Urnes Johnson", "Asle Hoffart", "Åshild Tellefsen Håland"],
+        "abstract": ["De therapeutische alliantie of werkrelatie heeft in de psychotherapie de status ‘gemeenschappelijke factor’ gekregen, vanwege het robuuste verband met de uitkomst van behandelingen. De opdracht voor ons werkveld is nu om een genuanceerder beeld te krijgen van de invloed van de alliantie op de mate waarin tijdens de therapie vooruitgang wordt geboek..."]
+      },
+      {
+        "title": "Confidence in the therapist and confidence in the treatment predict symptomatic improvement week by week in therapy: A latent curve modeling approach",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Ingvild Finsrud", "Helene A. Nissen-Lie", "Pål Gunnar Ulvenes", "Bruce Wampold"],
+        "abstract": ["Previous research suggests that common relationship factors are composed of two overarching factors, \"Confidence in the therapist\" and \"Confidence in the treatment.\" The aim of this naturalistic process-outcome study was to investigate the reciprocal relationships between these two constructs and patients' symptom level across treatment. The sample..."]
+      },
+      {
+        "title": "Group treatment for complex dissociative disorders: a randomized clinical trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Harald Bækkelund", "Pål Gunnar Ulvenes", "Suzette Boon-Langelaan", "Espen Arnevik"],
+        "abstract": ["Background\nPatients with complex dissociative disorders (CDD) report high levels of childhood- abuse experiences, clinical comorbidity, functional impairment, and treatment utilization. Although a few naturalistic studies indicate that these patients can benefit from psychotherapy, no randomized controlled trials have been reported with this patien..."]
+      },
+      {
+        "title": "A latent trajectory analysis of inpatient depression treatment",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Pål Gunnar Ulvenes", "Christina Soma", "Linne Melsom", "Bruce Wampold"],
+        "abstract": ["Patients seeking psychotherapy may progress through treatment in varying ways. Modeling multiple treatment trajectories through growth mixture modeling provides a comprehensive way of understanding a patient population. Multiple trajectories may additionally help researchers describe complexities within a patient population, such as those with seve..."]
+      },
+      {
+        "title": "Trajectories of change in chronic depression: Differences in self-criticism and somatic symptoms between users of antidepressants and nonmedicated patients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Andreas Høstmælingen", "Pål Gunnar Ulvenes", "Helene A. Nissen-Lie", "Bruce Wampold"],
+        "abstract": ["Objective: \nDepression is typically seen as composed of several factors (i.e., cognitive, affective, somatic) which may be targeted by different interventions (i.e., pharmacotherapy, psychotherapy, or combination treatment). Successfully targeting these factors may contribute to improved treatment response in depression. A previous study identified..."]
+      },
+      {
+        "title": "Emotional Infant Face Processing in Women With Major Depression and Expecting Parents With Depressive Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Agnes Bohne", "Dag Nordahl", "Åsne Lindahl", "Gerit Pfuhl"],
+        "abstract": ["Processing of emotional facial expressions is of great importance in interpersonal relationships. Aberrant engagement with facial expressions, particularly an engagement with sad faces, loss of engagement with happy faces, and enhanced memory of sadness has been found in depression. Since most studies used adult faces, we here examined if such bias..."]
+      },
+      {
+        "title": "It's the therapist and the treatment: The structure of common therapeutic relationship factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Ingvild Finsrud", "Helene A. Nissen-Lie", "Karianne R Vrabel", "Pål Gunnar Ulvenes"],
+        "abstract": ["Objective: Prior research has established that common therapeutic relationship factors are potent predictors of change in psychotherapy, but such factors are typically studied one at a time and their underlying structure when studied simultaneously is not clear. We assembled empirically validated relationship factors (e.g., therapist empathy; patie..."]
+      },
+      {
+        "title": "Alliance predicting progress in couple therapy",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Terje Tilden", "Sverre Urnes Johnson", "Asle Hoffart", "Åshild Tellefsen Håland"],
+        "abstract": ["The therapeutic alliance has gained status as a common factor in psychotherapy due to its robust predictive relationship with outcome. The current challenge in our field is to gain a more nuanced understanding of alliance's impact on the progress of treatment over the course of therapy. In the current study, alliance was measured on 3 dimensions: (..."]
+      },
+      {
+        "title": "Comparing outcomes in chronic depression following inpatient psychotherapy for patients continuing versus discontinuing antidepressant medication",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Andreas Høstmælingen", "Pål Gunnar Ulvenes", "Helene A. Nissen-Lie", "Bruce Wampold"],
+        "abstract": ["Research indicates combination of psychotherapy and antidepressant medication (ADM) provide cumulative effects and thus outperforms monotherapy in treating chronic depression. In this quasi‐experimental study, we explored symptom change for patients with chronic depression treated with ADM when presenting for a 12‐week psychotherapeutic inpatient t..."]
+      },
+      {
+        "title": "Do self-criticism and somatic symptoms play a key role in chronic depression? Exploring the factor structure of Beck depression inventory-II in a sample of chronically depressed inpatients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Andreas Høstmælingen", "Pål Gunnar Ulvenes", "Helene A. Nissen-Lie", "Bruce Wampold"],
+        "abstract": ["Background: \nThe factor structure of depression differs for different sub-samples. The purpose of this study was to explore the factor structure of Beck Depression Inventory-II in patients with chronic depression presenting for inpatient treatment.\n\nMethods: \nUsing exploratory structural equation modeling (ESEM), we explored whether a two-factor so..."]
+      },
+      {
+        "title": "Predicting change through individual symptoms and relationship distress: A study of within‐ and between‐person processes in couple therapy",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Terje Tilden", "Pål Gunnar Ulvenes", "Rune Zahl-Olsen", "Åshild Tellefsen Håland"],
+        "abstract": ["Objective\nIn couple therapy clients often suffer from a blend of individual psychiatric symptoms as well as severe relational distress. However, research is inconclusive on whether relational change predicts symptom change or vice versa. Because answers to this question could have important clinical implications on what to focus on in couple therap..."]
+      },
+      {
+        "title": "Feedback in Couple and Family Therapy: A Randomized Clinical Trial",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Terje Tilden", "Bruce Wampold", "Pål Gunnar Ulvenes", "Åshild Tellefsen Håland"],
+        "abstract": ["Routine Outcome Monitoring (ROM) is recommended as a psychotherapy procedure to serve as clinical feedback in order to improve client treatment outcomes. ROM can work as a warning signal to the therapist if the client shows signs of no change or deterioration. This study has investigated whether any difference in outcome could be detected between t..."]
+      },
+      {
+        "title": "Psychometric Properties of the General Anxiety Disorder 7-Item (GAD-7) Scale in a Heterogeneous Psychiatric Sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Sverre Urnes Johnson", "Pål Gunnar Ulvenes", "Tuva Oktedalen", "Asle Hoffart"],
+        "abstract": ["The GAD-7 is commonly used as a measure of general anxiety symptoms across various settings and populations. However, there has been disagreement regarding the factor structure of the GAD-7, and there is a need for larger studies investigating the psychometric properties of the measure. Patients undergoing treatment (N = 1201), both inpatient and o..."]
+      },
+      {
+        "title": "Comparing the Treatment Process in Successful and Unsuccessful Cases in Two Forms of Psychotherapy for Cluster C Personality Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Peter Lilliengren", "Björn Philips", "Fredrik Falkenström", "Bruce Wampold"],
+        "abstract": ["Different forms of psychotherapy are effective for cluster C personality disorders, but we know less about what in-session processes promote change. Contrasting successful and unsuccessful cases may elucidate processes that facilitate or impede outcome and offer suggestions for clinical practice and future research. In this exploratory outcome–proc..."]
+      },
+      {
+        "title": "Processing of emotional infant faces in women with MDD",
+        "tags": ["Preprint"],
+        "date": "Jan 2019",
+        "authors": ["Gerit Pfuhl", "Agnes Bohne", "Dag Nordahl", "Pål Gunnar Ulvenes"],
+        "abstract": ["Depressed individuals process emotional facial expressions differently than non-depressed persons. Particularly disengaging from sad faces and enhanced memory of sadness characterizes depression. Processing of emotional facial expressions is of great importance in interpersonal relationships, and no relationship is more important than that between..."]
+      },
+      {
+        "title": "Exposure and non-fear emotions: A randomized controlled study of exposure-based and rescripting-based imagery in PTSD treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Tomas Formo Langkaas", "Asle Hoffart", "Tuva Oktedalen", "Mervin Smucker"],
+        "abstract": ["Interventions involving rescripting-based imagery have been proposed as a better approach than exposure-based imagery when posttraumatic stress disorder (PTSD) is associated with emotions other than fear. Prior research led to the study's hypotheses that (a) higher pretreatment non-fear emotions will predict relatively better response to rescriptin..."]
+      },
+      {
+        "title": "Metacognition and Cognition in Inpatient MCT and CBT for Comorbid Anxiety Disorders: A Study of Within-Person Effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart", "Hans M Nordahl", "Bruce Wampold"],
+        "abstract": ["Psychotherapists have long questioned what mediating processes are linked to outcome of psychotherapy. Few studies examining this question have assessed within-person changes in the process outcome relationship over time. The present study examined changes in cognition and metacognition over the course of therapy using a dataset from a randomized c..."]
+      },
+      {
+        "title": "Psychometric properties of the Affect Phobia Test",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["My Frankl", "Björn Philips", "Lene Berggraf", "Peter Wennberg"],
+        "abstract": ["The aim of this study was to make the first evaluation of the psychometric properties of the Affect Phobia Test, using the Swedish translation - a test developed to screen the ability to experience, express and regulate emotions. Data was collected from a clinical sample (N = 82) of patients with depression and/or anxiety participating in randomize..."]
+      },
+      {
+        "title": "The Mobility Inventory for Agoraphobia Avoidance Alone Scale: Factor Structure and Psychometric Properties of Subscales",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Asle Hoffart", "Tuva Oktedalen", "Pål Gunnar Ulvenes", "Sverre Urnes Johnson"],
+        "abstract": ["In this study, we investigated the factor structure of situational fears in agoraphobia by examining four models of the Avoidance Alone items in the Mobility Inventory for Agoraphobia. A main sample of 327 agoraphobic patients and an independent control sample of 64 agoraphobic patients were studied. A confirmatory factor analysis supported a four-..."]
+      },
+      {
+        "title": "Alliance and Symptom Improvement in Inpatient Treatment for Eating Disorder Patients: A Study of Within-Patient Processes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Karianne R Vrabel", "Pål Gunnar Ulvenes", "Bruce Wampold"],
+        "abstract": ["This study examined the reciprocal relationship between alliance and symptoms during treatment for patients with eating disorders (ED).\nNinety one patients with EDs received inpatient cognitive-behavioral therapy treatment over 14 weeks. The study used repeated measurements during treatment and collected alliance and symptom measures. The analysis..."]
+      },
+      {
+        "title": "How and when feedback works in psychotherapy: Is it the signal?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Ingunn Amble", "Tore Gude", "Pål Gunnar Ulvenes", "Bruce Wampold"],
+        "abstract": ["Monitoring of ongoing psychotherapy is of crucial importance in improving the quality of mental health care, and feedback (FB) about patients' progress has been established as a viable means. The essential feature of FB models is that patient progress is measured continuously through therapy.\nThis study investigated the effect of receiving a warnin..."]
+      },
+      {
+        "title": "ATTUNING TO THE UNSPOKEN: The Relationship Between Therapist Nonverbal Attunement and Attachment Security in Adult Psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Else Håvås", "Martin Svartberg", "Pål Gunnar Ulvenes"],
+        "abstract": ["This study investigated the relationship between affect attunement and subsequent improvement in attachment insecurity in adult psychotherapy. Particular attention was given to nonverbal aspects of therapist affect attunement, as defined and measured with the Affect Attunement Scales (AAS; Svartberg, 2005). Forty-nine patients diagnosed with cluste..."]
+      },
+      {
+        "title": "Orienting Patient to Affect, Sense of Self, and the Activation of Affect Over the Course of Psychotherapy With Cluster C Patients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Pål Gunnar Ulvenes", "Lene Berggraf", "Bruce Wampold", "Leigh McCullough"],
+        "abstract": ["This article investigates whether patients' sense of self and therapists' interventions aimed at orienting patients toward affect produce an affective activation in the patient. Both the independent contribution of sense of self and therapist intervention, as well as sense of self's moderating effect on therapist interventions, were investigated. F..."]
+      },
+      {
+        "title": "Experience of Affects Predicting Sense of Self and Others in Short-Term Dynamic and Cognitive Therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Lene Berggraf", "Pål Gunnar Ulvenes", "Tuva Oktedalen", "Bruce Wampold"],
+        "abstract": ["The present study examined whether levels of activating affects (AA) and inhibitory affects (IA) were related to change toward more compassionate and realistic levels of sense of self (SoS) and sense of others (SoO). The sample included 47 patients diagnosed with cluster C personality disorders, who received 40 sessions of either cognitive therapy..."]
+      },
+      {
+        "title": "Growth in sense of self and sense of others predicts reduction in interpersonal problems in short-term dynamic but not in cognitive therapy",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Lene Berggraf", "Pål Gunnar Ulvenes", "Asle Hoffart", "Bruce Wampold"],
+        "abstract": ["Objectives: \nWe investigated relationships between sense of self (SoS) and sense of others (SoO) and specific interpersonal problems in short-term dynamic and cognitive therapy.\n\nMethod: \n40 patients with Cluster C personality disorders from a RCT were included. The Achievement of Therapeutic Objective Scales (ATOS) was used to perform ratings of v..."]
+      },
+      {
+        "title": "Can Two Psychotherapy Process Measures Be Dependably Rated Simultaneously? A Generalizability Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Pål Gunnar Ulvenes", "Lene Berggraf", "Asle Hoffart", "Bruce Wampold"],
+        "abstract": ["Observer ratings in psychotherapy are a common way of collecting information in psychotherapy research. However, human observers are imperfect instruments, and their ratings may be subject to variability from several sources. One source of variability can be raters' assessing more than 1 instrument at a time. The purpose of this research is to inve..."]
+      },
+      {
+        "title": "Different Processes for Different Therapies: Therapist Actions, Therapeutic Bond, and Outcome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2012",
+        "authors": ["Pål Gunnar Ulvenes", "Lene Berggraf", "Asle Hoffart", "Bruce Wampold"],
+        "abstract": ["Therapeutic bond, as a component of the alliance, is considered a common factor in psychotherapy; however, it may operate differently in various treatments. This article investigates therapist actions, particularly affect focus, in the formation of the bond and on reduction of symptoms in short-term dynamic psychotherapy (STDP) and cognitive therap..."]
+      },
+      {
+        "title": "Properties of the Achievement of Therapeutic Objectives Scale (ATOS):A Generalizability Theory Study",
+        "tags": ["Article"],
+        "date": "Feb 2012",
+        "authors": ["Lene Berggraf", "Pål Gunnar Ulvenes", "Bruce Wampold", "McCullough"],
+        "abstract": ["Abstract The psychometric properties of the process instrument Achievement of Therapeutic Objectives Scale (ATOS) were examined in this study. Generalizability Theory (GT) was used to evaluate variability attached to several possible sources of error. A random sample of 24 psychotherapy sessions was selected from a larger RCT trial including Cluste..."]
+      },
+      {
+        "title": "Learning How To Rate Video-Recorded Therapy Sessions: A Practical Guide for Trainees and Advanced Clinicians",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Leigh McCullough", "Maneet Bhatia", "Pål Gunnar Ulvenes", "Kristin Osborn"],
+        "abstract": ["Watching and rating psychotherapy sessions is an important yet often overlooked component of psychotherapy training. This article provides a simple and straightforward guide for using one Website (www.ATOStrainer.com) that provides an automated training protocol for rating of psychotherapy sessions. By the end of the article, readers will be able t..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [31],
+    "reads": [12652],
+    "citations": [736]
   }
 }

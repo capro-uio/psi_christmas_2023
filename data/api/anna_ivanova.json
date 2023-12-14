@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Anna Olegovna Ivanova",
-    "id": "Yex8SukAAAAJ",
-    "affiliation": "НИИ математики; Северо-Восточный федеральный университет имени М.К.Аммосова",
+    "name": ["Anna Olegovna Ivanova"],
+    "id": ["Yex8SukAAAAJ"],
+    "affiliation": ["НИИ математики; Северо-Восточный федеральный университет имени М.К.Аммосова"],
     "data": {
       "publications": [
         {
@@ -1084,8 +1084,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-7401-3179",
-    "name": "Anna Ivanova",
+    "orcid": ["0000-0001-7401-3179"],
+    "name": ["Anna Ivanova"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1096,8 +1096,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anna Ivanova",
-    "id": "1198491",
+    "name": ["Anna Ivanova"],
+    "id": ["1198491"],
     "keywords": ["Health", "Sexuality", "Prevention", "Body image", "Health behaviour"],
     "position": ["Research fellow"],
     "img": {},
@@ -1140,15 +1140,15 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Body image concerns in long-term head and neck cancer survivors: prevalence and role of clinical factors and patient-reported late effects",
-        "journal": "Journal of cancer survivorship",
-        "url": "https://api.cristin.no/v2/results/2092338"
+        "url": "https://api.cristin.no/v2/results/2092338",
+        "journal": "Journal of cancer survivorship"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Psychological predictors of intention and avoidance of attending organized mammography screening in Norway: applying the Extended Parallel Process Model",
-        "journal": "BMC Women's Health",
-        "url": "https://api.cristin.no/v2/results/1890435"
+        "url": "https://api.cristin.no/v2/results/1890435",
+        "journal": "BMC Women's Health"
       },
       {
         "type": "Briefs",
@@ -1156,5 +1156,14 @@
         "url": "https://api.cristin.no/v2/results/1881620"
       }
     ]
+  },
+  "rg": {
+    "id": "Anna-Ivanova-3",
+    "name": "Anna Ivanova",
+    "img": "https://i1.rgstatic.net/ii/profile.image/681909118066693-1539591211107_Q128/Anna-Ivanova-3.jpg",
+    "affiliation": "University of Tartu, Department of Sports Medicine and Rehabilitation ARSM",
+    "keywords": ["Rehabilitation", "Orthopedics", "Pelvic floor disorders", "Urinary Incontinence", "Physiotherapy"],
+    "works": [],
+    "degree": [null]
   }
 }

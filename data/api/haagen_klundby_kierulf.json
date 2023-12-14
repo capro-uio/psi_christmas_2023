@@ -2,11 +2,32 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Haagen Klundby Kierulf",
-    "id": "1641620",
+    "name": ["Haagen Klundby Kierulf"],
+    "id": ["1641620"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Helene-Klundby",
+    "name": "Helene Klundby",
+    "img": "https://i1.rgstatic.net/ii/profile.image/910231114620929-1594027417924_Q128/Helene-Klundby.jpg",
+    "affiliation": "",
+    "keywords": ["Eating Disorders", "Psychotherapeutic Processes"],
+    "works": [
+      {
+        "title": "Associations between symptoms of eating disturbance and frequency of physical activity in a non-clinical, population-based sample of adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Ove Heradstveit", "Eva Holmelid", "Helene Klundby", "Liv Sand"],
+        "abstract": "Background\nPhysical activity is an important factor related to eating disorders, but the relationship between symptoms of eating disorders and physical activity is multifaceted. The aims of this study were to investigate how symptoms of eating disturbance (ED) were associated with physical activity, and to explore potential sex differences and the..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [104],
+    "citations": [6]
   }
 }

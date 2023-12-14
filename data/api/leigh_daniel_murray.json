@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-4242-1906",
-    "name": "Daniel Murray",
+    "orcid": ["0000-0003-4242-1906"],
+    "name": ["Daniel Murray"],
     "distinctions": [],
     "education": [
       {
@@ -12,10 +12,10 @@
       },
       {
         "start": "2016",
-        "end": "2017",
-        "position": "Post Doc",
         "organisation": "Lawrence Berkeley National Lab",
-        "country": "US"
+        "country": "US",
+        "end": "2017",
+        "position": "Post Doc"
       }
     ],
     "employment": [
@@ -26,10 +26,10 @@
       },
       {
         "start": "2016",
-        "end": "2017",
-        "position": "Post Doc",
         "organisation": "Lawrence Berkeley National Lab",
-        "country": "US"
+        "country": "US",
+        "end": "2017",
+        "position": "Post Doc"
       }
     ],
     "membership": [],
@@ -114,11 +114,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Leigh Daniel Murray",
-    "id": "988633",
+    "name": ["Leigh Daniel Murray"],
+    "id": ["988633"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Leigh_Daniel",
+    "name": "Leigh Daniel",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Robert Gordon University | RGU, Robert Gordon University",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

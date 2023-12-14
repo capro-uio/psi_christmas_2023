@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Vegard Volehaugen",
-    "id": "761941",
+    "name": ["Vegard Volehaugen"],
+    "id": ["761941"],
     "keywords": [],
     "position": ["Guest", "Research fellow", null],
     "img": {},
@@ -30,23 +30,44 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Glutamatergic modulation of auditory cortex connectivity with attentional brain networks in unpredictable perceptual environment",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/1836621"
+        "url": "https://api.cristin.no/v2/results/1836621",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Hierarchical modulation of auditory prediction error signaling is independent of attention",
-        "journal": "Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1818386"
+        "url": "https://api.cristin.no/v2/results/1818386",
+        "journal": "Cognitive Neuroscience"
       },
       {
         "type": "Academic literature review",
         "year": "2015",
         "title": "The somatic marker theory in the context of addiction: contributions to understanding development and maintenance",
-        "journal": "Psychology Research and Behavior Management",
-        "url": "https://api.cristin.no/v2/results/1255438"
+        "url": "https://api.cristin.no/v2/results/1255438",
+        "journal": "Psychology Research and Behavior Management"
       }
     ]
+  },
+  "rg": {
+    "id": "Patricia-Vegard",
+    "name": "Patricia Vegard",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "ISCTEInstituto Universitário de Lisboa | ISCTE, ISCTEInstituto Universitário de Lisboa, Department of Political Science and Public Policy",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Digital interventions with families - a case study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Patricia Vegard", "Helena Belchior Rocha", "Inês Casquilho-Martins"],
+        "abstract": "This article discusses the responses developed in Portugal during the state of emergency by a family empowerment and intervention team and how this team actively integrated contingency plans and challenges through information and communication technology (ICT). We also explain what was learned during this period and what could have been done better..."
+      }
+    ],
+    "degree": ["Bachelor", "of", "Social", "Work"],
+    "bio": [],
+    "publication": [1],
+    "reads": [96],
+    "citations": [3]
   }
 }

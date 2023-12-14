@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Håvar Brendryen",
-    "id": "i3m0lqgAAAAJ",
-    "affiliation": "Associate professor, Department of Psychology, University of Oslo",
+    "name": ["Håvar Brendryen"],
+    "id": ["i3m0lqgAAAAJ"],
+    "affiliation": ["Associate professor, Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -664,8 +664,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-3860-9754",
-    "name": "Håvar Brendryen",
+    "orcid": ["0000-0003-3860-9754"],
+    "name": ["Håvar Brendryen"],
     "distinctions": [],
     "education": [
       {
@@ -676,31 +676,31 @@
       },
       {
         "start": "2013",
-        "end": "2019",
         "position": "Senior researcher",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2010",
-        "end": "2012",
         "position": "Post. Doc.",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2012"
       },
       {
         "start": "2009",
-        "end": "2009",
         "position": "Consultant/researcher",
         "organisation": "Self employed",
-        "country": "NO"
+        "country": "NO",
+        "end": "2009"
       },
       {
         "start": "2005",
-        "end": "2009",
         "position": "Lecturer and researcher (PhD-stipendiat m/25% undervisningsplikt)",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2009"
       }
     ],
     "employment": [
@@ -712,31 +712,31 @@
       },
       {
         "start": "2013",
-        "end": "2019",
         "position": "Senior researcher",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       },
       {
         "start": "2010",
-        "end": "2012",
         "position": "Post. Doc.",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2012"
       },
       {
         "start": "2009",
-        "end": "2009",
         "position": "Consultant/researcher",
         "organisation": "Self employed",
-        "country": "NO"
+        "country": "NO",
+        "end": "2009"
       },
       {
         "start": "2005",
-        "end": "2009",
         "position": "Lecturer and researcher (PhD-stipendiat m/25% undervisningsplikt)",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2009"
       }
     ],
     "membership": [],
@@ -856,8 +856,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Håvar Brendryen",
-    "id": "13054",
+    "name": ["Håvar Brendryen"],
+    "id": ["13054"],
     "keywords": [],
     "position": ["Associate professor"],
     "img": {},
@@ -1209,5 +1209,341 @@
         "url": "https://api.cristin.no/v2/results/239622"
       }
     ]
+  },
+  "rg": {
+    "id": "Havar-Brendryen",
+    "name": "Håvar Brendryen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272464072671256-1441971905690_Q128/Havar-Brendryen.jpg",
+    "affiliation": "University of Oslo, Norwegian Centre for Addiction Research",
+    "keywords": ["Self-efficacy", "Treatment", "Clinical Health Psychology", "Psychoeducation", "Motivational Psychology", "Behavioral Psychology", "Motivational Interviewing", "Therapeutic Alliance", "Addiction Psychology", "Preventive Medicine"],
+    "works": [
+      {
+        "title": "How a Fully Automated eHealth Program Simulates Three Therapeutic Processes: A Case Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Marianne Therese Smogeli Holter", "Ayna Johansen", "Håvar Brendryen"],
+        "abstract": ["Background: \neHealth programs may be better understood by breaking down the components of one particular program and discussing its potential for interactivity and tailoring in regard to concepts from face-to-face counseling. In the search for the efficacious elements within eHealth programs, it is important to understand how a program using lapse..."]
+      },
+      {
+        "title": "From black box to toolbox: Outlining device functionality, engagement activities, and the pervasive information architecture of mHealth interventions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2015",
+        "authors": ["Brian G. Danaher", "Håvar Brendryen", "John R. Seeley", "Timothy Woolley"],
+        "abstract": ["mHealth interventions that deliver content via mobile phones represent a burgeoning area of health behavior change. The current paper examines two themes that can inform the underlying design of mHealth interventions: (1) mobile device functionality, which represents the technological toolbox available to intervention developers; and (2) the pervas..."]
+      },
+      {
+        "title": "Balance—A pragmatic randomized controlled trial of an online intensive self-help alcohol intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Håvar Brendryen", "Ingunn Olea Lund", "Ayna Johansen", "Fanny Duckert"],
+        "abstract": ["To compare a brief versus a brief plus intensive self-help version of \"Balance\", a fully automated online alcohol intervention, on self-reported alcohol consumption.\nA pragmatic randomized controlled trial. Participants in both conditions received an online single session screening procedure including personalized normative feedback. The control gr..."]
+      },
+      {
+        "title": "Looking Inside the Black Box: Using Intervention Mapping to Describe the Development of the Automated Smoking Cessation Intervention ‘Happy Ending’",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2010",
+        "authors": ["Håvar Brendryen", "Pål Kraft", "Herman Schaalma"],
+        "abstract": ["The digital therapy intervention for smoking cessation, ‘Happy Ending’, has been shown to be efficacious in two previous randomised controlled trials. The aim of the current article is to disentangle the rationale of the intervention and describe its development. For this purpose, Intervention Mapping is used as a descriptive tool. The intervention..."]
+      },
+      {
+        "title": "Happy Ending: A Randomized Controlled Trial of a Digital Multi-Media Smoking Cessation Intervention",
+        "tags": ["Article"],
+        "date": "Apr 2008",
+        "authors": ["Håvar Brendryen", "Pål Kraft"],
+        "abstract": ["To assess the long-term efficacy of a fully automated digital multi-media smoking cessation intervention.\nTwo-arm randomized control trial (RCT). Setting World Wide Web (WWW) study based in Norway.\nSubjects (n = 396) were recruited via internet advertisements and assigned randomly to conditions. Inclusion criteria were willingness to quit smoking a..."]
+      },
+      {
+        "title": "The impact of therapeutic persuasiveness on engagement and outcomes in unguided interventions: A randomized pilot trial of a digital parent training program for child behavior problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Amit Baumel", "Or Brandes", "Håvar Brendryen", "Chen Saar"],
+        "abstract": ["Understanding how to design engaging unguided digital health interventions is key in our ability to utilize digital tools to improve access to care. Therapeutic persuasiveness (TP) is a design concept that relates to how the digital intervention features as a whole should be designed to encourage users to make positive changes in their lives, while..."]
+      },
+      {
+        "title": "Pragmatic approaches for addressing alcohol in general practice: Development of a tailored implementation intervention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Sebastian Potthoff", "Amy O'Donnell", "Andrea Taksdal Karlsen", "Torgeir Gilje Lid"],
+        "abstract": ["Introduction\nAlcohol consumption is a leading global risk factor for ill-health and premature death. Alcohol screening and brief interventions (SBI) delivered in primary care is effective at reducing alcohol consumption, but routine implementation remains problematic. Screening all patients for excessive drinking (universal screening) is resource-i..."]
+      },
+      {
+        "title": "Comparing Reminders Sent via SMS Text Messaging and Email for Improving Adherence to an Electronic Health Program: Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Adam Kulhánek", "Katerina Lukavska", "Roman Gabrhelík", "Håvar Brendryen"],
+        "abstract": ["Background\neHealth interventions can help people change behavior (eg, quit smoking). Reminders sent via SMS text messaging or email may improve the adherence to web-based programs and increase the probability of successful behavior change; however, it is unclear whether their efficiency is affected by the modality of the communication channel.\n\nObj..."]
+      },
+      {
+        "title": "Pragmatic approaches for addressing alcohol in primary care: Development of a tailored implementation intervention",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Sebastian Potthoff", "Torgeir Gilje Lid", "Håvar Brendryen", "Sverre Nesvåg"],
+        "abstract": ["Background: \nAlcohol consumption is a leading global risk factor for ill-health and premature death. Alcohol screening and brief interventions (SBI) delivered in primary care are effective at reducing alcohol consumption, but their routine implementation remains problematic. Screening all patients for heavy drinking (universal) is resource-intensiv..."]
+      },
+      {
+        "title": "Comparing Reminders Sent via SMS Text Messaging and Email for Improving Adherence to an Electronic Health Program: Randomized Controlled Trial (Preprint)",
+        "tags": ["Preprint"],
+        "date": "Jun 2021",
+        "authors": ["Adam Kulhánek", "Katerina Lukavska", "Roman Gabrhelík", "Håvar Brendryen"],
+        "abstract": ["BACKGROUND\neHealth interventions can help people change behavior (eg, quit smoking). Reminders sent via SMS text messaging or email may improve the adherence to web-based programs and increase the probability of successful behavior change; however, it is unclear whether their efficiency is affected by the modality of the communication channel.\n\nOBJ..."]
+      },
+      {
+        "title": "Making Come-Alive and Keeping Un-Alive: How People Relate to Self-Guided Web-Based Health Interventions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Marianne Therese Smogeli Holter", "Ottar Ness", "Ayna Johansen", "Håvar Brendryen"],
+        "abstract": ["Health interventions delivered online (self-guided web-based interventions) may become more helpful through a person-to-program “working alliance.” In psychotherapy, the working alliance signifies a therapeutically useful client–therapist relationship and includes an emotional bond. However, there exist no theories of how program users relate to on..."]
+      },
+      {
+        "title": "2019 Holter, Ness, Johansen & Brendryen Getting Change-Space_ A Grounded Theory Study of Automated eHealt.pdf",
+        "tags": ["Data"],
+        "date": "Jul 2019",
+        "authors": ["Marianne Therese Smogeli Holter", "Ottar Ness", "Ayna Johansen", "Håvar Brendryen"],
+        "abstract": []
+      },
+      {
+        "title": "Getting Change-Space: A Grounded Theory Study of Automated eHealth Therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Marianne Therese Smogeli Holter", "Ottar Ness", "Ayna Johansen", "Håvar Brendryen"],
+        "abstract": ["A promising tool for bettering people’s health is eHealth (or “mHealth”) programs: fully automated, web based health interventions. However, we know surprisingly little about eHealth’s working mechanisms. One possible working mechanism is that program users benefit from a collaborative “relationship”—a “working alliance”—with the program. Although..."]
+      },
+      {
+        "title": "Outcomes and Device Usage for Fully Automated Internet Interventions Designed for a Smartphone or Personal Computer: The MobileQuit Smoking Cessation Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Brian G Danaher", "Milagra S Tyler", "Ryann C Crowley", "John R Seeley"],
+        "abstract": ["Background: \nMany best practice smoking cessation programs use fully automated internet interventions designed for nonmobile personal computers (desktop computers, laptops, and tablets). A relatively small number of smoking cessation interventions have been designed specifically for mobile devices such as smartphones.\n\nObjective: \nThis study examin..."]
+      },
+      {
+        "title": "Exploring online problem gamblers' motivation to change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Ayna Johansen", "Pål F. Helland", "Dag Kostøl Wennesland", "Håvar Brendryen"],
+        "abstract": ["Background: \nIn order to improve interventions for problem gambling, there is a need for studies that can highlight psychological factors that support the desire to reduce gambling.\n\nObjective: \nTo explore online problem gamblers' motivation for change by studying participants' reactions to an online treatment referral website designed to motivate..."]
+      },
+      {
+        "title": "Qualitative Interview Studies of Working Mechanisms in Electronic Health: Tools to Enhance Study Quality",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Marianne Therese Smogeli Holter", "Ayna Johansen", "Ottar Ness", "Håvar Brendryen"],
+        "abstract": ["Future development of electronic health (eHealth) programs (automated Web-based health interventions) will be furthered if\nprogram design can be based on the knowledge of eHealth’s working mechanisms. A promising and pragmatic method for\nexploring potential working mechanisms is qualitative interview studies, in which eHealth working mechanisms can..."]
+      },
+      {
+        "title": "Effectiveness and treatment moderators of internet interventions for adult problem drinking: An individual patient data meta-analysis of 19 randomised controlled trials",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper Id", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smitid"],
+        "abstract": ["Background\nFace-to-face brief interventions for problem drinking are effective, but they have found limited implementation in routine care and the community. Internet-based interventions could overcome this treatment gap. We investigated effectiveness and moderators of treatment outcomes in internet-based interventions for adult problem drinking (i..."]
+      },
+      {
+        "title": "S4 Data",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": ["Data access contact list (first contact excluding coauthors).\n(XLSX)"]
+      },
+      {
+        "title": "S1 Text",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": ["MNAR additional information.\nMNAR, missing-not-at-random.\n(DOCX)"]
+      },
+      {
+        "title": "S2 Table",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": ["Results, primary outcome ‘multiple imputation’.\n(DOCX)"]
+      },
+      {
+        "title": "S3 Table",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": ["Results, secondary outcome ‘multiple imputation’.\n(DOCX)"]
+      },
+      {
+        "title": "S1 Fig",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": ["Publication bias funnel plot (conventional meta-analysis).\n(TIF)"]
+      },
+      {
+        "title": "S1 Data",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": []
+      },
+      {
+        "title": "S2 Data",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": ["Request sharing variables file regarding individual RCT results.\nRCT, randomised controlled trial.\n(DOC)"]
+      },
+      {
+        "title": "S3 Data",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": ["Results, conventional meta-analysis update (1 January 2017 and 30 May 2018).\n(DOCX)"]
+      },
+      {
+        "title": "S1 PRISMA guidelines checklist",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": []
+      },
+      {
+        "title": "S1 Table",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Heleen Riper", "Adriaan W. Hoogendoorn", "Pim Cuijpers", "Johannes H Smit"],
+        "abstract": ["Risk-of-bias assessment.\n(DOCX)"]
+      },
+      {
+        "title": "Treatment abandonment in eHealth intervention research: Observations of 2,739 participants from four RCTs of eHealth interventions for smokeless tobacco cessation",
+        "tags": ["Preprint"],
+        "date": "Apr 2018",
+        "authors": ["Brian G Danaher", "Ryann Crowley", "Håvar Brendryen", "Herb Severson"],
+        "abstract": []
+      },
+      {
+        "title": "Qualitative Interview Studies of Working Mechanisms in Electronic Health: Tools to Enhance Study Quality (Preprint)",
+        "tags": ["Preprint"],
+        "date": "Mar 2018",
+        "authors": ["Marianne TS Holter", "Ayna Johansen", "Ottar Ness", "Håvar Brendryen"],
+        "abstract": ["UNSTRUCTURED\nFuture development of electronic health (eHealth) programs (automated Web-based health interventions) will be furthered if program design can be based on the knowledge of eHealth’s working mechanisms. A promising and pragmatic method for exploring potential working mechanisms is qualitative interview studies, in which eHealth working m..."]
+      },
+      {
+        "title": "Erratum to: Key Intervention Characteristics in e-Health: Steps Towards Standardized Communication",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Bridgette M Bewick", "Steven Ondersma", "Mette Terp Hoybye", "Anne H Berman"],
+        "abstract": []
+      },
+      {
+        "title": "A Pilot Randomized Controlled Trial of an Internet-Based Alcohol Intervention in a Workplace Setting",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Håvar Brendryen", "Ayna Johansen", "Fanny Duckert", "Sverre Nesvåg"],
+        "abstract": ["Purpose: \nThe aim of this study was to compare the effectiveness of a brief and an intensive self-help alcohol intervention and to assess the feasibility of recruiting to such interventions in a workplace setting.\n\nMethod: \nEmployees who screened positive for hazardous drinking (n = 85) received online personalized normative feedback and were rando..."]
+      },
+      {
+        "title": "Using a Film Intervention in Early Addiction Treatment: a Qualitative Analysis of Process",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["Ingerid Bjelland", "Ayna Johansen", "Farnad J Darnell", "Håvar Brendryen"],
+        "abstract": ["PurposeThere is a need for knowledge about how self-help materials can be made useful in treatment for Substance Abuse Disorders (SUD), as a supplement to ongoing treatment, or as independent tools for change. Objective\nIn this study, we explored the use of self-help films in early addiction treatment, taking into account both patient and therapist..."]
+      },
+      {
+        "title": "Key Intervention Characteristics in e-Health: Steps Towards Standardized Communication",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2017",
+        "authors": ["Bridgette M Bewick", "Steven Ondersma", "Mette Terp Hoybye", "Anne H Berman"],
+        "abstract": ["Purpose: \nThis paper reports expert opinion on e-health intervention characteristics that enable effective communication of characteristics across the diverse field of e-health interventions. The paper presents a visualization tool to support communication of the defining characteristics.\n\nMethods: \nAn initial list of e-health intervention characte..."]
+      },
+      {
+        "title": "An Internet-Based Intervention (Mamma Mia) for Postpartum Depression: Mapping the Development from Theory to Practice",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Filip Drozd", "Silje Marie Haga", "Håvar Brendryen", "Kari Slinning"],
+        "abstract": ["Background: \nAs much as 10-15% of new mothers experience depression postpartum. An Internet-based intervention (Mamma Mia) was developed with the primary aims of preventing depressive symptoms and enhancing subjective well-being among pregnant and postpartum women. A secondary aim of Mamma Mia was to ease the transition of becoming a mother by prov..."]
+      },
+      {
+        "title": "An Internet-Based Intervention (Mamma Mia) for Postpartum Depression: Mapping the Development from Theory to Practice (Multimedia Appendix 1 - Screenshots)",
+        "tags": ["Data"],
+        "date": "Oct 2015",
+        "authors": ["Filip Drozd", "Silje Marie Haga", "Håvar Brendryen", "Kari Slinning"],
+        "abstract": []
+      },
+      {
+        "title": "An Internet-Based Intervention (Mamma Mia) for Postpartum Depression: Mapping the Development from Theory to Practice (Multimedia Appendix 2 - Transcripts)",
+        "tags": ["Data", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Filip Drozd", "Silje Marie Haga", "Håvar Brendryen", "Kari Slinning"],
+        "abstract": []
+      },
+      {
+        "title": "Handbook of Research on Holistic Perspectives in Gamification for Clinical Practice",
+        "tags": ["Book", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Daniel Novak", "Bengisu Tulu", "Håvar Brendryen"],
+        "abstract": ["Over the past decade, the healthcare industry has adopted games as a powerful tool for promoting personal health and wellness. Utilizing principles of gamification to engage patients with positive reinforcement, these games promote stronger attention to clinical and self-care guidelines, and offer exciting possibilities for primary prevention.\n\nTar..."]
+      },
+      {
+        "title": "Mødre i LAR: Rus og relaterte problemer over tid?",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Ingunn Olea Lund", "Edle Ravndal", "Håvar Brendryen"],
+        "abstract": []
+      },
+      {
+        "title": "A Longitudinal Study on Substance Use and Related Problems in Women in Opioid Maintenance Treatment from Pregnancy to Four Years after Giving Birth",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Ingunn Olea Lund", "Håvar Brendryen", "Edle Ravndal"],
+        "abstract": ["Background: Women in opioid maintenance treatment (OMT) have a past characterized by drug abuse, which is a challenging start for parenthood. Studies of mothers in OMT are typically limited to pregnancy and early infancy. Knowledge about how they cope with substance use and related problems in the years following birth is therefore important. The a..."]
+      },
+      {
+        "title": "Balance - a pragmatic randomized controlled trial of an online intensive self-hel alcohol intervention",
+        "tags": ["Data"],
+        "date": "Jan 2014",
+        "authors": ["Håvar Brendryen", "Ingunn Olea Lund", "Ayna Johansen", "Fanny Duckert"],
+        "abstract": []
+      },
+      {
+        "title": "Mamma Mia: A Feasibility Study of a Web-Based Intervention to Reduce the Risk of Postpartum Depression and Enhance Subjective Well-Being",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2013",
+        "authors": ["Silje Marie Haga", "Filip Drozd", "Håvar Brendryen", "Kari Slinning"],
+        "abstract": ["Currently, 10-15% of women giving birth suffer from symptoms of postpartum depression. Due to a lack of knowledge of this condition and the stigma associated with it, as well as few treatment options, a large proportion of postpartum women with depression remain untreated. Internet-based interventions have been found effective in treating depressio..."]
+      },
+      {
+        "title": "Practical support aids addiction recovery: The positive identity model of change",
+        "tags": ["Article"],
+        "date": "Jul 2013",
+        "authors": ["Ayna Johansen", "Håvar Brendryen", "Farnad J Darnell", "Dag Kostøl Wennesland"],
+        "abstract": ["There is a need for studies that can highlight principles of addiction recovery. Because social relationships are involved in all change processes, understanding how social motivations affect the recovery process is vital to guide support programs.\nThe objective was to develop a model of recovery by examining addicted individuals' social motivation..."]
+      },
+      {
+        "title": "Constructing a Theory- and Evidence-Based Treatment Rationale for Complex eHealth Interventions: Development of an Online Alcohol Intervention Using an Intervention Mapping Approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Håvar Brendryen", "Ayna Johansen", "Sverre Nesvåg", "Fanny Duckert"],
+        "abstract": ["Background: \nDue to limited reporting of intervention rationale, little is known about what distinguishes a good intervention from a poor one. To support improved design, there is a need for comprehensive reports on novel and complex theory-based interventions. Specifically, the emerging trend of just-in-time tailoring of content in response to cha..."]
+      },
+      {
+        "title": "A Digital Smoking Cessation Program Delivered Through Internet and Cell Phone Without Nicotine Replacement (Happy Ending): Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2008",
+        "authors": ["Håvar Brendryen", "Filip Drozd", "Pål Kraft"],
+        "abstract": ["Happy Ending (HE) is an intense 1-year smoking cessation program delivered via the Internet and cell phone. HE consists of more than 400 contacts by email, Web pages, interactive voice response, and short message service technology. HE includes a craving helpline and a relapse prevention system, providing just-in-time therapy. All the components of..."]
+      },
+      {
+        "title": "Digital Therapy: The Coming Together of Psychology and Technology Can Create a New Generation of Programs for More Sustainable Behavioral Change",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Apr 2007",
+        "authors": ["Pål Kraft", "Harald Schjelderup-Lund", "Håvar Brendryen"],
+        "abstract": ["By mapping critical psychological processes involved in an attempt at behavioral change, we can design digital programs to\ndeliver specific cognitive therapy at the right moments, increasing the probability of successful behavioral change in a variety\nof domains. This breakthrough, named Digital Therapy, has been proven in random clinical trials to..."]
+      },
+      {
+        "title": "Task Demand, Task Management and Teamwork Styles",
+        "tags": ["Technical Report"],
+        "date": "Feb 2001",
+        "authors": ["Per Øivind Braarud", "Håvar Brendryen"],
+        "abstract": ["The current approach to mental workload assessment in process control was evaluated in 3 previous HAMMLAB studies, by analysing the relationship between workload related\nmeasures and performance. The results showed that subjective task complexity rating was related to team’s control room performance, that mental effort (NASA-TLX) was weakly related..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "I'm currently the principal investigator on two projects at SERAF - an alcohol project that is in its final stage, and a recently started smoking cessation project, which is about developing and testing the efficacy of a lapse management system for smoking cessation (started September 2013, runs through 2017).\n\nhttp://www.med.uio.no/klinmed/english/people/aca/haavabre/index.html\n\nhttp://scholar.google.no/citations?user=i3m0lqgAAAAJ&hl=no",
+    "publications": [46],
+    "reads": [9230],
+    "citations": [1254]
   }
 }

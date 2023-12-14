@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Vinícius Rezende Carvalho",
-    "id": "UrTqIrQAAAAJ",
-    "affiliation": "Postdoctoral Researcher, University of Oslo",
+    "name": ["Vinícius Rezende Carvalho"],
+    "id": ["UrTqIrQAAAAJ"],
+    "affiliation": ["Postdoctoral Researcher, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -313,8 +313,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0009-0001-4611-5933",
-    "name": "Vinicius  Rezende Carvalho",
+    "orcid": ["0009-0001-4611-5933"],
+    "name": ["Vinicius  Rezende Carvalho"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -325,8 +325,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Vinicius Rezende Carvalho",
-    "id": "1470781",
+    "name": ["Vinicius Rezende Carvalho"],
+    "id": ["1470781"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -347,79 +347,233 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Electrocortical activity prior to predictable and unpredictable stimuli requiring a motor response",
-        "journal": "Brazilian Journal of Motor Behavior",
-        "url": "https://api.cristin.no/v2/results/2187740"
+        "url": "https://api.cristin.no/v2/results/2187740",
+        "journal": "Brazilian Journal of Motor Behavior"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "A Fully Adapted Headstage With Custom Electrode Arrays Designed for Electrophysiological Experiments",
-        "journal": "Frontiers in Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2187735"
+        "url": "https://api.cristin.no/v2/results/2187735",
+        "journal": "Frontiers in Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Active probing to highlight approaching transitions to ictal states in coupled neural mass models",
-        "journal": "PLoS Computational Biology",
-        "url": "https://api.cristin.no/v2/results/2187733"
+        "url": "https://api.cristin.no/v2/results/2187733",
+        "journal": "PLoS Computational Biology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Evaluating five different adaptive decomposition methods for EEG signal seizure detection and classification",
-        "journal": "Biomedical Signal Processing and Control",
-        "url": "https://api.cristin.no/v2/results/2187719"
+        "url": "https://api.cristin.no/v2/results/2187719",
+        "journal": "Biomedical Signal Processing and Control"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "On the Validity of Using Probing Stimuli for Seizure Prediction in the Epileptor Model",
-        "journal": "Communications in Computer and Information Science (CCIS)",
-        "url": "https://api.cristin.no/v2/results/2187739"
+        "url": "https://api.cristin.no/v2/results/2187739",
+        "journal": "Communications in Computer and Information Science (CCIS)"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Seizure Susceptibility Corrupts Inferior Colliculus Acoustic Integration",
-        "journal": "Frontiers in Systems Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2187732"
+        "url": "https://api.cristin.no/v2/results/2187732",
+        "journal": "Frontiers in Systems Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "A Custom Microcontrolled and Wireless-Operated Chamber for Auditory Fear Conditioning",
-        "journal": "Frontiers in Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2187726"
+        "url": "https://api.cristin.no/v2/results/2187726",
+        "journal": "Frontiers in Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Social isolation impairs the persistence of social recognition memory by disturbing the glutamatergic tonus and the olfactory bulb-dorsal hippocampus coupling",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/2187720"
+        "url": "https://api.cristin.no/v2/results/2187720",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Deep brain stimulation probing performance is enhanced by pairing stimulus with epileptic seizure",
-        "journal": "Epilepsy & Behavior",
-        "url": "https://api.cristin.no/v2/results/2187727"
+        "url": "https://api.cristin.no/v2/results/2187727",
+        "journal": "Epilepsy & Behavior"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Auditory processing assessment suggests that Wistar audiogenic rat neural networks are prone to entrainment",
-        "journal": "Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2187724"
+        "url": "https://api.cristin.no/v2/results/2187724",
+        "journal": "Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Home-cage odors spatial cues elicit theta phase/gamma amplitude coupling between olfactory bulb and dorsal hippocampus",
-        "journal": "Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2187723"
+        "url": "https://api.cristin.no/v2/results/2187723",
+        "journal": "Neuroscience"
       }
     ]
+  },
+  "rg": {
+    "id": "Vinicius-Carvalho-11",
+    "name": "Vinicius Rezende Carvalho",
+    "img": "https://i1.rgstatic.net/ii/profile.image/724489306390529-1549743119211_Q128/Vinicius-Carvalho-11.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Pattern Classification", "Unsupervised Learning", "Feature Extraction", "Signal Processing", "Image Processing", "Machine Learning", "Feature Selection", "Signal, Image and Video Processing", "Pattern Recognition", "Classification"],
+    "works": [
+      {
+        "title": "Transcranial Magnetic Stimulation Facilitates Neural Speech Decoding",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Lindy Comstock", "Vinicius Rezende Carvalho", "Claudia Lainscsek", "Terrence Sejnowski"],
+        "abstract": []
+      },
+      {
+        "title": "An open-access EEG dataset for speech decoding: Exploring the role of articulation and coarticulation",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["João Pedro Carvalho Moreira", "Vinicius Rezende Carvalho", "Eduardo M. A. M. Mendes", "Lindy Comstock"],
+        "abstract": ["Electroencephalography (EEG) holds promise for brain-computer interface (BCI) devices as a non-invasive measure of neural activity. With increased attention to EEG-based BCI systems, publicly available datasets that can represent the complex tasks required for naturalistic speech decoding are necessary to establish a common standard of performance..."]
+      },
+      {
+        "title": "Electrocortical activity prior to predictable and unpredictable stimuli requiring a motor response",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Tércio Apolinário-Souza", "Juliana Parma", "Vinicius Rezende Carvalho", "Lidiane Fernandes"],
+        "abstract": ["BACKGROUND: The fronto-central slow-wave known as the contingent negative variation (CNV) is an electroencephalographic measure related to the ability of the motor system to extract spatial-temporal regularities to produce a motor response. AIM: This study aimed to investigate the levels of electrocortical activity prior to predictable and unpredic..."]
+      },
+      {
+        "title": "A Fully Adapted Headstage With Custom Electrode Arrays Designed for Electrophysiological Experiments",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Flávio Afonso Gonçalves Mourão", "Leonardo Oliveira Guarnieri", "Paulo Aparecido Amaral Junior", "Marcio Moraes"],
+        "abstract": ["Electrophysiological recordings lead amongst the techniques that aim to investigate the dynamics of neural activity sampled from large neural ensembles. However, the financial costs associated with the state-of-the-art technology used to manufacture probes and multi-channel recording systems make these experiments virtually inaccessible to small la..."]
+      },
+      {
+        "title": "Exploratory methods for high-performance EEG speech decoding",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Lindy Comstock", "Claudia Lainscsek", "Vinicius Rezende Carvalho", "Terrence J Sejnowski"],
+        "abstract": ["State-of-the-art technologies in neural speech decoding utilize data collected from microwires or microarrays implanted directly into the cerebral cortex. Yet as a tool accessible only to individuals with implanted electrodes, speech decoding from devices of this nature is severely limited in its implementation, and cannot be considered a viable so..."]
+      },
+      {
+        "title": "A fully adapted headstage for electrophysiological experiments with custom and scalable electrode arrays to record widely distributed brain regions",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Flávio Afonso Gonçalves Mourão", "Leonardo Oliveira Guarnieri", "Paulo Aparecido Amaral Junior", "Marcio Moraes"],
+        "abstract": ["Electrophysiological recordings lead amongst the techniques that aim to investigate the dynamics of neural activity sampled from large neural ensembles. However, the financial costs associated with the state-of-the-art technology used to manufacture probes and multi-channel recording systems make these experiments virtually inaccessible to small la..."]
+      },
+      {
+        "title": "Active probing to highlight approaching transitions to ictal states in coupled neural mass models",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Vinicius Rezende Carvalho", "Marcio Moraes", "Sydney S. Cash", "Eduardo M. A. M. Mendes"],
+        "abstract": ["The extraction of electrophysiological features that reliably forecast the occurrence of seizures is one of the most challenging goals in epilepsy research. Among possible approaches to tackle this problem is the use of active probing paradigms in which responses to stimuli are used to detect underlying system changes leading up to seizures. This w..."]
+      },
+      {
+        "title": "Electrocortical activity prior to predictable and unpredictable stimuli requiring a motor response",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Tércio Apolinário-Souza", "Juliana Parma", "Vinicius Rezende Carvalho", "Lidiane Fernandes"],
+        "abstract": ["The fronto-central slow-wave known as the contingent negative variation (CNV) is an electroencephalographic measure related to the ability of the motor system to extract space-temporal regularities to produce a motor response. Although well-studied in predictable settings, little is known about how the CNV behaves in an unpredictable context. Thus,..."]
+      },
+      {
+        "title": "Active probing to highlight approaching transitions to ictal states in coupled neural mass models",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Vinicius Rezende Carvalho", "Marcio Moraes", "Sydney S. Cash", "Eduardo M. A. M. Mendes"],
+        "abstract": ["The extraction of electrophysiological features that reliably forecast the occurrence of seizures is one of the most challenging goals in epilepsy research. Among possible approaches to tackle this problem is the use of active probing paradigms in which responses to stimuli are used to detect underlying system changes leading up to seizures. This w..."]
+      },
+      {
+        "title": "Evaluating five different adaptive decomposition methods for EEG signal seizure detection and classification",
+        "tags": ["Article"],
+        "date": "Sep 2020",
+        "authors": ["Vinicius Rezende Carvalho", "Marcio Moraes", "Antônio P. Braga", "Eduardo M. A. M. Mendes"],
+        "abstract": ["Signal processing and machine learning methods are valuable tools in epilepsy research, potentially assisting in diagnosis, seizure detection, prediction and real-time event detection during long term monitoring. Recent approaches involve the decomposition of EEG signals into different modes in a data-dependent and adaptive way, which may provide a..."]
+      },
+      {
+        "title": "On the Validity of Using Probing Stimuli for Seizure Prediction in the Epileptor Model",
+        "tags": ["Chapter"],
+        "date": "Nov 2019",
+        "authors": ["Vinicius Rezende Carvalho", "Marcio Moraes", "Eduardo M. A. M. Mendes"],
+        "abstract": ["Epilepsy is characterized by transitory recurrent disturbances to the functioning of the brain. Methods of forecasting the occurrence of seizures could alleviate some of the burden of this disease, which is the unpredictability of these events. One of the proposed approaches for achieving this is the use of stimuli that could highlight otherwise un..."]
+      },
+      {
+        "title": "A Custom Microcontrolled and Wireless-Operated Chamber for Auditory Fear Conditioning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Paulo Aparecido Amaral-Júnior", "Flávio Afonso Gonçalves Mourão", "Mariana Chamon Ladeira Amancio", "Marcio Moraes"],
+        "abstract": ["Animal behavioral paradigms, such as classical conditioning and operant conditioning, are an important tool to study the neural basis of cognition and behavior. These paradigms involve manipulating sensory stimuli in a way that learning processes are induced under controlled experimental conditions. However, the majority of the commercially availab..."]
+      },
+      {
+        "title": "Seizure Susceptibility Corrupts Inferior Colliculus Acoustic Integration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Hyorrana Priscila Pereira Pinto", "Eric Levi de Oliveira Lucas", "Vinicius Rezende Carvalho", "Marcio Moraes"],
+        "abstract": ["Evidence suggests that the pathophysiology associated with epileptic susceptibility may disturb the functional connectivity of neural circuits and compromise the brain functions, even when seizures are absent. Although memory impairment is a common comorbidity found in patients with epilepsy, it is still unclear whether more caudal structures may p..."]
+      },
+      {
+        "title": "A Custom Microcontrolled and Wireless-Operated Chamber for Auditory Fear Conditioning",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Paulo Aparecido Amaral Junior", "Flávio Afonso Gonçalves Mourão", "Mariana Chamon Ladeira Amancio", "Marcio Moraes"],
+        "abstract": ["Animal behavioral paradigms, such as classical conditioning and operant conditioning, are an important tool to study the neural basis of cognition and behavior. These paradigms involve manipulating sensory stimuli in a way that learning processes are induced under controlled experimental conditions. However, the majority of the commercially availab..."]
+      },
+      {
+        "title": "Evaluating three different adaptive decomposition methods for EEG signal seizure detection and classification",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Vinicius Rezende Carvalho", "Marcio Moraes", "Antônio Pádua Braga", "Eduardo M. A. M. Mendes"],
+        "abstract": ["Signal processing and machine learning methods are valuable tools in epilepsy research, potentially assisting in diagnosis, seizure detection, prediction and real-time event detection during long term monitoring. Recent approaches involve the decomposition of these signals in different modes or functions in a data-dependent and adaptive way. These..."]
+      },
+      {
+        "title": "Social isolation impairs the persistence of social recognition memory by disturbing the glutamatergic tonus and the olfactory bulb-dorsal hippocampus coupling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Ana F. Almeida-Santos", "Vinicius Rezende Carvalho", "Laura F. Jaimes", "Grace S Pereira"],
+        "abstract": ["The absence of companion may jeopardize mental health in social animals. Here, we tested the hypothesis that social isolation impairs social recognition memory by altering the excitability and the dialog between the olfactory bulb (OB) and the dorsal hippocampus (dHIP). Adult male Swiss mice were kept grouped (GH) or isolated (SI) for 7 days. Socia..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jan 2019",
+        "authors": ["Ana F. Almeida-Santos", "Vinicius Rezende Carvalho", "Laura F. Jaimes", "Grace S Pereira"],
+        "abstract": []
+      },
+      {
+        "title": "Deep brain stimulation probing performance is enhanced by pairing stimulus with epileptic seizure",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Daniel Castro Medeiros", "Laio Bastos Paiva Raspante", "Flávio Afonso Gonçalves Mourão", "Marcio Moraes"],
+        "abstract": ["The unpredictability of spontaneous and recurrent seizures significantly impairs the quality of life of patients with epilepsy. Probing neural network excitability with deep brain electrical stimulation (DBS) has shown promising results predicting pathological shifts in brain states. This work presents a proof-of-principal that active electroenceph..."]
+      },
+      {
+        "title": "Home-cage odors spatial cues elicit theta phase/gamma amplitude coupling between olfactory bulb and dorsal hippocampus",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Roberta Ribas Pena", "Daniel Castro Medeiros", "Leonardo Oliveira Guarnieri", "Marcio Moraes"],
+        "abstract": ["The brain oscillations may play a critical role in synchronizing neuronal assemblies in order to establish appropriate sensory-motor integration. In fact, studies have demonstrated phase-amplitude coupling of distinct oscillatory rhythms during cognitive processes. Here we investigated whether olfacto-hippocampal coupling occurs when mice are detec..."]
+      },
+      {
+        "title": "Auditory processing assessment suggests that Wistar audiogenic rat neural networks are prone to entrainment",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["Hyorrana Priscila Pereira Pinto", "Vinicius Rezende Carvalho", "Daniel Castro Medeiros", "Marcio Moraes"],
+        "abstract": ["Epilepsy is a neurological disease related to the occurrence of pathological oscillatory activity, but the basic physiological mechanisms of seizure remain to be understood. Our working hypothesis is that specific sensory processing circuits may present abnormally enhanced predisposition for coordinated firing in the dysfunctional brain. Such facil..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [20],
+    "reads": [3608],
+    "citations": [126]
   }
 }

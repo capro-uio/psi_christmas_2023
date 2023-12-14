@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Valerie Karl",
-    "id": "JT-IdbAAAAAJ",
-    "affiliation": "PhD fellow, University of Oslo",
+    "name": ["Valerie Karl"],
+    "id": ["JT-IdbAAAAAJ"],
+    "affiliation": ["PhD fellow, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -61,8 +61,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-3036-8880",
-    "name": "Valerie Karl",
+    "orcid": ["0000-0002-3036-8880"],
+    "name": ["Valerie Karl"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -73,8 +73,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Valerie Christine Karl",
-    "id": "1504434",
+    "name": ["Valerie Christine Karl"],
+    "id": ["1504434"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -94,5 +94,33 @@
         "url": "https://api.cristin.no/v2/results/2154277"
       }
     ]
+  },
+  "rg": {
+    "id": "Valerie_Viejo",
+    "name": "Valérie Christine Viejo",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Bureau Veritas AS, Medical",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Single-Source Precursors to Vanadium Nitride Thin Films",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Charles H. Winter", "Valérie Christine Viejo", "James W. Proscia"],
+        "abstract": "The syntheses of the first single-source precursors to gold-colored titanium nitride films are reported. The precursors have the empirical formula [TiCl2(NHR)2(NH2R)0-2] and [TiCl4(NH3)2] and are obtained upon treatment of titanium tetrachloride with alkylamines or ammonia in nonpolar organic solvents. Both precursors sublime without decomposition..."
+      },
+      {
+        "title": "Selectivite De L'electrode A Ammoniac Vis A Vis D' Amines Volatiles",
+        "tags": ["Article"],
+        "date": "Jan 1989",
+        "authors": ["Valérie Christine Viejo", "J. J. Vollon"],
+        "abstract": "The potential of the ammonia selective electrode was plotted versusiog [NH4C1] in solutions to which a tenfold excess (v/v) of 10 M NaOH was added. ‘Eisenman plots’ were obtained in the presence of ten different aliphatic amines. Corresponding potentiometric selectivity coefficients (PSC) were evaluated. These correlated as follows with the dissoci..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [2],
+    "reads": [19],
+    "citations": [8]
   }
 }

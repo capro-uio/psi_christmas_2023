@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-4974-5006",
-    "name": "Trond Myklebust",
+    "orcid": ["0000-0003-4974-5006"],
+    "name": ["Trond Myklebust"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Trond Myklebust",
-    "id": "16192",
+    "name": ["Trond Myklebust"],
+    "id": ["16192"],
     "keywords": [],
     "position": ["Associate professor", null],
     "img": {},
@@ -587,5 +587,131 @@
         "url": "https://api.cristin.no/v2/results/1203480"
       }
     ]
+  },
+  "rg": {
+    "id": "Trond-Myklebust-2",
+    "name": "Trond Myklebust",
+    "img": "https://i1.rgstatic.net/ii/profile.image/324263016370177-1454321735419_Q128/Trond-Myklebust-2.jpg",
+    "affiliation": "Norwegian Police College University | PHS, Norwegian Police College University, Research Department",
+    "keywords": ["Training", "Interviewing", "Human Resource Management", "Criminal Psychology", "Human Resource Development", "Organizational Commitment", "Team Working", "Work Psychology", "Applied Psychology", "Team Management"],
+    "works": [
+      {
+        "title": "Cultivating flexibility: The relationship between flexible organizational values, participation climate, and job attitudes from an employee perspective",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Marius Duhović Hafstad", "Henning Bang", "Cato Bjørkli", "Knut Inge Fostervold"],
+        "abstract": "Adopting a flexible organizational culture can be a potential remedy for organizations that face globalization, technological advancements, and higher expectations from the workforce. However, research on the mechanism between organizational culture and its outcomes remain understudied. This study adopts an employee-centric approach, suggesting tha..."
+      },
+      {
+        "title": "An Empirical Evaluation of the Relationship Between Human Relations Climate and Readiness for Change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Trond Myklebust", "Karoline Motland", "Alexander Garnås", "Knut Inge Fostervold"],
+        "abstract": "Readiness for change is seen as an important factor in organisational change processes, but it is unclear how organisational climate might affect readiness for change. Addressing this important gap, the purpose of the study was to investigate the relationship between human relations climate, a dimension of the Quinn and Rohrbaugh’s competing values..."
+      },
+      {
+        "title": "The Nordic Model of Handling Children’s Testimonies",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Trond Myklebust"],
+        "abstract": "Barnahus performs investigative interviewing of children. Internationally, there are two parallel legal systems in which children’s testimonies are obtained and presented as evidence in court. The first system is often referred to as the ‘Adversarial package’, and the second is the ‘Nordic model’. This chapter presents the development of the Nordic..."
+      },
+      {
+        "title": "Organizational climate and investigation performance in the Norwegian police: A qualitative study",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Jon Anders Lone", "Alexander Garnås", "Trond Myklebust", "Cato Bjørkli"],
+        "abstract": "The present study aimed to identify organizational climate dimensions that are salient for police investigation performance and to explicate the mechanisms of the relationship between organizational climate and investigation performance. We conducted 38 semistructured interviews with participants at three job levels of police investigative work (ch..."
+      },
+      {
+        "title": "Interviewing Child Witnesses",
+        "tags": ["Chapter"],
+        "date": "Oct 2015",
+        "authors": ["David J. La Rooy", "Georgina Heydon", "Julia Korkman", "Trond Myklebust"],
+        "abstract": "The consensus between psychological and linguistic perspectives on child interviewing provides a basis for best practice that is effective and useful to researchers and practitioners. This chapter brings multidisciplinary findings together in a practice-based discussion of the common features of child interviewing. Points of consensus are identifie..."
+      },
+      {
+        "title": "Communication in Forensic Contexts",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Trond Myklebust", "Gavin E. Oxburgh", "Tim Grant", "Rebecca Milne"],
+        "abstract": "This chapter reviews the important areas that psychology, linguistics and law enforcement have impacted upon in terms of rigorous and collaborative scientific endeavours. Important areas that will be of interest to both researchers and practitioners for research relating to communication in forensic contexts are discussed in detail, including vulne..."
+      },
+      {
+        "title": "Communication in Investigative and Legal Settings",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Gavin E. Oxburgh", "Trond Myklebust", "Tim Grant", "Rebecca Milne"],
+        "abstract": "Communication in investigative and legal settings is a vitally important area of practice and research. This chapter outlines the significant paradigm shift in interviewing practices, highlighting various studies that have been conducted that have demarked this change. We examine the role of linguistics in this paradigm shift and the importance of..."
+      },
+      {
+        "title": "Exploring Types and Functions of Questions in Police Interviews",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Tim Grant", "Jennifer Taylor", "Gavin E. Oxburgh", "Trond Myklebust"],
+        "abstract": "There is a proliferation of categorization schemes in the scientific literature that have mostly been developed from psychologists’ understanding of the nature of linguistic interactions. This has a led to problems in defining question types used by interviewers. Based on the principle that the overarching purpose of an interview is to elicit infor..."
+      },
+      {
+        "title": "The NICHD protocol: A review of an internationally-used evidence-based tool for training child forensic interviewers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["David J. La Rooy", "Sonja P Brubacher", "Anu Aromäki-Stratos", "Michael E Lamb"],
+        "abstract": "Purpose\n– The purpose of this paper is to review an evidence-based tool for training child forensic interviewers called the National Institute of Child Health and Human Development Protocol (NICHD Protocol), with a specific focus on how the Protocol is being adapted in various countries.\nDesign/methodology/approach\n– The authors include internation..."
+      },
+      {
+        "title": "Investigative Interviews with Victims of Child Sexual Abuse: The Relationship between Question Type and Investigation Relevant Information",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2012",
+        "authors": ["Emma Phillips", "Gavin E. Oxburgh", "Amanda Gavin", "Trond Myklebust"],
+        "abstract": "This study examined the influence of question type during investigative interviews with victims of child sexual abuse on the\nnumber of items of Investigation Relevant Information (IRI) obtained during the interview. Twenty-one police interview transcripts\nfrom an English police force were analysed across different age groups. As predicted, more IRI..."
+      },
+      {
+        "title": "Reviewing the Case (Post‐Interview)",
+        "tags": ["Chapter"],
+        "date": "Jun 2011",
+        "authors": ["Trond Myklebust", "Gavin E. Oxburgh"],
+        "abstract": "Is the Information Obtained from the Child Relevant to the Investigation?Forensic Evidence to be Retrieved and AnalysedCase ProgressionReasons for Lack of Case ProgressInvestigative Decision-Making ProcessesIf the Case is not Ready to Move Forward, What Happens Next?Conclusions\nReferences"
+      },
+      {
+        "title": "The question of question types in police interviews: A review of the literature from a psychological and linguistic perspective",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2010",
+        "authors": ["Gavin E. Oxburgh", "Trond Myklebust", "Tim Grant"],
+        "abstract": "The past two decades has seen a plethora of papers and academic research conducted on investigative interviews with victims, witnesses and suspected offenders, with a particular focus on questioning techniques and typologies. However, despite this research, there still remain significant discrepancies amongst academic researchers and practitioners..."
+      },
+      {
+        "title": "Factors Affecting the Length of Responses in Field Investigative Interviews of Children (FIIC) in Child Sexual Abuse Cases",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2010",
+        "authors": ["Trond Myklebust", "Roald A. Bjørklund"],
+        "abstract": "In this study some of the most prominent variables considered to facilitate interviewee responses in the literature of field investigative interviews of children (FIIC) are reviewed and included in the analysis of 100 FIICs. Analysis of variance (ANOVA) showed that of all the variables, the interviewer's utterances had the most impact on the childr..."
+      },
+      {
+        "title": "The Child Verbal Competence Effect in Court: A Comparative Study of Field Investigative Interviews of Children in Child Sexual Abuse Cases",
+        "tags": ["Article"],
+        "date": "Jun 2009",
+        "authors": ["Trond Myklebust", "Roald A. Bjørklund"],
+        "abstract": "The purpose of this study is to compare field investigative interviews of children (FIIC) with three different legal outcomes in child sexual abuse cases: (i) insufficient evidence to proceed (IEP); (ii) convictions; or (iii) acquittals by the court. One hundred FIIC were divided into one of the three outcome possibilities. Amongst the female inter..."
+      },
+      {
+        "title": "The effect of long‐term training on police officers' use of open and closed questions in field investigative interviews of children (FIIC)",
+        "tags": ["Article"],
+        "date": "Oct 2006",
+        "authors": ["Trond Myklebust", "Roald A. Bjørklund"],
+        "abstract": "This study intends to assess the effect of long-term training on police officers' use of open and closed questions in investigative interviews of children. One hundred field investigative interviews of children were divided into two groups based on the interviewers' level of competence (training and experience). The police officers' questions were..."
+      },
+      {
+        "title": "The current state of police interviews with children in Norway: How discrepant are they from models based on current issues in memory and communication?",
+        "tags": ["Article"],
+        "date": "Oct 2000",
+        "authors": ["Trond Myklebust", "Laurence John Alison"],
+        "abstract": "This study sought to examine the state of police interviews with children in Norway set against the various models that have been developed in the United Kingdom. UK models attempt to accord with psychological principles that lead to effective interviewing and so, if appropriately followed, should enhance the elicitation of accurate material. Set a..."
+      }
+    ],
+    "degree": ["PhD", "in", "Psychology", "/", "Assistant", "Chief", "of", "Police"],
+    "bio": [],
+    "publications": [16],
+    "reads": [46113],
+    "citations": [474]
   }
 }

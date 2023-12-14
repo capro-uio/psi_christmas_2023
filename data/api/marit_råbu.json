@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Marit Råbu",
-    "id": "nz9hIsYAAAAJ",
-    "affiliation": "Professor i klinisk psykologi, Psykologisk institutt, Universitetet i Oslo",
+    "name": ["Marit Råbu"],
+    "id": ["nz9hIsYAAAAJ"],
+    "affiliation": ["Professor i klinisk psykologi, Psykologisk institutt, Universitetet i Oslo"],
     "data": {
       "publications": [
         {
@@ -403,8 +403,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-0618-3939",
-    "name": "Marit  Råbu",
+    "orcid": ["0000-0003-0618-3939"],
+    "name": ["Marit  Råbu"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -500,11 +500,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Marit Råbu",
-    "id": "9865",
+    "name": ["Marit Råbu"],
+    "id": ["9865"],
     "keywords": [],
     "position": ["Professor"],
-    "img": "https://api.cristin.no/v2/persons/9865/picture",
+    "img": ["https://api.cristin.no/v2/persons/9865/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -532,15 +532,15 @@
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Therapists`therapy",
-        "url": "https://api.cristin.no/v2/results/2158200"
+        "url": "https://api.cristin.no/v2/results/2158200",
+        "title": "Therapists`therapy"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Are We Together in This? Relationship Experiences of Parents of Children with Craniofacial Anomalies",
         "journal": "The Cleft Palate-Craniofacial Journal",
-        "url": "https://api.cristin.no/v2/results/2154832"
+        "url": "https://api.cristin.no/v2/results/2154832",
+        "title": "Are We Together in This? Relationship Experiences of Parents of Children with Craniofacial Anomalies"
       },
       {
         "type": "Interview",
@@ -605,9 +605,9 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "The need to belong: Subjective experiences of living with craniofacial conditions and undergoing appearance-altering surgery",
         "journal": "Body image",
-        "url": "https://api.cristin.no/v2/results/1913336"
+        "url": "https://api.cristin.no/v2/results/1913336",
+        "title": "The need to belong: Subjective experiences of living with craniofacial conditions and undergoing appearance-altering surgery"
       },
       {
         "type": "Reader opinion piece",
@@ -618,16 +618,16 @@
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "title": "Some people feel so utterly alone it´s as if they don't exist",
         "journal": "Aeon",
-        "url": "https://api.cristin.no/v2/results/1907769"
+        "url": "https://api.cristin.no/v2/results/1907769",
+        "title": "Some people feel so utterly alone it´s as if they don't exist"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Opening up: Clients’ inner struggles at the start of therapy",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1857022"
+        "url": "https://api.cristin.no/v2/results/1857022",
+        "title": "Opening up: Clients’ inner struggles at the start of therapy"
       },
       {
         "type": "Academic article",
@@ -638,44 +638,44 @@
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "The embodied listener: a dyadic case study of how therapist and patient reflect on the significance of therapist`s personal presence for the therapeutic change process ",
         "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/1824932"
+        "url": "https://api.cristin.no/v2/results/1824932",
+        "title": "The embodied listener: a dyadic case study of how therapist and patient reflect on the significance of therapist`s personal presence for the therapeutic change process "
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "People Engaging Each Other: A dual-perspective Study of Interpersonal Processes in Useful Therapy",
         "journal": "Journal of Contemporary Psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1821014"
+        "url": "https://api.cristin.no/v2/results/1821014",
+        "title": "People Engaging Each Other: A dual-perspective Study of Interpersonal Processes in Useful Therapy"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Therapists’ experiences of psychodynamic therapy with and without transference interventions for adolescents with depression",
         "journal": "International Journal of Environmental Research and Public Health (IJERPH)",
-        "url": "https://api.cristin.no/v2/results/1817399"
+        "url": "https://api.cristin.no/v2/results/1817399",
+        "title": "Therapists’ experiences of psychodynamic therapy with and without transference interventions for adolescents with depression"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Subjective experience of the origin and development of avoidant personality disorder",
         "journal": "Journal of Clinical Psychology",
-        "url": "https://api.cristin.no/v2/results/1817204"
+        "url": "https://api.cristin.no/v2/results/1817204",
+        "title": "Subjective experience of the origin and development of avoidant personality disorder"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Creating art from research: A theatre play based on research interviews with senior therapists",
         "journal": "British Journal of Guidance and Counselling",
-        "url": "https://api.cristin.no/v2/results/1807747"
+        "url": "https://api.cristin.no/v2/results/1807747",
+        "title": "Creating art from research: A theatre play based on research interviews with senior therapists"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Lived Experience of Treatment for Avoidant Personality Disorder: Searching for Courage to Be",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1761594"
+        "url": "https://api.cristin.no/v2/results/1761594",
+        "title": "Lived Experience of Treatment for Avoidant Personality Disorder: Searching for Courage to Be"
       },
       {
         "type": "Popular scientific article",
@@ -686,22 +686,22 @@
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "How psychotherapists make use of their experiences from being a client: Lessons from a collective autoethnography ",
         "journal": "Counselling Psychology Quarterly",
-        "url": "https://api.cristin.no/v2/results/1727992"
+        "url": "https://api.cristin.no/v2/results/1727992",
+        "title": "How psychotherapists make use of their experiences from being a client: Lessons from a collective autoethnography "
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "\"Where did we arrive in the end?\" Conjoint explorations of improvements in the last phase of psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1727991"
+        "url": "https://api.cristin.no/v2/results/1727991",
+        "title": "\"Where did we arrive in the end?\" Conjoint explorations of improvements in the last phase of psychotherapy"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Struggling to be a person: Lived experience of avoidant personality disorder",
         "journal": "Journal of Clinical Psychology",
-        "url": "https://api.cristin.no/v2/results/1663153"
+        "url": "https://api.cristin.no/v2/results/1663153",
+        "title": "Struggling to be a person: Lived experience of avoidant personality disorder"
       },
       {
         "type": "Academic lecture",
@@ -711,9 +711,9 @@
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
         "journal": "Journal of Contemporary Psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1623296"
+        "url": "https://api.cristin.no/v2/results/1623296",
+        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness"
       },
       {
         "type": "Book review",
@@ -724,15 +724,15 @@
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Feeling at home in theory – an echo of the therapist’s personal history in the professional domain",
-        "url": "https://api.cristin.no/v2/results/1595704"
+        "url": "https://api.cristin.no/v2/results/1595704",
+        "title": "Feeling at home in theory – an echo of the therapist’s personal history in the professional domain"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "\"It's both a strength and a drawback.\" How therapists' personal qualities are experienced in their professional work",
         "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/1595695"
+        "url": "https://api.cristin.no/v2/results/1595695",
+        "title": "\"It's both a strength and a drawback.\" How therapists' personal qualities are experienced in their professional work"
       },
       {
         "type": "Academic lecture",
@@ -791,8 +791,8 @@
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Transference. A theatre play - and how it was created from research interviews with senior therapists.",
-        "url": "https://api.cristin.no/v2/results/1497495"
+        "url": "https://api.cristin.no/v2/results/1497495",
+        "title": "Transference. A theatre play - and how it was created from research interviews with senior therapists."
       },
       {
         "type": "Academic lecture",
@@ -802,8 +802,8 @@
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Wisdom in professional knowledge: Developing a contextualized understanding of insights from senior psychotherapists",
-        "url": "https://api.cristin.no/v2/results/1479332"
+        "url": "https://api.cristin.no/v2/results/1479332",
+        "title": "Wisdom in professional knowledge: Developing a contextualized understanding of insights from senior psychotherapists"
       },
       {
         "type": "Academic lecture",
@@ -848,9 +848,9 @@
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Coming to terms: Client subjective expereience of ending psychotherapy",
         "journal": "Counselling Psychology Quarterly",
-        "url": "https://api.cristin.no/v2/results/1454942"
+        "url": "https://api.cristin.no/v2/results/1454942",
+        "title": "Coming to terms: Client subjective expereience of ending psychotherapy"
       },
       {
         "type": "Interview",
@@ -881,8 +881,8 @@
       {
         "type": "Interview",
         "year": "2017",
-        "title": "Deeper awareness",
-        "url": "https://api.cristin.no/v2/results/1445578"
+        "url": "https://api.cristin.no/v2/results/1445578",
+        "title": "Deeper awareness"
       },
       {
         "type": "Introduction, musical or theatrical programme",
@@ -897,65 +897,65 @@
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Wisdom in professional knowledge: Why it can be valuable to listen to the voices of senior psychotherapists",
         "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/1422880"
+        "url": "https://api.cristin.no/v2/results/1422880",
+        "title": "Wisdom in professional knowledge: Why it can be valuable to listen to the voices of senior psychotherapists"
       },
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "Researcher reflexivity: Taking account of personal meaning of investigating the integration of Professional and personal knowledge",
-        "url": "https://api.cristin.no/v2/results/1358702"
+        "url": "https://api.cristin.no/v2/results/1358702",
+        "title": "Researcher reflexivity: Taking account of personal meaning of investigating the integration of Professional and personal knowledge"
       },
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "Disseminating Research and creating art in the same act: Theatre built on Research interviews",
-        "url": "https://api.cristin.no/v2/results/1358698"
+        "url": "https://api.cristin.no/v2/results/1358698",
+        "title": "Disseminating Research and creating art in the same act: Theatre built on Research interviews"
       },
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "The places that I shouldn´t go: Exploring good therapists´experiences of the areas in which they function poorly",
-        "url": "https://api.cristin.no/v2/results/1358192"
+        "url": "https://api.cristin.no/v2/results/1358192",
+        "title": "The places that I shouldn´t go: Exploring good therapists´experiences of the areas in which they function poorly"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Norwegian translation and validation of a routine outcomes monitoring measure: The treatment outcome package",
         "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/1249651"
+        "url": "https://api.cristin.no/v2/results/1249651",
+        "title": "Norwegian translation and validation of a routine outcomes monitoring measure: The treatment outcome package"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "How does practicing psychotherapy affect the personal life of the therapist? A qualitative inquiry of senior therapists’ experiences",
         "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/1248743"
+        "url": "https://api.cristin.no/v2/results/1248743",
+        "title": "How does practicing psychotherapy affect the personal life of the therapist? A qualitative inquiry of senior therapists’ experiences"
       },
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "Analyzing single-cases with multiple data sources to capture complexity",
-        "url": "https://api.cristin.no/v2/results/1251126"
+        "url": "https://api.cristin.no/v2/results/1251126",
+        "title": "Analyzing single-cases with multiple data sources to capture complexity"
       },
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "Developing mixed methods to research: How collaborative action between client and therapist generates and sustains productive life change",
-        "url": "https://api.cristin.no/v2/results/1251104"
+        "url": "https://api.cristin.no/v2/results/1251104",
+        "title": "Developing mixed methods to research: How collaborative action between client and therapist generates and sustains productive life change"
       },
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "Using quantitative prompts and serial interviews to achieve greater correspondence and phenomenological proximity in qualitative approaches",
-        "url": "https://api.cristin.no/v2/results/1251103"
+        "url": "https://api.cristin.no/v2/results/1251103",
+        "title": "Using quantitative prompts and serial interviews to achieve greater correspondence and phenomenological proximity in qualitative approaches"
       },
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "What are the wisdoms of senior therapists?",
-        "url": "https://api.cristin.no/v2/results/1250624"
+        "url": "https://api.cristin.no/v2/results/1250624",
+        "title": "What are the wisdoms of senior therapists?"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -965,14 +965,14 @@
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "Looking back: How did being a therapist affect my personal life?",
-        "url": "https://api.cristin.no/v2/results/1146166"
+        "url": "https://api.cristin.no/v2/results/1146166",
+        "title": "Looking back: How did being a therapist affect my personal life?"
       },
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "How does alliance work develop in phases of psychotherapy?",
-        "url": "https://api.cristin.no/v2/results/1142870"
+        "url": "https://api.cristin.no/v2/results/1142870",
+        "title": "How does alliance work develop in phases of psychotherapy?"
       },
       {
         "type": "Academic article",
@@ -983,9 +983,9 @@
       {
         "type": "Academic article",
         "year": "2013",
-        "title": "We have travelled a long distance and sorted out the mess in the drawers: Metaphors for moving toward the end in psychotherapy",
         "journal": "Counselling and Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/923723"
+        "url": "https://api.cristin.no/v2/results/923723",
+        "title": "We have travelled a long distance and sorted out the mess in the drawers: Metaphors for moving toward the end in psychotherapy"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -995,15 +995,15 @@
       {
         "type": "Academic lecture",
         "year": "2013",
-        "title": "Creating analytical procedures in the service of making results from psychotherapy research relevant for clinical practice",
-        "url": "https://api.cristin.no/v2/results/1033384"
+        "url": "https://api.cristin.no/v2/results/1033384",
+        "title": "Creating analytical procedures in the service of making results from psychotherapy research relevant for clinical practice"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "title": "Negotiating ending: A qualitative study of the process of ending psychotherapy",
         "journal": "European Journal of Psychotherapy & Councelling",
-        "url": "https://api.cristin.no/v2/results/1006849"
+        "url": "https://api.cristin.no/v2/results/1006849",
+        "title": "Negotiating ending: A qualitative study of the process of ending psychotherapy"
       },
       {
         "type": "Academic article",
@@ -1024,15 +1024,15 @@
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "Coming to an end: A case study of an ambigous process of ending",
         "journal": "Counselling and Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/929364"
+        "url": "https://api.cristin.no/v2/results/929364",
+        "title": "Coming to an end: A case study of an ambigous process of ending"
       },
       {
         "type": "Academic lecture",
         "year": "2012",
-        "title": "Metaphors for moving toward the end in psychotherapy",
-        "url": "https://api.cristin.no/v2/results/926151"
+        "url": "https://api.cristin.no/v2/results/926151",
+        "title": "Metaphors for moving toward the end in psychotherapy"
       },
       {
         "type": "Academic lecture",
@@ -1063,35 +1063,392 @@
       {
         "type": "Doctoral dissertation",
         "year": "2011",
-        "title": "Relational development in psychotherapy from beginning to end. Connecting structural and interpersonal aspects",
-        "url": "https://api.cristin.no/v2/results/831823"
+        "url": "https://api.cristin.no/v2/results/831823",
+        "title": "Relational development in psychotherapy from beginning to end. Connecting structural and interpersonal aspects"
       },
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "Negotiating ending: a qualitative study of the process of ending psychotherapy",
-        "url": "https://api.cristin.no/v2/results/828064"
+        "url": "https://api.cristin.no/v2/results/828064",
+        "title": "Negotiating ending: a qualitative study of the process of ending psychotherapy"
       },
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "What has changed? A qualitative study of how improvement in psychotherapy is negotiatied and experienced in the process of ending",
-        "url": "https://api.cristin.no/v2/results/805880"
+        "url": "https://api.cristin.no/v2/results/805880",
+        "title": "What has changed? A qualitative study of how improvement in psychotherapy is negotiatied and experienced in the process of ending"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "title": "Early relationship struggles: A case study of alliance formation and reparation",
         "journal": "Counselling and Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/346813"
+        "url": "https://api.cristin.no/v2/results/346813",
+        "title": "Early relationship struggles: A case study of alliance formation and reparation"
       },
       {
         "type": "Academic article",
         "year": "2010",
-        "title": "Development through interruptions and reparations – A case study of a mutually challenging psychotherapy",
         "journal": "European Journal of Psychotherapy & Councelling",
-        "url": "https://api.cristin.no/v2/results/531935"
+        "url": "https://api.cristin.no/v2/results/531935",
+        "title": "Development through interruptions and reparations – A case study of a mutually challenging psychotherapy"
       }
     ]
+  },
+  "rg": {
+    "id": "Marit-Rabu",
+    "name": "Marit Råbu",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1118363115892739-1643649953814_Q128/Marit-Rabu.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychodynamic Psychotherapy", "Qualitative Research", "Psychoanalysis", "Clinical Psychology", "Psychotherapy", "Psychotherapeutic Processes", "Psychopathology", "Therapeutic Alliance", "Narrative"],
+    "works": [
+      {
+        "title": "How does practicing psychotherapy affect the personal life of the therapist? A qualitative inquiry of senior therapists' experiences",
+        "tags": ["Article"],
+        "date": "Jul 2015",
+        "authors": ["Marit Råbu", "Christian Moltu", "Per-Einar Binder", "John McLeod"],
+        "abstract": ["To investigate how psychotherapists' lives and relationships are influenced by their work.\nTwelve senior psychotherapists took part in qualitative interviews.\nThematic analysis yielded four significant themes: (i) it has been a privilege to know and contribute, and to be allowed to grow personally; (ii) facing suffering and destructiveness has been..."]
+      },
+      {
+        "title": "Coming to terms: Client subjective experience of ending psychotherapy",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["How do clients consider their own contribution and that of their therapist in the last phase of therapy when they are moving toward the end? Thirty-seven clients who had received therapy from highly experienced clinicians were interviewed. Since the time for ending had not been decided at the onset, clients in both short- and long-term therapies we..."]
+      },
+      {
+        "title": "How psychotherapists make use of their experiences from being a client: Lessons from a collective autoethnography",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Marit Råbu", "John McLeod", "Hanne Haavind", "Christian Moltu"],
+        "abstract": ["First-hand experience of being a client is regarded by many psychotherapists as making an essential contribution to professional development. Although research has not established any direct influence on client outcome, arising from therapist participation in personal therapy, qualitative studies have explored how therapists transfer learning from..."]
+      },
+      {
+        "title": "Creating art from research: A theatre play based on research interviews with senior therapists",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Marit Råbu", "John McLeod", "Tyra Bondevik Tønnessen", "Christian Moltu"],
+        "abstract": ["The growing scope and influence of qualitative research methodologies has generated an interest in the use of art-informed approaches to disseminating research findings. In the present article, our aim is to present a methodological case study of the development of a theatre play based on a qualitative study of senior therapists' life and work. Les..."]
+      },
+      {
+        "title": "People Engaging Each Other: A Dual-Perspective Study of Interpersonal Processes in Useful Therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Marit Råbu", "Christian Moltu"],
+        "abstract": ["To explore how clients and therapists experience and engage in a therapeutic relationship which the client can make use of. We explored 11 psychotherapy dyads using in-depth qualitative methods. Selected dyads were ones in which the client experienced the therapy as useful. The data collection method was serial interviews with both therapists and c..."]
+      },
+      {
+        "title": "Relasjonsrettet dynamisk psykoterapi",
+        "tags": ["Article"],
+        "date": "Dec 2023",
+        "authors": ["Marit Råbu", "Karsten Hytten"],
+        "abstract": ["Central assumptions in psychodynamic psychotherapy are that motivation can be unconscious and that people tend to repeat patterns of ways of being. Interpersonal relationships are important both as a starting point for what creates psychological pain and as an opportunity for recovery. Early established patterns that align with how we experience ou..."]
+      },
+      {
+        "title": "Ein Blick zurück: Erfahrungen älterer Therapeut:innen zum Zeitpunkt des Renteneintritts",
+        "tags": ["Chapter"],
+        "date": "Aug 2023",
+        "authors": ["Marit Råbu", "John McLeod"],
+        "abstract": []
+      },
+      {
+        "title": "Are We Together in This? Relationship Experiences of Parents of Children with Craniofacial Anomalies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Anita Myhre", "Marit Råbu", "Kristin Billaud Feragen"],
+        "abstract": ["Objective: \nThe birth of a child with a craniofacial anomaly (CFA) can have a profound psychological impact on the family and the parental relationship. The purpose of this study was to qualitatively investigate how a child's CFA condition affected parents' couple relationship.\n\nSetting: \nAll patients with a CFA are followed-up by the National Unit..."]
+      },
+      {
+        "title": "Folkeopplysningens konklusjon er misvisende",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ole André Solbakken", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Hanne Strømme"],
+        "abstract": ["Folkeopplysningens siste episode presenterte en rekke problematiske påstander om effekten av psykoterapi. Heldigvis er påstandene allerede blitt imøtegått av en rekke fagpersoner, forfatterne av denne kommentaren inkludert, på flere arenaer i ettertid. Med dette innlegget ønsker vi å redegjøre mer detaljert for hvorfor konklusjonen fra Folkeopplysn..."]
+      },
+      {
+        "title": "Relasjonsrettet korttids dynamisk psykoterapi",
+        "tags": ["Chapter"],
+        "date": "Nov 2021",
+        "authors": ["Marit Råbu"],
+        "abstract": []
+      },
+      {
+        "title": "The need to belong: Subjective experiences of living with craniofacial conditions and undergoing appearance-altering surgery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Anita Myhre", "Marit Råbu", "Kristin Billaud Feragen"],
+        "abstract": ["The purpose of this study was to better understand how individuals with craniofacial conditions experience living with visible differences and make sense of appearance-altering surgery. We conducted semi-structured qualitative interviews with 11 adults with Goldenhar or Crouzon syndrome. Interviews were analysed using a hermeneutic-phenomenological..."]
+      },
+      {
+        "title": "Some people feel so utterly alone its as if they don't exist",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Kristine Dahl", "Marit Råbu"],
+        "abstract": ["https://psyche.co/ideas/some-people-feel-so-utterly-alone-its-as-if-they-dont-exist"]
+      },
+      {
+        "title": "Opening Up: Clients' Inner Struggles in the Initial Phase of Therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Gøril Kleiven Solberg", "Aslak Hjeltnes", "Marit Råbu", "Christian Moltu"],
+        "abstract": ["Objective\nTo explore how clients in clinical settings experience the process of opening up and sharing their inner experiences in the initial phase of therapy.Methods\nTwo psychotherapy sessions of clients (N = 11) were videotaped and followed by interviews. Interpersonal process recall was used to obtain in-depth descriptions of clients’ immediate..."]
+      },
+      {
+        "title": "«Når jeg føler meg trygg, prøver jeg å si litt om det jeg har vært utsatt for». Traumatiserte flyktningers opplevelse av tillit i psykoterapi",
+        "tags": ["Article"],
+        "date": "Nov 2020",
+        "authors": ["Synne Gulliksen", "Ingvill Hekne", "Marit Råbu", "Marianne Opaas"],
+        "abstract": ["Flyktningers subjektive erfaringer av behandling er lite representert i forskningslitteraturen. De studiene som foreligger, har vektlagt betydningen av tillit i terapi. Mistillit er en vanlig konsekvens av alvorlig traumatisering, representerer en utfordring for behandlingsrelasjonen og for endringsprosesser i terapi. Denne studien bruker fortolken..."]
+      },
+      {
+        "title": "The embodied listener: a dyadic case study of how therapist and patient reflect on the significance of therapist's personal presence for the therapeutic change process",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Ida Bernhardt", "Helene A. Nissen-Lie", "Marit Råbu"],
+        "abstract": ["Objective: There is a need to understand more of the dyadic processes in therapy and how the therapist’s ways of being are experienced and reflected upon by both patient and therapist. The aim of this dyadic case study was to investigate how the therapist’s personal presence was perceived by the patient and the therapist as contributing to change...."]
+      },
+      {
+        "title": "Therapists’ Experiences of Psychodynamic Therapy with and without Transference Interventions for Adolescents with Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Maria Jones", "Marit Råbu", "Jan Ivar Rossberg", "Randi Ulberg"],
+        "abstract": ["Psychodynamic therapy is an effective treatment for depression. However, a large number of adolescent patients with depression do not respond and/or drop out of therapy and little is known about what therapists actually do in therapy with adolescents. Thus, more research is needed to explore the various actions that therapists do in therapy, so tha..."]
+      },
+      {
+        "title": "Subjective experience of the origin and development of avoidant personality disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Kristine Dahl", "Theresa Wilberg", "Eivind Berthelsen", "Marit Råbu"],
+        "abstract": ["Objective: \nTo better understand how persons diagnosed with avoidant personality disorder (AVPD) make sense of the origin and development of their current everyday struggles.\nMethods:\nPersons with AVPD (N = 15) were interviewed twice using semi‐structured qualitative interviews, which were analyzed through interpretative‐phenomenological analysis...."]
+      },
+      {
+        "title": "Lived Experience of Treatment for Avoidant Personality Disorder: Searching for Courage to Be",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Kristine Dahl", "Theresa Wilberg", "Eivind Berthelsen", "Marit Råbu"],
+        "abstract": ["Objective: To inquire into the subjective experience of treatment by persons diagnosed with avoidant personality disorder. \nMethods: Persons with avoidant personality disorder (n = 15) were interviewed twice, using semi-structured in-depth interviews, and the responses subject to interpretative-phenomenological analysis. Persons with first-hand exp..."]
+      },
+      {
+        "title": "\"Where did we arrive in the end?\" Conjoint explorations of improvements in the last phase of psychotherapy.",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2019",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["Most studies of psychotherapy will assess the outcome according to independent standards. In naturalistic therapies the termination has to be a matter of negotiations. Thereby outcomes will be an integral part of the process of ending. We have explored how clients and therapists reach shared notions about what they have accomplished through psychot..."]
+      },
+      {
+        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Michael Helge Rønnestad", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["There is a need for studies that advance our knowledge of therapist eﬀectiveness, expanding the deﬁnition of what constitutes \ntherapeutic success. In the present study, four aspects of clinical outcome were analyzed using a sample of highly experienced \npsychotherapists (mean years of experience as therapy practitioners = 30) who also serve as cli..."]
+      },
+      {
+        "title": "Struggling to be a person: Lived experience of avoidant personality disorder",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Kristine Dahl", "Marit Råbu", "Theresa Wilberg", "Eivind Berthelsen"],
+        "abstract": ["Objective\nTo better understand the subjective lived experience of persons diagnosed with avoidant personality disorder (AVPD).\n\nMethods\nPersons with an AVPD (N = 15) were interviewed twice with semistructured qualitative interviews and analyzed through interpretative–phenomenological analysis. Persons with first‐hand experience of AVPD were include..."]
+      },
+      {
+        "title": "“It’s both a strength and a drawback.” How therapists’ personal qualities are experienced in their professional work",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Ida Bernhardt", "Helene A. Nissen-Lie", "Christian Moltu", "Marit Råbu"],
+        "abstract": ["Objective: \nThe aim of this study was to gain knowledge about how the integration of personal and professional experiences affects therapeutic work.\n\nMethod: \nTherapists (N = 14) who had been recommended by their leaders at their individual workplaces were interviewed twice with semi-structured qualitative interviews, which were then subjected to t..."]
+      },
+      {
+        "title": "Overføring. A theatre play - and how it was created from research interviews with senior therapists.",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2017",
+        "authors": ["Marit Råbu"],
+        "abstract": ["Aim: To investigate how research interviews could be transformed to a theatre play.\n\nMethods: Thirteen qualitative research interviews with senior therapists were analysed to identify material with dramatic potential. To make a drama, there need to be elements of struggle, conflict, contrast, paradox and colliding perspectives. Each character needs..."]
+      },
+      {
+        "title": "\"Hvor langt kom vi? Felles utforskning av bedring i siste fase av psykoterapi.",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["How do clients and therapists reach shared notions about what they have accomplished through psychotherapy? This is a question about the dynamic between improvement and coming to an end. A reanalysis of a qualitative study of twelve processes of psychotherapy where clients and therapists negotiated and decided about ending, demonstrated how improve..."]
+      },
+      {
+        "title": "Overføring. A play",
+        "tags": ["Book"],
+        "date": "Feb 2017",
+        "authors": ["Marit Råbu", "Tyra Bondevik Tønnessen"],
+        "abstract": ["A theatre play based onqualitative research interviews with 13 senior therapists\nWorld premiere at Det Norske Teatret [The Norwegian Theatre] February 22. 2017. Produced in cooperation with Nationaltheatret [The National Theatre] http://www.detnorsketeatret.no/framsyningar/overforing/ \n\nThe dramatic text can be retrieved from https://nordiska.dk/va..."]
+      },
+      {
+        "title": "Wisdom in professional knowledge: Why it can be valuable to listen to the voices of senior psychotherapists",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Marit Råbu", "John McLeod"],
+        "abstract": ["Objective: \nTo explore the nature of professional wisdom, through learning from the experiences of a group of highly experienced senior therapists.\n\nMethod: \nTwelve senior psychotherapists took part in qualitative in-depth interviews about their professional role and their views around a range of aspects of therapy theory and practice. Interview tr..."]
+      },
+      {
+        "title": "Disseminating research and creating art",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Marit Råbu", "Tyra Tønnessen"],
+        "abstract": []
+      },
+      {
+        "title": "Norwegian translation and validation of a routine outcomes monitoring measure: The treatment outcome package",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Sam Nordberg", "Christian Moltu", "Marit Råbu"],
+        "abstract": ["To evaluate the factor structure and clinical validity of a Norwegian translation of the treatment\noutcome package (TOP). Exploratory factor analysis was used to confirm the factor structure of\nthe TOP (n = 334). Samples collected from university students (n = 137) were used to evaluate\n1-week test–retest reliability. Concurrent validity was examin..."]
+      },
+      {
+        "title": "Analyzing single-cases with multiple data sources to capture complexity.",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2015",
+        "authors": ["Marit Råbu", "Christian Moltu", "Ida Bernhardt", "John McLeod"],
+        "abstract": []
+      },
+      {
+        "title": "What are the wisdoms of senior therapists?",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2015",
+        "authors": ["Marit Råbu"],
+        "abstract": []
+      },
+      {
+        "title": "Råbu, Marit. (2014). Ettertanke. Hva har det å være terapeut gjort med livet mitt?. I A. L. von der Lippe, H.A. Nissen Lie & H. Weie Oddli: Psykoterapeuten. En antologi om terapeutens rolle i psykoterapi. Gyldendal Akademisk 2014 ISBN 9788205472136. s. 291-306",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Marit Råbu"],
+        "abstract": []
+      },
+      {
+        "title": "Kvalitativ psykoterapiforskning. Metodiske utfordringer, dilemmaer og muligheter.",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Marit Råbu"],
+        "abstract": ["Qualitative approaches to psychotherapy research have become increasingly popular and acclaimed. The significance of knowledge about the psychotherapy process as it actually unfolds is internationally recognised. Based on a philosophy of science that allows subjectivity, several dilemmas in the research process are discussed, such as balancing empi..."]
+      },
+      {
+        "title": "Råbu, M, Binder, P.E. & Haavind, H. (2013) Negotiating ending: a qualitative study of the process of ending psychotherapy,",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Marit Råbu", "Per-Einar Binder", "Hanne Haavind"],
+        "abstract": ["Objectives: When psychotherapy is open-ended, the question of termination is a matter for negotiation. A model based on both content and the process of ending may explain how ‘good enough’ psychotherapies can be brought to ‘good enough’ endings.\nDesign: Twelve processes of ending were explored through a combination of audio recordings made during t..."]
+      },
+      {
+        "title": "Negotiating ending: A qualitative study of the process of ending psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Marit Råbu", "Per-Einar Binder", "Hanne Haavind"],
+        "abstract": ["Objectives: When psychotherapy is open-ended, the question of termination is a matter for negotiation. A model based on both content and the process of ending may explain how 'good enough' psychotherapies can be brought to 'good enough' endings. Design: Twelve processes of ending were explored through a combination of audio recordings made during t..."]
+      },
+      {
+        "title": "Terapi som skreddersøm med utgangspunkt i relasjon og emosjon",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Per-Einar Binder", "Marit Råbu"],
+        "abstract": []
+      },
+      {
+        "title": "We have travelled a long distance and sorted out the mess in the drawers: Metaphors for moving towards the end in psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Marit Råbu", "Hanne Haavind", "Per-Einar Binder"],
+        "abstract": ["Aim: To explore the process of ending in psychotherapy, in particular how clients and therapists draw on their notions of client improvements and prepare for the upcoming end. Data: The data comes from an intensive process-outcome study at the University of Oslo, Norway. The study includes audio-recording from all sessions and separate post-therapy..."]
+      },
+      {
+        "title": "Hytten, K. & Råbu, M. (2012) Hva skal vi med psykoterapi? I R. Ulberg, A.G. Hersoug & T. Knutsen (red.) Psykoterapi i utvikling. Akademika forlag, s. 11-25.",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Karsten Hytten", "Marit Råbu"],
+        "abstract": []
+      },
+      {
+        "title": "Råbu, M. & Haavind, H. (2012) Coming to an end: A case study of an ambigous process of ending. Counselling and Psychotherapy Research, 12, 109-117",
+        "tags": ["Article"],
+        "date": "Jun 2012",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["Aim: When the duration of therapy is not preset and the outcome is a matter for negotiation, the decision to end psychotherapy will be an experiential concern for the two participants. This case study draws attention to how ambiguities may be settled in a process where ending is initiated by the therapist and resisted by the client. Method and anal..."]
+      },
+      {
+        "title": "Coming to an end: A case study of an ambiguous process of ending psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Marit Råbu", "Hanne Haavind"],
+        "abstract": ["Aim: When the duration of therapy is not preset and the outcome is a matter for negotiation, the decision to end psychotherapy will be an experiential concern for the two participants. This case study draws attention to how ambiguities may be settled in a process where ending is initiated by the therapist and resisted by the client. Method and anal..."]
+      },
+      {
+        "title": "Å få til en god nok avslutning av terapi.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Marit Råbu"],
+        "abstract": []
+      },
+      {
+        "title": "Råbu, M. (2011) Relational development in psychotherapy from beginning to end: Connecting structural and interpersonal aspects of psychotherapy. Doktoravhandling ved Psykologisk institutt, Universitetet i Oslo",
+        "tags": ["Thesis"],
+        "date": "Sep 2011",
+        "authors": ["Marit Råbu"],
+        "abstract": ["With the pan-theoretical concept of the working alliance as a starting point, the aim of this thesis is to explore relational development in psychotherapy in an experience-near, clinically relevant and empirically based way. The methodological approach is qualitative and hermeneutic-phenomenological with an emphasis on researcher reflexivity. The i..."]
+      },
+      {
+        "title": "Råbu, M. Halvorsen, M.S. & Haavind, H. (2011) Early relationship struggles: A case study of alliance formation and reparation. Counselling and Psychotherapy Research, 11, 23- 33 (Special issue: The contribution of systematic case study research to building an evidence base for counselling and psychotherapy).",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Marit Råbu", "Margrethe Seeger Halvorsen", "Hanne Haavind"],
+        "abstract": ["Aim: A good alliance established during the early sessions of psychotherapy will most likely lead to a good outcome. As a result, there is much to learn from a case in which both the patient and therapist regarded the alliance as being poor for an extended period (the first 15 sessions), yet still managed to develop a solid and stable alliance and..."]
+      },
+      {
+        "title": "Råbu, M., Hytten, K. Haavind, H. & Binder, P.E. (2010) Development through interruptions and reparations – A case study of a mutually challenging psychotherapy. European Journal of Psychotherapy and Counselling, 12, 287-302.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Marit Råbu", "Karsten Hytten", "Hanne Haavind", "Per-Einar Binder"],
+        "abstract": ["The aim of this study was to understand how relational difficulties in\npsychotherapy may be handled to represent possibilities for change.\nTemporary interruptions and subsequent reestablishment of contact were\nchosen as the strategic focus in one severely challenging case of long term\npsychodynamic psychotherapy where outcome was known to be good...."]
+      },
+      {
+        "title": "Development through interruptions and reparations – A case study of a dual challenging psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Marit Råbu", "Karsten Hytten", "Hanne Haavind", "Per-Einar Binder"],
+        "abstract": ["The aim of this study was to understand how relational difficulties in psychotherapy may be handled to represent possibilities for change. Temporary interruptions and subsequent reestablishment of contact were chosen as the strategic focus in one severely challenging case of long term psychodynamic psychotherapy where outcome was known to be good...."]
+      },
+      {
+        "title": "Interruptions as ruptures in psychotherapy. SPR (Society for Psychotherapy Research). Conference in Barcelona",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Jun 2008",
+        "authors": ["Marit Råbu"],
+        "abstract": []
+      },
+      {
+        "title": "Råbu, M. (2008) ”Ikke sånn at jeg har følt at nå går jeg under, men” Når terapeuten plutseligblir borte – og kommer tilbake. Tidsskrift for Norsk Psykologforening, 2, 141-150",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2008",
+        "authors": ["Marit Råbu"],
+        "abstract": ["The aim of this article is to explore how an unplanned break in long-term psychotherapy affects the therapeutic alliance. The author examines transcriptions of sessions with three of her female patients in the first session after an unplanned interruption lasting eight weeks. By applying interpretive methods and a hermeneutically modified version o..."]
+      },
+      {
+        "title": "[Reporting on suicide and health hazards]",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Karsten Hytten", "Marit Råbu"],
+        "abstract": []
+      },
+      {
+        "title": "Råbu M & Hytten K (2005) Selvmord i mediene, Samtiden. Nettartikkel:www.samtiden.no/nettartikler/rabuhytten.htm",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2005",
+        "authors": ["Marit Råbu", "Hytten"],
+        "abstract": []
+      },
+      {
+        "title": "[Psychoanalysis beyond Freud].",
+        "tags": ["Article"],
+        "date": "Jan 1999",
+        "authors": ["Marit Råbu", "Karsten Hytten"],
+        "abstract": ["Since Sigmund Freud (1856-1939) formulated his first psychoanalytic theories about 100 years ago, there has been a rapid development in psychoanalytic theory and therapy. In this paper, central concepts in the four psychoanalytic \"psychologies\"--drive/ego psychology, object relations theory, self psychology and interpersonal psychoanalysis--are pre..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [49],
+    "reads": [16596],
+    "citations": [248]
   }
 }

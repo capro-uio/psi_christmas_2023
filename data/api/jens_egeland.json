@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-7322-9266",
-    "name": "Jens Egeland",
+    "orcid": ["0000-0002-7322-9266"],
+    "name": ["Jens Egeland"],
     "distinctions": [],
     "education": [
       {
@@ -56,11 +56,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jens Egeland",
-    "id": "7883",
+    "name": ["Jens Egeland"],
+    "id": ["7883"],
     "keywords": [],
     "position": ["Professor", "Professor", null],
-    "img": "https://api.cristin.no/v2/persons/7883/picture",
+    "img": ["https://api.cristin.no/v2/persons/7883/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -732,5 +732,719 @@
         "url": "https://api.cristin.no/v2/results/839479"
       }
     ]
+  },
+  "rg": {
+    "id": "Jens-Egeland",
+    "name": "Jens Egeland",
+    "img": "https://i1.rgstatic.net/ii/profile.image/314161626181633-1451913376498_Q128/Jens-Egeland.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cognitive Neuropsychology", "Learning", "Executive Function", "Memory", "Cognitive Neuroscience", "Neuroimaging", "Neuroscience", "Assessment", "Teaching and Learning", "Cognition Disorders"],
+    "works": [
+      {
+        "title": "Patterns of proactive interference in CVLT-II: evidence of a low-organized, disorganized, and highly organized learning style",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Jens Egeland", "Rune Raudeberg"],
+        "abstract": ["Objective: Previous studies have interpreted proactive interference (PI) either as indicating executive dysfunction or a normal process indicating deep level encoding. We investigated these competing models of PI in a large clinical sample using cluster analyses. We expected to find clusters defined by high PI but otherwise characterized by either..."]
+      },
+      {
+        "title": "Effects of auditory white noise stimulation on sustained attention and response time variability",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2023",
+        "authors": ["Jens Egeland", "Olaf Lund", "Iwona Kowalik-Gran", "Göran B. W. Söderlund"],
+        "abstract": ["Introduction\n“The moderate brain arousal model” claims that white noise improves attention by optimizing brain arousal. We analyze Conners’ Continuous Performance Test-3 (CCPT-3) performance, expecting to find reduced reaction time variability with noise mediated by decrease under long event-rates and in later parts of the test, indicating that noi..."]
+      },
+      {
+        "title": "The relationship between the brain-derived neurotrophic factor and neurocognitive response to physical exercise in individuals with schizophrenia",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Gry Bang-Kittilsen", "Jens Egeland", "Thor Ueland", "John Abel Engh"],
+        "abstract": ["Objective: \nPhysical exercise can improve neurocognition in individuals with schizophrenia, presumably by facilitating neuroplasticity. There is, however, large inter-individual variation in response. The brain-derived neurotrophic factor (BDNF) has been proposed to mediate these effects. The current aim was to investigate the sparsely studied rela..."]
+      },
+      {
+        "title": "Improving validity of the trail making test with alphabet support",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Therese Händel Waggestad", "Bjørn-Eivind Kirsebom", "Carsten Strobel", "Jens Egeland"],
+        "abstract": ["Objective\nThe Trail Making Test (TMT) is commonly used worldwide to evaluate cognitive decline and car driving ability. However, it has received critique for its dependence on the Latin alphabet and thus, the risk of misclassifying some participants. Alphabet support potentially increases test validity by avoiding misclassification of executive dys..."]
+      },
+      {
+        "title": "Er tallhukommelse i WISC-V et godt mål på vansker med arbeidshukommelse?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Jens Egeland", "Iwona Kowalik-Gran", "Anne Kristine Aarlien", "Olaf Lund"],
+        "abstract": ["Background: WISC-V is the first Wechsler intelligence test that measures both the visual working memory and the auditory working memory. Both tests contribute to a combined Working Memory Index, but much of the research suggests that sensory modality plays an important role. Children with impaired phonological capacity and resulting reading, writin..."]
+      },
+      {
+        "title": "Alterations in inflammatory markers after a 12-week exercise program in individuals with schizophrenia—a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Therese Torgersen Bigseth", "John Abel Engh", "Eivind Andersen", "Mats Fredriksen"],
+        "abstract": ["Background\nIn individuals with schizophrenia, inflammation is associated with depression, somatic comorbidity and reduced quality of life. Physical exercise is known to reduce inflammation in other populations, but we have only limited knowledge in the field of schizophrenia. We assessed inflammatory markers in plasma samples from individuals with..."]
+      },
+      {
+        "title": "Neuropsychological and Symptom Predictors of Diagnostic Persistence in ADHD: A 25-Year Follow-up Study",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Merete Glenne Øie", "Tor Amund Voll Storaas", "Jens Egeland"],
+        "abstract": ["Background\nThis study extends long-term predictive research on ADHD by including both neuropsychological and symptom measures at baseline in adolescence as predictors of diagnostic persistence 25 years later.\n\nMethods\nNineteen males with ADHD and 26 healthy controls (HC; M/F = 13/13), were assessed in adolescence and 25 years later. Measurements at..."]
+      },
+      {
+        "title": "Behandling av alkoholbrukslidelse: pasientfaktorers betydning for gjennomføring og utfall",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Kristoffer Høiland", "Jens Egeland"],
+        "abstract": ["Alcohol use disorder (AUD) is among the three most common mental disorders in Norway. In general, treatment is provided by interdisciplinary specialized substance use disorder clinics. However, a substantial portion of AUD patients do not receive effective treatments, and we need to develop more efficient treatments that are tailored to the patient..."]
+      },
+      {
+        "title": "The impact of comorbid spinal pain in depression on work participation and clinical remission following brief or short psychotherapy. Secondary analysis of a randomized controlled trial with two-year follow-up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Marjon Wormgoor", "Aage Indahl", "Jens Egeland"],
+        "abstract": ["Objectives\nThis explorative study analyses the influence of baseline comorbid long-lasting spinal pain (CSP) on improvement of long term work participation and clinical remission of mental health illness following either brief coping-focussed or short-term psychotherapy for depression. Whether type of treatment modifies outcome with or without CSP..."]
+      },
+      {
+        "title": "High-intensity interval training may reduce depressive symptoms in individuals with schizophrenia, putatively through improved VO2max: A randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Gry Bang-Kittilsen", "John Abel Engh", "René Holst", "Jens Egeland"],
+        "abstract": ["Introduction\nHigh-intensity interval training (HIIT) may improve cardiorespiratory fitness (CRF) and mental health. The current observer-blinded RCT investigates the sparsely studied efficiency of HIIT in reducing psychotic and non-psychotic symptoms in schizophrenia and complements previous studies by investigating whether symptom reduction follow..."]
+      },
+      {
+        "title": "Feasibility and Acceptability of a Complex Telerehabilitation Intervention for Pediatric Acquired Brain Injury: The Child in Context Intervention (CICI)",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Ingvil Laberg Holthe", "Nina Rohrer-Baumgartner", "Edel Jannecke Svendsen", "Marianne Løvstad"],
+        "abstract": ["The current study is a feasibility study of a randomized controlled trial (RCT): the Child in Context Intervention (CICI). The CICI study is an individualized, goal-oriented and home-based intervention conducted mainly through videoconference. It targets children with ongoing challenges (physical, cognitive, behavioral, social and/or psychological)..."]
+      },
+      {
+        "title": "Klinisk utprøving av WISC-V",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Jens Egeland", "Olaf Lund", "Tor Herman Andreassen"],
+        "abstract": ["Two-hundred and thirty-six WISC-V protocols from children assessed in the Child Psychiatric Clinic of Vestfold Hospital Trust took part in the study. We analyzed four issues known either to be specifically important or to be problematic in previous Wechsler adaptions. The first issue relates to whether the items on the translated verbal tests show..."]
+      },
+      {
+        "title": "Rehabilitation for children with chronic acquired brain injury in the Child in Context Intervention (CICI) study: study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Nina Rohrer-Baumgartner", "Ingvil Laberg Holthe", "Edel Jannecke Svendsen", "Marianne Løvstad"],
+        "abstract": ["Background\nPediatric acquired brain injury (pABI) is associated with long-term cognitive, behavioral, social, and emotional problems, which may affect the quality of life, school, and family functioning. Yet, there is a lack of evidence-based community-centered rehabilitation programs for chronic pABI and these children do not systematically receiv..."]
+      },
+      {
+        "title": "Factor structure of the new Scandinavian WISC‐V version: Support for a five‐factor model",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Jens Egeland", "Tor Andreassen", "Olaf Lund"],
+        "abstract": ["The fifth version of Wechsler Intelligence Scale for Children is designed to measure five distinct aspects of intelligence, incorporating a new fluid reasoning index to the four indexes of the previous fourth version. Several factor analyses, however, have failed to support the fifth factor. The Scandinavian version is the only national version not..."]
+      },
+      {
+        "title": "Exploring low grade inflammation by soluble urokinase plasminogen activator receptor levels in schizophrenia: a sex-dependent association with depressive symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Therese Torgersen Bigseth", "John Abel Engh", "Jens Egeland", "Mats Fredriksen"],
+        "abstract": ["Background\nThere is evidence of increased low grade inflammation (LGI) in schizophrenia patients. However, the inter-individual variation is large and the association with demographic, somatic and psychiatric factors remains unclear. Our aim was to explore whether levels of the novel LGI marker soluble urokinase plasminogen activator receptor (suPA..."]
+      },
+      {
+        "title": "Following H.N. over 21 years: recency change and reduced retention predict later impairment in memory, and recency ratio may combine both effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Jens Egeland"],
+        "abstract": ["The study follows an intellectually superior patient from initial subjective memory complaints to MCI and dementia over 21 years. Primary memory measures, process- and reliable change-measures from 12 assessments with the California Verbal Learning Test (CVLT) were analyzed as well as experimental measures of retrieval and Recency-Ratio (Rr) combin..."]
+      },
+      {
+        "title": "High-intensity interval training and active video gaming improve neurocognition in schizophrenia: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Gry Bang-Kittilsen", "Jens Egeland", "Tom L Holmen", "John Abel Engh"],
+        "abstract": ["There is a need for treatments targeting neurocognitive dysfunctions in schizophrenia. The aim of this study was to investigate the neurocognitive effect of aerobic high-intensity interval training (HIIT). A comparison group performed sport simulating active video gaming (AVG). We anticipated that HIIT would improve neurocognition beyond any effect..."]
+      },
+      {
+        "title": "Elevated levels of soluble urokinase plasminogen activator receptor as a low-grade inflammation marker in schizophrenia: A case-control study",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Therese Torgersen Bigseth", "Mats Fredriksen", "Jens Egeland", "John Abel Engh"],
+        "abstract": ["https://authors.elsevier.com/c/1cPCY3HQGmUCMS"]
+      },
+      {
+        "title": "Effect of high-intensity interval training on cardiorespiratory fitness, physical activity and body composition in people with schizophrenia: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Eivind Andersen", "Gry Bang-Kittilsen", "Therese Torgersen Bigseth", "John Abel Engh"],
+        "abstract": ["Background: \nExercise may improve cardiorespiratory fitness in people with schizophrenia, however, possible condition-specific cardiorespiratory disadvantages, a scarcity of methodologically sound studies, and conflicting results raise questions about the effect of exercise on maximal oxygen uptake (VO2max) in this group. The primary aim of this st..."]
+      },
+      {
+        "title": "Offering alphabet support in the Trail Making Test: Increasing validity for participants with insufficient automatization of the alphabet",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Jens Egeland", "Knut Follesø"],
+        "abstract": ["Insufficient automatization of the alphabet may falsely impair performance on the Trail Making Test among persons with dyslexia or persons not accustomed to the Latin alphabet. We analyze whether writing the alphabet on top of the test sheet changes performance in these risk groups, and whether alphabet support reduces the complexity of the set-shi..."]
+      },
+      {
+        "title": "O4.3. SHARED AND DIFFERENTIAL NEUROCOGNITIVE EFFECTS COMPARING HIGH-INTENSITY INTERVAL TRAINING AND ACTIVE VIDEO-GAMING IN SCHIZOPHRENIA – RESULTS FROM AN RCT",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Gry Bang-Kittilsen", "Jens Egeland", "Tom L Holmen", "John Abel Engh"],
+        "abstract": ["Background\nStudies on the efficiency and efficacy of aerobic exercise (AE) as a neurocognitive intervention in schizophrenia are promising, but there is a need for larger and well-designed randomized controlled trials (RCT) to draw more certain conclusions. The aim of this RCT was to study the effect of high-intensity interval training (HIIT), on n..."]
+      },
+      {
+        "title": "Effectiveness of Briefer Coping-Focused Psychotherapy for Common Mental Complaints on Work-Participation and Mental Health: A Pragmatic Randomized Trial with 2-Year Follow-Up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Marjon Wormgoor", "Aage Indahl", "E. Andersen", "Jens Egeland"],
+        "abstract": ["Purpose The aim of this study was to assess short and long-term effectiveness of brief coping-focused psychotherapy (Brief-PsT) compared with short-term psychotherapy (Short-PsT) on work-participation (WP) and mental health. Both treatments were preceded by group education. Methods All participants were on, or at risk of, sick leave due to common m..."]
+      },
+      {
+        "title": "The Association Between Cardiorespiratory Fitness and Cognition Appears Neither Related to Current Physical Activity Nor Mediated by Brain-Derived Neurotrophic Factor in a Sample of Outpatients With Schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Tom L Holmen", "Jens Egeland", "Eivind Andersen", "John Abel Engh"],
+        "abstract": ["Objective: We investigated whether levels of current physical activity (PA) contribute to the established relationship between cardiorespiratory fitness (CRF) and cognition in schizophrenia and whether brain-derived neurotrophic factor (BDNF) or its precursor proBDNF mediates this relationship. Method: Sixty-one outpatients with schizophrenia spect..."]
+      },
+      {
+        "title": "Response: Commentary: Emotion Perception in Members of Norwegian Mensa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Jens Egeland"],
+        "abstract": []
+      },
+      {
+        "title": "Måleegenskaper ved den norske versjonen av Wechsler Intelligence Scale for Children -Fifth Edition (WISC-V)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Håkan Brøndbo", "Jens Egeland"],
+        "abstract": ["English abstract Brøndbo, P. H. & Egeland, J. (2019). Psychometric properties of the Norweigan version of Wechsler Intelligence Scale for Children – Fifth Edition (WISC-V). PsykTestBarn, 1:5. doi: 10.21337/0064. Wechlser Intelligence Scale for Children – Fifth Edition (WISC-V) was published in the USA in 2014, and a Norwegian version was published..."]
+      },
+      {
+        "title": "Relationships between depressive symptoms and panic disorder symptoms during guided internet-delivered cognitive behavior therapy for panic disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Eirik Paulsen Walderhaug", "Rolf Gjestad", "Jens Egeland", "T. Nordgreen"],
+        "abstract": ["Aims: The current study explore the relationship between the trajectories of primary panic disorder symptoms and secondary depressive symptoms during guided internet-delivered cognitive behaviour therapy for panic disorder.\nMaterials and methods: The patients (N=143) were recruited from an ongoing effectiveness study in secondary mental health outp..."]
+      },
+      {
+        "title": "Objectively Assessed Daily Steps—Not Light Intensity Physical Activity, Moderate-to-Vigorous Physical Activity and Sedentary Time—Is Associated With Cardiorespiratory Fitness in Patients With Schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["John Abel Engh", "Jens Egeland", "Ole A Andreasssen", "Eivind Andersen"],
+        "abstract": ["People with schizophrenia often have an unhealthy sedentary lifestyle with low level of physical activity and poor cardiorespiratory fitness—an important predictor of cardiovascular disease. We investigated the relations between cardiorespiratory fitness and both sedentary time and different aspects of physical activity, such as daily steps, light..."]
+      },
+      {
+        "title": "Individual Variability in Reaction Time and Prediction of Clinical Response to Methylphenidate in Adult ADHD: A Prospective Open Label Study Using Conners’ Continuous Performance Test II",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Mats Fredriksen", "Jens Egeland", "Jan Haavik", "Ole Bernt Fasmer"],
+        "abstract": ["Objective: The aim of this study was to examine whether reaction time parameters in adult patients with ADHD could predict their response to methylphenidate (MPH). Method: Previously unmedicated patients (N = 123) were administered the Conners’ Continuous Performance Test II (CPT II) at baseline and after 6 weeks of treatment with immediate-release..."]
+      },
+      {
+        "title": "Emotion Perception in Members of Norwegian Mensa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Jens Egeland"],
+        "abstract": ["Are people with superior intelligence also superior in interpreting the emotions of others? Some studies find that an underlying g-factor links all mental processes leading to an expectation of a positive answer to the question, while other studies find that there is a cost to giftedness. No previous study have tested social cognition among highly..."]
+      },
+      {
+        "title": "Body language reading of emotion and outcome in schizophrenia",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Jens Egeland", "Tom L Holmen", "Gry Bang-Kittilsen", "John Abel Engh"],
+        "abstract": ["Introduction: Although considered a promising design for testing social cognition, it is not clear to what extent the EmoBio test of emotion recognition actually predicts community functioning. It is also not clear whether the test measures something unique or different from nonsocial cognition. The present study tests whether EmoBio accounts for G..."]
+      },
+      {
+        "title": "Cardio-respiratory fitness is associated with a verbal factor across cognitive domains in schizophrenia",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Tom L Holmen", "John Abel Engh", "Eivind Andersen", "Jens Egeland"],
+        "abstract": ["Objective: \nWe investigated whether the relationship between cardio-respiratory fitness (CRF) and cognition in schizophrenia is general, or due to selective relationships between CRF and specific aspects of cognitive function.\n\nMethod: \nEighty outpatients with schizophrenia spectrum disorders participated. Neurocognition was assessed with the Wechs..."]
+      },
+      {
+        "title": "Updated developmental norms for fine motor functions as measured by finger tapping speed and the Grooved Pegboard Test",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Annette Holth Skogan", "Beate Oerbeck", "Cathrine Christiansen", "Jens Egeland"],
+        "abstract": []
+      },
+      {
+        "title": "Assessment of dynamic change in psychotherapy with adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Elisabeth Ness", "Hanne-Sofie Johnsen Dahl", "Peter Tallberg", "Randi Ulberg"],
+        "abstract": ["Background\nDiagnostic interviews and questionnaires are commonly used in the assessment of adolescents referred to child and adolescent mental health services. Many of these rating scales are constructed for adults and focus on symptoms related to diagnosis. Psychodynamic Functioning Scales (PFS) focus on relational aspects and how the patients han..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jul 2018",
+        "authors": ["Elisabeth Ness", "Hanne-Sofie Johnsen Dahl", "Peter Tallberg", "Randi Ulberg"],
+        "abstract": []
+      },
+      {
+        "title": "TMT-NR3 AoH Oppgaveark 2018 Trail Making Test with alphabet support A-L, Norwegian Revision 3",
+        "tags": ["Method", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Carsten Strobel", "Hans Johansen", "Olav Aga", "Anne-Kristine Schanke"],
+        "abstract": ["Trail Making Test with alphabet support A-L, Norwegian Revision 3"]
+      },
+      {
+        "title": "MANUAL NORSK REVIDERT TRAIL MAKING TEST (TMT-NR3)",
+        "tags": ["Method", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Carsten Strobel", "Hans Johansen", "Olav Aga", "Anne-Kristine Schanke"],
+        "abstract": ["Bakgrunnsinformasjon TMT fins i flere versjoner med ulike administrasjonsprosedyrer [1, 2, 3] og normsett. Hvor raskt og hvordan testleder (TL) påpeker feil og gir tilbakemeldinger til pasient (PAS) påvirker tidsbruk og dermed skåring av TMT [2]. I Norsk revidert versjon (TMT-NR3) som bygger på Strauss mfl. [3], er instruksjon og prosedyrer ved fei..."]
+      },
+      {
+        "title": "Physical activity pattern and cardiorespiratory fitness in individuals with schizophrenia compared with a population-based sample",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Eivind Andersen", "Tom L Holmen", "Jens Egeland", "John Abel Engh"],
+        "abstract": ["Objective: \nThorough description of objectively assessed physical activity (PA) and sedentary time in people with schizophrenia is lacking, and previous studies comparing PA and cardiorespiratory fitness levels with healthy controls are limited by their small sample size and/or poor methodology.\n\nMethod: \nPA, sedentary behavior, and cardiorespirato..."]
+      },
+      {
+        "title": "Category fluency in schizophrenia: opposing effects of negative and positive symptoms?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Jens Egeland", "Tom L Holmen", "Gry Bang-Kittilsen", "John Abel Engh"],
+        "abstract": ["Introduction: Category fluency is associated with speed-, executive- and semantic impairments in schizphrenia. It has traditionally been linked to negative symptoms, whereas the relation to positive symptoms is mixed. Associations to the consensus negative, positive and disorganisation factors have not been analysed before.\nMethods: Animal fluency..."]
+      },
+      {
+        "title": "The association between cardio-respiratory fitness and cognition in schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Tom L Holmen", "Jens Egeland", "Eivind Andersen", "John Abel Engh"],
+        "abstract": ["Objective\nSchizophrenia is associated with reduced cardio-respiratory fitness (CRF), and impaired cognition is a core feature of the disorder. Despite their particular significance to schizophrenia disparately, the relationship between these two variables has not yet been thoroughly assessed. In this study we aimed to investigate naturally occurrin..."]
+      },
+      {
+        "title": "Interventions for Subjects with Depressive Symptoms with or without Unhealthy Alcohol Use: Are There Different Patterns of Change?",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Cecilie Skule", "Pål Ulleberg", "Torkil Berge", "Nils Inge Landrø"],
+        "abstract": ["Background: It has been suggested that alcohol problems negatively affect therapeutic interventions for depression. This study examines the patterns of change in depressive symptoms following an intervention for depression, in participants with or without comorbid unhealthy alcohol use.\nMethods: Depressive symptoms (BDI–II), perceived control of de..."]
+      },
+      {
+        "title": "Metabolic health in patients with schizophrenia – CVD risk in a Norwegian outpatient population",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2017",
+        "authors": ["John Abel Engh", "Eivind Andersen", "Egil W Martinsen", "Gry Bang-Kittilsen"],
+        "abstract": ["The mortality of schizophrenia patients is approximately twice that of the general population and there is a 20% reduction in life expectancy in this patient group. Cardiovascular disease (CVD) is responsible for as much as 50% of the excess mortality associated with schizophrenia. One important source of the high CVD prevalence is the cluster of m..."]
+      },
+      {
+        "title": "Education, training, and practice among nordic neuropsychologists. Results from a professional practices survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Anne Norup", "Jens Egeland", "Marianne Løvstad", "Juan Carlos Arango-Lasprilla"],
+        "abstract": ["Objective: \nTo investigate sociodemographic characteristics, clinical and academic training, work setting and salary, clinical activities, and salary and job satisfaction among practicing neuropsychologists in four Nordic countries.\n\nMethods: \n890 neuropsychologists from Denmark, Finland, Norway, and Sweden participated in an internet-based survey..."]
+      },
+      {
+        "title": "Avoidant personality disorder and social phobia. A study of personality functioning and psychoptahology, childhood experiences, and adult attachment.",
+        "tags": ["Poster"],
+        "date": "Mar 2017",
+        "authors": ["Ingeborg Eikenaes", "Jens Egeland", "Theresa Wilberg"],
+        "abstract": ["Background Avoidant Personality Disorder (AvPD) and Social Phobia (SP) are common , closely related disorders, both in the community and in clinical settings. Despite its prevalence, severity, and risk of longstanding problems, AvPD has been sparsely studied. Whether AvPD and SP represent different levels of severity of social anxiety disorder is d..."]
+      },
+      {
+        "title": "Avoidant personality disorder and social phobia. A study of personality functioning and psychopathology, childhood experiences, and adult attachment.",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Ingeborg Eikenaes", "Jens Egeland", "Benjamin Hummelen", "Theresa Wilberg"],
+        "abstract": ["Background Avoidant Personality Disorder (AvPD) and Social Phobia (SP) are common , closely related disorders, both in the community and in clinical settings. Despite its prevalence, severity, and risk of longstanding problems, AvPD has been sparsely studied. Whether AvPD and SP represent different levels of severity of social anxiety disorder is d..."]
+      },
+      {
+        "title": "Questionnaire Use Among Nordic Neuropsychologists: Shift From Assessing Personality to Checking Ecological Validity of Neuropsychological Assessments?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2017",
+        "authors": ["Jens Egeland", "Marianne Løvstad", "Anne Norup", "Juan Carlos Arango-Lasprilla"],
+        "abstract": ["The core method of neuropsychologists has been to collect structured samples of behavior through standardized tests. Information that cannot be elicited through tests may be gathered by questionnaires asking questions about behavior. Tests may deconstruct cognitive function precisely, but lack the ecological validity of questionnaires. Thus, many n..."]
+      },
+      {
+        "title": "Following international trends while subject to past traditions: neuropsychological test use in the Nordic countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Jens Egeland", "Marianne Løvstad", "Anne Norup", "Juan Carlos Arango-Lasprilla"],
+        "abstract": ["Objective: Historically, the neuropsychological test traditions\nof the four Nordic countries have spanned from the flexible and\nqualitative tradition of Luria-Christensen to the quantitative\nlarge battery approach of Halstead and Kløve–Matthews. This\nstudy reports current test use and discusses whether these\ntraditions still influence attitudes tow..."]
+      },
+      {
+        "title": "Testing Practices and Attitudes Toward Tests and Testing: An International Survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Arne Evers", "Carina M. McCormick", "Leslie R. Hawley", "Jianxin Zhang"],
+        "abstract": ["On behalf of the International Test Commission and the European Federation of Psychologists' Associations a world-wide survey on the opinions of professional psychologists on testing practices was carried out. The main objective of this study was to collect data for a better understanding of the state of psychological testing worldwide. These data..."]
+      },
+      {
+        "title": "Levels of alcohol use and depression severity as predictors of missed therapy sessions in cognitive behavioural psycho-educational group treatment for depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Cecilie Skule", "Torkil Berge", "Espen Moen Eilertsen", "Nils Inge Landrø"],
+        "abstract": ["In this study, we investigate levels of depression and levels of alcohol use as predictors of unstable attendance in a therapeutic intervention. A sample of 154 patients scoring a mean of 26 on BDI-II attended a cognitive behavioural psycho-educational group treatment – ‘Coping and relapse prevention of depression’. We investigated the influence of..."]
+      },
+      {
+        "title": "Eksekutiv funksjon i tidlig førskolealder- funn fra den norske ADHD-studien",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Annette Holth Skogan", "Kristin Romvig Overgaard", "Nina Rohrer-Baumgartner", "Jens Egeland"],
+        "abstract": ["Aim: The main aim of the research presented in this article was to contribute to our understanding of executive function (EF) in early preschool years, and of possible associations between deficits in EF and the development of commonly occurring disorders such as Attention-Deficit/Hyperactivity Disorder (ADHD) and Oppositional-Defiant Disorder (ODD..."]
+      },
+      {
+        "title": "Personality Disorder and Changes in Affect Consciousness: A 3-Year Follow-Up Study of Patients with Avoidant and Borderline Personality Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Eivind Normann-Eide", "Merete Selsbakk Johansen", "Tone Normann-Eide", "Theresa Wilberg"],
+        "abstract": ["Personality disorders (PDs) are highly prevalent in patients receiving psychiatric services, and are associated with significant personal and social costs. Over the past two decades, an increasing number of treatment studies have documented the effectiveness of treatment for patients with PDs, especially when it comes to reduction of symptom distre..."]
+      },
+      {
+        "title": "TrialsEphaps2015",
+        "tags": ["Data", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["John Abel Engh", "Eivind Andersen", "Tom L Holmen", "Jens Egeland"],
+        "abstract": []
+      },
+      {
+        "title": "Effects of high-intensity aerobic exercise on psychotic symptoms and neurocognition in outpatients with schizophrenia: Study protocol for a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["John Abel Engh", "Eivind Andersen", "Tom L Holmen", "Jens Egeland"],
+        "abstract": ["Background\nThe focus in recent years on physical inactivity and metabolic disturbances in individuals with schizophrenia raises the question of potential effects of physical activity. Physical activity has shown beneficial effects on cognition in healthy older individuals as well as on symptom severity in depression. However, opinions diverge regar..."]
+      },
+      {
+        "title": "Correction: Avoidant Personality Disorder versus Social Phobia: The Significance of Childhood Neglect. PLoS ONE 10(5): e0128737.",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Ingeborg Eikenaes", "Jens Egeland", "Benjamin Hummelen", "Theresa Wilberg"],
+        "abstract": ["http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122846"]
+      },
+      {
+        "title": "Measuring Working Memory With Digit Span and the Letter-Number Sequencing Subtests From the WAIS-IV: Too Low Manipulation Load and Risk for Underestimating Modality Effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Jens Egeland"],
+        "abstract": ["The Wechsler Adult Intelligence Scale (WAIS) is one of the most frequently used tests among psychologists. In the fourth edition of the test (WAIS-IV), the subtests Digit Span and Letter-Number Sequencing are expanded for better measurement of working memory (WM). However, it is not clear whether the new extended tasks contribute sufficient complex..."]
+      },
+      {
+        "title": "Parent ratings of executive function in young preschool children with symptoms of attention-deficit/-hyperactivity disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Annette Holth Skogan", "Pal Zeiner", "Jens Egeland", "Heidi Aase"],
+        "abstract": ["Background\nRecent research has demonstrated that deficits in basic, self-regulatory processes, or executive function (EF), may be related to symptoms of attention-deficit/hyperactivity disorder (ADHD) already during the preschool period. As the majority of studies investigating these relations in young children have been based primarily on clinical..."]
+      },
+      {
+        "title": "Avoidant Personality Disorder versus Social Phobia: The Significance of Childhood Neglect",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Ingeborg Eikenaes", "Jens Egeland", "Benjamin Hummelen", "Theresa Wilberg"],
+        "abstract": ["Avoidant personality disorder (AvPD) and social phobia (SP) are common disorders both in the community and in clinical settings. Whether the two disorders represent different severity levels of social anxiety disorder is currently in dispute. The relationship between AvPD and SP is probably more complex than previously assumed. Several environmenta..."]
+      },
+      {
+        "title": "Associations Among Symptoms of Autism, Symptoms of Depression and Executive Functions in Children with High-Functioning Autism: A 2 Year Follow-Up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Per Normann Andersen", "Erik Winther Skogli", "Kjell Tore Hovik", "Merete Glenne Øie"],
+        "abstract": ["This study investigated the course of and association among changes in autism symptoms, depression symptoms and executive functions (EF) in children with high-functioning autism (HFA). Thirty-four children with HFA and 45 typically developing children (age 9-16) were assessed at baseline and after 2 years. Children with HFA had impaired scores on a..."]
+      },
+      {
+        "title": "Factor structure of the Behavior Rating Inventory of Executive Functions (BRIEF-P) at age three years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Annette Holth Skogan", "Jens Egeland", "Pal Zeiner", "Heidi Aase"],
+        "abstract": ["The preschool period is an important developmental period for the emergence of cognitive self-regulatory skills or executive functions (EF). To date, evidence regarding the structure of EF in preschool children has supported both unitary and multicomponent models. The aim of the present study was to test the factor structure of early EF as measured..."]
+      },
+      {
+        "title": "Klinisk utprøving av WAIS-IV: Leddanalyser, stopp-kriterier og arbeidsminnemåling (Clinical validation of WAIS-IV. Item Analysis, Stop Criteria and Measurement of Working Memory).",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Jens Egeland"],
+        "abstract": ["Tests can display different psychometric properties in clinical samples compared to the normal standardization sample. However, it is particularly important that the test measures reliably and valid in the clinic. The present study examines Three psychometric issues relating to the new Scandinavian version of the Wechsler\nAdult Intelligence Scale,..."]
+      },
+      {
+        "title": "Udal Eksekutiv 2013",
+        "tags": ["Data", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Bjørg Oygarden", "Are Hugo Pripp", "Jens Egeland", "Hans Lövdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Types or Modes of Malingering? A Confirmatory Factor Analysis of Performance and Symptom Validity Tests",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Jens Egeland", "Stein Andersson", "Øyvind Sundseth", "Anne-Kristine Schanke"],
+        "abstract": ["Recently, the dichotomy between performance validity tests (PVT) and symptom validity tests (SVT) has been suggested to differentiate between invalid performance and invalid self-report, respectively. PVTs are typically used to identify malingered cognitive impairment, while SVTs identify malingered psychological or somatic symptoms. It is assumed..."]
+      },
+      {
+        "title": "Distinct Patterns of Everyday Executive Function Problems Distinguish Children With Tourette Syndrome From Children With ADHD or Autism Spectrum Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["Kjell Tore Hovik", "Jens Egeland", "Peter K Isquith", "Merete Glenne Øie"],
+        "abstract": ["Objective: \nThe aim is to investigate the everyday executive function (EF) in children with Tourette syndrome (TS), Inattentive or Combined presentations of ADHD (ADHD-I/ADHD-C), autism spectrum disorders (ASD), and typically developing children (TDC).\n\nMethod: \nNineteen TS, 33 ADHD-C, 43 ADHD-I, 34 ASD, and 50 TDC participated (8-17 years). Parent..."]
+      },
+      {
+        "title": "Usefulness of an ability-based health model in work ability assessments provided by psychiatrists and psychology specialists writing social security certificates",
+        "tags": ["Article"],
+        "date": "Jul 2014",
+        "authors": ["Hans Magnus Solli", "Antonio Barbosa da Silva", "Jens Egeland"],
+        "abstract": ["Purpose: \nTo investigate whether adding descriptions of the health factors \"ability,\" \"environment\" and \"intentions/goals\" to the officially sanctioned biomedical disability model (BDM) would improve assessments of work ability for social security purposes.\n\nMethod: \nThe study was based on a theoretical design consisting of textual analysis and int..."]
+      },
+      {
+        "title": "Differentiating Between Comorbidity and Symptom Overlap in ADHD and Early Onset Bipolar Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Anne H Udal", "Jens Egeland", "Bjørg Oygarden", "Berit Groholt"],
+        "abstract": ["Reported rates of comorbidity between early onset bipolar disorder (BD) and attention deficit hyperactivity disorder (ADHD) have a wide range, perhaps due to developmental issues and differences in interpretation of overlapping symptoms. We compared questionnaire-based and neuropsychological measures of inattention and impulsivity/hyperactivity, in..."]
+      },
+      {
+        "title": "Does IQ influence Associations between ADHD Symptoms and other Cognitive Functions in young Preschoolers?",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Nina Rohrer-Baumgartner", "Pal Zeiner", "Jens Egeland", "Heidi Aase"],
+        "abstract": ["Background\nWorking memory, inhibition, and expressive language are often impaired in ADHD and many children with ADHD have lower IQ-scores than typically developing children. The aim of this study was to test whether IQ-score influences associations between ADHD symptoms and verbal and nonverbal working memory, inhibition, and expressive language,..."]
+      },
+      {
+        "title": "Alcohol Use is Not Directly Related to the Perceived Control of Depressive Symptoms in Patients with Depressive Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Cecilie Skule", "Hilde Dallavara Lending", "Pål Ulleberg", "Nils Inge Landrø"],
+        "abstract": ["Treatment-seeking patients (N = 233) were recruited as they started a course of relapse prevention and coping with depression. The mean Beck depression inventory (BDI-II) score was 26 points, indicating a moderate degree of depression. The sample was recruited from different outpatient clinics and screened for alcohol-related problems with the alco..."]
+      },
+      {
+        "title": "Working memory arrest in children with high-functioning autism compared to children with attention-deficit/hyperactivity disorder: Results from a 2-year longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Per Normann Andersen", "Erik Winther Skogli", "Kjell Tore Hovik", "Merete Glenne Øie"],
+        "abstract": ["The aim of this study was to analyse the development of verbal working memory in children with high-functioning autism compared to children with attention-deficit/hyperactivity disorder and typically developing children. A total of 34 children with high-functioning autism, 72 children with attention-deficit/hyperactivity disorder and 45 typically d..."]
+      },
+      {
+        "title": "Depressive Symptoms in People with and without Alcohol Abuse: Factor Structure and Measurement Invariance of the Beck Depression Inventory (BDI-II) Across Groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Cecilie Skule", "Pål Ulleberg", "Hilde Dallavara Lending", "Nils Inge Landrø"],
+        "abstract": ["This study explored differences in the factor structure of depressive symptoms in patients with and without alcohol abuse, and differences in the severity of depressive symptoms between the two groups. In a sample of 358 patients without alcohol problems and 167 patients with comorbid alcohol problems, confirmatory factor analysis revealed that the..."]
+      },
+      {
+        "title": "RCT of working memory training in ADHD: long-term near-transfer effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2013",
+        "authors": ["Kjell Tore Hovik", "Brit Kari Saunes", "Anne Kristine Aarlien", "Jens Egeland"],
+        "abstract": ["The aim of the study is to evaluate the long-term near-transfer effects of computerized working memory (WM) training on standard WM tasks in children with Attention-Deficit/Hyperactivity Disorder (ADHD).\nSixty-seven children aged 10-12 years in Vestfold/Telemark counties (Norway) diagnosed with F90.0 Hyperkinetic disorder (ICD-10) were randomly ass..."]
+      },
+      {
+        "title": "Few Effects of Far Transfer of Working Memory Training in ADHD: A Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Jens Egeland", "Anne Kristine Aarlien", "Brit Kari Saunes"],
+        "abstract": ["Studies have shown that children with ADHD profit from working memory training, although few studies have investigated transfer effects comprehensively. The current Randomized Controlled Trial analyzes transfer to other neuropsychological (NP) domains, academic performance and everyday functioning at home and school.\nSixty-seven children with ADHD..."]
+      },
+      {
+        "title": "Inhibition and working memory in young preschool children with symptoms of ADHD and/or oppositional-defiant disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Annette Holth Skogan", "Pal Zeiner", "Jens Egeland", "Heidi Aase"],
+        "abstract": ["Background: \nEarly symptoms of attention deficit/hyperactivity disorder (ADHD) and oppositional-defiant disorder (ODD) are associated with deficits in cognitive self-regulatory processes or executive functions (EF)s. However, the hypothesis that neurocognitive deficits underlying the two disorders are already evident during early preschool years st..."]
+      },
+      {
+        "title": "Language Delay in 3-Year-Old Children With ADHD Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2013",
+        "authors": ["Nina Rohrer-Baumgartner", "Pal Zeiner", "Patricia Eadie", "Heidi Aase"],
+        "abstract": ["Objective: \nLittle is known about cognition in preschoolers with ADHD and language delay (LD). The objective was to investigate cognitive functions in preschoolers with ADHD symptoms and LD compared with children with ADHD symptoms only and to estimate the frequency of children with ADHD symptoms, co-occurring language delay, and delays on cognitiv..."]
+      },
+      {
+        "title": "Symptoms of ADHD in Children with High-Functioning Autism Are Related to Impaired Verbal Working Memory and Verbal Delayed Recall",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Per Normann Andersen", "Kjell Tore Hovik", "Erik Winther Skogli", "Merete Glenne Øie"],
+        "abstract": ["Symptoms similar to those found in Attention-Deficit/Hyperactivity Disorder (ADHD) often occur in children with Autism Spectrum Disorders (ASD). The objective of the current study was to compare verbal working memory, acquisition and delayed recall in children with High-Functioning Autism (HFA) to children with ADHD and typically developing childre..."]
+      },
+      {
+        "title": "The need for a holistic view of the person and of a new medical model in WHO’s International Classification of Functioning, Disability and Health (ICF)",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2013",
+        "authors": ["Hans Magnus Solli", "Antonio Barbosa da Silva", "Jens Egeland"],
+        "abstract": ["Abstract\n“The medical model views disability as a problem of the person, directly caused by disease, trauma,…, which requires medical care provided in the form of individual treatment by professionals” (ICF manual p. 20). In our critique of the biomedical model (BHM) we propose a supplement of it as follows:\nICF is a model of human functioning and..."]
+      },
+      {
+        "title": "Few differences in hot and cold executive functions in children and adolescents with combined and inattentive subtypes of ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Erik Winther Skogli", "Jens Egeland", "Per Normann Andersen", "Merete Glenne Øie"],
+        "abstract": ["The aim of the study was to compare executive processes with pronounced (hot) and less pronounced (cold) emotional salience in medication naïve children and adolescents with ADHD-combined (ADHD-C) and ADHD-inattentive (ADHD-I) subtypes. Thirty-six subjects with ADHD-C, 44 with ADHD-I, and 50 healthy controls between 8 and 17 years were assessed wit..."]
+      },
+      {
+        "title": "Affective Disorders among Patients with Borderline Personality Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Hege Nordem Sjåstad", "Rolf Wilhelm Gråwe", "Jens Egeland"],
+        "abstract": ["The high co-occurrence between borderline personality disorder and affective disorders has led many to believe that borderline personality disorder should be considered as part of an affective spectrum. The aim of the present study was to examine whether the prevalence of affective disorders are higher for patients with borderline personality disor..."]
+      },
+      {
+        "title": "Is low affect consciousness related to the severity of psychopathology? A cross-sectional study of patients with avoidant and borderline personality disorder",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Eivind Normann-Eide", "Merete Selsbakk Johansen", "Tone Normann-Eide", "Theresa Wilberg"],
+        "abstract": ["OBJECTIVE: \nThis study examined the relationships between affect consciousness (AC) and symptom distress, interpersonal problems, low self-esteem, and the number of PD traits in patients with avoidant personality disorder (APD) and borderline personality disorder (BPD).\nMETHOD: \nWithin the setting of a treatment trial, 52 patients with APD or BPD w..."]
+      },
+      {
+        "title": "Executive deficits in early onset bipolar disorder versus ADHD: Impact of processing speed and lifetime psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2012",
+        "authors": ["Anne H Udal", "Bjørg Oygarden", "Jens Egeland", "Berit Groholt"],
+        "abstract": ["Unlabelled: \nExecutive deficits are reported in both early onset bipolar disorder (BD) and attention-deficit hyperactivity disorder (ADHD), and controversies regarding comorbidity and symptom overlap have complicated the research on executive function in BD. Reports of the negative impact of executive difficulties on academic functioning indicate a..."]
+      },
+      {
+        "title": "Memory in Early Onset Bipolar Disorder and Attention-Deficit/Hyperactivity Disorder: Similarities and Differences",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2012",
+        "authors": ["Anne H Udal", "Bjørg Oygarden", "Jens Egeland", "Berit Groholt"],
+        "abstract": ["Differentiating between early-onset bipolar disorder (BD) and attention-deficit/hyperactivity disorder (ADHD) can be difficult. Memory problems are commonly reported in BD, and forgetfulness is among the diagnostic criteria for ADHD. We compared children and adolescents with BD (n = 23), ADHD combined type (ADHD-C; n = 26), BD + ADHD-C (n = 15), an..."]
+      },
+      {
+        "title": "Learning and Memory Impairments in Children and Adolescents With Attention-Deficit/Hyperactivity Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Per Normann Andersen", "Jens Egeland", "Merete Glenne Øie"],
+        "abstract": ["There are relatively few studies on learning and delayed memory with attention-deficit/hyperactivity disorder (ADHD). The objective of the present study was to examine acquisition, free delayed memory, and recognition skills in medication naive children and adolescents aged 8-16 years with ADHD combined subtype (36 participants) and inattentive sub..."]
+      },
+      {
+        "title": "Cutting Corners: Neuropsychological Research into the Energetics of ADHD",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Feb 2012",
+        "authors": ["Jens Egeland"],
+        "abstract": []
+      },
+      {
+        "title": "An overview of tests used by Norwegian psychologists",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Jens Egeland"],
+        "abstract": ["An overview of tests used by Norwegian psychologists \nAn internet survey among members of the Norwegian Psychological Association (n =6246, response rate = 15%) undertaken in 2009 showed that intelligence tests and depression instruments are used the most. Test use among Norwegian psychologists is characterized by innovation with a tendency to init..."]
+      },
+      {
+        "title": "Testbruksundersøkelsen: En oversikt over tester brukt av norske psykologer [An overview of tests used by Norwegian psychologists]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Anja Vaskinn", "Jens Egeland"],
+        "abstract": []
+      },
+      {
+        "title": "Testing Practices in the 21st Century. Developments and European Psychologits' Opinions.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Arne Evers", "José Muñiz", "Dave Bartram", "Tomáš Urbánek"],
+        "abstract": ["The main goal of the European Federation of Psychologists' Associations (EFPA) Standing Committee on Tests and Testing (SCTT) is the improvement of testing practices in European countries. In order to reach this goal, the SCTT carries out various actions and projects, some of which are described in this paper. To better inform its work, it decided..."]
+      },
+      {
+        "title": "Central Processing Energetic Factors Mediate Impaired Motor Control in ADHD Combined Subtype But Not in ADHD Inattentive Subtype",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Jens Egeland", "Torill Ueland", "Susanne Johansen"],
+        "abstract": ["Participants with attention-deficit/hyperactivity disorder (ADHD) are often impaired in visuomotor tasks. However, little is known about the contribution of modal impairment in motor function relative to central processing deficits or whether different processes underlie the impairment in ADHD combined (ADHD-C) versus ADHD inattentive (ADHD-I) subt..."]
+      },
+      {
+        "title": "Psychometric properties of the Norwegian version of BRIEF – for children from 5 to 18 years old",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Øyvind Fallmyr", "Jens Egeland"],
+        "abstract": ["This study assesses the psychometric\nproperties of the Norwegian version of the\nBehaviour Rating Inventory of Executive\nfunction (BRIEF) for children from 5 to18\nyears old. A total of 158 BRIEF protocols\nfrom a community-based sample and two\nmixed clinical samples were analyzed to\nascertain reliability and validity of the test.\nThe authors found th..."]
+      },
+      {
+        "title": "Do Low-Effort Learning Strategies Mediate Impaired Memory in ADHD?",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2010",
+        "authors": ["Jens Egeland", "Susanne Nordby Johansen", "Torill Ueland"],
+        "abstract": ["As a group, participants with attention-deficit/hyperactivity disorder (ADHD) are impaired in academic performance and learning. This may be due to a mild intellectual impairment, impaired attention, or inability to allocate sufficient effort. If the latter is the case, this should be evident in the learning strategies applied. Four indices of lear..."]
+      },
+      {
+        "title": "Frequency of Attention Deficit in First-Episode Schizophrenia Compared to ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Jens Egeland"],
+        "abstract": ["Unlabelled: \nAttention deficit in schizophrenia may be underestimated due to limited sensitivity of attention tests. Comparing the frequency of attention deficits in schizophrenia to attention deficit hyperactivity disorder (ADHD) may solve this problem, since all subjects with ADHD should demonstrate impaired attention. Twenty-seven subjects with..."]
+      },
+      {
+        "title": "Confirmatory Factor Analysis of the Behavior Rating Inventory of Executive Function (BRIEF): Support for a distinction between Emotional and Behavioral Regulation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2010",
+        "authors": ["Jens Egeland", "Øyvind Fallmyr"],
+        "abstract": ["Previous research has supported a three-factor division of the Behavior Rating Inventory of Executive Function (BRIEF) when dividing the parent form in 9 instead of 8 subscales. The present study investigated different factor models in the 8- and 9-scale division in both the parent and teacher form of the Norwegian BRIEF version. Confirmatory Facto..."]
+      },
+      {
+        "title": "Norske psykologers bruk av tester",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2010",
+        "authors": ["Anja Vaskinn", "Jens Egeland", "G. H. Nielsen", "Andreas Høstmælingen"],
+        "abstract": []
+      },
+      {
+        "title": "Validity of the Factor Structure of Conners' CPT",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2009",
+        "authors": ["Jens Egeland", "Iwona Kovalik-Gran"],
+        "abstract": ["A previous factor analysis of the Conners' Continuous Performance Test (CCPT) indicates that the test measures 5 sub-functions of attention, namely focused attention, hyperactivity/impulsivity, sustained attention, vigilance, and change in control. The present study further analyzes the results from Egeland & Kowalik-Gran to test the construct- and..."]
+      },
+      {
+        "title": "Differentiating between ADHD sub-types on CCPT measures of sustained attention and vigilance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2009",
+        "authors": ["Jens Egeland", "Susanne Nordby Johansen", "Torill Ueland"],
+        "abstract": ["The aim of the study was to test whether sustained attention and vigilance, often considered as the same phenomenon, dissociate on the Conners' Continuous Performance Test, and whether subjects with ADHD-Inattentive type and ADHD-Combined type differ with regard to these measures. Sixty-five healthy controls and 67 subjects with ADHD between 9 and..."]
+      },
+      {
+        "title": "Factor Structure of the Norwegian Version of the WAIS-III in a Clinical Sample The Arithmetic Problem",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2008",
+        "authors": ["Jens Egeland", "Ole Bosnes", "Hans Johansen"],
+        "abstract": ["Confirmatory Factor Analyses (CFA) of the Wechsler Adult Intelligence Scale-III (WAIS-III) lend partial support to the four-factor model proposed in the test manual. However, the Arithmetic subtest has been especially difficult to allocate to one factor. Using the new Norwegian WAIS-III version, we tested factor models differing in the number of fa..."]
+      },
+      {
+        "title": "Measuring Several Aspects of Attention in One Test",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2008",
+        "authors": ["Jens Egeland", "Iwona Kovalik-Gran"],
+        "abstract": ["Continuous performance tests are known to typically measure sustained attention but usually also yield parameters that potentially measure other subprocesses of attention. The aim of the present study was to test the factor structure of the Conners's Continuous Performance Test (CCPT) in a heterogeneous clinical sample consisting of subjects consid..."]
+      },
+      {
+        "title": "Malingering neurocognitive dysfunction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Jens Egeland"],
+        "abstract": ["Malingering neurocognitive dysfunction\n\nPsychologists examining patients involved in injury litigation, must consider the possibility of malingered neurocognitive dysfunction. This review article discusses the definition, diagnosis and baserate of malingering, as well as methods to detect exaggeration and malingering. Results from an earlier study..."]
+      },
+      {
+        "title": "Differentiating attention deficit in adult ADHD and schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2007",
+        "authors": ["Jens Egeland"],
+        "abstract": ["Most previous studies of attention deficit in ADHD and schizophrenia have used overall measures of inattention that may disguise differences in underlying mechanisms. The present study investigated types of inattentive errors and applied a process view of attention in analyses of Conners' Continuous Performance Test protocols from subjects with ADH..."]
+      },
+      {
+        "title": "The predictive value of saliva cortisol for remission of major depressive disorder",
+        "tags": ["Article"],
+        "date": "Mar 2007",
+        "authors": ["Eva Biringer", "Jens Egeland", "Kirsten Irene Stordal", "Anders Lund"],
+        "abstract": []
+      },
+      {
+        "title": "Differentiating Malingering from Genuine Cognitive Dysfunction Using the Trail Making Test-Ratio and Stroop Interference Scores",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2007",
+        "authors": ["Jens Egeland", "Tone Langfjaeran"],
+        "abstract": ["Patterns of test performance that are inconsistent with knowledge of brain dysfunction can potentially differentiate between malingering and true impairment among litigants with low scores on neuropsychological tests. In this study possible malingerers (n = 41), impaired (30) or cognitively normal (17) litigants were compared on the Trail Making Te..."]
+      },
+      {
+        "title": "Norwegian Norms and Factor-Structure of Phonemic and Semantic Word List Generation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Jens Egeland", "Nils Inge Landrø", "Evelin Tjemsland", "Kjersti Walbaekken"],
+        "abstract": ["Word list generation (WLG) tasks are used world wide as measures of executive function, although the tests are sensitive also to deficits in other cognitive functions. Norms derived from English-speaking samples are often used in Norway, even though the consequences of language differences are not yet been assessed. The reliability of WLG testing i..."]
+      },
+      {
+        "title": "Reliability and validity of Freedom from Distractibility and Processing Speed Factors in the Norwegian WISC-III-version",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2006",
+        "authors": ["Jens Egeland", "Hilde Sundberg", "Tor Herman Andreassen", "Odd Stensli"],
+        "abstract": ["The reliability and validity of the Freedom from Distractibility (FFD) and Processing Speed (PS) indexes of the WISC-III are controversial. In this first study of the Norwegian translation of WISC-III, 127 protocols from a mixed psychiatric sample were factor-analyzed. Index-scores for subjects with ADHD, Pervasive disorders/nonverbal learning disa..."]
+      }
+    ],
+    "degree": ["Professor,", "PhD"],
+    "bio": [],
+    "publications": [119],
+    "reads": [41771],
+    "citations": [3059]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Marie Eikemo",
-    "id": "V7GIA00AAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo",
+    "name": ["Marie Eikemo"],
+    "id": ["V7GIA00AAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -539,8 +539,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-5103-919X",
-    "name": "Marie Eikemo",
+    "orcid": ["0000-0001-5103-919X"],
+    "name": ["Marie Eikemo"],
     "distinctions": [],
     "education": [
       {
@@ -557,10 +557,10 @@
       },
       {
         "start": "2017",
-        "end": "2019",
         "position": "Postdoctoral fellow",
         "organisation": "Oslo University Hospital",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       }
     ],
     "employment": [
@@ -578,10 +578,10 @@
       },
       {
         "start": "2017",
-        "end": "2019",
         "position": "Postdoctoral fellow",
         "organisation": "Oslo University Hospital",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       }
     ],
     "membership": [],
@@ -815,8 +815,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Marie Eikemo",
-    "id": "306061",
+    "name": ["Marie Eikemo"],
+    "id": ["306061"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -997,5 +997,257 @@
         "url": "https://api.cristin.no/v2/results/1038045"
       }
     ]
+  },
+  "rg": {
+    "id": "Marie-Eikemo",
+    "name": "Marie Eikemo",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272785415077900-1442048519308_Q128/Marie-Eikemo.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Substance Use Disorders", "Affective Neuroscience", "Psychopharmacology"],
+    "works": [
+      {
+        "title": "Factors associated with use of opioid rescue medication after surgery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Isabell M Meier", "Marie Eikemo", "Martin Trøstheim", "Gernot Ernst"],
+        "abstract": ["Background: \nOpioid exposure after surgery increases risk of persistent opioid use. Here, we characterize at-home use of opioid rescue medication during 1-2 days after outpatient surgery (N=270) in a postoperative opioid-sparing context at a Norwegian hospital.\n\nMethods: \nThe postsurgical pain management plan included non-steroidal anti-inflammator..."]
+      },
+      {
+        "title": "Opioid analgesic effects on subjective well-being in the operating theatre",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Marie Eikemo", "Isabell M Meier", "G E Løseth", "Siri Leknes"],
+        "abstract": ["Exposure to opioid analgesics due to surgery increases the risk of new persistent opioid use. A mechanistic hypothesis for opioids' abuse liability rests on the belief that, in addition to pain relief, acute opioid treatment improves well-being (e.g. via euphoria) and relieves anxiety. However, opioids do not consistently improve mood in laboratory..."]
+      },
+      {
+        "title": "Does childhood adversity alter opioid drug reward? A conceptual replication in outpatients before surgery",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Molly Carlyle", "Malin Kvande", "Isabell M Meier", "Marie Eikemo"],
+        "abstract": []
+      },
+      {
+        "title": "Children born to women in opioid maintenance treatment: A longitudinal study of child behavioral problems and parenting stress",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Monica Sarfi", "Marie Eikemo", "Carolien Konijnenberg"],
+        "abstract": ["In the wake of the “opioid epidemic”, there is considerable concern regarding potential harmful long-term effects of prenatal opioid exposure. Opioid misuse and addiction confer increased exposure to lifestyle stressors and health burdens. Accordingly, it is challenging to disentangle effects of prenatal opioid exposure per se from factors related..."]
+      },
+      {
+        "title": "Stress recovery with social support: A dyadic stress and support task",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Guro Engvig Løseth", "Marie Eikemo", "Martin Trøstheim", "Siri Leknes"],
+        "abstract": ["How does social support bolster resilience? Here, we present a new dyadic paradigm to study causal mechanisms of acute and ecologically valid social support in the laboratory. The Dyadic Stress and Support Task (DSST) consists of a psychosocial stress phase and a recovery phase. During DSST stress, a pair of participants take turns to perform publi..."]
+      },
+      {
+        "title": "Post-surgical opioid analgesic self-administration patterns in an opioid sparing treatment context",
+        "tags": ["Preprint"],
+        "date": "Sep 2022",
+        "authors": ["Isabell M Meier", "Marie Eikemo", "Kaja Buen", "Gernot Ernst"],
+        "abstract": ["Opioid exposure after surgery increases risk of persistent opioid use. Here, we characterize at-home use of opioid rescue medication during acute recovery after day surgery (N=270) in an opioid sparing context. The post-surgical pain management plan included non-steroidal anti-inflammatory drugs and up to 6 pills of 5mg oxycodone to be taken as nee..."]
+      },
+      {
+        "title": "Opioid antagonism in humans: a primer on optimal dose and timing for central mu-opioid receptor blockade",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Martin Trøstheim", "Marie Eikemo", "Jan Haaker", "Siri Leknes"],
+        "abstract": ["Non-human animal studies outline precise mechanisms of central mu-opioid regulation of pain, stress, affiliation and reward processing. In humans, pharmacological blockade with non-selective opioid antagonists such as naloxone and naltrexone is typically used to assess involvement of the mu-opioid system in such processing. However, robust estimate..."]
+      },
+      {
+        "title": "Do opioid analgesics improve subjective well-being? A prospective observational study of acute opioid effects before surgery",
+        "tags": ["Preprint"],
+        "date": "Aug 2022",
+        "authors": ["Marie Eikemo", "Isabell M Meier", "Guro E. Løseth", "Siri Leknes"],
+        "abstract": ["Exposure to opioid analgesics due to surgery increases the risk of new persistent opioid use. A mechanistic hypothesis for opioids’ abuse liability rests on the belief that in addition to pain relief, acute opioid treatment improves mood, e.g. via euphoria and anxiety relief. However, opioids do not consistently improve mood in laboratory studies o..."]
+      },
+      {
+        "title": "Stress recovery with social support: A dyadic stress and support task",
+        "tags": ["Preprint"],
+        "date": "Apr 2022",
+        "authors": ["Guro E. Løseth", "Marie Eikemo", "Martin Trøstheim", "Siri Leknes"],
+        "abstract": ["How does social support bolster resilience? Here, we present a new dyadic paradigm to study causal mechanisms of acute and ecologically valid social support in the laboratory. The Dyadic Stress and Support Task (DSST) consists of a psychosocial stress phase and a recovery phase. During DSST stress, a pair of participants take turns to perform publi..."]
+      },
+      {
+        "title": "Mental health and use of health care services in opioid-exposed school-aged children compared to foster children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Monica Sarfi", "Marie Eikemo", "Gabrielle Welle-Strand", "Stine Lehmann"],
+        "abstract": ["Given the concerns raised regarding the effects of prenatal exposure to methadone and buprenorphine on the developmental outcomes of the children, this study assessed mental health and use of services in a national sample of school-aged children (N = 78) born to women enrolled in opioid maintenance treatment during pregnancy, compared with a group..."]
+      },
+      {
+        "title": "Opioid Antagonism in Humans: A Primer on Optimal Dose and Timing for Central Mu-Opioid Receptor Blockade",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Martin Trøstheim", "Marie Eikemo", "Jan Haaker", "Siri Leknes"],
+        "abstract": ["Non-human animal studies outline precise mechanisms of central mu-opioid regulation of pain, stress, affiliation and reward processing. In humans, pharmacological blockade with non-selective opioid antagonists such as naloxone and naltrexone is typically used to assess involvement of the mu-opioid system in such processing. However, robust estimate..."]
+      },
+      {
+        "title": "A randomized placebo-controlled intranasal oxytocin study on first impressions and reactions to social rejection",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Susanne Henningsson", "Siri Leknes", "Martin Asperholm", "Lars Westberg"],
+        "abstract": ["Oxytocin is central to pair-bonding in non-human animals. We assessed effects of intranasal oxytocin on bond formation between two opposite-sex strangers. In a double-blind placebo-controlled design, 50 pairs of one man and one woman received oxytocin or placebo spray intranasally. After treatment, they played a social interaction game, followed by..."]
+      },
+      {
+        "title": "Do endogenous opioids mediate or fine-tune human pain relief?",
+        "tags": ["Preprint"],
+        "date": "Jun 2021",
+        "authors": ["Marie Eikemo", "Guro E. Løseth", "Siri Leknes"],
+        "abstract": ["We discuss how effects of different magnitudes from human opioid antagonist studies can be interpreted and how the results inform us on the role of the endogenous mu-opioid system for pain relief and other affective processes in humans. This is a commentary on Endogenous opioids contribute to the feeling of pain relief in humans by Sirucek et al, I..."]
+      },
+      {
+        "title": "The Role of Mu-Opioids for Reward and Threat Processing in Humans: Bridging the Gap from Preclinical to Clinical Opioid Drug Studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Isabell M Meier", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["Purpose of Review\nOpioid receptors are widely expressed in the human brain. A number of features commonly associated with drug use disorder, such as difficulties in emotional learning, emotion regulation and anhedonia, have been linked to endogenous opioid signalling. Whereas chronic substance use and misuse are thought to alter the function of the..."]
+      },
+      {
+        "title": "‘Defrosting’ music chills with naltrexone: The role of endogenous opioids for the intensity of musical pleasure",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Bruno Laeng", "Lara Garvija", "Guro E. Løseth", "Siri Leknes"],
+        "abstract": ["The endogenous opioid system has been implicated during experiences of pleasure (i.e., from food or sex). Music can elicit intense emotional and bodily sensations of pleasure, called ‘Chills’. We investigated the effects of an opioid antagonist (50 mg naltrexone) or placebo (40 μg d3-vitamin) while listening to self-selected music or other ‘control..."]
+      },
+      {
+        "title": "Do endogenous opioids mediate or fine-tune human pain relief?",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Marie Eikemo", "Guro E. Løseth", "Siri Leknes"],
+        "abstract": []
+      },
+      {
+        "title": "The role of mu-opioids for reward and threat processing in humans: Bridging the gap from preclinical to clinical opioid drug studies",
+        "tags": ["Preprint"],
+        "date": "Mar 2021",
+        "authors": ["Isabell M Meier", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["Purpose of review. Opioid receptors are widely expressed in the human brain. A number of features commonly associated with drug use disorder, such as difficulties in emotional learning, emotion regulation & anhedonia, have been linked to endogenous opioid signaling. Whereas chronic substance use and misuse are thought to alter the function of the m..."]
+      },
+      {
+        "title": "Assessment of Anhedonia in Adults With and Without Mental Illness: A Systematic Review and Meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Martin Trøstheim", "Marie Eikemo", "Remy Meir", "Siri Leknes"],
+        "abstract": ["Importance\nAnhedonia, a reduced capacity for pleasure, is described for many psychiatric and neurologic conditions. However, a decade after the Research Domain Criteria launch, whether anhedonia severity differs between diagnoses is still unclear. Reference values for hedonic capacity in healthy humans are also needed.\n\nObjective\nTo generate and co..."]
+      },
+      {
+        "title": "Anhedonia in chronic pain and prescription opioid misuse",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Eric Garland", "Martin Trøstheim", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["Background\nBoth acute and chronic pain can disrupt reward processing. Moreover, prolonged prescription opioid use and depressed mood are common in chronic pain samples. Despite the prevalence of these risk factors for anhedonia, little is known about anhedonia in chronic pain populations.\n\nMethods\nWe conducted a large-scale, systematic study of anh..."]
+      },
+      {
+        "title": "Effects of opioid receptor stimulation and blockade on touch pleasantness: a double-blind randomised trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Guro E. Løseth", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["The μ-opioid receptor (MOR) system has long been thought to underpin the rewarding properties of pleasant touch. Numerous non-human animal studies implicate MORs in social behaviours involving touch, but little is currently known about MOR involvement in human touch reward. Here, we employed a bi-directional pharmacological double-blind crossover d..."]
+      },
+      {
+        "title": "The role of the opioid system in decision making and cognitive control: A review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Henk van Steenbergen", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["The opioid system regulates affective processing, including pain, pleasure, and reward. Restricting the role of this system to hedonic modulation may be an underestimation, however. Opioid receptors are distributed widely in the human brain, including the more “cognitive” regions in the frontal and parietal lobes. Nonhuman animal research points to..."]
+      },
+      {
+        "title": "Intact responses to non-drug rewards in long-term opioid maintenance treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Marie Eikemo", "Philipp Lobmaier", "Mads Lund Pedersen", "Monica Sarfi"],
+        "abstract": ["Disruption of non-drug reward processing in addiction could stem from long-term drug use, addiction-related psychosocial stress, or a combination of these. It remains unclear whether long-term opioid maintenance treatment (OMT) disrupts reward processing. Here, we measured subjective and objective reward responsiveness in 26 previously heroin-addic..."]
+      },
+      {
+        "title": "Anhedonia in chronic pain and opioid misuse",
+        "tags": ["Preprint"],
+        "date": "Feb 2019",
+        "authors": ["Eric Garland", "Martin Trøstheim", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["Both acute and chronic pain can disrupt reward processing. Moreover, prolonged prescription opioid use and depressed mood are common in chronic pain samples. Despite the prevalence of these risk factors for anhedonia, little is known about the capacity for pleasure in chronic pain populations. We investigated anhedonia in chronic pain patients and..."]
+      },
+      {
+        "title": "Effects of opioid receptor stimulation and blockade on touch pleasantness: a double-blind randomised trial",
+        "tags": ["Preprint"],
+        "date": "Dec 2018",
+        "authors": ["Guro E. Løseth", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["The mu-opioid receptor (MOR) system has long been thought to underpin the rewarding properties of pleasant touch. Numerous non-human animal studies implicate MORs in social behaviours involving touch, but little is currently known about MOR involvement in human touch reward. Here, we employed a bi-directional pharmacological double-blind crossover..."]
+      },
+      {
+        "title": "Intact responses to non-drug rewards in long-term opioid maintenance treatment",
+        "tags": ["Preprint"],
+        "date": "Nov 2018",
+        "authors": ["Marie Eikemo", "Philipp Lobmaier", "Mads Lund Pedersen", "Monica Sarfi"],
+        "abstract": ["Background. Drug dependence is associated with disrupted reward processing and anhedonia across drug use disorders. It remains unclear whether chronic drug use disrupts reward processing. Alternative causes could be psychosocial vulnerability factors or stress from recurring relapse to drug use. Methods. We measured subjective and objective reward..."]
+      },
+      {
+        "title": "The role of the opioid system in decision making and cognitive control: A review",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Henk van Steenbergen", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["The opioid system plays a key role in the regulation of affective processing including pain, pleasure, and reward. However, there is also increasing evidence that this system plays a broader role and can modulate cognitive function. In particular, increasing evidence suggests that the mu-opioid system influences how we choose between actions of dif..."]
+      },
+      {
+        "title": "The role of the opioid system in decision making and cognitive control: A review",
+        "tags": ["Preprint"],
+        "date": "Jun 2018",
+        "authors": ["Henk van Steenbergen", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["The opioid system plays a key role in the regulation of affective processing including pain, pleasure, and reward. However, there is also increasing evidence that this system plays a broader role and can modulate cognitive function. In particular, increasing evidence suggests that the mu-opioid system influences how we choose between actions of dif..."]
+      },
+      {
+        "title": "Morphine reduced perceived anger from neutral and implicit emotional expressions",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Guro E. Løseth", "Marie Eikemo", "Peder Isager", "Siri Leknes"],
+        "abstract": ["The μ-opioid system modulates responses to pain and psychosocial stress and mediates non-social and social reward. In humans, the μ-opioid agonist morphine can increase overt attention to the eye-region and visual exploration of faces with neutral expressions. However, little is known about how the human μ-opioid system influences sensitivity to an..."]
+      },
+      {
+        "title": "Opioid Modulation of Value-Based Decision Making in Healthy Humans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Marie Eikemo", "Guido Biele", "Frode Willoch", "Siri Leknes"],
+        "abstract": ["Modifying behavior to maximize reward is integral to adaptive decision making. In rodents, the μ-opioid receptor (MOR) system encodes motivation and preference for high-value rewards. Yet it remains unclear whether and how human MORs contribute to value-based decision making. We reasoned that if the human MOR system modulates value-based choice, th..."]
+      },
+      {
+        "title": "Sweet taste pleasantness is modulated by morphine and naltrexone",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Marie Eikemo", "Guro E. Løseth", "Tom Johnstone", "Siri Leknes"],
+        "abstract": ["Background\nRodent models highlight the key role of μ-opioid receptor (MOR) signaling in palatable food consumption. In humans, however, the effects of MOR stimulation on eating and food liking remain unclear. Objectives\nHere, we tested sweet pleasantness experience in humans following MOR drug manipulations. We hypothesized that behaviors regulated..."]
+      },
+      {
+        "title": "The µ-Opioid System Promotes Visual Attention to Faces and Eyes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Olga Chelnokova", "Bruno Laeng", "Guro E. Løseth", "Siri Leknes"],
+        "abstract": ["Paying attention to others’ faces and eyes is a cornerstone of human social behavior. The µ-opioid receptor (MOR) system, central to social reward-processing in rodents and primates, has been proposed to mediate the capacity for affiliative reward in humans. We assessed the role of the human MOR system in visual exploration of faces and eyes of con..."]
+      },
+      {
+        "title": "Klinisk anvendelig om nevrobiologi og avhengighet",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Marie Eikemo", "Jørgen G. Bramness"],
+        "abstract": []
+      },
+      {
+        "title": "Rewards of beauty: The opioid system mediates social motivation in humans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Olga Chelnokova", "B Laeng", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["Molecular Psychiatry publishes work aimed at elucidating biological mechanisms underlying psychiatric disorders and their treatment"]
+      },
+      {
+        "title": "Placebo improves pleasure and pain through opposite modulation of sensory processing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Dan-Mikael Ellingsen", "Johan Wessberg", "Marie Eikemo", "Siri Leknes"],
+        "abstract": ["Significance\nPlacebo effects illustrate the power of the human brain; simply expecting an improvement can alter pain processing and produce analgesia. We induced placebo improvement of both negative and positive feelings (painful and pleasant touch) in healthy humans, and compared the brain processing using functional MRI. Pain reduction dampened s..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "My research is centered on the human reward system - understanding behavioral, pharmacological and neural mechanisms involved in these processes. The role of the mu-opioid system is at the core of my interests. I work with a range of value-based decision-making tasks and measures of (an)hedonia, in psychopharmacological, neuroimaging and observational studies in different groups of healthy participants and patients with opioid use disorder undergoing pharmacological treatment.",
+    "publications": [34],
+    "reads": [4972],
+    "citations": [622]
   }
 }

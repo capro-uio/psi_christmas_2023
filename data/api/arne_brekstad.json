@@ -2,11 +2,20 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Arne Brekstad",
-    "id": "808048",
+    "name": ["Arne Brekstad"],
+    "id": ["808048"],
     "keywords": [],
     "position": ["Emeritus"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Benjamin-Arne",
+    "name": "Benjamin Arne",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Ecole Nationale Supérieure dArts et Métiers | ENSAM, Ecole Nationale Supérieure dArts et Métiers",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Ole André Solbakken",
-    "id": "FLaQ29sAAAAJ",
-    "affiliation": "Professor of clinical psychology, University of Oslo",
+    "name": ["Ole André Solbakken"],
+    "id": ["FLaQ29sAAAAJ"],
+    "affiliation": ["Professor of clinical psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -852,8 +852,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-8341-0560",
-    "name": "Ole Andre Solbakken",
+    "orcid": ["0000-0002-8341-0560"],
+    "name": ["Ole Andre Solbakken"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1195,11 +1195,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ole Andre Solbakken",
-    "id": "11762",
+    "name": ["Ole Andre Solbakken"],
+    "id": ["11762"],
     "keywords": [],
     "position": ["Professor", null],
-    "img": "https://api.cristin.no/v2/persons/11762/picture",
+    "img": ["https://api.cristin.no/v2/persons/11762/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1599,5 +1599,509 @@
         "url": "https://api.cristin.no/v2/results/1145651"
       }
     ]
+  },
+  "rg": {
+    "id": "Ole-Solbakken",
+    "name": "Ole André Solbakken",
+    "img": "https://i1.rgstatic.net/ii/profile.image/285104149680130-1444985534751_Q128/Ole-Solbakken.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychotherapeutic Processes", "Psychopathology", "Mental Illness", "Clinical Assessment", "Medical & Health Profession Education", "Psychological Assessment", "Counseling", "Clinical Psychiatry", "Treatment", "DSM"],
+    "works": [
+      {
+        "title": "Investigating the dose–response effect in open-ended psychotherapy",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Magnus Nordmo", "Jon T Monsen", "Per Høglend", "Ole André Solbakken"],
+        "abstract": ["Findings from previous psychotherapy research suggest that the majority of improvement takes place in the initial phase of treatment with the relative effectiveness dropping at a negatively accelerating rate. However, the evidence for this pattern of change comes from investigations of short-term treatments and it is unclear whether this also holds..."]
+      },
+      {
+        "title": "Emotion regulation difficulties and interpersonal problems during the COVID-19 Pandemic: Predicting anxiety and depression",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Ole André Solbakken", "Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Background: Central components of psychological functioning, such as difficulties in emotion regulation and interpersonal problems are likely to have been substantially impacted by COVID-19 and amelioration measures of societal lock-down and social distancing. In turn, these factors are likely to predict mental health outcomes, such as symptoms of..."]
+      },
+      {
+        "title": "Emotional clarity and tolerance of emotional distress as mechanisms of change in short-term psychodynamic psychotherapy for chronic depression",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Linne Melsom", "Pål G. Ulvenes", "Ole André Solbakken", "Bruce Wampold"],
+        "abstract": ["Objective: \nThe aim of this naturalistic process study was to investigate the relationship between emotional clarity and tolerance of emotional distress and depressive symptoms over the course of short-term psychodynamic psychotherapy for chronically depressed patients.\n\nMethod: \nWeekly self-reports of emotional clarity, tolerance of emotional dist..."]
+      },
+      {
+        "title": "Emotional changes and outcomes in psychotherapy: A systematic review and meta-analysis",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Nils M Sønderland", "Ole André Solbakken", "Dag Erik Eilertsen", "Jon T Monsen"],
+        "abstract": ["Objective: \nThis systematic review and meta-analysis summarize current knowledge on emotional change processes and mechanisms and their relationship with outcomes in psychotherapy.\n\nMethod: \nWe reviewed the main change processes and mechanisms in the literature and conducted meta-analyses of process/mechanism-outcome associations whenever methodolo..."]
+      },
+      {
+        "title": "Self-Compassion and Fear of Compassion in the Treatment of Chronic Depression: Mechanisms of Change?",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Linne Melsom", "Pål G. Ulvenes", "Ole André Solbakken", "Bruce Wampold"],
+        "abstract": ["Objective: \nThe aim of this naturalistic process study was to investigate the relationship between self-compassion, fear of compassion from others, and depressive symptoms over the course of psychotherapy in patients with chronic depression.\n\nMethod: \nA sample of 226 patients with chronic depression who received inpatient short-term psychodynamic p..."]
+      },
+      {
+        "title": "Jeugdtrauma als voorspeller van verandering tijdens partnerrelatie- en gezinstherapie: een onderzoek naar behandelrespons",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Kristoffer Whittaker", "Sverre Urnes Johnson", "Ole André Solbakken", "Terje Tilden"],
+        "abstract": []
+      },
+      {
+        "title": "Psychometric properties of the affect integration inventory – short form in a sample of patients with personality disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Christina Frederiksen", "Gry Kjaersdam Telléus", "Ole André Solbakken"],
+        "abstract": ["Introduction\nAffect integration comprises the capacity to access and utilize the motivational and signal properties of affects. This capacity is essential for personal adjustment, mental health, and well-being. Affect integration is commonly operationalized through the Affect Integration Inventory. This study examines the psychometric properties of..."]
+      },
+      {
+        "title": "Depressive response patterns during the COVID-19 pandemic from its onset to proclaimed termination: A 24-month representative observational study of the adult population",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Omid V. Ebrahimi", "René Freichel", "Sverre Urnes Johnson", "Daniel John Bauer"],
+        "abstract": ["Despite the presence of individual differences in the depressive response patterns of adults during the COVID-19 pandemic, most studies have investigated overall population-level changes in depressive symptoms during the first year of the pandemic. This longitudinal repeated-measurement observational study obtained 39,259 observations from 4,361 ad..."]
+      },
+      {
+        "title": "Geografisk variasjon i vaksnes bruk av avtalespesialistar og DPS i psykisk helsevern",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Maria Holsen", "Per Arne Holman", "Ole André Solbakken", "Lars Lien"],
+        "abstract": ["Background: Equitable mental healthcare regardless of area of residence is a political aim in Norway. The purpose of this study is to evaluate geographical variation in private practitioner coverage, and explore differences between private practitioners with public reimbursement and local community mental health centers (CMHCs) in terms of diagnose..."]
+      },
+      {
+        "title": "Using Machine Learning to Recommend Personalized Modular Treatments for Common Mental Health Disorders",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2023",
+        "authors": ["Fabian Schmidt", "Karin Hammerfald", "Henrik Jahren", "Vladimir Vlassov"],
+        "abstract": ["So far, initial treatment recommendations for\ninternet-based cognitive behavioral therapy (iCBT) decision support were mostly high-level or static. Personalized treatment\nrecommendations could pave the way toward better treatment\noutcomes and adaptive treatments by leveraging information\nfrom past patients. We explore the disadvantages of multi-cla..."]
+      },
+      {
+        "title": "Validation of a brief version of the Difficulties in Emotion Regulation Scale (DERS-16) with an older Norwegian population",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Endre Visted", "Ole André Solbakken", "S. Mæland", "Elisabeth Flo-Groeneboom"],
+        "abstract": ["Emotion regulation is proposed to have a salient role in optimal aging. However, currently used measures of emotion regulation have not been validated for older adults. Therefore, we evaluated the psychometric properties of the Difficulties in Emotion Regulation Scale—short form (DERS-16) in a large Norwegian sample consisting of individuals betwee..."]
+      },
+      {
+        "title": "CCP-2022-0133_Supplemental_materials_Emotional Changes and Outcomes in Psychotherapy.pdf",
+        "tags": ["Data"],
+        "date": "Jun 2023",
+        "authors": ["Nils Martin Sønderland", "Ole André Solbakken", "Dag Erik Eilertsen", "Jon T Monsen"],
+        "abstract": []
+      },
+      {
+        "title": "Visual-abstract-JCCP-Emotional Changes and Outcome in Psychotherapy.pptx",
+        "tags": ["Data"],
+        "date": "Jun 2023",
+        "authors": ["Nils Martin Sønderland", "Ole André Solbakken", "Dag Erik Eilertsen", "Jon T Monsen"],
+        "abstract": ["This review demonstrates that helping clients differentiate between emotion-eliciting stimuli and their associated affective responses is essential across theoretical approaches. Increased affective differentiation presumably leads to reorganization of perceptual processes, improves tolerance of emotional activation, and fosters openness to the inf..."]
+      },
+      {
+        "title": "Medication-free treatment in mental health care: How does it differ from traditional treatment?",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Kari Standal", "Ole André Solbakken", "Jorun Rugkåsa", "Kristin Sverdvik Heiervang"],
+        "abstract": ["Background\nNorwegian health authorities have implemented treatment units devoted to medication-free mental health treatment in all health regions to improve people’s freedom of choice. This article examines how medication-free treatment differs from treatment as usual across various central dimensions.\nMethods\nWe used a mixed-methods design that in..."]
+      },
+      {
+        "title": "Medication-free treatment in mental health care. How does it differ from traditional treatment?",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Kari Standal", "Ole André Solbakken", "Jorun Rugkåsa", "Kristin Sverdvik Heiervang"],
+        "abstract": ["Background: Norwegian health authorities have implemented treatment units devoted to medication-free mental health treatment in all health regions to improve people’s freedom of choice. This article examines how medication-free treatment differs from treatment as usual across various central dimensions.\nMethods: The design was a preplanned, paralle..."]
+      },
+      {
+        "title": "Driven or lacking access: Integration types as a subdimension of the affect consciousness construct",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Astrid Vølstad", "Maria Ingunnsdatter Salas", "Ole André Solbakken"],
+        "abstract": ["Introduction\nThis article examines integration types as a sub-dimension of the affect consciousness construct to account for individual differences in how problems with the experience and expression of affects manifest. The two integration types driven and lack of access describe prototypical ways of experiencing and expressing affect, differentiat..."]
+      },
+      {
+        "title": "Direction of dependence analysis for pre-post assessments using non-Gaussian methods: a tutorial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Tom Rosenström", "Nikolai O. Czajkowski", "Ole André Solbakken", "Suoma E. Saarni"],
+        "abstract": ["Objective\nWe introduced methods for solving causal direction of dependence between variables observed in pre- and post-psychotherapy assessments, showing how to apply them and investigate their properties via simulations. In addition, we investigated whether changes in depressive symptoms drive changes in social and occupational functioning as sugg..."]
+      },
+      {
+        "title": "Referral assessment and patient waiting time decisions in specialized mental healthcare: an exploratory study of early routine collection of PROM (LOVePROM)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Fan Yang", "Knut Reidar Wangen", "Mattias Victor", "Per Arne Holman"],
+        "abstract": ["Background\nNorway has prioritized health services according to the principle of “severity of conditions”, where waiting time reflects patients’ medical urgency. We aim to investigate if the “severity-of-condition” principle performs well in the priority setting of waiting time, between and within groups of patients using community mental health ser..."]
+      },
+      {
+        "title": "Folkeopplysningens konklusjon er misvisende",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ole André Solbakken", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Hanne Strømme"],
+        "abstract": ["Folkeopplysningens siste episode presenterte en rekke problematiske påstander om effekten av psykoterapi. Heldigvis er påstandene allerede blitt imøtegått av en rekke fagpersoner, forfatterne av denne kommentaren inkludert, på flere arenaer i ettertid. Med dette innlegget ønsker vi å redegjøre mer detaljert for hvorfor konklusjonen fra Folkeopplysn..."]
+      },
+      {
+        "title": "Text Topics and Treatment Response in Internet-Delivered Cognitive Behavioral Therapy for Generalized Anxiety Disorder: Text Mining Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Sanna Mylläri", "Ma ; Suoma", "Eeva Saarni", "Tom Rosenström"],
+        "abstract": ["Background\nText mining methods such as topic modeling can offer valuable information on how and to whom internet-delivered cognitive behavioral therapies (iCBT) work. Although iCBT treatments provide convenient data for topic modeling, it has rarely been used in this context.\nObjective\nOur aims were to apply topic modeling to written assignment tex..."]
+      },
+      {
+        "title": "Treated together-changed together: The application of dyadic analyses to understand the reciprocal nature of alliances and couple satisfaction over time",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Kristoffer Whittaker", "Sverre Urnes Johnson", "Ole André Solbakken", "Terje Tilden"],
+        "abstract": ["In a Norwegian study of 73 couples attending a residential couple therapy program lasting between 6 and 12 weeks, weekly self-report data on therapy alliance and couple satisfaction were collected using routine outcome monitoring (ROM). The aim was to show how dyadic analyses could be applied to examine the predictive association between alliances..."]
+      },
+      {
+        "title": "Troubled Relationships: A Retrospective Study of How Couples with Histories of Trauma Experience Therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Kristoffer Whittaker", "Erik Stänicke", "Sverre Urnes", "Sverre Urnes Johnson"],
+        "abstract": ["In the present study we aim to increase our knowledge of the relationship between childhood trauma and outcome in couple therapy. We sampled participants based on their sub-optimal responses to treatment as well as one member of the dyad having reported experiences of childhood trauma. Six participants constituting three couples were included. All..."]
+      },
+      {
+        "title": "Validation of the Affect Integration Inventory in a sample of patients with personality disorders: A cross-sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Christina Frederiksen", "Ole André Solbakken", "Rasmus W. Licht", "Gry Kjaersdam Telléus"],
+        "abstract": ["Affect integration is defined as the capacity to comprehend emotional experiences as meaningful and to convert this knowledge into well-adjusted motivation, communication and behavior. Thus, affect integration is considered essential for personal adjustment and well-being, and it has been operationalized through the Affect Integration Inventory. Ho..."]
+      },
+      {
+        "title": "The User Experience Framework for Health Interventions",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Lene E. Søvold", "Ole André Solbakken"],
+        "abstract": ["Traditionally, a great part of the research related to the patient or user experience within clinical contexts, has only been exploring the user experience indirectly—or it has only been exploring some elements or aspects of the overall user experience. The purpose of this review is to investigate which aspects of the user experience are typically..."]
+      },
+      {
+        "title": "Clinical Hypnosis in Medical Care: A Mixed-Method Feasibility Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Sofie Bulling Lind", "Henrik Borsting Jacobsen", "Ole André Solbakken", "Silje E Reme"],
+        "abstract": ["Background\nPreoperative hypnosis has shown promising effects in controlling side effects from breast cancer surgery, but the feasibility and effects are largely unknown outside the US.\n\nMethods\nA mixed-methods approach was applied involving a large-scale population survey and a small-scale pilot study. The survey assessed attitudes toward hypnosis..."]
+      },
+      {
+        "title": "Emotional dysfunction in avoidant personality disorder and borderline personality disorder: A cross‐sectional comparative study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Christina Frederiksen", "Ole André Solbakken", "Rasmus W. Licht", "Gry Kjaersdam Telléus"],
+        "abstract": ["According to the literature, avoidant personality disorder (APD) is often overlooked in research on personality disorders. In the present study, patients with APD were compared to patients with borderline personality disorder (BPD) with respect to emotional dysfunction. Emotional dysfunction was operationalized through the Affect Integration Invent..."]
+      },
+      {
+        "title": "Why Service Users Choose Medication-Free Psychiatric Treatment: A Mixed-Method Study of User Accounts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Kari Standal", "Ole André Solbakken", "Jorun Rugkåsa", "Kristin Sverdvik Heiervang"],
+        "abstract": ["Purpose: \nMedication has been a central part of treatment for severe mental disorders in Western medicine since the 1950s. In 2015, Norwegian Health Authorities decided that Norwegian health regions must have treatment units devoted to medication-free mental health treatment to enhance service users' freedom of choice. The need for these units has..."]
+      },
+      {
+        "title": "Lovisenbergmodellen for systematisk tilbakemelding",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Even Halland", "Harald Aaasen", "Mattias Victor", "Ole André Solbakken"],
+        "abstract": ["Lovisenbergmodellen for systematisk innhenting av tilbakemeldinger fra pasientene kan gi bedre behandling, bedre organisering av tjenestene og økt brukermedvirkning. EMNER Lovisenbergmodellen kvalitetsindikatorer Tilbakemeldingssystemer I mange år har det vaert fokusert mye på ulike kvalitetsindikatorer innen psykisk helsevern. Det handler som rege..."]
+      },
+      {
+        "title": "Childhood trauma as a predictor of change in couple and family therapy: A study of treatment response.",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Kristoffer Whittaker", "Sverre Urnes Johnson", "Ole André Solbakken", "Terje Tilden"],
+        "abstract": ["This study aimed to examine if survivors of childhood abuse responded differently to couple and family therapy compared with patients without such experiences. The study included 36 couples and nine individuals (N = 81). Of these participants, 30.3% had disclosed being exposed to and/or physical or sexual abuse during childhood. All participants of..."]
+      },
+      {
+        "title": "The Relationship between Affect Integration and Psychopathology in Patients with Personality Disorder: A Cross-Sectional Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Christina Frederiksen", "Ole André Solbakken", "Rasmus W. Licht", "Gry Kjaersdam Telléus"],
+        "abstract": ["Background and Objectives: Emotional dysfunction is considered a key component in personality disorders; however, only few studies have examined the relationship between the two. In this study, emotional dysfunction was operationalized through the Affect Integration Inventory, and the aim was to examine the relationships between the level of affect..."]
+      },
+      {
+        "title": "Emotion regulation difficulties and interpersonal problems during the COVID-19 Pandemic: Predicting anxiety and depression",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Ole André Solbakken", "Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Background: Central components of psychological functioning, such as difficulties in emotion regulation and interpersonal problems are likely to have been substantially impacted by COVID-19 and the amelioration measures of societal lock-down and social distancing. In turn, these factors are likely to predict mental health outcomes, such as symptoms..."]
+      },
+      {
+        "title": "Validation of the Affect Integration Inventory Short Form (AII-SF-42)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Affect integration, denoting the capacity to utilize the motivational- and signal properties of affects, is essential to adaptive psychological functioning. Affect integration is commonly operationalized and assessed with the self-rated Affect Integration Inventory (AII). This study tested the concurrent and construct validity of a short-form versi..."]
+      },
+      {
+        "title": "Comparing the Magnitude of Improvement for Patients With and Without Personality Disorders in Open-Ended Psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Magnus Nordmo", "Jon T Monsen", "Per Høglend", "Ole André Solbakken"],
+        "abstract": ["There is limited evidence that patients with a personality disorder (PD) have poorer psychotherapyoutcomes compared to those without, but the majority of these studies are from short-term andsymptom-focused interventions. In contrast, the present study provided open-ended psychotherapy to asample of patients (N�370), half of which had a PD a pretre..."]
+      },
+      {
+        "title": "Validation of a short form of the Affect Integration Inventory",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Affect integration, denoting the capacity to utilize the motivational- and signal properties of affects, is essential to adaptive psychological functioning. Affect integration is commonly operationalized and assessed with versions of the self-rated Affect Integration Inventory (AII-112). This study tested the concurrent and construct validity of a..."]
+      },
+      {
+        "title": "Does it make a difference to be more \"on the same page\"? Investigating the role of alliance convergence for outcomes in two different samples",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Helene A. Nissen-Lie", "Ole André Solbakken", "Fredrik Falkenström", "Jon T Monsen"],
+        "abstract": ["Objective: To better understand the complexity of dyadic processes, such as the mechanisms of the working alliance, researchers recommend taking advantage of innovations in data analytic procedures when studying the interactions between therapists and patients that are associated with favorable therapeutic outcomes. Inspired by a recent line of all..."]
+      },
+      {
+        "title": "Problem severity, treatment duration, and the outcome of psychotherapy: The benefits keep growing with time spent in treatment for longer than previously known",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Magnus Nordmo", "Jon T Monsen", "Per Høglend", "Ole André Solbakken"],
+        "abstract": ["Findings from previous psychotherapy research suggest that the majority of improvement takes place in the initial phase of treatment with the relative effectiveness dropping at a negatively accelerating rate. However, the evidence for this pattern of change comes from investigations of short-term treatments and it is unclear whether this also holds..."]
+      },
+      {
+        "title": "Comparing the magnitude of improvement for patients with and without personality disorders in open-ended psychotherapy",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Magnus Nordmo", "Jon T Monsen", "Per Høglend", "Ole André Solbakken"],
+        "abstract": ["Psychotherapy tends to produce meaningful and sustained positive changes for individuals suffering from a mental illness. A salient distinction can be made between patients with a Personality Disorder (PD) and those without. There is some evidence that patients with PD have poorer treatment outcomes, but the majority of these studies are from time-..."]
+      },
+      {
+        "title": "Conflict with Parents in Adolescent Depression: Associations with Parental Interpersonal Problems and Depressive Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Erling W. Rognli", "Luxsiya Waraan", "Nikolai O. Czajkowski", "Marianne Aalberg"],
+        "abstract": ["Conflict with parents is common among depressed adolescents, interferes with treatment, and may increase risk of recurrence. Parental depressive symptoms have been shown to predict conflict with adolescent children, but an important role for different kinds of parental interpersonal problems, as described by interpersonal circumplex, is also plausi..."]
+      },
+      {
+        "title": "Effectiveness of Open-Ended Psychotherapy Under Clinically Representative Conditions",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Magnus Nordmo", "Nils Martin Sønderland", "Odd E Havik", "Ole André Solbakken"],
+        "abstract": ["Objective\nThis study investigates the effectiveness of open-ended psychotherapy in a large, naturalistic, and diverse patient cohort using rigorous and multifaceted assessments.Method\nPatients (N = 370) in open-ended psychotherapy completed an extensive set of self-report measures and diagnostic interviews, including long-term follow-up in order to..."]
+      },
+      {
+        "title": "Pilot study: An inpatient drug rehabilitation program based on intensive short-term dynamic psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Jon Frederickson", "Bonnie Dendooven", "Allan Abbass", "Tony Rousmaniere"],
+        "abstract": ["Addiction programs are plagued with high dropout and relapse rates. A large proportion of patients suffering from addiction also suffer from personality disorders. Aim: A 30-day inpatient program based on intensive short-term dynamic psychotherapy was developed to address features of personality disorders such as anxiety regulation, emotion recogni..."]
+      },
+      {
+        "title": "Specific relationships between symptoms and interpersonal problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Espen Bjerke", "Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Associations between symptoms and interpersonal problems, assessed with the Symptom Check List-90 (SCL-90-R) and the Inventory of Interpersonal problems – 64 items version (IIP-64), are examined in a large psychiatric outpatient sample. On basis of the IIP-64-scores, the sample was divided into 8 subgroups, comprising different types of predominant..."]
+      },
+      {
+        "title": "AII 3.1 Answer and scoring key",
+        "tags": ["Method", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Answer and scoring key for the Affect Integration Inventory version 3.1. Complex version."]
+      },
+      {
+        "title": "Affect Integration and Attachment in Children and Youth: Conceptual Issues-Implications for Practice and Research.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Eva Taarvig", "Ole André Solbakken"],
+        "abstract": ["The essential role of affect and emotion in human behavior, motivation, cognition, and interpersonal interaction is emphasized in various efforts to understand how children develop. However, various theoretical traditions have focused on different features. In this article we focus on the views in attachment theory and the affect consciousness (AC)..."]
+      },
+      {
+        "title": "Håp for de håpløse - intensiv døgnbehandling av behandlingsresistente pasienter",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Apr 2017",
+        "authors": ["Ole André Solbakken"],
+        "abstract": ["Presentation at the Department of Psychology, UiOs annual Breakfast Seminar April 2017."]
+      },
+      {
+        "title": "The Affect Integration Inventory Short Form - 42",
+        "tags": ["Method", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Short-form of self-reported assessment of Affect Integration, 42 item version."]
+      },
+      {
+        "title": "AII SF-42 Answer and scoring key",
+        "tags": ["Method", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Answer and scoring key for the Affect Integration Inventory Short-Form 42"]
+      },
+      {
+        "title": "The Affect Integration Inventory_Version_3_1 Norwegian -",
+        "tags": ["Method", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Questionnaire for the self-reprted assesment of Affect Integration"]
+      },
+      {
+        "title": "Tell me how you feel and I will tell you who you are: First validation of the affect integration inventory",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Ole André Solbakken", "Mari Rauk", "Anders Solem", "Jon T Monsen"],
+        "abstract": ["Affect integration, or the capacity to utilize affects for personal adjustment, is an essential aspect of psychological functioning. Affect integration has been operationalized through the affect consciousness construct as degrees of awareness, tolerance, nonverbal expression, and conceptual expression of nine discrete affects. It is measured by th..."]
+      },
+      {
+        "title": "Exploring Affect Integration in Children With Anxiety Disorders: A Pilot Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Eva Taarvig", "Ole André Solbakken", "Bjørg Grova", "Jon T Monsen"],
+        "abstract": ["Affect integration is considered central to mental health. We define affect integration in terms of the affect consciousness construct as degrees of awareness, tolerance, nonverbal, and conceptual expression of 11 affects (Monsen, Eilertsen, Melgård, & Odegård, 1996). We assessed the construct using a child-adapted version of the semistructured Aff..."]
+      },
+      {
+        "title": "Tell me how you feel and I will tell you who you are.. - Ole André Solbakken - TEDxOslo 2016",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Ole André Solbakken"],
+        "abstract": ["TED-Talk at TED-X Oslo 2016: Presentation on the art and importance of dealing well with emotions."]
+      },
+      {
+        "title": "Symptom- and personality disorder changes in intensive short-term dynamic residential treatment for treatment-resistant anxiety and depressive disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Ole André Solbakken", "Allan Abbass"],
+        "abstract": ["Objective: \nThe study investigated the effectiveness of an 8-week intensive residential treatment programme based on principles from intensive short-term dynamic psychotherapy for patients with known treatment-resistant anxiety- and/or depressive disorders (mainly with comorbid personality disorders).\n\nMethods: \nPatients (N=95) with prior repeated..."]
+      },
+      {
+        "title": "Self-Relatedness and Interpersonal Problems in a Large Psychiatric Outpatient Sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Espen Bjerke", "Ole André Solbakken", "Svein Friis", "E Bjerke"],
+        "abstract": ["Interpersonal-and self-relatedness problems are strongly correlated on a global level. However, few studies have examined associations between distinct forms of interpersonal problems and specific types of problems in self-relatedness. We hypothesized that patients with domineering interpersonal problems would exhibit a more positive self-image tha..."]
+      },
+      {
+        "title": "Vurdering av affektintegrasjon med Affektbevissthetsintervju for barn",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Eva Taarvig", "Ole André Solbakken", "Bjørg Grova", "Jon T Monsen"],
+        "abstract": ["Affect integration in children with internalizing problems: Affect Consciousness Interview in therapeutic work with children. Affect consciousness is operationalized as degrees of awareness, tolerance, emotional expression, and conceptual expression of specific affects; aspects assessed through an Affect Consciousness Interview (ACI) and scoring sc..."]
+      },
+      {
+        "title": "Love Yourself as a Person, Doubt Yourself as a Therapist?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Helene A. Nissen-Lie", "Michael Helge Rønnestad", "Per Høglend", "Jon T Monsen"],
+        "abstract": ["Objective: \nThere are reasons to suggest that the therapist effect lies at the intersection between psychotherapists' professional and personal functioning. The current study investigated if and how the interplay between therapists' (n = 70) professional self-reports (e.g., of their difficulties in practice in the form of 'professional self-doubt'..."]
+      },
+      {
+        "title": "Corrigendum to: “Intensive short-term dynamic residential treatment program for patients with treatment-resistant disorders” [J. Affect. Disord. 181 (2015) 67–77]",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Ole André Solbakken", "Allan Abbass"],
+        "abstract": ["The authors regret that one of the institutional affiliations of the first author was omitted in the published paper.The affiliation that\nalso should be credited is Drammen District Psychiatric Centre, Division for Mental Health and Addiction, Vestre Viken Health Trust,\nNorway. The authors would like to apologise for any inconvenience caused."]
+      },
+      {
+        "title": "Intensive short-term dynamic residential treatment program for Patients with treatment-resistant disorders",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Ole André Solbakken", "Allan Abbass"],
+        "abstract": []
+      },
+      {
+        "title": "Affect Consciousness in children with internalizing problems: Assessment of affect integration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Eva Taarvig", "Ole André Solbakken", "Bjørg Grova", "Jon T Monsen"],
+        "abstract": ["Affect integration was operationalized through the Affect Consciousness (AC) construct as degrees of awareness, tolerance, nonverbal expression and conceptual expression of 11 affects. These aspects are assessed through a semi-structured Affect Consciousness Interview (ACI) and separate rating scales (Affect Consciousness Scales (ACSs)) developed f..."]
+      },
+      {
+        "title": "Are There Specific Relationships Between Symptom Patterns and Interpersonal Problems Among Psychiatric Outpatients?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Espen Bjerke", "Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["Associations between symptoms and interpersonal problems, assessed with the Symptom Checklist-90 (SCL-90-R) and the Inventory of Interpersonal Problems-64-item version (IIP-64), are examined in a large psychiatric outpatient sample. On the basis of the IIP-64 scores, the sample was divided into 8 subgroups, made up of different types of predominant..."]
+      },
+      {
+        "title": "Implementation of an intensive short-term dynamic treatment program for patients with treatment-resistant disorders in residential care",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Ole André Solbakken", "Allan Abbass"],
+        "abstract": ["This protocol presents a systematic residential treatment- and research program aimed at patients who have not responded adequately to previous treatment attempts. Patients included in the program primarily suffer from anxiety and/or depressive disorders and usually from one or more comorbid personality disorders. The treatment program is time-limi..."]
+      },
+      {
+        "title": "Reflective functioning, affect consciousness, and mindfulness: Are these different functions?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Fredrik Falkenström", "Ole André Solbakken", "Clara Möller", "Rolf Holmqvist"],
+        "abstract": ["Concepts of mentalization, affect consciousness, and mindfulness have been increasingly emphasized as crucial in psychotherapy of diverse orientations. Different measures have been developed that purportedly measure these concepts, but little is known about their interrelationships. We discuss conceptual overlaps and distinctions between these thre..."]
+      },
+      {
+        "title": "Psychometric properties of the Outcome Questionnaire-45.2: The Norwegian version in an international context",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Ingunn Amble", "Tore Gude", "Sven Stubdal", "Bruce Wampold"],
+        "abstract": ["Objective: \nMonitoring of ongoing psychotherapy is of crucial importance in improving the quality of mental health care by detecting therapies being off track, which requires that the instrument used is psychometrically sound. This study investigates the psychometric properties of the Norwegian version of the Outcome Questionnaire 45.2 (OQ-45) and..."]
+      },
+      {
+        "title": "Effective Care of Treatment-Resistant Patients in an ISTDP-Based In-Patient Treatment Program",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Ole André Solbakken", "Allan Abbass"],
+        "abstract": ["Overall, few studies reported in the literature have focused specifically on non-respond ers to psychotherapy. Even fewer have specifically selected patients based on previous non-response to treatment and attempted systematic, customized psychological interventions to address their needs. Such studies could yield important information about strate..."]
+      },
+      {
+        "title": "Følelser som forandrer – Intensiv dynamisk korttidsterapi",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Roger Sandvik Hansen", "Jonas Fuglestved Bakkevig", "Bernt Langvasbråten", "Ole André Solbakken"],
+        "abstract": ["Affective Change – Intensive Short-term Dynamic Psychotherapy (ISTDP) Intensive short-term dynamic psychotherapy (ISTDP) is characterized by the therapist’s sustained effort to help patients get optimal access to feelings through the pressure for feelings, deactivation of defenses and regulation of anxiety. ISTDP is (a) intensive, in the sense that..."]
+      },
+      {
+        "title": "Arbeid med følelser - Integrerende element i psykoterapi",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Ole André Solbakken"],
+        "abstract": ["På tvers av ulike terapeutiske tilnærminger fremheves arbeid med følelser som sentralt for endring. Dette er et område der ulike terapiretninger synes å bevege seg mot en form for konsensus, og både teknisk og teoretisk integrasjon er mulig. Relativt uavhengig av psykoterapiteoretisk ståsted finner vi en bevegelse mot forståelsen av følelser som gr..."]
+      },
+      {
+        "title": "Affektintegrasjon og nivåer av mental representasjon",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Jon T Monsen", "Ole André Solbakken"],
+        "abstract": ["Affect integration and levels of mental representation: Focal points of therapeutic intervention with the affect consciousness treatment model. \n\nThis article presents a revised version of the affect consciousness treatment model, a form of psychotherapy specifically oriented towards increasing patients’ capacity for affect integration. The model s..."]
+      },
+      {
+        "title": "Affect integration as a predictor of change: Affect consciousness and treatment response in open-ended psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Ole André Solbakken", "Roger Sandvik Hansen", "Odd E Havik", "Jon T Monsen"],
+        "abstract": ["The present study investigated the relationship between baseline levels of affect integration and the magnitude of change during and after open-ended psychotherapy. Affect integration reflects the capacity for accessing and utilizing the adaptive properties of affects for personal adjustment, along with the more general capability of tolerating and..."]
+      },
+      {
+        "title": "Affect Integration, psychopathology, and psychotherapy: Conceptual issues, construct validity, and the prediction of change",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "Oct 2011",
+        "authors": ["Ole André Solbakken"],
+        "abstract": ["Affect integration, defined as the functional integration of affect in cognition, motivation and behavior, is commonly presumed to be a central feature of healthy psychological functioning. Conversely, the relative absence of such integration is recognized to be characteristic of a wide range of psychological disturbances. The construct domain of a..."]
+      },
+      {
+        "title": "Affect integration and reflective function: Clarification of central conceptual issues",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Ole André Solbakken", "Roger Sandvik Hansen", "Jon T Monsen"],
+        "abstract": ["The importance of affect regulation, modulation or integration for higher-order reflection and adequate functioning is increasingly emphasized across different therapeutic approaches and theories of change. These processes are probably central to any psychotherapeutic endeavor, whether explicitly conceptualized or not, and in recent years a number..."]
+      },
+      {
+        "title": "Interpersonal problems among 988 Norwegian psychiatric outpatients. A study of pretreatment self-reports",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Espen Bjerke", "Roger Sandvik Hansen", "Ole André Solbakken", "Jon T Monsen"],
+        "abstract": ["No studies, to our knowledge, have examined what specific kinds of interpersonal problems characterize a general psychiatric outpatient population. Do they differ from the normal population in any specific way, apart from the expected \"more of everything\"? The aim of this study was to map and categorize a large psychiatric outpatient sample with re..."]
+      },
+      {
+        "title": "Assessment of Affect Integration: Validation of the Affect Consciousness Construct",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Ole André Solbakken", "Roger Sandvik Hansen", "Odd E Havik", "Jon T Monsen"],
+        "abstract": ["Affect integration, or the capacity to utilize the motivational and signal properties of affect for personal adjustment, is assumed to be an important aspect of psychological health and functioning. Affect integration has been operationalized through the affect consciousness (AC) construct as degrees of awareness, tolerance, nonverbal expression, a..."]
+      }
+    ],
+    "degree": ["Professor"],
+    "bio": "Ole André Solbakken currently works as Professor of Clinical Psychology and Head of the Clinical Section at the Department of Psychology, University of Oslo. Ole André does research in Emotion, Clinical Psychology and Differential Psychology. One of his current projects is 'Affect Integration, Psychopathology, and Psychotherapy: Conceptual Issues, Construct Validity, and the Prediction of Change.' Ole André works as a dual competancy scholar combining a clinical speciality in psychotherapeutic treatment of adults with scientific inquiry into the processes and outcomes of pyschotherapy, the mechanisms and development of psychopathology, and the role of emotion in mental health and psychological functioning. Tomkins proposed that various profiles of general neural firing patterns would correspond to activators of distinct affect categories, what he termed the density of neural firing. E.g. very rapid increases in the density of neural firing would activate surprise, rapid increases would activate fear, slower increases would activate interest, very rapid decreases would activate laughter,  rapid decreases would activate joy, prolonged intermediately elevated levels of firing density would activate distress, while prolonged highly elevated levels would activate anger. The model is very appealing in its simplicity and potential implications, but has never been tested. The question is, could this be done and how?I have wondered about using auditory stimulation as a proxy for the different firing patterns, e.g music or other sounds to test if this could produce the affect activations posited by the theory, but maybe there are better ways. Happy for any answer and input or collaborations on this.  ",
+    "publications": [70],
+    "reads": [36187],
+    "citations": [564]
   }
 }

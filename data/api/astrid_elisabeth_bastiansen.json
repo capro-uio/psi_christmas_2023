@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Astrid Elisabeth Bastiansen",
-    "id": "24030",
+    "name": ["Astrid Elisabeth Bastiansen"],
+    "id": ["24030"],
     "keywords": ["Children", "Socialpsychology", "Youth", "Collective cruelness", "Cultural psychology", "Professionalism", "Group Psychology", "Childhood and youth", "Identity and self development", "Stereotypes, prejudice and conflict betweeen groups"],
     "position": ["Emeritus"],
     "img": {},
@@ -21,8 +21,8 @@
       {
         "type": "Popular scientific article",
         "year": "2003",
-        "journal": "Impuls : Tidsskrift for psykologi",
-        "url": "https://api.cristin.no/v2/results/465714"
+        "url": "https://api.cristin.no/v2/results/465714",
+        "journal": "Impuls : Tidsskrift for psykologi"
       },
       {
         "type": "Non-fiction book",
@@ -37,26 +37,26 @@
       {
         "type": "Popular scientific article",
         "year": "1999",
-        "journal": "Parapsykologiske Notiser. Tidsskrift for Norsk Parapsykologisk Selskap",
-        "url": "https://api.cristin.no/v2/results/470520"
+        "url": "https://api.cristin.no/v2/results/470520",
+        "journal": "Parapsykologiske Notiser. Tidsskrift for Norsk Parapsykologisk Selskap"
       },
       {
         "type": "Popular scientific article",
         "year": "1999",
-        "journal": "Transpersonlig Perspektiv. Tidsskrift for Norsk Transpersonlig Forening.",
-        "url": "https://api.cristin.no/v2/results/470519"
+        "url": "https://api.cristin.no/v2/results/470519",
+        "journal": "Transpersonlig Perspektiv. Tidsskrift for Norsk Transpersonlig Forening."
       },
       {
         "type": "Popular scientific article",
         "year": "1997",
-        "journal": "Flux (Oslo)",
-        "url": "https://api.cristin.no/v2/results/472160"
+        "url": "https://api.cristin.no/v2/results/472160",
+        "journal": "Flux (Oslo)"
       },
       {
         "type": "Academic article",
         "year": "1997",
-        "journal": "Nordisk Psykologi: teori, forskning, praksis",
-        "url": "https://api.cristin.no/v2/results/452305"
+        "url": "https://api.cristin.no/v2/results/452305",
+        "journal": "Nordisk Psykologi: teori, forskning, praksis"
       },
       {
         "type": "Compendium",
@@ -64,5 +64,116 @@
         "url": "https://api.cristin.no/v2/results/310835"
       }
     ]
+  },
+  "rg": {
+    "id": "Astrid-Macher",
+    "name": "Astrid Elisabeth Macher",
+    "img": "https://i1.rgstatic.net/ii/profile.image/438896073940992-1481652386468_Q128/Astrid-Macher.jpg",
+    "affiliation": "Polymer Competence Center Leoben GmbH, Aging Behavior of Polymers",
+    "keywords": ["Material Characterization", "Mechanical Behavior of Materials", "Mechanical Testing", "Material Characteristics", "Tensile Testing", "Materials Testing", "Mechanics of Materials", "Polymers", "Materials", "Photovoltaics"],
+    "works": [
+      {
+        "title": "Investigation of the crack propensity of co-extruded polypropylene backsheet films for photovoltaic modules",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Gernot Oreski", "Chiara Barretta", "Astrid Elisabeth Macher", "Minna Aarnio-Winterhof"],
+        "abstract": []
+      },
+      {
+        "title": "Investigation of the Crack Propensity of Co-Extruded Polypropylene Backsheet Films for Photovoltaic Modules",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Gernot Oreski", "Chiara Barretta", "Astrid Elisabeth Macher", "Minna Aarnio Winterhof"],
+        "abstract": []
+      },
+      {
+        "title": "Filler Models Revisited: Extension of the Nielson Model with Respect to the Geometric Arrangements of Fillers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Johannes Macher", "Pouyan Golestaneh", "Astrid Elisabeth Macher", "Andreas Hausberger"],
+        "abstract": ["Models describing how fillers affect the barrier properties of polymers remain an important research topic to improve applications such as hydrogen storage or food preservation. The Nielsen model, one of the earliest models for such predictions, is still one of the most widely used in the literature. However, it does not provide quantitative inform..."]
+      },
+      {
+        "title": "What Are PVDF-Based Backsheets Made Of?",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2022",
+        "authors": ["Chiara Barretta", "Eric Helfer", "Astrid Elisabeth Macher", "Gernot Oreski"],
+        "abstract": []
+      },
+      {
+        "title": "Degradation of Crystalline Silicon Photovoltaic Modules Installed in Different Climates",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2022",
+        "authors": ["Chiara Barretta", "Astrid Elisabeth Macher", "Julian Ascencio-Vasquez", "Gernot Oreski"],
+        "abstract": []
+      },
+      {
+        "title": "Investigation of the crack propensity of co-extruded polypropylene based backsheets",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2022",
+        "authors": ["Gernot Oreski", "Chiara Barretta", "Astrid Elisabeth Macher", "Minna Aarnio-Winterhof"],
+        "abstract": []
+      },
+      {
+        "title": "Nanoindentation for Fast Investigation of PET Film Degradation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Petra Christöfl", "Bettina Ottersböck", "Caterina Czibula", "Gernot Oreski"],
+        "abstract": ["The lifetime of industrial polymer products is in many cases limited by aging. Therefore, it is necessary to develop a fast and sensitive method to detect polymer aging at an early stage. A commercially available 50-µm-thick and transparent polyethylene terephtalate (PET) film was aged under different artificial conditions, and the evolution of mec..."]
+      },
+      {
+        "title": "Polymers for Hydrogen: Efficient Characterization of the Barrier Properties",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Johannes Macher", "Astrid Elisabeth Macher", "Matthias Morak", "Andreas Hausberger"],
+        "abstract": ["Hydrogen technology will play a major role in the transition to eco-friendly energy production and transport, although hydrogen storage is still one of the biggest challenges of this technology due to the high operating pressure of its applications and the high permeability of hydrogen. New light-weight polymers are needed to withstand such high pr..."]
+      },
+      {
+        "title": "Morphological characterization of semi-crystalline POM using nanoindentation",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Petra Christöfl", "Caterina Czibula", "Tristan Seidlhofer", "Gerald Pinter"],
+        "abstract": ["Nanoindentation (NI) is a contact method to investigate localized micromechanical properties of materials, whereby NI of semi-crystalline polymers is challenging. The influence of morphological structures such as spherulites or crystal-lamellae on localized NI depth-force behavior is discussed controversially in literature. Hence, the main objectiv..."]
+      },
+      {
+        "title": "Low temperature induced physical aging effects of backsheet materials",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2021",
+        "authors": ["Gernot Oreski", "Astrid Elisabeth Macher", "Katharina Resch-Fauster"],
+        "abstract": []
+      },
+      {
+        "title": "Critical review of models for H2-permeation through polymers with focus on the differential pressure method",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Johannes Macher", "Andreas Hausberger", "Astrid Elisabeth Macher", "Bernd Schrittesser"],
+        "abstract": ["To reduce loss of hydrogen in storage vessels with high energy-to-weight-ratio, new materials, especially polymers, have to be developed as barrier materials. Very established methods for characterization of barrier materials with permeation measurements are the time-lag and flow rate method along with the differential pressure method, which resemb..."]
+      },
+      {
+        "title": "Cross-linking and postcross-linking of ethylene vinyl acetate in photovoltaic modules",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["Gernot Oreski", "Astrid Elisabeth Macher", "Christina Hirschl", "Gerald Pinter"],
+        "abstract": ["Ethylene vinyl acetate (EVA) is the dominating material for the encapsulation of solar cells. A better understanding of the cross-linking reaction progress during PV module lamination could lead to promising approaches for shortening of PV module lamination times but also for optimization of the EVA formulation. Therefore, the main aim of this stud..."]
+      },
+      {
+        "title": "Post-crosslinking in photovoltaic modules under different conditions",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2014",
+        "authors": ["Christina Hirschl", "Lukas Neumaier", "Wolfgang Muehleisen", "Martin Kraft"],
+        "abstract": ["Title:\n\nPost-Crosslinking in Photovoltaic Modules under Different Conditions\n\nAbstract/Summary:\n\nThe serious pricing pressure in the manufacturing of photovoltaic (PV) modules causes an immediate need for a reduction of production costs. The time limiting process in PV manufacturing lines is the lamination process. Today, the predominately used emb..."]
+      },
+      {
+        "title": "EVAnetz - Inline Ethylen/Vinylacetat Vernetzungsgradkontrolle in Photovoltaikmodulen",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2013",
+        "authors": ["Christina Hirschl", "Wolfgang Muehleisen", "Lukas Neumaier", "Gabriele Eder"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "publications": [14],
+    "reads": [1886],
+    "citations": [67]
   }
 }

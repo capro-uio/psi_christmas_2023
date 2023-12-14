@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Renathe Aspeli Simonsen",
-    "id": "1371469",
+    "name": ["Renathe Aspeli Simonsen"],
+    "id": ["1371469"],
     "keywords": [],
     "position": ["University lecturer", "Head of division"],
     "img": {},
@@ -16,10 +16,52 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/1978156",
         "title": "Experiences from using patient accessible electronic health records -a qualitative study within Sámi mental health patients in Norway",
-        "journal": "International Journal of Circumpolar Health",
-        "url": "https://api.cristin.no/v2/results/1978156"
+        "journal": "International Journal of Circumpolar Health"
       }
     ]
+  },
+  "rg": {
+    "id": "Ann-Aspeli",
+    "name": "Ann Aspeli",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Gagné Forest Vansteenkiste et al 2014 The Multidimensional Work Motivation Scale Validation evidence in seven languages and nine countries",
+        "tags": ["Data", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Marylène Gagné", "Jacques Forest", "Maarten Vansteenkiste", "Cathrine"],
+        "abstract": []
+      },
+      {
+        "title": "The Multidimensional Work Motivation Scale: Validation evidence in seven languages and nine Countries",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Marylène Gagné", "Jacques Forest", "Maarten Vansteenkiste", "Catherine Westbye"],
+        "abstract": ["Self-determination theory proposes a multidimensional conceptualization of motivation comprising autonomous and controlled forms. Whereas autonomous motivation relates positively to individuals’ optimal functioning (e.g., well-being, performance), controlled motivation is less beneficial. To be able to use self-determination theory in the field of..."]
+      },
+      {
+        "title": "The Multidimensional Work Motivation Scale: Validation evidence in seven languages and nine countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Marylène Gagné", "Jacques Forest", "Maarten Vansteenkiste", "Cathrine"],
+        "abstract": ["Self-determination theory proposes a multidimensional conceptualization of motivation comprising autonomous and controlled forms. Whereas autonomous motivation relates positively to individuals’ optimal functioning (e.g., well-being, performance), controlled motivation is less beneficial. To be able to use self-determination theory in the field of..."]
+      },
+      {
+        "title": "The Multidimensional Work Motivation Scale: Validation evidence in seven languages and nine countries",
+        "tags": ["Article"],
+        "date": "Jan 2014",
+        "authors": ["Marylène Gagné", "Jacques Forest", "Maarten Vansteenkiste", "Ann Aspeli"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [4],
+    "reads": [23732],
+    "citations": [1020]
   }
 }

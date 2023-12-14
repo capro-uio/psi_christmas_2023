@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Marieke A. Helmich",
-    "id": "MtyrRAkAAAAJ",
-    "affiliation": "University of Oslo, Department of Psychology",
+    "name": ["Marieke A. Helmich"],
+    "id": ["MtyrRAkAAAAJ"],
+    "affiliation": ["University of Oslo, Department of Psychology"],
     "data": {
       "publications": [
         {
@@ -377,8 +377,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-3630-4327",
-    "name": "Marieke Helmich",
+    "orcid": ["0000-0002-3630-4327"],
+    "name": ["Marieke Helmich"],
     "distinctions": [
       {
         "start": "2020",
@@ -534,8 +534,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Marieke A. Helmich",
-    "id": "1425408",
+    "name": ["Marieke A. Helmich"],
+    "id": ["1425408"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -550,44 +550,93 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Detecting Impending Symptom Transitions Using Early-Warning Signals in Individuals Receiving Treatment for Depression",
-        "journal": "Clinical Psychological Science",
-        "url": "https://api.cristin.no/v2/results/2107526"
+        "url": "https://api.cristin.no/v2/results/2107526",
+        "journal": "Clinical Psychological Science"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Daily dynamics of negative affect: indicators of rate of response to treatment and remission from depression?",
-        "journal": "Cognition & Emotion",
-        "url": "https://api.cristin.no/v2/results/2059518"
+        "url": "https://api.cristin.no/v2/results/2059518",
+        "journal": "Cognition & Emotion"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
         "title": "Early warning signals and critical transitions: challenges and recommendations",
-        "journal": "Current Opinion in Psychology",
-        "url": "https://api.cristin.no/v2/results/2029646"
+        "url": "https://api.cristin.no/v2/results/2029646",
+        "journal": "Current Opinion in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Transitions in Depression (TRANS-ID) Recovery: Study protocol for a repeated intensive longitudinal n = 1 study design to search for personalized early warning signals of critical transitions towards improvement in depression",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2029665"
+        "url": "https://api.cristin.no/v2/results/2029665",
+        "journal": "PsyArXiv"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Critical fluctuations as an early-warning signal for sudden gains and losses in patients receiving psychotherapy for mood disorders",
-        "journal": "Clinical Psychological Science",
-        "url": "https://api.cristin.no/v2/results/2029654"
+        "url": "https://api.cristin.no/v2/results/2029654",
+        "journal": "Clinical Psychological Science"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Sudden gains in day-to-day change: revealing nonlinear patterns of individual improvement in depression",
-        "journal": "Journal of Consulting and Clinical Psychology",
-        "url": "https://api.cristin.no/v2/results/2029652"
+        "url": "https://api.cristin.no/v2/results/2029652",
+        "journal": "Journal of Consulting and Clinical Psychology"
       }
     ]
+  },
+  "rg": {
+    "id": "Stein-Marieke",
+    "name": "Stein Marieke",
+    "img": "https://i1.rgstatic.net/ii/profile.image/356181882228736-1461931786713_Q128/Stein-Marieke.jpg",
+    "affiliation": "University of Lorraine | UdL, University of Lorraine, CREM  Centre de Recherche sur les Médiations",
+    "keywords": ["Political Participation", "Newspapers", "Election Studies", "Citizen Participation", "Governance", "Public Opinion", "Local Governance", "Journalism"],
+    "works": [
+      {
+        "title": "Guillaume Drouet, Marier les destins. Une ethnocritique des Misérables",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Stein Marieke"],
+        "abstract": "Le roman de Victor Hugo le plus lu, le plus souvent adapte et peut-etre le plus etudie n’a pas encore livre tous ses secrets : l’œuvre n’epuise pas les commentaires, et c’est une nouvelle approche interessante qu’en propose Guillaume Drouet, docteur en langue et litterature francaise de l’Universite de Lorraine. Dans Marier les destins. Une ethnocr..."
+      },
+      {
+        "title": "Intimité et discours politique : l’intime dans les campagnes électorales de 1848",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2012",
+        "authors": ["Stein Marieke"],
+        "abstract": "Since the 1950 American election campaigns (from Eisenhower onwards), political marketing has brought to the foreground the family life of the candidates, their love lives, emotions… anything related to their personal lives. In France, a similar trend was noted during the 2002 election, which was even more apparent in 2007. But what was the situati..."
+      },
+      {
+        "title": "Victor Hugo orateur",
+        "tags": ["Article"],
+        "date": "Dec 2006",
+        "authors": ["Stein Marieke"],
+        "abstract": "Victor Hugo gave about a hundred speeches in several political meetings from 1846 to 1880. According to him, the political speech aims to develop the people’s edification and civic instruction. In this way, the orator concentrates on the diffusion of his speech beyond the audience, among the population. In that respect, he sets up a large organizat..."
+      },
+      {
+        "title": "Victor Hugo orateur. Une pratique moderne de la communication politique",
+        "tags": ["Article"],
+        "date": "Dec 2006",
+        "authors": ["Stein Marieke"],
+        "abstract": "Victor Hugo gave about a hundred speeches in several political meetings from 1846 to 1880. According to him, the political speech aims to develop the people’s edification and civic instruction. In this way, the orator concentrates on the diffusion of his speech beyond the audience, among the population. In that respect, he sets up a large organizat..."
+      },
+      {
+        "title": "Posture politique, posture dramatique : Victor Hugo orateur ou la parole du héros",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Stein Marieke"],
+        "abstract": "Comme d’autres poètes de la grande génération romantique, Victor Hugo est un écrivain engagé, mais il l’est de manière originale puisqu’il ajoute à son œuvre littéraire une implication réelle dans les affaires publiques, comme pair de France, député et sénateur, de 1845 à 1885. C’est à la tribune de ces différentes assemblées que s’observe le mieux..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [5],
+    "reads": [172],
+    "citations": [0]
   }
 }

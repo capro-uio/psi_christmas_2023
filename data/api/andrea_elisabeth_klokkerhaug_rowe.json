@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Andrea Rowe",
-    "id": "9MJ0XhIAAAAJ",
-    "affiliation": "RSW Counsellor, Regent Park Community Health Centre, EarlyON Child and Family Centre …",
+    "name": ["Andrea Rowe"],
+    "id": ["9MJ0XhIAAAAJ"],
+    "affiliation": ["RSW Counsellor, Regent Park Community Health Centre, EarlyON Child and Family Centre …"],
     "data": {
       "publications": [
         {
@@ -36,8 +36,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-2222-3996",
-    "name": "Andrea Rowe",
+    "orcid": ["0000-0003-2222-3996"],
+    "name": ["Andrea Rowe"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -48,11 +48,31 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Andrea Elisabeth Klokkerhaug Rowe",
-    "id": "1641214",
+    "name": ["Andrea Elisabeth Klokkerhaug Rowe"],
+    "id": ["1641214"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Andrea-Schuhmann",
+    "name": "Andrea Elisabeth Schuhmann",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Tugraz, Qft",
+    "keywords": ["Geometry"],
+    "works": [
+      {
+        "title": "Short-term efficacy and nontarget effects of aerial glyphosate applications for controlling Lonicera maackii (Amur honeysuckle) in oak-hickory forests of Eastern Missouri, U.S.A.: Amur honeysuckle control",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Michael J. Leahy", "Ivan Vining", "Jason L. Villwock", "Calvin Maginel"],
+        "abstract": "Lonicera maackii (Amur honeysuckle) is a non-native species that has invaded forest stands throughout the eastern United States. This research examined using aerially applied glyphosate in autumn 2013 to control L. maackii in oak-hickory forest stands in Missouri, U.S.A. We targeted the spraying time period when L. maackii was still green and most..."
+      }
+    ],
+    "degree": ["Bachelor", "of", "Applied", "Science"],
+    "publication": [1],
+    "reads": [47],
+    "citations": [5]
   }
 }

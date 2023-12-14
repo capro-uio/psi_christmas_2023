@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Kristin Gustavson",
-    "id": "6jiBl-8AAAAJ",
-    "affiliation": "",
+    "name": ["Kristin Gustavson"],
+    "id": ["6jiBl-8AAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -831,8 +831,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-3047-3234",
-    "name": "Kristin Gustavson",
+    "orcid": ["0000-0002-3047-3234"],
+    "name": ["Kristin Gustavson"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -848,8 +848,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Kristin Gustavson",
-    "id": "3760",
+    "name": ["Kristin Gustavson"],
+    "id": ["3760"],
     "keywords": [],
     "position": ["Professor", "Researcher"],
     "img": {},
@@ -1502,5 +1502,593 @@
         "url": "https://api.cristin.no/v2/results/930652"
       }
     ]
+  },
+  "rg": {
+    "id": "Kristin-Gustavson-2",
+    "name": "Kristin Gustavson",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Norwegian Institute of Public Health, Department of Genetics Environment and Mental Health",
+    "keywords": ["Life Satisfaction", "Longitudinal Studies", "Depression"],
+    "works": [
+      {
+        "title": "Conduct disorder - a comprehensive exploration of comorbidity patterns, genetic and environmental risk factors",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Natalia Tesli", "Piotr Jahołkowski", "Unn K Haukvik", "Ole A Andreasssen"],
+        "abstract": []
+      },
+      {
+        "title": "Contact with primary care physicians among adults with pre-existing common mental health problems during the COVID-19 pandemic: a registry-based study from Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Pia Jensen", "Christian Madsen", "Lars Johan Hauge", "Ragnar Nesvåg"],
+        "abstract": ["Background\nDuring the COVID-19 pandemic, individuals with pre-existing mental health problems may have experienced additional stress, which could worsen symptoms or trigger relapse. Thus, this study aimed to investigate if the number of consultations with general practitioners (GPs) among individuals with a pre-existing common mental health problem..."]
+      },
+      {
+        "title": "Incidence rates of treated mental disorders before and during the COVID-19 pandemic—a nationwide study comparing trends in the period 2015 to 2021",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Pia Jensen", "Bo Engdahl", "Kristin Gustavson", "Ragnar Nesvåg"],
+        "abstract": ["Background\nThere is a concern that exposure to psychosocial stressors during the COVID-19 pandemic may have led to a higher incidence of mental disorders. Thus, this study aimed to compare trends in incidence rates of depressive disorder, anxiety disorders, obsessive–compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and eating disor..."]
+      },
+      {
+        "title": "Common genetic and environmental risk for personality disorders and psychotic-like experiences in young adult twins",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Martin Tesli", "Ragnar Nesvåg", "Unn K Haukvik", "Eivind Ystrom"],
+        "abstract": ["Introduction: \nPsychotic-like experiences (PLE) have been associated with the subsequent emergence of psychotic disorders as well as several other domains of psychopathology. In this twin study, we estimated the genetic and environmental correlations between PLE and 10 personality disorders (PD).\n\nMethods: \nDiagnoses of 10 PDs according to the Diag..."]
+      },
+      {
+        "title": "Characteristics of parents living apart in Norway: Comparing four residence arrangements",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Maria Morbech", "Tonje Holt", "Kristin Gustavson"],
+        "abstract": ["Objective: This study investigates differences in characteristics between parents practicing four different residence arrangements by applying a novel categorisation of residence arrangements.\nBackground: The research field on factors associated with shared and sole physical residence is growing. This binary approach may neglect important different..."]
+      },
+      {
+        "title": "Incidence rates of treated mental disorders before and during the COVID-19 pandemic - a nationwide study comparing trends in the period 2015 to 2021",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Pia Jensen", "Bo Engdahl", "Kristin Gustavson", "Ragnar Nesvåg"],
+        "abstract": ["Background: There is a concern that exposure to psychosocial stressors during the COVID-19 pandemic may have led to a higher incidence of mental disorders. Thus, this study aimed to compare trends in incidence rates of depressive disorder, anxiety disorders, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and eating diso..."]
+      },
+      {
+        "title": "Contact with primary care physicians among adults with pre-existing common mental health problems during the COVID-19 pandemic: a registry-based study from Norway",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Pia Jensen", "Christian Madsen", "Lars Johan Hauge", "Ragnar Nesvåg"],
+        "abstract": ["Background: During the COVID-19 pandemic, individuals with pre-existing mental health problems may have experienced additional stress, which could worsen symptoms or trigger relapse.\nObjective: To investigate if the number of consultations with general practitioners (GPs) among individuals with a pre-existing common mental health problem during the..."]
+      },
+      {
+        "title": "Children's participation in post‐divorce decision‐making: The role of conflict and attachment",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Olav Tveit", "Kristin Gustavson", "Maren Sand Helland"],
+        "abstract": ["Increased child participation in decision‐making about custody and visitation when parents separate is an explicit political goal. This study delineates central family processes associated with child participation in post‐divorce decision‐making, both in mediation and in the home. Children recruited to the Dynamics of Family Conflict Study at Norwe..."]
+      },
+      {
+        "title": "INDIRECT GENETIC INFLUENCES ON MENTAL DISTRESS IN MOTHER-FATHER-OFFSPRING TRIOS DURING THE COVID-19 LOCKDOWN",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Johanne Pettersen", "Laurie Hannigan", "Espen Moen Eilertsen", "Helga Ask"],
+        "abstract": []
+      },
+      {
+        "title": "T93. POLYGENIC SCORES FOR MENTAL DISORDERS AND ADOLESCENT LEVEL OF MENTAL DISTRESS DURING THE FIRST YEAR OF THE COVID-19 PANDEMIC",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Johanne Pettersen", "Laurie Hannigan", "Kristin Gustavson", "Helga Ask"],
+        "abstract": []
+      },
+      {
+        "title": "Predictors of Relationship Satisfaction Across the Transition to Parenthood: Results from the Norwegian Mother, Father, and Child Cohort Study (MoBa)",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Mila Kingsbury", "Zahra Clayborne", "Wendy Nilsen", "Ian Colman"],
+        "abstract": ["The purpose of the study was to describe trajectories of relationship satisfaction across the transition to parenthood, and identify predictors of these trajectories. This study is based on the Norwegian Mother, Father, and Child Cohort Study (MoBa). Mothers (N = 43,517) reported on their relationship satisfaction at five timepoints from 17 weeks g..."]
+      },
+      {
+        "title": "Positive maternal mental health attenuates the associations between prenatal stress and children’s internalizing and externalizing symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Zahra Clayborne", "Wendy Nilsen", "Fartein Ask Torvik", "Ian Colman"],
+        "abstract": ["Positive maternal mental health can improve perceptions of stressful situations and promote the use of adaptive coping strategies. However, few studies have examined how positive maternal mental health affects children’s development. The aims of this study were to examine the associations between positive maternal mental health and children’s inter..."]
+      },
+      {
+        "title": "Handling unobserved confounding in the relation between prenatal risk factors and child outcomes: a latent variable strategy",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Kristin Gustavson", "George Davey Smith", "Espen Moen Eilertsen"],
+        "abstract": ["Background\nSeveral studies have examined maternal health behavior during pregnancy and child outcomes. Negative control variables have been used to address unobserved confounding in such studies. This approach assumes that confounders affect the exposure and the negative control to the same degree. The current study introduces a novel latent variab..."]
+      },
+      {
+        "title": "Pathways From Preschool Language Difficulties to School-Age Internalizing Problems",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Siri Saugestad Helland", "Espen Røysamb", "Synnve Schjolberg", "Kristin Gustavson"],
+        "abstract": ["Purpose\nEarly language difficulties are associated with later internalizing problems across different ages and for different aspects of language. The mechanisms behind this association are, however, less understood. In the current study, we investigated longitudinal associations between language difficulties at 5 years and internalizing problems at..."]
+      },
+      {
+        "title": "Risk of attention‐deficit hyperactivity disorder in offspring of mothers with infections during pregnancy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Kjersti Mæhlum Walle", "Ragna B. Askeland", "Kristin Gustavson", "Helga Ask"],
+        "abstract": ["Background: \nMaternal infections during pregnancy are common events that have been suggested to be risk factors for Attention-deficit hyperactivity disorder (ADHD) in offspring. Only a few studies have been conducted to date and results are conflicting. The current study investigates the associations between specific groups of prenatal maternal inf..."]
+      },
+      {
+        "title": "The ADHD deficit in school performance across sex and parental education: A prospective sibling‐comparison register study of 344,152 Norwegian adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Hans Fredrik Sunde", "Thomas Haarklau Kleppestø", "Kristin Gustavson", "Fartein Ask Torvik"],
+        "abstract": ["Background: \nAttention-Deficit Hyperactivity Disorder (ADHD) is associated with impaired school performance, but the impact of ADHD may vary across sex, family background, and school subjects. By using prospective population-wide register data, we describe impairment in academic performance related to ADHD across different school subjects and inves..."]
+      },
+      {
+        "title": "Educational attainment and mortality in schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Martin Tesli", "Eirik Degerud", "Oleguer Plana-Ripoll", "Oyvind Naess"],
+        "abstract": ["Background: \nIndividuals suffering from schizophrenia have a reduced life expectancy with cardiovascular disease (CVD) as a major contributor. Low educational attainment is associated with schizophrenia as well as with all-cause and CVD mortality. However, it is unknown to what extent low educational attainment can explain the increased mortality i..."]
+      },
+      {
+        "title": "Intergenerational transmission of parental neuroticism to emotional problems in 8‐year‐old children: Genetic and environmental influences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Helga Ask", "Espen Moen Eilertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": ["Background: \nChildren of parents with high levels of neuroticism tend to have high neuroticism themselves as well as increased risk of experiencing symptoms of anxiety and depression. It is not yet clear how much of this link is attributable to a potential effect of parent on child (e.g., via a socializing effect) versus to shared genetic risk. We..."]
+      },
+      {
+        "title": "Prenatal work stress is associated with prenatal and postnatal depression and anxiety: Findings from the Norwegian Mother, Father and Child Cohort Study (MoBa)",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Zahra Clayborne", "Ian Colman", "Mila Kingsbury", "Wendy Nilsen"],
+        "abstract": ["Background\nAn emerging body of research suggests that stress experienced in the workplace can have detrimental impacts on maternal mental health, including greater risk of postnatal depression. However, few longitudinal studies have examined these associations during the perinatal period. The objective of this study was to examine the associations..."]
+      },
+      {
+        "title": "Met and unmet need for mental health care before and during the COVID-19 pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Ann Kristin Skrindo Knudsen", "Jens Christoffer Skogen", "Kim Stene-Larsen", "Anne Reneflot"],
+        "abstract": ["There is a concern that the COVID-19 pandemic will generate large unmet needs for mental health care. Using data from an epidemiological psychiatric diagnostic interview survey (n = 2,159) conducted on a probability sample from the general population, the proportions of met and unmet need for mental health care among individuals with and without me..."]
+      },
+      {
+        "title": "Validation and short-form development of Conflict and Problem-solving Strategy Scales",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Maren Sand Helland", "Tonje Holt", "Kristin Gustavson", "Espen Røysamb"],
+        "abstract": ["The Strategy scales from the Conflicts and Problem-solving Scales is widely used and meaningfully distinguishes between conflict behaviours characterized by Cooperation, Avoidance, Child Involvement, Stalemating, and Verbal and Physical Aggression. The aim of this study was to validate the scale and develop a short-form for use across family struct..."]
+      },
+      {
+        "title": "Genetic and environmental contributions to co-occurring ADHD and emotional problems in school-aged children",
+        "tags": ["Article"],
+        "date": "Aug 2021",
+        "authors": ["Kristin Gustavson", "Fartein Ask Torvik", "Espen Moen Eilertsen", "Line C. Gjerde"],
+        "abstract": ["Children with attention deficit hyperactivity disorder (ADHD) often experience co-occurring emotional problems. ADHD with this comorbidity is associated with poorer outcomes than ADHD without comorbidity. Better understanding of the etiology of comorbidity could improve prevention of negative outcomes for children with ADHD. The sample consisted of..."]
+      },
+      {
+        "title": "Acetaminophen use during pregnancy and offspring attention deficit hyperactivity disorder – a longitudinal sibling control study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Kristin Gustavson", "Eivind Ystrom", "Helga Ask", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background: \nMaternal acetaminophen use during pregnancy is associated with increased risk of ADHD in the child. This could reflect causal influence of acetaminophen on fetal neurodevelopment or could be due to confounding factors. The aim of the current study was to examine unmeasured familial confounding factors of this association.\n\nMethods: \nWe..."]
+      },
+      {
+        "title": "Prevalence of mental disorders, suicidal ideation and suicides in the general population before and during the COVID-19 pandemic in Norway: A population-based repeated cross-sectional analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Ann Kristin Skrindo Knudsen", "Kim Stene-Larsen", "Kristin Gustavson", "Anne Reneflot"],
+        "abstract": ["Background\nSelf-report data on mental distress indicate a deterioration of population mental health in many countries during the COVID-19 pandemic. A Norwegian epidemiological diagnostic psychiatric interview survey was conducted from January to September 2020, allowing for comparison of mental disorder and suicidal ideation prevalence from before..."]
+      },
+      {
+        "title": "Agreement Between Child and Parent Reports of Children’s Reactions to Interparental Conflict",
+        "tags": ["Article"],
+        "date": "Apr 2021",
+        "authors": ["Tonje Holt", "Maren Sand Helland", "Maria Morbech", "Edward Mark Cummings"],
+        "abstract": ["Children's perception of interparental conflict is still a relatively unexplored research area. The aim of this study was twofold. First, we wanted to gain more knowledge about the relationship between child and parent reports of children's reactions to interparental conflict across three dimensions: Emotional Reactions, Involvement Reactions, and..."]
+      },
+      {
+        "title": "Livskvalitet i Norge 2019",
+        "tags": ["Book", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Ragnhild Bang Nes", "Thomas Sevenius Nilsen", "Lars Johan Hauge", "Espen Røysamb"],
+        "abstract": ["Hvordan hadde vi det egentlig i Norge i 2019? Og hvor jevnt var livskvaliteten egentlig fordelt? Denne rapporten gir en første oversikt over sider av livskvaliteten i Norge som vi tidligere har hatt lite kunnskap om. Den gir et utgangspunkt for å studere utviklingen i livskvalitet i befolkningen og befolkningsgrupper i årene fremover. \nRapporten by..."]
+      },
+      {
+        "title": "A Common Family Factor Underlying Language Difficulties and Internalizing Problems: Findings From a Population-Based Sibling Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Siri Saugestad Helland", "Espen Røysamb", "Ragnhild Eek Brandlistuen", "Kristin Gustavson"],
+        "abstract": ["Studies have identified concurrent, longitudinal, and bidirectional associations between language difficulties and internalizing problems. This is commonly explained by social exclusion or withdrawal from peers, but underlying mechanisms are not well understood. This study uses sibling data to investigate if the comorbidity between language difficu..."]
+      },
+      {
+        "title": "Mechanisms linking parental educational attainment with child ADHD, depression, and academic problems: a study of extended families in The Norwegian Mother, Father and Child Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Fartein Ask Torvik", "Espen Moen Eilertsen", "Tom A Mcadams", "Eivind Ystrom"],
+        "abstract": ["Background: \nLow educational attainment in parents is associated with child psychopathology. It is not clear whether the associations are due to risk factors that family members share or due to effects of maternal or paternal education on the offspring. We investigate whether associations between maternal and paternal educational attainment and chi..."]
+      },
+      {
+        "title": "Intergenerational Transmission of Parental Neuroticism to Emotional Problems in 8-Year Old Children: Genetic and Environmental Mechanisms",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Helga Ask", "Espen Moen Eilertsen", "Line C. Gjerde", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "Prevalence of Mental Disorders, Suicidal Ideation and Suicides in the General Population Before and During the COVID-19 Pandemic in Norway. A Population-Based Repeated Cross-Sectional Analysis from the HUNT Study and the Norwegian Cause of Death Registry",
+        "tags": ["Article"],
+        "date": "Jan 2020",
+        "authors": ["Ann Kristin Knudsen", "Kim Stene-Larsen", "Kristin Gustavson", "Anne Reneflot"],
+        "abstract": []
+      },
+      {
+        "title": "Bias from self selection and loss to follow-up in prospective cohort studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Guido Biele", "Kristin Gustavson", "Nikolai Olavi Czajkowski", "Heidi Aase"],
+        "abstract": ["Self-selection into prospective cohort studies and loss to follow-up can cause biased exposure-outcome association estimates. Previous investigations illustrated that such biases can be small in large prospective cohort studies. The structural approach to selection bias shows that general statements about bias are not possible for studies that inve..."]
+      },
+      {
+        "title": "M70 EXPLORING THE ASSOCIATIONS BETWEEN HEALTH-RELATED POLYGENIC SCORES AND PARTICIPATION IN THE NORWEGIAN MOTHER AND CHILD PREGNANCY COHORT (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Helga Ask", "Laurie Hannigan", "Neil M Davies", "Alexandra Havdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Assessing Children’s Responses to Interparental Conflict: Validation and Short Scale Development of SIS and CPIC-Properties Scales",
+        "tags": ["Article"],
+        "date": "Sep 2019",
+        "authors": ["Tonje Holt", "Maren Sand Helland", "Kristin Gustavson", "Espen Røysamb"],
+        "abstract": ["The Children’s Perception of the Interparental Conflict Scale (CPIC) and The Security in the Interparental Subsystem (SIS) are two widely used scales capturing (a) children’s perception of the interparental conflict properties and (b) children’s reactions to the conflict. The aims of this study were to validate the part of CPIC measuring children’s..."]
+      },
+      {
+        "title": "Maternal fever during pregnancy and offspring attention deficit hyperactivity disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Kristin Gustavson", "Helga Ask", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Maternal fever during pregnancy is associated with several adverse child outcomes. We investigated associations between maternal fever and ADHD among offspring, as well as the sub-dimensions of ADHD - inattention and hyperactivity/impulsivity. Data came from the Norwegian Mother and Child Cohort Study, including more than 114,000 children. Informat..."]
+      },
+      {
+        "title": "Preventing bias from selective non-response in population-based survey studies: findings from a Monte Carlo simulation study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Kristin Gustavson", "Espen Røysamb", "Ingrid Borren"],
+        "abstract": ["Background: \nHealth researchers often use survey studies to examine associations between risk factors at one time point and health outcomes later in life. Previous studies have shown that missing not at random (MNAR) may produce biased estimates in such studies. Medical researchers typically do not employ statistical methods for treating MNAR. Henc..."]
+      },
+      {
+        "title": "Prenatal and perinatal risk factors for eating disorders in women: A population cohort study",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Hunna J Watson", "Elizabeth W. Diemer", "Stephanie Zerwas Phd", "Cynthia Bulik"],
+        "abstract": ["Objective\nThe fetal programming model hypothesizes that developmental programming in utero and in early life induces adaptations that predetermine the adult phenotype. This study investigated whether prenatal/perinatal complications are associated with lifetime eating disorders in women.\n\nMethod\nParticipants included 46,373 adult women enrolled in..."]
+      },
+      {
+        "title": "Explaining the association between anxiety disorders and alcohol use disorder: A twin study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Fartein Ask Torvik", "Tom Rosenström", "Kristin Gustavson", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background\nIt is unknown whether social anxiety disorder (SAD) has a unique association with alcohol use disorder (AUD) over and beyond that of other anxiety disorders, how the associations develop over time, and whether the associations are likely to be causal.\n\nMethods\nDiagnoses of AUD, SAD, generalized anxiety disorder, panic disorder, agoraphob..."]
+      },
+      {
+        "title": "F47STABILITY AND CHANGE IN GENETIC AND ENVIRONMENTAL RISK FACTORS FOR DEPRESSION ASSESSED IN PRIMARY CARE FROM AGES 18 TO 45",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Fartein Ask Torvik", "Kristin Gustavson", "Eivind Ystrom", "Kenneth Kendler"],
+        "abstract": []
+      },
+      {
+        "title": "Continuity of genetic and environmental influences on clinically assessed major depression from ages 18 to 45",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["Fartein Ask Torvik", "Kristin Gustavson", "Eivind Ystrom", "Kenneth S. Kendler"],
+        "abstract": ["Background\nStudies on the stability of genetic risk for depression have relied on self-reported symptoms rather than diagnoses and/or short follow-up time. Our aim is to determine to what degree genetic and environmental influences on clinically assessed major depressive disorder (MDD) are stable between age 18 and 45.\n\nMethods\nA population-based s..."]
+      },
+      {
+        "title": "Development of ADHD symptoms in preschool children: Genetic and environmental contributions",
+        "tags": ["Article"],
+        "date": "Sep 2018",
+        "authors": ["Espen Moen Eilertsen", "Line C. Gjerde", "Kenneth S. Kendler", "Eivind Ystrom"],
+        "abstract": ["We examined genetic and environmental contributions to the development of symptoms of attention-deficit/hyperactivity disorder (ADHD) in preschool children. ADHD symptoms in siblings at 1.5, 3, and 5 years of age were investigated in a population-based sample from the prospective Norwegian Mother and Child Cohort Study. The longitudinal contributio..."]
+      },
+      {
+        "title": "Association of Gestational Age at Birth With Symptoms of Attention-Deficit/Hyperactivity Disorder in Children",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Helga Ask", "Kristin Gustavson", "Eivind Ystrom", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Importance\nPreterm birth is associated with an increased risk of attention-deficit/hyperactivity disorder (ADHD); however, it is unclear to what extent this association can be explained by shared genetic and environmental risk factors and whether gestational age at birth is similarly related to inattention and hyperactivity/impulsivity and to the s..."]
+      },
+      {
+        "title": "Early prenatal exposure to pandemic influenza A (H1N1) infection and child psychomotor development at 6 months – a population-based cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Ingrid Borren", "Kristian Tambs", "Kristin Gustavson", "Lill Trogstad"],
+        "abstract": ["BACKGROUND:\nStudies investigating gestational influenza and child neurodevelopment are still scarce, particularly concerning timing of infection in pregnancy. This is the first study to investigate associations between gestational influenza and infant psychomotor development and temperament at 6 months.\nMETHODS:\nData from The Norwegian Influenza Pr..."]
+      },
+      {
+        "title": "Prevalence and stability of mental disorders among young adults: Findings from a longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Kristin Gustavson", "Ann Kristin Knudsen", "Ragnar Nesvåg", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background: \nMental disorders often have onset early in life, contribute substantially to the global disease burden, and may interfere with young people's ability to complete age-relevant tasks in important developmental periods. However, knowledge about prevalence and course of mental disorders in young adulthood is sparse. The aim of the current..."]
+      },
+      {
+        "title": "Livskvalitet og trivsel",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Ragnhild Bang Nes", "Leif Edvard Aarø", "Jocelyne Clench-Aas", "Erik Nord"],
+        "abstract": []
+      },
+      {
+        "title": "Language difficulties and internalizing problems: Bidirectional associations from 18 months to 8 years among boys and girls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Siri Saugestad Helland", "Espen Røysamb", "Mari Vaage Wang", "Kristin Gustavson"],
+        "abstract": ["Studies have shown that early language difficulties are associated with later internalizing problems. Less is known about the nature of the association: the bidirectional relationship over time, the role of different types of language difficulties, and gender differences. The present study examined bidirectional longitudinal associations between pa..."]
+      },
+      {
+        "title": "Prenatal Exposure to Acetaminophen and Risk of ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Eivind Ystrom", "Kristin Gustavson", "Ragnhild Eek Brandlistuen", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Objectives: \nTo estimate the association between maternal use of acetaminophen during pregnancy and of paternal use before pregnancy with attention-deficit/hyperactivity disorder (ADHD) in offspring while adjusting for familial risk for ADHD and indications of acetaminophen use.\n\nMethods: \nDiagnoses were obtained from the Norwegian Patient Registry..."]
+      },
+      {
+        "title": "Diagnostic and genetic overlap of three common mental disorders in structured interviews and health registries",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Fartein Ask Torvik", "Eivind Ystrom", "Kristin Gustavson", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Objective: \nTo investigate whether diagnostic data from structured interviews, primary care and specialist care registries on major depressive disorder (MDD), anxiety disorders (AD) and alcohol use disorder (AUD) identify the same individuals, yield comparable comorbidity estimates and reflect the same genetic influences.\n\nMethods: \nRegistry data f..."]
+      },
+      {
+        "title": "Paracetamol exposure in pregnancy and offspring ADHD: Familial risk and confounding by indication",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Eivind Ystrom", "Kristin Gustavson", "Ragnhild Eek Brandlistuen", "Ted Reichborn-Kjennerud"],
+        "abstract": []
+      },
+      {
+        "title": "Acetaminophen Exposure in Pregnancy and Offspring ADHD: Familial Risk and Confounding by Indication",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Eivind Ystrom", "Kristin Gustavson", "Ragnhild Eek Brandlistuen", "Ted Reichborn-Kjennerud"],
+        "abstract": []
+      },
+      {
+        "title": "Maternal Eating Disorders and Perinatal Outcomes: A Three-Generation Study in the Norwegian Mother and Child Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Hunna J Watson", "Stephanie Zerwas Phd", "Leila Torgersen", "Cynthia Bulik"],
+        "abstract": ["Previous studies of the relationship between maternal eating disorders and adverse perinatal outcomes have failed to control for familial transmission of perinatal phenotypes, which may confound the reported association. In a unique design afforded by the Norwegian Mother and Child Cohort Study and Medical Birth Registry of Norway, we linked three..."]
+      },
+      {
+        "title": "Parental Child-Rearing Conflicts Through Adolescence: Trajectories and Associations With Child Characteristics and Externalizing Patterns",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Maren Sand Helland", "Anne Kjeldsen", "Tilmann von Soest", "Wendy Nilsen"],
+        "abstract": ["Research on longitudinal interparental conflict patterns and offspring development is scarce. The population-based TOPP study (N = 459) was used to investigate (1) child-rearing conflict trajectories through four time points during childhood and adolescence (ages 8–16), and (2) associations between conflict trajectories and child characteristics (i..."]
+      },
+      {
+        "title": "Cohort profile: The Tracking Opportunities and Problems Study (TOPP) - A study of Norwegian children and their parents followed from infancy to adulthood",
+        "tags": ["Article"],
+        "date": "May 2017",
+        "authors": ["Wendy Nilsen", "Anne Kjeldsen", "Evalill Bølstad Karevold", "Kristin Schjelderup Mathiesen"],
+        "abstract": []
+      },
+      {
+        "title": "Smoking in pregnancy and child ADHD",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Kristin Gustavson", "Eivind Ystrom", "Camilla Stoltenberg", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Background and objective: \nThere is a well-documented association between maternal smoking during pregnancy and offspring attention-deficit/hyperactivity disorder (ADHD). The degree to which this reflects causal intrauterine effects or is due to unmeasured confounding is not clear. We sought to compare the association between maternal smoking durin..."]
+      },
+      {
+        "title": "Prenatal Exposure to Acetaminophen and Risk of ADHD",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2017",
+        "authors": ["Kristin Gustavson", "Ragnhild Eek Brandlistuen", "Gun Peggy Knudsen", "Ted Reichborn-Kjennerud"],
+        "abstract": []
+      },
+      {
+        "title": "Prenatal Exposure to Acetaminophen and Risk of ADHD",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Kristin Gustavson", "Ragnhild Eek Brandlistuen", "Gun Peggy Knudsen", "Ted Reichborn-Kjennerud"],
+        "abstract": []
+      },
+      {
+        "title": "ADHD i Norge. En statusrapport",
+        "tags": ["Research", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Ragnhild Ørstavik", "Kristin Gustavson", "Nina Rohrer-Baumgartner", "Heidi Aase"],
+        "abstract": ["This report provides an overview of the percentage of people who are diagnosed with ADHD in Norway, of co-morbid diagnoses, and of prescribed medication."]
+      },
+      {
+        "title": "Predicting Well-Being and Internalizing Symptoms in Late Adolescence From Trajectories of Externalizing Behavior Starting in Infancy",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Anne Kjeldsen", "Wendy Nilsen", "Kristin Gustavson", "Evalill Bølstad Karevold"],
+        "abstract": ["This study aimed to examine the long-term prediction of well-being and internalizing symptoms from trajectories of externalizing behavior problems in 921 children from a population-based sample. We found that a high stable trajectory of externalizing behavior from infancy (age 1.5) to mid-adolescence (age 14.5) predicted lower scores on life satisf..."]
+      },
+      {
+        "title": "Associations between Parental Hearing Impairment and Children’s Mental Health: Results from the Nord-Trøndelag Health Study",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Ingrid Borren", "Kristian Tambs", "Kristin Gustavson", "Jon Martin Sundet"],
+        "abstract": []
+      },
+      {
+        "title": "Prenatal influenza A H1N1 pdm09 (‘swine flu') infection or vaccination and child cognitive development",
+        "tags": ["Poster"],
+        "date": "Sep 2015",
+        "authors": ["Ingrid Borren", "Kristian Tambs", "Kristin Gustavson", "Olav Hungnes"],
+        "abstract": []
+      },
+      {
+        "title": "Maternal distress during pregnancy and language development in preschool age: A population-based cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Luisa Ribeiro", "Henrik Daae Zachrisson", "Kristin Gustavson", "Synnve Schjolberg"],
+        "abstract": ["Recent studies have emphasized the importance of the prenatal period for children's cognitive development. Prenatal exposure to psychological distress has been identified as one potential agent affecting neurodevelopment, although research in this area has been marked by some contradictory findings and methodological limitations. This study aimed t..."]
+      },
+      {
+        "title": "Life Satisfaction in Close Relationships: Findings from a Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Jun 2015",
+        "authors": ["Kristin Gustavson", "Espen Røysamb", "Ingrid Borren", "Evalill Bølstad Karevold"],
+        "abstract": ["Life satisfaction (LS) is closely linked to romantic relationships. However, we lack knowledge on the nature of the longitudinal associations between LS and relationship quality, as well as on the longitudinal associations between two partners’ LS—especially for persons in long-term relationships. Better understanding of such associations could pos..."]
+      },
+      {
+        "title": "Health, health behaviors, and health dissimilarities predict divorce: Results from the HUNT study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Fartein Ask Torvik", "Kristin Gustavson", "Espen Røysamb", "Kristian Tambs"],
+        "abstract": ["Background\nPoor health and health behaviors are associated with divorce. This study investigates the degree to which six health indicators and health behaviors among husbands and wives are prospectively related to divorce, and whether spousal similarities in these factors are related to a reduced risk of marital dissolution. Theoretically, a reduce..."]
+      },
+      {
+        "title": "The impact of maternal smoking during pregnancy on depressive and anxiety behaviors in children: the Norwegian Mother and Child Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2015",
+        "authors": ["Steven Moylan", "Kristin Gustavson", "Simon Øverland", "Michael Berk"],
+        "abstract": ["Maternal smoking during pregnancy (MSDP) is associated with multiple adverse childhood outcomes including externalizing behaviors. However, the association between MSDP and internalizing (anxiety and depressive) behaviors in offspring has received less investigation. We aimed to assess the association between MSDP and childhood internalizing (anxie..."]
+      },
+      {
+        "title": "Multiple births and maternal mental health from pregnancy to 5 years after birth: A longitudinal population-based cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Eivind Ystrom", "Ted Reichborn-Kjennerud", "Kristian Tambs", "Kristin Gustavson"],
+        "abstract": ["Background: There is a lack of population-based studies on multiple births and maternal mental health. Having a high-risk pregnancy by bearing two or more children is a stressful life event, and the challenges of parenting two or more children probably also lead to a high level of parental stress. There are a few results on multiple births and mate..."]
+      },
+      {
+        "title": "Bias in the study of prediction of change: A Monte Carlo simulation study of the effects of selective attrition and inappropriate modeling of regression toward the mean",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Kristin Gustavson", "Ingrid Borren"],
+        "abstract": ["Background\nMedical researchers often use longitudinal observational studies to examine how risk factors predict change in health over time. Selective attrition and inappropriate modeling of regression toward the mean (RTM) are two potential sources of bias in such studies.\n\nMethod\nThe current study used Monte Carlo simulations to examine bias relat..."]
+      },
+      {
+        "title": "Long shadows: a prospective study of predictors of relationship dissolution over 17 child-rearing years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Maren Sand Helland", "Tilmann von Soest", "Kristin Gustavson", "Kristin Schjelderup Mathiesen"],
+        "abstract": ["Parental relationship dissolutions have repeatedly been linked to negative outcomes for children, but predictors of parental dissolutions have been far less studied. Knowledge about parental dissolutions occurring after the early years of parenthood is especially sparse. The aim of the current study was to investigate whether a broad set of predict..."]
+      },
+      {
+        "title": "Psychological Distress in Spouses of somatically Ill: Longitudinal Findings from The Nord-Trondelag Health Study (HUNT)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Ingrid Borren", "Kristian Tambs", "Kristin Gustavson", "Jon Martin Sundet"],
+        "abstract": ["Background: Studies of caregiver burden and somatic illness tend to be based on relatively small, clinical samples. Longitudinal, population based studies on this topic are still scarce and little is known about the long-term impact of partner illness on spousal mental health in the general population. This study investigates whether spouses of par..."]
+      },
+      {
+        "title": "Does IQ influence Associations between ADHD Symptoms and other Cognitive Functions in young Preschoolers?",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Nina Rohrer-Baumgartner", "Pal Zeiner", "Jens Egeland", "Heidi Aase"],
+        "abstract": ["Background\nWorking memory, inhibition, and expressive language are often impaired in ADHD and many children with ADHD have lower IQ-scores than typically developing children. The aim of this study was to test whether IQ-score influences associations between ADHD symptoms and verbal and nonverbal working memory, inhibition, and expressive language,..."]
+      },
+      {
+        "title": "Sammenhenger mellom barnehagekvalitet og barns fungering ved 5 år",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Mari Vaage Wang", "Engvik M", "Laura Evensen", "Heidi Aase"],
+        "abstract": ["ISBN: 978-82-8082-608-4\nRapporten er den fjerde i rekken i samarbeidsprosjektet mellom Folkehelseinstituttet og kunnskapsdepartementet, og den andre i rekken knyttet til barnehageforskning i Den norske\nmor og barn-undersøkelsen. Denne rapporten baserer seg på spørreskjema fylt ut av både\nforeldre og pedagogiske ledere i barnehagen, for over 4 000 f..."]
+      },
+      {
+        "title": "Immigrant Preadolescents and Risk of Emotional Distress",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Daniele E. Alves", "Heather L Corliss", "Espen Røysamb", "Kristin Gustavson"],
+        "abstract": ["Background: The question of whether immigrants have more emotional problems than their non-immigrant peers has\nyielded mixed results. In Norway, there has been a tendency toward immigrant youth reporting higher rates of emotional\nproblems. In addition to studying levels of emotional problems across those with immigrant backgrounds, there is a need..."]
+      },
+      {
+        "title": "Preadolescents with Immigrant Backgrounds: The Relationship between Emotional Problems, Parental Achievement Values, and Comparison",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Daniele E. Alves", "Kristin Gustavson", "Espen Røysamb", "Henrik Daae Zachrisson"],
+        "abstract": ["Background: Although strong parental achievement values have been associated with positive outcomes among children\n(e.g., academic success), they have also been connected to emotional problems. The latter effect may be the result of\npressure related to such things as parental comparison of filial achievement, which appears to be more predominant am..."]
+      },
+      {
+        "title": "Relationship quality, divorce, and well-being: Findings from a three-year longitudinal study",
+        "tags": ["Article"],
+        "date": "Nov 2013",
+        "authors": ["Kristin Gustavson", "Wendy Nilsen", "Ragnhild Orstavik", "Espen Røysamb"],
+        "abstract": ["Recent studies indicate that divorce sometimes is positive for subjective well-being, but we lack knowledge about the circumstances under which this is the case. Further, we lack knowledge about the possible different associations between divorce and life satisfaction (LS) vs. positive affect (PA). The current study is based on the Norwegian Mother..."]
+      },
+      {
+        "title": "Language Delay in 3-Year-Old Children With ADHD Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2013",
+        "authors": ["Nina Rohrer-Baumgartner", "Pal Zeiner", "Patricia Eadie", "Heidi Aase"],
+        "abstract": ["Objective: \nLittle is known about cognition in preschoolers with ADHD and language delay (LD). The objective was to investigate cognitive functions in preschoolers with ADHD symptoms and LD compared with children with ADHD symptoms only and to estimate the frequency of children with ADHD symptoms, co-occurring language delay, and delays on cognitiv..."]
+      },
+      {
+        "title": "Pathways from Maternal Distress and Child Problem Behavior to Adolescent Depressive Symptoms",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Wendy Nilsen", "Kristin Gustavson", "Espen Røysamb", "Evalill Bølstad Karevold"],
+        "abstract": [": The main aim of this study was to identify the pathways from maternal distress and child problem behaviors (i.e., internalizing and externalizing problems) across childhood and their impact on depressive symptoms during adolescence among girls and boys.\n: Data from families of 921 Norwegian children in a 15-year longitudinal community sample were..."]
+      },
+      {
+        "title": "Pathways from Maternal Distress and Child Problem Behavior to Adolescent Depressive Symptoms: A Prospective Examination from Early Childhood to Adolescence",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Wendy Nilsen", "Kristin Gustavson", "Espen Røysamb", "Evalill Bølstad Karevold"],
+        "abstract": ["Objective: The main aim of this study was to identify the pathways from maternal distress and child problem behaviors (i.e., internalizing and externalizing problems) across childhood and their impact on depressive symptoms during adolescence among girls and boys. Method: Data from families of 921 Norwegian children in a 15-year longitudinal commun..."]
+      },
+      {
+        "title": "The Impact of Smoking in Adolescence on Early Adult Anxiety Symptoms and the Relationship between Infant Vulnerability Factors for Anxiety and Early Adult Anxiety Symptoms: The TOPP Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Steven Moylan", "Kristin Gustavson", "Evalill Bølstad Karevold", "Michael Berk"],
+        "abstract": ["Cigarette smoking is increased in people with trait anxiety and anxiety disorders, however no longitudinal data exist illuminating whether smoking in adolescence can influence the developmental trajectory of anxiety symptoms from early vulnerability in infancy to adult anxiety expression. Using The Tracing Opportunities and Problems in Childhood an..."]
+      },
+      {
+        "title": "Discordant and Concordant Alcohol Use in Spouses as Predictors of Marital Dissolution in the General Population: Results from the Hunt Study",
+        "tags": ["Article"],
+        "date": "Feb 2013",
+        "authors": ["Fartein Ask Torvik", "Espen Røysamb", "Kristin Gustavson", "Kristian Tambs"],
+        "abstract": ["Background: \nPrevious studies have demonstrated that high alcohol consumption is a predictor of divorce. However, there is a lack of studies with prospective data from both spouses. The effects of drinking among husbands versus wives and of concordant versus discordant drinking in couples are therefore unknown. Concordant drinking may lead to incre..."]
+      },
+      {
+        "title": "Social skills and depressive symptoms across adolescence: Social support as a mediator in girls versus boys",
+        "tags": ["Article"],
+        "date": "Nov 2012",
+        "authors": ["Wendy Nilsen", "Evalill Bølstad Karevold", "Espen Røysamb", "Kristin Schjelderup Mathiesen"],
+        "abstract": ["The current population-based study of Norwegian adolescents examined gender-specific patterns in the prospective association between social skills in early adolescence (age 12.5; n = 566) and changes in depressive symptoms from early to late adolescence (age 16.5; n = 375). Further, a potential mediation effect of social support (from peers, parent..."]
+      },
+      {
+        "title": "Attrition and generalizability in longitudinal studies: Findings from a 15-year population-based study and a Monte Carlo simulation study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Kristin Gustavson", "Tilmann von Soest", "Evalill Bølstad Karevold", "Espen Røysamb"],
+        "abstract": ["Background\nAttrition is one of the major methodological problems in longitudinal studies. It can deteriorate generalizability of findings if participants who stay in a study differ from those who drop out. The aim of this study was to examine the degree to which attrition leads to biased estimates of means of variables and associations between them..."]
+      },
+      {
+        "title": "Reciprocal longitudinal associations between depressive symptoms and romantic partners’ synchronized view of relationship quality",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Kristin Gustavson", "Espen Røysamb", "Tilmann von Soest", "Kristin Schjelderup Mathiesen"],
+        "abstract": ["Depressive symptoms are negatively associated with relationship satisfaction. The degree to which depression is associated longitudinally with relationship quality as assessed by both partners, versus with the depressed person’s unique view of the relationship, may have implications for interventions. Longitudinal associations between depressive sy..."]
+      },
+      {
+        "title": "Foreldrekonflikt, samlivsbrudd og mekling: Konsekvenser for barn og unge",
+        "tags": ["Book", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Wendy Nilsen", "Anni Skipstein", "Kristin Gustavson"],
+        "abstract": ["Denne rapporten fra Divisjon for psykisk helse ved Folkehelseinstituttet er utarbeidet på oppdrag fra Barne-, ungdoms- og familiedirektoratet (Bufdir). Rapporten oppsummerer hva vi vet om negative konsekvenser av foreldrekonflikt og samlivsbrudd for barn og ungdom, og i hvilken grad mekling kan bidra til å hindre slike konsekvenser."]
+      },
+      {
+        "title": "Longitudinal associations between relationship problems, divorce, and life satisfaction: Findings from a 15-year population-based study",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Kristin Gustavson", "Espen Røysamb", "Tilmann von Soest", "Kristin Schjelderup Mathiesen"],
+        "abstract": ["Relationship problems are negatively associated with life satisfaction. Bottom-up theories assume that relationship quality affects life satisfaction while top-down theories assume that global personality dispositions affect evaluations of relationship quality. Only bottom-up theories imply that the negative association between relationship problem..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [82],
+    "reads": [14751],
+    "citations": [2104]
   }
 }

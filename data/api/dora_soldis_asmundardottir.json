@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Dora Soldis Asmundardottir",
-    "id": "1457923",
+    "name": ["Dora Soldis Asmundardottir"],
+    "id": ["1457923"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Isa-Dora",
+    "name": "Isa Dora",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Universidade Federal de São Carlos | UFSCar, Universidade Federal de São Carlos, Departamento de Metodologia de Ensino DME",
+    "keywords": ["Foreign Language Learning", "Language Teaching", "Applied Linguistics", "Second Language Acquisition", "Language Learning", "Teaching English as a Foreign Language", "Language Learning Strategies", "Intercultural Communication"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

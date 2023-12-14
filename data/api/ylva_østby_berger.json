@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-9078-8812",
-    "name": "Ylva Østby Berger",
+    "orcid": ["0000-0001-9078-8812"],
+    "name": ["Ylva Østby Berger"],
     "distinctions": [],
     "education": [
       {
@@ -19,31 +19,31 @@
       },
       {
         "start": "2016",
-        "end": "2020",
         "position": "Postdoctoral research fellow/teacher",
         "organisation": "Universitetet i Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2011",
-        "end": "2013",
         "position": "Psychologist",
         "organisation": "Akershus Universitetssykehus HF",
-        "country": "NO"
+        "country": "NO",
+        "end": "2013"
       },
       {
         "start": "2007",
-        "end": "2011",
         "position": "PhD follow/teacher",
         "organisation": "Universitetet i Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2011"
       },
       {
         "start": "2006",
-        "end": "2007",
         "position": "psychologist",
         "organisation": "Oslo Universitetssykehus",
-        "country": "NO"
+        "country": "NO",
+        "end": "2007"
       }
     ],
     "employment": [
@@ -61,31 +61,31 @@
       },
       {
         "start": "2016",
-        "end": "2020",
         "position": "Postdoctoral research fellow/teacher",
         "organisation": "Universitetet i Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2011",
-        "end": "2013",
         "position": "Psychologist",
         "organisation": "Akershus Universitetssykehus HF",
-        "country": "NO"
+        "country": "NO",
+        "end": "2013"
       },
       {
         "start": "2007",
-        "end": "2011",
         "position": "PhD follow/teacher",
         "organisation": "Universitetet i Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2011"
       },
       {
         "start": "2006",
-        "end": "2007",
         "position": "psychologist",
         "organisation": "Oslo Universitetssykehus",
-        "country": "NO"
+        "country": "NO",
+        "end": "2007"
       }
     ],
     "membership": [],
@@ -190,8 +190,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ylva Østby Berger",
-    "id": "9008",
+    "name": ["Ylva Østby Berger"],
+    "id": ["9008"],
     "keywords": [],
     "position": ["Associate professor"],
     "img": {},
@@ -205,8 +205,8 @@
       {
         "type": "Popular scientific article",
         "year": "2023",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/2116189"
+        "url": "https://api.cristin.no/v2/results/2116189",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Website (informational material)",
@@ -221,26 +221,26 @@
       {
         "type": "Popular scientific article",
         "year": "2022",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/2115429"
+        "url": "https://api.cristin.no/v2/results/2115429",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Popular scientific article",
         "year": "2022",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/2115427"
+        "url": "https://api.cristin.no/v2/results/2115427",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Popular scientific article",
         "year": "2022",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/2115422"
+        "url": "https://api.cristin.no/v2/results/2115422",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Popular scientific article",
         "year": "2022",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/2115421"
+        "url": "https://api.cristin.no/v2/results/2115421",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Interview",
@@ -250,28 +250,28 @@
       {
         "type": "Popular scientific article",
         "year": "2022",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/2115415"
+        "url": "https://api.cristin.no/v2/results/2115415",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Readers During the Covid19-Pandemic: Reading Choices, Habits and Emotional Experiences",
-        "journal": "Scientific Study of Literature",
-        "url": "https://api.cristin.no/v2/results/2083325"
+        "url": "https://api.cristin.no/v2/results/2083325",
+        "journal": "Scientific Study of Literature"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Episodic Memory Dysfunction and Effective Connectivity in Adult Patients With Newly Diagnosed Nonlesional Temporal Lobe Epilepsy",
-        "journal": "Frontiers in Neurology",
-        "url": "https://api.cristin.no/v2/results/2026780"
+        "url": "https://api.cristin.no/v2/results/2026780",
+        "journal": "Frontiers in Neurology"
       },
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1979572"
+        "url": "https://api.cristin.no/v2/results/1979572",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Lecture",
@@ -281,44 +281,44 @@
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "journal": "Speilvendt",
-        "url": "https://api.cristin.no/v2/results/1952668"
+        "url": "https://api.cristin.no/v2/results/1952668",
+        "journal": "Speilvendt"
       },
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1952666"
+        "url": "https://api.cristin.no/v2/results/1952666",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1952665"
+        "url": "https://api.cristin.no/v2/results/1952665",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1952663"
+        "url": "https://api.cristin.no/v2/results/1952663",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1952660"
+        "url": "https://api.cristin.no/v2/results/1952660",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1952659"
+        "url": "https://api.cristin.no/v2/results/1952659",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Popular scientific article",
         "year": "2021",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1952658"
+        "url": "https://api.cristin.no/v2/results/1952658",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Chapter",
@@ -329,15 +329,15 @@
         "type": "Book review",
         "year": "2021",
         "title": "Order in the courtromm: Let us hear what the experts have to say",
-        "journal": "American Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/1926597"
+        "url": "https://api.cristin.no/v2/results/1926597",
+        "journal": "American Journal of Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Cognition in adult patients with newly diagnosed non-lesional temporal lobe epilepsy",
-        "journal": "Epilepsy & Behavior",
-        "url": "https://api.cristin.no/v2/results/1896586"
+        "url": "https://api.cristin.no/v2/results/1896586",
+        "journal": "Epilepsy & Behavior"
       },
       {
         "type": "Interview",
@@ -348,8 +348,8 @@
         "type": "Book review",
         "year": "2018",
         "title": "Why forgetting is a critical part of remembering",
-        "journal": "The Scientist",
-        "url": "https://api.cristin.no/v2/results/1805662"
+        "url": "https://api.cristin.no/v2/results/1805662",
+        "journal": "The Scientist"
       },
       {
         "type": "Website (informational material)",
@@ -371,22 +371,22 @@
       {
         "type": "Feature article",
         "year": "2018",
-        "journal": "Tidsskrift for Den norske legeforening",
-        "url": "https://api.cristin.no/v2/results/1647102"
+        "url": "https://api.cristin.no/v2/results/1647102",
+        "journal": "Tidsskrift for Den norske legeforening"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Aicardi syndrome and cognitive abilities: A report of five cases",
-        "journal": "Epilepsy & Behavior",
-        "url": "https://api.cristin.no/v2/results/1499842"
+        "url": "https://api.cristin.no/v2/results/1499842",
+        "journal": "Epilepsy & Behavior"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Seizure outcomes of temporal lobe epilepsy surgery in patients with normal MRI and without specific histopathology",
-        "journal": "Acta Neurochirurgica",
-        "url": "https://api.cristin.no/v2/results/1466137"
+        "url": "https://api.cristin.no/v2/results/1466137",
+        "journal": "Acta Neurochirurgica"
       },
       {
         "type": "Popular scientific book",
@@ -409,113 +409,113 @@
         "type": "Academic article",
         "year": "2014",
         "title": "Regional hippocampal volumes and development predict learning and memory",
-        "journal": "Developmental Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1125662"
+        "url": "https://api.cristin.no/v2/results/1125662",
+        "journal": "Developmental Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Brain development and aging: Overlapping and unique patterns of change",
-        "journal": "NeuroImage",
-        "url": "https://api.cristin.no/v2/results/963428"
+        "url": "https://api.cristin.no/v2/results/963428",
+        "journal": "NeuroImage"
       },
       {
         "type": "Academic literature review",
         "year": "2013",
         "title": "Longitudinal Working Memory Development Is Related to Structural Maturation of Frontal and Parietal Cortices",
-        "journal": "Journal of Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1029045"
+        "url": "https://api.cristin.no/v2/results/1029045",
+        "journal": "Journal of Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "Mental time travel and default-mode network functional connectivity in the developing brain",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "https://api.cristin.no/v2/results/945479"
+        "url": "https://api.cristin.no/v2/results/945479",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "Normal variation in behavioral adjustment relates to regional differences in cortical thickness in children",
-        "journal": "European Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/922785"
+        "url": "https://api.cristin.no/v2/results/922785",
+        "journal": "European Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "Becoming Consistent: Developmental Reductions in Intraindividual Variability in Reaction Time Are Related to White Matter Integrity",
-        "journal": "Journal of Neuroscience",
-        "url": "https://api.cristin.no/v2/results/864470"
+        "url": "https://api.cristin.no/v2/results/864470",
+        "journal": "Journal of Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2012",
         "title": "Dissociating memory processes in the developing brain: The role of hippocampal volume and cortical thickness in recall after minutes versus days",
-        "journal": "Cerebral Cortex",
-        "url": "https://api.cristin.no/v2/results/860807"
+        "url": "https://api.cristin.no/v2/results/860807",
+        "journal": "Cerebral Cortex"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Morphometry and connectivity of the fronto-parietal verbal working memory network in development",
-        "journal": "Neuropsychologia",
-        "url": "https://api.cristin.no/v2/results/860811"
+        "url": "https://api.cristin.no/v2/results/860811",
+        "journal": "Neuropsychologia"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "The brain dynamics of intellectual development: Waxing and waning white and gray matter",
-        "journal": "Neuropsychologia",
-        "url": "https://api.cristin.no/v2/results/844135"
+        "url": "https://api.cristin.no/v2/results/844135",
+        "journal": "Neuropsychologia"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Neuroanatomical correlates of executive functions in children and adolescents: A magnetic resonance imaging (MRI) study of cortical thickness",
-        "journal": "Neuropsychologia",
-        "url": "https://api.cristin.no/v2/results/515540"
+        "url": "https://api.cristin.no/v2/results/515540",
+        "journal": "Neuropsychologia"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "When does brain aging accelerate? Dangers of quadratic fits in cross-sectional studies",
-        "journal": "NeuroImage",
-        "url": "https://api.cristin.no/v2/results/349534"
+        "url": "https://api.cristin.no/v2/results/349534",
+        "journal": "NeuroImage"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Differentiating maturational and aging-related changes of the cerebral cortex by use of thickness and signal intensity",
-        "journal": "NeuroImage",
-        "url": "https://api.cristin.no/v2/results/349244"
+        "url": "https://api.cristin.no/v2/results/349244",
+        "journal": "NeuroImage"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Life-Span Changes of the Human Brain White Matter: Diffusion Tensor Imaging (DTI) and Volumetry",
-        "journal": "Cerebral Cortex",
-        "url": "https://api.cristin.no/v2/results/344056"
+        "url": "https://api.cristin.no/v2/results/344056",
+        "journal": "Cerebral Cortex"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Brain Maturation in Adolescence and Young Adulthood: Regional Age-Related Changes in Cortical Thickness and White Matter Volume and Microstructure",
-        "journal": "Cerebral Cortex",
-        "url": "https://api.cristin.no/v2/results/340965"
+        "url": "https://api.cristin.no/v2/results/340965",
+        "journal": "Cerebral Cortex"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Intellectual Abilities and White Matter Microstructure in Development: A Diffusion Tensor Imaging Study",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/340644"
+        "url": "https://api.cristin.no/v2/results/340644",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Academic article",
         "year": "2009",
         "title": "Heterogeneity in Subcortical Brain Development: A Structural Magnetic Resonance Imaging Study of Brain Maturation from 8 to 30 Years",
-        "journal": "Journal of Neuroscience",
-        "url": "https://api.cristin.no/v2/results/353741"
+        "url": "https://api.cristin.no/v2/results/353741",
+        "journal": "Journal of Neuroscience"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -524,5 +524,201 @@
         "url": "https://api.cristin.no/v2/results/48636"
       }
     ]
+  },
+  "rg": {
+    "id": "Ylva-Berger",
+    "name": "Ylva Østby Berger",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272861566861314-1442066675270_Q128/Ylva-Berger.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Diffusion Tensor Imaging", "Memory", "Cognitive Development", "Executive Function", "Magnetic Resonance Imaging", "Imaging", "Neuropsychology", "Cognitive Science", "Brain Development", "Cognitive Neuropsychology"],
+    "works": [
+      {
+        "title": "Episodic Memory Dysfunction and Effective Connectivity in Adult Patients With Newly Diagnosed Nonlesional Temporal Lobe Epilepsy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Aftab Bakhtiari", "Agnes Balint Bjørke", "Pål G Larsson", "Ylva Østby Berger"],
+        "abstract": ["Objective\nEpilepsy is associated with both changes in brain connectivity and memory function, usually studied in the chronic patients. The aim of this study was to explore the presence of connectivity alterations measured by EEG in the parietofrontal network in patients with temporal lobe epilepsy (TLE), and to examine episodic memory, at the time..."]
+      },
+      {
+        "title": "Order in the Courtroom: Let Us Hear What the Experts Have to Say",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Ylva Østby Berger"],
+        "abstract": []
+      },
+      {
+        "title": "Cognition in adult patients with newly diagnosed non-lesional temporal lobe epilepsy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Agnes Balint Bjørke", "Ylva Østby Berger", "Simon Gevert Grahl", "Kjell Heuser"],
+        "abstract": ["Objective\nTo evaluate whether cognitive performance is affected in newly diagnosed temporal lobe epilepsy (TLE) and to determine the most vulnerable cognitive domains.\n\nMethods\nIn this baseline longitudinal study, differences in memory and non-memory cognitive functions were assessed using comprehensive neuropsychological test batteries in 21 adult..."]
+      },
+      {
+        "title": "Kroppen, kunsten og maskinene",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Ylva Østby Berger"],
+        "abstract": []
+      },
+      {
+        "title": "Why forgetting is a critical part of remembering",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["H. Østby", "Ylva Østby Berger"],
+        "abstract": []
+      },
+      {
+        "title": "Morphometry and Development: Changes in Brain Structure from Birth to Adult Age",
+        "tags": ["Preprint"],
+        "date": "Sep 2018",
+        "authors": ["Christian K Tamnes", "Ylva Østby Berger"],
+        "abstract": ["This chapter gives an overview of the field of brain morphometry and development from birth to adult age, including selected methodological considerations and fields of application. Brain development is an area of research where morphometry studies have greatly increased our knowledge, revealing organized patterns where regional differences in cort..."]
+      },
+      {
+        "title": "Morphometry and Development: Changes in Brain Structure from Birth to Adult Age",
+        "tags": ["Chapter"],
+        "date": "Feb 2018",
+        "authors": ["Christian K Tamnes", "Ylva Østby Berger"],
+        "abstract": ["This chapter gives an overview of the field of brain morphometry and development from birth to adult age, including selected methodological considerations and fields of application. Brain development is an area of research where morphometry studies have greatly increased our knowledge, revealing organized patterns where regional differences in cort..."]
+      },
+      {
+        "title": "Aicardi syndrome and cognitive abilities: A report of five cases",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Mia Tuft", "Ylva Østby Berger", "Karl Otto Nakken", "Caroline Lund"],
+        "abstract": ["Aicardi syndrome is a rare neurodevelopmental disorder with agenesis of corpus callosum, chorioretinal lacunae, and infantile spasms as the main features. The outcome is in general severe, with poor cognitive development and difficult-to-treat epilepsy. In this study, we assessed the level of cognitive function of five girls with Aicardi syndrome,..."]
+      },
+      {
+        "title": "Seizure outcomes of temporal lobe epilepsy surgery in patients with normal MRI and without specific histopathology",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Jugoslav Ivanovic", "Pål G Larsson", "Ylva Østby Berger", "Milo Stanisic"],
+        "abstract": ["Background: \nSeizure outcome following surgery in pharmacoresistant temporal lobe epilepsy patients with normal magnetic resonance imaging and normal or non-specific histopathology is not sufficiently presented in the literature.\n\nMethods: \nIn a retrospective design, we reviewed data of 263 patients who had undergone temporal lobe epilepsy surgery..."]
+      },
+      {
+        "title": "Regional Hippocampal Volumes and Development Predict Learning and Memory",
+        "tags": ["Article"],
+        "date": "May 2014",
+        "authors": ["Christian K Tamnes", "Kristine Walhovd", "Andreas Engvig", "Anders M Fjell"],
+        "abstract": ["The hippocampus is an anatomically and functionally heterogeneous structure, but longitudinal studies of its regional development are scarce and it is not known whether protracted maturation of the hippocampus in adolescence is related to memory development. First, we investigated hippocampal subfield development using 170 longitudinally acquired b..."]
+      },
+      {
+        "title": "Longitudinal Working Memory Development Is Related to Structural Maturation of Frontal and Parietal Cortices",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Christian K Tamnes", "Kristine Walhovd", "Hakon Grydeland", "Anders M Fjell"],
+        "abstract": ["Parallels between patterns of brain maturation and cognitive development have been observed repeatedly, but studies directly testing the relationships between improvements in specific cognitive functions and structural changes in the brain are lacking. Working memory development extends throughout childhood and adolescence and likely plays a centra..."]
+      },
+      {
+        "title": "Brain development and aging: Overlapping and unique patterns of change",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Christian K Tamnes", "Kristine Walhovd", "Anders M Dale", "Anders M Fjell"],
+        "abstract": ["Early-life development is characterized by dramatic changes, impacting lifespan function more than changes in any other period. Developmental origins of neurocognitive late-life functions are acknowledged, but detailed longitudinal magnetic resonance imaging studies of brain maturation and direct comparisons with aging are lacking. To these aims, a..."]
+      },
+      {
+        "title": "Mental time travel and default-mode network functional connectivity in the developing brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Ylva Østby Berger", "Kristine Walhovd", "Christian K Tamnes", "Anders M Fjell"],
+        "abstract": ["A core brain network is engaged in remembering the past and envisioning the future. This network overlaps with the so-called default-mode network, the activity of which increases when demands for focused attention are low. Because of their shared brain substrates, an intriguing hypothesis is that default-mode activity, measured at rest, is related..."]
+      },
+      {
+        "title": "Normal variation in behavioral adjustment relates to regional differences in cortical thickness in children",
+        "tags": ["Article"],
+        "date": "Feb 2012",
+        "authors": ["Kristine Walhovd", "Christian K Tamnes", "Ylva Østby Berger", "Anders M Fjell"],
+        "abstract": ["Neuroanatomical correlates of developmental psychopathology such as attention deficit hyperactivity and conduct disorder have been identified. The majority of studies point to lesser gray matter in psychopathology, often involving prefrontal cortices. The goal of this study was to test whether similar neural correlates exist for behavioral variance..."]
+      },
+      {
+        "title": "Becoming Consistent: Developmental Reductions in Intraindividual Variability in Reaction Time Are Related to White Matter Integrity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Christian K Tamnes", "Anders M Fjell", "Lars T Westlye", "Kristine Walhovd"],
+        "abstract": ["Cognitive development is known to involve improvements in accuracy, capacity, and processing speed. Less is known about the role of performance consistency, and there has been virtually no empirical examination of the neural underpinnings of within-person variability in development. In a sample of 92 healthy children and adolescents aged 8-19 years..."]
+      },
+      {
+        "title": "Morphometry and connectivity of the fronto-parietal verbal working memory network in development",
+        "tags": ["Article"],
+        "date": "Dec 2011",
+        "authors": ["Ylva Østby Berger", "Christian K Tamnes", "Anders M Fjell", "Kristine Walhovd"],
+        "abstract": ["Two distinctly different maturational processes - cortical thinning and white matter maturation - take place in the brain as we mature from late childhood to adulthood. To what extent does each contribute to the development of complex cognitive functions like working memory? The independent and joint contributions of cortical thickness of regions o..."]
+      },
+      {
+        "title": "The brain dynamics of intellectual development: Waxing and waning white and gray matter",
+        "tags": ["Article"],
+        "date": "Sep 2011",
+        "authors": ["Christian K Tamnes", "Anders M Fjell", "Ylva Østby Berger", "Kristine Walhovd"],
+        "abstract": ["Distributed brain areas support intellectual abilities in adults. How structural maturation of these areas in childhood enables development of intelligence is not established. Neuroimaging can be used to monitor brain development, but studies to date have typically considered single imaging modalities. To explore the impact of structural brain matu..."]
+      },
+      {
+        "title": "Dissociating Memory Processes in the Developing Brain: The Role of Hippocampal Volume and Cortical Thickness in Recall after Minutes versus Days",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2011",
+        "authors": ["Ylva Østby Berger", "Christian K Tamnes", "Anders M Fjell", "Kristine Walhovd"],
+        "abstract": ["Retention of information over extended time periods places special demands on the brain. The neural correlates of memory performance after a short delay of 30 min and a long delay of 1 week are likely partly different, but we do not know how structural maturation of the brain contributes to the differential development of these functions. This ques..."]
+      },
+      {
+        "title": "Intellectual Abilities and White Matter Microstructure in Development: A Diffusion Tensor Imaging Study",
+        "tags": ["Article"],
+        "date": "Oct 2010",
+        "authors": ["Christian K Tamnes", "Ylva Østby Berger", "Kristine Walhovd", "Anders M Fjell"],
+        "abstract": ["Higher-order cognitive functions are supported by distributed networks of multiple interconnected cortical and subcortical regions. Efficient cognitive processing depends on fast communication between these regions, so the integrity of the connections between them is of great importance. It is known that white matter (WM) development is a slow proc..."]
+      },
+      {
+        "title": "Life-Span Changes of the Human Brain White Matter: Diffusion Tensor Imaging (DTI) and Volumetry",
+        "tags": ["Article"],
+        "date": "Sep 2010",
+        "authors": ["Lars T Westlye", "Kristine Walhovd", "Anders M Dale", "Anders M Fjell"],
+        "abstract": ["Magnetic resonance imaging volumetry studies report inverted U-patterns with increasing white-matter (WM) volume into middle age suggesting protracted WM maturation compared with the cortical gray matter. Diffusion tensor imaging (DTI) is sensitive to degree and direction of water permeability in biological tissues, providing in vivo indices of WM..."]
+      },
+      {
+        "title": "When does brain aging accelerate? Dangers of quadratic fits in cross-sectional studies",
+        "tags": ["Article"],
+        "date": "May 2010",
+        "authors": ["Anders M Fjell", "Kristine Walhovd", "Lars T Westlye", "Anders M Dale"],
+        "abstract": ["Many brain structures show a complex, non-linear pattern of maturation and age-related change. Often, quadratic models (beta(0) + beta(1)age + beta(2)age(2) + epsilon) are used to describe such relationships. Here, we demonstrate that the fitting of quadratic models is substantially affected by seemingly irrelevant factors, such as the age-range sa..."]
+      },
+      {
+        "title": "Neuroanatomical correlates of executive functions in children and adolescents: A magnetic resonance imaging (MRI) study of cortical thickness",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Christian K Tamnes", "Ylva Østby Berger", "Kristine Walhovd", "Anders M Fjell"],
+        "abstract": ["A range of cognitive abilities improves in childhood and adolescence. It has been proposed that the protracted development of executive functions is related to the relatively late maturation of the prefrontal cortex. However, this has rarely been directly investigated. In this cross-sectional study, 98 healthy children and adolescents (8-19 years o..."]
+      },
+      {
+        "title": "Differentiating maturational and aging-related changes of the cerebral cortex by use of thickness and signal intensity",
+        "tags": ["Article"],
+        "date": "Mar 2010",
+        "authors": ["Lars T Westlye", "Kristine Walhovd", "Anders M Dale", "Anders M Fjell"],
+        "abstract": ["Cortical thickness decreases from childhood throughout life, as estimated by magnetic resonance imaging (MRI). This monotone trajectory does not reflect the fundamentally different neurobiological processes underlying morphometric changes in development versus aging. We hypothesized that intracortical gray matter (GM) and subjacent white matter (WM..."]
+      },
+      {
+        "title": "Heterogeneity in Subcortical Brain Development: A Structural Magnetic Resonance Imaging Study of Brain Maturation from 8 to 30 Years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2009",
+        "authors": ["Ylva Østby Berger", "Christian K Tamnes", "Anders M Fjell", "Kristine Walhovd"],
+        "abstract": ["Brain development during late childhood and adolescence is characterized by decreases in gray matter (GM) and increases in white matter (WM) and ventricular volume. The dynamic nature of development across different structures is, however, not well understood, and the present magnetic resonance imaging study took advantage of a whole-brain segmenta..."]
+      },
+      {
+        "title": "Brain Maturation in Adolescence and Young Adulthood: Regional Age-Related Changes in Cortical Thickness and White Matter Volume and Microstructure",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Christian K Tamnes", "Ylva Østby Berger", "Anders M Fjell", "Kristine Walhovd"],
+        "abstract": ["The development of cortical gray matter, white matter (WM) volume, and WM microstructure in adolescence is beginning to be fairly well characterized by structural magnetic resonance imaging (sMRI) and diffusion tensor imaging (DTI) studies. However, these aspects of brain development have rarely been investigated concurrently in the same sample and..."]
+      },
+      {
+        "title": "Intraindividual variability in cognitive performance and its neural foundation: An important approach in studying the developing and aging mind",
+        "tags": ["Article"],
+        "date": "Mar 2008",
+        "authors": ["A.M. Fjell", "Ylva Østby Berger", "Kristine Walhovd"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [26],
+    "reads": [4609],
+    "citations": [3511]
   }
 }

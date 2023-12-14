@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-3608-3621",
-    "name": "Olgerta Asko",
+    "orcid": ["0000-0003-3608-3621"],
+    "name": ["Olgerta Asko"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Olgerta Asko",
-    "id": "778254",
+    "name": ["Olgerta Asko"],
+    "id": ["778254"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -46,8 +46,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Altered hierarchical auditory predictive processing after lesions to the orbitofrontal cortex",
-        "journal": "bioRxiv",
-        "url": "https://api.cristin.no/v2/results/2105585"
+        "url": "https://api.cristin.no/v2/results/2105585",
+        "journal": "bioRxiv"
       },
       {
         "type": "Poster",
@@ -62,5 +62,33 @@
         "url": "https://api.cristin.no/v2/results/1558253"
       }
     ]
+  },
+  "rg": {
+    "id": "Olgerta-Visi",
+    "name": "Olgerta Visi",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Northcentral University | NCU, Northcentral University, School of Business",
+    "keywords": ["Management", "Human Resource Development", "Training and Development", "Human Resource Management", "Career Development", "Team Development", "People Management", "Cross-Cultural Management", "Strategic Thinking", "Business"],
+    "works": [
+      {
+        "title": "Career management and advancement from the individual context of the Albanian manager, under the perspectives of professionalism and personality related to business performance",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Olgerta Visi"],
+        "abstract": "The paper aims at rendering a tableau of the career management in the Albanian reality in the large and medium enterprises seen from the individual context of the manager. To this objective, a survey was undertaken using the face-to-face approach, focused on communication, measuring two independent variables: the actual professionalism of the manag..."
+      },
+      {
+        "title": "The use of modern management tools, a crucial factor to facing challenges",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Irina Canco", "Olgerta Visi"],
+        "abstract": "The transition from a centrally planned to a market free economy, confronts businesses to a competitive environment. The adaptation to this environment engages the managers to a continuous decision-making process. The quality of each decision, to a considerable extent is conditioned by the use of contemporary methods. An integral part of the contem..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [2],
+    "reads": [36],
+    "citations": [0]
   }
 }

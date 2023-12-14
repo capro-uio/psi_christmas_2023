@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Irene Voldsbekk",
-    "id": "ynoEi7wAAAAJ",
-    "affiliation": "NORMENT, University of Oslo",
+    "name": ["Irene Voldsbekk"],
+    "id": ["ynoEi7wAAAAJ"],
+    "affiliation": ["NORMENT, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -223,8 +223,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-9393-5857",
-    "name": "Irene Voldsbekk",
+    "orcid": ["0000-0001-9393-5857"],
+    "name": ["Irene Voldsbekk"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -313,8 +313,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Irene Voldsbekk",
-    "id": "808055",
+    "name": ["Irene Voldsbekk"],
+    "id": ["808055"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -423,5 +423,26 @@
         "url": "https://api.cristin.no/v2/results/1707074"
       }
     ]
+  },
+  "rg": {
+    "id": "Klabatsea-Irene",
+    "name": "Klabatsea Irene",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "National Technical University of Athens  School  of Architecture, Urban and Regional Planning",
+    "keywords": ["Sustainable Development", "Society and Environment", "Sustainability"],
+    "works": [
+      {
+        "title": "Criteria for the environmental assessment of livestock planning in protected areas, case study: the protected area Antichasia Mountains - Meteora of the Trikala Prefecture",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Sofia Plexida", "Klabatsea Irene"],
+        "abstract": "In areas with fragile ecosystems, there is an urgent need to take measures to protect them from environmental degradation. At the protected area GR1440005 “Antichasia Ori – Meteora” there are many ecotopes and habitats of great ecological value, while there is a considerable number of fauna species, particularly birds which nest or use the area for..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [100],
+    "citations": [0]
   }
 }

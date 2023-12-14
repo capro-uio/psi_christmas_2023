@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Karin Bugge Vatne",
-    "id": "795673",
+    "name": ["Karin Bugge Vatne"],
+    "id": ["795673"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Dimant-Karin",
+    "name": "Dimant Karin",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Walden University, Richard W Riley College of Education and Leadership",
+    "keywords": ["CBT", "Psychological Assessment", "Counseling", "Clinical Health Psychology", "Cognitive Behavioral Therapy"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Julie Korbmacher",
-    "id": "giNRnOcAAAAJ",
-    "affiliation": "Max Planck Institute for Social Law and Social Policy",
+    "name": ["Julie Korbmacher"],
+    "id": ["giNRnOcAAAAJ"],
+    "affiliation": ["Max Planck Institute for Social Law and Social Policy"],
     "data": {
       "publications": [
         {
@@ -280,8 +280,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-8113-2560",
-    "name": "Max Korbmacher",
+    "orcid": ["0000-0002-8113-2560"],
+    "name": ["Max Korbmacher"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -363,8 +363,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Max Korbmacher",
-    "id": "1355087",
+    "name": ["Max Korbmacher"],
+    "id": ["1355087"],
     "keywords": [],
     "position": ["Guest", "Research fellow"],
     "img": {},
@@ -578,5 +578,292 @@
         "url": "https://api.cristin.no/v2/results/1993607"
       }
     ]
+  },
+  "rg": {
+    "id": "Max-Korbmacher",
+    "name": "Max Korbmacher",
+    "img": "https://i1.rgstatic.net/ii/profile.image/770442285555714-1560699163974_Q128/Max-Korbmacher.jpg",
+    "affiliation": "Høgskulen på Vestlandet | HVL, Høgskulen på Vestlandet, Department of Health Sciences",
+    "keywords": [],
+    "works": [
+      {
+        "title": "The intra-individual reliability of 1 H-MRS measurement in the anterior cingulate cortex across 1 year",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Meng-Yun Wang", "Max Korbmacher", "Rune Eikeland", "Karsten Specht"],
+        "abstract": ["Magnetic resonance spectroscopy (MRS) is the primary method that can measure the levels of metabolites in the brain in vivo. To achieve its potential in clinical usage, the reliability of the measurement requires further articulation. Although there are many studies that investigate the reliability of gamma‐aminobutyric acid (GABA), comparatively f..."]
+      },
+      {
+        "title": "Dissecting unique and common variance across body and brain health indicators using age prediction",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Tiril P Gurholt", "Lars T Westlye"],
+        "abstract": ["Ageing is a heterogeneous multisystem process involving different rates of decline in physiological integrity across biological systems. The current study dissects the unique and common variance across body and brain health indicators and parses inter-individual heterogeneity in the multisystem ageing process. Using machine-learning regression mode..."]
+      },
+      {
+        "title": "Distinct longitudinal brain white matter microstructure changes and associated polygenic risk of common psychiatric disorders and Alzheimer's disease in the UK Biobank",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Max Korbmacher", "Dennis van der Meer", "Dani Beck", "Ivan I. Maximov"],
+        "abstract": ["During the course of adulthood and ageing, white matter (WM) structure and organisation are characterised by slow degradation processes such as demyelination and shrinkage. An acceleration of such ageing process has been linked to the development of a range of diseases. Thus, an accurate description of healthy brain maturation, in particular, in te..."]
+      },
+      {
+        "title": "Brain asymmetries from midlife to old adulthood and hemispheric brain age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Max Korbmacher", "Dennis van der Meer", "Dani Beck", "Ivan I. Maximov"],
+        "abstract": ["The human brain demonstrates structural and functional asymmetries which have implications for ageing and the development of mental and neurological diseases. We used a set of magnetic resonance imaging (MRI) metrics derived from structural and diffusion MRI data in N = 48,040 UK Biobank participants to evaluate age-related differences in brain asy..."]
+      },
+      {
+        "title": "Considerations on brain age predictions from repeatedly sampled data across time",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Max Korbmacher", "Meng-Yun Wang", "Rune Eikeland", "Karsten Specht"],
+        "abstract": ["Introduction\nBrain age, the estimation of a person's age from magnetic resonance imaging (MRI) parameters, has been used as a general indicator of health. The marker requires however further validation for application in clinical contexts. Here, we show how brain age predictions perform for the same individual at various time points and validate ou..."]
+      },
+      {
+        "title": "No Effect of Forest Representations on State Anxiety, Actual and Perceived Noise",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Max Korbmacher", "Lynn Wright"],
+        "abstract": ["Previous research indicates that nature and nature representations might have positive effects and noise negative effects on various facets of life, such as performance, perceived life quality, and physical and mental health. In this intervention, we observed whether posters showing a representation of nature (forests) can be used to reduce actual..."]
+      },
+      {
+        "title": "The replication crisis has led to positive structural, procedural, and community changes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Max Korbmacher", "Flávio Azevedo", "Charlotte Rebecca Pennington", "Thomas Rhys Evans"],
+        "abstract": ["The emergence of large-scale replication projects yielding successful rates substantially lower than expected caused the behavioural, cognitive, and social sciences to experience a so-called ‘replication crisis’. In this Perspective, we reframe this ‘crisis’ through the lens of a credibility revolution, focusing on positive structural, procedural a..."]
+      },
+      {
+        "title": "Bio-psycho-social factors' associations with brain age: a large-scale UK Biobank diffusion study of 35,749 participants",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Max Korbmacher", "Tiril P Gurholt", "Ann-Marie G de Lange", "Ivan I Maximov"],
+        "abstract": ["Brain age refers to age predicted by brain features. Brain age has previously been associated with various health and disease outcomes and suggested as a potential biomarker of general health. Few previous studies have systematically assessed brain age variability derived from single and multi-shell diffusion magnetic resonance imaging data. Here,..."]
+      },
+      {
+        "title": "The intra-individual reliability of 1 H-MRS measurement in the anterior cingulate cortex across one year",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Meng-Yun Wang", "Max Korbmacher", "Rune Eikeland", "Karsten Specht"],
+        "abstract": ["Magnetic resonance spectroscopy (MRS) is the primary method that can measure the levels of metabolites in the brain in vivo. To achieve its potential in clinical usage, the reliability of the measurement requires further articulation. Although there are many studies that investigate the reliability of gamma-aminobutyric acid (GABA), comparatively f..."]
+      },
+      {
+        "title": "The Bergen Breakfast Scanning Club dataset: a deep brain imaging dataset",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Meng-Yun Wang", "Max Korbmacher", "Rune Eikeland", "Karsten Specht"],
+        "abstract": ["Populational brain imaging methods based on group averages provide valuable insights into the general functions of the brain. However, they often overlook the inherent inter- and intra-subject variability, limiting our understanding of individual differences. To address this limitation, researchers have turned to big datasets and deep brain imaging..."]
+      },
+      {
+        "title": "Investigating Object Orientation Effects Across 18 Languages",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Sau-Chin Chen", "Erin Michelle Buchanan", "Kekecs Zoltan", "Christopher R. Chartier"],
+        "abstract": ["Mental simulation theories of language comprehension propose that people automatically create mental representations of objects mentioned in sentences. Mental representation is often measured with the sentence-picture verification task, wherein participants first read a sentence that implies the object property (i.e., shape and orientation). Partic..."]
+      },
+      {
+        "title": "The replication crisis has led to positive structural, procedural, and community changes",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Max Korbmacher", "Flávio Azevedo", "Charlotte Rebecca Pennington", "Thomas Rhys Evans"],
+        "abstract": ["The emergence of large-scale replication projects yielding successful rates substantially lower than expected caused the behavioural, cognitive, and social sciences to experience a so-called ‘replication crisis’. In this Perspective, we reframe this ‘crisis’ through the lens of a credibility revolution, focusing on positive structural, procedural a..."]
+      },
+      {
+        "title": "Brain-wide associations between white matter and age highlight the role of fornix microstructure in brain ageing",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Max Korbmacher", "Ann-Marie G de Lange", "Dennis van der Meer", "Ivan I. Maximov"],
+        "abstract": ["Unveiling the details of white matter (WM) maturation throughout ageing is a fundamental question for understanding the ageing brain. In an extensive comparison of brain age predictions and age-associations of WM features from different diffusion approaches, we analyzed UK Biobank diffusion magnetic resonance imaging (dMRI) data across midlife and..."]
+      },
+      {
+        "title": "The effectiveness of preregistration in psychology: Assessing preregistration strictness and preregistration-study consistency",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Olmo Van den Akker", "Marjan Bakker", "Marcel A.L.M. van Assen", "Jelte Wicherts"],
+        "abstract": ["Study preregistration has become increasingly popular in psychology, but its effectiveness in restricting potentially biasing researcher degrees of freedom remains unclear. We used an extensive protocol to assess the strictness of preregistrations and the consistency between preregistration and publications of 300 preregistered psychology studies...."]
+      },
+      {
+        "title": "Brain age predictions in longitudinal data reveal the importance of scan quality and field strength",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Max Korbmacher", "Meng-Yun Wang", "Rune Eikeland", "Karsten Specht"],
+        "abstract": ["Introduction\nBrain age, the estimation of a person’s age from magnetic resonance imaging (MRI) parameters, has been used as a general indicator of health. The marker requires however further validation for application in clinical contexts. Here, we show how brain age predictions perform for for the same individual at various time points and validat..."]
+      },
+      {
+        "title": "The Psychological Science Accelerator's COVID-19 Rapid-Response Dataset",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Erin M. Buchanan", "Savannah Lewis", "Bastien Paris", "Maximilian A. Primbs"],
+        "abstract": ["In response to the COVID-19 pandemic, the Psychological Science Accelerator coordinated three large-scale psychological studies to examine the effects of loss-gain framing, cognitive reappraisals, and autonomy framing manipulations on behavioral intentions and affective measures. The data collected (April to October 2020) included specific measures..."]
+      },
+      {
+        "title": "Bio-psycho-social factors' associations with brain age: a large-scale UK Biobank diffusion study of 35,749 participants",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Max Korbmacher", "Tiril P. Gurholt", "Ann-Marie G de Lange", "Ivan I. Maximov"],
+        "abstract": ["Brain age refers to age predicted by brain features. Brain age has previously been associated with various health and disease outcomes and suggested as a potential biomarker of general health. Few previous studies have systematically assessed brain age variability derived from single and multi-shell diffusion magnetic resonance imaging data. Here,..."]
+      },
+      {
+        "title": "Deep brain imaging of three participants across 1 year: The Bergen breakfast scanning club project",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Meng-Yun Wang", "Max Korbmacher", "Rune Eikeland", "Karsten Specht"],
+        "abstract": ["Our understanding of the cognitive functions of the human brain has tremendously benefited from the population functional Magnetic Resonance Imaging (fMRI) studies in the last three decades. The reliability and replicability of the fMRI results, however, have been recently questioned, which has been named the replication crisis. Sufficient statisti..."]
+      },
+      {
+        "title": "Male and Female Brain Coherence Models of Cognitive Performance and Psychopathology",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Magda Dumitru", "Max Korbmacher", "Hauke Bartsch"],
+        "abstract": ["Finding reliable imaging biomarkers of mental illness has been a major challenge, on a par with the quest for biomarkers of the male versus the female brain, as the two types of imaging inform one another. We explored the hypothesis that the degree of coherence (internal isomorphism) between brain volumes of the left versus the right hemisphere for..."]
+      },
+      {
+        "title": "Brain-wide associations between white matter and age highlight the role of fornix microstructure in brain age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Max Korbmacher", "Ann-Marie G de Lange", "Dennis van der Meer", "Ivan I. Maximov"],
+        "abstract": ["Identifying white matter (WM) microstructure parameters that reflect the underlying biology of the brain will advance our understanding of ageing and brain health. In this extensive comparison of brain age predictions and age-associations of WM features from different diffusion approaches, we analysed UK Biobank diffusion Magnetic Resonance Imaging..."]
+      },
+      {
+        "title": "The privacy and control paradoxes in the context of smartphone apps",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Vanessa Ayres-Pereira", "Angelo Pirrone", "Max Korbmacher", "Gisela Böhm"],
+        "abstract": ["This research examines how various factors, such as the degree of e-privacy concerns and control over data access permissions, can influence a user's intention to install a smartphone app. We conducted two survey-based experiments with 441 participants. In each experiment, we manipulated the degree of control over the number and type of data access..."]
+      },
+      {
+        "title": "In COVID-19 Health Messaging, Loss Framing Increases Anxiety with Little-to-No Concomitant Benefits: Experimental Evidence from 84 Countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Charles A. Dorison", "Jennifer S Lerner", "Blake H. Heller", "Nicholas A. Coles"],
+        "abstract": ["The COVID-19 pandemic (and its aftermath) highlights a critical need to communicate health information effectively to the global public. Given that subtle differences in information framing can have meaningful effects on behavior, behavioral science research highlights a pressing question: Is it more effective to frame COVID-19 health messages in t..."]
+      },
+      {
+        "title": "A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Ke Wang", "Amit Goldenberg", "Charles A. Dorison", "Hannah Moshontz"],
+        "abstract": ["The COVID-19 pandemic has increased negative emotions and decreased positive emotions globally. Left unchecked, these emotional changes might have a wide array of adverse impacts. To reduce negative emotions and increase positive emotions, we tested the effectiveness of reappraisal, an emotion-regulation strategy that modifies how one thinks about..."]
+      },
+      {
+        "title": "A global experiment on motivating social distancing during the COVID-19 pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Nicole Legate", "Thuy-vy Ngyuen", "Netta Weinstein", "Maximilian A. Primbs"],
+        "abstract": ["Significance\nCommunicating in ways that motivate engagement in social distancing remains a critical global public health priority during the COVID-19 pandemic. This study tested motivational qualities of messages about social distancing (those that promoted choice and agency vs. those that were forceful and shaming) in 25,718 people in 89 countries..."]
+      },
+      {
+        "title": "No need to stress when the dissertation deadline approaches",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Max Korbmacher", "Isa Ozdemir"],
+        "abstract": []
+      },
+      {
+        "title": "Both better and worse than others depending on difficulty: Replication and extensions of Kruger's (1999) above and below average effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Max Korbmacher", "Ching Kwan", "Gilad Feldman"],
+        "abstract": ["Above-and-below-average effects are well-known phenomena that arise when comparing oneself to others. Kruger (1999) found that people rate themselves as above average for easy abilities and below average for difficult abilities. We conducted a successful pre-registered replication of Kruger’s (1999) Study 1, the first demonstration of the core phen..."]
+      },
+      {
+        "title": "Both better and worse than others depending on difficulty: Replication and extensions of Kruger’s (1999) above and below average effects",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Max Korbmacher", "Ching Kwan", "Gilad Feldman"],
+        "abstract": ["Above-and-below-average effects are well-known phenomena that arise when comparing ‎oneself to others. Kruger (1999) found that people rate themselves as above average for easy ‎abilities and below average for difficult abilities. We conducted a successful pre-registered ‎replication of Kruger’s (1999) Study 1, the first demonstration of the core p..."]
+      },
+      {
+        "title": "A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Ke Wang", "Amit Goldenberg", "Charles A. Dorison", "Hannah Moshontz"],
+        "abstract": ["The COVID-19 pandemic has increased negative emotions and decreased positive emotions globally. Left unchecked, these emotional changes might have a wide array of adverse impacts. To reduce negative emotions and increase positive emotions, we tested the effectiveness of reappraisal, an emotion-regulation strategy that modifies how one thinks about..."]
+      },
+      {
+        "title": "A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["K Wang", "Amit Goldenberg", "CA Dorison", "H Moshontz"],
+        "abstract": ["The COVID-19 pandemic has increased negative emotions and decreased positive emotions globally. Left unchecked, these emotional changes might have a wide array of adverse impacts. To reduce negative emotions and increase positive emotions, we tested the effectiveness of reappraisal, an emotion-regulation strategy that modifies how one thinks about..."]
+      },
+      {
+        "title": "No Effect of Nature Representations on State Anxiety, Actual and Perceived Noise",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Max Korbmacher", "Lynn Wright"],
+        "abstract": ["Previous research indicates that nature and nature representations might have positive effects and noise negative effects on various facets of life, such as performance, perceived life quality, physical and mental health. In this intervention, we observed whether posters showing forests can be used to reduce actual noise, perceived noise, and state..."]
+      },
+      {
+        "title": "No Effect of Nature Representations on State Anxiety, Actual and Perceived Noise",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Max Korbmacher", "Lynn Wright"],
+        "abstract": ["Previous research indicates that nature and nature representations might have positive effects and noise negative effects on various facets of life, such as performance, perceived life quality, physical and mental health. In this intervention, we observed whether posters showing forests can be used to reduce actual noise, perceived noise, and state..."]
+      },
+      {
+        "title": "What can we learn from Exploring Cognitive Appraisal, Coping Styles and Perceived Stress in UK Undergraduate Dissertation Students?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Max Korbmacher", "Lynn Wright"],
+        "abstract": ["Undergraduate dissertation students' cognitive appraisal, coping styles and perceived stress were examined at three times points during their undergraduate dissertation projects (UDP), observing whether cognitive appraisal and coping styles predicted perceived stress and their temporal changes. Sixty-four dissertation students completed the Perceiv..."]
+      },
+      {
+        "title": "National income inequality predicts cultural variation in mouth to mouth kissing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Christopher D Watkins", "Juan David Leongómez", "Jeanne Bovet", "Samuela Bolgan"],
+        "abstract": ["Romantic mouth-to-mouth kissing is culturally widespread, although not a human universal, and may play a functional role in assessing partner health and maintaining long-term pair bonds. Use and appreciation of kissing may therefore vary according to whether the environment places a premium on good health and partner investment. Here, we test for c..."]
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Apr 2019",
+        "authors": ["Christopher D Watkins", "Juan David Leongómez", "Jeanne Bovet", "Samuela Bolgan"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 3",
+        "tags": ["Data"],
+        "date": "Apr 2019",
+        "authors": ["Christopher D Watkins", "Juan David Leongómez", "Jeanne Bovet", "Samuela Bolgan"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 4",
+        "tags": ["Data"],
+        "date": "Apr 2019",
+        "authors": ["Christopher D Watkins", "Juan David Leongómez", "Jeanne Bovet", "Samuela Bolgan"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 5",
+        "tags": ["Data"],
+        "date": "Apr 2019",
+        "authors": ["Christopher D Watkins", "Juan David Leongómez", "Jeanne Bovet", "Samuela Bolgan"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 1",
+        "tags": ["Data"],
+        "date": "Apr 2019",
+        "authors": ["Christopher D Watkins", "Juan David Leongómez", "Jeanne Bovet", "Samuela Bolgan"],
+        "abstract": []
+      },
+      {
+        "title": "Undergraduates as researchers: staff and student perspectives of participating in the Research Volunteer Scheme Background and Aims",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Lynn Wright", "Martha Gardiner", "Max Korbmacher", "Julia Ngadi"],
+        "abstract": ["Undergraduates as Researchers: Staff and Student Perspectives of Participating in the Research Volunteer Scheme\n\nShortlisted for the Sparqs Student Engagement Award 2018"]
+      }
+    ],
+    "degree": ["PhD", "Student"],
+    "bio": [],
+    "publications": [39],
+    "reads": [13593],
+    "citations": [203]
   }
 }

@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Olivia Pich",
-    "id": "1091394",
+    "name": ["Olivia Pich"],
+    "id": ["1091394"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -37,5 +37,15 @@
         "url": "https://api.cristin.no/v2/results/1821098"
       }
     ]
+  },
+  "rg": {
+    "id": "Olivia-Pich",
+    "name": "Olivia Pich",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Amsterdam | UVA, University of Amsterdam, Department of Psychology",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

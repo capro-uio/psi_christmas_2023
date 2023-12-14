@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-2340-4158",
-    "name": "Erik Rimestad  Frogner",
+    "orcid": ["0000-0003-2340-4158"],
+    "name": ["Erik Rimestad  Frogner"],
     "distinctions": [],
     "education": [
       {
@@ -43,8 +43,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Erik Rimestad Frogner",
-    "id": "1045220",
+    "name": ["Erik Rimestad Frogner"],
+    "id": ["1045220"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -64,5 +64,40 @@
         "url": "https://api.cristin.no/v2/results/2044374"
       }
     ]
+  },
+  "rg": {
+    "id": "Lars-Rimestad-2",
+    "name": "Lars Rimestad",
+    "img": "https://i1.rgstatic.net/ii/profile.image/278810923683855-1443485112976_Q128/Lars-Rimestad-2.jpg",
+    "affiliation": "Grundfos Holding | GRUNDFOS, Grundfos Holding, 7681 Quality and Processes",
+    "keywords": ["Reliability Analysis", "Reliability", "Electronics", "Mechanical Properties", "Risk Analysis", "Risk Assessment", "Failure Analysis", "Risk Management", "Safety", "Probability"],
+    "works": [
+      {
+        "title": "Climate-Protective Packaging: Using Basic Physics to Solve Climatic Challenges for Electronics in Demanding Applications",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["John Bjerregaard Jacobsen", "Jens Peter Krog", "Lars Rimestad", "Allan Hjarbæk Holm"],
+        "abstract": "More and more electronics are being used in climatically harsh environments. Therefore, the challenge of designing climate-protective packaging continues to increase. Still, relatively little is known among design engineers about how to design for robustness and how to model and predict the lifetime of electronics in moist environments and, in part..."
+      },
+      {
+        "title": "Climatic challenges and product level solutions for electronics in demanding applications",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["John Bjerregaard Jacobsen", "Jens Peter Krog", "Lars Rimestad", "Allan Hjarbæk Holm"],
+        "abstract": "In the past, electronics was handled very carefully and used in controlled dry environments only. Still, relatively short lifetimes were accepted. Today long lifetime and high reliability is expected, despite increased climatic load including condensation. High temperatures and temperature cycling are very well known loads that limit life time, e.g..."
+      },
+      {
+        "title": "Field failures of electronic systems",
+        "tags": ["Conference Paper"],
+        "date": "Feb 1990",
+        "authors": ["Lars Rimestad"],
+        "abstract": "Results of a research project recently concluded at the Danish\nEngineering Academy are presented. The scope of the research was to\ninvestigate the field-failure pattern of electronic systems of some\ncomplexity. The project included a close survey of 10000 to 15000\nelectronic systems in use in Denmark. A physically-explainable model is\ndemonstrated..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [3],
+    "reads": [3447],
+    "citations": [43]
   }
 }

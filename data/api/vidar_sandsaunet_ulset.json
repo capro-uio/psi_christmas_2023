@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-7160-1298",
-    "name": "Vidar Sandsaunet Ulset",
+    "orcid": ["0000-0002-7160-1298"],
+    "name": ["Vidar Sandsaunet Ulset"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -46,8 +46,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Vidar Sandsaunet Ulset",
-    "id": "59441",
+    "name": ["Vidar Sandsaunet Ulset"],
+    "id": ["59441"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -166,5 +166,68 @@
         "url": "https://api.cristin.no/v2/results/1511672"
       }
     ]
+  },
+  "rg": {
+    "id": "Marit-Ulset",
+    "name": "Marit Sandsaunet Ulset",
+    "img": "https://i1.rgstatic.net/ii/profile.image/612322674479109-1523000510042_Q128/Marit-Ulset.jpg",
+    "affiliation": "Institute for Energy Technology | IFE, Institute for Energy Technology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Dual-mode room temperature self-calibrating photodiodes approaching cryogenic radiometer uncertainty",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Marit Sandsaunet Ulset", "Eivind Bardalen", "Carlo Pepe", "Jarle Gran"],
+        "abstract": ["The room temperature dual-mode self-calibrating detector combines low-loss photodiodes with electrical substitution radiometry for determination of optical power. By using thermal detection as a built-in reference in the detector, the internal losses of the photodiode can be determined directly, without the need of an external reference. Computer s..."]
+      },
+      {
+        "title": "Electrical measurement capabilities of the cryogenic dual-mode optical power detector",
+        "tags": ["Conference Paper"],
+        "date": "Aug 2020",
+        "authors": ["Marit Sandsaunet Ulset", "Eivind Bardalen", "Jarle Gran"],
+        "abstract": []
+      },
+      {
+        "title": "Current-voltage characterization and 3D device modelling of p-type induced junction photodiode; surface recombination velocity and bulk lifetime",
+        "tags": ["Conference Paper"],
+        "date": "Nov 2018",
+        "authors": ["Chi Kwong Tang", "Marit Sandsaunet Ulset", "Jarle Gran"],
+        "abstract": []
+      },
+      {
+        "title": "Demonstration of a dual-mode Si detector as a self-calibrating device at room temperature",
+        "tags": ["Article"],
+        "date": "Apr 2017",
+        "authors": ["Marit Sandsaunet Ulset", "Chi Kwong Tang", "Jarle Gran"],
+        "abstract": ["We demonstrate the use of a dual-mode detector for determining the internal quantum deficiency of a silicon photodiode without the use of an external reference. This is achieved by combining two different principles for measuring optical power in one device, where the photodiode is used as absorber for both thermal and photon detection. Thermal det..."]
+      },
+      {
+        "title": "The self-calibrating dual-mode Si detector – Improved design based on Comsol Multiphysics simulations",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2017",
+        "authors": ["Marit Sandsaunet Ulset", "Chi Kwong Tang", "Jarle Gran"],
+        "abstract": []
+      },
+      {
+        "title": "First measurements of fundamental constants with a predictable photodiode cryogenic radiometer",
+        "tags": ["Conference Paper"],
+        "date": "Aug 2014",
+        "authors": ["Marit Sandsaunet Ulset", "Chi Kwong Tang", "Jarle Gran"],
+        "abstract": ["This paper presents characterization of the first prototype of a predictable photodiode cryogenic radiometer (PPCR) at 77 K. The PPCR combines a predictable quantum efficiency detector (PQED) with a cryogenic radiometer (CR). When combining these two inherently different primary standards for measuring optical power on the same device, systematic e..."]
+      },
+      {
+        "title": "Parallel Integration of Aligned Carbon Strings in Polymer Composite: Dielectrophoretic Preparation, Finite Element Simulation, and Electrical Characterization",
+        "tags": ["Article"],
+        "date": "Jun 2014",
+        "authors": ["Marit Sandsaunet Ulset", "Matti Knaapila", "Luciana Tavares", "Geir Helgesen"],
+        "abstract": ["We report on dielectrophoretic alignment of carbon black particles into radially arranged string-like assemblies in oligourethane mixtures followed by photopolymerization. Using finite element modelling and optical microscopy we find significant difference in field distributions depending on the substrate beneath aligned films. On glass, the field..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [7],
+    "reads": [197],
+    "citations": [7]
   }
 }

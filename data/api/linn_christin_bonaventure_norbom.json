@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Linn Bonaventure Norbom",
-    "id": "_xS8jcwAAAAJ",
-    "affiliation": "Post doc in Neuroscience, University of Oslo",
+    "name": ["Linn Bonaventure Norbom"],
+    "id": ["_xS8jcwAAAAJ"],
+    "affiliation": ["Post doc in Neuroscience, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -365,8 +365,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-7489-2724",
-    "name": "Linn Norbom",
+    "orcid": ["0000-0001-7489-2724"],
+    "name": ["Linn Norbom"],
     "distinctions": [],
     "education": [
       {
@@ -377,10 +377,10 @@
       },
       {
         "start": "2016",
-        "end": "2019",
         "position": "PhD candidate",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       }
     ],
     "employment": [
@@ -392,10 +392,10 @@
       },
       {
         "start": "2016",
-        "end": "2019",
         "position": "PhD candidate",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2019"
       }
     ],
     "membership": [],
@@ -454,8 +454,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Linn Christin Bonaventure Norbom",
-    "id": "618531",
+    "name": ["Linn Christin Bonaventure Norbom"],
+    "id": ["618531"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", null],
     "img": {},
@@ -621,5 +621,54 @@
         "url": "https://api.cristin.no/v2/results/1242902"
       }
     ]
+  },
+  "rg": {
+    "id": "Linn-Risvang",
+    "name": "Linn Christin Risvang",
+    "img": "https://i1.rgstatic.net/ii/profile.image/855170112053248-1580899851706_Q128/Linn-Risvang.jpg",
+    "affiliation": "Norwegian School of Sport Sciences NIH, Department of Physical Performance",
+    "keywords": ["Nutrition", "Nutritional Science", "Human Nutrition", "Nutrition Assessment", "Nutritional Education", "Applied Nutrition", "Metabolism", "Body Composition Analysis", "Sports Science", "Anthropometrics"],
+    "works": [
+      {
+        "title": "ijsnem-article-pS1.pdf",
+        "tags": ["Data"],
+        "date": "Jun 2023",
+        "authors": ["Linn Christin Risvang", "Vegard Strøm", "Truls Raastad", "Kristin Jonvik"],
+        "abstract": []
+      },
+      {
+        "title": "Effects of a bone-specific resistance exercise intervention and nutrition optimization on bone mineral density and physical health in wheelchair-dependent Para athletes and non-athletes (BoneWheel)",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Linn Christin Risvang", "Vegard Strøm", "Truls Raastad", "Kristin Jonvik"],
+        "abstract": ["Study protocol of a novel resistance exercise intervention and nutrition optimization for bone and physical health amongst wheelchair users. The BoneWheel study."]
+      },
+      {
+        "title": "Caffeine Increases Strength and Power Performance in Resistance-trained Females During Early Follicular Phase",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Martin Norum", "Linn Christin Risvang", "Thomas Bjørnsen", "Truls Raastad"],
+        "abstract": ["The effects of 4 mg·kg‐1caffeine ingestion on strength and power were investigated for the first time, in resistance‐trained females during the early follicular phase utilizing a randomized, double‐blind, placebo‐controlled, crossover design. Fifteen females (29.8±4.0 years, 63.8±5.5 kg [mean±SD]) ingested caffeine or placebo 60 minutes before comp..."]
+      },
+      {
+        "title": "A moderate caffeine dose increases strength performance in resistance-trained females",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2019",
+        "authors": ["Linn Christin Risvang", "Martin Norum", "Thomas Bjørnsen", "Truls Raastad"],
+        "abstract": []
+      },
+      {
+        "title": "A Moderate Caffeine Dose Increases Strength Performance in Resistance-trained Females",
+        "tags": ["Presentation"],
+        "date": "Jul 2019",
+        "authors": ["Linn Christin Risvang", "Martin Norum", "Thomas Bjørnsen", "Truls Raastad"],
+        "abstract": ["The effects of caffeine ingestion on strength and power performance in resistance-trained females during the early follicular menstrual cycle phase."]
+      }
+    ],
+    "degree": ["MSc", "Sport", "&", "Exercise", "Nutrition"],
+    "bio": "MSc Sport & Exercise Nutritionist interested in Muscle Physiology, Ergogenic aids and effects of exercise and nutrition on female strength and power performance. Recently published in Scand J Med Sci Sports. Experience with LC-MS analysis of caffeine in plasma. Currently writing up a review on the effect of caffeine on strength and power performance.",
+    "publications": [5],
+    "reads": [585],
+    "citations": [22]
   }
 }

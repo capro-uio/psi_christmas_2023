@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Ragnhild Bang Nes",
-    "id": "T0_r_ioAAAAJ",
-    "affiliation": "Norwegian Institute of Public Health; University of Oslo",
+    "name": ["Ragnhild Bang Nes"],
+    "id": ["T0_r_ioAAAAJ"],
+    "affiliation": ["Norwegian Institute of Public Health; University of Oslo"],
     "data": {
       "publications": [
         {
@@ -1063,8 +1063,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-7828-7863",
-    "name": "Ragnhild Bang Nes",
+    "orcid": ["0000-0001-7828-7863"],
+    "name": ["Ragnhild Bang Nes"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1114,11 +1114,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ragnhild Bang Nes",
-    "id": "15374",
+    "name": ["Ragnhild Bang Nes"],
+    "id": ["15374"],
     "keywords": [],
     "position": ["Associate professor", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/15374/picture",
+    "img": ["https://api.cristin.no/v2/persons/15374/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1692,5 +1692,676 @@
         "url": "https://api.cristin.no/v2/results/1592441"
       }
     ]
+  },
+  "rg": {
+    "id": "Ragnhild-Nes",
+    "name": "Ragnhild Bang Nes",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272724383760395-1442033968533_Q128/Ragnhild-Nes.jpg",
+    "affiliation": "Norwegian Institute of Public Health, Division for Mental Health",
+    "keywords": ["Structural Equation Modeling", "Psychiatric Disorders", "Positive Psychology", "Psychology", "Behavioral Genetics", "Mental Health", "Clinical Psychology", "Twin Studies", "Psychopathology", "Psychological Assessment"],
+    "works": [
+      {
+        "title": "Mental health and environmental factors in adults: A population-based network analysis",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Omid V. Ebrahimi", "Xiaoyu Lan", "Espen Røysamb"],
+        "abstract": ["Few studies have assessed the multifactorial nature of environmental influences on population mental health. In this large-scale, population-based study of adults, we applied network analysis to study the relationship between environmental factors and symptoms of depression, anxiety, and well-being. We estimated networks with overall mental health..."]
+      },
+      {
+        "title": "Worldwide Well-Being: Simulated Twins Reveal Genetic and (Hidden) Environmental Influences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Espen Røysamb", "Terrie E Moffitt", "Avshalom Caspi", "Ragnhild Bang Nes"],
+        "abstract": ["What are the major sources of worldwide variability in subjective well-being (SWB)? Twin and family studies of SWB have found substantial heritability and strong effects from unique environments but virtually no effects from shared environments. However, extant findings are not necessarily valid at the global level. Prior studies have examined with..."]
+      },
+      {
+        "title": "The structure of well-being: a single underlying factor with genetic and environmental influences",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Ragnhild Bang Nes", "Nikolai Czajkowski", "Espen Røysamb"],
+        "abstract": ["Purpose\nThe structure of well-being has been debated for millennia. Dominant conceptualisations, such as the hedonic and eudaimonic models, emphasise different constituents of the well-being construct. Some previous studies have suggested that the underlying structure of well-being may consist of one or a few general well-being factors. We conducte..."]
+      },
+      {
+        "title": "Boys with overweight status lagged behind girls with overweight status in reading: Evidence from Mendelian Randomization",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Baeksan Yu", "Henrik Daae Zachrisson", "Rosa Cheesman", "Ragnhild Bang Nes"],
+        "abstract": ["Objective: \nWe investigated the relationship between childhood weight status and academic achievement across sexes and different school subjects in Norway.\n\nStudy design and setting: \nWe used data from the Norwegian Mother, Father and Child Cohort Study, which includes genetic data (N=13,648, 8-year-old children). We employed within-family mendelia..."]
+      },
+      {
+        "title": "Flattening the quality of life curve? A prospective person-centred study from Norway amid COVID-19",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Ragnhild Bang Nes", "Baeksan Yu", "Thomas Hansen", "Thomas Sevenius Nilsen"],
+        "abstract": ["Purpose\nWe examined multidimensional, heterogeneous reactions to the COVID-19 pandemic and associated measures to provide further insights into the developmental processes of risk and adaptation.\n\nMethod\nWe used three-wave questionnaire data from 8156 individuals participating in the Norwegian County Public Health Survey assessed 1–5 months before..."]
+      },
+      {
+        "title": "A cross-sectional study of the relationship between injuries and quality of life, psychological distress, sleeping problems, and global subjective health in adults from three Norwegian counties",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Leif Edvard Aarø", "Eyvind Ohm", "Jens Christoffer Skogen", "Knut-Inge Klepp"],
+        "abstract": ["Background\nStudies examining associations between injuries and outcomes like quality of life and psychological distress are important to understand a broader range of possible consequences of injuries for population health.\n\nAims\nThe aim of this study was to examine associations between self-reported injury and quality of life, psychological distre..."]
+      },
+      {
+        "title": "Disentangling direct and indirect genetic effects from partners and offspring on maternal depression using trio-GCTA",
+        "tags": ["Preprint"],
+        "date": "Sep 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Espen Moen Eilertsen", "Ziada Ayorech", "Eivind Ystrom"],
+        "abstract": ["Maternal depressive symptoms are highly prevalent and can negatively impact affected individuals and family members. Understanding aetiological influences on maternal depression, such as genetic liability, is key to inform treatment and prevention efforts. In the present study, we quantified direct and indirect genetic effects (i.e., when genetic v..."]
+      },
+      {
+        "title": "Tackling social disconnection: An umbrella review of RCT-based interventions targeting social isolation and loneliness",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Thomas Hansen", "Ragnhild Bang Nes", "Kamila Angelika Hynek", "Julia Bidonde"],
+        "abstract": ["Background\nSocial isolation and loneliness are urgent public health concerns associated with negative physical and mental health outcomes. Understanding effective remedies is crucial in addressing these problems.\n\nObjectives\nTo synthesize and critically appraise scientific evidence on the effectiveness of social isolation and loneliness interventio..."]
+      },
+      {
+        "title": "Do Municipal Contexts Matter for Adolescent Mental Health? A Within-Municipality Analysis of Nationwide Norwegian Survey Data Across Six Years",
+        "tags": ["Article"],
+        "date": "Sep 2023",
+        "authors": ["Baeksan Yu", "Tilmann von Soest", "Ragnhild Bang Nes"],
+        "abstract": ["Despite growing concerns about substantial socio-economic differences between districts in many developed nations, limited attention has been paid to how adolescent mental health may be shaped by district characteristics. A few studies have shown that adolescent mental health is related to contextual factors such as district socio-economic status,..."]
+      },
+      {
+        "title": "Identifying associations between stressful life events and depressive symptoms in two large-scale population-based samples of adults using network analysis",
+        "tags": ["Preprint"],
+        "date": "Jun 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Omid V. Ebrahimi", "Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": ["Stressful life events (SLEs) constitute key risk factors for depression. However, previous studies examining the relationship between SLEs and depression have been limited by focusing on single events, combining events into broad categories, and/or ignoring interrelationships between events in statistical analyses. To surpass these limitations, we..."]
+      },
+      {
+        "title": "Emerging costs in a “hidden” workforce: The longitudinal psychosocial effects of caregiving during the COVID-19 pandemic among Norwegian adults",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Thomas Hansen", "Kamila Angelika Hynek", "Anne McMunn", "Fredrik Methi"],
+        "abstract": ["During COVID-19 many informal caregivers experienced increased caregiving load while access to formal and informal support systems and coping resources decreased. Little is known about the psychosocial costs of these challenges for an essential yet vulnerable and hidden frontline workforce. This study explores and compares changes in psychosocial w..."]
+      },
+      {
+        "title": "Promoting wellbeing: A randomized controlled trial of the web-based Five Ways to Wellbeing for All Intervention (Preprint)",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Monica Prydz", "Nikolai Czajkowski", "Maja Eilertsen", "Ragnhild Bang Nes"],
+        "abstract": ["BACKGROUND\nBackground: Compromised wellbeing constitutes a major threat to individuals and societies worldwide, and resource-intensive psychological treatment alone cannot solve this burden. There is a need for low-cost evidence-based preventive and wellbeing promotive interventions. Five activity domains seem to be associated with wellbeing promot..."]
+      },
+      {
+        "title": "Caregiving + Migrant Background = Double Jeopardy? Associations between Caregiving and Physical and Psychological Health According to Migrant Backgrounds in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Kamila Angelika Hynek", "Aslaug Gotehus", "Fredrik Methi", "Thomas Hansen"],
+        "abstract": ["Informal caregiving can have detrimental consequences for physical and psychological health, but the impacts are highly heterogenous. A largely ignored question is whether these impacts differ with migrant backgrounds, and whether caregiving and a migrant background combine to create double jeopardy. We explored these questions using large-scale da..."]
+      },
+      {
+        "title": "The association of cognitive abilities with language disorder in 8‐year‐old children: A population‐based clinical sample",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Fufen Jin", "Synnve Schjolberg", "Patricia Eadie", "Mila Vulchanova"],
+        "abstract": ["Background: \nDespite accumulated evidence that language development depends on basic cognitive processes, the balance in contributions of verbal and non-verbal cognitive skills to language abilities is still underexplored. Little is known about which cognitive measures best predict the degree of severity in children with language disorder (LD).\n\nAi..."]
+      },
+      {
+        "title": "Mental health and environmental factors in adults: A population-based network analysis",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Ludvig Daae Bjørndal", "Omid V. Ebrahimi", "Xiaoyu Lan", "Espen Røysamb"],
+        "abstract": ["Few studies have assessed the multifactorial nature of environmental influences on population mental health. In this large-scale, population-based study of adults, we applied network analysis to study the relationship between environmental factors and symptoms of depression, anxiety, and wellbeing. We estimated networks with overall mental health n..."]
+      },
+      {
+        "title": "Do Municipal Contexts Matter for Adolescent Mental Health? A Within-Municipality Analysis of Nationwide Norwegian Survey Data Across Six Years",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Baeksan Yu", "Tilmann von Soest", "Ragnhild Bang Nes"],
+        "abstract": ["Background\nDespite growing concerns about substantial socio-economic differences between districts in many developed nations, limited attention has been paid to how adolescent mental health may be shaped by district characteristics. A few studies have shown that adolescent mental health is related to contextual factors such as district socio-econom..."]
+      },
+      {
+        "title": "The structure of wellbeing–a single underlying factor with genetic and environmental influences",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ludvig Daae Bjørndal", "Ragnhild Bang Nes", "Nikolai Olavi Czajkowski", "Espen Røysamb"],
+        "abstract": ["The structure of wellbeing has been debated for millennia. Dominant conceptualisations, such as the hedonic and eudaimonic models, emphasise different constituents of the wellbeing construct. Some previous studies have suggested that the underlying structure of wellbeing may consist of one or a few general wellbeing factors. We conducted three stud..."]
+      },
+      {
+        "title": "DISENTANGLING INTRAFAMILIAL GENETIC EFFECTS ON MATERNAL DEPRESSION USING TRIO-GCTA",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Ludvig Daae Bjørndal", "Espen Moen Eilertsen", "Jessie Baldwin", "Eivind Ystrom"],
+        "abstract": []
+      },
+      {
+        "title": "Common Practice Elements in Treatment Programs for Adolescents with Externalizing and Internalizing Problems: A Meta-Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Line Solheim Kvamme", "serap keles", "Ragnhild Bang Nes", "John Kjøbli"],
+        "abstract": ["There is a pressing need for effective interventions targeting mental disorders for service-involved youth across child welfare, correctional and mental health residential settings. Identifying effective common practice elements (CPEs) is a promising direction toward developing effective, flexible, and feasible therapeutic interventions. The aims o..."]
+      },
+      {
+        "title": "De glemte barna – en kartleggingsstudie av tilbud til og muligheter for pårørende søsken i norske kommuner",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Yngvild Bjartveit Haukeland", "Ann-Helén Kongshavn Rønning", "Ragnhild Bang Nes", "Torun Marie Vatne"],
+        "abstract": ["Background: Norwegian health professionals are obliged to provide support to siblings as next of kin. Preliminary evidence for positive outcomes of SIBS, a novel five-session intervention for siblings as next of kin, exists. This study aimed to investigate the extent and type of sibling support in the community health services. It also aimed to exa..."]
+      },
+      {
+        "title": "Exploring the biological basis for happiness.",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Jessica Armitage", "Meike Bartels", "Ragnhild Bang Nes", "Claire M A Haworth"],
+        "abstract": []
+      },
+      {
+        "title": "Covid-fatigued? A longitudinal study of Norwegian older adults’ psychosocial well-being before and during early and later stages of the COVID-19 pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Thomas Hansen", "Thomas Sevenius Nilsen", "Marit Knapstad", "Ragnhild Bang Nes"],
+        "abstract": ["As the pandemic continues, many older adults are facing prolonged isolation and stress while having less access to traditional ways of coping. There is widespread concern that the situation is increasingly taking its toll on older adults’ psychological and social well-being. We use linear mixed models to examine psychosocial impacts and predictors..."]
+      },
+      {
+        "title": "Trust Buffers Against Reduced Life Satisfaction When Faced With Financial Crisis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Jocelyne Clench-Aas", "Ingrid Bergande", "Ragnhild Bang Nes", "Arne Holte"],
+        "abstract": ["Background: In light of the coronavirus disease 2019 (COVID-19) pandemic and its large economic consequences, we used a three-layer nested structural model (individual, community, and country), each with a corresponding measure of income, trust, and satisfaction, to assess change in their interrelationships following a global crisis; which, in this..."]
+      },
+      {
+        "title": "Introducing two types of psychological resilience with partly unique genetic and environmental sources",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Live Skow Hofgaard", "Ragnhild Bang Nes", "Espen Røysamb"],
+        "abstract": ["Psychological resilience is indicated when individuals demonstrate good mental health despite exposure to significant stress or adversity. Good mental health may involve low levels of illbeing and/or high levels of wellbeing. There is still very limited knowledge about the potential differences between these outcomes in relation to stressors. We pr..."]
+      },
+      {
+        "title": "Locked and lonely? A longitudinal assessment of loneliness before and during the COVID-19 pandemic in Norway",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Thomas Hansen", "Thomas Sevenius Nilsen", "Baeksan Yu", "Ragnhild Bang Nes"],
+        "abstract": ["Aims: \nThere are concerns that lockdown measures taken during the current COVID-19 pandemic lead to a rise in loneliness, especially in vulnerable groups. We explore trends in loneliness before and during the pandemic and differences across population subgroups.\n\nMethods: \nData were collected via online questionnaires in June 2020 and four to eight..."]
+      },
+      {
+        "title": "Lykkekuren",
+        "tags": ["Book"],
+        "date": "Jan 2021",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": ["Hvordan få det bedre? Det finnes ingen enkeltoppskrift på lykke, men det er forsket mye på feltet, og det finnes faktisk svar – helt konkrete ting man kan gjøre for å bli lykkeligere.\nBåde enkeltstudier og metastudier tyder på at lykkeøvelser har like god, eller endatil bedre effekt enn det antidepressive medisiner har. Målet med Lykkekuren er å de..."]
+      },
+      {
+        "title": "Helsesykepleiere er nærmest til å følge opp søsken som pårørende",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Torun Marie Vatne", "Ann-Helen Kongshaug Rønning", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Kommunepsykologer bør sørge for at kommunens tiltak er tilpasset søskens behov.",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Torun Marie Vatne", "Ann-Helen K. Rønning", "Ragnhild Bang Nes"],
+        "abstract": ["I januar 2018 trådde en endring i helsepersonellovens § 10a vedrørende barn som pårørende i kraft. Denne stadfester at helsepersonell, herunder psykologer, har plikt til å ivareta behovet for informasjon og nødvendig oppfølging som mindreårige barn kan ha når de er pårørende til søsken eller foreldre med psykiske lidelser, rusmiddelavhengighet elle..."]
+      },
+      {
+        "title": "Livskvalitet i Norge 2019",
+        "tags": ["Book", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Ragnhild Bang Nes", "Thomas Sevenius Nilsen", "Lars Johan Hauge", "Espen Røysamb"],
+        "abstract": ["Hvordan hadde vi det egentlig i Norge i 2019? Og hvor jevnt var livskvaliteten egentlig fordelt? Denne rapporten gir en første oversikt over sider av livskvaliteten i Norge som vi tidligere har hatt lite kunnskap om. Den gir et utgangspunkt for å studere utviklingen i livskvalitet i befolkningen og befolkningsgrupper i årene fremover. \nRapporten by..."]
+      },
+      {
+        "title": "Preschool Speech Intelligibility and 8-Year Literacy: A Moderated Mediation Analysis",
+        "tags": ["Article"],
+        "date": "Sep 2020",
+        "authors": ["Fufen Jin", "Synnve Schjolberg", "Patricia Eadie", "Espen Røysamb"],
+        "abstract": ["Purpose\nThe aims of this study were (a) to examine the relationship between speech intelligibility at the age of 5 years and literacy skills at the age of 8 years, (b) to explore the possible mediating or moderating role of broader language skills at 5 years in the relationship of interest, and (c) to assess whether the potential risk factors (chil..."]
+      },
+      {
+        "title": "Stå opp - Gruppebehandling for insomni",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Iver Strandheim", "Paul Andreas", "Aasen Børge", "Emilie Føyen With"],
+        "abstract": ["Gruppebehandling for insomni kan være en god måte å møte etterspørselen av søvnbehandling i kommunen. Denne studien validerer effekten av det gruppebaserte behandlingsprogrammet Stå opp for insomni. ABSTRACT: Get Up: A group-based treatment for insomnia Context and objective: Insomnia is highly prevalent in the Norwegian adult population. Effective..."]
+      },
+      {
+        "title": "Predicting Literacy Skills at 8 Years From Preschool Language Trajectories: A Population-Based Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Fufen Jin", "Synnve Schjolberg", "Mari Vaage Wang", "Kristian Tambs"],
+        "abstract": ["Purpose\nThis article explored the predictive values of three main language delay (LD) trajectories (i.e., persistent, late onset, and transient) across 3–5 years on poor literacy at 8 years. Additionally, the effect of gender was assessed, using both gender-neutral and gender-specific thresholds.\n\nMethod\nThe data comprised mother-reported questionn..."]
+      },
+      {
+        "title": "Understanding trajectories of externalizing problems: Stability and emergence of risk factors from infancy to middle adolescence",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Anne Kjeldsen", "Ragnhild Bang Nes", "Ann Sanson", "Evalill Bølstad Karevold"],
+        "abstract": ["Despite considerable efforts to understand the processes that underlie the development of externalizing behavior problems, it is still unclear why externalizing problems remain chronically high for some children, emerge early and cease by late childhood for others, and arise in adolescence in some cases. The purpose of this study was to examine how..."]
+      },
+      {
+        "title": "Two indicators of socioeconomic status and quality of life: Preliminary results from the public health survey in the Norwegian counties of Troms and Finnmark",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Jens Christoffer Skogen", "Øystein Vedaa", "Thomas Sevenius Nilsen", "Leif Edvard Aarø"],
+        "abstract": ["Background: The main purpose of the public health survey in Troms and Finnmark is to obtain knowledge about aspects of health and quality of life of the adult population. We report associations between two pertinent indicators of socioeconomic status (i.e., educational level and perceived financial situation) and three quality of life outcomes, nam..."]
+      },
+      {
+        "title": "When Life Happens: Investigating Short and Long-Term Effects of Life Stressors on Life Satisfaction in a Large Sample of Norwegian Mothers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Gunvor M Dyrdal", "Espen Røysamb", "Ragnhild Bang Nes", "Joar Vittersø"],
+        "abstract": ["The purpose of this study was to examine the impact of major life stressors on the short and long-term life satisfaction (LS) of Norwegian mothers using data from the Norwegian Mother and Child Cohort study (MoBa, N = 46,342). Data on LS were collected at T1 (6 months postpartum) and T3 (36 months postpartum), and data on life stressors at T2 (18 m..."]
+      },
+      {
+        "title": "Velferd i forvitring: Folkehelsepolitikkens fem – en verktøykasse til folkehelsas hærfører",
+        "tags": ["Research"],
+        "date": "May 2019",
+        "authors": ["Ragnhild Bang Nes", "Dina Von Heimburg", "Ottar Ness", "Joar Vittersø"],
+        "abstract": ["https://www.dagsavisen.no/debatt/velferd-i-forvitring-1.1481325?fbclid=IwAR2zn3ftX9OqbCOEM9lf7pp94_qp4XT_4_sB7X1wAg9F8yehywY6b9gEV7A"]
+      },
+      {
+        "title": "bcmDN[1]",
+        "tags": ["Data"],
+        "date": "Dec 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "The role of genetics in subjective well-being",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Livskvalitet. Anbefalinger for et bedre målesystem",
+        "tags": ["Book", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Ragnhild Bang Nes", "Thomas Hansen", "Anders Barstad", "Espen Røysamb"],
+        "abstract": []
+      },
+      {
+        "title": "Genetics, personality and wellbeing. A twin study of traits, facets and life satisfaction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes", "Nikolai O. Czajkowski", "Olav Vassend"],
+        "abstract": ["Human wellbeing is influenced by personality traits, in particular neuroticism and extraversion. Little is known about which facets that drive these associations, and the role of genes and environments. Our aim was to identify personality facets that are important for life satisfaction, and to estimate the contribution of genetic and environmental..."]
+      },
+      {
+        "title": "Quality of Life in Intentional Communities",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Bjørn Grinde", "Ragnhild Bang Nes", "Ian F. MacDonald", "David Sloan Wilson"],
+        "abstract": ["Abstract The present study was initiated to investigate levels and predictors of wellbeing\namong inhabitants of intentional communities (ICs). An anonymous, Internet-based\nquestionnaire was distributed to US and Canadian ICs. Responses were obtained from 913\nmembers. Wellbeing was measured by the widely used satisfaction with life scale (SWLS).\nHie..."]
+      },
+      {
+        "title": "The Genetics of Well-being",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "The Genetics of Well-being (Røysamb & Nes, 2018)",
+        "tags": ["Data"],
+        "date": "Feb 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "The genetics of wellbeing",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Livskvalitet og trivsel",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Ragnhild Bang Nes", "Leif Edvard Aarø", "Jocelyne Clench-Aas", "Erik Nord"],
+        "abstract": []
+      },
+      {
+        "title": "The relationship between physical functional limitations, and psychological distress: Considering a possible mediating role of pain, social support and sense of mastery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Ingeborg Flåten Backe", "Grete Patil", "Ragnhild Bang Nes", "Jocelyne Clench-Aas"],
+        "abstract": ["The aim of this study was to examine associations between selected physical functional limitations related to performing daily activities and psychological distress. We also aimed to investigate if these associations vary across age (moderation), and to explore pain, sense of mastery and social support as potential moderators and mediators. The stu..."]
+      },
+      {
+        "title": "Happiness in Behaviour Genetics: An Update on Heritability and Changeability",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb"],
+        "abstract": ["In this paper we summarize recent behaviour genetic findings on happiness measured as life satisfaction (LS) and subjective wellbeing (SWB) and discuss important implications pertaining to stability and change, including the potential of individual and societal interventions. Broadly speaking, two main research strategies explore genetic and enviro..."]
+      },
+      {
+        "title": "Subjektiv livskvalitet: lykke og trivsel blant ungdom",
+        "tags": ["Chapter"],
+        "date": "Aug 2017",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "The perceived constraints subscale of the Sense of Mastery Scale: dimensionality and measurement invariance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Jocelyne Clench-Aas", "Ragnhild Bang Nes", "Leif Edvard Aarø"],
+        "abstract": ["Purpose\nA number of studies have reported differences in sense of mastery and perceived control across different subgroups. Yet, few have examined measurement invariance, an important prerequisite for valid comparisons. This study examines the factorial structure and measurement invariance of the perceived constraints (PC) facet of Pearlin and Scho..."]
+      },
+      {
+        "title": "Genes, Environments and Core Features of Eudaimonic Wellbeing",
+        "tags": ["Chapter"],
+        "date": "Oct 2016",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes"],
+        "abstract": ["Human wellbeing is influenced by both environmental and genetic factors. During the last two decades, an increasing number of genetically informative studies have documented substantial genetic influences for various types of wellbeing. Recent meta-analyses estimate the weighted average heritability of wellbeing to be in the range of 32–40 %. Impor..."]
+      },
+      {
+        "title": "Psykisk helse",
+        "tags": ["Chapter"],
+        "date": "Jul 2016",
+        "authors": ["Ragnhild Bang Nes", "Ragnhild Orstavik"],
+        "abstract": ["Norge regnes som et av verdens beste land å bo i. På internasjonale rangeringer over verdens mest tilfredse nasjoner skårer Norge og de andre nordiske landene systematisk høyt. I World Happiness Report, som publiserer internasjonale oversikter over subjektiv livskvalitet, lå Norge i 2015 på fjerdeplass, bare desimaler etter Sveits, Island og Danmar..."]
+      },
+      {
+        "title": "Depression and life satisfaction after midlife. A longitudinal twin study across 17 years",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2016",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes", "Olav Vassend"],
+        "abstract": ["Life satisfaction is inversely related to mental health problems such as depression. There is however limited knowledge about long term relations, and about the nature of the associations. The aim of this study was to a) examine to what extent depression symptoms around midlife predict life satisfaction 15-20 years later, b) what role the personali..."]
+      },
+      {
+        "title": "The Relationship Between Violence and Psychological Distress Among Men and Women: Do Sense of Mastery and Social Support Matter?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Vedrana Bebanic", "Jocelyne Clench-Aas", "Ruth Kjærsti Raanaas", "Ragnhild Bang Nes"],
+        "abstract": ["The aims of this study were to examine associations between reported exposure to psychological and physical violence and psychological distress (PD) among men and women, and to explore the possible mediating or moderating roles of sense of mastery and social support. We used data from the nationally representative Norwegian Health and Level of Livi..."]
+      },
+      {
+        "title": "Maternal Work Absence: A Longitudinal Study of Language Impairment and Behavior Problems in Preschool Children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Ragnhild Bang Nes", "Lars Johan Hauge", "Tom Kornstad", "Margarete Vollrath"],
+        "abstract": ["Combining work and family responsibilities is challenging when children have special needs, and mothers commonly make employment-related adjustments. In this study, the authors examined associations between maternal work absence and child language impairment and behavior problems in preschool children. Questionnaire data at child age 3 years from 3..."]
+      },
+      {
+        "title": "The heritability of subjective well-being: review and meta-analysis",
+        "tags": ["Chapter"],
+        "date": "Jun 2015",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb"],
+        "abstract": ["Why do people differ in their happiness and well-being? Over the last decade, behavior geneticists have tried to resolve whether variation in happiness is a family matter, or a matter of circumstances. By means of quantitative genetic research – usually classical twin studies – the variation in happiness measured as subjective well-being (SWB) or l..."]
+      },
+      {
+        "title": "The Nature-Nurture Debate: New Evidence and Good News",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": ["The last decades have seen an explosive growth in research on the effects of nature and nurture in developmental processes, leading to improved understanding of human behaviour. Risk and protective factors for well-being and health have been found to originate from genetic/biological, social, and psychological realms, and to interact in complex way..."]
+      },
+      {
+        "title": "Maternal Sick Leave Due to Psychiatric Disorders Following the Birth of a Child With Special Health Care Needs",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Lars Johan Hauge", "Ragnhild Bang Nes", "Tom Kornstad", "Margarete Vollrath"],
+        "abstract": ["Objective: \nChild-related stress following the birth of a child with special health care needs (SHCN) can take a toll on parental health. This study examined how the risk of sick leave due to psychiatric disorders (PD) among mothers of children with SHCN compares with that of mothers of children without SHCN during early motherhood. \n\nMethods: \nRes..."]
+      },
+      {
+        "title": "Satisfaction with life and mental distress in people living alone or with a partner",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Jocelyne Clench-Aas", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Lykke som ressursbygger",
+        "tags": ["Chapter"],
+        "date": "Jul 2014",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": ["Hva er det vi egentlig ønsker mest av alt for barna våre? Å lære gangetabellene før skolestart, eller raske ben til skoleskirennet? Orden? Pålitelighet og hjelpsomhet? Ofte er det lykke som troner øverst på foreldres ønskeliste. Og lykke er et godt mål. Positive opplevelser skaper et grunnlag for å mestre utfordringer på senere utviklingstrinn og b..."]
+      },
+      {
+        "title": "Well-Being: Heritable and Changeable",
+        "tags": ["Chapter"],
+        "date": "Jul 2014",
+        "authors": ["Espen Røysamb", "Ragnhild Bang Nes", "Joar Vittersø"],
+        "abstract": ["Well-being has been found to be heritable and changeable. How do these pieces of evidence fit together? Intuitively, models of change and models of genetic influences may seem contradictory and paradoxical. In this chapter, we aim to unite these findings into an integrated understanding of human happiness. We start out by briefly reviewing some of..."]
+      },
+      {
+        "title": "Employment Trends During Preschool Years Among Mothers of Term Singletons Born with Low Birth Weight",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Lars Johan Hauge", "Tom Kornstad", "Ragnhild Bang Nes", "Margarete Vollrath"],
+        "abstract": ["Children born at term with low birth weight (LBW) are regarded growth restricted and are at particular risk of adverse health outcomes requiring a high degree of parental participation in the day-to-day care. This study examined whether their increased risk of special health care needs compared to other children may influence mothers' opportunities..."]
+      },
+      {
+        "title": "Adaptation to the Birth of a Child With a Congenital Anomaly: A Prospective Longitudinal Study of Maternal Well-Being and Psychological Distress",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb", "Lars Johan Hauge", "Margarete Vollrath"],
+        "abstract": ["This study explores the stability and change in maternal life satisfaction and psychological distress following the birth of a child with a congenital anomaly using 5 assessments from the Norwegian Mother and Child Cohort Study collected from Pregnancy Week 17 to 36 months postpartum. Participating mothers were divided into those having infants wit..."]
+      },
+      {
+        "title": "Dimensionality and Measurement Invariance of Satisfaction with Life Scale",
+        "tags": ["Chapter"],
+        "date": "Mar 2014",
+        "authors": ["Jocelyne Clench-Aas", "Ragnhild Bang Nes", "Leif Edvard Aarø"],
+        "abstract": []
+      },
+      {
+        "title": "Happiness in behavior genetics",
+        "tags": ["Chapter"],
+        "date": "Mar 2014",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic and Environmental Influences on Positive Emotionality",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": ["There has been an explosion of interest on happiness and positive emotion in both the scientific literature and the popular press. While positive emotion is generally considered a source of good outcomes, recent scientific work in psychology has highlighted the ways in which positive emotion facilitates the pursuit of important goals, contributes t..."]
+      },
+      {
+        "title": "Psychology of Child Well-Being",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Arne Holte", "Margaret Mary Barry", "Mona Bekkhus", "Henrik Daae Zachrisson"],
+        "abstract": ["This chapter addresses child well-being from a psychological point of view. In doing so, we need to remember that psychology is not one single discipline but covers a wide range of psychological disciplines from evolutionary psychology and behavior genetics via psychometrics to developmental, cognitive, personality, and social psychology – all of t..."]
+      },
+      {
+        "title": "Psychology of Child Well-Being",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Arne Holte", "Margaret Mary Barry", "Mona Bekkhus", "Henrik Daae Zachrisson"],
+        "abstract": ["This chapter addresses child well-being from a psychological point of view. In doing so, we need to remember that psychology is not one single discipline but covers a wide range of psychological disciplines from evolutionary psychology and behavior genetics via psychometrics to developmental, cognitive, personality, and social psychology – all of t..."]
+      },
+      {
+        "title": "The Impact of Child Behaviour Problems on Maternal Employment: A Longitudinal Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Ragnhild Bang Nes", "Lars Johan Hauge", "Tom Kornstad", "Margarete Vollrath"],
+        "abstract": ["This prospective population-based study examined associations between children's behaviour problems and maternal employment. Information on children's behaviour problems at 3 years from 22,115 mothers employed before pregnancy and participating in the Norwegian Mother and Child Cohort Study were linked to national register data on employment and re..."]
+      },
+      {
+        "title": "Satisfaction with life and marital satisfaction in couples with and without children",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Jocelyne Clench-Aas", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Negative life events and related life satisfaction or psychological distress",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Gunnvor F. Marum", "Jocelyne Clench-Aas", "Ragnhild Bang Nes", "Ruth Kjærsti Raanaas"],
+        "abstract": []
+      },
+      {
+        "title": "The relationship between negative life events, psychological distress and life satisfaction: A population-based study",
+        "tags": ["Article"],
+        "date": "Sep 2013",
+        "authors": ["Gunnvor Marum", "Jocelyne Clench-Aas", "Ragnhild Bang Nes", "Ruth Kjærsti Raanaas"],
+        "abstract": ["Negative life events may increase psychological distress and reduce life satisfaction (LS). This study investigates associations between negative life events and both positive and negative indicators of mental health and explores the extent to which these associations are buffered by sense of mastery and perceived social support.\nData were obtained..."]
+      },
+      {
+        "title": "The Impact of a Child's Special Health Care Needs on Maternal Work Participation during Early Motherhood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Lars Johan Hauge", "Tom Kornstad", "Ragnhild Bang Nes", "Margarete Vollrath"],
+        "abstract": ["Many women temporarily reduce work hours or stop working when caring for small children. However, mothers of children with special health care needs may face particular challenges balancing childrearing responsibilities and employment demands. This study examines how the work participation among mothers of children with special health care needs co..."]
+      },
+      {
+        "title": "Major Depression and Life satisfaction: A population-based twin study",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Ragnhild Bang Nes", "Nikolai O Czajkowski", "Espen Røysamb", "Ted Reichborn-Kjennerud"],
+        "abstract": ["BACKGROUND: The extent to which positive and negative indicators of mental health share etiological influences has been studied to a limited degree only. This study examines the genetic and environmental influences on association between liability to lifetime DSM-IV Major Depressive Disorder (MDD) and dispositional life satisfaction (LS). METHODS:..."]
+      },
+      {
+        "title": "Can a Happy Relationship Predict a Happy Life? A Population-Based Study of Maternal Well-Being During the Life Transition of Pregnancy, Infancy, and Toddlerhood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Gunvor M Dyrdal", "Espen Røysamb", "Ragnhild Bang Nes", "Joar Vittersø"],
+        "abstract": ["The association between overall life satisfaction (LS) and relationship satisfaction (RS) was investigated longitudinally\namong mothers (N=67,355), using data from the Norwegian Mother and Child Cohort Study (MoBa), conducted by the Norwegian Institute\nof Public Health. Data were collected twice during pregnancy, and at 6 and 36 months postpartum...."]
+      },
+      {
+        "title": "Genetiske årsakfaktorer",
+        "tags": ["Chapter"],
+        "date": "Jul 2011",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Personlighet og livskvalitet",
+        "tags": ["Chapter"],
+        "date": "Jul 2011",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Kjønn og livskvalitet",
+        "tags": ["Chapter"],
+        "date": "Jul 2011",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Helse og livskvalitet",
+        "tags": ["Chapter"],
+        "date": "Jul 2011",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "Psykisk helse i Norge. Tilstandsrapport med internasjonale sammenligninger",
+        "tags": ["Book", "Full-text available"],
+        "date": "Apr 2011",
+        "authors": ["Ragnhild Bang Nes", "Jocelyne Clench-Aass"],
+        "abstract": []
+      },
+      {
+        "title": "Dimensionality and measurement invariance in the Satisfaction with Life Scale in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2011",
+        "authors": ["Jocelyne Clench-Aas", "Ragnhild Bang Nes", "Odd Steffen Dalgard", "Leif Edvard Aarø"],
+        "abstract": ["Results from previous studies examining the dimensionality and factorial invariance of the Satisfaction with Life Scale (SWLS) are inconsistent and often based on small samples. This study examines the factorial structure and factorial invariance of the SWLS in a Norwegian sample.\nConfirmatory factor analysis (AMOS) was conducted to explore dimensi..."]
+      },
+      {
+        "title": "Mates and Marriage Matter: Genetic and Environmental Influences on Subjective Wellbeing Across Marital Status",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2010",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb", "Jennifer R Harris", "Kristian Tambs"],
+        "abstract": ["Specific environments and social relationships may alter the impact of genes. Previous studies have shown marriage to moderate heritability for depressive symptoms in females, suggesting that marriage provides protection or compensation against genetic risks. Similar mechanisms may be relevant for subjective wellbeing (SWB), which is considerably i..."]
+      },
+      {
+        "title": "Happiness in Behaviour Genetics: Findings and Implications",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2010",
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": ["A number of behaviour genetic studies have shown variation in happiness to be influenced by genes, and indicated that long-term\nhappiness is predominantly caused by genes. To policy makers and individuals, as well as the psychological and psychiatric\nenterprise, evidence for considerable and stable genetic contributions suggests that societal chang..."]
+      },
+      {
+        "title": "Family Matters: Happiness in Nuclear Families and Twins",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2010",
+        "authors": ["Ragnhild Bang Nes", "Nikolai Czajkowski", "Kristian Tambs"],
+        "abstract": ["Biometric studies have shown that happiness is strongly affected by genes. The findings are mainly based on twin data, however, and the full validity of the results has been debated. To overcome some limitations in classical twin research, we examined aetiological sources of subjective well-being (SWB), using two independent population-based sample..."]
+      },
+      {
+        "title": "Well-being and ill-being: Shared environments, shared genes?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2008",
+        "authors": ["Ragnhild Bang Nes", "Nikolai Czajkowski", "Espen Røysamb", "Kristian Tambs"],
+        "abstract": ["The nature of the associations between life satisfaction, anxiety, and depression remains elusive. Using questionnaire data from a large population-based sample (N = 6326) of young adult Norwegian twins (aged 18–31 years) we explored the extent to which latent genetic and environmental factors are (1) common or distinct, and (2) sex-specific. Pheno..."]
+      },
+      {
+        "title": "Symptoms of Anxiety and Depression in Young Adults: Genetic and Environmental Influences on Stability and Change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2007",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb", "Ted Reichborn-Kjennerud", "Kristian Tambs"],
+        "abstract": ["Etiological factors for stability and change in symptoms of anxiety and depression, including sex differences, are largely unexplored in young adults. Using biometric modeling and two-wave longitudinal data from 4393 Norwegian twins aged 18 to 31 we explored (i) heritabilities of symptoms of anxiety and depression, (ii) effects of genetic and envir..."]
+      },
+      {
+        "title": "Subjective well-being: Genetic and environmental contributions to stability and change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2006",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb", "Kristian Tambs", "Ted Reichborn-Kjennerud"],
+        "abstract": ["Previous cross-sectional studies have found substantial genetic influences on individual variation in subjective well-being (SWB), and evidence for sex-specific genetic effects has been reported. However, the genetic and environmental influences on stability and change in SWB over time are largely unexplored.\nQuestionnaire data on SWB from a popula..."]
+      },
+      {
+        "title": "Happiness: Stability and change - Genetic and environmental contributions",
+        "tags": ["Conference Paper"],
+        "date": "Nov 2005",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb", "Ted Reichborn-Kjennerud", "Jennifer R Harris"],
+        "abstract": []
+      },
+      {
+        "title": "Subjective Wellbeing and Sleep Problems: A Bivariate Twin Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2005",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb", "Ted Reichborn-Kjennerud", "Jennifer R Harris"],
+        "abstract": ["The relationship between subjective wellbeing (SWB) and self-reported sleep problems was investigated in a cohort of Norwegian twins aged 18 to 31 years. Questionnaire data from 8045 same- and opposite-sex twins were analyzed using structural equation modeling to explore the relative effects of genetic and environmental influences on phenotypic var..."]
+      },
+      {
+        "title": "Cerebral emboli during left heart catheterization may cause acute brain injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2005",
+        "authors": ["Christian Lund", "Ragnhild Bang Nes", "Torhild Pynten Ugelstad", "David Russell"],
+        "abstract": ["Left heart catheterization carries a risk for cerebral complications. The aims of this prospective study were to determine the frequency and composition of catheterization-related cerebral microemboli and to detect cerebral morphological changes and acute cognitive impairment due to catheterization.\nForty-seven unselected patients undergoing electi..."]
+      },
+      {
+        "title": "Sleep problems and well-being: Genetic and environmental contributions",
+        "tags": ["Conference Paper"],
+        "date": "Nov 2004",
+        "authors": ["Ragnhild Bang Nes", "Espen Røysamb", "Kristian Tambs", "Jennifer R Harris"],
+        "abstract": []
+      },
+      {
+        "title": "Cerebral emboli during left-heart catheterization may cause acute structural and functional brain impairment",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2004",
+        "authors": ["C Lund", "Per Kristian Hol", "T Uglestad", "David Russell"],
+        "abstract": []
+      },
+      {
+        "title": "Psykologiens historie",
+        "tags": ["Book"],
+        "date": "Jan 2003",
+        "authors": ["Ragnhild Bang Nes", "Dag Øyvind Engen Nilsen"],
+        "abstract": []
+      },
+      {
+        "title": "Psychometric properties of a Norwegian research version of the Wechsler Abbreviated Scale of Intelligence (WASI)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2001",
+        "authors": ["Line M. Brager-Larsen", "Kjetil Sundet", "Harald Engvik", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "WELL-BEING & PSYCHOLOGICAL DISTRESS Genetic and environmental influences on stability, change, and covariance",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Ragnhild Bang Nes"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [94],
+    "reads": [35558],
+    "citations": [1735]
   }
 }

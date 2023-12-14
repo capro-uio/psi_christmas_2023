@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Kim Edgar Karlsen",
-    "id": "449627",
+    "name": ["Kim Edgar Karlsen"],
+    "id": ["449627"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -53,5 +53,40 @@
         "url": "https://api.cristin.no/v2/results/910832"
       }
     ]
+  },
+  "rg": {
+    "id": "Kim-Karlsen-3",
+    "name": "Kim Edgar Karlsen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/655109142888448-1533201599609_Q128/Kim-Karlsen-3.jpg",
+    "affiliation": "Diakonhjemmet Hospital Norway, Department of Psychiatry",
+    "keywords": ["Counseling", "Mental Illness", "Psychotherapeutic Processes", "Psychoeducation", "Motivational Interviewing", "Addiction Psychology"],
+    "works": [
+      {
+        "title": "The Struggle for Control: How do Norwegian TV-Celebrities Deal With Critical Media Exposure?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Fanny Duckert", "Kim Edgar Karlsen"],
+        "abstract": ["Ten Norwegian TV-hosts, all nation-wide celebrities, were interviewed about their experiences with critical media exposure. How did they perceive their relationship with the press? What were the main sources of stress? How did they cope? All expressed a strong focus on impression management and self-presentation. The majority described an independe..."]
+      },
+      {
+        "title": "Mestring av kritisk medieomtale",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Kim Edgar Karlsen", "Fanny Duckert"],
+        "abstract": ["Sammendrag\nUtgangspunktet for denne artikkelen er dybdeintervjuer med 43\npersoner som gjennom sin yrkesrolle har havnet i medienes kritiske\nsøkelys. Deltakerne var i utgangspunktet ressurssterke og velfungerende\npersoner. Under mediestormen opplevde de betydelige belastninger og\nreduksjon i livskvalitet. Denne artikkelen fokuserer på deres mestring..."]
+      },
+      {
+        "title": "Å være i medienes kritiske søkelys. Enkeltindividenes erfaringer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Kim Edgar Karlsen", "Fanny Duckert"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Cand.psychol"],
+    "bio": [],
+    "publications": [3],
+    "reads": [302],
+    "citations": [4]
   }
 }

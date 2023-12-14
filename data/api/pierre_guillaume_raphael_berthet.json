@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Pierre Guillaume Raphael Berthet",
-    "id": "967710",
+    "name": ["Pierre Guillaume Raphael Berthet"],
+    "id": ["967710"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -57,5 +57,33 @@
         "url": "https://api.cristin.no/v2/results/1608423"
       }
     ]
+  },
+  "rg": {
+    "id": "Pierre_Guillaume",
+    "name": "Pierre Guillaume",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "École pour lInformatique et les Techniques Avancées | EPITA, École pour lInformatique et les Techniques Avancées, Network Project",
+    "keywords": ["Machine Learning", "Classification", "Neural Networks and Artificial Intelligence"],
+    "works": [
+      {
+        "title": "A benchmark for toxic comment classification on Civil Comments dataset",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Corentin Duchêne", "Henri Jamet", "Pierre Guillaume", "R. Dehak"],
+        "abstract": "Toxic comment detection on social media has proven to be essential for content moderation. This paper compares a wide set of different models on a highly skewed multi-label hate speech dataset. We consider inference time and several metrics to measure performance and bias in our comparison. We show that all BERTs have similar performance regardless..."
+      },
+      {
+        "title": "Hate Speech and Toxic Comment Detection using Transformers",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Pierre Guillaume", "Corentin Duchêne", "R. Dehak"],
+        "abstract": "Hate speech and toxic comment detection on social media has proven to be an essential issue for content moderation. This paper displays a comparison between different Transformer models for Hate Speech detection such as Hate BERT, a BERT-based model, RoBERTa and BERTweet which is a RoBERTa based model. These Transformer models are tested on Jibes&D..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [2],
+    "reads": [429],
+    "citations": [0]
   }
 }

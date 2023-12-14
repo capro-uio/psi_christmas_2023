@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Guilhem Martin",
-    "id": "Qd5nNWUAAAAJ",
-    "affiliation": "Maitre de conférences, Université de Grenoble Alpes",
+    "name": ["Guilhem Martin"],
+    "id": ["Qd5nNWUAAAAJ"],
+    "affiliation": ["Maitre de conférences, Université de Grenoble Alpes"],
     "data": {
       "publications": [
         {
@@ -1035,8 +1035,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Martin Matre",
-    "id": "11898",
+    "name": ["Martin Matre"],
+    "id": ["11898"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
@@ -1080,5 +1080,26 @@
         "url": "https://api.cristin.no/v2/results/1285263"
       }
     ]
+  },
+  "rg": {
+    "id": "Martin-Matre-2",
+    "name": "Martin Matre",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Sunnaas Rehabilitation Hospital, Department of Traumatic Brain Injury",
+    "keywords": ["Clinical Neuropsychology"],
+    "works": [
+      {
+        "title": "Associations Between Executive Functions and Long-Term Stress Reactions After Extreme Trauma: A Two-Year Follow-Up of the Utøya Survivors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Annika Melinder", "Else-Marie Augusti", "Martin Matre", "Tor Endestad"],
+        "abstract": "Terror attacks cause variation in everyday functioning across several domains. This paper focuses on the individual long-term costs in terms of clinical symptoms and cognitive (e.g., shifting, inhibition, and spatial working memory) difficulties associated with these symptoms in 24 survivors of a terror attack in Norway. Another 24 controls were in..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [177],
+    "citations": [14]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Ingvild Finsrud",
-    "id": "WJD-XQMAAAAJ",
-    "affiliation": "Researcher at Modum Bad and University of Oslo",
+    "name": ["Ingvild Finsrud"],
+    "id": ["WJD-XQMAAAAJ"],
+    "affiliation": ["Researcher at Modum Bad and University of Oslo"],
     "data": {
       "publications": [
         {
@@ -77,8 +77,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-2901-5356",
-    "name": "Ingvild Finsrud",
+    "orcid": ["0000-0003-2901-5356"],
+    "name": ["Ingvild Finsrud"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -102,8 +102,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ingvild Finsrud",
-    "id": "571554",
+    "name": ["Ingvild Finsrud"],
+    "id": ["571554"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -135,5 +135,40 @@
         "url": "https://api.cristin.no/v2/results/1951338"
       }
     ]
+  },
+  "rg": {
+    "id": "Ingvild-Finsrud",
+    "name": "Ingvild Finsrud",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Modum Bad, Research Institute",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Emotional and cognitive processes in psychotherapy are associated with different aspects of the therapeutic relationship",
+        "tags": ["Article"],
+        "date": "Sep 2023",
+        "authors": ["Ingvild Finsrud", "Helene A. Nissen-Lie", "Pål G. Ulvenes", "Bruce Wampold"],
+        "abstract": []
+      },
+      {
+        "title": "Confidence in the therapist and confidence in the treatment predict symptomatic improvement week by week in therapy: A latent curve modeling approach",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Ingvild Finsrud", "Helene A. Nissen-Lie", "Pål Gunnar Ulvenes", "Bruce Wampold"],
+        "abstract": ["Previous research suggests that common relationship factors are composed of two overarching factors, \"Confidence in the therapist\" and \"Confidence in the treatment.\" The aim of this naturalistic process-outcome study was to investigate the reciprocal relationships between these two constructs and patients' symptom level across treatment. The sample..."]
+      },
+      {
+        "title": "It's the therapist and the treatment: The structure of common therapeutic relationship factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Ingvild Finsrud", "Helene A. Nissen-Lie", "Karianne R Vrabel", "Pål Gunnar Ulvenes"],
+        "abstract": ["Objective: Prior research has established that common therapeutic relationship factors are potent predictors of change in psychotherapy, but such factors are typically studied one at a time and their underlying structure when studied simultaneously is not clear. We assembled empirically validated relationship factors (e.g., therapist empathy; patie..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [3],
+    "reads": [1497],
+    "citations": [28]
   }
 }

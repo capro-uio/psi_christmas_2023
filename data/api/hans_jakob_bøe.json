@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1700-5196",
-    "name": "Hans Jakob Bøe",
+    "orcid": ["0000-0002-1700-5196"],
+    "name": ["Hans Jakob Bøe"],
     "distinctions": [],
     "education": [
       {
@@ -30,8 +30,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Hans Jakob Bøe",
-    "id": "42345",
+    "name": ["Hans Jakob Bøe"],
+    "id": ["42345"],
     "keywords": [],
     "position": ["Associate professor", "Guest", null],
     "img": {},
@@ -242,5 +242,215 @@
         "url": "https://api.cristin.no/v2/results/127798"
       }
     ]
+  },
+  "rg": {
+    "id": "Hans-Jakob-Boe",
+    "name": "Hans Jakob Bøe",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Independent Researcher, Institute of military psychiatry",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Differences in resilience profiles between military veterans and the general population: An exploratory latent profile analysis using the HUNT-4 survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Andreas Espetvedt Nordstrand", "Hans Jakob Bøe", "Odin Hjemdal", "Frederick Anyan"],
+        "abstract": ["Using latent profile analyses, the current work investigated levels of adverse childhood experiences, symptoms of anxiety and depression and 3 dimensions of relational promotive factors) to identify resilience profiles in a large general population sample ( N = 161,622, mean age = 53.02; SD = 17.80; 56.1% females). We then used the same method to i..."]
+      },
+      {
+        "title": "Late-Onset PTSD in Military Peacekeepers: A Longitudinal Analysis Over 23 Years",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Andreas Espetvedt Nordstrand", "June Ullevoldsæter Lystad"],
+        "abstract": ["The current study examined the occurrence of late-onset PTSD in Norwegian peacekeepers over a period of 23 years."]
+      },
+      {
+        "title": "Long-term post traumatic growth after moral- and victim-traumas among Norwegian UN military peacekeepers: the impact of emotional distress and leadership",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Olav Kjellevold Olsen", "Sigurd William Hystad", "Hans Jakob Bøe", "Eidhamar Are"],
+        "abstract": ["This study investigated the relationship between traumatic experiences during peacekeeping operations in Lebanon (UNIFIL) between 1978 – 1998 and post traumatic growth (PTG), recalled and measured 17-38 years after, in a sample of 11 633 Norwegian military. Specifically, the study investigated how victim traumas (lethal danger) and moral traumas (m..."]
+      },
+      {
+        "title": "Afghanistanundersøkelsen 2020 - Veteraners erfaringer, helse og livskvalitet etter tjeneste i Afghanistan 2001-2020 [The Afghanistan Study 2020 - Veterans' experiences, health and life quality after service in Afghanistan 2001-2020]",
+        "tags": ["Research", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Hans Jakob Bøe", "Andreas Espetvedt Nordstrand", "Haakon Engen", "Lars-Petter Bakker"],
+        "abstract": ["The purpose of this survey was to map strains, mental and physical health problems and quality of life among Norwegian soldiers who have served in Afghanistan in the period 2001 to 2020. We invited all Norwegian Afghanistan veterans to participate in a digital survey in autumn 2020, and 67, 7% (6220 veterans) chose to participate.\n\nA relatively hig..."]
+      },
+      {
+        "title": "Cause-Specific Mortality Among Norwegian Veterans Deployed to Afghanistan Between 2001 and 2019",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Leif Aage Strand", "Inger Rudvin", "Einar Kristian Borud", "Elin Anita Fadum"],
+        "abstract": ["Introduction: \nNorwegian military forces participated in the military campaign Operation Enduring Freedom in Afghanistan starting in 2001. Military personnel often show a \"healthy soldier effect\" in terms of lowered all-cause mortality when compared to the general population. However, military service in conflict areas is associated with an increas..."]
+      },
+      {
+        "title": "Confirmation of Military Identity after Exposure to Stress -Influence of Status Dimensions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Roger Lien", "Hans Jakob Bøe", "Rino Bandlitz Johansen"],
+        "abstract": ["The first aim of this study of Norwegian veterans was to examine how deployment to international operations relates to a strengthening or weakening of military identities, and whether status dimensions are associated with a change in operational identity. The second aim of this study was to examine whether cohesion and employment status are associa..."]
+      },
+      {
+        "title": "Killing in Combat; the Diverging Mental Health Impact on Distinct Veteran Populations - A Two-Sample Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Andreas Espetvedt Nordstrand", "Christer Lunde Gjerstad", "Odin Hjemdal", "Hans Jakob Bøe"],
+        "abstract": ["This study examined the warzone stressors: killing in combat, experiencing personal threats, or traumatic witnessing during deployment in relation to psychological distress, alcohol consumption and quality of life at long-term follow-up. The study was conducted in two samples of Norwegian veterans who had served in Afghanistan (Study 1, N = 4,053)..."]
+      },
+      {
+        "title": "Caring for Coronavirus Healthcare Workers: Lessons Learned From Long-Term Monitoring of Military Peacekeepers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["Background: The current outbreak of the coronavirus disease (COVID-19) is of unprecedented proportions in several regards. Recent reports suggest that many frontline healthcare workers (HCWs) suffer from mental health problems, including posttraumatic stress symptoms (PTSS). Previous studies have identified several key factors associated with short..."]
+      },
+      {
+        "title": "Prevalence and Correlates of Mental Health Problems in Norwegian Peacekeepers 18–38 Years Postdeployment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["Peacekeeping missions involve experiences that may impact the mental health of participating soldiers. However, research on the long-term mental health consequences of peacekeeping is sparse. The present study aimed to find the prevalence of mental health problems (MHPs), possible MHP predictors, and associations between predictors and MHPs in Norw..."]
+      },
+      {
+        "title": "Caring for Coronavirus Healthcare Workers: Lessons Learned from Long-Term Monitoring of Military Peacekeepers",
+        "tags": ["Preprint"],
+        "date": "Jun 2020",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["Background: The current outbreak of the coronavirus disease (COVID-19) is of unprecedented proportions in several regards. Recent reports suggest that many frontline healthcare workers (HCWs) suffer from mental health problems, including posttraumatic stress symptoms (PTSS). Previous studies have identified several key factors associated with short..."]
+      },
+      {
+        "title": "Caring for coronavirus healthcare workers: lessons learned from long-term monitoring of military peacekeepers",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["Background: The current outbreak of the coronavirus disease (COVID-19) is of unprecedented proportions in several regards. Recent reports suggest that many frontline healthcare workers (HCWs) suffer from mental health problems, including posttraumatic stress symptoms (PTSS). Previous studies have identified several key factors associated with short..."]
+      },
+      {
+        "title": "Social support and disclosure of war-zone experiences after deployment to Afghanistan—Implications for posttraumatic deprecation or growth.",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Andreas Espetvedt Nordstrand", "Hans Jakob Bøe", "Are Holen", "Odin Hjemdal"],
+        "abstract": ["This study explores social support and personal barriers toward disclosing war-related traumatic experiences and how both are associated with veterans’ posttraumatic changes after deployment to Afghanistan. A trauma-exposed sample was selected from Norwegian Afghanistan veterans (N 3,465). Inclusion was based on self-reported exposure to 1 or more..."]
+      },
+      {
+        "title": "..Conference paper.. Social Support and Disclosure of War Zone Experiences",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Andreas Espetvedt Nordstrand", "Hans Jakob Bøe", "Christer Lunde Gjerstad", "Odin Hjemdal"],
+        "abstract": ["Objective: This study explores social support and personal barriers towards disclosing war related traumatic experiences, and how the two are associated with veterans’ posttraumatic changes after deployment to Afghanistan. \nMethod: A trauma-exposed sample was selected from Norwegian Afghanistan veterans (N = 3,465). Inclusion was based on self-repo..."]
+      },
+      {
+        "title": "Prevalence and predictors of mental health problems in Norwegian peacekeepers: a 27 year follow-up study (PREPRINT)",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["This study aimed to find the prevalence and possible predictors of mental health problems (MHP) in Norwegian peacekeepers 27 years after deployment to a UN peacekeeping mission."]
+      },
+      {
+        "title": "Prevalence and predictors of mental health problems in Norwegian peacekeepers: a 27 year follow-up study (Poster presented at ISTSS Boston, November 2019)",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Christer Lunde Gjerstad", "Hans Jakob Bøe", "Erik Falkum", "June Ullevoldsæter Lystad"],
+        "abstract": ["We aimed to find the prevalence and possible predictors of\nmental health problems (MHP) in Norwegian\npeacekeepers 27 years after deployment to a UN\npeacekeeping mission."]
+      },
+      {
+        "title": "Danger- and non-danger-based stressors and their relations to posttraumatic deprecation or growth in Norwegian veterans deployed to Afghanistan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Andreas Espetvedt Nordstrand", "Hans Jakob Bøe", "Are Holen", "Odin Hjemdal"],
+        "abstract": ["Objective: This study aimed to explore how exposure to danger-based and non-danger-based stressors may influence personal changes in veterans (N = 4053) after deployment to Afghanistan.\nMethod: Twelve war zone related traumatic events were used to form two stressor categories. The non-danger-based category included two stressor types: Moral Challen..."]
+      },
+      {
+        "title": "Measuring Psychological Change After Trauma: Psychometric Properties of a New Bi-Directional Scale",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2017",
+        "authors": ["Andreas Espetvedt Nordstrand", "Odin Hjemdal", "Are Holen", "Hans Jakob Bøe"],
+        "abstract": ["Objective: \nThe current scientific measures of posttraumatic changes in the wake of major stressors have mostly been unidirectional. This study is an attempt to develop a scale that will capture the continuum of positive to negative psychological changes after trauma.\n\nMethod: \nForty-five statements were presented to a veteran sample (N = 4,053) wi..."]
+      },
+      {
+        "title": "Norske afghanistanveteraner: stigma, barrierer og helsehjelp",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Grethe E Johnsen", "Hans Jakob Bøe"],
+        "abstract": ["Mental healthcare service use and barriers to care in Norwegian Afghanistan veterans\nBackground: This study examines mental healthcare service use and barriers to\ncare in Norwegian Afghanistan veterans.\nMethod: All Norwegian personnel serving in Afghanistan in the period 2001–\n2011 were invited to participate. Data were gathered with survey questio..."]
+      },
+      {
+        "title": "Norwegian male military veterans show low levels of mental health problems four years after deployment in Afghanistan",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Sverre Hougsnæs", "Hans Jakob Bøe", "Alv A. Dahl", "Jon G. Reichelt"],
+        "abstract": ["Background: \nDeployment of soldiers is associated with considerable rates of mental disorders after redeployment.\n\nAims: \nThe aim of this study was to identity prevalence of probable mental disorders and associated factors among male Norwegian soldiers at a mean of 4 years following deployment to Afghanistan in 2001-2011.\n\nMethods: \nThe retrospecti..."]
+      },
+      {
+        "title": "Sick Leave and Disability Across Three Decades After a Major Disaster",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Katrine Høyer Holgersen", "Christian A. Klöckner", "Hans Jakob Bøe", "Are Holen"],
+        "abstract": ["Extended functional impairment characterized by sick leave and disability after a single disaster has not been documented before. This prospective, longitudinal, case-control study applied growth mixture modeling to predict trajectories of functional impairment in oil rig workers, survivors (n = 68) and a matched comparison group (n = 84), over 27..."]
+      },
+      {
+        "title": "The benefits of being mindful: Trait mindfulness predicts less stress reactivity to suppression",
+        "tags": ["Article"],
+        "date": "Jul 2013",
+        "authors": ["Jacqueline R Bullis", "Hans Jakob Bøe", "Anu Asnaani", "Stefan G Hofmann"],
+        "abstract": []
+      },
+      {
+        "title": "Sudden Gains During Psychological Treatments of Anxiety and Depression: A Meta-Analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2011",
+        "authors": ["Idan M Aderka", "Angela Nickerson", "Hans Jakob Bøe", "Stefan G Hofmann"],
+        "abstract": ["The present study quantitatively reviewed the literature on sudden gains in psychological treatments for anxiety and depression. The authors examined the short- and long-term effects of sudden gains on treatment outcome as well as moderators of these effects.\nThe authors conducted a literature search using PubMed, PsycINFO, the Cochrane Library, an..."]
+      },
+      {
+        "title": "EFFECT OF EMOTION REGULATION ON INHALATION OF CO2 ENRICHED AIR",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2011",
+        "authors": ["Stefan G Hofmann", "Hans Jakob Bøe", "Jackie Bullis", "Anu Asnaani"],
+        "abstract": []
+      },
+      {
+        "title": "Disaster Survivors in Their Third Decade: Trajectories of Initial Stress Responses and Long-Term Course of Mental Health",
+        "tags": ["Article"],
+        "date": "Jun 2011",
+        "authors": ["Katrine Høyer Holgersen", "Christian A. Klöckner", "Hans Jakob Bøe", "Are Holen"],
+        "abstract": ["This study analyzed trajectories of initial stress and long-term mental health after the 1980 North Sea oil rig disaster. A growth-mixture model of the survivors' stress manifestations in the first 8 weeks (Posttraumatic Stress Scale, [PTSS-10]) and general mental health in 1980, 1981, 1985, and 2007 (General Health Questionnaire, [GHQ-20]) was est..."]
+      },
+      {
+        "title": "Mental Health Outcomes and Predictors of Chronic Disorders After the North Sea Oil Rig Disaster",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Hans Jakob Bøe", "Katrine H Holgersen", "Are Holen"],
+        "abstract": ["The present study examined long-term mental health outcomes following a major disaster, including the relative risks (RR) of developing psychiatric disorders. Trauma exposure and predisaster vulnerability factors were examined as predictors of chronic psychopathology. Standardized questionnaires measuring psychological distress were completed 5½ mo..."]
+      },
+      {
+        "title": "Long-Term Perspectives on Posttraumatic Growth in Disaster Survivors",
+        "tags": ["Article"],
+        "date": "Jun 2010",
+        "authors": ["Katrine Høyer Holgersen", "Hans Jakob Bøe", "Are Holen"],
+        "abstract": ["Findings on posttraumatic growth (PTG) and distress have not been consistent. This study examines the relationship in a very long-term perspective. The Posttraumatic Growth Inventory was completed by 46 survivors from a single disaster 27 years posttrauma. Posttraumatic stress was measured by the Impact of Event Scale (IES) immediately after the ev..."]
+      },
+      {
+        "title": "Initial Stress Responses in Relation to Outcome After Three Decades",
+        "tags": ["Article"],
+        "date": "Mar 2010",
+        "authors": ["Katrine Høyer Holgersen", "Hans Jakob Bøe", "Christian A. Klöckner", "Are Holen"],
+        "abstract": ["The present study aimed at predicting posttraumatic stress 5 and 27 years after the North Sea oil rig disaster. The predictions were based on the initial levels of stress responses and the early recovery as reported in 1980. The Posttraumatic Stress Scale (PTSS) was used at 3 measure points. From 1980, data from 69 survivors were used in latent gro..."]
+      },
+      {
+        "title": "Reactivation of posttraumatic stress in male disaster survivors: The role of residual symptoms",
+        "tags": ["Article"],
+        "date": "Feb 2010",
+        "authors": ["Hans Jakob Bøe", "Katrine H Holgersen", "Are Holen"],
+        "abstract": ["The aim of this study was to establish the relative distribution of resilient, remitted, chronic and reactivated posttraumatic stress disorder (PTSD) in a population of survivors from a major civilian disaster. Residual PTSD symptoms were explored to identify predictors of future reactivation. Symptoms were measured by the Impact of Event Scale (IE..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [28],
+    "reads": [4605],
+    "citations": [511]
   }
 }

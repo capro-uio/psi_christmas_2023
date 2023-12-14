@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Molly Carlyle",
-    "id": "HA6BRuYAAAAJ",
-    "affiliation": "University of Queensland",
+    "name": ["Molly Carlyle"],
+    "id": ["HA6BRuYAAAAJ"],
+    "affiliation": ["University of Queensland"],
     "data": {
       "publications": [
         {
@@ -329,8 +329,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-8083-814X",
-    "name": "Molly Carlyle",
+    "orcid": ["0000-0002-8083-814X"],
+    "name": ["Molly Carlyle"],
     "distinctions": [],
     "education": [
       {
@@ -347,10 +347,10 @@
       },
       {
         "start": "2020",
-        "end": "2021",
         "position": "Postdoctorate Research Fellow",
         "organisation": "University of Queensland",
-        "country": "AU"
+        "country": "AU",
+        "end": "2021"
       }
     ],
     "employment": [
@@ -368,10 +368,10 @@
       },
       {
         "start": "2020",
-        "end": "2021",
         "position": "Postdoctorate Research Fellow",
         "organisation": "University of Queensland",
-        "country": "AU"
+        "country": "AU",
+        "end": "2021"
       }
     ],
     "membership": [],
@@ -594,8 +594,8 @@
     ]
   },
   "cristin": {
-    "name": "Molly Carlyle",
-    "id": "1408358",
+    "name": ["Molly Carlyle"],
+    "id": ["1408358"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -608,5 +608,166 @@
         "url": "https://api.cristin.no/v2/results/2154652"
       }
     ]
+  },
+  "rg": {
+    "id": "Molly-Carlyle",
+    "name": "Molly Carlyle",
+    "img": "https://i1.rgstatic.net/ii/profile.image/846742232760320-1578890488260_Q128/Molly-Carlyle.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Drugs", "Psychopharmacology", "Addiction Psychology", "Treatment", "Mental Illness"],
+    "works": [
+      {
+        "title": "Study protocol: implementing and evaluating a trauma-informed model of care in residential youth treatment for substance use disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Zoe Walter", "Molly Carlyle", "Nick Kerswell", "Leanne Hides"],
+        "abstract": ["Introduction\nComorbidity between Substance Use Disorders and trauma/post-traumatic stress disorder (PTSD) is common, particularly within residential treatment services. Comorbidity is associated with poorer treatment retention and treatment outcomes. Integrated treatment approaches are increasingly recommended but are still under examined in reside..."]
+      },
+      {
+        "title": "Does childhood adversity alter opioid drug reward? A conceptual replication in outpatients before surgery",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Molly Carlyle", "Malin Kvande", "Isabell M Meier", "Marie Eikemo"],
+        "abstract": []
+      },
+      {
+        "title": "Reliability of online self-report versions of the Australian Treatment Outcome Profile (ATOP) and Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) among people in residential treatment for substance use problems",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Molly Carlyle", "Zoe Walter", "Bronwyn Theroux", "Leanne Hides"],
+        "abstract": ["Background: \nOnline self-report measures are resource-efficient and widely used for monitoring substance use, yet few studies have assessed their reliability. This study assessed the reliability of online self-report versions of the Australian Treatment Outcomes Profile (ATOP) and Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST)..."]
+      },
+      {
+        "title": "A Longitudinal Assessment of Substance Use Treatment during the COVID-19 Pandemic Using Staff and Service Data",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Molly Carlyle", "Grace Newland", "Leith Morris", "Leanne Hides"],
+        "abstract": ["Introduction: Alcohol and other drug (AOD) treatment services were required to rapidly adapt delivery of care in response to the coronavirus (COVID-19) pandemic. This study examined longitudinal changes in the delivery of AOD counselling in Australia over 21 months (October 2019–July 2021) before and throughout the pandemic, using both staff self-r..."]
+      },
+      {
+        "title": "Retrospective Self-Reports of How Adolescent Substance Use Changed with the COVID-19 Pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Janni Leung", "Catherine Quinn", "Molly Carlyle", "Leanne Hides"],
+        "abstract": ["The final year of high school is a challenging phase of adolescents’ lives and substance use can play an important role. We examined changes in the frequency and quantity of alcohol and cannabis use, and demographic correlates among Grade 12 students of 2020. Students (N = 844) from nine schools retrospectively self-reported changes in substance us..."]
+      },
+      {
+        "title": "Client and staff perceptions of the integration of trauma informed care and specialist posttraumatic stress disorder treatment in residential treatment facilities for substance use: A qualitative study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Valeriya Mefodeva", "Molly Carlyle", "Zoe Walter", "Leanne Hides"],
+        "abstract": ["Introduction: \nComorbid posttraumatic stress disorder (PTSD) is prevalent among people seeking residential treatment for substance use disorders (SUD). We examined client and staff perceptions of the relationship between trauma and SUDs, and the integration of trauma-informed care (TIC) and specialist-delivered treatment for PTSD in residential alc..."]
+      },
+      {
+        "title": "Polysubstance use in young people accessing residential and day treatment services for substance use: substance use profiles, psychiatric comorbidity, and treatment completion",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Valeriya Mefodeva", "Molly Carlyle", "Zoe Walter", "Leanne Hides"],
+        "abstract": ["Background and aims: \nPeople with substance use disorders (SUDs) frequently present to treatment with polysubstance use and mental health comorbidities. Different combinations of substance use and mental health problems require different treatment approaches. Our study aimed to: (i) identify the shared substance use classes among young people at tr..."]
+      },
+      {
+        "title": "Loneliness, Belonging, and Mental Health in Australian University Students Pre- and Post-COVID-19",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Genevieve A. Dingle", "Rong Han", "Molly Carlyle"],
+        "abstract": ["The move to online learning during COVID-19 deprived first-year students of friendships and other sources of social support that could buffer against stress during their transition to university. These effects may have been worse for international students than domestic students as many were subjected to travel restrictions or quarantine in additio..."]
+      },
+      {
+        "title": "Exploring links between social identity, emotion regulation, and loneliness in those with and without a history of mental illness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Shaun Hayes", "Molly Carlyle", "S. Alexander Haslam", "Genevieve A. Dingle"],
+        "abstract": ["Objective: \nEmotion regulation and social identity theorizing provide two influential perspectives on loneliness. From an emotion regulation perspective, loneliness is understood as a negative emotional state that can be managed using emotion regulation strategies. A social identity perspective views loneliness as resulting from a loss or lack of i..."]
+      },
+      {
+        "title": "Changes in Substance Use Among People Seeking Alcohol and Other Drug Treatment During the COVID-19 Pandemic: Evaluating Mental Health Outcomes and Resilience",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Molly Carlyle", "Janni Leung", "Zoe Walter", "Leanne Hides"],
+        "abstract": ["Background\nAlcohol and other drug (AOD) use patterns have altered as a result of the coronavirus (COVID-19) pandemic restrictions. This study aimed to: (i) determine the impact of the pandemic on patterns of AOD use among individuals seeking treatment, (ii) identify which mental health and resilience factors were associated with changes in patterns..."]
+      },
+      {
+        "title": "Cannabis-induced dysphoria/paranoia mediates the link between childhood trauma and psychotic-like experiences in young cannabis users",
+        "tags": ["Article"],
+        "date": "Dec 2021",
+        "authors": ["Molly Carlyle", "Toby Constable", "Zoe C Walter", "Leanne Hides"],
+        "abstract": ["Childhood trauma (abuse and neglect) is a major risk factor for cannabis use disorder and psychotic-spectrum disorders. Psychotic-like experiences (PLEs) in young people who use cannabis may be an early indicator of psychosis risk following cannabis use. We examined whether (i) childhood trauma moderates the association between cannabis use and PLE..."]
+      },
+      {
+        "title": "A randomised, double‐blind study investigating the relationship between early childhood trauma and the rewarding effects of morphine",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Molly Carlyle", "Rupert Broomby", "Graham Simpson", "Celia Morgan"],
+        "abstract": ["Experiences of childhood trauma (abuse and neglect) are disproportionately higher in those with opioid use disorder (OUD). Childhood trauma may affect the reinforcing and rewarding properties of opioid drugs and responses to pain, potentially via developmental changes to the endogenous opioid system. This has been supported by preclinical research,..."]
+      },
+      {
+        "title": "The acute effects of alcohol on state rumination in the laboratory",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Merve Mollaahmetoglu", "Edward R Palmer", "Emily L Maschauer", "Celia Morgan"],
+        "abstract": ["Rationale\nRumination is a repetitive, negative, self-focused thinking style associated with various forms of psychopathology. Recent studies suggest that rumination increases craving for alcohol and predicts harmful drinking and alcohol-related problems. However, the acute effects of alcohol on rumination have not been previously studied. It is pro..."]
+      },
+      {
+        "title": "Feasibility and pilot efficacy of cognitive remediation for people in residential substance use treatment",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Julaine Allan", "Anna Thompson", "Molly Carlyle", "Alice Medalia"],
+        "abstract": ["Introduction. There are high rates of cognitive impairment among people seeking treatment for problematic substance use, which is rarely addressed in treatment programs. The aim of this pilot study was to evaluate the feasibility and outcomes of the neuropsychological and educational approach to cognitive remediation (NEAR) in a residential substan..."]
+      },
+      {
+        "title": "Feasibility and pilot efficacy of cognitive remediation for people in residential substance use treatment",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Juaine Allan", "Anna Thompson", "Molly Carlyle", "Alice Medalia"],
+        "abstract": []
+      },
+      {
+        "title": "Pain and Psychotic-Like Experiences in Young People Using Cannabis",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Joanna Wilson", "Toby Constable", "Katherine Mason", "Molly Carlyle"],
+        "abstract": ["Research has demonstrated that cannabis use is linked with a greater risk of psychotic-like experiences (PLEs), particularly in young people. As many people use cannabis for the alleviation of pain, it is important to examine the impact that PLEs have on pain. This is because the current literature finds that psychotic and schizophrenic disorders i..."]
+      },
+      {
+        "title": "Impaired empathy and increased anger following social exclusion in non-intoxicated opioid users",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Molly Carlyle", "Megan Rowley", "Tobias Stevens", "Celia Morgan"],
+        "abstract": ["Rationale\nSocial functioning is modulated by the endogenous opioid system. In opioid use disorder, social functioning appears disrupted, but little research has delineated the nature of these deficits and their relationship to acute opioid use.\n\nObjectives\nThe current study aimed to assess both emotional and cognitive empathy, along with subjective..."]
+      },
+      {
+        "title": "Investigating the Feasibility of Brief Compassion Focused Therapy in Individuals in Treatment for Opioid Use Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Molly Carlyle", "Helen Rockliff", "Rachel Edwards", "Celia JA Morgan"],
+        "abstract": ["Opioid use disorder (OUD) is reaching epidemic proportions worldwide, and is notoriously difficult to treat. Compassion focused therapy (CFT) has emerged as therapeutic tool for treating individuals exhibiting high levels of self-criticism and low self-esteem, both of which are common in OUD. Until now, however, there had been no research investiga..."]
+      },
+      {
+        "title": "Shyness, alcohol use disorders and ‘hangxiety’: A naturalistic study of social drinkers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Beth Marsh", "Molly Carlyle", "Emily Carter", "Celia Morgan"],
+        "abstract": ["Social anxiety disorder (SAD) has been related to alcohol use disorder (AUD). Shyness can be considered a subclinical analogue of SAD, yet there is little research into the effect of alcohol on anxiety levels in highly-shy individuals. This naturalistic study investigated acute and sub-acute effects of alcohol in high and low shy social drinkers. 9..."]
+      },
+      {
+        "title": "Greater empathy in MDMA users",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Molly Carlyle", "Tobias Stevens", "Leah Fawaz", "Celia JA Morgan"],
+        "abstract": ["Background:: \n3,4-Methylenedioxymethamphetamine (MDMA) is widely known for its positive acute effects on social behaviour, such as increasing empathy, whilst also attenuating the negative impact of social exclusion. However there is a scarcity of research that investigates the long-term impact of recreational MDMA use on these fundamental social pr..."]
+      },
+      {
+        "title": "Improved memory for information learnt before alcohol use in social drinkers tested in a naturalistic setting",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Molly Carlyle", "Nicolas Dumay", "Karen Roberts", "Celia Morgan"],
+        "abstract": ["Alcohol is known to facilitate memory if given after learning information in the laboratory; we aimed to investigate whether this effect can be found when alcohol is consumed in a naturalistic setting. Eighty-eight social drinkers were randomly allocated to either an alcohol self-dosing or a sober condition. The study assessed both retrograde facil..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [21],
+    "reads": [2491],
+    "citations": [125]
   }
 }

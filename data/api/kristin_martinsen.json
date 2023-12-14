@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Kristin Martinsen",
-    "id": "BEI4D4kAAAAJ",
-    "affiliation": "Associate professor ved Universitetet i Oslo, Psykologisk institutt",
+    "name": ["Kristin Martinsen"],
+    "id": ["BEI4D4kAAAAJ"],
+    "affiliation": ["Associate professor ved Universitetet i Oslo, Psykologisk institutt"],
     "data": {
       "publications": [
         {
@@ -443,8 +443,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-3523-9962",
-    "name": "Kristin Martinsen",
+    "orcid": ["0000-0003-3523-9962"],
+    "name": ["Kristin Martinsen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -455,8 +455,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Kristin Martinsen",
-    "id": "428199",
+    "name": ["Kristin Martinsen"],
+    "id": ["428199"],
     "keywords": [],
     "position": ["Associate professor", null, "Guest", null],
     "img": {},
@@ -477,8 +477,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "A study of self-perceived change in CBT competence among Norwegian therapists undertaking a 2-year CBT training for working with young people",
-        "journal": "The Cognitive Behaviour Therapist",
-        "url": "https://api.cristin.no/v2/results/2211872"
+        "url": "https://api.cristin.no/v2/results/2211872",
+        "journal": "The Cognitive Behaviour Therapist"
       },
       {
         "type": "Academic lecture",
@@ -511,8 +511,8 @@
       {
         "type": "Academic literature review",
         "year": "2023",
-        "journal": "PsykTestBarn",
-        "url": "https://api.cristin.no/v2/results/2130388"
+        "url": "https://api.cristin.no/v2/results/2130388",
+        "journal": "PsykTestBarn"
       },
       {
         "type": "Academic lecture",
@@ -554,8 +554,8 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Making high-quality measures available in diverse contexts — The psychometric properties of the Revised Child Anxiety and Depression Scale in a Norwegian sample",
-        "journal": "International Journal of Methods in Psychiatric Research",
-        "url": "https://api.cristin.no/v2/results/2042586"
+        "url": "https://api.cristin.no/v2/results/2042586",
+        "journal": "International Journal of Methods in Psychiatric Research"
       },
       {
         "type": "Academic lecture",
@@ -575,22 +575,22 @@
       {
         "type": "Popular scientific article",
         "year": "2022",
-        "journal": "https://forskning.no/",
-        "url": "https://api.cristin.no/v2/results/2030967"
+        "url": "https://api.cristin.no/v2/results/2030967",
+        "journal": "https://forskning.no/"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Targeting Internalizing Symptoms in Children: What is the Impact on School Functioning?",
-        "journal": "Scandinavian Journal of Educational Research",
-        "url": "https://api.cristin.no/v2/results/2021263"
+        "url": "https://api.cristin.no/v2/results/2021263",
+        "journal": "Scandinavian Journal of Educational Research"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Psychometric properties of the Brief Problem Monitor (BPM) in children with internalizing symptoms: examining baseline data from a national randomized controlled intervention study",
-        "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/1968292"
+        "url": "https://api.cristin.no/v2/results/1968292",
+        "journal": "BMC Psychology"
       },
       {
         "type": "Chapter",
@@ -612,35 +612,35 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Evaluating Delivery of a CBT-Based Group Intervention for Schoolchildren With Emotional Problems: Examining the Reliability and Applicability of a Video-Based Adherence and Competence Measure",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1913211"
+        "url": "https://api.cristin.no/v2/results/1913211",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Inside the clockwork of the ECHO factorial trial: A conceptual model with proposed mediators for prevention of emotional problems in children",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1912411"
+        "url": "https://api.cristin.no/v2/results/1912411",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
-        "journal": "Ungsinn. Tidsskrift for virksomme tiltak for barn og unge",
-        "url": "https://api.cristin.no/v2/results/1909767"
+        "url": "https://api.cristin.no/v2/results/1909767",
+        "journal": "Ungsinn. Tidsskrift for virksomme tiltak for barn og unge"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2021",
         "title": "Study Protocol of a factorial trial ECHO: Optimizing a group-based school intervention for children with emotional problems",
-        "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/1908368"
+        "url": "https://api.cristin.no/v2/results/1908368",
+        "journal": "BMC Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Change in quality of life and self-esteem in a randomized controlled CBT study for anxious and sad children: can targeting anxious and depressive symptoms improve functional domains in schoolchildren?",
-        "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/1906975"
+        "url": "https://api.cristin.no/v2/results/1906975",
+        "journal": "BMC Psychology"
       },
       {
         "type": "Poster",
@@ -655,20 +655,20 @@
       {
         "type": "Feature article",
         "year": "2020",
-        "journal": "Forskning.no",
-        "url": "https://api.cristin.no/v2/results/1860557"
+        "url": "https://api.cristin.no/v2/results/1860557",
+        "journal": "Forskning.no"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2020",
-        "journal": "Tidsskrift for kognitiv terapi",
-        "url": "https://api.cristin.no/v2/results/1860555"
+        "url": "https://api.cristin.no/v2/results/1860555",
+        "journal": "Tidsskrift for kognitiv terapi"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2020",
-        "journal": "BestPractice Nordic",
-        "url": "https://api.cristin.no/v2/results/1860552"
+        "url": "https://api.cristin.no/v2/results/1860552",
+        "journal": "BestPractice Nordic"
       },
       {
         "type": "Poster",
@@ -689,8 +689,8 @@
         "type": "Academic article",
         "year": "2020",
         "title": "A 12-month follow-up of a transdiagnostic indicated prevention of internalizing symptoms in school-aged children: The results from the EMOTION study.",
-        "journal": "Child and Adolescent Psychiatry and Mental Health (CAPMH)",
-        "url": "https://api.cristin.no/v2/results/1806746"
+        "url": "https://api.cristin.no/v2/results/1806746",
+        "journal": "Child and Adolescent Psychiatry and Mental Health (CAPMH)"
       },
       {
         "type": "Academic lecture",
@@ -725,8 +725,8 @@
         "type": "Academic article",
         "year": "2019",
         "title": "School functioning and internalizing problems in young schoolchildren",
-        "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/1766655"
+        "url": "https://api.cristin.no/v2/results/1766655",
+        "journal": "BMC Psychology"
       },
       {
         "type": "Academic lecture",
@@ -903,15 +903,15 @@
         "type": "Academic article",
         "year": "2019",
         "title": "Facilitators and Barriers to the Implementation of EMOTION: An Indicated Intervention for Young Schoolchildren",
-        "journal": "Scandinavian Journal of Educational Research",
-        "url": "https://api.cristin.no/v2/results/1693498"
+        "url": "https://api.cristin.no/v2/results/1693498",
+        "journal": "Scandinavian Journal of Educational Research"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Does the transdiagnostic EMOTION intervention improve emotion regulation skills in children?",
-        "journal": "Journal of Child and Family Studies",
-        "url": "https://api.cristin.no/v2/results/1692925"
+        "url": "https://api.cristin.no/v2/results/1692925",
+        "journal": "Journal of Child and Family Studies"
       },
       {
         "type": "Lecture",
@@ -926,15 +926,15 @@
       {
         "type": "Popular scientific article",
         "year": "2019",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1673445"
+        "url": "https://api.cristin.no/v2/results/1673445",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Prevention of anxiety and depression in school children: Effectiveness of the transdiagnostic EMOTION program",
-        "journal": "Journal of Consulting and Clinical Psychology",
-        "url": "https://api.cristin.no/v2/results/1615558"
+        "url": "https://api.cristin.no/v2/results/1615558",
+        "journal": "Journal of Consulting and Clinical Psychology"
       },
       {
         "type": "Poster",
@@ -1005,8 +1005,8 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Emotion regulation and its relation to symptoms of anxiety and depression in children aged 8–12 years: does parental gender play a differentiating role?",
-        "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/1604253"
+        "url": "https://api.cristin.no/v2/results/1604253",
+        "journal": "BMC Psychology"
       },
       {
         "type": "Lecture",
@@ -1019,5 +1019,187 @@
         "url": "https://api.cristin.no/v2/results/1500140"
       }
     ]
+  },
+  "rg": {
+    "id": "Kristin-Martinsen",
+    "name": "Kristin Martinsen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/320275550277634-1453371049902_Q128/Kristin-Martinsen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Treatment", "Psychopathology", "Psychological Assessment", "Psychotherapeutic Processes", "Counseling", "Mental Illness", "Clinical Psychiatry", "Comorbidity", "Clinical Assessment", "Psychoeducation"],
+    "works": [
+      {
+        "title": "A study of self-perceived change in CBT competence among Norwegian therapists undertaking a 2-year CBT training for working with young people",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Kristin Martinsen", "Anne Lise Fredriksen", "Christian Lunde-Hansen", "Barbro Fedøy"],
+        "abstract": ["The rising prevalence of mental illness among youth has underscored the critical need for proficient therapists trained in effective methods for treating prevalent mental disorders. As mental health services grapple with resource constraints, the demand for shorter training programs has increased. This study aimed to investigate whether therapist c..."]
+      },
+      {
+        "title": "Making high‐quality measures available in diverse contexts—The psychometric properties of the Revised Child Anxiety and Depression Scale in a Norwegian sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Carina Lisøy", "Simon-Peter Neumer", "Trine Waaktaar", "Kristin Martinsen"],
+        "abstract": ["Objectives: \nRecent initiatives have recommended the Revised Child Anxiety and Depression Scale (RCADS) for use in research and as patient-reported outcome in health care globally. We aimed to investigate, for the first time, whether the psychometric properties of the anxiety and depression youth self-report measures, RCADS-47 and RCADS-25, general..."]
+      },
+      {
+        "title": "Targeting Internalizing Symptoms in Children: What is the Impact on School Functioning?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Marit Løtveit Pedersen", "Solveig Holen", "Anne Mari Sund", "Stian Lydersen"],
+        "abstract": ["Internalizing problems may be associated with poor academic performance and school absenteeism among youth. This study investigated the impact of the EMOTION: “Coping Kids” Managing Anxiety and Depression Program on academic achievement and school adaptation in children. Data were collected in a national cluster-randomized controlled trial at three..."]
+      },
+      {
+        "title": "Psychometric properties of the Brief Problem Monitor (BPM) in children with internalizing symptoms: examining baseline data from a national randomized controlled intervention study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Marit Løtveit Pedersen", "Thomas Jozefiak", "Anne Mari Sund", "Stian Lydersen"],
+        "abstract": ["Background\nPrevention is essential to reduce the development of symptomology among children and adolescents into disorders, thereby improving public health and reducing costs. Therefore, easily administered screening and early assessment methods with good reliability and validity are necessary to effectively identify children’s functioning and how..."]
+      },
+      {
+        "title": "Inside the Clockwork of the ECHO Factorial Trial: A Conceptual Model With Proposed Mediators for Prevention of Emotional Problems in Children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Jo Magne Ingul", "Kristin Martinsen", "Frode Adolfsen", "Simon-Peter Neumer"],
+        "abstract": ["Having interventions that are not only evidence-based and effective but also cost-effective and efficient is important for the prevention and treatment of child and adolescent emotional problems. A randomized clinical trial (RCT) tests the total interventions effect but does not address specific components of the intervention. In this article the h..."]
+      },
+      {
+        "title": "Study protocol of a factorial trial ECHO: optimizing a group-based school intervention for children with emotional problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Simon-Peter Neumer", "Joshua Patras", "Solveig Holen", "Kristin Martinsen"],
+        "abstract": ["Background\nYouth mental health problems are a major public health concern. Anxiety and depression are among the most common psychological difficulties. The aim of this study is to evaluate an optimized version of a promising indicated group intervention for emotional problems. The program (EMOTION Coping Kids Managing Anxiety and Depression) target..."]
+      },
+      {
+        "title": "Evaluating Delivery of a CBT-Based Group Intervention for Schoolchildren With Emotional Problems: Examining the Reliability and Applicability of a Video-Based Adherence and Competence Measure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Lene-Mari Rasmussen", "Joshua Patras", "Bjørn Helge Handegård", "Monica Martinussen"],
+        "abstract": ["Adherence and competence are essential parts of program fidelity and having adequate measures to assess these constructs is important. The Competence and Adherence Scale for Cognitive Behavioral Therapy (CAS CBT) was developed to evaluate the delivery of cognitive therapies for children with clinical anxiety. The present study is an assessment of t..."]
+      },
+      {
+        "title": "Change in quality of life and self-esteem in a randomized controlled CBT study for anxious and sad children: can targeting anxious and depressive symptoms improve functional domains in schoolchildren?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Kristin Martinsen", "Lene-Mari Rasmussen", "Tore Wentzel-Larsen", "Simon-Peter Neumer"],
+        "abstract": ["Background\nQuality of life and self-esteem are functional domains that may suffer when having mental problems. In this study, we examined the change in quality of life and self-esteem when targeting anxious and depressive symptoms in school children (8–12 years) using a CBT-based transdiagnostic intervention called EMOTION, Kids Coping with anxiety..."]
+      },
+      {
+        "title": "A 12-month follow-up of a transdiagnostic indicated prevention of internalizing symptoms in school-aged children: the results from the EMOTION study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["M. E. S. Loevaas", "Stian Lydersen", "Anne Mari Sund", "Trude Reinfjell"],
+        "abstract": ["Background: \nAnxious and depressive symptoms in youth are highly prevalent, are often comorbid and have a high rate of relapse. Preventive interventions are promising, but follow-up results are lacking. The transdiagnostic EMOTION program is an indicated preventive cognitive behavioral therapy (CBT) intervention targeting children aged 8-12 years...."]
+      },
+      {
+        "title": "School functioning and internalizing problems in young schoolchildren",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Marit Løtveit Pedersen", "Solveig Holen", "Stian Lydersen", "Anne Mari Sund"],
+        "abstract": ["Background: \nSymptoms of anxiety and depression are common mental health problems in children and are often referred to as internalizing symptoms. Youth with such symptoms are at greater risk for poor academic achievement, school non-completion, and future mental health problems, all of which, lead to public health consequences and costs to society..."]
+      },
+      {
+        "title": "Facilitators and Barriers to the Implementation of EMOTION: An Indicated Intervention for Young Schoolchildren",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Lene-Mari Rasmussen", "Joshua Patras", "Simon-Peter Neumer", "Monica Martinussen"],
+        "abstract": ["Research on implementation of school-based transdiagnostic interventions, conducted by personnel from the municipal services is limited. We investigated facilitators and barriers regarding implementation of EMOTION, an intervention targeting symptoms of anxiety and depression in children 8–12 years. Trained health- and childcare professionals compl..."]
+      },
+      {
+        "title": "Does the Transdiagnostic EMOTION Intervention Improve Emotion Regulation Skills in Children?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Mona Elisabeth S. Loevaas", "Anne Mari Sund", "Stian Lydersen", "Trude Reinfjell"],
+        "abstract": ["Objectives\nEmotion regulation is thought to be an important transdiagnostic process across internalizing disorders in youth, and the regulation of emotions is believed to play a central role in both adaptive and maladaptive development. Several preventive interventions focus on improving children’s emotion regulation skills, but research regarding..."]
+      },
+      {
+        "title": "Prevention of Anxiety and Depression in School Children: Effectiveness of the Transdiagnostic EMOTION Program",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Kristin Martinsen", "Lene-Mari Rasmussen", "Tore Wentzel-Larsen", "Simon-Peter Neumer"],
+        "abstract": ["Objective: The objective of the study was to examine the effectiveness of a transdiagnostic program (EMOTION, Coping Kids Managing Anxiety and Depression) targeting symptoms of anxiety and depression in schoolchildren by comparing the intervention condition (EC) to a control condition (CC). Method: A clustered randomized design was used with school..."]
+      },
+      {
+        "title": "Emotion regulation and its relation to symptoms of anxiety and depression in children aged 8-12years: Does parental gender play a differentiating role?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["M. E. S. Loevaas", "Anne Mari Sund", "Joshua Patras", "Trude Reinfjell"],
+        "abstract": ["Background: \nSymptoms of anxiety and depression are prevalent and highly comorbid in children, contributing to considerable impairment even at a subclinical level. Difficulties with emotion regulation are potentially related to both anxious and depressive symptoms. Research looking at maternal contributions to children's mental health dominates the..."]
+      },
+      {
+        "title": "The Factor Structure of MASC Youth Report in Norwegian School Children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Kristin Martinsen", "Solveig Holen", "Simon-Peter Neumer", "Joshua Patras"],
+        "abstract": ["Identifying children with symptoms of anxiety before they develop clinical disorders is important. The objective of our study was to examine the latent factor structure of the MASC (youth report version) in a large self-selected sample of school children in 4th to 6th grade, and examine if the measure had a comparable factor structure for gender an..."]
+      },
+      {
+        "title": "Mestringskatten",
+        "tags": ["Chapter"],
+        "date": "Apr 2017",
+        "authors": ["Simon-Peter Neumer", "Marianne Aalberg", "Kristin Martinsen"],
+        "abstract": []
+      },
+      {
+        "title": "Study protocol of an RCT of EMOTION: An indicated intervention for children with symptoms of anxiety and depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Joshua Patras", "Kristin Martinsen", "Solveig Holen", "Simon-Peter Neumer"],
+        "abstract": ["Background\nHigh levels of anxiety and depression are common psychological symptoms among children and adolescents. These symptoms affect young people in multiple life domains and are possible precursors of long-term psychological distress. Despite relatively high prevalence, few children with emotional problems are referred for clinical treatment,..."]
+      },
+      {
+        "title": "Self-reported quality of life and self-esteem in sad and anxious school children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Kristin Martinsen", "Simon-Peter Neumer", "Solveig Holen", "Philip C. Kendall"],
+        "abstract": ["Background\nAnxiety and depressive symptoms are common in childhood, however problems in need of intervention may not be identified. Children at risk for developing more severe problems can be identified based on elevated symptom levels. Quality of life and self-esteem are important functional domains and may provide additional valuable information...."]
+      },
+      {
+        "title": "Prevention of Anxiety and Depression in Children: Acceptability and Feasibility of the Transdiagnostic EMOTION Program",
+        "tags": ["Article"],
+        "date": "Jul 2014",
+        "authors": ["Kristin Martinsen", "Philip C. Kendall", "Kevin Stark", "Simon-Peter Neumer"],
+        "abstract": ["Anxiety and depression are common psychological difficulties among children who have negative effects on multiple life domains. The two disorders co-occur at high rates and programs that target both disorders offer an important advancement in indicated prevention. EMOTION: \"Coping Kids\" Managing Anxiety and Depression is a transdiagnostic intervent..."]
+      },
+      {
+        "title": "Cognitive-Behavioral Therapy With Children and Adolescents",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Phillip C. Kendall", "Kelly A. O'Neil Rodriguez", "Marianne Aalberg", "Kelly Banneyer"],
+        "abstract": []
+      },
+      {
+        "title": "Kognitiv atferdsterapi for barn og ungdom",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Simon-Peter Neumer", "Marianne Aalberg", "Kristin Martinsen"],
+        "abstract": []
+      },
+      {
+        "title": "EMOTION: Therapist Manual",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Prerna Arora", "Phil Kendall", "Kevin Stark", "Kelly O'Neil"],
+        "abstract": []
+      },
+      {
+        "title": "EMOTION: Group Leader Manual for Parents",
+        "tags": ["Book"],
+        "date": "Jan 2013",
+        "authors": ["Prerna Arora", "Phil Kendall", "Kevin Stark", "Kelly O'Neil"],
+        "abstract": []
+      },
+      {
+        "title": "Using a structured treatment, Friends for Life, in Norwegian outpatient clinics: Results from a pilot study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2009",
+        "authors": ["Kristin Martinsen", "Marianne Aalberg", "Martina K. Narayanan", "Simon-Peter Neumer"],
+        "abstract": ["CBT treatment programmes for children and adolescents with anxiety disorders are promising as indicated by efficacy research. Replicating this research in ordinary clinical care is crucial in order to establish the validity of these results and disseminate empirically based treatments to practitioners. This paper presents the first experiences of u..."]
+      }
+    ],
+    "degree": ["Phd,", "MBA"],
+    "bio": [],
+    "publications": [24],
+    "reads": [4096],
+    "citations": [302]
   }
 }

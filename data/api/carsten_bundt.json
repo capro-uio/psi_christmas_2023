@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Karsten Rusche",
-    "id": "g4dgYmoAAAAJ",
-    "affiliation": "Hochschule des Bundes für öffentliche Verwaltung",
+    "name": ["Karsten Rusche"],
+    "id": ["g4dgYmoAAAAJ"],
+    "affiliation": ["Hochschule des Bundes für öffentliche Verwaltung"],
     "data": {
       "publications": [
         {
@@ -452,8 +452,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-3464-2330",
-    "name": "Carsten Bundt",
+    "orcid": ["0000-0002-3464-2330"],
+    "name": ["Carsten Bundt"],
     "distinctions": [],
     "education": [
       {
@@ -640,8 +640,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Carsten Bundt",
-    "id": "1247927",
+    "name": ["Carsten Bundt"],
+    "id": ["1247927"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -668,5 +668,14 @@
         "url": "https://api.cristin.no/v2/results/1927805"
       }
     ]
+  },
+  "rg": {
+    "id": "Kelly_Carsten",
+    "name": "Kelly Carsten",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Instituto de Estudos Avançados | IEAv, Instituto de Estudos Avançados, FONO",
+    "keywords": ["Epidemiologic Studies"],
+    "works": [],
+    "degree": [null]
   }
 }

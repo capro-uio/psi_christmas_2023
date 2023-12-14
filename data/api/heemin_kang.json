@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Heemin Kang",
-    "id": "Qk4H3BwAAAAJ",
-    "affiliation": "Associate Professor, Materials Sci. & Eng. (joint: College of Medicine), Korea University",
+    "name": ["Heemin Kang"],
+    "id": ["Qk4H3BwAAAAJ"],
+    "affiliation": ["Associate Professor, Materials Sci. & Eng. (joint: College of Medicine), Korea University"],
     "data": {
       "publications": [
         {
@@ -907,8 +907,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1359-2810",
-    "name": "Heemin Kang",
+    "orcid": ["0000-0003-1359-2810"],
+    "name": ["Heemin Kang"],
     "distinctions": [],
     "education": [
       {
@@ -933,8 +933,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Heemin Kang",
-    "id": "1408349",
+    "name": ["Heemin Kang"],
+    "id": ["1408349"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -954,5 +954,15 @@
         "url": "https://api.cristin.no/v2/results/2110223"
       }
     ]
+  },
+  "rg": {
+    "id": "Heemin-Kang",
+    "name": "Heemin Kang",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Soon Chun Hyang University Hospital | SCHMC, Soon Chun Hyang University Hospital, Department of Radiology",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

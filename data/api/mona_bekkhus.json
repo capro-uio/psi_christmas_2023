@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "mona bekkhus",
-    "id": "I3JKIyEAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["mona bekkhus"],
+    "id": ["I3JKIyEAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -467,8 +467,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-4447-8909",
-    "name": "Mona Bekkhus",
+    "orcid": ["0000-0002-4447-8909"],
+    "name": ["Mona Bekkhus"],
     "distinctions": [],
     "education": [
       {
@@ -479,38 +479,38 @@
       },
       {
         "start": "2012",
-        "end": "2012",
         "position": "Postdoc",
         "organisation": "The Norwegian Center for Child Behavioral Development",
-        "country": "NO"
+        "country": "NO",
+        "end": "2012"
       },
       {
         "start": "2006",
-        "end": "2008",
         "position": "School Psychologist",
         "organisation": "Sande Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       },
       {
         "start": "2006",
-        "end": "2008",
         "position": "School Psychologist",
         "organisation": "Sande Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       },
       {
         "start": "2006",
-        "end": "2008",
         "position": "School Psychologist",
         "organisation": "Sande Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       },
       {
         "start": "2006",
-        "end": "2008",
         "position": "School Psychologist",
         "organisation": "Sande Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       }
     ],
     "employment": [
@@ -522,38 +522,38 @@
       },
       {
         "start": "2012",
-        "end": "2012",
         "position": "Postdoc",
         "organisation": "The Norwegian Center for Child Behavioral Development",
-        "country": "NO"
+        "country": "NO",
+        "end": "2012"
       },
       {
         "start": "2006",
-        "end": "2008",
         "position": "School Psychologist",
         "organisation": "Sande Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       },
       {
         "start": "2006",
-        "end": "2008",
         "position": "School Psychologist",
         "organisation": "Sande Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       },
       {
         "start": "2006",
-        "end": "2008",
         "position": "School Psychologist",
         "organisation": "Sande Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       },
       {
         "start": "2006",
-        "end": "2008",
         "position": "School Psychologist",
         "organisation": "Sande Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2008"
       }
     ],
     "membership": [],
@@ -650,11 +650,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Mona Bekkhus",
-    "id": "6959",
+    "name": ["Mona Bekkhus"],
+    "id": ["6959"],
     "keywords": [],
     "position": ["Professor", "Associate professor", "Guest", "Post-doctoral research fellow"],
-    "img": "https://api.cristin.no/v2/persons/6959/picture",
+    "img": ["https://api.cristin.no/v2/persons/6959/picture"],
     "works": [
       {
         "type": "Academic lecture",
@@ -672,64 +672,64 @@
         "type": "Academic article",
         "year": "2023",
         "title": "The DREAM BIG project as a model for harmonizing early measures of parental care and parent-child interactions across epidemiological cohorts",
-        "journal": "in Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2189819"
+        "url": "https://api.cristin.no/v2/results/2189819",
+        "journal": "in Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Unveiling Adolescent Suicidality: Holistic Analysis of Protective and Risk Factors Using Multiple Machine Learning Algorithms",
-        "journal": "Journal of Youth and Adolescence",
-        "url": "https://api.cristin.no/v2/results/2187404"
+        "url": "https://api.cristin.no/v2/results/2187404",
+        "journal": "Journal of Youth and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Co-occurrence of internalizing difficulties and aggression in early childhood and risk of mental health problems in middle childhood",
-        "journal": "International Journal of Behavioral Development",
-        "url": "https://api.cristin.no/v2/results/2182449"
+        "url": "https://api.cristin.no/v2/results/2182449",
+        "journal": "International Journal of Behavioral Development"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Anxiety and depression in expectant parents: ART versus spontaneous conception",
-        "journal": "Human Reproduction",
-        "url": "https://api.cristin.no/v2/results/2176938"
+        "url": "https://api.cristin.no/v2/results/2176938",
+        "journal": "Human Reproduction"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Development of prosocial behavior and inhibitory control in late childhood: A longitudinal exploration of sex differences and reciprocal relations",
-        "journal": "Child Development",
-        "url": "https://api.cristin.no/v2/results/2176849"
+        "url": "https://api.cristin.no/v2/results/2176849",
+        "journal": "Child Development"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Becoming Dad: Expectant Fathers’ Attachment Style and Prenatal Representations of the Unborn Child",
-        "journal": "Children",
-        "url": "https://api.cristin.no/v2/results/2163200"
+        "url": "https://api.cristin.no/v2/results/2163200",
+        "journal": "Children"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Link of outdoor exposure in daycare with attentional control and academic achievement in adolescence: Examining cognitive and social pathways",
-        "journal": "Journal of Environmental Psychology",
-        "url": "https://api.cristin.no/v2/results/2133559"
+        "url": "https://api.cristin.no/v2/results/2133559",
+        "journal": "Journal of Environmental Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Developmental changes in the structure of shyness and internalizing symptoms from early to middle childhood: A network analysis",
-        "journal": "Child Development",
-        "url": "https://api.cristin.no/v2/results/2129275"
+        "url": "https://api.cristin.no/v2/results/2129275",
+        "journal": "Child Development"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "‘Everything turned upside down’: A thematic analysis of adolescents’ experiences of everyday life during COVID-19 restrictions",
-        "journal": "Scandinavian Journal of Public Health",
-        "url": "https://api.cristin.no/v2/results/2125220"
+        "url": "https://api.cristin.no/v2/results/2125220",
+        "journal": "Scandinavian Journal of Public Health"
       },
       {
         "type": "Poster",
@@ -799,22 +799,22 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Long-Term Impact of Diagnosed Fetal Anomaly on Parental Traumatic Stress, Resilience, and Relationship Satisfaction",
-        "journal": "Journal of Pediatric Psychology",
-        "url": "https://api.cristin.no/v2/results/2084065"
+        "url": "https://api.cristin.no/v2/results/2084065",
+        "journal": "Journal of Pediatric Psychology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Maternal and paternal anxiety during pregnancy: Comparing the effects on behavioral problems in offspring",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/2065093"
+        "url": "https://api.cristin.no/v2/results/2065093",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The impact of diagnosed fetal anomaly, diagnostic severity and prognostic ambiguity on parental depression and traumatic stress: a prospective longitudinal cohort study",
-        "journal": "Acta Obstetricia et Gynecologica Scandinavica",
-        "url": "https://api.cristin.no/v2/results/2054014"
+        "url": "https://api.cristin.no/v2/results/2054014",
+        "journal": "Acta Obstetricia et Gynecologica Scandinavica"
       },
       {
         "type": "Chapter",
@@ -825,8 +825,8 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Positive maternal mental health attenuates the associations between prenatal stress and children’s internalizing and externalizing symptoms",
-        "journal": "European Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2027209"
+        "url": "https://api.cristin.no/v2/results/2027209",
+        "journal": "European Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic lecture",
@@ -843,22 +843,22 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Maternal Anxiety and Infants Birthweight and Length of Gestation. A sibling design",
-        "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1973238"
+        "url": "https://api.cristin.no/v2/results/1973238",
+        "journal": "BMC Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Prenatal maternal stress, child internalizing and externalizing symptoms, and the moderating role of parenting: Findings from the Norwegian mother, father, and child cohort study",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/1963199"
+        "url": "https://api.cristin.no/v2/results/1963199",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Changes in maternal cortisol, cortisol binding globulin and cortisone levels following diagnosis of fetal anomaly",
-        "journal": "Psychoneuroendocrinology",
-        "url": "https://api.cristin.no/v2/results/1953091"
+        "url": "https://api.cristin.no/v2/results/1953091",
+        "journal": "Psychoneuroendocrinology"
       },
       {
         "type": "Academic lecture",
@@ -874,8 +874,8 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Examining Launch and Snare Effects in the Longitudinal Associations between Shyness and Socio-Emotional Difficulties in Childhood",
-        "journal": "Social Development",
-        "url": "https://api.cristin.no/v2/results/1925507"
+        "url": "https://api.cristin.no/v2/results/1925507",
+        "journal": "Social Development"
       },
       {
         "type": "Popular scientific lecture",
@@ -887,8 +887,8 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Environmental Light Exposure, Rest-Activity Rhythms, and Symptoms of Inattention and Hyperactivity: An Observational Study of Australian Preschoolers",
-        "journal": "Journal of Environmental Psychology",
-        "url": "https://api.cristin.no/v2/results/1879300"
+        "url": "https://api.cristin.no/v2/results/1879300",
+        "journal": "Journal of Environmental Psychology"
       },
       {
         "type": "Poster",
@@ -927,14 +927,14 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Paternal psychological stress after detection of fetal anomaly during pregnancy. A prospective longitudinal observational study",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1821991"
+        "url": "https://api.cristin.no/v2/results/1821991",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1821987"
+        "url": "https://api.cristin.no/v2/results/1821987",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic lecture",
@@ -945,29 +945,29 @@
       {
         "type": "Popular scientific article",
         "year": "2019",
-        "journal": "Psykologi i kommunen (PIK)",
-        "url": "https://api.cristin.no/v2/results/1821992"
+        "url": "https://api.cristin.no/v2/results/1821992",
+        "journal": "Psykologi i kommunen (PIK)"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Are unpopular children more likely to get sick? Longitudinal links between popularity and infectious diseases in early childhood\r\n",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1727856"
+        "url": "https://api.cristin.no/v2/results/1727856",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Peer relationships and quality of life in 11-12-year-old children: The Health Oriented Pedagogical Project (HOPP)",
-        "journal": "Scandinavian Journal of Public Health",
-        "url": "https://api.cristin.no/v2/results/1592980"
+        "url": "https://api.cristin.no/v2/results/1592980",
+        "journal": "Scandinavian Journal of Public Health"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Re-examining the link between prenatal maternal anxiety and child emotional difficulties, using a sibling design",
-        "journal": "International Journal of Epidemiology",
-        "url": "https://api.cristin.no/v2/results/1511668"
+        "url": "https://api.cristin.no/v2/results/1511668",
+        "journal": "International Journal of Epidemiology"
       },
       {
         "type": "Interview",
@@ -977,15 +977,15 @@
       {
         "type": "Academic article",
         "year": "2017",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1519598"
+        "url": "https://api.cristin.no/v2/results/1519598",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Time spent outdoors during preschool: Links with children's cognitive and behavioral Development.",
-        "journal": "Journal of Environmental Psychology",
-        "url": "https://api.cristin.no/v2/results/1511672"
+        "url": "https://api.cristin.no/v2/results/1511672",
+        "journal": "Journal of Environmental Psychology"
       },
       {
         "type": "Chapter",
@@ -996,28 +996,28 @@
         "type": "Academic article",
         "year": "2016",
         "title": "Potential traumatic events in early childhood and behavioural resilience: a longitudinal case control study",
-        "journal": "European Journal of Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/1404489"
+        "url": "https://api.cristin.no/v2/results/1404489",
+        "journal": "European Journal of Developmental Psychology"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Associations between Sibling Relationship Quality and Friendship Quality in Early Adolescence: Looking at the Case of Twins",
-        "journal": "Twin Research and Human Genetics",
-        "url": "https://api.cristin.no/v2/results/1362904"
+        "url": "https://api.cristin.no/v2/results/1362904",
+        "journal": "Twin Research and Human Genetics"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "Do twins differ from single-born children on rates of behavioral difficulty in early childhood? a study of sibling relationship risk factors",
-        "journal": "Twin Research and Human Genetics",
-        "url": "https://api.cristin.no/v2/results/1160318"
+        "url": "https://api.cristin.no/v2/results/1160318",
+        "journal": "Twin Research and Human Genetics"
       },
       {
         "type": "Academic article",
         "year": "2014",
-        "journal": "Psykologi i kommunen (PIK)",
-        "url": "https://api.cristin.no/v2/results/1143833"
+        "url": "https://api.cristin.no/v2/results/1143833",
+        "journal": "Psykologi i kommunen (PIK)"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1028,8 +1028,8 @@
       {
         "type": "Popular scientific article",
         "year": "2013",
-        "journal": "Psykologisk tidsskrift",
-        "url": "https://api.cristin.no/v2/results/1025210"
+        "url": "https://api.cristin.no/v2/results/1025210",
+        "journal": "Psykologisk tidsskrift"
       },
       {
         "type": "Website (informational material)",
@@ -1039,8 +1039,8 @@
       {
         "type": "Academic article",
         "year": "2012",
-        "journal": "Psykologi i kommunen (PIK)",
-        "url": "https://api.cristin.no/v2/results/958995"
+        "url": "https://api.cristin.no/v2/results/958995",
+        "journal": "Psykologi i kommunen (PIK)"
       },
       {
         "type": "Doctoral dissertation",
@@ -1052,29 +1052,29 @@
         "type": "Academic article",
         "year": "2011",
         "title": "The effects of group daycare in the context of paid maternal leave and high quality provision",
-        "journal": "European Journal of Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/861292"
+        "url": "https://api.cristin.no/v2/results/861292",
+        "journal": "European Journal of Developmental Psychology"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "Conflict, Closeness and Comfort: The Inter-Twin Relationship as a Risk Factor for Behavioral Difficulties",
-        "journal": "Twin Research and Human Genetics",
-        "url": "https://api.cristin.no/v2/results/861289"
+        "url": "https://api.cristin.no/v2/results/861289",
+        "journal": "Twin Research and Human Genetics"
       },
       {
         "type": "Academic article",
         "year": "2011",
         "title": "The Role of Pre- and Postnatal Timing of Family Risk Factors on Child Behavior at 36 months",
-        "journal": "Journal of Abnormal Child Psychology",
-        "url": "https://api.cristin.no/v2/results/348230"
+        "url": "https://api.cristin.no/v2/results/348230",
+        "journal": "Journal of Abnormal Child Psychology"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "Intrauterine exposure to caffeine and inattention/overactivity in children",
-        "journal": "Acta Paediatrica",
-        "url": "https://api.cristin.no/v2/results/348475"
+        "url": "https://api.cristin.no/v2/results/348475",
+        "journal": "Acta Paediatrica"
       },
       {
         "type": "Textbook",
@@ -1082,5 +1082,390 @@
         "url": "https://api.cristin.no/v2/results/958991"
       }
     ]
+  },
+  "rg": {
+    "id": "Mona-Bekkhus",
+    "name": "Mona Bekkhus",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272368106995713-1441949025124_Q128/Mona-Bekkhus.jpg",
+    "affiliation": "University of Oslo, PROMENTA research center Department of Psychology",
+    "keywords": ["Child Development", "Adolescent Development", "Early Childhood Education", "Developmental Psychopathology", "Emotional Communication", "Psychology of Adolescence", "Psychological Assessment", "School Psychology", "Cognitive Development", "Child and Adolescent Psychiatry"],
+    "works": [
+      {
+        "title": "Maternal caffeine consumption during pregnancy and offspring cord blood DNA methylation: an epigenome-wide association study meta-analysis",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Laura Schellhas", "Giulietta S Monasso", "Janine F Felix", "Gemma C Sharp"],
+        "abstract": []
+      },
+      {
+        "title": "Unveiling Adolescent Suicidality: Holistic Analysis of Protective and Risk Factors Using Multiple Machine Learning Algorithms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["E. F. Haghish", "Ragnhild Bang Nes", "Milan Obaidi", "Nikolai Czajkowski"],
+        "abstract": ["Adolescent suicide attempts are on the rise, presenting a significant public health concern. Recent research aimed at improving risk assessment for adolescent suicide attempts has turned to machine learning. But no studies to date have examined the performance of stacked ensemble algorithms, which are more suitable for low-prevalence conditions. Th..."]
+      },
+      {
+        "title": "The DREAM BIG project as a model for harmonizing early measures of parental care and parent-child interactions across epidemiological cohorts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Eszter Szekely", "David P Laplante", "Henning Tiemeier", "Ashley Wazana"],
+        "abstract": ["Parenting is a key contributor to child development. The effects of parenting, however, also depend on child characteristics, including genetic factors. A more complete appraisal of the role of parenting thus requires a comprehensive developmental model which explores questions about parenting behavior, child susceptibility to parenting, and child..."]
+      },
+      {
+        "title": "GENETICALLY INFORMED EARLY IDENTIFICATION OF ATTENTION DEFICIT HYPERACTIVITY DISORDER SYMPTOMS IN THE NORWEGIAN MOTHER, FATHER AND CHILD COHORT STUDY (MOBA)",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["André Høberg", "Berit Skretting Solberg", "Jan Haavik", "Tetyana Zayats"],
+        "abstract": []
+      },
+      {
+        "title": "W52. GENETIC LIABILITY TO NEURODEVELOPMENTAL DISORDERS AND DNA METHYLATION PATTERNS AT BIRTH: A MULTI-COHORT, POPULATION-BASED STUDY",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Dinka Smajlagic", "Isabel Schuurmans", "Vilte Baltramonaityte", "Charlotte A.M. Cecil"],
+        "abstract": []
+      },
+      {
+        "title": "Development of prosocial behavior and inhibitory control in late childhood: A longitudinal exploration of sex differences and reciprocal relations",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Lia Ferschmann", "Ingrid Overweg", "Fanny Dégeilh", "Christian K Tamnes"],
+        "abstract": ["This study examined longitudinal development of prosocial behavior, assessed by the parent-reported Strength and Difficulty Questionnaire, and inhibitory control, measured by the Opposite Worlds Task, in a sample aged 9 and 12 years (n = 9468, 49.9% girls, 85.8% White) from the Avon Longitudinal Study of Parents and Children. The goal was to assess..."]
+      },
+      {
+        "title": "Co-occurrence of internalizing difficulties and aggression in early childhood and risk of mental health problems in middle childhood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Stella Tsotsi", "Shaun Goh", "Robert J Coplan", "Mona Bekkhus"],
+        "abstract": ["The goal of this prospective longitudinal study was to explore whether co-occurrent internalizing difficulties and aggression in early childhood convey increased risk for later mental health problems in middle childhood. Participants were mothers from the Norwegian Mother, Father and Child Cohort Study (MoBa), who provided assessments of child inte..."]
+      },
+      {
+        "title": "Becoming Dad: Expectant Fathers’ Attachment Style and Prenatal Representations of the Unborn Child",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Hedvig Svendsrud", "Eivor Fredriksen", "Vibeke Moe", "Mona Bekkhus"],
+        "abstract": ["How expectant fathers think and feel about the unborn child (prenatal representations), has shown associations with fathers’ postnatal parenting behaviors, observed father–infant interactional quality and child cognitive development. There is limited knowledge about fathers’ prenatal representations. The present study examined if fathers’ partner-r..."]
+      },
+      {
+        "title": "Anxiety and depression in expectant parents: ART versus spontaneous conception",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Aurora Oftedal", "Stella Tsotsi", "Anne Kaasen", "Mona Bekkhus"],
+        "abstract": ["Study question: \nDo expectant parents experience increased anxiety and depression during pregnancies conceived through ART compared to spontaneous conception?\n\nSummary answer: \nAmong all expectant parents in the sample, those who conceived through ART reported overall lower levels of anxiety and depression in pregnancy compared to expectant parents..."]
+      },
+      {
+        "title": "Maternal caffeine consumption during pregnancy and offspring cord blood DNA methylation: a meta-analysis of epigenome-wide association studies",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Laura Schellhas", "Giulietta S Monasso", "Janine F Felix", "Gemma C Sharp"],
+        "abstract": ["Background\nWomen are advised to limit caffeine consumption during pregnancy. To uncover the potential epigenetic effects of intrauterine caffeine exposure, we investigated the association of maternal caffeine consumption during pregnancy with genome-wide DNA methylation in cord blood.\n\nMethods\nWe meta-analysed results from epigenome-wide methylatio..."]
+      },
+      {
+        "title": "Title: \"Everything turned upside down\" - a thematic analysis of adolescents' experiences of everyday life during COVID-19 restrictions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Line Indrevoll Stänicke", "Pauline Olin Kurseth", "Mona Bekkhus"],
+        "abstract": ["Background: In the beginning of the COVID-19 pandemic, people were encouraged to practice social distancing and schools and leisure venues were closed. Aims: We aim to explore the everyday experiences of Norwegian adolescents during COVID-19 restrictions, when in-person contact with peers was severely limited. Methods: A total of 622 high school st..."]
+      },
+      {
+        "title": "Developmental changes in the structure of shyness and internalizing symptoms from early to middle childhood: A network analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Mona Bekkhus", "Alicia McVarnock", "Robert J Coplan", "Brage Kraft"],
+        "abstract": ["Shyness is a temperamental trait that shares considerable conceptual overlap with aspects of internalizing problems, creating difficulties in operationalizing and assessing these two constructs and their association. This study addresses these issues by employing network analyses. Participants were, white, N = 555 children (Mage = 52.45 months, SD..."]
+      },
+      {
+        "title": "Development of prosocial behavior and inhibitory control in late childhood: A longitudinal exploration of sex differences and reciprocal relations",
+        "tags": ["Preprint"],
+        "date": "Dec 2022",
+        "authors": ["Lia Ferschmann", "Ingrid Overweg", "Fanny Dégeilh", "Christian K Tamnes"],
+        "abstract": ["Prosocial behavior and inhibitory control develop across childhood and adolescence, and several theoretical accounts propose reciprocal relations between the two constructs. Empirical support for such associations is, however, limited. Here, prosocial behavior assessed by the parent-reported Strength and Difficulty Questionnaire and inhibitory cont..."]
+      },
+      {
+        "title": "Link of outdoor exposure in daycare with attentional control and academic achievement in adolescence: Examining cognitive and social pathways",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Vidar S. Ulset", "Anne I H Borge", "Frank Vitaro", "Mona Bekkhus"],
+        "abstract": ["Contact with nature during early childhood has many benefits, both in the short and the long term. However, explanatory mechanisms remain understudied. This study examined the long-term association of the time children spend outdoors in daycare with attentional control and academic achievement by early adolescence. It was also tested whether cognit..."]
+      },
+      {
+        "title": "Long-Term Impact of Diagnosed Fetal Anomaly on Parental Traumatic Stress, Resilience, and Relationship Satisfaction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Aurora Oftedal", "Mona Bekkhus", "Guttorm Haugen", "Anne Kaasen"],
+        "abstract": ["Objective\nKnowledge regarding the long-term psychological adjustment of parents to children with prenatal diagnosis of congenital malformation is scarce. The aim of this study is to examine traumatic stress trajectories, resilience, and relationship satisfaction among parents to children with prenatal diagnosis of a congenital malformation, and to..."]
+      },
+      {
+        "title": "Maternal and paternal anxiety during pregnancy: Comparing the effects on behavioral problems in offspring",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Mona Bekkhus", "Yunsung Lee", "Sven Ove Samuelsen", "Per Magnus"],
+        "abstract": ["Prenatal maternal anxiety has been associated with both short and long-term mental health problems in the child. The current study aims to examine the association between maternal and paternal prenatal anxiety and behaviour problems in the child at 1.5 and 5 years, using three different approaches; (1) adjusting for covariates, (2) using fathers’ a..."]
+      },
+      {
+        "title": "PARENT-OF-ORIGIN EFFECTS IN CHILDHOOD AGGRESSION",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Dinka Smajlagic", "Stella Tsotsi", "Miriam Gjerdevik", "Mona Bekkhus"],
+        "abstract": []
+      },
+      {
+        "title": "The impact of diagnosed fetal anomaly, diagnostic severity and prognostic ambiguity on parental depression and traumatic stress: a prospective longitudinal cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Aurora Oftedal", "Mona Bekkhus", "Guttorm Nils Haugen", "Anne Kaasen"],
+        "abstract": ["Introduction: \nThe detection of a fetal anomaly during routine obstetric ultrasound is a potentially traumatic experience. The aim of this study is to examine longitudinally the impact of diagnosis of fetal anomaly on symptoms of depression and traumatic stress among mothers and fathers, and to examine how variations in psychological adjustment rel..."]
+      },
+      {
+        "title": "Co-Occurrence of Internalizing Difficulties and Aggression in Early Childhood and Risk of Later Mental Health Problems: The Norwegian Mother, Father and Child Cohort Study",
+        "tags": ["Preprint"],
+        "date": "Jul 2022",
+        "authors": ["Stella Tsotsi", "Shaun Goh", "Robert J Coplan", "Mona Bekkhus"],
+        "abstract": ["Understanding whether co-occurrent internalizing difficulties (ID) and aggression in early childhood convey increased risk for later mental health problems is important for theoretical and clinical purposes. To investigate this, mothers from the Norwegian Mother, Father and Child Cohort Study (MoBa) reported on child ID and aggression at ages 3 (n=..."]
+      },
+      {
+        "title": "Positive maternal mental health attenuates the associations between prenatal stress and children’s internalizing and externalizing symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Zahra Clayborne", "Wendy Nilsen", "Fartein Ask Torvik", "Ian Colman"],
+        "abstract": ["Positive maternal mental health can improve perceptions of stressful situations and promote the use of adaptive coping strategies. However, few studies have examined how positive maternal mental health affects children’s development. The aims of this study were to examine the associations between positive maternal mental health and children’s inter..."]
+      },
+      {
+        "title": "Network Analyses of Shyness Developmental Changes in the Structure of Shyness and Internalizing Symptoms from Early to Middle Childhood: A Network Analysis Network Analyses of Shyness 2",
+        "tags": ["Preprint"],
+        "date": "Mar 2022",
+        "authors": ["Mona Bekkhus", "Alicia McVarnock", "Robert J Coplan", "Brage Kraft"],
+        "abstract": ["Shyness is a temperamental trait that shares considerable conceptual overlap with aspects of internalizing problems, creating difficulties in operationalizing and assessing these two constructs and their association. This study addresses these issues by employing network analyses. Participants were, white, N=555 children (Mage = 52.45 months, SD =..."]
+      },
+      {
+        "title": "Maternal Anxiety and Infants Birthweight and Length of Gestation. A sibling design",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Mona Bekkhus", "Yunsung Lee", "Ragnhild Eek Brandlistuen", "Per Magnus"],
+        "abstract": ["Background\nThe overall aim of this study is to examine the effect of prenatal maternal anxiety on birthweight and gestational age, controlling for shared family confounding using a sibling comparison design.\n\nMethods\nThe data on 77,970 mothers and their 91,165 children from the population-based Mother, Father and Child Cohort Study and data on 12,4..."]
+      },
+      {
+        "title": "Prenatal maternal stress, child internalizing and externalizing symptoms, and the moderating role of parenting: findings from the Norwegian mother, father, and child cohort study",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Zahra Clayborne", "Wendy Nilsen", "Fartein Ask Torvik", "Ian Colman"],
+        "abstract": ["Background\nFew studies have examined how parenting influences the associations between prenatal maternal stress and children's mental health. The objectives of this study were to examine the sex-specific associations between prenatal maternal stress and child internalizing and externalizing symptoms, and to assess the moderating effects of parentin..."]
+      },
+      {
+        "title": "Changes in maternal cortisol, cortisol binding globulin and cortisone levels following diagnosis of fetal anomaly",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Aurora Oftedal", "Mona Bekkhus", "Guttorm Haugen", "Anne Kaasen"],
+        "abstract": ["The diagnosis of fetal anomaly can be a major stressor to the expectant mother. Current understanding of the relationship between psychological stress and cortisol in pregnancy is limited. This study examined: (1) differences in the ratio of serum cortisol to cortisol binding globulin (SC/CBG) and cortisone levels among women with and without a dia..."]
+      },
+      {
+        "title": "Examining launch and snare effects in the longitudinal associations between shyness and socio‐emotional difficulties in childhood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Mona Bekkhus", "Danielle Baldwin", "Robert J Coplan", "Anne I H Borge"],
+        "abstract": ["In the present study, we examine short‐ and long‐term associations between shyness and socio‐emotional difficulties from early to middle childhood. Participants in this study were part of the Matter of the First Friendship Study (MOFF), a large‐scale multi‐wave longitudinal study. At Time 1, N = 555 4‐year‐old children were recruited from childcare..."]
+      },
+      {
+        "title": "Twins and Other Multiples Head word: Twins and Other Multiples Title: Twins and Other Multiples",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Karen Thorpe", "Sally Staton", "Mona Bekkhus"],
+        "abstract": []
+      },
+      {
+        "title": "Environmental Light Exposure, Rest-Activity Rhythms, and Symptoms of Inattention and Hyperactivity: An Observational Study of Australian Preschoolers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Vidar Sandsaunet Ulset", "Nikolai Olavi Czajkowski", "Sally Staton", "Mona Bekkhus"],
+        "abstract": ["Environmental light increases acute alertness and is the main regulator of the circadian clock in humans. In turn, circadian processes are strongly associated with inattention and hyperactivity symptoms in both children and adults. Evidence from animal studies suggest that light exposure may affect inattention and hyperactivity related behaviors du..."]
+      },
+      {
+        "title": "Maternal Anxiety and Infants Birth weight and Length of Gestation. A sibling design.",
+        "tags": ["Preprint"],
+        "date": "Aug 2020",
+        "authors": ["Mona Bekkhus", "Yunsung Lee", "Ragnhild Eek Brandlistuen", "Per Magnus"],
+        "abstract": []
+      },
+      {
+        "title": "Paternal Psychological Stress After Detection of Fetal Anomaly During Pregnancy. A Prospective Longitudinal Observational Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Mona Bekkhus", "Aurora Oftedal", "Elizabeth Braithwaite", "Anne Kaasen"],
+        "abstract": ["Background and aims: \nKnowledge of carrying a fetus with a prenatal diagnosed anomaly may cause acute psychological stress to the parents. Most studies focus on maternal stress, yet fathers are often present at the ultrasound examinations and birth, and therefore may be affected, similarly, to the expectant mother. However, to date no existing stud..."]
+      },
+      {
+        "title": "PSYKISK HELSE HOS UNGDOM UNDER COVID-19 – Ensomhet, venner og sosiale medier",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Mona Bekkhus", "Tilmann von soest", "Eivor Fredriksen"],
+        "abstract": ["Sosial distansering er vanskelig, da mennesker har et grunnleggende behov for å opprettholde stabile naere relasjoner til andre"]
+      },
+      {
+        "title": "Twins and Other Multiples",
+        "tags": ["Chapter"],
+        "date": "Jan 2020",
+        "authors": ["Karen Thorpe", "Sally Staton", "Mona Bekkhus"],
+        "abstract": ["Being a multiple birth child is a unique social circumstance that places siblings together from the time of their conception. During their early years, multiple birth siblings spend considerably more of their time together than close‐spaced single‐born children, a situation that presents opportunities for learning and companionship but also greater..."]
+      },
+      {
+        "title": "Are unpopular children more likely to get sick? Longitudinal links between popularity and infectious diseases in early childhood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Vidar Sandsaunet Ulset", "Nikolai Olavi Czajkowski", "Brage Kraft", "Mona Bekkhus"],
+        "abstract": ["Social stress and inflammatory processes are strong regulators of one another. Considerable evidence shows that social threats trigger inflammatory responses that increase infection susceptibility in both humans and animals, while infectious disease triggers inflammation that in turn regulates social behaviours. However, no previous study has exami..."]
+      },
+      {
+        "title": "Peer relationships and quality of life in 11–12-year-old children: The Health Oriented Pedagogical Project (HOPP)",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Natalia Lezhnieva", "Per Morten Fredriksen", "Mona Bekkhus"],
+        "abstract": ["Aims: \nSocial interactions play an important role in our everyday life. Studies on children's quality of life (QoL) show that peer relations are associated with both positive and negative outcomes. Popularity defines the degree to which a child is liked by his or her peers, whereas reciprocal friendship occurs when two children mutually nominate ea..."]
+      },
+      {
+        "title": "DNA methylation, caffeine exposure during pregnancy and ADHD in children",
+        "tags": ["Conference Paper"],
+        "date": "Oct 2017",
+        "authors": ["Christian Page", "Christine L Parr", "Wenche Nystad", "Mona Bekkhus"],
+        "abstract": ["Animal studies have found that exposure to high dosages of caffeine increases risk of ADHD in the offspring. However, findings from human studies are not conclusive. Caffeine intake during pregnancy has previously\nbeen associated to early ADHD in the children.Caffeine intake during pregnancy may also affect the epigenetic profile in the offspring...."]
+      },
+      {
+        "title": "Re-examining the Link between Prenatal Maternal Anxiety and Child Emotional Difficulties using a Sibling Design",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Mona Bekkhus", "Yunsung Lee", "Rannveig Nordhagen", "Anne I H Borge"],
+        "abstract": ["Background: Prenatal exposure to maternal anxiety has been associated with child emotional difficulties in a number of epidemiological studies. One key concern, however, is that this link is vulnerable to confounding by pleiotropic genes or environmental family factors. \nMethod: Data on 82,383 mothers and children from the population-based Mother a..."]
+      },
+      {
+        "title": "Betydningen av stress tidlig i livet for epigenetisk variasjon - Hva vet vi, og hva betyr det?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Ellen Wikenius", "Mona Bekkhus", "Pål Gunnar Marthinsen", "Anne Margrethe Myhre"],
+        "abstract": ["Psychological research has focused on the interaction between genetic vulnerability and environmental factors for the understanding of individual differences. New research indicates that epigenetic variation is the biological process the body uses to regulate this nature-nurture interaction. Animal studies have shown that early life stress affects..."]
+      },
+      {
+        "title": "Time spent outdoors during preschool: Links with children's cognitive and behavioral development",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Vidar Ulset", "Frank Vitaro", "Mara Brendgen", "Anne I H Borge"],
+        "abstract": []
+      },
+      {
+        "title": "Potential traumatic events in early childhood and behavioural resilience: a longitudinal case control study",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Heidi Küenzlen", "Mona Bekkhus", "Karen Thorpe", "Anne I H Borge"],
+        "abstract": ["Resilience can be evidenced when an exposure to potentially traumatic event (PTE) has no negative impact on behavior. This study explored the effects of exposure to PTE applying a longitudinal design with 592 children (mean age 4 years) followed across three years. Children who had experienced a PTE and those who had not, were compared over time. B..."]
+      },
+      {
+        "title": "Associations Between Sibling Relationship Quality and Friendship Quality in Early Adolescence: Looking at the Case of Twins",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Mona Bekkhus", "Mara Brendgen", "Nikolai O. Czajkowski", "Michel Boivin"],
+        "abstract": ["Bidirectional pathways between twin relationship quality and friendship quality were investigated in a large longitudinal twin cohort. We examined negative and positive relationship features in 313 monozygotic (MZ) twins and 238 same-sex dizygotic (DZ) twins from ages 13 to 14 years, using latent structural modeling. Results showed stronger stabili..."]
+      },
+      {
+        "title": "Resiliens -hva kjennetegner ungdom som klarer seg bra?i Utdanningsvalg -identitet og Danning.",
+        "tags": ["Chapter"],
+        "date": "Feb 2016",
+        "authors": ["Mona Bekkhus"],
+        "abstract": ["Kunnskap om hva som fører til vansker og fravær av vansker hos ungdom, har betydning om man skal klare å veilede barn og unge i deres vurderinger og valg i løpet av ungdomstiden. I skolen vil man som lærer og rådgiver være i tett kontakt med barn og unge i en sårbar periode i livet, og dermed kunne utøve stor innflytelse i ungdommers utviklingsforl..."]
+      },
+      {
+        "title": "Do Twins Differ From Single-Born Children on Rates of Behavioral Difficulty in Early Childhood? A Study of Sibling Relationship Risk Factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Mona Bekkhus", "Sally Staton", "Anne I H Borge", "Karen Thorpe"],
+        "abstract": ["The hypothesis that twinning raises risk for behavioral difficulties in childhood is persistent, yet there is limited and inconsistent empirical evidence. Simple mean comparison without control for confounders provides data on prevalence rates but cannot provide knowledge about risk or etiology. To assess the effect of twin relationship on behavior..."]
+      },
+      {
+        "title": "Psychology of Child Well-Being",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Arne Holte", "Margaret Mary Barry", "Mona Bekkhus", "Henrik Daae Zachrisson"],
+        "abstract": ["This chapter addresses child well-being from a psychological point of view. In doing so, we need to remember that psychology is not one single discipline but covers a wide range of psychological disciplines from evolutionary psychology and behavior genetics via psychometrics to developmental, cognitive, personality, and social psychology – all of t..."]
+      },
+      {
+        "title": "Kan barn være utsatt for risiko før de er født? Om prenatale virkningsmekansimer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Mona Bekkhus"],
+        "abstract": ["Mye av forskningen på atferdsvansker de siste femti årene har fokusert på hvordan en risiko i miljøet henger sammen med barnets atferd. Dette bilde av årsak og virkning er kanakje for enkelt? Nyere forskning har vist at noen risikofaktorer virker på barnet allerede før det er født, men hvordan kan vi skille mellom prenatale og postnatale risikofakt..."]
+      },
+      {
+        "title": "Psychology of Child Well-Being",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Arne Holte", "Margaret Mary Barry", "Mona Bekkhus", "Henrik Daae Zachrisson"],
+        "abstract": ["This chapter addresses child well-being from a psychological point of view. In doing so, we need to remember that psychology is not one single discipline but covers a wide range of psychological disciplines from evolutionary psychology and behavior genetics via psychometrics to developmental, cognitive, personality, and social psychology – all of t..."]
+      },
+      {
+        "title": "Kan \"å hjelpe\" føre til psykopatologi? - Prososial atferd i et utviklingsperspektiv",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2013",
+        "authors": ["Mona Bekkhus", "Mona"],
+        "abstract": []
+      },
+      {
+        "title": "Resiliens -Hvorfor klarer noen barn seg på tross av risiko?",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Mona Bekkhus", "Mona"],
+        "abstract": []
+      },
+      {
+        "title": "Pre -and postnatal risk research and behaviour problems in early childhood. A longitudinal cohort study from early pregancy to 36 months",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "Feb 2012",
+        "authors": ["Mona Bekkhus"],
+        "abstract": ["Over the past half century developmental research has been concerned with understanding and identifying causes of diseases (Academy for Medical Science (AMS), 2007), and there is a common understanding that in most diseases and disorders there are multiple complex ways in which risks interact and influence child development. \n\nThe three papers in t..."]
+      },
+      {
+        "title": "Familie risiko og atferdsvansker; årsak og virkning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Mona Bekkhus", "Mona"],
+        "abstract": []
+      },
+      {
+        "title": "The effects of group daycare in the context of paid maternal leave and high-quality provision",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2011",
+        "authors": ["Mona Bekkhus", "Michael Rutter", "Barbara Maughan", "Anne I H Borge"],
+        "abstract": ["Social benefits and quality of group daycare vary greatly across countries; the effects on children may depend on the social context. This study used the prospective Norwegian cohort of 24,259 (MoBa; Norwegian Mother and Child Cohort Study) to examine predictors of group daycare, and the effects of family risk and group daycare on child behaviour a..."]
+      },
+      {
+        "title": "Conflict, Closeness and Comfort: The Inter-Twin Relationship as a Risk Factor for Behavioral Difficulties",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2011",
+        "authors": ["Mona Bekkhus", "Sally Staton", "Anne I H Borge", "Karen Thorpe"],
+        "abstract": ["There is currently little evidence concerning the impact of the inter-twin relationship on behavioral outcomes and yet the twin relationship is frequently hypothesized to be a unique source of psychopathology in twins. The current study asked whether the inter-twin relationship is a predictor of behavioral difficulties and whether there are zygosit..."]
+      },
+      {
+        "title": "The Role of Pre- and Postnatal Timing of Family Risk Factors on Child Behavior at 36 months",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2010",
+        "authors": ["Mona Bekkhus", "Michael Rutter", "Edward D. Barker", "Anne I H Borge"],
+        "abstract": ["Children growing up in disharmonious families with anxious/depressed mothers are at risk for emotional and behavioral difficulties, however whether these associations reflect postnatal environment, prenatal exposure, or an overall liability is still unclear. This study used prospectively collected data from 24,259 participants of the Norwegian Moth..."]
+      },
+      {
+        "title": "Intrauterine exposure to caffeine and inattention/overactivity in children: Caffeine and inattention/overactivity",
+        "tags": ["Article"],
+        "date": "Mar 2010",
+        "authors": ["Mona Bekkhus", "Thomas Skjøthaug", "Rannveig Nordhagen", "Anne I H Borge"],
+        "abstract": ["To determine the association between intrauterine exposure to timing and sources of caffeine and inattention/overactivity, suggesting ADHD in the child.\nThis study used prospectively collected data from the large population-based study, The Norwegian Mother and Child Cohort Study (MoBa). Participants were 25 343 mothers and their 18-month-old child..."]
+      },
+      {
+        "title": "Mestring",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Mona Bekkhus", "Mona"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Phd"],
+    "bio": [],
+    "publications": [53],
+    "reads": [11034],
+    "citations": [402]
   }
 }

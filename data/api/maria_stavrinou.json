@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Maria L. Stavrinou",
-    "id": "uUpXjyEAAAAJ",
-    "affiliation": "Oslo University Hospital",
+    "name": ["Maria L. Stavrinou"],
+    "id": ["uUpXjyEAAAAJ"],
+    "affiliation": ["Oslo University Hospital"],
     "data": {
       "publications": [
         {
@@ -682,8 +682,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-2063-7861",
-    "name": "Maria Stavrinou",
+    "orcid": ["0000-0003-2063-7861"],
+    "name": ["Maria Stavrinou"],
     "distinctions": [],
     "education": [
       {
@@ -841,8 +841,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Maria Stavrinou",
-    "id": "451221",
+    "name": ["Maria Stavrinou"],
+    "id": ["451221"],
     "keywords": [],
     "position": ["Guest", "Post-doctoral research fellow"],
     "img": {},
@@ -975,5 +975,15 @@
         "url": "https://api.cristin.no/v2/results/1203861"
       }
     ]
+  },
+  "rg": {
+    "id": "Maria_Stavrinou2",
+    "name": "Maria Stavrinou",
+    "img": "https://i1.rgstatic.net/ii/profile.image/892293577965568-1589750775018_Q128/Maria_Stavrinou2.jpg",
+    "affiliation": "Oslo University Hospital, Department of Radiology and Nuclear Medicine",
+    "keywords": ["Neuroimaging", "EEG", "Cognitive Neuroscience", "Brain Connectivity", "Functional Neuroimaging", "Event-Related Potentials", "Visual Attention", "Sleep, Memory and Learning", "Neuroplasticity", "Clinical Neuroscience"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

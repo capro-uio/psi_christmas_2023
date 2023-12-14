@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "ALICIA VERONICA GARCIA ESPOSITO",
-    "id": "IWf-NqYAAAAJ",
-    "affiliation": "",
+    "name": ["ALICIA VERONICA GARCIA ESPOSITO"],
+    "id": ["IWf-NqYAAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -181,8 +181,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Veronica Exposito",
-    "id": "723943",
+    "name": ["Veronica Exposito"],
+    "id": ["723943"],
     "keywords": [],
     "position": ["Guest", "Guest"],
     "img": {},
@@ -258,5 +258,15 @@
         "url": "https://api.cristin.no/v2/results/1326122"
       }
     ]
+  },
+  "rg": {
+    "id": "Veronica_Exposito",
+    "name": "Verónica Expósito",
+    "img": "https://i1.rgstatic.net/ii/profile.image/989725389250560-1612980329003_Q128/Veronica_Exposito.jpg",
+    "affiliation": "Universidad Camilo José Cela | UCJC, Universidad Camilo José Cela, Faculty of Social and Education Sciences",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

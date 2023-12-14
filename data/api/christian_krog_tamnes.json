@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Christian K. Tamnes",
-    "id": "Ekd55rQAAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo",
+    "name": ["Christian K. Tamnes"],
+    "id": ["Ekd55rQAAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -1168,8 +1168,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-9191-6764",
-    "name": "Christian Krog Tamnes",
+    "orcid": ["0000-0002-9191-6764"],
+    "name": ["Christian Krog Tamnes"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1180,8 +1180,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Christian Krog Tamnes",
-    "id": "10082",
+    "name": ["Christian Krog Tamnes"],
+    "id": ["10082"],
     "keywords": [],
     "position": ["Professor"],
     "img": {},
@@ -1196,71 +1196,71 @@
         "type": "Academic article",
         "year": "2023",
         "title": "The economic well-being of nations is associated with positive daily situational experiences",
-        "journal": "Current Research in Ecological and Social Psychology (CRESP)",
-        "url": "https://api.cristin.no/v2/results/2201366"
+        "url": "https://api.cristin.no/v2/results/2201366",
+        "journal": "Current Research in Ecological and Social Psychology (CRESP)"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Normative Modeling of Brain Morphometry in Clinical High Risk for Psychosis",
-        "journal": "JAMA psychiatry",
-        "url": "https://api.cristin.no/v2/results/2201363"
+        "url": "https://api.cristin.no/v2/results/2201363",
+        "journal": "JAMA psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Assessing the longitudinal associations between decision-making processes and attention problems in early adolescence",
-        "journal": "Research on Child and Adolescent Psychopathology",
-        "url": "https://api.cristin.no/v2/results/2201362"
+        "url": "https://api.cristin.no/v2/results/2201362",
+        "journal": "Research on Child and Adolescent Psychopathology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Development of prosocial behavior and inhibitory control in late childhood: A longitudinal exploration of sex differences and reciprocal relations",
-        "journal": "Child Development",
-        "url": "https://api.cristin.no/v2/results/2176849"
+        "url": "https://api.cristin.no/v2/results/2176849",
+        "journal": "Child Development"
       },
       {
         "type": "Errata",
         "year": "2023",
         "title": "Author Correction: An analysis-ready and quality controlled resource for pediatric brain white-matter research (Scientific Data, (2022), 9, 1, (616), 10.1038/s41597-022-01695-7)",
-        "journal": "Scientific Data",
-        "url": "https://api.cristin.no/v2/results/2166999"
+        "url": "https://api.cristin.no/v2/results/2166999",
+        "journal": "Scientific Data"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Social problems and brain structure development following childhood mild traumatic brain injury",
-        "journal": "Cortex",
-        "url": "https://api.cristin.no/v2/results/2158284"
+        "url": "https://api.cristin.no/v2/results/2158284",
+        "journal": "Cortex"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Delineating disorder-general and disorder-specific dimensions of psychopathology from functional brain networks in a developmental clinical sample",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2156142"
+        "url": "https://api.cristin.no/v2/results/2156142",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Errata",
         "year": "2023",
         "title": "Erratum to “Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents” [Dev. Cogn. Neurosci. 56C (2022) 101132] (Developmental Cognitive Neuroscience (2022) 56, (S1878929322000755), (10.1016/j.dcn.2022.101132))",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2155592"
+        "url": "https://api.cristin.no/v2/results/2155592",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Reaction Time Variability in Children Is Specifically Associated With Attention Problems and Regional White Matter Microstructure",
-        "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-        "url": "https://api.cristin.no/v2/results/2154281"
+        "url": "https://api.cristin.no/v2/results/2154281",
+        "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Puberty differentially predicts brain maturation in male and female youth: A longitudinal ABCD Study",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2154277"
+        "url": "https://api.cristin.no/v2/results/2154277",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Interview",
@@ -1276,29 +1276,29 @@
         "type": "Academic article",
         "year": "2023",
         "title": "The Psychological Science Accelerator's COVID-19 rapid-response dataset",
-        "journal": "Scientific Data",
-        "url": "https://api.cristin.no/v2/results/2130714"
+        "url": "https://api.cristin.no/v2/results/2130714",
+        "journal": "Scientific Data"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Shared pattern of impaired social communication and cognitive ability in the youth brain across diagnostic boundaries",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2127962"
+        "url": "https://api.cristin.no/v2/results/2127962",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Associations between reproductive history, hormone use, APOE ε4 genotype and cognition in middle- to older-aged women from the UK Biobank",
-        "journal": "Frontiers in Aging Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2111391"
+        "url": "https://api.cristin.no/v2/results/2111391",
+        "journal": "Frontiers in Aging Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Mapping Normative Trajectories of Cognitive Function and Its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
-        "journal": "Biological Psychiatry: Global Open Science",
-        "url": "https://api.cristin.no/v2/results/2021585"
+        "url": "https://api.cristin.no/v2/results/2021585",
+        "journal": "Biological Psychiatry: Global Open Science"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1309,92 +1309,92 @@
         "type": "Academic article",
         "year": "2022",
         "title": "An analysis ready and quality controlled \r\nresource for pediatric brain white-matter research",
-        "journal": "Scientific Data",
-        "url": "https://api.cristin.no/v2/results/2076055"
+        "url": "https://api.cristin.no/v2/results/2076055",
+        "journal": "Scientific Data"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Deviations from normative brain white and gray matter structure are associated with psychopathology in youth",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2075738"
+        "url": "https://api.cristin.no/v2/results/2075738",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Errata",
         "year": "2022",
         "title": "Erratum: Author Correction: A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic (Nature human behaviour (2021) 5 8 (1089-1110))",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/2069930"
+        "url": "https://api.cristin.no/v2/results/2069930",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Neuroanatomical heterogeneity and homogeneity in individuals at clinical high risk for psychosis",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2063708"
+        "url": "https://api.cristin.no/v2/results/2063708",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Brain Structure in Acutely Underweight and Partially Weight-Restored Individuals With Anorexia Nervosa: A Coordinated Analysis by the ENIGMA Eating Disorders Working Group",
-        "journal": "Biological Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2061873"
+        "url": "https://api.cristin.no/v2/results/2061873",
+        "journal": "Biological Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Parental socioeconomic status is linked to cortical microstructure and language abilities in children and adolescents",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2058364"
+        "url": "https://api.cristin.no/v2/results/2058364",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "In COVID-19 Health Messaging, Loss Framing Increases Anxiety with Little-to-No Concomitant Benefits: Experimental Evidence from 84 Countries",
-        "journal": "Affective Science",
-        "url": "https://api.cristin.no/v2/results/2057474"
+        "url": "https://api.cristin.no/v2/results/2057474",
+        "journal": "Affective Science"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "A global experiment on motivating social distancing during the COVID-19 pandemic",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "https://api.cristin.no/v2/results/2054174"
+        "url": "https://api.cristin.no/v2/results/2054174",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Lexical Access Speed and the Development of Phonological Recoding during Immediate Serial Recall",
-        "journal": "Journal of Cognition and Development",
-        "url": "https://api.cristin.no/v2/results/2050714"
+        "url": "https://api.cristin.no/v2/results/2050714",
+        "journal": "Journal of Cognition and Development"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Age-related differences in the error-related negativity and error positivity in children and adolescents are moderated by sample and methodological characteristics: A meta-analysis",
-        "journal": "Psychophysiology",
-        "url": "https://api.cristin.no/v2/results/2016076"
+        "url": "https://api.cristin.no/v2/results/2016076",
+        "journal": "Psychophysiology"
       },
       {
         "type": "Academic literature review",
         "year": "2022",
         "title": "Contextualizing adolescent structural brain development:Environmental determinants and mental health outcomes",
-        "journal": "Current Opinion in Psychology",
-        "url": "https://api.cristin.no/v2/results/1938041"
+        "url": "https://api.cristin.no/v2/results/1938041",
+        "journal": "Current Opinion in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Cortical thickness across the lifespan: Data from 17,075 healthy individuals aged 3-90 years",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1935636"
+        "url": "https://api.cristin.no/v2/results/1935636",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Subcortical volumes across the lifespan: Data from 18,605 healthy individuals aged 3–90 years",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1935635"
+        "url": "https://api.cristin.no/v2/results/1935635",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Interview",
@@ -1410,120 +1410,120 @@
         "type": "Academic article",
         "year": "2021",
         "title": "Who in the World Is Trying to Change Their Personality Traits? Volitional Personality Change Among College Students in Six Continents",
-        "journal": "Journal of Personality and Social Psychology",
-        "url": "https://api.cristin.no/v2/results/2075280"
+        "url": "https://api.cristin.no/v2/results/2075280",
+        "journal": "Journal of Personality and Social Psychology"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
         "title": "Unity or diversity of executive functioning in children and adolescents with post-traumatic stress symptoms? A systematic review and meta-analysis",
-        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/1938048"
+        "url": "https://api.cristin.no/v2/results/1938048",
+        "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1938045"
+        "url": "https://api.cristin.no/v2/results/1938045",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Association of Structural Magnetic Resonance Imaging Measures With Psychosis Onset in Individuals at Clinical High Risk for Developing Psychosis: An ENIGMA Working Group Mega-analysis",
-        "journal": "JAMA psychiatry",
-        "url": "https://api.cristin.no/v2/results/1935634"
+        "url": "https://api.cristin.no/v2/results/1935634",
+        "journal": "JAMA psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Effects of copy number variations on brain structure and risk for psychiatric illness: Large-scale studies from the ENIGMA working groups on CNVs",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1935633"
+        "url": "https://api.cristin.no/v2/results/1935633",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
         "title": "Development of white matter microstructure and executive functions during childhood and adolescence: a review of diffusion MRI studies",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1935632"
+        "url": "https://api.cristin.no/v2/results/1935632",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "1q21.1 distal copy number variants are associated with cerebral and cognitive alterations in humans",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1927806"
+        "url": "https://api.cristin.no/v2/results/1927806",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/1927805"
+        "url": "https://api.cristin.no/v2/results/1927805",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "To which world regions does the valence–dominance model of social perception apply?",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/1927803"
+        "url": "https://api.cristin.no/v2/results/1927803",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "#EEGManyLabs: Investigating the replicability of influential EEG experiments",
-        "journal": "Cortex",
-        "url": "https://api.cristin.no/v2/results/1927801"
+        "url": "https://api.cristin.no/v2/results/1927801",
+        "journal": "Cortex"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Inter-individual variability in structural brain development from late childhood to young adulthood",
-        "journal": "NeuroImage",
-        "url": "https://api.cristin.no/v2/results/1927800"
+        "url": "https://api.cristin.no/v2/results/1927800",
+        "journal": "NeuroImage"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Multilab Direct Replication of Flavell, Beach, and Chinsky (1966): Spontaneous Verbal Rehearsal in a Memory Task as a Function of Age",
-        "journal": "Advances in Methods and Practices in Psychological Science (AMPPS)",
-        "url": "https://api.cristin.no/v2/results/1926908"
+        "url": "https://api.cristin.no/v2/results/1926908",
+        "journal": "Advances in Methods and Practices in Psychological Science (AMPPS)"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
         "title": "Best Practices in Structural Neuroimaging of Neurodevelopmental Disorders",
-        "journal": "Neuropsychology Review",
-        "url": "https://api.cristin.no/v2/results/1921147"
+        "url": "https://api.cristin.no/v2/results/1921147",
+        "journal": "Neuropsychology Review"
       },
       {
         "type": "Academic literature review",
         "year": "2021",
         "title": "New insights into the dynamic development of the cerebral cortex in childhood and adolescence: Integrating macro- and microstructural MRI findings",
-        "journal": "Progress in Neurobiology",
-        "url": "https://api.cristin.no/v2/results/1920487"
+        "url": "https://api.cristin.no/v2/results/1920487",
+        "journal": "Progress in Neurobiology"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Development of attention networks from childhood to young adulthood: A study of performance, intraindividual variability and cortical thickness",
-        "journal": "Cortex",
-        "url": "https://api.cristin.no/v2/results/1916013"
+        "url": "https://api.cristin.no/v2/results/1916013",
+        "journal": "Cortex"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Cognitive reappraisal and expressive suppression relate differentially to longitudinal structural brain development across adolescence",
-        "journal": "Cortex",
-        "url": "https://api.cristin.no/v2/results/1911510"
+        "url": "https://api.cristin.no/v2/results/1911510",
+        "journal": "Cortex"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Electrophysiological and behavioral indices of cognitive conflict processing across adolescence",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1911027"
+        "url": "https://api.cristin.no/v2/results/1911027",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Non-fiction book",
@@ -1550,50 +1550,50 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Opportunities for increased reproducibility and replicability of developmental neuroimaging",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1898576"
+        "url": "https://api.cristin.no/v2/results/1898576",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Greater male than female variability in regional brain structure across the lifespan",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1881263"
+        "url": "https://api.cristin.no/v2/results/1881263",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "What we learn about bipolar disorder from large-scale neuroimaging: Findings and future directions from the ENIGMA Bipolar Disorder Working Group",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1875312"
+        "url": "https://api.cristin.no/v2/results/1875312",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "In vivo hippocampal subfield volumes in bipolar disorder—A mega‐analysis from The Enhancing Neuro Imaging Genetics through Meta‐Analysis Bipolar Disorder Working Group",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1871616"
+        "url": "https://api.cristin.no/v2/results/1871616",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Happiness around the World: A Combined Etic-Emic Approach across 63 Countries",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1868098"
+        "url": "https://api.cristin.no/v2/results/1868098",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Associations of age, body mass index and biochemical parameters with brain morphology in patients with anorexia nervosa",
-        "journal": "European Eating Disorders Review",
-        "url": "https://api.cristin.no/v2/results/1862686"
+        "url": "https://api.cristin.no/v2/results/1862686",
+        "journal": "European Eating Disorders Review"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Intracranial and subcortical volumes in adolescents with early‐onset psychosis: A multisite mega‐analysis from the ENIGMA consortium",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1837803"
+        "url": "https://api.cristin.no/v2/results/1837803",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Interview",
@@ -1609,8 +1609,8 @@
         "type": "Academic literature review",
         "year": "2020",
         "title": "Learning from mistakes: How does the brain handle errors? ",
-        "journal": "Frontiers for Young Minds",
-        "url": "https://api.cristin.no/v2/results/1824620"
+        "url": "https://api.cristin.no/v2/results/1824620",
+        "journal": "Frontiers for Young Minds"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1622,85 +1622,85 @@
         "type": "Academic article",
         "year": "2020",
         "title": "International Optimism: Correlates and Consequences of Dispositional Optimism across 61 Countries",
-        "journal": "Journal of Personality",
-        "url": "https://api.cristin.no/v2/results/1824618"
+        "url": "https://api.cristin.no/v2/results/1824618",
+        "journal": "Journal of Personality"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Situational experiences around the world: A replication and extension in 62 countries",
-        "journal": "Journal of Personality",
-        "url": "https://api.cristin.no/v2/results/1824616"
+        "url": "https://api.cristin.no/v2/results/1824616",
+        "journal": "Journal of Personality"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Testing relationships between multimodal modes of brain structural variation and age, sex and polygenic scores for neuroticism in children and adolescents",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1824253"
+        "url": "https://api.cristin.no/v2/results/1824253",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Maturation of cortical microstructure and cognitive development in childhood and adolescence: A T1w/T2w ratio MRI study",
-        "journal": "Human Brain Mapping",
-        "url": "https://api.cristin.no/v2/results/1824243"
+        "url": "https://api.cristin.no/v2/results/1824243",
+        "journal": "Human Brain Mapping"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Exploring the Links between Specific Depression Symptoms and Brain Structure: A Network Study",
-        "journal": "Psychiatry and Clinical Neurosciences",
-        "url": "https://api.cristin.no/v2/results/1759908"
+        "url": "https://api.cristin.no/v2/results/1759908",
+        "journal": "Psychiatry and Clinical Neurosciences"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Becoming a mother entails anatomical changes in the ventral striatum of the human brain that facilitate its responsiveness to offspring cues",
-        "journal": "Psychoneuroendocrinology",
-        "url": "https://api.cristin.no/v2/results/1753132"
+        "url": "https://api.cristin.no/v2/results/1753132",
+        "journal": "Psychoneuroendocrinology"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Prosocial behavior relates to the rate and timing of cortical thinning from adolescence to young adulthood",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1753116"
+        "url": "https://api.cristin.no/v2/results/1753116",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Association of copy number variation of the 15q11.2 BP1-BP2 region with cortical and subcortical morphology and cognition",
-        "journal": "JAMA psychiatry",
-        "url": "https://api.cristin.no/v2/results/1748470"
+        "url": "https://api.cristin.no/v2/results/1748470",
+        "journal": "JAMA psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Structural variability in the human brain reflects fine-grained functional architecture at the population level",
-        "journal": "Journal of Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1730029"
+        "url": "https://api.cristin.no/v2/results/1730029",
+        "journal": "Journal of Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Error processing in the adolescent brain: Age-related differences in electrophysiology, behavioral adaptation, and brain morphology",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1708586"
+        "url": "https://api.cristin.no/v2/results/1708586",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Waves of Maturation and Senescence in Microstructural MRI Markers of Human Cortical Myelination over the Lifespan",
-        "journal": "Cerebral Cortex",
-        "url": "https://api.cristin.no/v2/results/1661898"
+        "url": "https://api.cristin.no/v2/results/1661898",
+        "journal": "Cerebral Cortex"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Continuity and discontinuity in human cortical development and change from embryonic stages to old age",
-        "journal": "Cerebral Cortex",
-        "url": "https://api.cristin.no/v2/results/1646675"
+        "url": "https://api.cristin.no/v2/results/1646675",
+        "journal": "Cerebral Cortex"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1712,156 +1712,195 @@
         "type": "Academic article",
         "year": "2018",
         "title": "The Psychological Science Accelerator: Advancing Psychology Through a Distributed Collaborative Network",
-        "journal": "Advances in Methods and Practices in Psychological Science (AMPPS)",
-        "url": "https://api.cristin.no/v2/results/1664649"
+        "url": "https://api.cristin.no/v2/results/1664649",
+        "journal": "Advances in Methods and Practices in Psychological Science (AMPPS)"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Probing brain developmental patterns of myelination and associations with psychopathology in youths using gray/white matter contrast",
-        "journal": "Biological Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1642233"
+        "url": "https://api.cristin.no/v2/results/1642233",
+        "journal": "Biological Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Development of subcortical volumes across adolescence in males and females: A multisample study of longitudinal changes",
-        "journal": "NeuroImage",
-        "url": "https://api.cristin.no/v2/results/1631072"
+        "url": "https://api.cristin.no/v2/results/1631072",
+        "journal": "NeuroImage"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Emerging depression in adolescence coincides with accelerated frontal cortical thinning",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1631069"
+        "url": "https://api.cristin.no/v2/results/1631069",
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Social perspective taking is associated with self-reported prosocial behavior and regional cortical thickness across adolescence",
-        "journal": "Developmental Psychology",
-        "url": "https://api.cristin.no/v2/results/1631067"
+        "url": "https://api.cristin.no/v2/results/1631067",
+        "journal": "Developmental Psychology"
       },
       {
         "type": "Academic literature review",
         "year": "2018",
         "title": "Diffusion MRI of white matter microstructure development in childhood and adolescence: Methods, challenges and progress",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1631061"
+        "url": "https://api.cristin.no/v2/results/1631061",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "A Key Characteristic of Sex Differences in the Developing Brain: Greater Variability in Brain Structure of Boys than Girls ",
-        "journal": "Cerebral Cortex",
-        "url": "https://api.cristin.no/v2/results/1631057"
+        "url": "https://api.cristin.no/v2/results/1631057",
+        "journal": "Cerebral Cortex"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Development of the P300 from childhood to adulthood: a multimodal EEG and MRI study",
-        "journal": "Brain Structure and Function",
-        "url": "https://api.cristin.no/v2/results/1629158"
+        "url": "https://api.cristin.no/v2/results/1629158",
+        "journal": "Brain Structure and Function"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Longitudinal structural brain development and externalizing behavior in adolescence",
-        "journal": "Journal of Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1627704"
+        "url": "https://api.cristin.no/v2/results/1627704",
+        "journal": "Journal of Child Psychology and Psychiatry"
       },
       {
         "type": "Academic literature review",
         "year": "2018",
         "title": "Neuroimaging hippocampal subfields in schizophrenia and bipolar disorder: A systematic review and meta-analysis",
-        "journal": "Journal of Psychiatric Research",
-        "url": "https://api.cristin.no/v2/results/1604887"
+        "url": "https://api.cristin.no/v2/results/1604887",
+        "journal": "Journal of Psychiatric Research"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Development of white matter microstructure in relation to verbal and visuospatial working memory - A longitudinal study",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1599323"
+        "url": "https://api.cristin.no/v2/results/1599323",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Unraveling age, puberty and testosterone effects on subcortical brain development across adolescence",
-        "journal": "Psychoneuroendocrinology",
-        "url": "https://api.cristin.no/v2/results/1598440"
+        "url": "https://api.cristin.no/v2/results/1598440",
+        "journal": "Psychoneuroendocrinology"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Longitudinal development of hippocampal subregions from childhood to adulthood",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1598385"
+        "url": "https://api.cristin.no/v2/results/1598385",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Personality Traits Are Associated With Cortical Development Across Adolescence: A Longitudinal Structural MRI Study",
-        "journal": "Child Development",
-        "url": "https://api.cristin.no/v2/results/1594008"
+        "url": "https://api.cristin.no/v2/results/1594008",
+        "journal": "Child Development"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Structural brain development: A review of methodological approaches and best practices",
-        "journal": "Developmental Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1592339"
+        "url": "https://api.cristin.no/v2/results/1592339",
+        "journal": "Developmental Cognitive Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "The corpus callosum as anatomical marker of intelligence? A critical examination in a large-scale developmental study",
-        "journal": "Brain Structure and Function",
-        "url": "https://api.cristin.no/v2/results/1507282"
+        "url": "https://api.cristin.no/v2/results/1507282",
+        "journal": "Brain Structure and Function"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Development of the cerebral cortex across adolescence: A multisample study of inter-related changes in cortical volume, surface area, and thickness",
-        "journal": "Journal of Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1460480"
+        "url": "https://api.cristin.no/v2/results/1460480",
+        "journal": "Journal of Neuroscience"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Brain volumes and regional cortical thickness in young females with anorexia nervosa",
-        "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1414313"
+        "url": "https://api.cristin.no/v2/results/1414313",
+        "journal": "BMC Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Neurodevelopmental origins of lifespan changes in brain and cognition",
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "url": "https://api.cristin.no/v2/results/1389018"
+        "url": "https://api.cristin.no/v2/results/1389018",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Structural brain development between childhood and adulthood: Convergence across four longitudinal samples",
-        "journal": "NeuroImage",
-        "url": "https://api.cristin.no/v2/results/1389012"
+        "url": "https://api.cristin.no/v2/results/1389012",
+        "journal": "NeuroImage"
       },
       {
         "type": "Academic literature review",
         "year": "2016",
         "title": "White Matter Microstructure in Early-Onset Schizophrenia: A Systematic Review of Diffusion Tensor Imaging Studies",
-        "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1367330"
+        "url": "https://api.cristin.no/v2/results/1367330",
+        "journal": "Journal of the American Academy of Child and Adolescent Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "Diffusion tensor imaging and behavior in premature infants at 8 years of age, a randomized controlled trial with long-chain polyunsaturated fatty acids",
-        "journal": "Early Human Development",
-        "url": "https://api.cristin.no/v2/results/1366922"
+        "url": "https://api.cristin.no/v2/results/1366922",
+        "journal": "Early Human Development"
       }
     ]
+  },
+  "rg": {
+    "id": "Christian-Madsen-4",
+    "name": "Christian Krog Madsen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Technical University of Denmark | DTU, Technical University of Denmark, Department of Informatics and Mathematical Modelling",
+    "keywords": ["Formal Semantics", "Functional Programming", "Program Semantics", "Program Analysis"],
+    "works": [
+      {
+        "title": "\"UML-ising' Formal Techniques.",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2004",
+        "authors": ["Dines Bjørner", "Chris W. George", "Anne Haxthausen", "Martin Pnika"],
+        "abstract": ["This invited paper presents a number of correlated specifications of example railway system problems. They use a variety of partially or fully integrated formal specification. The paper thus represents a mere repository of what we consider interesting case studies.\nThe existence of the Unified Modeling Language [10,67,36,20] has caused, for one rea..."]
+      },
+      {
+        "title": "\"UML-ising\" formal techniques",
+        "tags": ["Article"],
+        "date": "Jan 2004",
+        "authors": ["D Bjorner", "CW George", "Anne Haxthausen", "M Penicka"],
+        "abstract": ["This invited paper presents a number of correlated specifications of example railway system problems. They use a variety of partially or fully integrated formal specification. The paper thus represents a mere repository of what we consider interesting case studies. The existence of the Unified Modeling Language [10,67,36,20] has caused, for one rea..."]
+      },
+      {
+        "title": "Integration of Specication Techniques",
+        "tags": ["Article"],
+        "authors": ["Christian Krog Madsen"],
+        "abstract": []
+      },
+      {
+        "title": "STUDY OF GRAPHICAL AND TEMPORAL SPECIFICATION TECHNIQUES",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Christian Krog Madsen"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "publications": [4],
+    "reads": [1101],
+    "citations": [22]
   }
 }

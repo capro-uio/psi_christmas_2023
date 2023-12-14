@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Christian Andres Palacios Haugestad",
-    "id": "cTO6ZUgAAAAJ",
-    "affiliation": "PhD Research Fellow, Department of Psychology, University of Oslo",
+    "name": ["Christian Andres Palacios Haugestad"],
+    "id": ["cTO6ZUgAAAAJ"],
+    "affiliation": ["PhD Research Fellow, Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -219,8 +219,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-6787-1992",
-    "name": "Christian Palacios Haugestad",
+    "orcid": ["0000-0001-6787-1992"],
+    "name": ["Christian Palacios Haugestad"],
     "distinctions": [],
     "education": [
       {
@@ -266,8 +266,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Christian Andres Palacios Haugestad",
-    "id": "941511",
+    "name": ["Christian Andres Palacios Haugestad"],
+    "id": ["941511"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -383,5 +383,14 @@
         "url": "https://api.cristin.no/v2/results/1500183"
       }
     ]
+  },
+  "rg": {
+    "id": "Christian_Andres_Palacios_Torrez",
+    "name": "Christian Andrés Palacios Torrez",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Ensenada Center for Scientific Research and Higher Education | CICESE, Ensenada Center for Scientific Research and Higher Education",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

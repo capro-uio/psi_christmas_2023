@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2155-9159",
-    "name": "David Cano Rodriguez",
+    "orcid": ["0000-0002-2155-9159"],
+    "name": ["David Cano Rodriguez"],
     "distinctions": [],
     "education": [
       {
@@ -13,17 +13,17 @@
       },
       {
         "start": "2018",
-        "end": "2021",
         "position": "MSL",
         "organisation": "Amgen Inc",
-        "country": "CO"
+        "country": "CO",
+        "end": "2021"
       },
       {
         "start": "2016",
-        "end": "2018",
         "position": "MSL",
         "organisation": "Novartis Pharma AG",
-        "country": "CO"
+        "country": "CO",
+        "end": "2018"
       }
     ],
     "employment": [
@@ -35,17 +35,17 @@
       },
       {
         "start": "2018",
-        "end": "2021",
         "position": "MSL",
         "organisation": "Amgen Inc",
-        "country": "CO"
+        "country": "CO",
+        "end": "2021"
       },
       {
         "start": "2016",
-        "end": "2018",
         "position": "MSL",
         "organisation": "Novartis Pharma AG",
-        "country": "CO"
+        "country": "CO",
+        "end": "2018"
       }
     ],
     "membership": [],
@@ -92,11 +92,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ruben Agustin Rodriguez Cano",
-    "id": "1292259",
+    "name": ["Ruben Agustin Rodriguez Cano"],
+    "id": ["1292259"],
     "keywords": [],
     "position": ["Guest", "Associate professor"],
-    "img": "https://api.cristin.no/v2/persons/1292259/picture",
+    "img": ["https://api.cristin.no/v2/persons/1292259/picture"],
     "works": [
       {
         "type": "Poster",
@@ -108,163 +108,173 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Sleep quality as a mediator of the relation between depression and chronic pain: a systematic review and meta-analysis",
-        "journal": "British Journal of Anaesthesia",
-        "url": "https://api.cristin.no/v2/results/2196893"
+        "url": "https://api.cristin.no/v2/results/2196893",
+        "journal": "British Journal of Anaesthesia"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The prospective reciprocal associations between smoking and depressive symptoms over three decades: A Random Intercept Cross-lagged Panel Model",
-        "journal": "Tobacco Prevention & Cessation",
-        "url": "https://api.cristin.no/v2/results/2182426"
+        "url": "https://api.cristin.no/v2/results/2182426",
+        "journal": "Tobacco Prevention & Cessation"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Within-Person Prospective Associations Between Disordered Eating, Appearance Dissatisfaction, and Depressive Symptoms From Adolescence to Midlife: A 28-Year Longitudinal Population-Based Study",
-        "journal": "Journal of Psychopathology and Clinical Science",
-        "url": "https://api.cristin.no/v2/results/2181352"
+        "url": "https://api.cristin.no/v2/results/2181352",
+        "journal": "Journal of Psychopathology and Clinical Science"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Polysubstance use and its correlation with psychosocial and health risk behaviours among more than 95,000 Norwegian adolescents during the COVID-19 pandemic (January to May 2021): a latent profile analysis",
-        "journal": "The Lancet Regional Health - Europe",
-        "url": "https://api.cristin.no/v2/results/2133719"
+        "url": "https://api.cristin.no/v2/results/2133719",
+        "journal": "The Lancet Regional Health - Europe"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Body image concerns in long-term head and neck cancer survivors: prevalence and role of clinical factors and patient-reported late effects",
-        "journal": "Journal of cancer survivorship",
-        "url": "https://api.cristin.no/v2/results/2092338"
+        "url": "https://api.cristin.no/v2/results/2092338",
+        "journal": "Journal of cancer survivorship"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Prospective associations between loneliness and disordered eating from early adolescence to adulthood",
-        "journal": "International Journal of Eating Disorders",
-        "url": "https://api.cristin.no/v2/results/2046099"
+        "url": "https://api.cristin.no/v2/results/2046099",
+        "journal": "International Journal of Eating Disorders"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Worries About COVID-19 and Adolescents' Mental Health and Life Satisfaction: The Role of Sociodemographics and Social Support",
-        "journal": "Frontiers in pediatrics",
-        "url": "https://api.cristin.no/v2/results/2013245"
+        "url": "https://api.cristin.no/v2/results/2013245",
+        "journal": "Frontiers in pediatrics"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Adolescents’ psychosocial well-being one year after the outbreak of the COVID-19 pandemic in Norway",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/1988526"
+        "url": "https://api.cristin.no/v2/results/1988526",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Development and Validation of a Knowledge, Attitude and Practice Questionnaire on Antibiotic Use in Arabic and French Languages in Lebanon",
-        "journal": "International Journal of Environmental Research and Public Health (IJERPH)",
-        "url": "https://api.cristin.no/v2/results/1985560"
+        "url": "https://api.cristin.no/v2/results/1985560",
+        "journal": "International Journal of Environmental Research and Public Health (IJERPH)"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Validation of the arabic and French versions of a knowledge, attitudes and practices (KAP) questionnaire on tranquilizer misuse",
-        "journal": "International Journal of Environmental Research and Public Health (IJERPH)",
-        "url": "https://api.cristin.no/v2/results/1948031"
+        "url": "https://api.cristin.no/v2/results/1948031",
+        "journal": "International Journal of Environmental Research and Public Health (IJERPH)"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": " Treatment completion and anxiety sensitivity effects on smoking cessation outcomes",
-        "journal": "Addictive Behaviours",
-        "url": "https://api.cristin.no/v2/results/1936025"
+        "url": "https://api.cristin.no/v2/results/1936025",
+        "journal": "Addictive Behaviours"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Causes of smoking relapse in the 12 months after smoking cessation treatment: affective and cigarette dependence–related factors",
-        "journal": "Addictive Behaviours",
-        "url": "https://api.cristin.no/v2/results/1936015"
+        "url": "https://api.cristin.no/v2/results/1936015",
+        "journal": "Addictive Behaviours"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Development and validation of a knowledge, attitude and practice questionnaire of personal use of tranquilizers",
-        "journal": "Drug and Alcohol Dependence",
-        "url": "https://api.cristin.no/v2/results/1935986"
+        "url": "https://api.cristin.no/v2/results/1935986",
+        "journal": "Drug and Alcohol Dependence"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Emotion dysregulation and hazardous drinking in relation to suicidal ideation among Spanish-speaking Latinx daily-smokers",
-        "journal": "Journal of Substance Abuse Treatment",
-        "url": "https://api.cristin.no/v2/results/1935950"
+        "url": "https://api.cristin.no/v2/results/1935950",
+        "journal": "Journal of Substance Abuse Treatment"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Behavioral activation and smoking cessation outcomes: Role of depressive symptoms",
-        "journal": "Addictive Behaviours",
-        "url": "https://api.cristin.no/v2/results/1936052"
+        "url": "https://api.cristin.no/v2/results/1936052",
+        "journal": "Addictive Behaviours"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Environmental reward and depressive symptoms in the relationship between avoidance and cigarette dependence in treatment-seeking smokers",
-        "journal": "Psicothema",
-        "url": "https://api.cristin.no/v2/results/1936047"
+        "url": "https://api.cristin.no/v2/results/1936047",
+        "journal": "Psicothema"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "A multiple mediation model of trait worry and hazardous drinking among treatment-seeking smokers: The roles of coping and conformity drinking motives. ",
-        "journal": "Cognitive Behaviour Therapy",
-        "url": "https://api.cristin.no/v2/results/1936045"
+        "url": "https://api.cristin.no/v2/results/1936045",
+        "journal": "Cognitive Behaviour Therapy"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "The synergetic effect of alcohol consumption and cigarettes per day on smoking outcomes expectancies among Latinx adult smokers.  ",
-        "journal": "Journal of Ethnicity in Substance Abuse",
-        "url": "https://api.cristin.no/v2/results/1936039"
+        "url": "https://api.cristin.no/v2/results/1936039",
+        "journal": "Journal of Ethnicity in Substance Abuse"
       },
       {
         "type": "Academic literature review",
         "year": "2020",
         "title": "Mediational mechanisms involved in the relation between attachment insecurity and depression: A meta-analysis",
-        "journal": "Journal of Affective Disorders",
-        "url": "https://api.cristin.no/v2/results/1936032"
+        "url": "https://api.cristin.no/v2/results/1936032",
+        "journal": "Journal of Affective Disorders"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Design, Reliability and Construct Validity of a questionnaire on Knowledge, Attitude and Practice of the general population in relation to the personal use of antibiotics in Spain",
-        "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/1936030"
+        "url": "https://api.cristin.no/v2/results/1936030",
+        "journal": "Scientific Reports"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Acculturation stress and alcohol use among Latino recruited from a primary care clinic: Moderations by emotion dysregulation",
-        "journal": "American Journal of Orthopsychiatry",
-        "url": "https://api.cristin.no/v2/results/1937601"
+        "url": "https://api.cristin.no/v2/results/1937601",
+        "journal": "American Journal of Orthopsychiatry"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Cognitive-behavioral treatment with behavioral activation for smoking cessation: Randomized  controlled trial",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1937591"
+        "url": "https://api.cristin.no/v2/results/1937591",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2019",
         "title": "Effect of depressive symptoms and sex on the relationship between loneliness and cigarette  dependence: A moderated mediation.",
-        "journal": "Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/1937473"
+        "url": "https://api.cristin.no/v2/results/1937473",
+        "journal": "Journal of Psychology"
       }
     ]
+  },
+  "rg": {
+    "id": "Agustin-Rodriguez-4",
+    "name": "Agustin Rodríguez",
+    "img": "https://i1.rgstatic.net/ii/profile.image/649931614339073-1531967180534_Q128/Agustin-Rodriguez-4.jpg",
+    "affiliation": "University of Santiago Chile | USACH, University of Santiago Chile",
+    "keywords": ["Fog Computing"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

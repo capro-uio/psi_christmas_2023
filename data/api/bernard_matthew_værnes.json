@@ -2,11 +2,73 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Bernard Matthew Værnes",
-    "id": "1672945",
+    "name": ["Bernard Matthew Værnes"],
+    "id": ["1672945"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Makeda-Matthew-Bernard",
+    "name": "Makeda Matthew-Bernard",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "St Georges University, Department of Microbiology",
+    "keywords": ["Wastewater Analysis", "RNA Isolation", "PCR", "DNA Extraction", "Water Quality Analysis", "Food Microbiology and Safety"],
+    "works": [
+      {
+        "title": "Comparison of virus concentration methods for the reverse-transcriptase quantitative PCR (RT-qPCR)-based detection of bacteriophage Φ6, an enveloped virus surrogate for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA, from untreated wastewater at St. George’s University (SGU), Grenada",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Karla Farmer-Diaz", "Makeda Matthew-Bernard", "Maria E Ramos-Nino", "S Cheetham"],
+        "abstract": "Introduction/Objective\nWith the ongoing coronavirus disease 2019 (COVID-19) pandemic caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the consequent opening of borders, it is of paramount importance to monitor communities for the presence of potential COVID-19 clusters. Wastewater-based epidemiology (WBE) is an effect..."
+      },
+      {
+        "title": "Presence of Non-Faecal Coliform Bacteria in Potable Water in Tropical Grenada.",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Makeda Matthew-Bernard", "Allen M. Pensick", "Svetlana Kotelnikova"],
+        "abstract": "Clean drinking water is an essential component for the human health. It is important to ensure that the accessible water is free from chemical and bacteriological pollutions. The development of biofilms inside water distribution pipes facilitates the propagation of mixed microbial populations and is considered the main source of planktonic bacteria..."
+      },
+      {
+        "title": "Microbial Diversity and Antibiotic Resistance of Bacterial Isolates from Drinking Water in Grenada, West Indies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Jerika Brooks", "Hannah Burchette", "Alina Sanin", "Svetlana Kotelnikova"],
+        "abstract": "Introduction of resistant bacteria into the body can occur through drinking water and can contribute to the spread of resistant bacterial strains. The objective was to determine the phenotypic diversity and antibiotic resistance of bacterial species isolated from five drinking water distribution sites in True Blue Campus of St. George’s University..."
+      },
+      {
+        "title": "Variation of Ammonium in Coastal Water of Southeastern Grenada, West Indies",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Makeda Matthew-Bernard", "Sarah Tabin", "Samantha Jenkins", "Svetlana Kotelnikova"],
+        "abstract": "A lack of sustainable monitoring in marine protect areas was the original concern which shaped this research project (3). The eutrophication of the mangroves and extremely high concentrations of ammonium observed in surface water in Woburn Bay in 2015 were among the major concerns (1,2, 14, 15). Ammonium is known to be produced via ammonification i..."
+      },
+      {
+        "title": "Assessment of coastal water quality in Woburn Bay, Grenada West Indies, 12.0°N 61.6°W",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Nikisha Bartholomew", "Karla Farmer-Diaz", "Michael McCain", "Svetlana Kotelnikova"],
+        "abstract": "Poster presents results of data analysis of water quality in tropical water column focusing on dynamics of viable microbial counts, hydrogen sulfide, ammonium, biochemical oxygen demand, copper and iron based on the 18 weeks variation analysis performed during both dry and rainy periods in 2015 in coastal water of Grenada island in West Indies."
+      },
+      {
+        "title": "Potential Health Risks Associated with Bathing in A Tropical Bay in Grenada, West Indies.",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Karla Farmer-Diaz", "Nikisha Bartholomew", "Makeda Matthew-Bernard", "Svetlana Kotelnikova"],
+        "abstract": "Background: A novel study to establish a baseline water quality was performed at Woburn Clarke's Court Bay Marine Protected Area (WCCB MPA) in Grenada for eighteen weeks during the wet and dry period of 2015. This study was relevant to maintaining environmental health by tracking coastal water pollution sources. Pollution management influences over..."
+      },
+      {
+        "title": "Assessment of water quality in the Woburn Clarke's Court Bay Marine Protected Area (WCCB MPA) in Grenada, West Indies",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Karla Farmer-Diaz", "Javier Barranco", "Nariman Konjkavfard", "Svetlana Kotelnikova"],
+        "abstract": "Objective: The main goals was to document current water quality in marine protected area of Clarkes Court Bay and identify nature and sources of point and none-point pollution of mangrove and of the bay. Design & Methods: Five surface water sites in the WCCB MPA waterways and control sites were monitored during three six weeks periods between Febru..."
+      }
+    ],
+    "degree": [null],
+    "publications": [7],
+    "reads": [4350],
+    "citations": [8]
   }
 }

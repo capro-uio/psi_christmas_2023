@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Thomas Espeseth",
-    "id": "oWUkbO4AAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo, Norway",
+    "name": ["Thomas Espeseth"],
+    "id": ["oWUkbO4AAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo, Norway"],
     "data": {
       "publications": [
         {
@@ -1248,8 +1248,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-9076-6365",
-    "name": "Thomas Espeseth",
+    "orcid": ["0000-0001-9076-6365"],
+    "name": ["Thomas Espeseth"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1297,11 +1297,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Thomas Espeseth",
-    "id": "15234",
+    "name": ["Thomas Espeseth"],
+    "id": ["15234"],
     "keywords": [],
     "position": ["Professor", "Guest"],
-    "img": "https://api.cristin.no/v2/persons/15234/picture",
+    "img": ["https://api.cristin.no/v2/persons/15234/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -2000,5 +2000,719 @@
         "url": "https://api.cristin.no/v2/results/994188"
       }
     ]
+  },
+  "rg": {
+    "id": "Thomas-Espeseth",
+    "name": "Thomas Espeseth",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272343457071106-1441943148108_Q128/Thomas-Espeseth.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychology"],
+    "works": [
+      {
+        "title": "Beyond the Global Brain Differences: Intra-individual Variability Differences in 1q21.1 Distal and 15q11.2 BP1-BP2 Deletion Carriers",
+        "tags": ["Article"],
+        "date": "Sep 2023",
+        "authors": ["Rune Boen", "Tobias Kaufmann", "Dennis van der Meer", "Ida E. Sonderby"],
+        "abstract": ["Background: \nThe 1q21.1 distal and 15q11.2 BP1-BP2 CNVs exhibit regional and global brain differences compared to non-carriers. However, interpreting regional differences is challenging if a global difference drives the regional brain differences. Intra-individual variability measures can be used to test for regional differences beyond global diffe..."]
+      },
+      {
+        "title": "Considerations on brain age predictions from repeatedly sampled data across time",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Max Korbmacher", "Meng-Yun Wang", "Rune Eikeland", "Karsten Specht"],
+        "abstract": ["Introduction\nBrain age, the estimation of a person's age from magnetic resonance imaging (MRI) parameters, has been used as a general indicator of health. The marker requires however further validation for application in clinical contexts. Here, we show how brain age predictions perform for the same individual at various time points and validate ou..."]
+      },
+      {
+        "title": "Mental Effort in Elite and Nonelite Rowers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Henrik Herrebrøden", "Thomas Espeseth", "Laura Bishop"],
+        "abstract": ["Mental effort (intensity of attention) in elite sports has remained a debated topic and a challenging phenomenon to measure. Thus, a quasi-ecological laboratory study was conducted to investigate mental effort in elite rowers as compared with a group of nonelites. Findings suggest that eye-tracking measures-specifically, blink rates and pupil size-..."]
+      },
+      {
+        "title": "Baseline Pupil Size Seems Unrelated to Fluid Intelligence, Working Memory Capacity, and Attentional Control",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Veera Ruuskanen", "Thomas Hagen", "Thomas Espeseth", "Sebastiaan Mathôt"],
+        "abstract": ["Over the past few years, several studies have explored the relationship between resting-state baseline pupil size and cognitive abilities, including fluid intelligence, working memory capacity, and attentional control. However, the results have been inconsistent. Here we present the findings from two experiments designed to replicate and expand pre..."]
+      },
+      {
+        "title": "Cognitive load causes kinematic changes in both elite and non-elite rowers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Henrik Herrebrøden", "Alexander Refsum Jensenius", "Thomas Espeseth", "Jonna K. Vuoskoski"],
+        "abstract": ["The current motor literature suggests that extraneous cognitive load may affect performance and kinematics in a primary motor task. A common response to increased cognitive demand, as observed in past studies, might be to reduce movement complexity and revert to previously learned movement patterns, in line with the progression-regression hypothesi..."]
+      },
+      {
+        "title": "Image Memorability Prediction with Vision Transformers",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Thomas Hagen", "Thomas Espeseth"],
+        "abstract": ["Behavioral studies have shown that the memorability of images is similar across groups of people, suggesting that memorability is a function of the intrinsic properties of images, and is unrelated to people's individual experiences and traits. Deep learning networks can be trained on such properties and be used to predict memorability in new data s..."]
+      },
+      {
+        "title": "Dissociable Cellular and Genetic Mechanisms of Cortical Thinning at Different Life Stages",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Amirhossein Modabbernia", "Didac Vidal-Piñeiro", "Ingrid Agartz", "Sophia Frangou"],
+        "abstract": ["Mechanisms underpinning neurotypical age-related variations in cortical thickness in the human brain remain insufficiently specified. Here we used cell-specific marker genes, followed by gene ontology and enrichment analyses, to quantify the association between gene-expression levels and inter-regional age-related variations in neurotypical cortica..."]
+      },
+      {
+        "title": "Genetic variants associated with longitudinal changes in brain structure across the lifespan",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Rachel M Brouwer", "Marieke Klein", "Katrina Grasby", "Hilleke E. Hulshoff Pol"],
+        "abstract": ["Human brain structure changes throughout the lifespan. Altered brain growth or rates of decline are implicated in a vast range of psychiatric, developmental and neurodegenerative diseases. In this study, we identified common genetic variants that affect rates of brain growth or atrophy in what is, to our knowledge, the first genome-wide association..."]
+      },
+      {
+        "title": "Deep neural networks learn general and clinically relevant representations of the ageing brain",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Esten H. Leonardsen", "Han Peng", "Tobias Kaufmann", "Yunpeng Wang"],
+        "abstract": ["The discrepancy between chronological age and the apparent age of the brain based on neuroimaging data — the brain age delta — has emerged as a reliable marker of brain health. With an increasing wealth of data, approaches to tackle heterogeneity in data acquisition are vital. To this end, we compiled raw structural magnetic resonance images into o..."]
+      },
+      {
+        "title": "Dissociable Cellular and Genetic Mechanisms of Cortical Thinning at Different Life Stages",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Amirhossein Modabbernia", "Didac Vidal-Piñeiro", "Ingrid Agartz", "Sophia Frangou"],
+        "abstract": ["Mechanisms underpinning age-related variations in cortical thickness in the human brain remain poorly understood. We investigated whether inter-regional age-related variations in cortical thinning (in a multicohort neuroimaging dataset from the ENIGMA Lifespan Working Group totalling 14,248 individuals, aged 4-89 years) depended on cell-specific ma..."]
+      },
+      {
+        "title": "Subjective Socioeconomic Status, Cognitive Abilities, and Personal Control: Associations With Health Behaviours",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Pål Kraft", "Brage Kraft", "Thomas Hagen", "Thomas Espeseth"],
+        "abstract": ["Objective\nTo examine subjective and objective socioeconomic status (SSES and OSES, respectively) as predictors, cognitive abilities as confounders, and personal control perceptions as mediators of health behaviours.\n\nDesign\nA cross-sectional study including 197 participants aged 30–50 years, recruited from the crowd-working platform, Prolific.\n\nMai..."]
+      },
+      {
+        "title": "Effects of copy number variations on brain structure and risk for psychiatric illness: Large-scale studies from the ENIGMA working groups on CNVs",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Ida E Sønderby", "CRK Ching", "SI Thomopoulos", "ENIGMA Deletion Syndrome Working Group"],
+        "abstract": ["The Enhancing NeuroImaging Genetics through Meta-Analysis copy number variant (ENIGMA-CNV) and 22q11.2 Deletion Syndrome Working Groups (22q-ENIGMA WGs) were created to gain insight into the involvement of genetic factors in human brain development and related cognitive, psychiatric and behavioral manifestations. To that end, the ENIGMA-CNV WG has..."]
+      },
+      {
+        "title": "Deep neural networks learn general and clinically relevant representations of the ageing brain",
+        "tags": ["Preprint"],
+        "date": "Oct 2021",
+        "authors": ["Esten H Leonardsen", "Han Peng", "Tobias Kaufmann", "Yunpeng Wang"],
+        "abstract": ["The discrepancy between chronological age and the apparent age of the brain based on neuroimaging data - the brain age delta - has emerged as a reliable marker of brain health. With an increasing wealth of data, approaches to tackle heterogeneity in data acquisition are vital. To this end, we compiled raw structural magnetic resonance images into o..."]
+      },
+      {
+        "title": "A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Evalill Bølstad Karevold", "Sophie S Havighurst", "Christian K Tamnes", "Thomas Espeseth"],
+        "abstract": ["Adequate emotion regulation in children is crucial for healthy development and is influenced by parent emotion socialization. The current pilot study aimed to test, for the first time in a Scandinavian population, whether an emotion-focused intervention, Tuning in to Kids (TIK), had positive effects on parent emotion-related socialization behaviors..."]
+      },
+      {
+        "title": "Genetic control of variability in subcortical and intracranial volumes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Aldo Córdova-Palomera", "Dennis van der Meer", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["Sensitivity to external demands is essential for adaptation to dynamic environments, but comes at the cost of increased risk of adverse outcomes when facing poor environmental conditions. Here, we apply a novel methodology to perform genome-wide association analysis of mean and variance in ten key brain features (accumbens, amygdala, caudate, hippo..."]
+      },
+      {
+        "title": "Identification of pleiotropy at the gene level between psychiatric disorders and related traits",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Tatiana Polushina", "Niladri Banerjee", "Sudheer Giddaluru", "Stéphanie Le Hellard"],
+        "abstract": ["Major mental disorders are highly prevalent and make a substantial contribution to the global disease burden. It is known that mental disorders share clinical characteristics, and genome-wide association studies (GWASs) have recently provided evidence for shared genetic factors as well. Genetic overlaps are usually identified at the single-marker l..."]
+      },
+      {
+        "title": "Functional connectivity in multiple sclerosis modelled as connectome stability: A 5-year follow-up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Einar August Høgestøl", "Samuele Ghezzo", "Gro O Nygaard", "Dag Alnæs"],
+        "abstract": ["Background\nBrain functional connectivity (FC) in multiple sclerosis (MS) is abnormal compared to healthy controls (HCs). More longitudinal studies in MS are needed to evaluate whether FC stability is clinically relevant.\n\nObjective\nTo compare functional magnetic resonance imaging (fMRI)-based FC between MS and HC, and to determine the relationship..."]
+      },
+      {
+        "title": "Identifying nootropic drug targets via large-scale cognitive GWAS and transcriptomics",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Max Lam", "Chia-Yen Chen", "Tian Ge", "Todd Lencz"],
+        "abstract": ["Broad-based cognitive deficits are an enduring and disabling symptom for many patients with severe mental illness, and these impairments are inadequately addressed by current medications. While novel drug targets for schizophrenia and depression have emerged from recent large-scale genome-wide association studies (GWAS) of these psychiatric disorde..."]
+      },
+      {
+        "title": "1q21.1 distal copy number variants are associated with cerebral and cognitive alterations in humans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Ida E Sønderby", "Dennis van der Meer", "Clara A. Moreau", "Ole A. Andreassen"],
+        "abstract": ["Low-frequency 1q21.1 distal deletion and duplication copy number variant (CNV) carriers are predisposed to multiple neurodevelopmental disorders, including schizophrenia, autism and intellectual disability. Human carriers display a high prevalence of micro- and macrocephaly in deletion and duplication carriers, respectively. The underlying brain st..."]
+      },
+      {
+        "title": "Effects of copy number variations on brain structure and risk for psychiatric illness: Large‐scale studies from the ENIGMA working groups on CNVs",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Ida E Sønderby", "Christopher R. K. Ching", "Sophia I. Thomopoulos", "Ole A. Andreassen"],
+        "abstract": ["The Enhancing NeuroImaging Genetics through Meta‐Analysis copy number variant (ENIGMA‐CNV) and 22q11.2 Deletion Syndrome Working Groups (22q‐ENIGMA WGs) were created to gain insight into the involvement of genetic factors in human brain development and related cognitive, psychiatric and behavioral manifestations. To that end, the ENIGMA‐CNV WG has..."]
+      },
+      {
+        "title": "Cortical thickness across the lifespan: Data from 17,075 healthy individuals aged 3-90 years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Sophia Frangou", "Amirhossein Modabbernia", "Steven C R Williams", "Danai Dima"],
+        "abstract": ["Delineating the association of age and cortical thickness in healthy individuals is critical given the association of cortical thickness with cognition and behavior. Previous research has shown that robust estimates of the association between age and brain morphometry require large-scale studies. In response, we used cross-sectional data from 17,07..."]
+      },
+      {
+        "title": "Cortical thickness across the lifespan: Data from 17,075 healthy individuals aged 3–90 years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["S Frangou", "Amirhossein Modabbernia", "Steven C R Williams", "D Dima"],
+        "abstract": ["Delineating the association of age and cortical thickness in healthy individuals is critical given the association of cortical thickness with cognition and behavior. Previous research has shown that robust estimates of the association between age and brain morphometry require large‐scale studies. In response, we used cross‐sectional data from 17,07..."]
+      },
+      {
+        "title": "Subcortical volumes across the lifespan: Data from 18,605 healthy individuals aged 3-90 years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Danai Dima", "Amirhossein Modabbernia", "Efstathios (Steven) Papachristou", "Sophia Frangou"],
+        "abstract": ["Age has a major effect on brain volume. However, the normative studies available are constrained by small sample sizes, restricted age coverage and significant methodological variability. These limitations introduce inconsistencies and may obscure or distort the lifespan trajectories of brain morphometry. In response, we capitalized on the resource..."]
+      },
+      {
+        "title": "Subcortical volumes across the lifespan: Data from 18,605 healthy individuals aged 3-90 years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Danai Dima", "Amirhossein Modabbernia", "Efstathios (Steven) Papachristou", "Karolinska Schizophrenia Project (KaSP)"],
+        "abstract": ["Age has a major effect on brain volume. However, the normative studies available are constrained by small sample sizes, restricted age coverage and significant methodological variability. These limitations introduce inconsistencies and may obscure or distort the lifespan trajectories of brain morphometry. In response, we capitalized on the resource..."]
+      },
+      {
+        "title": "Development of attention networks from childhood to young adulthood: A study of performance, intraindividual variability and cortical thickness",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Rune Boen", "Lia Ferschmann", "Nandita Vijayakumar", "Christian K Tamnes"],
+        "abstract": ["Human cognitive development is manifold, with different functions developing at different speeds at different ages. Attention is an important domain of this cognitive development, and involves distinct developmental trajectories for separate functions, including conflict processing, selection of sensory input and alertness. In children, several stu..."]
+      },
+      {
+        "title": "1q21.1 distal copy number variants are associated with cerebral and cognitive alterations in humans",
+        "tags": ["Preprint"],
+        "date": "Jan 2021",
+        "authors": ["Ida E Sønderby", "Dennis van der Meer", "Clara A. Moreau", "for the p. European Consortium"],
+        "abstract": ["Low-frequency 1q21.1 distal deletion and duplication copy number variant (CNV) carriers are predisposed to multiple neurodevelopmental disorders including schizophrenia, autism and intellectual disability. Human carriers display a high prevalence of micro- and macrocephaly in deletion and duplication carriers, respectively. The underlying brain str..."]
+      },
+      {
+        "title": "Effects of copy number variations on brain structure and risk for psychiatric illness: Large-scale studies from the ENIGMA Working Groups on CNVs",
+        "tags": ["Preprint"],
+        "date": "Jan 2021",
+        "authors": ["Ida E Sønderby", "Christopher RK Ching", "Sophia I Thomopoulos", "Ole A Andreasssen"],
+        "abstract": ["The Enhancing Neuroimaging Genetics through Meta-Analysis copy number variant (ENIGMA-CNV) and 22q11.2 Deletion Syndrome Working Groups (22q-ENIGMA WGs) were created to gain insight into the involvement of genetic factors in human brain development and related cognitive, psychiatric and behavioral manifestations. To that end, the ENIGMA-CNV WG has..."]
+      },
+      {
+        "title": "Uncovering the locus coeruleus: Comparison of localization methods for functional analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Veronica Mäki-Marttunen", "Thomas Espeseth"],
+        "abstract": ["Functional neuroimaging of small brainstem structures in humans is gaining interest due to their potential importance in aging and many clinical conditions. Researchers have used different methods to measure activity in the locus coeruleus (LC), the main noradrenergic nucleus in the brain. However, the extent to which these different LC localizatio..."]
+      },
+      {
+        "title": "Brain scans from 21,297 individuals reveal the genetic architecture of hippocampal subfield volumes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Dennis van der Meer", "Jaroslav Rokicki", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["The hippocampus is a heterogeneous structure, comprising histologically distinguishable subfields. These subfields are differentially involved in memory consolidation, spatial navigation and pattern separation, complex functions often impaired in individuals with brain disorders characterized by reduced hippocampal volume, including Alzheimer’s dis..."]
+      },
+      {
+        "title": "Development of attention networks from childhood to young adulthood: A study of performance, intraindividual variability and cortical thickness",
+        "tags": ["Preprint"],
+        "date": "Oct 2020",
+        "authors": ["Rune Boen", "Lia Ferschmann", "Nandita Vijayakumar", "Christian K Tamnes"],
+        "abstract": ["Human cognitive development is manifold, with different functions developing at different speeds at different ages. Attention is an important domain of this cognitive development, and involves distinct developmental trajectories in separate functions, including conflict processing, selection of sensory input and alertness. In children, several stud..."]
+      },
+      {
+        "title": "The Effects of Cognitive Abilities and Task Demands on Tonic and Phasic Pupil Sizes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Samira Aminihajibashi", "Thomas Hagen", "Ole A Andreasssen", "Thomas Espeseth"],
+        "abstract": ["Previous studies on individual differences in pupil size of healthy individuals and their relation to performance have been inconclusive. Using a novel approach, we tested the effect of general cognitive abilities and level of task performance on pretrial baseline and task-evoked pupil (TEP) sizes (N = 116) while we manipulated the level of task de..."]
+      },
+      {
+        "title": "The genetic architecture of human brainstem structures and their involvement in common brain disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Torbjørn Elvsåshagen", "Shahram Bahrami", "Dennis van der Meer", "Tobias Kaufmann"],
+        "abstract": ["Brainstem regions support vital bodily functions, yet their genetic architectures and involvement in common brain disorders remain understudied. Here, using imaging-genetics data from a discovery sample of 27,034 individuals, we identify 45 brainstem-associated genetic loci, including the first linked to midbrain, pons, and medulla oblongata volume..."]
+      },
+      {
+        "title": "Pupillary and behavioral markers of alerting and orienting: An individual difference approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Samira Aminihajibashi", "Thomas Hagen", "Bruno Laeng", "Thomas Espeseth"],
+        "abstract": ["Measuring task-evoked pupillary (TEP) responses as an index of phasic activity in the locus coeruleus (LC), we examined two competing hypotheses regarding the alerting and orienting mechanisms of attention. According to a dual mechanism account (Fernandez-Duque & Posner, 1997), two separate noradrenergic and cholinergic mechanisms modulate, respect..."]
+      },
+      {
+        "title": "The role of norepinephrine in the pathophysiology of schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Veronica Mäki-Marttunen", "Ole A Andreasssen", "Thomas Espeseth"],
+        "abstract": ["Several lines of evidence have suggested for decades a role for norepinephrine (NE) in the pathophysiology and treatment of schizophrenia. Recent experimental findings reveal anatomical and physiological properties of the locus coeruleus-norepinephrine (LC-NE) system and its involvement in brain function and cognition. Here, we integrate these two..."]
+      },
+      {
+        "title": "Five years functional connectivity reorganization without clinical or cognitive decline in MS",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Einar August Høgestøl", "Samuele Ghezzo", "Gro O Nygaard", "Dag Alnæs"],
+        "abstract": ["Objective: 1) To assess fMRI-based functional connectivity (FC) anomalies in early multiple sclerosis (MS), 2) To determine the relation between FC changes and structural brain damage due to disease progression 3) To study the association between FC changes and cognitive and physical disability.\nMethods: Structural MRI and resting-state fMRI were a..."]
+      },
+      {
+        "title": "Uncovering the locus coeruleus: comparison of localization methods for functional analysis",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Veronica Maeki-Marttunen", "Thomas Espeseth"],
+        "abstract": ["Functional neuroimaging of small brainstem structures in humans is gaining increasing interest due to their potential importance in aging and many clinical conditions. Researchers have used different methods to measure activity in the locus coeruleus (LC), the main noradrenergic nucleus in the brain. However, the reliability of the different method..."]
+      },
+      {
+        "title": "Cortical Thickness Trajectories across the Lifespan: Data from 17,075 healthy individuals aged 3-90 years",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Sophia Frangou", "Amirhossein Modabbernia", "Gaelle Doucet", "Danai Dima"],
+        "abstract": ["Delineating age-related cortical trajectories in healthy individuals is critical given the association of cortical thickness with cognition and behaviour. Previous research has shown that deriving robust estimates of age-related brain morphometric changes requires large-scale studies. In response, we conducted a large-scale analysis of cortical thi..."]
+      },
+      {
+        "title": "Subcortical Volume Trajectories across the Lifespan: Data from 18,605 healthy individuals aged 3-90 years",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Danai Dima", "Efstathios (Steven) Papachristou", "Amirhossein Modabbernia", "Sophia Frangou"],
+        "abstract": ["Age has a major effect on brain volume. However, the normative studies available are constrained by small sample sizes, restricted age coverage and significant methodological variability. These limitations introduce inconsistencies and may obscure or distort the lifespan trajectories of brain morphometry. In response, we capitalised on the resource..."]
+      },
+      {
+        "title": "Dynamics of Brain Structure and its Genetic Architecture over the Lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Rachel M Brouwer", "Marieke Klein", "Katrina Grasby", "Hilleke E Hulshoff Pol"],
+        "abstract": ["Human brain structure changes throughout our lives. Altered brain growth or rates of decline are implicated in a vast range of psychiatric, developmental, and neurodegenerative diseases. While heritable, specific loci in the genome that influence these rates are largely unknown. Here, we sought to find common genetic variants that affect rates of b..."]
+      },
+      {
+        "title": "The genetic architecture of the human cerebral cortex",
+        "tags": ["Article"],
+        "date": "Mar 2020",
+        "authors": ["Katrina Grasby", "Neda Jahanshad", "Jodie Painter", "Sarah Medland"],
+        "abstract": []
+      },
+      {
+        "title": "Correction: Dose response of the 16p11.2 distal copy number variant on intracranial volume and basal ganglia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Ida E Sønderby", "Omar Gustafsson", "Nhat Trung Doan", "Ole A. Andreassen"],
+        "abstract": ["Prior to and following the publication of this article the authors noted that the complete list of authors was not included in the main article and was only present in Supplementary Table 1. The author list in the original article has now been updated to include all authors, and Supplementary Table 1 has been removed. All other supplementary files..."]
+      },
+      {
+        "title": "Identifying Nootropic Drug Targets via Large-Scale Cognitive GWAS and Transcriptomics",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Max Lam", "Chia-Yen Chen", "Xia Yan", "Todd Lencz"],
+        "abstract": ["Background\nCognitive traits demonstrate significant genetic correlations with many psychiatric disorders and other health-related traits. Many neuropsychiatric and neurodegenerative disorders are marked by cognitive deficits. Therefore, genome-wide association studies (GWAS) of general cognitive ability might suggest potential targets for nootropic..."]
+      },
+      {
+        "title": "Publisher Correction: Common brain disorders are associated with heritable patterns of apparent aging of the brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Tobias Kaufmann", "Dennis van der Meer", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["An amendment to this paper has been published and can be accessed via a link at the top of the paper."]
+      },
+      {
+        "title": "Genetic architecture of subcortical brain structures in 38,851 individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Claudia Satizabal", "Hieab Adams", "Derrek Hibar", "M. Arfan Ikram"],
+        "abstract": ["Subcortical brain structures are integral to motion, consciousness, emotions and learning. We identified common genetic variation related to the volumes of the nucleus accumbens, amygdala, brainstem, caudate nucleus, globus pallidus, putamen and thalamus, using genome-wide association analyses in almost 40,000 individuals from CHARGE, ENIGMA and UK..."]
+      },
+      {
+        "title": "Genetic architecture of subcortical brain structures in 38,851 individuals",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Claudia Satizabal", "HHH Adams", "Derrek Hibar", "MA Ikram"],
+        "abstract": ["Subcortical brain structures are integral to motion, consciousness, emotions and learning. We identified common genetic variation related to the volumes of the nucleus accumbens, amygdala, brainstem, caudate nucleus, globus pallidus, putamen and thalamus, using genome-wide association analyses in almost 40,000 individuals from CHARGE, ENIGMA and UK..."]
+      },
+      {
+        "title": "Association of Copy Number Variation of the 15q11.2 BP1-BP2 Region With Cortical and Subcortical Morphology and Cognition",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Dennis van der Meer", "Ida E Sønderby", "Tobias Kaufmann", "Ole A. Andreassen"],
+        "abstract": ["Importance\nRecurrent microdeletions and duplications in the genomic region 15q11.2 between breakpoints 1 (BP1) and 2 (BP2) are associated with neurodevelopmental disorders. These structural variants are present in 0.5% to 1.0% of the population, making 15q11.2 BP1-BP2 the site of the most prevalent known pathogenic copy number variation (CNV). It i..."]
+      },
+      {
+        "title": "The genetic architecture of human brainstem structures and their involvement in common brain disorders",
+        "tags": ["Preprint"],
+        "date": "Oct 2019",
+        "authors": ["Torbjørn Elvsåshagen", "Shahram Bahrami", "Dennis van der Meer", "Tobias Kaufmann"],
+        "abstract": ["Brainstem regions support critical bodily functions, yet their genetic architectures and involvement in brain disorders remain understudied. Here, we examined volumes of brainstem structures using magnetic resonance imaging in 43,353 individuals. In 27,034 genotyped healthy participants, we identified 16 genetic loci associated with whole brainstem..."]
+      },
+      {
+        "title": "The role of norepinephrine in the pathophysiology of schizophrenia",
+        "tags": ["Preprint"],
+        "date": "Oct 2019",
+        "authors": ["Veronica Mäki-Marttunen", "Ole A Andreasssen", "Thomas Espeseth"],
+        "abstract": ["Several lines of evidence suggest a role for norepinephrine (NE) in the pathophysiology of schizophrenia, and in pharmacological interventions. In the present paper, we review recent findings about the locus coeruleus-norepinephrine (LC-NE) system and its involvement in brain function and cognition to give a more integrated account of the possible..."]
+      },
+      {
+        "title": "Editorial: Cognitive and Brain Aging: Interventions to Promote Well-Being in Old Age",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Philip P. Foster", "Carryl L Baldwin", "James Campbell Thompson", "Pamela M Greenwood"],
+        "abstract": []
+      },
+      {
+        "title": "Common brain disorders are associated with heritable patterns of apparent aging of the brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Tobias Kaufmann", "Dennis van der Meer", "Nhat Trung Doan", "Lars T. Westlye"],
+        "abstract": ["Common risk factors for psychiatric and other brain disorders are likely to converge on biological pathways influencing the development and maintenance of brain structure and function across life. Using structural MRI data from 45,615 individuals aged 3–96 years, we demonstrate distinct patterns of apparent brain aging in several brain disorders an..."]
+      },
+      {
+        "title": "Associations Between Attention-Deficit/Hyperactivity Disorder and Various Eating Disorders: A Swedish Nationwide Population Study Using Multiple Genetically Informative Approaches",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Ralf Kuja-Halkola", "Joanna Martin", "Yi Lu", "Cynthia Bulik"],
+        "abstract": []
+      },
+      {
+        "title": "Distinct Neural Mechanisms Meet Challenges in Dynamic Visual Attention due to Either Load or Object Spacing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Veronica Mäki-Marttunen", "Thomas Hagen", "Bruno Laeng", "Thomas Espeseth"],
+        "abstract": ["When engaged in dynamic visuospatial tasks, the brain copes with perceptual and cognitive processing challenges. During multiple-object tracking (MOT), the number of objects to be tracked (i.e., load) imposes attentional demands, but so does spatial interference from irrelevant objects (i.e., close encounters). Presently, it is not clear whether th..."]
+      },
+      {
+        "title": "Proactive and reactive modes of cognitive control can operate independently and simultaneously",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Veronica Mäki-Marttunen", "T Hagen", "Thomas Espeseth"],
+        "abstract": ["Cognitive control enables optimal biasing of attention, perception, and actions in the service of mental or be-havioral goals. To understand the variability of applied cognitive control, we need to unravel the relation between two underlying mechanisms: proactive and reactive modes. During proactive cognitive control, goal-relevant information is s..."]
+      },
+      {
+        "title": "Pleiotropic Meta-Analysis of Cognition, Education, and Schizophrenia Differentiates Roles of Early Neurodevelopmental and Adult Synaptic Pathways",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Max Lam", "William David Hill", "Joey W. Trampush", "Todd Lencz"],
+        "abstract": ["Susceptibility to schizophrenia is inversely correlated with general cognitive ability at both the phenotypic and the genetic level. Paradoxically, a modest but consistent positive genetic correlation has been reported between schizophrenia and educational attainment, despite the strong positive genetic correlation between cognitive ability and edu..."]
+      },
+      {
+        "title": "Exploration of Shared Genetic Architecture Between Subcortical Brain Volumes and Anorexia Nervosa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2019",
+        "authors": ["Esther Walton", "D Hibar", "Zeynep Yilmaz", "G Breen"],
+        "abstract": ["In MRI scans of patients with anorexia nervosa (AN), reductions in brain volume are often apparent. However, it is unknown whether such brain abnormalities are influenced by genetic determinants that partially overlap with those underlying AN. Here, we used a battery of methods (LD score regression, genetic risk scores, sign test, SNP effect concor..."]
+      },
+      {
+        "title": "The Relationship Between Polygenic Risk Scores and Cognition in Schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Alexander Richards", "Antonio Fernández Pardiñas", "Aura Frizzati", "James T R Walters"],
+        "abstract": ["Background: \nCognitive impairment is a clinically important feature of schizophrenia. Polygenic risk score (PRS) methods have demonstrated genetic overlap between schizophrenia, bipolar disorder (BD), major depressive disorder (MDD), educational attainment (EA), and IQ, but very few studies have examined associations between these PRS and cognitive..."]
+      },
+      {
+        "title": "Study of 300,486 individuals identifies 148 independent genetic loci influencing general cognitive function",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Sven J van der Lee"],
+        "abstract": ["General cognitive function is a prominent and relatively stable human trait that is associated with many important life outcomes. We combine cognitive and genetic data from the CHARGE and COGENT consortia, and UK Biobank (total N = 300,486; age 16–102) and find 148 genome-wide significant independent loci (P < 5 × 10−8) associated with general cogn..."]
+      },
+      {
+        "title": "Individual differences in resting-state pupil size: Evidence for association between working memory capacity and pupil size variability",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Samira Aminihajibashi", "Thomas Hagen", "Maja Foldal", "Thomas Espeseth"],
+        "abstract": ["Dynamic non-luminance-mediated changes in pupil diameter have frequently been shown to be a reliable index for the level of arousal, mental effort, and activity in the locus coeruleus, the brainstem's noradrenergic arousal center. While pupillometry has most commonly been used to assess the level of arousal in particular psychological states or the..."]
+      },
+      {
+        "title": "Correction to: Task context load induces reactive cognitive control: An fMRI study on cortical and brain stem activity",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Veronica Mäki-Marttunen", "Thomas Hagen", "Thomas Espeseth"],
+        "abstract": ["The article Task context load induces reactive cognitive control"]
+      },
+      {
+        "title": "Pleiotropic Meta-Analysis of Cognition, Education, and Schizophrenia Differentiates Roles of Early Neurodevelopmental and Adult Synaptic Pathways",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Max Lam", "William David Hill", "Joey W. Trampush", "Todd Lencz"],
+        "abstract": ["Liability to schizophrenia is inversely correlated with general cognitive ability at both the phenotypic and genetic level. Paradoxically, a modest but consistent positive genetic correlation has been reported between schizophrenia and educational attainment, despite the strong positive genetic correlation between cognitive ability and educational..."]
+      },
+      {
+        "title": "Task context load induces reactive cognitive control: An fMRI study on cortical and brain stem activity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Veronica Mäki-Marttunen", "Thomas Hagen", "Thomas Espeseth"],
+        "abstract": ["Cognitive control is a highly dynamic process that relies on flexible engagement of prefrontal areas and neuromodulatory systems to adapt to changing demands. A range of internal and external factors come into \nplay when individuals engage in a task requiring cognitive control. Here we investigated whether increased working memory (WM) demands woul..."]
+      },
+      {
+        "title": "Unilateral neglect post stroke: Eye movement frequencies indicate directional hypokinesia while fixation distributions suggest compensational mechanism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Kjersti Mæhlum Walle", "Jan Egil Nordvik", "Frank Becker", "Bruno Laeng"],
+        "abstract": ["Introduction\nEye movements and spatial attention are closely related, and eye‐tracking can provide valuable information in research on visual attention. We investigated the pathology of overt attention in right hemisphere (RH) stroke patients differing in their severity of neglect symptoms by using eye‐tracking during a dynamic attention task.\n\nMet..."]
+      },
+      {
+        "title": "Distinct neural mechanisms meet challenges in dynamic visual attention due to either load or spatial interference",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Bruno Laeng", "Thomas Espeseth", "Thomas Hagen", "Veronica Mäki-Marttunen"],
+        "abstract": ["When solving dynamic visuo-spatial tasks, the brain copes with perceptual and cognitive processing challenges. In the multiple-object tracking (MOT) task, the number of objects to be tracked (i.e. load) imposes attentional demands, but so does spatial interference from irrelevant objects (i.e. crowding). Presently, it is not clear whether load and..."]
+      },
+      {
+        "title": "Multiple object tracking and pupillometry reveal deficits in both selective and intensive attention in unilateral spatial neglect",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["Kjersti Mæhlum Walle", "Jan Egil Nordvik", "Thomas Espeseth", "Bruno Laeng"],
+        "abstract": ["Introduction: Unilateral spatial neglect is typically associated with a spatial attention deficit, as neglect patients fail to respond to objects in their contralesional hemispace. However, growing evidence suggests that also nonspatial attention impairments (e.g., arousal) play a role and influences the recovery from this syndrome.\nMethod: Nonspat..."]
+      },
+      {
+        "title": "Genetic control of variability in subcortical and intracranial volumes",
+        "tags": ["Preprint"],
+        "date": "Oct 2018",
+        "authors": ["Aldo Cordova-Palomera", "Dennis van der Meer", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": ["Sensitivity to external demands is essential for adaptation to dynamic environments, but comes at the cost of increased risk of adverse outcomes when facing poor environmental conditions. Here, we apply a novel methodology to perform genome-wide association analysis of mean and variance in nine key brain features (accumbens, amygdala, caudate, hipp..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Oct 2018",
+        "authors": ["Dennis van der Meer", "Jaroslav Rokicki", "Tobias Kaufmann", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "The genetic architecture of the human cerebral cortex",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Katrina Grasby", "Neda Jahanshad", "Jodie N Painter", "Sarah E Medland"],
+        "abstract": ["The cerebral cortex underlies our complex cognitive capabilities, yet we know little about the specific genetic loci influencing human cortical structure. To identify genetic variants impacting cortical structure, we conducted a genome-wide association meta-analysis of brain MRI data from 35,660 individuals with replication in 15,578 individuals. W..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Sep 2018",
+        "authors": ["Thomas Hagen", "Thomas Espeseth", "Bruno Laeng"],
+        "abstract": ["Supplemental material for Chasing Animals With Split Attention: Are Animals Prioritized in Visual Tracking?"]
+      },
+      {
+        "title": "Chasing Animals With Split Attention: Are Animals Prioritized in Visual Tracking?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Thomas Hagen", "Thomas Espeseth", "Bruno Laeng"],
+        "abstract": ["Some evolutionary psychologists have hypothesized that animals have priority in human attention. That is, they should be detected and selected more efficiently than other types of objects, especially man-made ones. Such a priority mechanism should automatically deploy more attentional resources and dynamic monitoring toward animal stimuli than nona..."]
+      },
+      {
+        "title": "Analysis of shared heritability in common disorders of the brain.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Verneri Anttila", "Brendan Bulik-Sullivan", "Hilary K Finucane", "Benjamin M Neale"],
+        "abstract": ["Disorders of the brain can exhibit considerable epidemiological comorbidity and often share symptoms, provoking debate about their etiologic overlap. We quantified the genetic sharing of 25 brain disorders from genome-wide association studies of 265,218 patients and 784,643 control participants and assessed their relationship to 17 phenotypes from..."]
+      },
+      {
+        "title": "Multi-Trait Analysis of GWAS and Biological Insights Into Cognition: A Response to Hill (2018)",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Max Lam", "Joey W. Trampush", "Jin Yu", "Todd Lencz"],
+        "abstract": ["Hill (Twin Research and Human Genetics, Vol. 21, 2018, 84–88) presented a critique of our recently published paper in Cell Reports entitled ‘Large-Scale Cognitive GWAS Meta-Analysis Reveals Tissue-Specific Neural Expression and Potential Nootropic Drug Targets’ (Lam et al., Cell Reports , Vol. 21, 2017, 2597–2613). Specifically, Hill offered severa..."]
+      },
+      {
+        "title": "Ocular signatures of proactive versus reactive cognitive control in young adults",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Veronica Mäki-Marttunen", "Thomas Hagen", "Samira Aminihajibashi", "Thomas Espeseth"],
+        "abstract": ["During the execution of a cognitive task, the brain maintains contextual information to guide behavior and achieve desired goals. The AX-Continuous Performance Task is used to study proactive versus reactive cognitive control. Young adults tend to behave proactively in standard testing conditions. However, it remains unclear how interindividual var..."]
+      },
+      {
+        "title": "Genome-wide association meta-analysis in 269,867 individuals identifies new genetic and functional links to intelligence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Jeanne Savage", "Philip Jansen", "Sven Stringer", "Danielle Posthuma"],
+        "abstract": ["Intelligence is highly heritable 1 and a major determinant of human health and well-being 2 . Recent genome-wide meta-analyses have identified 24 genomic loci linked to variation in intelligence3-7, but much about its genetic underpinnings remains to be discovered. Here, we present a large-scale genetic association study of intelligence (n = 269,86..."]
+      },
+      {
+        "title": "Analysis of shared heritability in common disorders of the brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Verneri Anttila", "Brendan Bulik-Sullivan", "Hilary K. Finucane", "Benjamin M. Neale"],
+        "abstract": ["Brainstorming diseases\nConsistent classification of neuropsychiatric diseases is problematic because it can lead to misunderstanding of etiology. The Brainstorm Consortium examined multiple genome-wide association studies drawn from more than 200,000 patients for 25 brain-associated disorders and 17 phenotypes. Broadly, it appears that psychiatric..."]
+      },
+      {
+        "title": "Williams Syndrome neuroanatomical score associates with GTF2IRD1 in large-scale magnetic resonance imaging cohorts: A proof of concept for multivariate endophenotypes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Chun Chieh Fan", "Andrew Schork", "Timothy T. Brown", "Eric Halgren"],
+        "abstract": ["Despite great interest in using magnetic resonance imaging (MRI) for studying the effects of genes on brain structure in humans, current approaches have focused almost entirely on predefined regions of interest and had limited success. Here, we used multivariate methods to define a single neuroanatomical score of how William’s Syndrome (WS) brains..."]
+      },
+      {
+        "title": "Supplementary Material 1",
+        "tags": ["Data"],
+        "date": "Jun 2018",
+        "authors": ["Chun Chieh Fan", "Andrew Schork", "Timothy T. Brown", "Eric Halgren"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Jun 2018",
+        "authors": ["Chun Chieh Fan", "Andrew Schork", "Timothy T. Brown", "Eric Halgren"],
+        "abstract": []
+      },
+      {
+        "title": "Study of 300,486 individuals identifies 148 independent genetic loci influencing general cognitive function",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": ["General cognitive function is a prominent and relatively stable human trait that is associated with many important life outcomes. We combine cognitive and genetic data from the CHARGE and COGENT consortia, and UK Biobank (total N = 300,486; age 16-102) and find 148 genome-wide significant independent loci (P < 5 × 10-8) associated with general cogn..."]
+      },
+      {
+        "title": "Supplementary Material 6",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 3",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 10",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 19",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 1",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 4",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 5",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 7",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 8",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 9",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 14",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 17",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 11",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 13",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 16",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 23",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 12",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 15",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 18",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 20",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 21",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Gail Davies", "Max Lam", "Sarah E Harris", "Ian Deary"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Ph.D."],
+    "bio": [],
+    "publications": [246],
+    "reads": [65535],
+    "citations": [14954]
   }
 }

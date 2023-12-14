@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Anne-Kristin Solbakk",
-    "id": "1APL0gQAAAAJ",
-    "affiliation": "Professor University of Oslo",
+    "name": ["Anne-Kristin Solbakk"],
+    "id": ["1APL0gQAAAAJ"],
+    "affiliation": ["Professor University of Oslo"],
     "data": {
       "publications": [
         {
@@ -899,8 +899,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-9486-5440",
-    "name": "Anne-Kristin Solbakk",
+    "orcid": ["0000-0001-9486-5440"],
+    "name": ["Anne-Kristin Solbakk"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -964,8 +964,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anne-Kristin Solbakk",
-    "id": "23509",
+    "name": ["Anne-Kristin Solbakk"],
+    "id": ["23509"],
     "keywords": ["Neuropsychology", "Brain damages", "Psychophysiology"],
     "position": ["Professor", null, null],
     "img": {},
@@ -1627,5 +1627,14 @@
         "url": "https://api.cristin.no/v2/results/1015366"
       }
     ]
+  },
+  "rg": {
+    "id": "Anne-Kristin",
+    "name": "Anne Kristin",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University Hospital München, Department of Psychiatry",
+    "keywords": ["Psychological Assessment", "Clinical Neuropsychology", "Psychological Testing"],
+    "works": [],
+    "degree": [null]
   }
 }

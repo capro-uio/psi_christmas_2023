@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Marie Lorentsen Strømstad",
-    "id": "999971",
+    "name": ["Marie Lorentsen Strømstad"],
+    "id": ["999971"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -37,5 +37,15 @@
         "url": "https://api.cristin.no/v2/results/1804034"
       }
     ]
+  },
+  "rg": {
+    "id": "Julie-Lorentsen",
+    "name": "Julie Marie Lorentsen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/845741488631810-1578651892670_Q128/Julie-Lorentsen.jpg",
+    "affiliation": "University of Bergen | UiB, University of Bergen, Department of Linguistic Literary and Aesthetic studies",
+    "keywords": ["Cognitive Linguistics", "Norwegian language"],
+    "works": [],
+    "degree": ["Master", "of", "Arts"],
+    "bio": []
   }
 }

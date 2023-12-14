@@ -2,11 +2,46 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Maren Kristin Nysæter",
-    "id": "1623188",
+    "name": ["Maren Kristin Nysæter"],
+    "id": ["1623188"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Halvorsen-Maren-Kristin",
+    "name": "Halvorsen Maren-Kristin",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Bergen kommune",
+    "keywords": ["Child Health", "Infant Nutrition"],
+    "works": [
+      {
+        "title": "Ammeveiledningsboken i norsk språkdrakt",
+        "tags": ["Article"],
+        "date": "Aug 2017",
+        "authors": ["Halvorsen Maren-Kristin"],
+        "abstract": []
+      },
+      {
+        "title": "Breastfeeding surveyed using routine data",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2015",
+        "authors": ["Halvorsen Maren-Kristin", "Eva Langeland", "Grethe Almenning", "Ragnhild Sollesnes"],
+        "abstract": ["Background: \nThe purpose of this study was to investigate breastfeeding as a health indicator through routine data registered at public child health centres. The prevalence and course of breastfeeding were surveyed, as well as factors that affect breastfeeding.\n\nMaterial and method: \nBreastfeeding status at six weeks and six months of age and other..."]
+      },
+      {
+        "title": "Amming kartlagt ved rutinedata",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Halvorsen Maren-Kristin", "Eva Langeland", "G. Almenning", "Ragnhild Sollesnes"],
+        "abstract": []
+      }
+    ],
+    "degree": ["MS"],
+    "bio": [],
+    "publications": [3],
+    "reads": [235],
+    "citations": [10]
   }
 }

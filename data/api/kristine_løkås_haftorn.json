@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2152-1839",
-    "name": "Kristine Løkås Haftorn",
+    "orcid": ["0000-0002-2152-1839"],
+    "name": ["Kristine Løkås Haftorn"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -48,8 +48,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Kristine Løkås Haftorn",
-    "id": "1005355",
+    "name": ["Kristine Løkås Haftorn"],
+    "id": ["1005355"],
     "keywords": [],
     "position": ["Researcher", "Research fellow"],
     "img": {},
@@ -76,29 +76,29 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Stability selection enhances feature selection and enables accurate prediction of gestational age using only five DNA methylation sites",
-        "journal": "Clinical Epigenetics",
-        "url": "https://api.cristin.no/v2/results/2162463"
+        "url": "https://api.cristin.no/v2/results/2162463",
+        "journal": "Clinical Epigenetics"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The X-factor in ART: does the use of assisted reproductive technologies influence DNA methylation on the X chromosome?",
-        "journal": "Human Genomics",
-        "url": "https://api.cristin.no/v2/results/2147809"
+        "url": "https://api.cristin.no/v2/results/2147809",
+        "journal": "Human Genomics"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Nucleated red blood cells explain most of the association between DNA methylation and gestational age",
-        "journal": "Communications Biology",
-        "url": "https://api.cristin.no/v2/results/2130785"
+        "url": "https://api.cristin.no/v2/results/2130785",
+        "journal": "Communications Biology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The X-factor in ART: does the use of Assisted Reproductive Technologies influence DNA methylation on the X chromosome?",
-        "journal": "bioRxiv",
-        "url": "https://api.cristin.no/v2/results/2101009"
+        "url": "https://api.cristin.no/v2/results/2101009",
+        "journal": "bioRxiv"
       },
       {
         "type": "Academic lecture",
@@ -116,30 +116,51 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Longitudinal associations of DNA methylation and sleep in children: a meta-analysis",
-        "journal": "Clinical Epigenetics",
-        "url": "https://api.cristin.no/v2/results/2055789"
+        "url": "https://api.cristin.no/v2/results/2055789",
+        "journal": "Clinical Epigenetics"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "DNA methylation in newborns conceived by assisted reproductive technology",
-        "journal": "Nature Communications",
-        "url": "https://api.cristin.no/v2/results/2021043"
+        "url": "https://api.cristin.no/v2/results/2021043",
+        "journal": "Nature Communications"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "An EPIC predictor of gestational age and its application to newborns conceived by assisted reproductive technologies",
-        "journal": "Clinical Epigenetics",
-        "url": "https://api.cristin.no/v2/results/1930710"
+        "url": "https://api.cristin.no/v2/results/1930710",
+        "journal": "Clinical Epigenetics"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Blood-based epigenetic estimators of chronological age in human adults using DNA methylation data from the Illumina MethylationEPIC array",
-        "journal": "BMC Genomics",
-        "url": "https://api.cristin.no/v2/results/1861522"
+        "url": "https://api.cristin.no/v2/results/1861522",
+        "journal": "BMC Genomics"
       }
     ]
+  },
+  "rg": {
+    "id": "Kristine-Jacobsen-2",
+    "name": "Kristine Løkås Jacobsen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Biosciences",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Interferon gamma may improve cardiac function in Friedreich's ataxia cardiomyopathy",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Vegard Bruun Wyller", "Kristine Løkås Jacobsen", "Mai Britt Dahl", "Henrik Brun"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [42],
+    "citations": [8]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0005-9659-525X",
-    "name": "Ralph Porneso",
+    "orcid": ["0009-0005-9659-525X"],
+    "name": ["Ralph Porneso"],
     "distinctions": [],
     "education": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "start": "2021",
-        "end": "2022",
         "position": "Docent, Asst. Researcher in Biomedical Statistics",
         "organisation": "Vrije Universiteit Amsterdam",
-        "country": "NL"
+        "country": "NL",
+        "end": "2022"
       }
     ],
     "employment": [
@@ -28,10 +28,10 @@
       },
       {
         "start": "2021",
-        "end": "2022",
         "position": "Docent, Asst. Researcher in Biomedical Statistics",
         "organisation": "Vrije Universiteit Amsterdam",
-        "country": "NL"
+        "country": "NL",
+        "end": "2022"
       }
     ],
     "membership": [],
@@ -46,8 +46,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ralph Pascual Ortiz Porneso",
-    "id": "1632562",
+    "name": ["Ralph Pascual Ortiz Porneso"],
+    "id": ["1632562"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -60,5 +60,15 @@
         "url": "https://api.cristin.no/v2/results/2186923"
       }
     ]
+  },
+  "rg": {
+    "id": "Ralph_Pascual2",
+    "name": "Ralph Pascual",
+    "img": "https://i1.rgstatic.net/ii/profile.image/650837399437313-1532183136646_Q128/Ralph_Pascual2.jpg",
+    "affiliation": "Walden University, School of Counselling and Social Service",
+    "keywords": ["Teaching and Learning", "Pedagogy and Education", "Teaching"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

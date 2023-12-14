@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-2382-2114",
-    "name": "Guri Sogn Andersen",
+    "orcid": ["0000-0003-2382-2114"],
+    "name": ["Guri Sogn Andersen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -50,11 +50,389 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Even Sogn Andersen",
-    "id": "428751",
+    "name": ["Even Sogn Andersen"],
+    "id": ["428751"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Guri-Sogn-Andersen",
+    "name": "Guri Sogn Andersen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272437464006686-1441965561453_Q128/Guri-Sogn-Andersen.jpg",
+    "affiliation": "Norwegian Institute for Water Research | NIVA, Norwegian Institute for Water Research",
+    "keywords": ["R Programming", "Statistics", "Marine Biology", "Marine Ecology", "Ecology", "Marine Biodiversity", "Marine Environment", "Coastal Ecology", "Biodiversity", "Aquatic Ecology"],
+    "works": [
+      {
+        "title": "Hovedveileder for feltbasert kartlegging. Terrestrisk, limnisk og marin naturvariasjon etter NiN (3.0)",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Anders Bryn", "Guri Sogn Andersen", "Trine Bekkby", "Peggy Zinke"],
+        "abstract": ["Beskriver feltbasert kartlegging av naturtyper i Norge etter NiN versjon 3. \n\nDescribing field-based mapping of ecosystem types in Norway, following the EcoSyst approach publihed by Halvorsen et al. (2020)."]
+      },
+      {
+        "title": "Hanging gardens - comparing fauna communities in kelp farms and wild kelp forests",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Trine Bekkby", "Ragnhild Ryther Grimm Torstensen", "Lars A. Grünfeld", "Kasper Hancke"],
+        "abstract": ["Hanging gardens - comparing fauna communities in kelp farms and wild kelp forests.\n\nhttps://iss2023.net/2022/08/22/hanging-gardens-do-floating-kelp-farm-communities-resemble-natural-kelp-forests/\n\nListen to the presentation on YouTube: https://www.youtube.com/watch?v=rhl4qiqncFU"]
+      },
+      {
+        "title": "HangingGardensData_SpeciesAbundanceListApril2019.xlsx",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Trine Bekkby", "Ragnhild Ryther Grimm Torstensen", "Lars A. Grünfeld", "Kasper Hancke"],
+        "abstract": []
+      },
+      {
+        "title": "Hanging gardens Supplement Table 1.docx",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Trine Bekkby", "Ragnhild Ryther Grimm Torstensen", "Lars A. Grünfeld", "Kasper Hancke"],
+        "abstract": []
+      },
+      {
+        "title": "Hanging gardens Supplement Table 2.docx",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Trine Bekkby", "Ragnhild Ryther Grimm Torstensen", "Lars A. Grünfeld", "Kasper Hancke"],
+        "abstract": []
+      },
+      {
+        "title": "HangingGardensData_FaunaWeightAllApril2019.xlsx",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Trine Bekkby", "Ragnhild Ryther Grimm Torstensen", "Lars A. Grünfeld", "Kasper Hancke"],
+        "abstract": []
+      },
+      {
+        "title": "\"Hanging gardens\" - comparing fauna communities in kelp farms and wild kelp forests",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Trine Bekkby", "Ragnhild Ryther Grimm Torstensen", "Lars Andreas Holm Grünfeld", "Kasper Hancke"],
+        "abstract": ["A growing need for food is causing increased interest for seaweed farming globally. This requires knowledge of the industry’s effects on the marine environment. We therefore aimed to explore the communities hosted by a kelp farm compared to that of wild kelp forests. The study was performed in mid-western Norway. Kelp associated fauna were collecte..."]
+      },
+      {
+        "title": "Three decades of change in the Skagerrak coastal ecosystem, shaped by eutrophication and coastal darkening",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Helene Frigstad", "Guri Sogn Andersen", "Hilde Trannum", "Dag Øystein Hjermann"],
+        "abstract": ["Global coastal ecosystems are under accelerating pressure from human activities and climate change. In this study we explore a long-term time series (mostly 1990–2016) from major Norwegian rivers, together with coastal time series from the Norwegian Skagerrak coast. The aims are to: 1) analyse long-term trends in riverine loadings to Skagerrak, cha..."]
+      },
+      {
+        "title": "Hanging gardens - do floating kelp farm communities resemble natural kelp forests?",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Trine Bekkby", "Ragnhild Ryther Grimm Torstensen", "Lars Grünfeld", "Kasper Hancke"],
+        "abstract": ["Talk at the Annual meeting of the Norwegian Association of Marine Scientists, 22-23.11.2022, Asker, Norway"]
+      },
+      {
+        "title": "How to succeed in habitat restoration – linking restoration success to habitat characteristics, environmental conditions, pressures and restoration method",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Trine Bekkby", "Guri Sogn Andersen", "Hazel Thornton", "Nadia Papadopoulou"],
+        "abstract": ["Talk at the Annual meeting of the Norwegian Association of Marine Scientists, 22-23.11.2022, Asker, Norway"]
+      },
+      {
+        "title": "Kelp Forest Distribution in the Nordic Region",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Kristina Øie Kvile", "Guri Sogn Andersen", "Susanne P Baden", "Hege Gundersen"],
+        "abstract": ["Kelp forests are productive coastal ecosystems that provide a range of ecosystem services. Mapping the distribution and area occupied by kelp forests is a critical step to identify their ecosystem functions and services, including their role in the carbon cycle, and to detect changes in their distribution. We compiled quantitative data of the domin..."]
+      },
+      {
+        "title": "Det Nordiske Blått karbon-prosjektet",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Hege Gundersen", "Kasper Hancke", "Gunhild Borgersen", "Helene Frigstad"],
+        "abstract": []
+      },
+      {
+        "title": "Det Nordiske blått karbonbudsjettet",
+        "tags": ["Presentation"],
+        "date": "Feb 2022",
+        "authors": ["Kasper Hancke", "Hege Gundersen", "Gunhild Borgersen", "Helene Frigstad"],
+        "abstract": []
+      },
+      {
+        "title": "Macrophytes as habitat for fish",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["H. Christie", "Guri Sogn Andersen", "Lise Tveiten", "Frithjof E Moy"],
+        "abstract": ["As different macrophyte habitats house different distributions of invertebrates, we questioned if differences in the composition of fish in these habitats also could be identified. Additionally, we addressed the question if the fish communities could be affected a few years after sugar kelp beds had shifted to degraded turf habitats. Gill-nets of d..."]
+      },
+      {
+        "title": "New insights into submarine tailing disposal for a reduced environmental footprint: Lessons learnt from Norwegian fjords",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Eva Ramirez-Llodra", "Hilde Trannum", "Guri Sogn Andersen", "Per Helge Høgaas"],
+        "abstract": ["Submarine tailing disposal (STD) in fjords from land-based mines is common practice in Norway and takes place in other regions worldwide. We synthesize the results of a multidisciplinary programme on environmental impacts of STDs in Norwegian fjords, providing new knowledge that can be applied to assess and mitigate impact of tailing disposal globa..."]
+      },
+      {
+        "title": "Kartlegging av et utvalg marine naturtyper i Oslofjorden",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["E. Rinde", "Trine Bekkby", "Kristina Øie Kvile", "Lise Tveiten"],
+        "abstract": ["The aim was to acquire knowledge about a selection of marine habitats in the Oslofjord, while also\ngaining practical experience with the NiN habitat classification system as a tool to meet the needs of\nmanagement authorities. We also wanted to gain knowledge about changes in habitats previously\nmapped by the National Program for Mapping Biodiversit..."]
+      },
+      {
+        "title": "From data to decision making: assessing the benefits of restoring marine ecosystems",
+        "tags": ["Presentation"],
+        "date": "Jun 2021",
+        "authors": ["Hazel Thornton", "Chris Mcowen", "Trine Bekkby", "Guri Sogn Andersen"],
+        "abstract": ["Talk at the Society for Ecological Restoration SER21 World Conference 21-24.06.2021"]
+      },
+      {
+        "title": "Kartlegging av et utvalg marine naturtyper i Oslofjorden",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["E. Rinde", "Trine Bekkby", "Kristina Øie Kvile", "Lise Tveiten"],
+        "abstract": ["Formålet med prosjektet har vært å skaffe kunnskap om et utvalg marine naturtyper i Oslofjorden, og samtidig skaffe praktisk erfaring med NiN-systemet som verktøy for å dekke miljøforvaltningens behov. Gjennom feltkartlegging har vi skaffet kunnskap om endringer i naturtyper som er kartlagt tidligere i Nasjonalt program for kartlegging av biologisk..."]
+      },
+      {
+        "title": "COASTFRAG – Impact of habitat fragmentation and loss on coastal ecosystems and implications for sustainable management under climate change. Presentation at the NIVA lunch seminar 10.02.2021.",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Trine Bekkby", "Michael Burrows", "Emma Cebrian", "E. Rinde"],
+        "abstract": []
+      },
+      {
+        "title": "COASTFRAG – Effekter av fragmentering og tap av habitater på økosystemer i kystsonen og betydningen for bærekraftig forvaltning i en verden i endring. Presentasjon for Miljødirektoratet",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Trine Bekkby", "Michael Burrows", "Emma Cebrian", "E. Rinde"],
+        "abstract": []
+      },
+      {
+        "title": "Kartlegging av et utvalg marine naturtyper i Oslofjorden",
+        "tags": ["Book", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["E. Rinde", "Trine Bekkby", "Kristina Øie Kvile", "Lise Tveiten"],
+        "abstract": ["The aim was to acquire knowledge about a selection of marine habitats in the Oslofjord, while also gaining practical experience with the NiN habitat classification system as a tool to meet the needs of management authorities. We also wanted to gain knowledge about changes in habitats previously mapped by the National Program for Mapping Biodiversit..."]
+      },
+      {
+        "title": "Blue Carbon – climate adaptation, CO2 uptake and sequestration of carbon in Nordic blue forests – Results from the Nordic Blue Carbon Project",
+        "tags": ["Book", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Helene Frigstad", "Hege Gundersen", "Guri Sogn Andersen", "Kasper Hancke"],
+        "abstract": ["This report presents the main findings of the Nordic Blue Carbon Project (2017–2020) on the areal distribution and carbon budget of blue forests (kelp forests, seagrass meadows and rockweed beds) in the Nordic region. We have identified the main ecosystem effects of climate change and other human pressures on Nordic blue forests, tested the effect..."]
+      },
+      {
+        "title": "How to succeed in habitat restoration -linking restoration success to habitat characteristics, regional variations, pressures and restoration method -with some case study examples from Norway",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Trine Bekkby", "Guri Sogn Andersen", "E. Rinde", "Nadia Papadopoulou"],
+        "abstract": ["Global change and anthropogenic pressures have a major impact on ecosystems, leading to degradation of ecosystem functioning and service and loss of biodiversity. To slow down or stop the degradation within European seas, the EU Biodiversity Strategy 2020 aims to restore at least 15% of degraded ecosystems by the end of 2020. Marine ecosystems rest..."]
+      },
+      {
+        "title": "The Nordic Blue Carbon Project: Distribution mapping of Blue Carbon habitats",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Hege Gundersen", "Guri Sogn Andersen", "Kristina Øie Kvile"],
+        "abstract": []
+      },
+      {
+        "title": "The Nordic Blue Carbon Project: Updates on the marine carbon cycle and estimates of an overall budget for carbon capture, export and storage in Nordic blue forests",
+        "tags": ["Presentation"],
+        "date": "Oct 2020",
+        "authors": ["Kasper Hancke", "Hege Gundersen", "Gunhild Borgersen", "Guri Sogn Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Habitat Features and Their Influence on the Restoration Potential of Marine Habitats in Europe",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Trine Bekkby", "Nadia Papadopoulou", "Dario Fiorentino", "Christopher J Smith"],
+        "abstract": ["To understand the restoration potential of degraded habitats, it is important to know the key processes and habitat features that allow for recovery after disturbance. As part of the EU (Horizon 2020) funded MERCES project, a group of European experts compiled and assessed current knowledge, from both past and ongoing restoration efforts, within th..."]
+      },
+      {
+        "title": "Distribution and biomass of blue forests in the Nordic countries",
+        "tags": ["Presentation"],
+        "date": "Nov 2019",
+        "authors": ["Hege Gundersen", "Guri Sogn Andersen", "Trine Bekkby", "E. Rinde"],
+        "abstract": []
+      },
+      {
+        "title": "WP2: Fieldwork carbon export and sequestration Final workshop for the Nordic Blue Carbon project 21-22 November 2019, Helsfyr, Oslo",
+        "tags": ["Presentation"],
+        "date": "Nov 2019",
+        "authors": ["Kasper Hancke", "Gunhild Borgersen", "Marc Anglès d'Auriac", "Helene Frigstad"],
+        "abstract": ["Dedicated fieldwork to quantify missing key values in the Nordic carbon cycle, with significance for carbon storage in the Nordic kelp forest."]
+      },
+      {
+        "title": "Guidelines and best available techniques for submarine tailings disposal in Norwegian fjords: Recommendations from the NYKOS project",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Eva Ramirez-Llodra", "Guri Sogn Andersen", "Trine Bekkby", "Roar Sandøy"],
+        "abstract": ["NIVA report 7430-2019"]
+      },
+      {
+        "title": "Presenting the model framework for assessing the recovery potential for different habitats and ecosystem service restoration success and the plan for a webinar on new restoration methods and best practices (MERCES WP 5)",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Trine Bekkby", "Guri Sogn Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "Phasing in use of the “Nature in Norway” (NiN) system for classification and description of nature in the marine environment – experiences, challenges and international relevance",
+        "tags": ["Conference Paper"],
+        "date": "May 2019",
+        "authors": ["Margaret F.J. Dolan", "Trine Bekkby", "Pål Buhl-Mortensen", "Rune Halvorsen"],
+        "abstract": []
+      },
+      {
+        "title": "GIS mapping of soft bottom benthos.",
+        "tags": ["Presentation"],
+        "date": "Mar 2019",
+        "authors": ["Hege Gundersen", "Guri Sogn Andersen", "Trine Bekkby"],
+        "abstract": []
+      },
+      {
+        "title": "Feltveileder for kartlegging av marin naturvariasjon etter NiN (2.2.0)",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Guri Sogn Andersen", "Trine Bekkby", "Margaret F.J. Dolan", "Anders Bryn"],
+        "abstract": ["In Norwegian only: Veilederens hovedformål er å bidra til at resultatene av praktisk kartlegging i sjø i henhold til NiNs type og beskrivelsessystem blir så gode som mulig og sammenlignbare på tvers av kartleggere. Dette innebærer å beskrive hvordan, og i hvilken grad, den observerte naturvariasjonen bør forenkles under kartlegging. Veilederen skal..."]
+      },
+      {
+        "title": "Coastal ecosystem response to changing riverine loads – A Norwegian case-study",
+        "tags": ["Presentation"],
+        "date": "Feb 2019",
+        "authors": ["Helene Frigstad", "Guri Sogn Andersen", "Hilde Trannum", "Dag Øystein Hjermann"],
+        "abstract": []
+      },
+      {
+        "title": "In a squeeze: Epibiosis may affect the distribution of kelp forests",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Guri Sogn Andersen", "Frithjof E Moy", "H. Christie"],
+        "abstract": ["The processes limiting the population recovery of the kelp Saccharina latissima after recent large‐scale loss from the south coast of Norway are poorly understood. Previous investigations do, however, suggest that the impacts of biotic interactions (epibiosis and competition) and increased water turbidity are important. We investigated the depth‐re..."]
+      },
+      {
+        "title": "Klima-overblikk: Sammenstilling av klimarelevante resultater fra utvalgte overvåkingsprogram i kystsonen",
+        "tags": ["Presentation"],
+        "date": "Feb 2019",
+        "authors": ["Guri Sogn Andersen", "Hilde Trannum", "Lars Naustvoll", "Dag Øystein Hjermann"],
+        "abstract": []
+      },
+      {
+        "title": "Shifts between sugar kelp and turf algae in Norway: regime shifts or flips between different opportunistic seaweed species?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["H. Christie", "Guri Sogn Andersen", "Trine Bekkby", "E. Rinde"],
+        "abstract": ["Around year 2000, sugar kelp (Saccharina latissima) forests were observed to disappear in southern parts of Norway, being replaced by mats of turf algae (i.e. filamentous ephemeral algae) loaded with sediments. About 80% of the observed stations on the Skagerrak coast and about 40% on the North Sea coast were affected. Various types of turf algae r..."]
+      },
+      {
+        "title": "Added values from the large-scale and long-lasting program for mapping marine habitats.",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Trine Bekkby", "Guri Sogn Andersen", "Gro Angeltveit", "Lise Tveiten"],
+        "abstract": ["Talk at the Norwegian Association of Marine Scientists annual meeting in Tromsø, Norway."]
+      },
+      {
+        "title": "Tare i tiden",
+        "tags": ["Presentation"],
+        "date": "Dec 2018",
+        "authors": ["Hege Gundersen", "Guri Sogn Andersen", "Trine Bekkby", "Mats Walday"],
+        "abstract": ["This is a very short presentation given at NIVAs yearly institute seminar in January 2018."]
+      },
+      {
+        "title": "Biodiversity and ecosystem services in Nordic coastal ecosystems - an IPBES-like assessment. Summary for policy makers.",
+        "tags": ["Book", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Andrea Belgrano", "Johnny Berglund", "Preben Clausen", "Susanne Vävare"],
+        "abstract": ["The Summary for policy makers is based on two volumes, 1) the general overview (Chapters) and 2) the geographical case studies, from the report “Biodiversity and ecosystem services in Nordic coastal ecosystems – an IPBES-like assessment”. The report is a result of Nordic cooperation among Denmark, Finland, Iceland, Norway, Sweden, the Faroe Islands..."]
+      },
+      {
+        "title": "Long-term changes in Norwegian Skagerrak – Is understanding eutrophication enough?",
+        "tags": ["Presentation"],
+        "date": "Jun 2018",
+        "authors": ["Oyvind Kaste", "Guri Sogn Andersen", "Anne Deininger", "Helene Frigstad"],
+        "abstract": []
+      },
+      {
+        "title": "Alterations between sugar kelp and turf/filamentous algae in Norway, regime shifts or flips back and forth between different opportunistic seaweed species?",
+        "tags": ["Presentation"],
+        "date": "Jun 2018",
+        "authors": ["H. Christie", "Guri Sogn Andersen", "Trine Bekkby", "E. Rinde"],
+        "abstract": ["Talk at the 4th International Symposium on Research and Management of Eutrophication in Coastal Ecosystems (EUTRO 2018), 18-20.062018, Nyborg, Denmark."]
+      },
+      {
+        "title": "Biodiversity and ecosystem services in Nordic coastal ecosystems: an IPBES-like assessment. Volume 1. The general overview.",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["A Belgrano", "Preben Clausen", "Gunilla Ejdung", "s Vävare"],
+        "abstract": []
+      },
+      {
+        "title": "A Pilot Project for Mapping Marine Nature Types within the NiN Framework, Coastal Norway.",
+        "tags": ["Poster"],
+        "date": "May 2018",
+        "authors": ["Margaret F.J. Dolan", "Trine Bekkby", "Sigurd Heiberg Espeland", "Lise Tveiten"],
+        "abstract": ["Poster with an oral introduction at the GEOHAB Conference May, Santa Barbara, California, USA, 7-11. May 2018."]
+      },
+      {
+        "title": "Pilotprosjekt-Kartlegging av marin natur i Møre og Romsdal Årsrapport 2017",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Trine Bekkby", "Sigurd Heiberg Espeland", "Margaret Dolan", "Lise Tveiten"],
+        "abstract": []
+      },
+      {
+        "title": "Blått-karbon: Klimatilpasning, karbonopptak og langtidslagring av karbon i blå skog",
+        "tags": ["Book", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Helene Frigstad", "Hege Gundersen", "Kasper Hancke", "Lise Tveiten"],
+        "abstract": ["This report represents the annual report of the Blue Carbon project in 2017, and presents preliminary results and progress. It also provides a summary of the workshop \"Status of Nordic carbon cycling in blue forests\" organized the 16-17 of November 2017."]
+      },
+      {
+        "title": "ØKOKYST Finnmark, Annual report 2016.",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Guri Sogn Andersen", "Elisabeth Lundsor", "Jane K Dolven", "Kathrine H. Sundeng"],
+        "abstract": ["ØKOKYST – the Ecosystem monitoring of Coastal Waters - include investigations of biological conditions as well as investigations of physical and chemical parameters. The monitoring program in Finnmark was initiated in July 2014. The results from 2014, 2015 and 2016 indicate that the status of the area lies within the range of \"Moderate\" to \"Very go..."]
+      },
+      {
+        "title": "ØKOKYST – Delprogram Trøndelag, 2015",
+        "tags": ["Technical Report"],
+        "date": "Jun 2016",
+        "authors": ["Jane K Dolven", "Elisabeth Lundsor", "Guri Sogn Andersen"],
+        "abstract": ["ØKOKYST – the Ecosystem monitoring of Coastal Waters - aims to map and monitor the ecological status along the Norwegian coastline. The assessments of status in the different areas are based on the Water Framework Directive and includes investigations of biological conditions (hard bottom, soft bottom and phytoplankton communities) as well as physi..."]
+      },
+      {
+        "title": "Patterns of Saccharina latissima Recruitment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2013",
+        "authors": ["Guri Sogn Andersen"],
+        "abstract": ["The lack of recovery in Norwegian populations of the kelp Saccharina latissima (Linnaeus) C. E. Lane, C. Mayes, Druehl & G. W. Saunders after a large-scale disturbance that occurred sometime between the late 1990s and early 2000s has raised considerable concerns. Kelp forests are areas of high production that serve as habitats for numerous species,..."]
+      },
+      {
+        "title": "Temperature acclimation and heat tolerance of photosynthesis in Norwegian Saccharina latissima (Laminariales, Phaeophyceae)",
+        "tags": ["Article"],
+        "date": "Aug 2013",
+        "authors": ["Guri Sogn Andersen", "Morten F. Pedersen", "Søren Laurentius Nielsen"],
+        "abstract": ["Kelps, seaweeds and seagrasses provide important ecosystem services in coastal areas, and loss of these\nmacrophytes is a global concern. Recent surveys have documented severe declines in populations of the\ndominant kelp species, Saccharina latissima, along the south coast of Norway. S. latissima is a cold-temperate\nspecies, and increasing seawater..."]
+      },
+      {
+        "title": "Does the diversity of kelp forest macrofauna increase with wave exposure?",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Kjell Magnus Norderhaug", "H. Christie", "Guri Sogn Andersen", "Trine Bekkby"],
+        "abstract": ["Kelp (Laminaria hyperborea (Gunn.) Foslie) forests support a diverse community of invertebrates. The aim of the present study was to test if the abundance, diversity (measured as average species number) and community structure of macrofauna associated with epiphytic algae on kelp stipes depends on physical stress from wave surge and habitat diversi..."]
+      },
+      {
+        "title": "Seasonal Patterns of Sporophyte Growth, Fertility, Fouling, and Mortality of Saccharina latissima in Skagerrak, Norway: Implications for Forest Recovery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Guri Sogn Andersen", "Henning Steen", "H. Christie", "Frithjof E Moy"],
+        "abstract": ["On the Skagerrak coast the kelp Saccharina latissima has suffered severe stand reductions over the last decade, resulting in loss of important habitats. In the present study, healthy kelp plants were transplanted into four deforested areas and their patterns of growth, reproduction, and survival were monitored through subsequent seasons. Our main o..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "I work in the field of marine biology with special emphasis on kelp forest research. I focus on the ecology of Saccharina latissima, and am particularly interested in the effects of biotic interactions (epiphytism).\n\nEditor at www.marinbiologene.no.",
+    "publications": [52],
+    "reads": [8057],
+    "citations": [406]
   }
 }

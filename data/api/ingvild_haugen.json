@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Ingvild Bjørkeng Haugen",
-    "id": "vFjXfOMAAAAJ",
-    "affiliation": "Bergen University College",
+    "name": ["Ingvild Bjørkeng Haugen"],
+    "id": ["vFjXfOMAAAAJ"],
+    "affiliation": ["Bergen University College"],
     "data": {
       "publications": [
         {
@@ -19,8 +19,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-9397-360X",
-    "name": "Ingvild Haugen",
+    "orcid": ["0000-0001-9397-360X"],
+    "name": ["Ingvild Haugen"],
     "distinctions": [],
     "education": [
       {
@@ -62,8 +62,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ingvild Haugen",
-    "id": "842499",
+    "name": ["Ingvild Haugen"],
+    "id": ["842499"],
     "keywords": [],
     "position": ["Guest", null, null],
     "img": {},
@@ -124,5 +124,15 @@
         "url": "https://api.cristin.no/v2/results/1486013"
       }
     ]
+  },
+  "rg": {
+    "id": "Ingvild-Haugen-3",
+    "name": "Ingvild Haugen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/665913749667840-1535777618336_Q128/Ingvild-Haugen-3.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

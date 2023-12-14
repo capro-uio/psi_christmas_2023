@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Tine Jensen",
-    "id": "XR-Gmo4AAAAJ",
-    "affiliation": "Professor in Psychology, University of Oslo",
+    "name": ["Tine Jensen"],
+    "id": ["XR-Gmo4AAAAJ"],
+    "affiliation": ["Professor in Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -951,8 +951,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-7663-8121",
-    "name": "Tine Jensen",
+    "orcid": ["0000-0001-7663-8121"],
+    "name": ["Tine Jensen"],
     "distinctions": [],
     "education": [
       {
@@ -969,17 +969,17 @@
       },
       {
         "start": "2010",
-        "end": "2016",
         "position": "VIP, Associate Professor",
         "organisation": "Roskilde University",
-        "country": "DK"
+        "country": "DK",
+        "end": "2016"
       },
       {
         "start": "2010",
-        "end": "2015",
         "position": "VIP, Associate Professor",
         "organisation": "Roskilde University",
-        "country": "DK"
+        "country": "DK",
+        "end": "2015"
       }
     ],
     "employment": [
@@ -997,17 +997,17 @@
       },
       {
         "start": "2010",
-        "end": "2016",
         "position": "VIP, Associate Professor",
         "organisation": "Roskilde University",
-        "country": "DK"
+        "country": "DK",
+        "end": "2016"
       },
       {
         "start": "2010",
-        "end": "2015",
         "position": "VIP, Associate Professor",
         "organisation": "Roskilde University",
-        "country": "DK"
+        "country": "DK",
+        "end": "2015"
       }
     ],
     "membership": [],
@@ -1153,11 +1153,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Tine Jensen",
-    "id": "23722",
+    "name": ["Tine Jensen"],
+    "id": ["23722"],
     "keywords": [],
     "position": ["Professor", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/23722/picture",
+    "img": ["https://api.cristin.no/v2/persons/23722/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1775,5 +1775,15 @@
         "url": "https://api.cristin.no/v2/results/1366646"
       }
     ]
+  },
+  "rg": {
+    "id": "Tine_Jensen5",
+    "name": "Tine Jensen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

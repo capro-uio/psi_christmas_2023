@@ -2,11 +2,39 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Trude Skoglund",
-    "id": "1327414",
+    "name": ["Trude Skoglund"],
+    "id": ["1327414"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Bryan-Trude",
+    "name": "Bryan Trude",
+    "img": "https://i1.rgstatic.net/ii/profile.image/853070120493056-1580399174620_Q128/Bryan-Trude.jpg",
+    "affiliation": "University of Georgia | UGA, University of Georgia, Department of Advertising and Public Relations",
+    "keywords": ["Social Communication", "Social Networking", "Mass Communication", "Digital Culture", "Social Media Marketing", "Interpersonal Communication", "Media Management", "New Technology", "Web based communication", "Virtual Reality"],
+    "works": [
+      {
+        "title": "“You are a disgrace and traitor to our country”: Uncivil rhetoric against the ‘squad’ on Twitter.",
+        "tags": ["Article"],
+        "date": "Mar 2022",
+        "authors": ["Porismita Borah", "Kate Keib", "Bryan Trude", "Itai Himelboim"],
+        "abstract": ["Purpose\nFor many, the sole source for news content is social media, where passionate opinions are posted at an alarming speed. These opinions can cross the line from differing opinions shared in a public forum onto uncivil dialogue and even hate speech. Such online discourse threatens democratic values and creates a hostile environment. The purpose..."]
+      },
+      {
+        "title": "YouTube: Exploring video networks",
+        "tags": ["Chapter"],
+        "date": "Jan 2020",
+        "authors": ["Itai Himelboim", "Jen Golbeck", "Bryan Trude"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [2],
+    "reads": [150],
+    "citations": [4]
   }
 }

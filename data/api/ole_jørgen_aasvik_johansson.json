@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Ole Jørgen Aasvik Johansson",
-    "id": "865600",
+    "name": ["Ole Jørgen Aasvik Johansson"],
+    "id": ["865600"],
     "keywords": ["Traffic safety systems"],
     "position": ["Guest", "Guest", "Researcher"],
-    "img": "https://api.cristin.no/v2/persons/865600/picture",
+    "img": ["https://api.cristin.no/v2/persons/865600/picture"],
     "works": [
       {
         "type": "Report",
@@ -16,49 +16,49 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2131462",
         "title": "“Game over” for autonomous shuttles in mixed traffic? Results from field surveys among pedestrians and cyclists on how they interact with autonomous shuttles in real-life traffic in Norway",
-        "journal": "Transportation Research Interdisciplinary Perspectives (TRIP)",
-        "url": "https://api.cristin.no/v2/results/2131462"
+        "journal": "Transportation Research Interdisciplinary Perspectives (TRIP)"
       },
       {
         "type": "Report",
         "year": "2022",
-        "title": "Automated shuttles in a residential area - Video observations of interactions with other road users in Ski - Hebekk",
-        "url": "https://api.cristin.no/v2/results/2169735"
+        "url": "https://api.cristin.no/v2/results/2169735",
+        "title": "Automated shuttles in a residential area - Video observations of interactions with other road users in Ski - Hebekk"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2069401",
         "title": "Distracting or informative? Examining signage for cyclists using eye-tracking",
-        "journal": "Traffic Safety Research (TSR)",
-        "url": "https://api.cristin.no/v2/results/2069401"
+        "journal": "Traffic Safety Research (TSR)"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2069378",
         "title": "Interact or counteract? Behavioural observation of interactions between vulnerable road users and automated shuttles in Oslo, Norway",
-        "journal": "Traffic Safety Research (TSR)",
-        "url": "https://api.cristin.no/v2/results/2069378"
+        "journal": "Traffic Safety Research (TSR)"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2065882",
         "title": "External communication of automated shuttles: Results, experiences, and lessons learned from three European long-term research projects",
-        "journal": "Frontiers in Robotics and AI",
-        "url": "https://api.cristin.no/v2/results/2065882"
+        "journal": "Frontiers in Robotics and AI"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Friend of foe? How people react to automated shuttles - an engineer and a psychologist share insight ",
-        "url": "https://api.cristin.no/v2/results/1975992"
+        "url": "https://api.cristin.no/v2/results/1975992",
+        "title": "Friend of foe? How people react to automated shuttles - an engineer and a psychologist share insight "
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1925777",
         "title": "Cyclists' Perception of Maintenance and Operation of Cycling Infrastructure—Results From a Norwegian Survey",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1925777"
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Report",
@@ -103,9 +103,9 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1820025",
         "title": "Safety equipment use and crash involvement among cyclists – Behavioral adaptation, precaution or learning?",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/1820025"
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Report",
@@ -115,16 +115,16 @@
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1730428",
         "title": "Gender differences in accident risk with e-bikes—Survey data from Norway",
-        "journal": "Accident Analysis and Prevention",
-        "url": "https://api.cristin.no/v2/results/1730428"
+        "journal": "Accident Analysis and Prevention"
       },
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1695773",
         "title": "Combining roadside interviews and on-road observation for assessing prevalence of driver inattention",
-        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
-        "url": "https://api.cristin.no/v2/results/1695773"
+        "journal": "Transportation Research Part F: Traffic Psychology and Behaviour"
       },
       {
         "type": "Report",
@@ -154,23 +154,114 @@
       {
         "type": "Masters thesis",
         "year": "2017",
-        "title": "“Maybe I will just send a Quick Text…” Two Studies to Reduce and Explain Drivers’ Distractions",
-        "url": "https://api.cristin.no/v2/results/1539505"
+        "url": "https://api.cristin.no/v2/results/1539505",
+        "title": "“Maybe I will just send a Quick Text…” Two Studies to Reduce and Explain Drivers’ Distractions"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1515244",
         "title": "“Maybe I Will Just Send a Quick Text…” – An Examination of Drivers’ Distractions, Causes, and Potential Interventions",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1515244"
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1501912",
         "title": "Explaining prejudice toward the mentally ill: A test of sociopolitical, demographic, and socioeconomic factors",
-        "journal": "Journal of Applied Social Psychology",
-        "url": "https://api.cristin.no/v2/results/1501912"
+        "journal": "Journal of Applied Social Psychology"
       }
     ]
+  },
+  "rg": {
+    "id": "Ole-Aasvik",
+    "name": "Ole Aasvik",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281083715033-1662725965676_Q128/Ole-Aasvik.jpg",
+    "affiliation": "Transportøkonomisk institutt TØI",
+    "keywords": ["Social Psychology", "Driver's inattention", "Automated vehicle acceptance"],
+    "works": [
+      {
+        "title": "“Game over” for autonomous shuttles in mixed traffic? Results from field surveys among pedestrians and cyclists on how they interact with autonomous shuttles in real-life traffic in Norway",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Torkel Bjørnskau", "Ole Aasvik", "Tim De Ceunynck", "Aliaksei Laureshyn"],
+        "abstract": []
+      },
+      {
+        "title": "External communication of automated shuttles: Results, experiences, and lessons learned from three European long-term research projects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Alexander G. Mirnig", "Magdalena Gärtner", "Peter Fröhlich", "Jakub Sypniewski"],
+        "abstract": ["Automated shuttles are already seeing deployment in many places across the world and have the potential to transform public mobility to be safer and more accessible. During the current transition phase from fully manual vehicles toward higher degrees of automation and resulting mixed traffic, there is a heightened need for additional communication..."]
+      },
+      {
+        "title": "Distracting or informative? Examining signage for cyclists using eye-tracking",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Ole Aasvik", "Aslak Fyhri"],
+        "abstract": ["There is great political motivation to improve conditions for cyclists to help solving the transport needs of the future. We used eye-tracking to collect data and analysed it using a novel machine learning approach. 40 cyclists in total were tasked with navigating a set route through the Oslo city centre. One group before the new infrastructure was..."]
+      },
+      {
+        "title": "Interact or counteract? Behavioural observation of interactions between vulnerable road users and autonomous shuttles in Oslo, Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Tim De Ceunynck", "Brecht Pelssers", "Torkel Bjørnskau", "Heike Martensen"],
+        "abstract": ["The current paper presents the results of behavioural observations in a field experiment with automated shuttles in Oslo, Norway. Video observations were conducted at five fixed locations along a challenging 1.2 km automated shuttle line with varying traffic conditions. Observed interactions between vulnerable road users and automated shuttles were..."]
+      },
+      {
+        "title": "Cyclists' Perception of Maintenance and Operation of Cycling Infrastructure—Results From a Norwegian Survey",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Ole Aasvik", "Torkel Bjørnskau"],
+        "abstract": ["The Norwegian authorities want to limit the extent of car use in city areas to existing levels. Such a limitation would help combat climate change, improve health of citizens, and alleviate congestion. This implies that any further increase in transport needs will have to be met by walking, cycling and use of public transport. Reaching this ambitio..."]
+      },
+      {
+        "title": "Safety equipment use and crash involvement among cyclists – Behavioral adaptation, precaution or learning?",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["Alena Høye", "Ole Aasvik", "Ingeborg Storesund Hesjevoll"],
+        "abstract": ["The present study has investigated relationships between cyclists’ safety equipment use, crash involvement, and other safety relevant behavior. The main focus is on relationships that indicate either behavioral adaptation (safety equipment use leads to riskier behavior) or precautionary behavior (safety equipment is used for cycling in risky situat..."]
+      },
+      {
+        "title": "Gender differences in accident risk with e-bikes-Survey data from Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Aslak Fyhri", "Ole Aasvik", "Torkel Bjørnskau"],
+        "abstract": ["E-bikes are becoming increasingly popular, and are given an important role in the green mobility of the future. However, some have raised concerns that the increased speed and the increased weight of the e-bike can lead to more accidents among cyclists riding an e-bike, as compared to conventional bicycles. Furthermore, it has been suggested that e..."]
+      },
+      {
+        "title": "Combining roadside interviews and on-road observation for assessing prevalence of driver inattention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Fridulv Sagberg", "Ole Aasvik", "Hanne Sundfør"],
+        "abstract": ["Inattention among car drivers on a motorway section with two lanes in each direction was investigated by a combination of two different methodological approaches. First, an observer in a driving car in the non-passing (right) lane observed 1337 passing drivers; i.e., all drivers passing during the observation period. At a service area about midway..."]
+      },
+      {
+        "title": "“Maybe I Will Just Send a Quick Text…” – An Examination of Drivers’ Distractions, Causes, and Potential Interventions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Ole Aasvik", "Aslak Fyhri"],
+        "abstract": ["Many people use cars all over the world. This is, however, not done without risk, as traffic accidents are one of the most common causes of death for adolescents worldwide. The number of deaths has steadily decreased, both worldwide and in Norway. Many of these accidents involve passenger cars and distracted driving. While there are many campaigns..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Nov 2017",
+        "authors": ["Ole Aasvik", "Aslak Fyhri"],
+        "abstract": []
+      },
+      {
+        "title": "Explaining prejudice toward the mentally ill: A test of sociopolitical, demographic, and socioeconomic factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Ole Aasvik", "Jonas R. Kunst"],
+        "abstract": ["People with mental disorders often face prejudices that can further deteriorate their condition. We tested whether Social Dominance Orientation (SDO), Right-Wing Authoritarianism (RWA), and Belief in a Just World (BJW), and characteristics of the mentally ill predict such prejudices. Both in a general population sample and a sample of health profes..."]
+      }
+    ],
+    "degree": ["PhD-candidate"],
+    "bio": [],
+    "publications": [11],
+    "reads": [1545],
+    "citations": [64]
   }
 }

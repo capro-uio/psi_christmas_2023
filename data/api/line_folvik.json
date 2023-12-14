@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Line Folvik",
-    "id": "os06vWsAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Line Folvik"],
+    "id": ["os06vWsAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -87,8 +87,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0009-0001-4270-4968",
-    "name": "Line Folvik",
+    "orcid": ["0009-0001-4270-4968"],
+    "name": ["Line Folvik"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -104,8 +104,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Line Folvik",
-    "id": "664677",
+    "name": ["Line Folvik"],
+    "id": ["664677"],
     "keywords": [],
     "position": ["Research fellow", "Academic assistant"],
     "img": {},
@@ -153,5 +153,89 @@
         "url": "https://api.cristin.no/v2/results/1646675"
       }
     ]
+  },
+  "rg": {
+    "id": "Line-Folvik-2",
+    "name": "Line Folvik",
+    "img": "https://i1.rgstatic.net/ii/profile.image/793594403233798-1566219058283_Q128/Line-Folvik-2.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["fMRI", "Polysomnography", "Magnetic Resonance Imaging", "R", "Sleep scoring", "Python"],
+    "works": [
+      {
+        "title": "Hippocampal-cortical functional connectivity during memory encoding and retrieval",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Liisa Raud", "Markus H. Sneve", "Didac Vidal-Piñeiro", "Anders M. Fjell"],
+        "abstract": "Memory encoding and retrieval are critical sub-processes of episodic memory. While the hippocampus is involved in both, less is known about its connectivity with the neocortex during memory processing in humans. This is partially due to variations in demands in common memory tasks, which inevitably recruit cognitive processes other than episodic me..."
+      },
+      {
+        "title": "Sustained upregulation of widespread hippocampal–neocortical coupling following memory encoding",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Line Folvik", "Markus Handal Sneve", "Hedda Ness", "Anders M Fjell"],
+        "abstract": "Systems consolidation of new experiences into lasting episodic memories involves hippocampal–neocortical interactions. Evidence of this process is already observed during early post-encoding rest periods, both as increased hippocampal coupling with task-relevant perceptual regions and reactivation of stimulus-specific patterns following intensive e..."
+      },
+      {
+        "title": "Hippocampal-cortical functional connectivity during memory encoding and retrieval",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Liisa Raud", "Markus Handal Sneve", "Didac Vidal-Piñeiro", "Anders M. Fjell"],
+        "abstract": "Memory encoding and retrieval are critical sub-processes of episodic memory. While the hippocampus is involved in both, its connectivity with the neocortex during memory processing in humans has been elusive. This is partially due to variations in demands in common memory tasks, which inevitably recruit cognitive processes other than episodic memor..."
+      },
+      {
+        "title": "Whole-brain connectivity during encoding: age-related differences and associations with cognitive and brain structural decline",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Elettra Capogna", "Markus Handal Sneve", "Liisa Raud", "Didac Vidal-Piñeiro"],
+        "abstract": "There is a limited understanding of age differences in functional connectivity during memory encoding. In the present study, a sample of cognitively healthy adult participants (n = 488, 18-81 years), a subsample of whom had longitudinal cognitive and brain structural data spanning on average 8 years back, underwent functional magnetic resonance ima..."
+      },
+      {
+        "title": "Sustained upregulation of widespread hippocampal-neocortical coupling following memory encoding",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Line Folvik", "Markus Handal Sneve", "Hedda Ness", "Anders M Fjell"],
+        "abstract": "Systems consolidation of new experiences into lasting episodic memories involves interactions between hippocampus and the neocortex. Evidence of this process is seen already during early awake post-encoding rest periods. Functional MRI (fMRI) studies have demonstrated increased hippocampal coupling with task-relevant perceptual regions and reactiva..."
+      },
+      {
+        "title": "Reduced Hippocampal-Striatal Interactions during Formation of Durable Episodic Memories in Aging",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Hedda Ness", "Line Folvik", "Markus Handal Sneve", "Anders M Fjell"],
+        "abstract": "Encoding of durable episodic memories requires cross-talk between the hippocampus and multiple brain regions. Changes in these hippocampal interactions could contribute to age-related declines in the ability to form memories that can be retrieved after extended time intervals. Here we tested whether hippocampal–neocortical– and subcortical function..."
+      },
+      {
+        "title": "Whole-brain connectivity during encoding: age-related differences and associations with cognitive and brain structural decline",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Elettra Capogna", "Markus Handal Sneve", "Liisa Raud", "Didac Vidal-Piñeiro"],
+        "abstract": "There is a limited understanding of age differences in functional connectivity during memory encoding. In the present study, a sample of cognitively healthy adult participants (n=488), a subsample of whom had longitudinal cognitive and brain structural data spanning 8 years back, underwent fMRI while performing an associative memory encoding task...."
+      },
+      {
+        "title": "Examining the Subacute Effects of Mild Traumatic Brain Injury with the CENTER-TBI Neuropsychological Test Battery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Rune Hatlestad Karlsen", "Simen Berg Saksvik", "Jonas Stenberg", "Toril Skandsen"],
+        "abstract": "This study investigates subacute cognitive effects of mild traumatic brain injury (MTBI)in the Trondheim Mild TBI Study, as measured, in part, by the neuropsychological test battery of the Collaborative European NeuroTrauma Effectiveness Research in TBI (CENTER-TBI), including computerized tests from the Cambridge Neuropsychological Test Automated..."
+      },
+      {
+        "title": "Continuity and Discontinuity in Human Cortical Development and Change From Embryonic Stages to Old Age",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": "The human cerebral cortex is highly regionalized, and this feature emerges from morphometric gradients in the cerebral vesicles during embryonic development. We tested if this principle of regionalization could be traced from the embryonic development to the human life span. Data-driven fuzzy clustering was used to identify regions of coordinated l..."
+      },
+      {
+        "title": "Continuity and discontinuity in human cortical development and change from embryonic stages to old age",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Anders M Fjell", "Chi-Hua Chen", "Donatas Sederevicius", "Kristine Walhovd"],
+        "abstract": "The human cerebral cortex is highly regionalized. We aimed to test whether principles of regionalization could be traced from embryonic development throughout the human lifespan. A data-driven fuzzy-clustering approach was used to identify regions of coordinated longitudinal development of cortical surface area (SA) and thickness (CT) over 1.5 year..."
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": [],
+    "publications": [10],
+    "reads": [764],
+    "citations": [60]
   }
 }

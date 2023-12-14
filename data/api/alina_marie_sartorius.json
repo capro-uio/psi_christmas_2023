@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Alina Marie Sartorius",
-    "id": "nS76rfkAAAAJ",
-    "affiliation": "PhD Research Fellow in Cognitive and Clinical Neuroscience, University of Oslo",
+    "name": ["Alina Marie Sartorius"],
+    "id": ["nS76rfkAAAAJ"],
+    "affiliation": ["PhD Research Fellow in Cognitive and Clinical Neuroscience, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -402,8 +402,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Alina Marie Sartorius",
-    "id": "1331931",
+    "name": ["Alina Marie Sartorius"],
+    "id": ["1331931"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -423,5 +423,14 @@
         "url": "https://api.cristin.no/v2/results/2016069"
       }
     ]
+  },
+  "rg": {
+    "id": "Marie_Alina2",
+    "name": "Marie Alina",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Universiti Tun Hussein Onn Malaysia | uthm, Universiti Tun Hussein Onn Malaysia, Department of Civil Engineering Technology",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Arne Holte",
-    "id": "ZCPMMp0AAAAJ",
-    "affiliation": "Norwegian institute of public health, University of Oslo",
+    "name": ["Arne Holte"],
+    "id": ["ZCPMMp0AAAAJ"],
+    "affiliation": ["Norwegian institute of public health, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -926,8 +926,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-8156-2192",
-    "name": "Arne Holte",
+    "orcid": ["0000-0001-8156-2192"],
+    "name": ["Arne Holte"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -938,11 +938,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Arne Holte",
-    "id": "22530",
+    "name": ["Arne Holte"],
+    "id": ["22530"],
     "keywords": ["Method", "Health", "Socialpsychology", "Communication", "Depression", "Diagnosis", "Fibromyalgi", "Prevention", "Hypochondria", "Chronical disease", "Heart diseases", "Group psychology", "Media psychology", "Winter depression/ treatment"],
     "position": ["Emeritus", "Guest", null, "Research Scientist"],
-    "img": "https://api.cristin.no/v2/persons/22530/picture",
+    "img": ["https://api.cristin.no/v2/persons/22530/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1571,5 +1571,718 @@
         "url": "https://api.cristin.no/v2/results/293102"
       }
     ]
+  },
+  "rg": {
+    "id": "Arne-Holte",
+    "name": "Arne Holte",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272945436164098-1442086671143_Q128/Arne-Holte.jpg",
+    "affiliation": "Norwegian Institute of Public Health",
+    "keywords": ["Mental Illness", "Psychopathology", "Psychoeducation", "Psychological Resilience", "Eating Disorders", "Preventive Psychiatry", "Community Psychiatry", "Health Psychology", "Clinical Psychology", "ADHD"],
+    "works": [
+      {
+        "title": "IVF-induced pregnancy and early motherhood among women with a history of severe eating disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Bente Sommerfeldt", "Finn Skårderud", "Ingela Lundin Kvalem", "Arne Holte"],
+        "abstract": ["Background: \nThere is a higher prevalence of eating disorders among women seeking in vitro fertilization (IVF). Women with a history of eating disorders may be particularly vulnerable to eating disorder relapse during IVF, pregnancy, and early motherhood. The experience of these women during this process has hardly been studied scientifically, desp..."]
+      },
+      {
+        "title": "Bodies out of control: Relapse and worsening of eating disorders in pregnancy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Bente Sommerfeldt", "Finn Skårderud", "Ingela Lundin Kvalem", "Arne Holte"],
+        "abstract": ["Background\nBeing pregnant is a vulnerable period for women with a history of eating disorders. A central issue in eating disorders is searching control of one’s body and food preferences. Pregnancy implies being increasingly out of control of this. Treatment and targeted prevention start with the patient’s experience. Little is known about how wome..."]
+      },
+      {
+        "title": "Effects of a school-based intervention on levels of anxiety and depression: a cluster-randomized controlled trial of the MindPower program in ten high schools in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Gry Anette Sælid", "Nikolai Olavi Czajkowski", "Leif Edvard Aarø", "Arne Holte"],
+        "abstract": ["Background\nThe previous decades have shown increased symptoms of depression and anxiety among adolescents. To promote mental health and reduce mental illness, the government of Norway has, as in other countries, pledged that all schools must incorporate life-skills education. We report results from an evaluation of MindPower, a modification of the..."]
+      },
+      {
+        "title": "Associations between poor gross and fine motor skills in pre‐school and peer victimization concurrently and longitudinally with follow‐up in school age – results from a population‐based study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Elise Øksendal", "Ragnhild Eek Brandlistuen", "Arne Holte", "Mari Vaage Wang"],
+        "abstract": ["Background: \nChildren with poor motor skills are at increased risk of peer victimization. However, it is unclear whether poor gross and fine motor skills are differently linked to peer victimization among pre-school and schoolchildren.\n\nAims: \nTo investigate associations between poor gross and fine motor skills measured in pre-school and the associ..."]
+      },
+      {
+        "title": "Universal depression prevention: An umbrella review of meta-analyses",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Erin Hoare", "Sam Collins", "Wolfgang Marx", "Michael Berk"],
+        "abstract": ["Depression is a disabling, highly prevalent, frequently chronic, and difficult-to-treat disorder with an immense cognitive, social, and economic burden. Given that many of the advances in other non-communicable disorders like cancer have been in prevention rather than treatment, the prevention of depression is currently an unmet public health prior..."]
+      },
+      {
+        "title": "Challenges in establishing positive mental health effects of a school-based intervention: a cluster-randomized controlled trial of a life skill program in ten public high schools in Norway",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Gry Anette Sælid", "Nikolai Olavi Czajkowski", "Leif Edvard Aarø", "Arne Holte"],
+        "abstract": ["Schools are well positioned for large scale promotion of mental health among young people. We tested the MindPower program delivered universally in the classroom to strengthen self-efficacy, self-esteem, and quality of life in high school students. We used a cluster randomized two-groups delayed intervention design. Participants where 1,673 out of..."]
+      },
+      {
+        "title": "Effects of a School-Based Intervention On Levels of Anxiety and Depression: A Cluster-Randomized Controlled Trial of The MindPower Program in Ten High Schools in Norway",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Gry Anette Sælid", "Nikolai Czajkowski", "Leif Edvard Aarø", "Arne Holte"],
+        "abstract": ["Background\nThe previous decade has shown increased symptoms of depression and anxiety among adolescents. To promote mental health and reduce mental illness, the government of Norway has, as in other countries, pledged that all schools must incorporate life-skills education. We report results from an evaluation of MindPower, a modification of the Co..."]
+      },
+      {
+        "title": "Associations Between Language Difficulties, Peer Victimization, and Bully Perpetration From 3 Through 8 Years of Age: Results From a Population-Based Study",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Elise Øksendal", "Ragnhild Eek Brandlistuen", "Dieter Wolke", "Mari Vaage Wang"],
+        "abstract": ["Background and Purpose\nSchoolchildren with language difficulties experience more peer victimization compared to their typically developing (TD) peers. Whether these children also bully their peers (bully perpetration) more than TD children is unclear. Furthermore, little is known about peer victimization and bully perpetration among preschool child..."]
+      },
+      {
+        "title": "Trust Buffers Against Reduced Life Satisfaction When Faced With Financial Crisis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Jocelyne Clench-Aas", "Ingrid Bergande", "Ragnhild Bang Nes", "Arne Holte"],
+        "abstract": ["Background: In light of the coronavirus disease 2019 (COVID-19) pandemic and its large economic consequences, we used a three-layer nested structural model (individual, community, and country), each with a corresponding measure of income, trust, and satisfaction, to assess change in their interrelationships following a global crisis; which, in this..."]
+      },
+      {
+        "title": "Political Trust Influences the Relationship Between Income and Life Satisfaction in Europe: Differential Associations With Trust at National, Community, and Individual Level",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Jocelyne Clench-Aas", "Arne Holte"],
+        "abstract": ["Background: A high level of well-being is associated with personal, community and national income, as well as personal, social and political trust. How these measures relate to each other within and between countries and within and across structural levels of society is largely unknown. To study this, we propose a three-layer nested socio-structura..."]
+      },
+      {
+        "title": "Peer-Victimization of Young Children With Developmental and Behavioral Difficulties-A Population-Based Study",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Elise Øksendal", "Ragnhild Eek Brandlistuen", "Arne Holte", "Mari Vaage Wang"],
+        "abstract": ["Objective: \nThe aim is to investigate if young children with developmental and behavioral difficulties (DBDs) have greater risk of peer-victimization compared with typically developing (TD) children.\n\nMethod: \nThe sample was drawn from the Norwegian Mother and Child Cohort Study (MoBa). MoBa has collected population-based data on children's health..."]
+      },
+      {
+        "title": "Measures that increase social equality are effective in improving life satisfaction in times of economic crisis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Jocelyne Clench-Aas", "Arne Holte"],
+        "abstract": ["Background\nThe financial crisis of 2008/2009, for some also in 2011, was accompanied by increasing social inequality and unemployment, which strained the welfare generosity systems in many countries. Welfare generosity redistributes internal resources to decrease poverty and increase equal opportunities. This was used by many countries to combat th..."]
+      },
+      {
+        "title": "The financial crisis in Europe: Impact on satisfaction with life",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Jocelyne Clench-Aas", "Arne Holte"],
+        "abstract": ["Background: \nThe 2008 financial crisis in Europe came abruptly and surprisingly. Many countries also suffered a second recession during the period 2010-2012. We examined the impact of the crisis on life satisfaction (LS) by country and individual socioeconomic level.\n\nMethod: \nWe used a representative sample from the European Social Survey (2002-20..."]
+      },
+      {
+        "title": "Four Pathways to Anorexia Nervosa: Patients' Perspective on the Emergence of AN",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Kjersti Solhaug Gulliksen", "Ragnfrid H S Nordbø", "Ester M S Espeset", "Arne Holte"],
+        "abstract": ["Introduction: \nStudies show that patients' perception of their illness has a direct influence both on their utilization of health services and their adherence to treatment plans. This may be particularly relevant to the treatment of Anorexia Nervosa (AN). Previous studies on AN have typically explored single psycho-social factors that patients with..."]
+      },
+      {
+        "title": "Positive mental health effects of the Coping With Strain (CWS) course on employees: a four-year longitudinal randomized controlled trial",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Gry Anette Sælid", "Nikolai Olavi Czajkowski", "Arne Holte", "Leif Edvard Aarø"],
+        "abstract": ["The Coping With Strain (CWS) course is a modified version of the Coping With Depression (CWD) course. CWD has been shown to reduce depression in several target groups. However, no other study has tested a modified CWD course delivered at the workplace to promote mental health. As mental health problems among employees remain a neglected area in man..."]
+      },
+      {
+        "title": "Coping With Strain (CWS) course - its effects on depressive symptoms: A four-year longitudinal randomized controlled trial",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Gry Anette Sælid", "Nikolai Olavi Czajkowski", "Arne Holte", "Leif Edvard Aarø"],
+        "abstract": ["The Coping With Strain (CWS) course is a modification of the Coping With Depression (CWD) course. CWD is by far the most studied psycho-educational intervention to reduce and prevent depression, but CWD has never been tested in a randomized controlled trial in the workplace. This study seeks to examine the extent to which CWS, on a short-term and a..."]
+      },
+      {
+        "title": "Brosikring mot selvmord lønner seg.html",
+        "tags": ["Data"],
+        "date": "Mar 2016",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Holte, A. Gjeldsrådgivning kan redusere psykiske lidelser (Debt counselling may reduce mental distress). Psykologisk.no, 28.03.2016. http://psykologisk.no/2016/03/gjeldsradgivning-kan-redusere-psykiske-lidelser/",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Holte, A. Brosikring mot selvmord lønner seg (Bridge safety measures against suicide pays off). Psykologisk.no, http://psykologisk.no/2016/02/brosikring-mot-selvmord-lonner-seg/",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Enhancing the Emotional and Social Skills of the Youth to Promote their Wellbeing and Positive Development: A Systematic Review of Universal School-based Randomized Controlled Trials",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Federica Sancassiani", "Elisa Pintus", "Arne Holte", "Jutta Lindert"],
+        "abstract": ["The acquisition of social and emotional skills is associated with positive youth development, character education, healthy lifestyle behaviours, reduction in depression and anxiety, conduct disorders, violence, bullying, conflict, and anger. School-based interventions aimed to enhance these skills go beyond a problem-focused approach to embrace a m..."]
+      },
+      {
+        "title": "International Variation in Treatment Procedures for ADHD Social Context and Recent Trends Psychiatric Services Vol 62, No 5",
+        "tags": ["Data"],
+        "date": "Jan 2015",
+        "authors": ["Richard M Scheffler", "Brent D Fulton", "Arne Holte", "Stephen Hinshaw"],
+        "abstract": []
+      },
+      {
+        "title": "International variation in treatment procedures for ADHD",
+        "tags": ["Data", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Brent D Fulton", "Arne Holte", "Avi Sadeh", "Richard M Scheffler"],
+        "abstract": []
+      },
+      {
+        "title": "The Process of Help-Seeking in Anorexia Nervosa: Patients’ Perspective of First Contact With Health Services",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Kjersti Solhaug Gulliksen", "Ragnfrid Nordbø", "Ester M S Espeset", "Arne Holte"],
+        "abstract": ["In this study we explored circumstances, reflections, and reactions to first treatment contact in 34 women (aged 18-51) diagnosed with anorexia nervosa (AN) (DSM-IV). Using methods from grounded theory we identified how the meeting came about, what motivated the patients, and how they reacted to the conversation. The results suggest that (a) health..."]
+      },
+      {
+        "title": "The developmental relationship between language and motor performance from 3 to 5 years of age: a prospective longitudinal population study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Mari Vaage Wang", "Ratib Lekhal", "Leif Edvard Aarø", "Synnve Schjolberg"],
+        "abstract": ["Background\nPrevious research has found that language and motor skills are closely interrelated developmental areas. This observation has led to questions about the specificity of these domains, and the nature of the associations. In this study, we investigated the longitudinal relationship between language and gross and fine motor performance from..."]
+      },
+      {
+        "title": "Psychology of Child Well-Being",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Arne Holte", "Margaret Mary Barry", "Mona Bekkhus", "Henrik Daae Zachrisson"],
+        "abstract": ["This chapter addresses child well-being from a psychological point of view. In doing so, we need to remember that psychology is not one single discipline but covers a wide range of psychological disciplines from evolutionary psychology and behavior genetics via psychometrics to developmental, cognitive, personality, and social psychology – all of t..."]
+      },
+      {
+        "title": "A Holte, Siem H, B Vartdal. Mental Health - Global Challenges. Scientific review report. Oslo: Norwegian Directorate of Aid and Development, 2014",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Arne Holte"],
+        "abstract": ["Tema for denne rapporten er psykisk helse som global utfordring og betydningen av psykisk helse i norsk bistands- og utviklingspolitikk. Den tar for seg forhold som fremmer og som svekker psykisk helse, med vekt på den tidlige barndommens betydning for menneskets utvikling og på sosiale determinanter det kan gjøres noe med. I tillegg setter den søk..."]
+      },
+      {
+        "title": "Psychology of Child Well-Being",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Arne Holte", "Margaret Mary Barry", "Mona Bekkhus", "Henrik Daae Zachrisson"],
+        "abstract": ["This chapter addresses child well-being from a psychological point of view. In doing so, we need to remember that psychology is not one single discipline but covers a wide range of psychological disciplines from evolutionary psychology and behavior genetics via psychometrics to developmental, cognitive, personality, and social psychology – all of t..."]
+      },
+      {
+        "title": "Stratified medicine for mental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Gunter Schumann", "Elisabeth B Binder", "Arne Holte", "Hans-Ulrich Wittchen"],
+        "abstract": ["There is recognition that biomedical research into the causes of mental disorders and their treatment needs to adopt new approaches to research. Novel biomedical techniques have advanced our understanding of how the brain develops and is shaped by behaviour and environment. This has led to the advent of stratified medicine, which translates advance..."]
+      },
+      {
+        "title": "Hope and Expectancies for Future Events in Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Jens Christoph Thimm", "Arne Holte", "Tim Brennen", "Catharina Elisabeth Arfwedson Wang"],
+        "abstract": ["The present study investigated prospective cognition with the Hope scale (Snyder et al., 1991) and the Unrealistic Optimism Scale (Weinstein, 1980) in clinically depressed (CD; n = 61), previously depressed (PD; n = 42), and never depressed controls (ND; n = 46). In line with previous research, significant negative correlations between hope and sym..."]
+      },
+      {
+        "title": "EuroPsy - the European Certificate in Psychology",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Dave Bartram", "E Bramberg", "B Brauner", "T Tikkanen"],
+        "abstract": []
+      },
+      {
+        "title": "Preferred therapist characteristics in treatment of anorexia nervosa: The patient's perspective",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2012",
+        "authors": ["Kjersti Solhaug Gulliksen", "Ester M S Espeset", "Ragnfrid Nordbø", "Arne Holte"],
+        "abstract": ["Previous research in eating disorders suggests that treatment satisfaction is closely related to the manner in which care is delivered. The present research is a systematic in depth study of health professional characteristics preferred by AN-patients.\nThirty-eight women with AN aged 18–51 were interviewed in depth using a phenomenological study de..."]
+      },
+      {
+        "title": "The Link Between Negative Emotions and Eating Disorder Behaviour in Patients with Anorexia Nervosa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Ester M S Espeset", "Kjersti Solhaug Gulliksen", "Ragnfrid Nordbø", "Arne Holte"],
+        "abstract": ["Background: \nSeveral theoretical models suggest that deficits in emotional regulation are central in the maintenance of anorexia nervosa (AN). Few studies have examined how patients view the relationship between negative affect and anorectic behaviour. We explored how patients with AN manage the aversive emotions sadness, anger, fear and disgust, a..."]
+      },
+      {
+        "title": "A Holte. Centered child care - Mostly for Children.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Fluctuations of Body Images in Anorexia Nervosa: Patients' Perception of Contextual Triggers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Ester M S Espeset", "Kjersti Solhaug Gulliksen", "Ragnfrid Nordbø", "Arne Holte"],
+        "abstract": ["Unlabelled: \nBody image disturbance is a central diagnostic criterion of anorexia nervosa (AN). To a great extent, previous studies have conceptualized body image disturbance as a relatively stable and trait-like characteristic of the patient. There is, however, growing evidence that body images fluctuate in different situations and contexts. The a..."]
+      },
+      {
+        "title": "Ten principles for prevention of mental disorders.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2012",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Putative early manifestations of bipolar II disorder emerge later in the initial prodrome than manifestations hypothesized to be unrelated: An exploratory study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Dag V Skjelstad", "Arne Holte", "Ulrik F Malt"],
+        "abstract": ["Aim: Symptom instances characterized as episodic or chronic, and as exaggerated responses to life events or inexplicable (e.g. mood swings, irritability/aggressiveness), may be the most likely early manifestations of the first episode of bipolar II disorder (BD-II). Assuming that symptoms that emerge late in the prodrome, to a larger extent, are ea..."]
+      },
+      {
+        "title": "Introduction to \"The Family's House Organisation and Professional Perspectives.",
+        "tags": ["Chapter"],
+        "date": "Jan 2012",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Introduction to \"Better before! Preventive Mental Health Work in the School\"",
+        "tags": ["Chapter"],
+        "date": "Jan 2012",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Reluctance to Recover in Anorexia Nervosa",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Ragnfrid Nordbø", "Ester M S Espeset", "Kjersti Solhaug Gulliksen", "Arne Holte"],
+        "abstract": ["Reluctance to recover may explain poor treatment outcome and high dropout and relapse rates in the treatment of anorexia nervosa (AN). This study systematically explored what AN patients describe as interfering with their wish to recover.\nTwo independent samples of women with AN (total N = 36) were interviewed in-depth using a phenomenological stud..."]
+      },
+      {
+        "title": "Genuine clinical predictors of bipolar II disorder: An exploration of temporal and contextual characteristics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2011",
+        "authors": ["Dag V Skjelstad", "Arne Holte", "Ulrik F Malt"],
+        "abstract": ["Symptoms of the initial prodrome of bipolar disorder (BD) are too nonspecific to reliably prospectively predict BD. An assessment of symptoms' temporal and contextual characteristics may help identify clinical indicators with enhanced predictive power.\nFifteen bipolar II disorder (BD-II) patients and 22 family members were interviewed about charact..."]
+      },
+      {
+        "title": "International Variation in Treatment Procedures for ADHD: Social Context and Recent Trends",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Stephen Hinshaw", "Richard M Scheffler", "Brent D Fulton", "Margaret Danielle Weiss"],
+        "abstract": ["Scientific and clinical interest in attention-deficit hyperactivity disorder (ADHD) is increasing worldwide. This article presents data from a cross-national workshop and survey related to questions of variability in diagnostic and, particularly, treatment procedures.\nRepresentatives of nine nations (Australia, Brazil, Canada, China, Germany, Israe..."]
+      },
+      {
+        "title": "The Concept of Body Image Disturbance in Anorexia Nervosa: An Empirical Inquiry Utilizing Patients' Subjective Experiences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Ester M S Espeset", "Ragnfrid Nordbø", "Kjersti Solhaug Gulliksen", "Arne Holte"],
+        "abstract": ["We explored the concept body image disturbance (BID) by utilizing the subjective experience of 32 women (aged 20-39 years) diagnosed with AN (DSM-V). Using methods from Grounded Theory we identified four phenotypes of BID-\"Integration,\" \"Denial,\" \"Dissociation,\" and \"Delusion\"-which differed according to whether the patients overestimated their own..."]
+      },
+      {
+        "title": "Symptoms and behaviors prior to the first major affective episode of bipolar II disorder. An exploratory study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Dag V Skjelstad", "Ulrik F Malt", "Arne Holte"],
+        "abstract": ["Few studies have investigated the initial prodrome of bipolar disorders, and none has explicitly addressed bipolar II disorder (BD-II). We explored symptoms and behaviors preceding the first major affective episode (FMAE) of BD-II to generate hypotheses concerning possible clinical targets for early intervention.\nIn-depth interviews of 15 BD-II pat..."]
+      },
+      {
+        "title": "Det kliniske intervjuet: Bind II. Praksis med ulike klientgrupper",
+        "tags": ["Book"],
+        "date": "Jan 2011",
+        "authors": ["Anna von der Lippe", "Arne Holte", "Per Nerdrum", "Michael Helge Rønnestad"],
+        "abstract": []
+      },
+      {
+        "title": "Nonverbal Communication: A lesson for psychotherapists",
+        "tags": ["Chapter"],
+        "date": "Jan 2011",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Forord til Familiens Hus: Organisering og profesjonelle perspektiver",
+        "tags": ["Chapter"],
+        "date": "Jan 2011",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive Complexity and Dissociative Identity Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Karl Yngvar Dale", "Atle Ødegård", "Finn Tschudi", "Arne Holte"],
+        "abstract": ["Thirteen patients with dissociative identity disorder (DID), 13 with other mental disorders, and 10 nondiagnosed comparison participants were given individual grids. Results showed that displaying alternate personalities did not portend a more multidimensional level of thinking. Instead, the nonclinical comparison group had the greater degree of co..."]
+      },
+      {
+        "title": "Symptoms and signs of the initial prodrome of bipolar disorder. A systematic review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Dag V Skjelstad", "Ulrik F Malt", "Arne Holte"],
+        "abstract": ["Background: Systematic studies addressing symptoms, signs and temporal aspects of initial bipolar prodrome are reviewed to identify potential clinical targets for early intervention. Methods: The databases PsycINFO, PubMed, EMBASE and British Nursing Index were searched for original studies. Results: Eight studies were identified. Irritability and..."]
+      },
+      {
+        "title": "Symptoms and signs of the initial prodrome of bipolar disorder: A systematic review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2009",
+        "authors": ["Dag V Skjelstad", "Ulrik F Malt", "Arne Holte"],
+        "abstract": ["Systematic studies addressing symptoms, signs and temporal aspects of initial bipolar prodrome are reviewed to identify potential clinical targets for early intervention.\nThe databases PsycINFO, PubMed, EMBASE and British Nursing Index were searched for original studies.\nEight studies were identified. Irritability and aggressiveness, sleep disturba..."]
+      },
+      {
+        "title": "Motivational factors and psychological processes in cosmetic breast augmentation surgery",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2009",
+        "authors": ["Anette S Solvi", "Kaja Foss", "Tilmann von Soest", "Arne Holte"],
+        "abstract": ["We investigated how and why prospective cosmetic breast augmentation patients decide to undergo such surgery. The results can offer important insights to plastic surgeons in addressing their patients' motives and expectations, and thereby avoiding potential patient dissatisfaction and disappointment. It is also a necessary first step to better unde..."]
+      },
+      {
+        "title": "Testing the Diagnosis of Dissociative Identity Disorder Through Measures of Dissociation, Absorption, Hypnotizability and PTSD: A Norwegian Pilot Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2009",
+        "authors": ["Karl Yngvar Dale", "Renate Berg", "Åke Elden", "Arne Holte"],
+        "abstract": ["A total of 14 women meeting criteria for dissociative identity disorder (DID) based on the Diagnostic and Statistical Manual of Mental Disorders (4th ed. [DSM-IV]) were compared to a group of women (n = 10) with other dissociative diagnoses and a group of normal controls (n = 14) with regard to dissociativity, absorption, trauma related symptoms an..."]
+      },
+      {
+        "title": "Effects of client and therapist ethnicity and ethnic matching: A prospective naturalistic study of outpatient mental health treatment in Northern Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2008",
+        "authors": ["Snefrid Møllersen", "Harold C Sexton", "Arne Holte"],
+        "abstract": ["We explored the effects of ethnicity on mental health treatment in the population of North Norway that largely consists of indigenous Sami and non-Sami Norwegians. As the two groups are comparable in their socio-economics, ethnic effects can be separated from their most common confounders. The effect of client and therapist ethnicity and client-the..."]
+      },
+      {
+        "title": "Expanding the Concept of Motivation to Change: The Content of Patients' Wish to Recover from Anorexia Nervosa",
+        "tags": ["Article"],
+        "date": "Nov 2008",
+        "authors": ["Ragnfrid Nordbø", "Kjersti Solhaug Gulliksen", "Ester M S Espeset", "Arne Holte"],
+        "abstract": ["Motivational approaches to anorexia nervosa (AN) have mainly concerned motivational quality and quantity. We investigated the content of patients' wish to recover.\nEighteen women, aged 18-39, with AN were interviewed in depth using a phenomenological study design. Interviews were tape-recorded, transcribed, and analyzed using the QSR-N*Vivo softwar..."]
+      },
+      {
+        "title": "Ethnicity as a variable in mental health research: A systematic review of articles published 1990-2004",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2008",
+        "authors": ["Snefrid Møllersen", "Arne Holte"],
+        "abstract": ["The objective of the study was to investigate how the ethnic variable has been used in mental health research, in theory, in measurement and classification criteria. Journal articles published 1990-2004 that address original research on psychopathology, treatment and mental health services and with \"ethnic\" or \"ethnicity\" in their title or abstract..."]
+      },
+      {
+        "title": "Dissociative identity disorder and prepulse inhibition of the acoustic startle reflex",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2008",
+        "authors": ["Karl Yngvar Dale", "Magne Arve Flaten", "Åke Elden", "Arne Holte"],
+        "abstract": ["A group of persons with dissociative identity disorder (DID) was compared with a group of persons with other dissociative disorders, and a group of nondiagnosed controls with regard to prepulse inhibition (PPI) of the acoustic startle reflex. The findings suggest maladaptive attentional processes at a controlled level, but not at a preattentive aut..."]
+      },
+      {
+        "title": "Relationship control and interpersonal perception in marriage",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Lars Wichstrøm", "Arne Holte"],
+        "abstract": ["The correlation between married couples' interpersonal perception and relationship control in communication was investigated. A normated, standardized and shortened version of Laing et al.'s Interpersonal Perception method (IPM) was used to measure interpersonal perception. The test contain three levels of perception, namely (1) direct perception o..."]
+      },
+      {
+        "title": "A validation and short form of the Basic Character Inventory",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2008",
+        "authors": ["Torsten B Neilands", "David H. Silvera", "Judith A Perry", "Arne Holte"],
+        "abstract": ["The Basic Character Inventory (BCI) contains 136 items, 17 lower-order personality factors and three higher-order personality factors derived from psychoanalytic theory: Oral, Obsessive Compulsion, and Hysteria. Previous research that investigated the BCI's psychometric properties examined small, special populations and did not use modern statistic..."]
+      },
+      {
+        "title": "Decreased approach motivation in depression",
+        "tags": ["Article"],
+        "date": "Jan 2007",
+        "authors": ["Catharina Elisabeth Arfwedson Wang", "Tim Brennen", "Arne Holte"],
+        "abstract": ["The present study examined relations between choice preference and reaction time to emotionally valenced words, dysphoric symptoms (BDI), and dysfunctional attitudes (DAS) in clinically depressed (CD; n= 61), previously depressed (PD; n= 42), and never depressed controls (ND; n= 46). The results showed: (1) NDs and PDs exhibited a choice preference..."]
+      },
+      {
+        "title": "The meaning of self-starvation: Qualitative study of patients' perception of anorexia nervosa",
+        "tags": ["Article"],
+        "date": "Nov 2006",
+        "authors": ["Ragnfrid Nordbø", "Ester M S Espeset", "Kjersti Solhaug Gulliksen", "Arne Holte"],
+        "abstract": ["Anorexia nervosa (AN) patients tend to place a positive value on their symptoms. Many clinicians believe that this plays a central role in maintaining the disorder. However, empirical research on how patients attribute meaning to their symptoms is lacking. This study aims at systematically exploring the meaning that the patients with AN attribute t..."]
+      },
+      {
+        "title": "Verbal memory performance of mildly to moderately depressed outpatient younger adults",
+        "tags": ["Article"],
+        "date": "Jul 2006",
+        "authors": ["Catharina Elisabeth Arfwedson Wang", "Marianne Berg Halvorsen", "Kjetil Sundet", "Knut Waterloo"],
+        "abstract": ["Memory impairment is associated with major depression. Studies on young adults are, however, rare and show inconsistent and contradictory results. The present study investigated the relationship between mild to moderate depression and verbal memory functioning in a relatively large sample of young, non-psychotic, mainly non-medicated outpatients.\nF..."]
+      },
+      {
+        "title": "Alcohol problems, mental disorder and mental health among suicide attempters 5-9 years after treatment by child and adolescent outpatient psychiatry",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2006",
+        "authors": ["Tove Skarbø", "Jan Harald Rosenvinge", "Arne Holte"],
+        "abstract": ["Many studies report associations between alcohol problems, mental disorder, mental health and suicidal behaviour. Still, more knowledge is needed about possible differential characteristics of these factors in risk groups. This naturalistic and retrospective study included former patients who received emergency treatment in child and adolescent out..."]
+      },
+      {
+        "title": "Automatic and Effortful Processing of Self‐Statements in Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2006",
+        "authors": ["Catharina Elisabeth Arfwedson Wang", "Tim Brennen", "Arne Holte"],
+        "abstract": ["Clark and Beck (1999) and Williams et al. (1997) have come up with quite different conclusions regarding which cognitive processes are most affected by negative self-schemata and negative knowledge structures. In order to increase the understanding of differences in effortful and automatic processing in depression, we compared never depressed (ND),..."]
+      },
+      {
+        "title": "Diagnose Bipolar Affektiv Lidelse: Foreldres Erfaring (Diagnosis Bipolar Affective Disorder: Parents' Experience).",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["A Thorn", "Arne Holte"],
+        "abstract": ["Formål: Formålet med undersøkelsen var å beskrive\nhvilke erfaringer foreldre kan ha når en sønn eller\ndatter får diagnosen bipolar affektiv lidelse, innvirkning\ndiagnosen kan ha på foreldres liv, og erfaringer\nforeldre kan ha med psykisk helsevern. Metode: Undersøkelsen\nbenyttet et kvalitativt, fenomenologisk forskningsdesign.\nDatamaterialet består..."]
+      },
+      {
+        "title": "Pårørende til psykisk lidende: Fra tilskuer til samarbeidspartner (Next off kin to a mentally ill: From spectator to collaborator).",
+        "tags": ["Chapter"],
+        "date": "Jan 2006",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Diagnose Schizofreni: Foreldres erfaring (Diagnosis Schizophrenia: Parents' Experience).",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["L Engmark", "B Alfstadsæther", "Arne Holte"],
+        "abstract": ["Formål: Formålet med undersøkelsen var å beskrive\nulike typer erfaringer foreldre kan ha når deres sønn\neller datter har fått diagnosen schizofreni, hvilken\ninnvirkning lidelsen kan ha på foreldres eget liv, og\nhvilke generelle erfaringer foreldre til personer med\ndiagnosen schizofreni kan ha med psykisk helsevern.\nMetode: Undersøkelsen benyttet de..."]
+      },
+      {
+        "title": "The Mental Health Reform: Means and Ends (Psykisk helsereformen: Midler og mål). Journal of the Norwegian Psychological Association, 2006",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "The Structure of Maladaptive Schemas: A Confirmatory Factor Analysis and a Psychometric Evaluation of Factor-Derived Scales",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2005",
+        "authors": ["Asle Hoffart", "Harold Sexton", "Liv M. Hedley", "Arne Holte"],
+        "abstract": ["One thousand and thirty-seven psychiatric patients and non-patients from six different sites completed the 205-item Young\nSchema Questionnaire or its shortended form, the 75-item Young Schema Questionnaire-S. Among 888 of the subjects, who all\nwere patients, a confirmatory factor analysis (CFA) of the 75 items included in both forms of the question..."]
+      },
+      {
+        "title": "Mechanisms of recurrent depression: A cognitive battle model and some preliminary results",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Catharina Elisabeth Arfwedson Wang", "Tim Brennen", "Arne Holte"],
+        "abstract": ["Theoretical models of cognitive mechanisms assumed to be involved in recurrent depression are discussed and a cognitive battle process between compensatory coping strategies and the automatic processing of negative information is suggested. Preliminary support for the model comes from a study that investigated preferences for positive and negative..."]
+      },
+      {
+        "title": "Ethnic variations in the initial phase of mental health treatment: A study of Sami and non-Sami clients and therapists in northern Norway",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Snefrid Møllersen", "Harold C Sexton", "Arne Holte"],
+        "abstract": ["Several studies indicate that mental health and mental health service vary with ethnicity. Ethnically linked social differences affect these results. We examined the multiethnic population in northern Norway where social inequalities between the Sami and the non-Sami population are not prominent. Clients (N=347) and therapists (N=32) in outpatient..."]
+      },
+      {
+        "title": "Inhibin A and B as markers of menopause: A five-year prospective longitudinal study of hormonal changes during the menopausal transition",
+        "tags": ["Article"],
+        "date": "Apr 2005",
+        "authors": ["Inger Overlie", "Lars Mørkrid", "Anna-Maria Andersson", "Arne Holte"],
+        "abstract": ["A more direct and precise hormonal marker of the menopause has been required for some time. The aim of this study was to identify the most accurate marker of the menopause, based on analyses of inhibin A and B, FSH, LH and estradiol (E(2)), among 59 healthy women without hormonal treatment during the perimenopause and early postmenopause.\nFifty-nin..."]
+      },
+      {
+        "title": "Suicide attempts and life events 5–9 years after referral for emergency psychiatric outpatient treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2005",
+        "authors": ["Tove Skarbø", "Jan Harald Rosenvinge", "Arne Holte"],
+        "abstract": ["The aim of this naturalistic and retrospective follow-up study was to identify putative predictors of suicide attempts among young adults at high risk with a particular view on adverse life events. One hundred young adults who had been given emergency treatment for mental health problems in child and adolescent outpatient clinics in Norway were ass..."]
+      },
+      {
+        "title": "Adolescent life events and adult mental health 5–9 years after referral for acute psychiatric outpatient treatment",
+        "tags": ["Article"],
+        "date": "Dec 2004",
+        "authors": ["T. Skarbø", "Jan Harald Rosenvinge", "Arne Holte"],
+        "abstract": ["Knowledge is needed of mental health in relation to life events of former acute child and adolescent outpatients at risk of suicide.\nThe present study describes the long‐term mental health outcome of young adults who as children or adolescents were referred to outpatient psychiatry for mental health problems, and identifies putative mental health s..."]
+      },
+      {
+        "title": "Musculo-skeletal pain, psychological distress, and hormones during the menopausal transition",
+        "tags": ["Article"],
+        "date": "Jan 2004",
+        "authors": ["Arnstein Finset", "Inger Øverlie", "Arne Holte"],
+        "abstract": ["To investigate the relationship between sex hormones (estradiol, testosterone, androstendione, DHEA-S) and prolactin on one hand and musculo-skeletal pain and psychological distress on the other during the menopausal transition.\nFifty-seven regularly menstruating women, who were studied over five consecutive years, who reached menopause before the..."]
+      },
+      {
+        "title": "Menopause in Norway: personality, hormones, pain and symptoms",
+        "tags": ["Article"],
+        "date": "Aug 2003",
+        "authors": ["Arnstein Finset", "I Overlie", "Arne Holte"],
+        "abstract": ["Background:Our group has shown a positive relationship between androgens and masculine personality style and that certain androgens (DHEA-S) and masculine personality style seem to protect against the prevalence of hot flushes late in the menopausal transition. The purpose of the present paper was to investigate what variables were related to sever..."]
+      },
+      {
+        "title": "Gendered personality dispositions, hormone values, and hot flushes during and after menopause",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2003",
+        "authors": ["I Øverlie", "Arnstein Finset", "Arne Holte"],
+        "abstract": ["The study aim was to test the relationship between gendered personality dispositions (GPD), sex hormones, and vasomotor complaints in the menopausal transition. Fifty-seven healthy women (mean age 51.1 years, standard deviation 2.0) were drawn from a population registry. At enrollment all women were menstruating regularly, and all women reached men..."]
+      },
+      {
+        "title": "Becker, A., Nugent, J. K., Olson, K., Holte, A. Seasonal variation in newborn behavior. Presented at the Annual Conference of the Society for Reproductive and Infant Psychology, Sheffield, UK, Sept 11-13, 2002.",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2002",
+        "authors": ["J. Kevin Nugent", "A. Becker", "Karen Olson", "Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Are Oral, Obsessive, and Hysterical Personality Traits Related to Disturbed Eating Patterns? A General Population Study of 6,313 Men and Women",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2002",
+        "authors": ["Judith A Perry", "David H. Silvera", "Jan Harald Rosenvinge", "Arne Holte"],
+        "abstract": ["In this study, we explored 3 psychodynamically defined personality traits as predictors of eating disturbances among men and women in the general population. The Basic Character Inventory (Torgersen, 1980) was used to measure oral, obsessive, and hysteria traits along with the Eating Disturbance Scale (Rosenvinge et al., 2001). Oral personality fac..."]
+      },
+      {
+        "title": "Androgens and estrogens in relation to hot flushes during the menopausal transition",
+        "tags": ["Article"],
+        "date": "Feb 2002",
+        "authors": ["Inger Øverlie", "Mette Haase Moen", "Arne Holte", "Arnstein Finset"],
+        "abstract": ["In this paper, the association of hormones to vasomotor complaints during the menopausal transition is discussed. Fifty-seven regularly menstruating women without history of hormone replacement therapy (HRT) were selected for a longitudinal, prospective study around the menopausal transition. The mean age at the start of the study was 51.3 (+/-2.0)..."]
+      },
+      {
+        "title": "Mestring av depresjon: Veileder i forståelse og behandling av stemningslidelser (Coping with Depression: Guide to understanding and treatment of mood disorders).",
+        "tags": ["Book"],
+        "date": "Jan 2002",
+        "authors": ["T Berge", "ED Axelsen", "Arne Holte", "Reidar Ommundsen"],
+        "abstract": []
+      },
+      {
+        "title": "Det kliniske intervju: Epistemologiske betrakninger (The Clinical Interview: Epistemological considerations).",
+        "tags": ["Chapter"],
+        "date": "Jan 2002",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Seasonal variation in newborn behavior",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["A Becker", "JK Nugent", "Karen Olson", "Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Seasonal eating patterns in Norway: A non-clinical population study",
+        "tags": ["Article"],
+        "date": "Oct 2001",
+        "authors": ["Judith A Perry", "David H. Silvera", "Jan Harald Rosenvinge", "Arne Holte"],
+        "abstract": ["Seasonal deviations in normal eating habits have been associated with seasonal affective disorder (SAD) and bulimia nervosa (BN). Two studies on seasonal variation in eating habits are reported in this paper. In Study 1, seasonal patterns of eating disturbances were measured cross-sectionally in 6313 participants using an eating disturbance scale (..."]
+      },
+      {
+        "title": "[Can psychological treatment help patients with cancer?]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2001",
+        "authors": ["Kjersti Fredheim", "Jan Harald Rosenvinge", "Arne Holte"],
+        "abstract": ["A number of studies have shown that psychological interventions may supplement the medical treatment of cancer patients by reducing psychological morbidity and increasing their quality of life. However, previous literature reviews point to methodological flaws limiting the specific and definite conclusions that can be drawn with respect to interven..."]
+      },
+      {
+        "title": "[Psychosocial follow up after parasuicide at hospital departments in Norway]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2001",
+        "authors": ["Erlend Mork", "G Ekeid", "Mette Ystgaard", "Arne Holte"],
+        "abstract": ["Routines and standards of care for parasuicide patients in general hospitals in Norway were reviewed in relation to international and national recommendations.\nTelephone interviews were conducted with personnel at all Norwegian general hospitals with emergency units. 55 of a total of 58 hospitals participated (95%).\nTwo thirds of the hospitals repo..."]
+      },
+      {
+        "title": "A new instrument measuring disturbed eating patterns in community populations: Development and initial validation of a five-item scale (EDS-5)",
+        "tags": ["Article"],
+        "date": "Feb 2001",
+        "authors": ["Jan Harald Rosenvinge", "Judith A Perry", "Lars Bjørgum", "Arne Holte"],
+        "abstract": ["This paper reports on the development and validation of a brief scale, the Eating Disturbance Scale (EDS-5), as a screening instrument for problematic eating disorders in normal populations. A nationwide sample of 6313 subjects completed 22 questions about eating patterns. Using principal component analysis, these questions were cut down to five it..."]
+      },
+      {
+        "title": "Psykososial oppfølging etter parasuicid i norske sykehus",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2001",
+        "authors": ["Erlend Mork", "G Ekeid", "Mette Ystgaard", "Arne Holte"],
+        "abstract": ["BACKGROUND: Routines and standards of care for parasuicide patients in general hospitals in Norway were reviewed in relation to international and national recommendations.\n\nMATERIAL AND METHODS: Telephone interviews were conducted with personnel at all Norwegian general hospitals with emergency units. 55 of a total of 58 hospitals participated (95%..."]
+      },
+      {
+        "title": "Behandling av depresjon i allmennpraksis. (Treatment of Depression in General Practice).",
+        "tags": ["Book", "Full-text available"],
+        "date": "Apr 2000",
+        "authors": ["Geir W Jacobsen", "L Haugen", "Arne Holte", "C Sørhaug"],
+        "abstract": []
+      },
+      {
+        "title": "Psykoterapi og psykoterapiveiledning (Psychotherapy and Supervision of Psychotherapy)",
+        "tags": ["Book"],
+        "date": "Jan 2000",
+        "authors": ["Arne Holte", "Geir Nielsen", "Michael Helge Rønnestad"],
+        "abstract": []
+      },
+      {
+        "title": "Basal kommunikasjonsteori: Har psykoterapeuter noe å lære? (Basic theory of human communication: Is there anything for psychotherapists to learn?)",
+        "tags": ["Chapter"],
+        "date": "Jan 2000",
+        "authors": ["Arne Holte"],
+        "abstract": ["Skal psykoterapiforskningen leden an i utviklingen av fremtidens psykoterapi, må den utnytte kunnskapen fra de psykologisk grunndisipliner bedre. Forskerne må ikke bare løpe etter klinikerne og bevise, de må selv levere premissene. Som eksempel på nyttig grunnkunnskap for psykoterapi, gjennomgår Holte forskning på ikke-verbal kommunikasjon. Ikke-ve..."]
+      },
+      {
+        "title": "The endocrine transition around menopause - A five years prospective study with profiles of gonadotropines, estrogens, androgens and SHBG among healthy women",
+        "tags": ["Article"],
+        "date": "Sep 1999",
+        "authors": ["Inger Overlie", "Mette Haase Moen", "Lars Mørkrid", "Arne Holte"],
+        "abstract": ["The purpose of this study was to investigate the hormonal changes during the menopausal transition in a non-clinical population.\nFifty-nine healthy Norwegian women participated in a five year prospective longitudinal study during the transition from pre- to post-menopause, starting one to four years before menopause, and ending one to four years po..."]
+      },
+      {
+        "title": "Analyzing the relation between self-esteem and eating disorders: Differential effects of self-liking and self-competence",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 1998",
+        "authors": ["David H. Silvera", "T D Bergersen", "L Bjørgum", "Arne Holte"],
+        "abstract": ["Research in the past has demonstrated an association between low self-esteem and eating disorders. Recent research on self-esteem has shown, however, that self-esteem is composed of two distinct factors--self-liking and self-competence. The present study examined the relation between these two self-esteem factors and both eating disorders and eatin..."]
+      },
+      {
+        "title": "Menopause, mood and hormone replacement therapy: Methodological issues",
+        "tags": ["Article"],
+        "date": "May 1998",
+        "authors": ["Arne Holte"],
+        "abstract": ["In this paper a number of methodological issues relating to research on the relationship between the menopause, mood and hormone replacement therapy (HRT) are discussed. These issues relate to problems of design and statistical analyses, problems which have prevented the reaching of definite conclusions regarding the relationship between menopause,..."]
+      },
+      {
+        "title": "Methodological issues in menopause research",
+        "tags": ["Article"],
+        "date": "May 1998",
+        "authors": ["J.G. Green", "Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Methods in the study of menopause",
+        "tags": ["Article"],
+        "date": "Jan 1998",
+        "authors": ["Arne Holte"],
+        "abstract": ["In this paper a number of methodological issues relating to research on the relationship between the menopause, mood and hormone replacement therapy (HRT) are discussed. These issues relate to problems of design and statistical analyses, problems which have prevented the reaching of definite conclusions regarding the relationship between menopause,..."]
+      },
+      {
+        "title": "Nonverbal klinisk kommunikasjon: Fire regimer (Nonverbal clinical communication: Four regimens).",
+        "tags": ["Chapter"],
+        "date": "Jan 1998",
+        "authors": ["Arne Holte"],
+        "abstract": ["I kapitlet skisseres en modell med fire regimer for nonverbal kommunikasjon mellom lege og pasient. Modellen kan benyttes for både pedgogiske og forskningsmessige formål til å klassifisere, gjengjenne, kvalitetsteste og beskrive prosess i ulike kommunikasjonsregimer i klinisk praksis. Modellen kan brukes variabelanalytisk til å studere forskjeller..."]
+      },
+      {
+        "title": "The epidemiology of SAD.",
+        "tags": ["Technical Report"],
+        "date": "Jan 1998",
+        "authors": ["Arne Holte", "A Magnusson"],
+        "abstract": []
+      },
+      {
+        "title": "Årsstidsavhengig affektvariasjon: Svar på spørsmål angående diagnose og måling (Seasonal affect variation: reply to questions about diagnosis and measurement).",
+        "tags": ["Article"],
+        "date": "Jan 1998",
+        "authors": ["Arne Holte", "KB Nilsen", "J Edvardsen"],
+        "abstract": []
+      },
+      {
+        "title": "Leisure-Time Physical Exercise: Prevalence, Attitudinal Correlates, and Behavioral Correlates among Young Europeans from 21 Countries",
+        "tags": ["Article"],
+        "date": "Nov 1997",
+        "authors": ["Andrew Steptoe", "Jane Wardle", "Ray Fuller", "Lars Wichstrøm"],
+        "abstract": ["Increasing leisure time physical exercise is a major target of public health programs throughout the developed world, but few international comparisons of exercise habits among people from diverse cultures have been published. The objectives of this study were to assess the prevalence of exercise among young adults from 21 European countries, to an..."]
+      },
+      {
+        "title": "F127 Mood and menopause: Update 1992–1996",
+        "tags": ["Article"],
+        "date": "Jan 1997",
+        "authors": ["Arne Holte"],
+        "abstract": []
+      },
+      {
+        "title": "Årstidsavhengig affektvariasjon og personlighetstrekk blant unge voksne i Finnmark, Troms og Oslo. (Seasonal affect variation and personality traits among young adults in Finmark, Troms and Oslo).",
+        "tags": ["Article"],
+        "date": "Jan 1997",
+        "authors": ["KB Nilsen", "J Edvardsen", "Astrid M Richardsen", "Arne Holte"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Ph.D."],
+    "publications": [154],
+    "reads": [50592],
+    "citations": [3678]
   }
 }

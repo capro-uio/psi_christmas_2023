@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Peder Mortvedt Isager",
-    "id": "_EcbBtYAAAAJ",
-    "affiliation": "Associate Professor at Oslo New University College",
+    "name": ["Peder Mortvedt Isager"],
+    "id": ["_EcbBtYAAAAJ"],
+    "affiliation": ["Associate Professor at Oslo New University College"],
     "data": {
       "publications": [
         {
@@ -517,8 +517,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-6922-3590",
-    "name": "Peder Isager",
+    "orcid": ["0000-0002-6922-3590"],
+    "name": ["Peder Isager"],
     "distinctions": [],
     "education": [
       {
@@ -529,31 +529,31 @@
       },
       {
         "start": "2021",
-        "end": "2022",
         "position": "assistant professor",
         "organisation": "Oslo Nye Høyskole",
-        "country": "NO"
+        "country": "NO",
+        "end": "2022"
       },
       {
         "start": "2017",
-        "end": "2021",
         "position": "PhD Student",
         "organisation": "Eindhoven University of Technology",
-        "country": "NL"
+        "country": "NL",
+        "end": "2021"
       },
       {
         "start": "2017",
-        "end": "2017",
         "position": "Research Assistant",
         "organisation": "University of Linköping",
-        "country": "SE"
+        "country": "SE",
+        "end": "2017"
       },
       {
         "start": "2014",
-        "end": "2017",
         "position": "Research Assistant",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2017"
       }
     ],
     "employment": [
@@ -565,31 +565,31 @@
       },
       {
         "start": "2021",
-        "end": "2022",
         "position": "assistant professor",
         "organisation": "Oslo Nye Høyskole",
-        "country": "NO"
+        "country": "NO",
+        "end": "2022"
       },
       {
         "start": "2017",
-        "end": "2021",
         "position": "PhD Student",
         "organisation": "Eindhoven University of Technology",
-        "country": "NL"
+        "country": "NL",
+        "end": "2021"
       },
       {
         "start": "2017",
-        "end": "2017",
         "position": "Research Assistant",
         "organisation": "University of Linköping",
-        "country": "SE"
+        "country": "SE",
+        "end": "2017"
       },
       {
         "start": "2014",
-        "end": "2017",
         "position": "Research Assistant",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2017"
       }
     ],
     "membership": [],
@@ -662,8 +662,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Peder Mortvedt Isager",
-    "id": "618557",
+    "name": ["Peder Mortvedt Isager"],
+    "id": ["618557"],
     "keywords": [],
     "position": ["Academic assistant", "Guest", "University college lecturer"],
     "img": {},
@@ -724,5 +724,15 @@
         "url": "https://api.cristin.no/v2/results/1598291"
       }
     ]
+  },
+  "rg": {
+    "id": "Mathilde_Mortvedt",
+    "name": "Mathilde Mortvedt",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Norwegian University of Science and Technology | NTNU, Norwegian University of Science and Technology, Department of Education",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

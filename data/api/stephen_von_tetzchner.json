@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Stephen von Tetzchner",
-    "id": "39RjIz4AAAAJ",
-    "affiliation": "Professor emeritus, Department of Psychology, University of Oslo",
+    "name": ["Stephen von Tetzchner"],
+    "id": ["39RjIz4AAAAJ"],
+    "affiliation": ["Professor emeritus, Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-1360-7958",
-    "name": "Stephen von Tetzchner",
+    "orcid": ["0000-0002-1360-7958"],
+    "name": ["Stephen von Tetzchner"],
     "distinctions": [],
     "education": [
       {
@@ -953,11 +953,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Stephen von Tetzchner",
-    "id": "23226",
+    "name": ["Stephen von Tetzchner"],
+    "id": ["23226"],
     "keywords": ["Children", "Communication", "Autism", "Rehabilitation", "Development Psychology", "Language", "Youth", "Children's reality", "Disability", "Pedagogical. psychological conselling and habilitation"],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/23226/picture",
+    "img": ["https://api.cristin.no/v2/persons/23226/picture"],
     "works": [
       {
         "type": "Academic lecture",
@@ -969,15 +969,15 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Executive Functions in a Population of Individuals with CHARGE Syndrome: Findings from Performance-Based and Rating Scale Measures According to a 3-Factor Model",
-        "journal": "Developmental Neurorehabilitation",
-        "url": "https://api.cristin.no/v2/results/2193069"
+        "url": "https://api.cristin.no/v2/results/2193069",
+        "journal": "Developmental Neurorehabilitation"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The assessment and diagnosis of intellectual disability when development is atypical. A Norwegian population study of individuals with CHARGE syndrome",
-        "journal": "International Journal of Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2190594"
+        "url": "https://api.cristin.no/v2/results/2190594",
+        "journal": "International Journal of Neuroscience"
       },
       {
         "type": "Academic lecture",
@@ -1007,8 +1007,8 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Measuring impact of augmentative and alternative communication interventions: adapting the family impact of assistive technology scale for augmentative and alternative communication (FIATS-AAC-No) for use in Norway",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/2112471"
+        "url": "https://api.cristin.no/v2/results/2112471",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Textbook",
@@ -1068,8 +1068,8 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Communication partner strategies in negotiation for meaning in interactions involving aided communication",
-        "journal": "Clinical Linguistics & Phonetics",
-        "url": "https://api.cristin.no/v2/results/2093071"
+        "url": "https://api.cristin.no/v2/results/2093071",
+        "journal": "Clinical Linguistics & Phonetics"
       },
       {
         "type": "Academic lecture",
@@ -1116,8 +1116,8 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Aided communication, mind understanding and co-construction of meaning",
-        "journal": "Developmental Neurorehabilitation",
-        "url": "https://api.cristin.no/v2/results/2039276"
+        "url": "https://api.cristin.no/v2/results/2039276",
+        "journal": "Developmental Neurorehabilitation"
       },
       {
         "type": "Academic lecture",
@@ -1134,8 +1134,8 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "journal": "Psykologi i kommunen (PIK)",
-        "url": "https://api.cristin.no/v2/results/2006353"
+        "url": "https://api.cristin.no/v2/results/2006353",
+        "journal": "Psykologi i kommunen (PIK)"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -1176,22 +1176,22 @@
         "type": "Academic article",
         "year": "2021",
         "title": "STRATEGIES IN CONVEYING INFORMATION ABOUT UNSHARED EVENTS USING AIDED COMMUNICATION",
-        "journal": "Child Language Teaching and Therapy",
-        "url": "https://api.cristin.no/v2/results/1946389"
+        "url": "https://api.cristin.no/v2/results/1946389",
+        "journal": "Child Language Teaching and Therapy"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Conversation patterns between children with severe speech impairment and their conversation partners in dyadic and multi-person interactions",
-        "journal": "Applied Linguistics",
-        "url": "https://api.cristin.no/v2/results/1921557"
+        "url": "https://api.cristin.no/v2/results/1921557",
+        "journal": "Applied Linguistics"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "At the end of the journey Lyle Lewis Lloyd (August 10 1934-February 12 2020)",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/1892905"
+        "url": "https://api.cristin.no/v2/results/1892905",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Academic lecture",
@@ -1220,28 +1220,28 @@
         "type": "Academic article",
         "year": "2020",
         "title": "Genetic and clinical variations in a Norwegian sample diagnosed with Rett syndrome",
-        "journal": "Brain & development (Tokyo. 1979)",
-        "url": "https://api.cristin.no/v2/results/1815132"
+        "url": "https://api.cristin.no/v2/results/1815132",
+        "journal": "Brain & development (Tokyo. 1979)"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Functional Outcomes of Children Identified Early in the Developmental Period as at Risk for ASD Utilizing the The Norwegian Mother, Father and Child Cohort Study (MoBa)",
-        "journal": "Journal of Autism and Developmental Disorders",
-        "url": "https://api.cristin.no/v2/results/1813307"
+        "url": "https://api.cristin.no/v2/results/1813307",
+        "journal": "Journal of Autism and Developmental Disorders"
       },
       {
         "type": "Feature article",
         "year": "2020",
-        "journal": "Adresseavisen",
-        "url": "https://api.cristin.no/v2/results/1809572"
+        "url": "https://api.cristin.no/v2/results/1809572",
+        "journal": "Adresseavisen"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Medical Issues in Adults with Rett Syndrome - A National Survey",
-        "journal": "Developmental Neurorehabilitation",
-        "url": "https://api.cristin.no/v2/results/1771484"
+        "url": "https://api.cristin.no/v2/results/1771484",
+        "journal": "Developmental Neurorehabilitation"
       },
       {
         "type": "Academic lecture",
@@ -1258,8 +1258,8 @@
       {
         "type": "Academic article",
         "year": "2019",
-        "journal": "StatpedMagasinet",
-        "url": "https://api.cristin.no/v2/results/1760352"
+        "url": "https://api.cristin.no/v2/results/1760352",
+        "journal": "StatpedMagasinet"
       },
       {
         "type": "Academic lecture",
@@ -1438,90 +1438,90 @@
         "type": "Academic article",
         "year": "2018",
         "title": "De novo mutations in SCN1A are associated with classic Rett syndrome: A case report",
-        "journal": "BMC Medical Genetics",
-        "url": "https://api.cristin.no/v2/results/1633886"
+        "url": "https://api.cristin.no/v2/results/1633886",
+        "journal": "BMC Medical Genetics"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "journal": "StatpedMagasinet",
-        "url": "https://api.cristin.no/v2/results/1623253"
+        "url": "https://api.cristin.no/v2/results/1623253",
+        "journal": "StatpedMagasinet"
       },
       {
         "type": "Feature article",
         "year": "2018",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/1603068"
+        "url": "https://api.cristin.no/v2/results/1603068",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Epilepsy in classic Rett syndrome: Course and characteristics in adult age",
-        "journal": "Epilepsy Research",
-        "url": "https://api.cristin.no/v2/results/1594930"
+        "url": "https://api.cristin.no/v2/results/1594930",
+        "journal": "Epilepsy Research"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Pupillary Responses to Illusions of Brightness in Autism Spectrum Disorder",
-        "journal": "i-Perception",
-        "url": "https://api.cristin.no/v2/results/1585826"
+        "url": "https://api.cristin.no/v2/results/1585826",
+        "journal": "i-Perception"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Communication aid provision and use among\r\nchildren and adolescents developing aided\r\ncommunication: An international survey",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/1583141"
+        "url": "https://api.cristin.no/v2/results/1583141",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Visual-spatial cognition in children using aided\r\ncommunication",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/1583133"
+        "url": "https://api.cristin.no/v2/results/1583133",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Assessment of aided language comprehension\r\nand use in children and adolescents with severe\r\nspeech and motor impairments",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/1583132"
+        "url": "https://api.cristin.no/v2/results/1583132",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Constructing narratives to describe video events\r\nusing aided communication",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/1583127"
+        "url": "https://api.cristin.no/v2/results/1583127",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Communicating the unknown: descriptions of pictured scenes and events presented on video by children and adolescents using aided communication and their peers using natural speech",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/1583118"
+        "url": "https://api.cristin.no/v2/results/1583118",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Vocabulary comprehension and strategies in name construction among children using aided communication",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/1583113"
+        "url": "https://api.cristin.no/v2/results/1583113",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Introduction to the special issue on aided\r\nlanguage processes, development, and use: An\r\ninternational perspective",
-        "journal": "Augmentative and Alternative Communication : AAC",
-        "url": "https://api.cristin.no/v2/results/1583066"
+        "url": "https://api.cristin.no/v2/results/1583066",
+        "journal": "Augmentative and Alternative Communication : AAC"
       },
       {
         "type": "Academic article",
         "year": "2018",
         "title": "Neuropsychological profiles of children with cerebral palsy",
-        "journal": "Developmental Neurorehabilitation",
-        "url": "https://api.cristin.no/v2/results/1452949"
+        "url": "https://api.cristin.no/v2/results/1452949",
+        "journal": "Developmental Neurorehabilitation"
       },
       {
         "type": "Academic lecture",
@@ -1532,8 +1532,8 @@
         "type": "Academic article",
         "year": "2017",
         "title": "Evaluation of parenting interventions to prevent violence against children in Colombia - a randomised controlled trial",
-        "journal": "Journal of Interpersonal Violence",
-        "url": "https://api.cristin.no/v2/results/1564137"
+        "url": "https://api.cristin.no/v2/results/1564137",
+        "journal": "Journal of Interpersonal Violence"
       },
       {
         "type": "Academic lecture",
@@ -1572,5 +1572,719 @@
         "url": "https://api.cristin.no/v2/results/1522199"
       }
     ]
+  },
+  "rg": {
+    "id": "Stephen-Von-Tetzchner",
+    "name": "Stephen von Tetzchner",
+    "img": "https://i1.rgstatic.net/ii/profile.image/889203600683010-1589014067403_Q128/Stephen-Von-Tetzchner.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Language", "Language Development", "Language Learning Strategies"],
+    "works": [
+      {
+        "title": "Executive Functions in a Population of Individuals with CHARGE Syndrome: Findings from Performance-Based and Rating Scale Measures According to a 3-Factor Model",
+        "tags": ["Article"],
+        "date": "Sep 2023",
+        "authors": ["Lynn Skei", "Stephen von Tetzchner", "Timothy S Hartshorne", "Nils Inge Landrø"],
+        "abstract": ["Purpose: \nTo identify possible predictors of executive functions of individuals with CHARGE syndrome, as these will be important targets for interventions.\n\nMethods: \nA population-based cross-sectional study investigating the executive functions of a representative sample of 35 Norwegians with CHARGE syndrome divided into two subgroups to handle th..."]
+      },
+      {
+        "title": "Measuring impact of augmentative and alternative communication interventions: adapting the family impact of assistive technology scale for augmentative and alternative communication (FIATS-AAC-No) for use in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Ragnhild Therese Fjeldvang", "Marit Giske Nordaas", "Stephen von Tetzchner", "Kristine Stadskleiv"],
+        "abstract": ["Individuals who require augmentative and alternative communication (AAC) comprise a heterogeneous group, but all need follow-up to assure the appropriateness of implemented interventions. To enable this, outcome measures such as the Family Impact of Assistive Technology Scale for Augmentative and Alternative Communication (FIATS-AAC) may be used. H..."]
+      },
+      {
+        "title": "Communication partner strategies in negotiation for meaning in interactions involving aided communication",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Kirsi Neuvonen", "Martine M. Smith", "Kaisa Launonen", "Stephen von Tetzchner"],
+        "abstract": ["Co-constructing meaning is a common feature of all conversations but may have a more specific role in interactions where one of the participants uses aided communication. The present study applies qualitative descriptive analysis supported by quantitative measures in exploring meaning-negotiation strategies of speaking communication partners in tas..."]
+      },
+      {
+        "title": "Typical and Atypical Child and Adolescent Development 7: Social Relations, Self-awareness and Identity",
+        "tags": ["Book"],
+        "date": "Sep 2022",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Aided communication, mind understanding and co-construction of meaning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Kristine Stadskleiv", "Beata Batorowicz", "Annika Sandberg", "Stephen von Tetzchner"],
+        "abstract": ["Mind understanding allows for the adaptation of expressive language to a listener and is a core element when communicating new information to a communication partner. There is limited knowledge about the relationship between aided language and mind understanding. This study investigates this relationship using a communication task. The participants..."]
+      },
+      {
+        "title": "Strategies in conveying information about unshared events using aided communication",
+        "tags": ["Article"],
+        "date": "Nov 2021",
+        "authors": ["Kirsi Neuvonen", "Kaisa Launonen", "Martine Smith", "Stephen von Tetzchner"],
+        "abstract": ["Describing events may be challenging for any child, but children who use communication aids may face unique linguistic, pragmatic, and strategic challenges in conveying information with the communication means they have available. This study explores strategies used by young, aided communicators when describing the content of a video unknown to the..."]
+      },
+      {
+        "title": "Conversation Patterns between Children with Severe Speech Impairment and their Conversation Partners in Dyadic and Multi-person Interactions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Christina Sotiropoulou Drosopoulou", "Janice Murray", "Martine Smith", "Stephen von Tetzchner"],
+        "abstract": ["Active engagement in interactions is crucial for the development of identity, social competence, and cognitive abilities. For children with severe speech impairment (SSI) who have little or no intelligible speech, active participation in conversations is challenging and can be critical for their social inclusion and participation. The present study..."]
+      },
+      {
+        "title": "Functional Outcomes of Children Identified Early in the Developmental Period as at Risk for ASD Utilizing the The Norwegian Mother, Father and Child Cohort Study (MoBa)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Nina Stenberg", "Synnve Schjolberg", "Frederick Shic", "Roald A. Øien"],
+        "abstract": ["Early identification of autism spectrum disorder (ASD) is regarded as crucial for swift access to early intervention and, subsequently, better outcomes later in life. However, current instruments miss large proportions of children who later go on to be diagnosed with ASD, raising a question of what these instruments measure. The present study utili..."]
+      },
+      {
+        "title": "At the end of the journey Lyle Lewis Lloyd (August 10 1934–February 12 2020)",
+        "tags": ["Article"],
+        "date": "Apr 2020",
+        "authors": ["Erna Alant", "Carmen Basil", "Margareta Jennische", "Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Genetic and clinical variations in a Norwegian sample diagnosed with Rett syndrome",
+        "tags": ["Article"],
+        "date": "Apr 2020",
+        "authors": ["Mari Wold Henriksen", "Hilde Breck", "Yngve Sejersted", "Ola H Skjeldal"],
+        "abstract": ["Background and purpose\nRett syndrome (RTT) is a neurodevelopmental disorder mainly caused by mutations in MECP2. The diagnostic criteria of RTT are clinical; mutations in MECP2 are neither diagnostic nor necessary, and a mutation in another gene does not exclude RTT. We attempted to correlate genotype and phenotype to see if there are significant c..."]
+      },
+      {
+        "title": "Medical Issues in Adults with Rett Syndrome – A National Survey",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Mari Wold Henriksen", "Hilde Breck", "Stephen von Tetzchner", "Ola H Skjeldal"],
+        "abstract": ["Objectives: To examine main health issues in a population of females with Rett syndrome, with a focus on individuals aged 36 or older. Methods: A national survey including 85 females, divided into a younger (1–20 years), a middle (21–35 years) and an older group (36–66 years). Data include clinical examination, medical records and parental intervie..."]
+      },
+      {
+        "title": "Child and Adolescent Psychology: Typical and Atypical Development",
+        "tags": ["Book"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Developmental Psychology",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "The Development of Communication and Language",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Gender Development",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Genes, Evolution, Heredity and Environment",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Methods of Gaining Knowledge About Children",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Theories of Cognitive Development",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Emotions and Emotion Regulation",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Brain Development",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Attachment",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Perceptual Development",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Conceptual Development and Reasoning",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Toward Adulthood",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Theoretical Perspectives",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Temperament and Personality",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Moral Development",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Sibling and Peer Relations",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Child and Adolescent Disorders",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Learning and Instruction",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Attention, Memory and Executive Function",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Stimulation And Activity During Fetal Development",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Mind Understanding",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Media and Understanding of Society",
+        "tags": ["Chapter"],
+        "date": "Oct 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "De novo mutations in SCN1A are associated with classic Rett syndrome: A case report",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Mari Wold Henriksen", "Kirstine Ravn", "Benedicte Paus", "Ola H Skjeldal"],
+        "abstract": ["Background\nRett syndrome (RTT) is a neurodevelopmental disorder. In more than 95% of females with classic RTT a pathogenic mutation in MECP2 has been identified. This leaves a small fraction of classic cases with other genetic causes. So far, there has not been reported any other gene that may account for the majority of these cases.\n\nCase presenta..."]
+      },
+      {
+        "title": "Exploring the pragmatic reasoning of school-age children who have physical disabilities and use AAC",
+        "tags": ["Conference Paper"],
+        "date": "Aug 2018",
+        "authors": ["Beata Batorowicz", "Gregor Renner", "Stephen von Tetzchner"],
+        "abstract": ["Pragmatic reasoning is implied in the use of language for different purposes and necessary for efficient communication within a particular context (Frank & Goodman, 2012; Getty & Summy, 2006). Pragmatic abilities are thus important for children to develop socially and interact with adults and peers (Fujiki, Brinton, & Clarke, 2002). Knowledge about..."]
+      },
+      {
+        "title": "CO-CONSTRUCTION BETWEEN CHILDREN WITH PHYSICAL DISABILITIES WHO USE AIDED COMMUNICATION AND THEIR FAMILIAR COMMUNICATION PARTNERS",
+        "tags": ["Conference Paper"],
+        "date": "Aug 2018",
+        "authors": ["Gregor Renner", "Beata Batorowicz", "Stephen von Tetzchner"],
+        "abstract": ["Negotiation of meaning is an inherent element of conversations (Nelson, 2007). For many children who use augmentative and alternative communication (AAC), conversational interactions include co-construction of the meanings of the aided utterances (Brekke & von Tetzchner, 2003). Children using aided communication and their communication partners dev..."]
+      },
+      {
+        "title": "Epilepsy in Classic Rett syndrome: Course and Characteristics in Adult Age",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Mari Wold Henriksen", "Hilde Breck", "Stephen von Tetzchner", "Eylert Brodtkorb"],
+        "abstract": ["Purpose: \nRett syndrome (RTT) is a neurodevelopmental disorder that almost exclusively affects females. Epilepsy is a major clinical feature, but its long-term course in RTT has not been sufficiently explored. This study addresses the development of the epilepsy in adults with RTT.\n\nMethods: \nAvailable females diagnosed with RTT in Norway were aske..."]
+      },
+      {
+        "title": "Pupillary Responses to Illusions of Brightness in Autism Spectrum Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Bruno Laeng", "Fredrik Svartdal Færevaag", "Stine Tanggaard", "Stephen von Tetzchner"],
+        "abstract": ["Previous studies indicate that individuals with autism spectrum disorder (ASD) do not experience optical illusions in the same manner as individuals with typical development. This study uses pupillary responses as an objective measure of perception of visual illusions, with the hypothesis that adults with ASD will show weaker pupillary constriction..."]
+      },
+      {
+        "title": "Constructing narratives to describe video events using aided communication",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Martine Smith", "Beata Batorowicz", "Annika Sandberg", "Stephen von Tetzchner"],
+        "abstract": ["Narratives are a pervasive form of discourse and a rich source for exploring a range of language and cognitive skills. The limited research base to date suggests that narratives generated using aided communication may be structurally simple, and that features of cohesion and reference may be lacking. This study reports on the analysis of narratives..."]
+      },
+      {
+        "title": "Communicating the unknown: descriptions of pictured scenes and events presented on video by children and adolescents using aided communication and their peers using natural speech",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["Janice Murray", "Annika Sandberg", "Martine Smith", "Stephen von Tetzchner"],
+        "abstract": ["The facility to describe scenes and events is important in everyday communication, but little is known about the description skills and strategies of young people using aided communication. This article explores how 81 children and adolescents using aided communication and 56 peers using natural speech, aged 5-15 years, described pictured scenes an..."]
+      },
+      {
+        "title": "Communication aid provision and use among children and adolescents developing aided communication: an international survey",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["Stephen von Tetzchner", "Kaisa Launonen", "Beata Batorowicz", "Débora Deliberato"],
+        "abstract": ["A fundamental requirement of a supportive language development for young children who need aided communication is that an aided communication system is made available and its use is supported. There is limited information about the age at which children are typically provided with a communication aid or about how aided communication is used in ever..."]
+      },
+      {
+        "title": "Visual-spatial cognition in children using aided communication",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["Kristine Stadskleiv", "Beata Batorowicz", "Munique Massaro", "Stephen von Tetzchner"],
+        "abstract": ["Children with severe motor impairments are restricted in their manipulation and exploration of objects, but little is known about how such limitations influence cognitive development. This study investigated visual-constructional abilities in 75 children and adolescents, aged 5;0–15;11 (years;months), with severe speech impairments and no intellect..."]
+      },
+      {
+        "title": "Vocabulary comprehension and strategies in name construction among children using aided communication",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Débora Deliberato", "Margareta Jennische", "Judith Oxley", "Stephen von Tetzchner"],
+        "abstract": ["Vocabulary learning reflects the language experiences of the child, both in typical and atypical development, although the vocabulary development of children who use aided communication may differ from children who use natural speech. This study compared the performance of children using aided communication with that of peers using natural speech o..."]
+      },
+      {
+        "title": "Introduction to the special issue on aided language processes, development, and use: an international perspective",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": ["This introduction to the Special Issue discusses current theoretical approaches to language development and their application to aided language development. It also discusses some conceptual issues and aspects of aided language development that are relevant for the articles, and gives a short overview of the articles."]
+      },
+      {
+        "title": "Assessment of aided language comprehension and use in children and adolescents with severe speech and motor impairments",
+        "tags": ["Article"],
+        "date": "Jan 2018",
+        "authors": ["Beata Batorowicz", "Kristine Stadskleiv", "Gregor Renner", "Stephen von Tetzchner"],
+        "abstract": ["There is limited knowledge about aided language comprehension and use in children who use aided communication and who are considered to have a relatively good comprehension of spoken language. This study’s purpose was to assess their aided language skills. The participants were 96 children and adolescents who used communication aids (aided group) a..."]
+      },
+      {
+        "title": "Evaluation of Parenting Interventions to Prevent Violence Against Children in Colombia: A Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Ane-Marthe Solheim Skar", "Lorraine Sherr", "Ana Macedo", "Knut Inge Fostervold"],
+        "abstract": ["The effects of the International Child Development Programme (ICDP) and the specific addition of a violence prevention module were observed in a preidentified population in Colombia where children are experiencing high levels of violence. Participants were 176 parents of 3- to 4-year-olds attending child centers who were randomly allocated to one o..."]
+      },
+      {
+        "title": "Executive Functioning in Children Aged 6–18 Years with Cerebral Palsy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Kristine Stadskleiv", "Reidun Jahnsen", "Guro L Andersen", "Stephen von Tetzchner"],
+        "abstract": ["Executive functioning (EF) is necessary for purposeful and goal-directed activity. Deficits in EF have been related to prematurity, low birth weight and early acquired brain lesions. Cerebral palsy (CP) is a condition where all these factors might be present and therefore suited to explore the relative contribution of each. The aim is to investigat..."]
+      },
+      {
+        "title": "The influence of parental concern on the utility of autism diagnostic instruments",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Karoline Alexandra Havdahl", "Somer L Bishop", "Pål Surén", "Camilla Stoltenberg"],
+        "abstract": ["The parental report-based Autism Diagnostic Interview-Revised (ADI-R) and the clinician observation-based Autism Diagnostic Observation Schedule (ADOS) have been validated primarily in U.S. clinics specialized in autism spectrum disorder (ASD), in which most children are referred by their parents because of ASD concern. This study assessed diagnost..."]
+      },
+      {
+        "title": "Neuropsychological profiles of children with cerebral palsy",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["Kristine Stadskleiv", "Reidun Jahnsen", "Guro L Andersen", "Stephen von Tetzchner"],
+        "abstract": ["Purpose: \nTo explore factors contributing to variability in cognitive functioning in children with cerebral palsy (CP).\n\nMethod: \nA geographical cohort of 70 children with CP was assessed with tests of language comprehension, visual-spatial reasoning, attention, working memory, memory, and executive functioning. Mean age was 9;9 years (range 5;1-17..."]
+      },
+      {
+        "title": "Mental Disorders in Deaf and Hard of Hearing Adult Outpatients: A Comparison of Linguistic Subgroups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Beate Øhre", "Maj Volden", "Erik Falkum", "Stephen von Tetzchner"],
+        "abstract": ["Deaf and hard of hearing (DHH) individuals who use signed language and those who use spoken language face different challenges and stressors. Accordingly, the profile of their mental problems may also differ. However, studies of mental disorders in this population have seldom differentiated between linguistic groups. Our study compares demographics..."]
+      },
+      {
+        "title": "Structure of Executive Functioning in Children with Cerebral Palsy: an Investigation of Anderson’s Developmental Model",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Kristine Stadskleiv", "Reidun Jahnsen", "Stephen von Tetzchner"],
+        "abstract": ["To investigate the factor structure of executive functioning (EF) in children with cerebral palsy (CP) and whether this can be described by the four-component model of EF described by Anderson (2002, 2008). Participants were 73 children with CP with various degrees of speech and motor impairment. Mean age was 9;10 years (range 5;1 to 17;7 years) an..."]
+      },
+      {
+        "title": "AIDED Communicators Strategies to Instruct Communication Partners when Constructing Physical Models",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Munique Massaro", "Kristine Stadskleiv", "Stephen von Tetzchner", "Débora Deliberato"],
+        "abstract": ["This study aimed to analyze the strategies used by aided communicators and of naturally speaking communicators to instruct a communication partner for the construction of physical models. Participants were 18 aided communicators and 18 naturally speaking communicators of a comparison group, aged 5-15 years, from Brazil and Norway. In addition, thre..."]
+      },
+      {
+        "title": "Reducing negative emotional reactions in a child with autism through AAC: Experiences from China",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Stephen von Tetzchner", "Xiaoning Wang", "Kristine Stadskleiv"],
+        "abstract": ["The use of augmentative and alternative communication (AAC) is relative new and not well-known in China. There is still a need to document how augmentative and alternative communication may benefit children and adults with different diagnoses who have little or no speech. The present study shows that frustration and negative emotional reactions may..."]
+      },
+      {
+        "title": "The relationship between concepts and visual-spatial perception in children using aided communication",
+        "tags": ["Conference Paper"],
+        "date": "Aug 2016",
+        "authors": ["Kristine Stadskleiv", "Beata Batorowicz", "Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Two girls who use communication aids interact with peers and adults: A story of discernment.",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2016",
+        "authors": ["Beata Batorowicz", "Fiona Campbell", "Kristine Stadskleiv", "Stephen von Tetzchner"],
+        "abstract": ["Little is known about ways in which children who use AAC and have motor impairments direct others. Instructional activities are of interest because giving instructions is a functional activity that is crucial to everyday independent living and relates to self-care, decision-making, and autonomy. \nThe goal-oriented communicative interactions of scho..."]
+      },
+      {
+        "title": "Validity of Standardized Diagnostic Instruments for Autism Spectrum Disorders in Toddlers Recruited from a Population-Based Cohort: The Influence of Parental Concern",
+        "tags": ["Poster"],
+        "date": "May 2016",
+        "authors": ["Karoline Alexandra Havdahl", "Somer L Bishop", "Pål Surén", "Camilla Stoltenberg"],
+        "abstract": []
+      },
+      {
+        "title": "Children Who Use Communication Aids Instructing Peer and Adult Partners During Play-Based Activity",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Beata Batorowicz", "Kristine Stadskleiv", "Stephen von Tetzchner", "Cheryl Missiuna"],
+        "abstract": ["Little is known about how children with severe motor impairments who use communication aids provide instructions when given control over interaction. In this study, 35 children - 18 who used communication aids and 17 who used natural speech - were videotaped in play-based activities. Both groups successfully instructed partners to build replication..."]
+      },
+      {
+        "title": "The semiotics of aided language development",
+        "tags": ["Article"],
+        "date": "Oct 2015",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": ["Some children fail to develop speech due to motor impairments, and have to use graphic symbols on communication aids to express themselves. Young aided communicators typically hear and produce different language forms. The adults’ child-directed language hence has a different form from the child’s utterances and their expansions of the child’s utte..."]
+      },
+      {
+        "title": "Utility of the Child Behavior Checklist as a Screener for Autism Spectrum Disorder",
+        "tags": ["Article"],
+        "date": "Jul 2015",
+        "authors": ["K Alexandra Havdahl", "Stephen von Tetzchner", "Marisela Huerta", "Somer L Bishop"],
+        "abstract": ["The Child Behavior Checklist (CBCL) has been proposed for screening of autism spectrum disorders (ASD) in clinical settings. Given the already widespread use of the CBCL, this could have great implications for clinical practice. This study examined the utility of CBCL profiles in differentiating children with ASD from children with other clinical d..."]
+      },
+      {
+        "title": "Traumatization in Deaf and Hard-of-Hearing Adult Psychiatric Outpatients",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Beate Øhre", "Mette Perly Uthus", "Stephen von Tetzchner", "Erik Falkum"],
+        "abstract": ["Deaf and hard-of-hearing (DHH) persons are at risk for experiencing traumatic events and such experiences are associated with symptoms of mental disorder. We investigated the prevalence of traumatic events and subsequent traumatization in adults referred to specialized psychiatric outpatient units for DHH patients. Sixty-two patients were diagnosed..."]
+      },
+      {
+        "title": "Facilitated Communication and Authorship: A Systematic Review*",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Ralf Schlosser", "Susan Balandin", "Bronwyn Hemsley", "Stephen von Tetzchner"],
+        "abstract": ["Facilitated Communication (FC) is a technique whereby individuals with disabilities and communication impairments allegedly select letters by typing on a keyboard while receiving physical support, emotional encouragement, and other communication supports from facilitators. The validity of FC stands or falls on the question of who is authoring the t..."]
+      },
+      {
+        "title": "The Impact of a Parenting Guidance Programme for Mothers with an Ethnic Minority Background",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["Ane-Marthe Solheim Skar", "Stephen von Tetzchner", "C. Clucas", "Lorraine Sherr"],
+        "abstract": ["The current mixed-method study investigates the effects of a culturally adapted version of the International Child Development Programme (ICDP) with 135 mothers – 29 ethnic Pakistani mothers residing in Norway attending Urdu-language groups and a comparison group of 105 Norwegian mothers attending Norwegian-language groups. All mothers completed qu..."]
+      },
+      {
+        "title": "Investigating executive functions in children with severe speech and movement disorders using structured tasks",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["Kristine Stadskleiv", "Stephen von Tetzchner", "Beata Batorowicz", "Gregor Renner"],
+        "abstract": ["Executive functions are the basis for goal-directed activity and include planning, monitoring, and inhibition, and language seems to play a role in the development of these functions. There is a tradition of studying executive function in both typical and atypical populations, and the present study investigates executive functions in children with..."]
+      },
+      {
+        "title": "The long-term effectiveness of the International Child Development Programme (ICDP) implemented as a community-wide parenting programme",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Ane-Marthe Solheim Skar", "Stephen von Tetzchner", "C. Clucas", "Lorraine Sherr"],
+        "abstract": ["Short-term effectiveness of the International Child Development Programme (ICDP) for parents in the general population has been studied. The aim of this paper was to investigate the longer term impact of the ICDP programme on parents looking for sustained changes 6–12 months after the programme. For this, a non-clinical caregiver group attending th..."]
+      },
+      {
+        "title": "Mothers and Fathers Attending the International Child Development Programme in Norway",
+        "tags": ["Article"],
+        "date": "Aug 2014",
+        "authors": ["C. Clucas", "Ane-Marthe Solheim Skar", "Lorraine Sherr", "Stephen von Tetzchner"],
+        "abstract": ["Fathers are understudied in parent training studies. This study investigates whether mothers and fathers benefit equally from participating in the International Child Development Programme (ICDP) implemented as a community-wide program in Norway in their parenting behavior, perceived child difficulties, and their psychosocial health. The questionna..."]
+      },
+      {
+        "title": "Social Participation of School-aged Children Who Use Communication Aids: The Views of Children and Parents",
+        "tags": ["Article"],
+        "date": "Aug 2014",
+        "authors": ["Beata Batorowicz", "Fiona Campbell", "Stephen von Tetzchner", "Cheryl Missiuna"],
+        "abstract": ["Social participation is crucial for children's development and well-being; however, little is known about the social participation of children who use communication aids. This article presents findings from interviews with eight 5- to 14-year-old children who used communication aids and their parents about social participation, communicative intera..."]
+      },
+      {
+        "title": "Participation of aided communicators in play with peers: Language for action",
+        "tags": ["Conference Paper"],
+        "date": "Aug 2014",
+        "authors": ["Beata Batorowicz", "Kristine Stadskleiv", "Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Psychometric properties of a sign language version of the Mini International Neuropsychiatric Interview (MINI)",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Beate Øhre", "Hege Saltnes", "Stephen von Tetzchner", "Erik Falkum"],
+        "abstract": ["Background\nThere is a need for psychiatric assessment instruments that enable reliable diagnoses in persons with hearing loss who have sign language as their primary language. The objective of this study was to assess the validity of the Norwegian Sign Language (NSL) version of the Mini International Neuropsychiatric Interview (MINI).\n\nMethods\nThe..."]
+      },
+      {
+        "title": "Paradoxical correlates of a facilitative parenting programme in prison—counter-productive intervention or first signs of responsible parenthood?",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Ane-Marthe Solheim Skar", "Stephen von Tetzchner", "C. Clucas", "Lorraine Sherr"],
+        "abstract": ["Parenting programmes are rarely part of prisoners' rehabilitation, and evaluations of such programmes are lacking.\n\nThe present mixed-methods study investigates the International Child Development Programme (ICDP) with 25 incarcerated fathers and a comparison group of 36 community fathers through questionnaires administered before and after parenti..."]
+      },
+      {
+        "title": "Evaluation of Follow-Up Effects of the International Child Development Programme on Caregivers in Mozambique",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Ane-Marthe Solheim Skar", "Lorraine Sherr", "C. Clucas", "Stephen von Tetzchner"],
+        "abstract": ["Parenting programs have been used to good effect in many settings, yet few are systematically introduced and evaluated in developing countries. This study explores the relative long-term effect of participation in the International Child Development Programme (ICDP) in a group of caregivers in Mozambique. A quasi-experimental design was used to com..."]
+      },
+      {
+        "title": "Identifying Children with Autism Spectrum Disorder at 18 Months in a General Population Sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Nina Stenberg", "Michaeline Bresnahan", "Nina Gunnes", "Camilla Stoltenberg"],
+        "abstract": ["Previous research on clinical and high-risk samples suggests that signs of autism spectrum disorder (ASD) can be detected between 1 and 2 years of age. We investigated signs of ASD at 18 months in a population-based sample and the association with later ASD diagnosis.\nThe study sample includes 52 026 children born 2003 through 2008 and is a subset..."]
+      },
+      {
+        "title": "Inclusion of children with autism spectrum disorders through shared peer activity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Stephen von Tetzchner", "Elisabeth Grindheim"],
+        "abstract": ["http://dx.doi.org/10.5902/1984686X9830Inclusion may be defined as having a full and active part in the life of the mainstream kindergarten or school. There are professional, political and ethical reasons for striving for inclusion and there are different approaches to how inclusive education and training of children with autism spectrum disorders (..."]
+      },
+      {
+        "title": "The effect of interventions based on the programs of The Institutes for the Achievement of Human Potential and Family Hope Center",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2013",
+        "authors": ["Stephen von Tetzchner", "Marianne Verdel", "Brita Gilhuus Barstad", "Hanne Ytting"],
+        "abstract": ["Objective: \nTo compare the effect of the programs of IAHP and FHC with ordinary community-based programs.\n\nMethod: \nTwo-year observational study of two groups of children aged 2-15 years who were following the IAHP and FHC programs (N = 18) or community-based programs (N = 17), with additional material from interviews with parents, and a retrospect..."]
+      },
+      {
+        "title": "Acting on the physical world through aided communication",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2013",
+        "authors": ["Beata Batorowicz", "Kristine Stadskleiv", "Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Evaluation of the International Child Development Programme (ICDP) as a community-wide parenting programme",
+        "tags": ["Article"],
+        "date": "May 2013",
+        "authors": ["Lorraine Sherr", "Ane-Marthe Solheim Skar", "C. Clucas", "Karsten Hundeide"],
+        "abstract": ["Background: \nMany parenting programmes lack proper evaluation, especially under community-wide implementation.\n\nObjective: \nExamining the effectiveness of the eight-week International Child Development Programme (ICDP), implemented as a general programme.\n\nMethodology: \nNon-clinical caregivers attending ICDP (N = 141) and a non-attending community..."]
+      },
+      {
+        "title": "Juvenile Neuronal Ceroid Lipofuscinosis and education.",
+        "tags": ["Article"],
+        "date": "Mar 2013",
+        "authors": ["Stephen von Tetzchner", "Per Fosse", "Bengt Elmerskog"],
+        "abstract": ["Juvenile Neuronal Ceroid Lipofuscinosis (JNCL) is characterized by severe visual impairment with onset around age 4-8years, and a developmental course that includes blindness, epilepsy, speech problems, dementia, motor coordination problems, and emotional reactions. There is presently no cure and the disease leads to premature death. There have bee..."]
+      },
+      {
+        "title": "Understanding facilitated communication: Lessons from a former facilitator—Comments on Boynton, 2012",
+        "tags": ["Article"],
+        "date": "Mar 2012",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": ["The discussion about facilitated communication is mainly about the origin of the messages produced—that is, whether they originated in the disabled person or the facilitator. The article by Boynton (201211.\n\nBoynton , J . (2012). Facilitated communication—What harm it can do: Confessions of a former facilitator. Evidence-Based Communication Assessm..."]
+      },
+      {
+        "title": "Terminology and Notation in Written Representations of Conversations with Augmentative and Alternative Communication",
+        "tags": ["Article"],
+        "date": "Sep 2011",
+        "authors": ["Stephen von Tetzchner", "Carmen Basil"],
+        "abstract": ["There is a need for a continuous discussion about what terms one should use within the field of augmentative and alternative communication. When talking and thinking about people in their role as users of alternative communication forms, the terms should reflect their communicative ways and means, their achievements and what they are doing, rather..."]
+      },
+      {
+        "title": "System and aid histories of children developing aided communication.",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2010",
+        "authors": ["Stephen von Tetzchner", "Maria Amélia Almeida", "Susan Balandin", "Ch Yang"],
+        "abstract": []
+      },
+      {
+        "title": "A Tale of Transitions: The Challenges of Integrating Speech Synthesis in Aided Communication",
+        "tags": ["Article"],
+        "date": "Jan 2010",
+        "authors": ["Martine Smith", "Janice Murray", "Stephen von Tetzchner", "Pearl Langan"],
+        "abstract": ["Many aided communicators have used low-tech communication boards for extended periods of time when they receive a voice output device. Integrating sophisticated technology into conversational interactions draws on a range of skills for both the aided communicator and their speaking partners. A range of individual and environmental factors influence..."]
+      },
+      {
+        "title": "Constructing Preschool Communities of Learners that Afford Alternative Language Development",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Stephen von Tetzchner", "Kari Merete Brekke", "Bente Sjøthun", "Elisabeth Grindheim"],
+        "abstract": ["The present paper discusses the theoretical bases of language development and inclusion, and describes some strategies for scaffolding the communication and language development of children who use manual and graphic communication in ordinary preschool settings. The potential positive effects of being part of an inclusive setting are not yet fully..."]
+      },
+      {
+        "title": "Rett syndrome and ageing: A case study",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Karl Jacobsen", "A Viken", "Stephen von Tetzchner"],
+        "abstract": ["This case study of an elderly women with Rett syndrome is used to consider whether observed changes may be related to physiological processes involved in ageing or environmental adaptations, which is important for delivery of rehabilitation.\nThe life story of a woman with Rett syndrome who lived to the age of 60 is presented. It is based on medical..."]
+      },
+      {
+        "title": "Suporte ao desenvolvimento da comunicação suplementar e alternativa",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Psychiatric disorders and behavior problems in people with intellectual disability",
+        "tags": ["Article"],
+        "date": "Jul 2008",
+        "authors": ["Even Myrbakk", "Stephen von Tetzchner"],
+        "abstract": ["The relationship between behavior problems and psychiatric disorders in individuals with intellectual disability is still unresolved. The present study compares the prevalence and pattern of psychiatric disorders in individuals with intellectual disability who were assessed on the ABC to have moderate and severe behavior problems and a matched grou..."]
+      },
+      {
+        "title": "The Prevalence of Behavior Problems Among People with Intellectual Disability Living in Community Settings",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Even Myrbakk", "Stephen von Tetzchner"],
+        "abstract": ["With the desegregation processes of services for people with intellectual disability (ID) that is taking place in most Western countries there is a need for more knowledge related to the prevalence of behavior problems among people living in community settings. This study investigates the prevalence of behavior problems among 140 adolescents and ad..."]
+      },
+      {
+        "title": "Screening Individuals With Intellectual Disability for Psychiatric Disorders: Comparison of Four Measures",
+        "tags": ["Article"],
+        "date": "Feb 2008",
+        "authors": ["Even Myrbakk", "Stephen von Tetzchner"],
+        "abstract": ["Convergences and divergences between four of the most commonly used checklists for psychiatric disorders (the Reiss Screen, The Mini PAS-ADD, the DASH-II, and the ADD) were examined. We screened 181 individuals with intellectual disability for psychiatric disorders with the four checklists and compared the results on the checklists. The concordance..."]
+      },
+      {
+        "title": "Communication and language in Batten disease",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "Inclusão de crianças em educação pré-escolar regular utilizando comunicação suplementar e alternativa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2005",
+        "authors": ["Stephen von Tetzchner", "Kari Merete Brekke", "Elisabeth Grindheim"],
+        "abstract": ["Muitas crianças usuárias de meios alternativos de comunicação se encontram educacionalmente segregadas, mesmo não havendo evidências de que tais ambientes pudessem ser mais benéficos na promoção de sua comunicação e do desenvolvimento da linguagem do que ambientes não segregados. Os efeitos potencialmente positivos do ambiente escolar inclusivo ain..."]
+      },
+      {
+        "title": "Theoretical and Methodological Issues in Research on Augmentative and Alternative Communication",
+        "tags": ["Book"],
+        "date": "Jan 2005",
+        "authors": ["Stephen von Tetzchner", "Maria de Jesus Gonçalves"],
+        "abstract": []
+      },
+      {
+        "title": "Acquisition of Graphic Communication by a Young Girl without Comprehension of Spoken Language",
+        "tags": ["Article"],
+        "date": "Nov 2004",
+        "authors": ["Stephen von Tetzchner", "K D Øvreeide", "K K Jørgensen", "R Warme"],
+        "abstract": ["To describe a graphic-mode communication intervention involving a girl with intellectual impairment and autism who did not develop comprehension of spoken language. The aim was to teach graphic-mode vocabulary that reflected her interests, preferences, and the activities and routines of her daily life, by providing sufficient cues to the meanings o..."]
+      },
+      {
+        "title": "Early intervention and prevention of challenging behaviour in children with learning disabilities",
+        "tags": ["Article"],
+        "date": "Jun 2004",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": ["Challenging behaviour in children with learning disabilities 1 seems to emerge as the result of an interaction between biological vulnerability and environmental risk, and studies indicate that the development of this behaviour to some extent may be prevented through adaptations of the social environment. Early intervention should have a pivotal ro..."]
+      },
+      {
+        "title": "Co-construction in graphic language development",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["K.M. Brekke", "Stephen von Tetzchner"],
+        "abstract": []
+      },
+      {
+        "title": "The development of alternative language forms",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Stephen von Tetzchner", "N. Grove"],
+        "abstract": []
+      },
+      {
+        "title": "Interacting with People Who Have Severe Communication Problems: Ethical Considerations",
+        "tags": ["Article"],
+        "date": "Dec 1999",
+        "authors": ["Stephen von Tetzchner", "Karen Jensen"],
+        "abstract": ["People who have severe speech and communication problems have difficulties making themselves heard both in everyday communications and society at large. In spite of the positive results which have followed the development of non-vocal intervention strategies, this group of people is at risk for being left out of the social common and being alienate..."]
+      },
+      {
+        "title": "Rett syndrome: Geographic variation in prevalence in Norway",
+        "tags": ["Article"],
+        "date": "Jul 1997",
+        "authors": ["Ola H Skjeldal", "Stephen von Tetzchner", "Finn Aspelund", "B Lofterłd"],
+        "abstract": ["The prevalence of Rett syndrome is reported for three Norwegian counties (Rogaland, Ostfold and Nordland). The total number of females between 3 and 19 years of age in these counties was 96,920, and among these 21 females with Rett syndrome were identified, yielding a prevalence rate for Rett syndrome of 2.17 per 10,000 girls. One reason for this c..."]
+      },
+      {
+        "title": "Literacy Intervention for a Deaf Child with Severe Reading Disorder",
+        "tags": ["Article"],
+        "date": "Mar 1997",
+        "authors": ["Stephen von Tetzchner", "Stein Olav Rogne", "Marion K. Lilleeng"],
+        "abstract": ["The case study of a Norwegian deaf boy with severe reading disorder is described. In spite of average and above-average performance on standardized tests, adequate motivation, and the fact that the reading instruction was adapted to the signing environment of the deaf students, on entering the 5th grade at 11 years of age, the boy was functionally..."]
+      },
+      {
+        "title": "The use of graphic language intervention among young children in Norway",
+        "tags": ["Article"],
+        "date": "Feb 1997",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": ["Knowledge about graphic communication intervention and use among young disabled children has been sparse. The present study is based on a thorough search, and provides reliable information about children who are 10 years old or younger who have graphic communication (for example, photographs, drawings, Blissymbols, PIC, traditional orthography) as..."]
+      },
+      {
+        "title": "Communication skills among females with Rett syndrome",
+        "tags": ["Article"],
+        "date": "Feb 1997",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": ["The present study describes communicative behaviors of 42 Norwegian girls and women with Rett syndrome (RS) aged 2 1/2-47 years. Most of them did not seem to show behaviors which may be interpreted as indicative of an intention to communicate. Many did not use gaze shifts and the shifts of those who did were usually limited to 1-3 turns. The implic..."]
+      },
+      {
+        "title": "Historical issues in intervention research: Hidden knowledge and facilitating techniques in Denmark",
+        "tags": ["Article"],
+        "date": "Feb 1997",
+        "authors": ["Stephen von Tetzchner"],
+        "abstract": ["ABSTRACTS\nFacilitating techniques have recently both gained wider popularity and stirred considerable controversy. They are usually assumed to originate in Australia but the present paper documents that similar techniques created a major public event in Denmark and appeared occasionally in the USA in the 1960s and 1970s. However, in spite of the dr..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [119],
+    "reads": [15768],
+    "citations": [1845]
   }
 }

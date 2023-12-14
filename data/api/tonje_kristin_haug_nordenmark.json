@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Tonje Kristin Haug Nordenmark",
-    "id": "19727",
+    "name": ["Tonje Kristin Haug Nordenmark"],
+    "id": ["19727"],
     "keywords": [],
     "position": ["Associate professor", null],
     "img": {},
@@ -188,5 +188,15 @@
         "url": "https://api.cristin.no/v2/results/507715"
       }
     ]
+  },
+  "rg": {
+    "id": "Kristin-Haug-2",
+    "name": "Kristin Haug",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Linguistics and Scandinavian Studies",
+    "keywords": [],
+    "works": [],
+    "degree": ["MA"],
+    "bio": "Gender in the Voss dialect, an archaic west Norwegian dialect rich on morphology. Is this dialect also affected by what seems to be an ongoing loss of the feminine gender in Norwegian? I am collecting data using experimental methods developed by the GenVAC-project, led by prof. T. Lohndal at NTNU. I am also looking at gender and declension from a diachronic perspective."
   }
 }

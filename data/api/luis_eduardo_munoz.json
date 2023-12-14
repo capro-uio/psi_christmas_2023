@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "PD Dr. Luis E. Munoz",
-    "id": "R0mG5msAAAAJ",
-    "affiliation": "Friedrich-Alexander Universität Erlangen-Nürnberg",
+    "name": ["PD Dr. Luis E. Munoz"],
+    "id": ["R0mG5msAAAAJ"],
+    "affiliation": ["Friedrich-Alexander Universität Erlangen-Nürnberg"],
     "data": {
       "publications": [
         {
@@ -1136,8 +1136,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-9911-3085",
-    "name": "Eduardo Munoz-Munoz",
+    "orcid": ["0000-0002-9911-3085"],
+    "name": ["Eduardo Munoz-Munoz"],
     "distinctions": [],
     "education": [
       {
@@ -1171,8 +1171,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Luis Eduardo Munoz",
-    "id": "1368927",
+    "name": ["Luis Eduardo Munoz"],
+    "id": ["1368927"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -1217,8 +1217,8 @@
         "type": "Academic article",
         "year": "2022",
         "title": "COVID-19 first lockdown as a window into language acquisition: associations between caregiver-child activities and vocabulary gains",
-        "journal": "Language Development Research",
-        "url": "https://api.cristin.no/v2/results/1999651"
+        "url": "https://api.cristin.no/v2/results/1999651",
+        "journal": "Language Development Research"
       },
       {
         "type": "Lecture",
@@ -1227,5 +1227,15 @@
         "url": "https://api.cristin.no/v2/results/1998155"
       }
     ]
+  },
+  "rg": {
+    "id": "Luis-Eduardo-20",
+    "name": "Luis Eduardo",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "South Colombian University | USCO, South Colombian University, Department of Agricultural Engineering",
+    "keywords": ["Sustainable Agriculture", "Climate Change and Agriculture", "Agroecology"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

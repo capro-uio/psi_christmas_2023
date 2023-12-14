@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-8844-1323",
-    "name": "Bergljot Gjelsvik",
+    "orcid": ["0000-0002-8844-1323"],
+    "name": ["Bergljot Gjelsvik"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Bergljot Gjelsvik",
-    "id": "12826",
+    "name": ["Bergljot Gjelsvik"],
+    "id": ["12826"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
-    "img": "https://api.cristin.no/v2/persons/12826/picture",
+    "img": ["https://api.cristin.no/v2/persons/12826/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -267,5 +267,249 @@
         "url": "https://api.cristin.no/v2/results/49916"
       }
     ]
+  },
+  "rg": {
+    "id": "Bergljot-Gjelsvik",
+    "name": "Bergljot Gjelsvik",
+    "img": "https://i1.rgstatic.net/ii/profile.image/428737633230848-1479230425601_Q128/Bergljot-Gjelsvik.jpg",
+    "affiliation": "University of Oxford  University of Oslo, PsychiatryPsychology",
+    "keywords": ["Embodied Cognition", "Psychopathology", "Treatment", "Psychotherapeutic Processes", "Mental Illness", "Suicide Prevention", "Attempted Suicide", "Mindfulness-Based Cognitive Therapy", "Chronic Depression"],
+    "works": [
+      {
+        "title": "Service use and costs in adolescents with pain and suicidality: A cross-sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Verena Hinze", "Tamsin Jane Ford", "Bergljot Gjelsvik", "Poushali Ganguli"],
+        "abstract": ["Background\nPersistent/recurrent pain for more than three months and suicidality (suicide and self-harm related thoughts and behaviours) are serious and co-occurring health problems in adolescence, underscoring the need for targeted support. However, little is known about service use and costs in adolescents with pain-suicidality comorbidity, compar..."]
+      },
+      {
+        "title": "SP8.2.4 Mindfulness-based Cognitive Therapy (MBCT) reduces symptoms in patients with chronic visceral pain, and is associated with the alteration of pain-evoked neural activity and resting functional connectivity in the descending pain modulatory system",
+        "tags": ["Article"],
+        "date": "Aug 2022",
+        "authors": ["Sarah Waldman", "Vishvarani Wanigasekera", "Julia F Henrich", "Irene Tracey"],
+        "abstract": ["Aims\nChronic visceral pain can cause repeated presentations to surgical services. Cognitive therapies show promise but are not often considered in the surgical setting. This study aims to assess the efficacy and mechanisms of MBCT-IBS, a mindfulness-based cognitive intervention for irritable bowel syndrome (IBS).\n\nMethods\nFifteen women with IBS und..."]
+      },
+      {
+        "title": "Pain and Suicidality in Children and Adolescents: A Longitudinal Population-Based Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Verena Hinze", "Anke Karl", "Tamsin Jane Ford", "Bergljot Gjelsvik"],
+        "abstract": ["Background. Suicidality is a common public health concern in young people. Previous research has highlighted pain as a key correlate of suicidality in young people. However, the long-term experience of pain may vary between individuals, and the relationship between distinct pain trajectories and suicidality is poorly understood. This study aims to..."]
+      },
+      {
+        "title": "Does depression moderate the relationship between pain and suicidality in adolescence? A moderated network analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Verena Hinze", "Tamsin Jane Ford", "Catherine Crane", "Bergljot Gjelsvik"],
+        "abstract": ["Background\nWhilst growing research suggests that pain is associated with suicidality in adolescence, it remains unclear whether this relationship is moderated by co-morbid depressive symptoms. The present study aimed to investigate whether the pain-suicidality association is moderated by depressive symptoms.\n\nMethods\nWe performed secondary analyses..."]
+      },
+      {
+        "title": "Exploring the relationship between pain and self-harm thoughts and behaviours in young people using network analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Verena Hinze", "Tamsin Jane Ford", "Robin Evans", "Catherine Crane"],
+        "abstract": ["Background. \nSelf-harm thoughts and behaviours (SHTBs) are a serious public health concern in young people. Emerging research suggests that pain may be an important correlate of SHTBs in young people. However, it remains unclear whether this association is driven by the shared association with other correlates of SHTBs. This study used network anal..."]
+      },
+      {
+        "title": "A Randomised Clinical Trial of Mindfulness-Based Cognitive Therapy for Women with Irritable Bowel Syndrome -Effects and Mechanisms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Julia F Henrich", "Bergljot Gjelsvik", "Christina Surawy", "Maryanne Martin"],
+        "abstract": ["Objective: \nIrritable bowel syndrome (IBS) is a chronic disorder of brain-gut interaction. Previous studies suggest that mindfulness could be therapeutic for IBS patients, however no study has evaluated the effects of mindfulness-based cognitive therapy adapted for patients with IBS (MBCT-IBS). A 6-week MBCT-IBS course was designed to reduce sympto..."]
+      },
+      {
+        "title": "Mindfulness-based cognitive therapy for irritable bowel syndrome: Reducing symptoms and increasing quality of life",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Maryanne Martin", "Julia F Henrich", "Bergljot Gjelsvik"],
+        "abstract": []
+      },
+      {
+        "title": "Thought–Action Fusion in Individuals with a History of Recurrent Depression and Suicidal Depression: Findings from a Community Sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Bergljot Gjelsvik", "Nils Rek", "T. von Soest", "Catherine Crane"],
+        "abstract": ["Although suicidal ideation is one of the most consistent symptoms across recurrent episodes of depression, the mechanisms underpinning its maintenance are poorly understood. In order to develop effective treatments for suicidally depressed patients, understanding what maintains suicidal distress is critical. We hypothesised that Thought–Action Fusi..."]
+      },
+      {
+        "title": "Embodied cognition and emotional disorders: Embodiment and abstraction in understanding depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2018",
+        "authors": ["Bergljot Gjelsvik", "Darko Lovric", "Mark Williams"],
+        "abstract": ["Research into embodied cognition (EC) in cognitive neuroscience and psychology has risen exponentially over the last 25 years, covering a vast area of research; from understanding how ability to judge speech sounds depends on an intact motor cortex, to why people perceive hills as steeper when carrying a heavy backpack. Although there are many theo..."]
+      },
+      {
+        "title": "Implicit Identification with Illness in Patients with Irritable Bowel Syndrome (IBS)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Julia F Henrich", "Bergljot Gjelsvik", "Maryanne Martin"],
+        "abstract": ["Identification with pain has been linked to symptom severity in chronic pain conditions. However, the role of identification with illness in patients with Irritable Bowel Syndrome (IBS) is unknown. We investigated whether participants with IBS show identification with illness and if the degree of illness identification is related to IBS symptom sev..."]
+      },
+      {
+        "title": "Supplementary Material 1",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Bergljot Gjelsvik", "Nils Rek", "T. von Soest", "Catherine Crane"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Bergljot Gjelsvik", "Nils Rek", "T. von Soest", "Catherine Crane"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 4",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Bergljot Gjelsvik", "Nils Rek", "T. von Soest", "Catherine Crane"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 7",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Bergljot Gjelsvik", "Nils Rek", "T. von Soest", "Catherine Crane"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 3",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Bergljot Gjelsvik", "Nils Rek", "T. von Soest", "Catherine Crane"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 5",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Bergljot Gjelsvik", "Nils Rek", "T. von Soest", "Catherine Crane"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 6",
+        "tags": ["Data"],
+        "date": "Jan 2018",
+        "authors": ["Bergljot Gjelsvik", "Nils Rek", "T. von Soest", "Catherine Crane"],
+        "abstract": []
+      },
+      {
+        "title": "Fra laboratoriet til terapirommet",
+        "tags": ["Article"],
+        "date": "Dec 2017",
+        "authors": ["Bergljot Gjelsvik"],
+        "abstract": []
+      },
+      {
+        "title": "The relationship between sensory processing sensitivity and psychological distress: A model of underpinning mechanisms and an analysis of therapeutic possibilities",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Hedda Bratholm Wyller", "Vegard Bruun Bratholm Wyller", "Catherine Crane", "Bergljot Gjelsvik"],
+        "abstract": ["Sensory processing sensitivity (SPS) is a recently coined concept describing a predisposition toward extensive processing of sensory stimuli. It has been conceptualised as an innate, dichotomous personality trait. SPS is associated with elevated psychological distress (mental disorders as well as emotional and somatic symptoms), but the underlying..."]
+      },
+      {
+        "title": "Modes of Mind and Suicidal Processes",
+        "tags": ["Chapter"],
+        "date": "Oct 2016",
+        "authors": ["J. Mark G. Williams", "Danielle S. Duggan", "Catherine Crane", "Bergljot Gjelsvik"],
+        "abstract": ["This chapter explores the hypothesis that the way people react to distressing stimuli, including the presence of suicidal ideation, is critical in determining whether these problems become “adhesive”, perpetuating a sense of entrapment. In particular, it suggests that the greatest difficulties arise when the presence of distressing situations, thou..."]
+      },
+      {
+        "title": "Styggen på ryggen",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Mia Tuft", "Bergljot Gjelsvik"],
+        "abstract": []
+      },
+      {
+        "title": "Looking Back on Self-Poisoning: The Relationship between Depressed Mood and Reporting of Suicidal Intent in People Who Deliberately Self-Poison",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Bergljot Gjelsvik", "Fridtjof Heyerdahl", "Jane Holmes", "Keith Hawton"],
+        "abstract": ["Lifetime worst-point suicidality is associated with risk of subsequent death by suicide. Yet little is known about how people who deliberately self-poison (DSP) change their appraisal of suicidal intent of a single DSP episode over time. We assessed whether suicidal intent for a single index episode of DSP changed over time and factors associated w..."]
+      },
+      {
+        "title": "Is There a Relationship between Suicidal Intent and Lethality in Deliberate Self-Poisoning?",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Bergljot Gjelsvik", "Fridtjof Heyerdahl", "Jane Holmes", "Keith Hawton"],
+        "abstract": ["The relationship between suicidal intent and lethality of deliberate self-poisoning (DSP) episodes and their associations with suicide have yielded contradictory findings. The aims of this study were to investigate the association between patients' suicidal intent and independently rated lethality of DSP episodes, and whether the association change..."]
+      },
+      {
+        "title": "Biclustering Models for Two-Mode Ordinal Data",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Eleni Matechou", "Ivy Liu", "Daniel Fernández", "Bergljot Gjelsvik"],
+        "abstract": ["The work in this paper introduces finite mixture models that can be used to simultaneously cluster the rows and columns of two-mode ordinal categorical response data, such as those resulting from Likert scale responses. We use the popular proportional odds parameterisation and propose models which provide insights into major patterns in the data. M..."]
+      },
+      {
+        "title": "Epilepsy is Dancing",
+        "tags": ["Data"],
+        "date": "Mar 2016",
+        "authors": ["Mia Tuft", "Bergljot Gjelsvik", "Karl Otto Nakken"],
+        "abstract": []
+      },
+      {
+        "title": "watch[1]",
+        "tags": ["Data"],
+        "date": "Mar 2016",
+        "authors": ["Mia Tuft", "Bergljot Gjelsvik", "Karl Otto Nakken"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jan 2016",
+        "authors": ["Eleni Matechou", "Ivy Liu", "Daniel Fernández", "Bergljot Gjelsvik"],
+        "abstract": []
+      },
+      {
+        "title": "Ian Curtis: Punk rock, epilepsy, and suicide",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Mia Tuft", "Bergljot Gjelsvik", "Karl Otto Nakken"],
+        "abstract": []
+      },
+      {
+        "title": "Epilepsy is Dancing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2015",
+        "authors": ["Mia Tuft", "Bergljot Gjelsvik", "Karl Otto Nakken"],
+        "abstract": ["In ”Epilepsy is Dancing”, in Antony and the Johnsons’ album „The Crying Light”(2009), the lyrics and accompanying music video depicts an epileptic seizure in which the person is transferred to another beautiful and magical world. This may be called „enchanted epilepsy”; i.e., the experience of epilepsy as deeply nourishing and (positively) transfor..."]
+      },
+      {
+        "title": "Fossil fuel divestment and the British Psychological Society (BPS)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Francis Vergunst", "Bergljot Gjelsvik"],
+        "abstract": []
+      },
+      {
+        "title": "Change in Access to Prescribed Medication following an Episode of Deliberate Self-Poisoning: A Multilevel Approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2014",
+        "authors": ["Bergljot Gjelsvik", "Fridtjof Heyerdahl", "Daniel Lunn", "Keith Hawton"],
+        "abstract": ["Objective\nPatients with a history of deliberate self-poisoning (DSP) are prescribed a greater amount of medication than the general public. DSP is the most robust risk factor for repeat episodes of DSP and subsequent death by suicide, and one might therefore expect that access to prescribed medication would be reduced following an episode of DSP. H..."]
+      },
+      {
+        "title": "Deliberate Self-Poisoning With Prescribed Drugs Is Not Related to Medical Severity of Acts",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Bergljot Gjelsvik", "Fridtjof Heyerdahl", "Keith Hawton"],
+        "abstract": []
+      },
+      {
+        "title": "Prescribed Medication Availability and Deliberate Self-Poisoning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2012",
+        "authors": ["Bergljot Gjelsvik", "Fridtjof Heyerdahl", "Keith Hawton"],
+        "abstract": ["The availability of prescribed medication to patients who engage in deliberate self-poisoning (DSP) is not known, and it is not clear whether patients choose drugs prescribed to them for self-poisoning. The objectives of this study were to investigate (1) prescribed medication availability in DSP patients compared to the general population, (2) whe..."]
+      }
+    ],
+    "degree": ["DClin", "Psych,", "MSt,", "PhD"],
+    "publications": [33],
+    "reads": [15360],
+    "citations": [171]
   }
 }

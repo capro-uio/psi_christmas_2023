@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Knut-André Skaug",
-    "id": "809071",
+    "name": ["Knut-André Skaug"],
+    "id": ["809071"],
     "keywords": [],
     "position": ["Research fellow", "Guest"],
     "img": {},
@@ -16,5 +16,54 @@
         "url": "https://api.cristin.no/v2/results/1882980"
       }
     ]
+  },
+  "rg": {
+    "id": "Pavol-Knut",
+    "name": "Pavol Knut",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Technical University of Kosice  Technicka univerzita v Kosiciach",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Retraction Note: Biosolar roofs - The trend of the future",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2023",
+        "authors": ["Pavol Knut", "Mária Kocúrková", "Zuzana Vranayova"],
+        "abstract": []
+      },
+      {
+        "title": "Development of Hybrid Infrastructures",
+        "tags": ["Chapter"],
+        "date": "Nov 2023",
+        "authors": ["Mária Kocúrková", "Pavol Knut", "Alena Vargová"],
+        "abstract": ["‘Sponge cities’ are urban areas with abundant natural areas such as trees, lakes and parks or other designs intended to absorb rainwater. As climate change brings increasing flood threats, cities need to be designed like giant sponges that allow water to drain away safely. The main purpose of a sponge city is to retain rainwater, prevent flooding a..."]
+      },
+      {
+        "title": "Green facades - Their use in the sponge city",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Mária Kocúrková", "Pavol Knut", "Zuzana Vranayova"],
+        "abstract": ["Greenery in the urban environment is slowly disappearing and is being replaced by new construction. This trend has several consequences. One of them is the overheating of the urban climate and the associated increased need for energy for cooling. We are trying to eliminate this negative impact by creating green structures on buildings. As such, gre..."]
+      },
+      {
+        "title": "Biosolar roofs - The trend of the future",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Pavol Knut", "Mária Kocúrková", "Zuzana Vranayova"],
+        "abstract": ["This article shows the different types of biosolar roofs. An important factor that interests me is how a green roof can affect the efficiency of photovoltaics, how it can cool and how much more electricity it can produce than a classic roof. Localized energy generation through rooftop solar is gaining popularity in urban areas, and green roofs are..."]
+      },
+      {
+        "title": "COMPARISON OF MEASURED AND CALCULATED ELECTRICAL ENERGY CAPTURED BY PHOTOVOLTAIC PANELS",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Pavol Knut", "Peter Kapalo", "Zuzana Vranayova"],
+        "abstract": ["The main goal of the work was the measurement of photovoltaic panels on a family house in the village of Lucka in eastern Slovakia during 4 months. The panels were mounted on the south side of the building at a slope of 26 degrees. The measurement took place every day only during sunshine. Subsequently, the comparison of these actually measured val..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [5],
+    "reads": [191],
+    "citations": [0]
   }
 }

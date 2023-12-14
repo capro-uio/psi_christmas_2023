@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Kinga Bierwiaczonek",
-    "id": "N3FIC3wAAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo",
+    "name": ["Kinga Bierwiaczonek"],
+    "id": ["N3FIC3wAAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -652,8 +652,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-2251-5633",
-    "name": "Kinga Bierwiaczonek",
+    "orcid": ["0000-0002-2251-5633"],
+    "name": ["Kinga Bierwiaczonek"],
     "distinctions": [],
     "education": [
       {
@@ -661,17 +661,17 @@
         "country": "NL"
       },
       {
-        "start": "2020",
-        "position": "Postdoctoral Fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "start": "2020",
+        "position": "Postdoctoral Fellow"
       },
       {
-        "start": "2019",
-        "end": "2019",
-        "position": "Postdoctoral fellow",
         "organisation": "ISCTE-Instituto Universitário de Lisboa",
-        "country": "PT"
+        "country": "PT",
+        "start": "2019",
+        "position": "Postdoctoral fellow",
+        "end": "2019"
       }
     ],
     "employment": [
@@ -680,17 +680,17 @@
         "country": "NL"
       },
       {
-        "start": "2020",
-        "position": "Postdoctoral Fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "start": "2020",
+        "position": "Postdoctoral Fellow"
       },
       {
-        "start": "2019",
-        "end": "2019",
-        "position": "Postdoctoral fellow",
         "organisation": "ISCTE-Instituto Universitário de Lisboa",
-        "country": "PT"
+        "country": "PT",
+        "start": "2019",
+        "position": "Postdoctoral fellow",
+        "end": "2019"
       }
     ],
     "membership": [],
@@ -1144,8 +1144,8 @@
     ]
   },
   "cristin": {
-    "name": "Kinga Bierwiaczonek",
-    "id": "1261941",
+    "name": ["Kinga Bierwiaczonek"],
+    "id": ["1261941"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -1283,5 +1283,306 @@
         "url": "https://api.cristin.no/v2/results/1821098"
       }
     ]
+  },
+  "rg": {
+    "id": "Kinga-Bierwiaczonek",
+    "name": "Kinga Bierwiaczonek",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1186406751838208-1659872820030_Q128/Kinga-Bierwiaczonek.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cross Cultural Psychology", "Culture", "Cultural Diversity", "Social and Cultural Anthropology", "Acculturation", "Multiculturalism", "Cultural Studies", "Social Psychology"],
+    "works": [
+      {
+        "title": "Utilizing AI questionnaire translations in cross-cultural and intercultural research: Insights and recommendations",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Jonas R. Kunst", "Kinga Bierwiaczonek"],
+        "abstract": []
+      },
+      {
+        "title": "Selective Cultural Adoption: The Roles of Warmth, Competence, Morality, and Perceived Indispensability in Majority-Group Acculturation",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Jonas R. Kunst", "Kinga Bierwiaczonek", "Milan Obaidi", "John Dovidio"],
+        "abstract": ["Psychological research has only recently begun to consider the dynamics involved in the acculturation of majority groups. Recognizing heterogeneity among immigrant groups, the present work investigates the influence of perceived characteristics of these groups on majority-group members’ adoption of immigrant cultures. In three pre-registered studie..."]
+      },
+      {
+        "title": "Does digital intergroup contact reduce prejudice? A meta-analysis",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Leonor Pereira da Costa", "Kinga Bierwiaczonek", "Mauro Bianchi"],
+        "abstract": ["With the ubiquity of technology in the modern life, contact between different social groups via a myriad of different digital means is an everyday reality. Can such a digital intergroup contact reduce prejudice, or does it exacerbate it? Here, we summarize the current evidence on the links between intergroup digital contact and prejudice in a varie..."]
+      },
+      {
+        "title": "Cultural threat perceptions predict violent extremism via need for cognitive closure",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Milan Obaidi", "Gulnaz Anjum", "Kinga Bierwiaczonek", "Jonas R. Kunst"],
+        "abstract": ["Understanding the psychological processes that drive violent extremism is a pressing global issue. Across six studies, we demonstrate that perceived cultural threats lead to violent extremism because they increase people's need for cognitive closure (NFC). In general population samples (from Denmark, Afghanistan, Pakistan, France, and an internatio..."]
+      },
+      {
+        "title": "Utilizing AI questionnaire translations in cross-cultural and intercultural research: Insights and recommendations",
+        "tags": ["Preprint"],
+        "date": "Apr 2023",
+        "authors": ["Jonas R. Kunst", "Kinga Bierwiaczonek"],
+        "abstract": ["In this research paper, we investigated the viability of AI-supported translations of survey materials in intercultural and cross-cultural research, comparing the quality of machine translations to traditional human translations. Focusing on the HEXACO personality inventory, we translated the original English inventory into 33 languages for which v..."]
+      },
+      {
+        "title": "How identity fusion predicts extreme pro-group orientations: A meta-analysis",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Anders Hustad", "Line Kruse", "Kinga Bierwiaczonek", "Jonas R. Kunst"],
+        "abstract": ["Researchers have productively tested identity fusion theory, aiming to explain extreme pro-group orientations. However, the strength of effects, types of measurements, and study contexts have varied substantially. This first meta-analysis (90 studies from 55 reports, 106 effects, N = 36,880) supported four main conclusions based on the available li..."]
+      },
+      {
+        "title": "How 'should' the majority group acculturate? Acculturation expectations and their correlates among minority-and majority-group members",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Jonas R. Kunst", "Simon Ozer", "Katharina Lefringhausen", "David Lackland Sam"],
+        "abstract": ["Do minority-group members welcome or reject that majority-group members adopt other cul-tures? Acculturation is commonly defined as a process of mutual accommodation. Yet, the acculturation of majority-group members has only recently received research attention. To date, we do not know the extent to which minority-group members expect majority-grou..."]
+      },
+      {
+        "title": "Revisiting the integration hypothesis again: High heterogeneity complicates the interpretation of cross-sectional evidence",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Kinga Bierwiaczonek", "Mike W-L Cheung", "Jonas R. Kunst"],
+        "abstract": []
+      },
+      {
+        "title": "Self-esteem trajectories over three decades predict opposition to social equality in midlife",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Anne-Marie Fluit", "Jonas R. Kunst", "Kinga Bierwiaczonek", "Tilmann von Soest"],
+        "abstract": ["Although life trajectories are frequently theorized to explain people’s attitudes toward different social groups, few studies have been able to directly assess their importance with suitable data. Addressing this gap and focusing on the development of general and domain-specific self-esteem, we report results from a population-based sample of Norwe..."]
+      },
+      {
+        "title": "Self-esteem trajectories over three decades predict opposition to social equality in midlife",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Anne-Marie Fluit", "Jonas R. Kunst", "Kinga Bierwiaczonek", "Tilmann von Soest"],
+        "abstract": ["Although life trajectories are frequently theorized to explain people’s attitudes toward different social groups, few studies have been able to directly assess their importance with suitable data. Addressing this gap and focusing on the development of general and domain-specific self-esteem, we report results from a population-based sample of Norwe..."]
+      },
+      {
+        "title": "Social media use, social identification and cross-cultural adaptation of international students: A longitudinal examination",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Leonor Gaitán-Aguilar", "Joep Hofhuis", "Kinga Bierwiaczonek", "Carmen Carmona"],
+        "abstract": ["The mobility experience is an important life event for international students, and achieving successful psychological and sociocultural adaptation is crucial for this experience to be positive. Through a three-wave longitudinal study among international students enrolled at universities in Spain, Portugal, and Poland ( n = 233), we examined the rel..."]
+      },
+      {
+        "title": "Individual, intergroup and nation-level influences on belief in conspiracy theories",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Matthew J. Hornsey", "Kinga Bierwiaczonek", "Kai Sassenberg", "Karen M. Douglas"],
+        "abstract": ["Conspiracy theories are part of mainstream public life, with the potential to undermine governments, promote racism, ignite extremism and threaten public health efforts. Psychological research on conspiracy theories is booming, with more than half of the academic articles on the topic published since 2019. In this Review, we synthesize the literatu..."]
+      },
+      {
+        "title": "Revisiting the integration hypothesis again: High heterogeneity complicates the interpretation of cross-sectional evidence",
+        "tags": ["Preprint"],
+        "date": "Oct 2022",
+        "authors": ["Kinga Bierwiaczonek", "Mike W-L Cheung", "Jonas R. Kunst"],
+        "abstract": ["A recent meta-analytical paper (Bierwiaczonek & Kunst, 2021) sparked a controversy by demonstrating that cross-sectional associations between acculturation and adaptation are weak and heterogenous, and approach zero when assessed over time. Some responses criticized the paper by arguing that small but robust effects can make a real-life difference..."]
+      },
+      {
+        "title": "Acculturation and Adaptation of Syrian Refugees in Turkey: The Role of (Dis)Concordance of Acculturation Orientations and Identity Threat",
+        "tags": ["Chapter"],
+        "date": "Jul 2022",
+        "authors": ["İmge Terzi", "Rita Guerra", "Kinga Bierwiaczonek"],
+        "abstract": []
+      },
+      {
+        "title": "An interpretation of meta-analytical evidence for the link between collective narcissism and conspiracy theories",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Agnieszka Golec de Zavala", "Kinga Bierwiaczonek", "Paweł Ciesielski"],
+        "abstract": ["Meta-analytical evidence indicates the robust association between collective narcissism and conspiracy theories is moderated by the content of conspiracy theories. Belief in conspiracies of specific outgroups fits collective narcissistic posture of intergroup hostility but collective narcissism is also bound to other conspiracy theories because it..."]
+      },
+      {
+        "title": "An interpretation of meta-analytical evidence for the link between collective narcissism and conspiracy theories",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Agnieszka Golec de Zavala", "Kinga Bierwiaczonek", "Paweł Ciesielski"],
+        "abstract": ["Meta-analytical evidence indicates the robust association between collective narcissism and conspiracy theories is moderated by the content of conspiracy theories. Belief in conspiracies of specific outgroups fits collective narcissistic posture of intergroup hostility but collective narcissism is also bound to other conspiracy theories because it..."]
+      },
+      {
+        "title": "The role of conspiracy beliefs for COVID-19 health responses: A meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Kinga Bierwiaczonek", "Aleksander B. Gundersen", "Jonas R. Kunst"],
+        "abstract": ["While conspiracy theories about COVID-19 are proliferating, their impact on health-related responses during the present pandemic is not yet fully understood. We meta-analyzed correlational and longitudinal evidence from 53 studies (N = 78,625) conducted in 2020 and 2021. Conspiracy beliefs were weakly associated with more reluctance toward preventi..."]
+      },
+      {
+        "title": "How Identity Fusion Predicts Extreme Pro-Group Orientations: A Meta-Analysis",
+        "tags": ["Preprint"],
+        "date": "Feb 2022",
+        "authors": ["Anders Hustad", "Line Kruse", "Kinga Bierwiaczonek", "Jonas R. Kunst"],
+        "abstract": ["Identity fusion reflects a visceral feeling of oneness with a group that predicts extreme pro-group orientations. While the theory has been tested extensively, several questions have not been conclusively answered. Here, we present the first meta-analysis of the associations between identity fusion and pro-group orientations (k = 57, N = 36,880, 10..."]
+      },
+      {
+        "title": "The role of conspiracy beliefs for COVID-19 prevention: A meta-analysis",
+        "tags": ["Preprint"],
+        "date": "Sep 2021",
+        "authors": ["Kinga Bierwiaczonek", "Jonas R. Kunst", "Aleksander B. Gundersen"],
+        "abstract": ["While conspiracy theories about COVID-19 are proliferating, their impact on health-related responses during the present pandemic is not yet fully understood. We meta-analyzed correlational and longitudinal evidence from 53 studies (N = 78,625) conducted in 2020 and 2021, demonstrating under what conditions COVID-19 conspiracy beliefs influence prev..."]
+      },
+      {
+        "title": "Revisiting the Integration Hypothesis: Correlational and Longitudinal Meta-Analyses Demonstrate the Limited Role of Acculturation for Cross-Cultural Adaptation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Kinga Bierwiaczonek", "Jonas R. Kunst"],
+        "abstract": ["When moving to a new country or living in that country as ethnic-minority-group members, individuals have to relate to different cultural spheres. Scholars and practitioners commonly agree that how people acculturate influences their psychological and sociocultural adaptation. Integration (or biculturalism), which involves engagement in both one’s..."]
+      },
+      {
+        "title": "Male, National, and Religious Collective Narcissism Predict Sexism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Agnieszka Golec de Zavala", "Kinga Bierwiaczonek"],
+        "abstract": ["Results of three cross-sectional studies indicate that sexism in Poland is associated with collective narcissism—a belief that one’s own group’s (the in-group’s) exaggerated exceptionality is not sufficiently recognized by others—with reference to three social identities: male, religious, and national. In Study 1 (n = 329), male collective narcissi..."]
+      },
+      {
+        "title": "The Neglected C of Intercultural Relations. Cross-Cultural Adaptation Shapes Sojourner Representations of Locals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus", "Karen van der Zee"],
+        "abstract": ["We investigated, by means of the Reverse Correlation Task (RCT), visual representations of the culturally dominating group of local people held by sojourners as a function of their degree of cross-cultural adaptation. In three studies, using three different methods (reduced RCT, full RCT, conceptual replication) with three independent samples of so..."]
+      },
+      {
+        "title": "An intergroup approach to collective narcissism: Intergroup threats and hostility in four European Union countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Rita Guerra", "Kinga Bierwiaczonek", "Marina Ferreira", "Constantine Sedikides"],
+        "abstract": ["Although it is known that collective narcissism is associated with problematic intergroup relations, its predictors are less well understood. Two studies, conducted in four European Union countries (Germany, Greece, Portugal, the United Kingdom [UK]), tested the hypotheses that integrated (i.e., realistic and symbolic) threat (Study 1, N = 936) as..."]
+      },
+      {
+        "title": "Three Types of Collective Narcissism—Male, Religious, and National—Predict Sexism",
+        "tags": ["Preprint"],
+        "date": "Sep 2020",
+        "authors": ["Agnieszka Golec de Zavala", "Kinga Bierwiaczonek"],
+        "abstract": ["Results of three cross-sectional studies indicate that sexism in Poland is associated with collective narcissism—a belief that one’s own group’s (the in-group’s) exaggerated exceptionality is not sufficiently recognized by others—with reference to three social identities: male, religious, and national. In Study 1 (n = 329), male collective narcissi..."]
+      },
+      {
+        "title": "The COVID-19 Pandemic, Authoritarianism, and Rejection of Sexual Dissenters in Poland",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Agnieszka Golec de Zavala", "Kinga Bierwiaczonek", "Tomasz Baran", "Adrian Hase"],
+        "abstract": ["In Poland, both, gender hierarchy restricting women’s sexuality and heteronormativity are rooted in traditional “family values” supported by the teachings of the Polish Catholic Church and attached to Polish national identity. Dissenters to traditional norms regulating gender and sexual relations are rejected as a threat to social order and nationa..."]
+      },
+      {
+        "title": "Belief in COVID‐19 Conspiracy Theories Reduces Social Distancing over Time",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Kinga Bierwiaczonek", "Jonas R. Kunst", "Olivia Pich"],
+        "abstract": ["Background: \nConspiracy theories about the origins of COVID-19 are widespread and have even been propagated by highly ranked state officials and politicians in the US. Health authorities have cautioned that such theories, although not questioning the existence of the pandemic, may increase the spread of the virus by reducing people's efforts to soc..."]
+      },
+      {
+        "title": "Good refugees, bad migrants? Intergroup helping orientations toward refugees, migrants, and economic migrants in Germany",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["Mia Caroline Wyszynski", "Rita Guerra", "Kinga Bierwiaczonek"],
+        "abstract": ["The present study examined the effect of group labels on helping behavioral intentions toward displaced people in Germany. Specifically, it examined the impact of different labels evoking either voluntary or forced migration (i.e., migrants, economic migrants, and refugees) on different helping orientations (e.g., dependency vs. autonomy‐oriented h..."]
+      },
+      {
+        "title": "Belief in COVID-19 Conspiracy Theories Reduces Social Distancing over Time",
+        "tags": ["Preprint"],
+        "date": "Jul 2020",
+        "authors": ["Kinga Bierwiaczonek", "Jonas R. Kunst", "Olivia Pich"],
+        "abstract": ["Background Conspiracy theories about the origins of COVID-19 are wide-spread and have even been propagated by highly ranked state officials and politicians in the U.S. Health authorities have cautioned that such theories, although not questioning the existence of the pandemic, may increase the spread of the virus by reducing people’s efforts to soc..."]
+      },
+      {
+        "title": "Sexual Prejudice and Concerns of National Survival in Poland during the COVID-19 Pandemic",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Agnieszka Golec de Zavala", "Kinga Bierwiaczonek", "Tomasz Baran", "Oliver Keenan"],
+        "abstract": ["Results of a three-wave longitudinal study conducted in the first four weeks of the COVID-19 pandemic in Poland (N = 889) indicate that right wing-authoritarianism increased as the pandemic unfolded, predicting significant growth in national cohesion and in the belief that non-traditional women and sexual minorities threaten the national survival...."]
+      },
+      {
+        "title": "GOOD REFUGEES, BAD MIGRANTS? Language, Social Perception and Helping Orientations towards Displaced People",
+        "tags": ["Poster"],
+        "date": "Jun 2019",
+        "authors": ["Mia Caroline Wyszynski", "Rita Guerra", "Kinga Bierwiaczonek"],
+        "abstract": ["Linguistic representations and labels have an important function in social relations: they create and share meaning and shape intergroup dynamics (Carnaghi & Bianchi, 2017). Our study examined the effect of group labels on the social perception of displaced people in Germany. We examined whether activating different labels to refer to displaced peo..."]
+      },
+      {
+        "title": "Protective or harmful? Exploring the ambivalent role of social identification as a moderator of intergroup stress in sojourners",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus", "Karen van der Zee"],
+        "abstract": ["Living outside one’s home country may be stressful, and having strong social ties should help deal with this stress. However, social ties may be protective or harmful depending on whether the social group they evoke belongs to the host- or the home country context. The current study examines how social identification with different groups may eithe..."]
+      },
+      {
+        "title": "How You Feel About Them Is How You See Them. Cross-Cultural Adaptation Shapes Sojourner Representations of Locals",
+        "tags": ["Presentation"],
+        "date": "Aug 2017",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus", "Karen van der Zee"],
+        "abstract": []
+      },
+      {
+        "title": "Who needs intergroup contact? Intercultural traits moderate contact effects in sojourners",
+        "tags": ["Presentation"],
+        "date": "Jul 2017",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus", "Karen van der Zee"],
+        "abstract": []
+      },
+      {
+        "title": "Exploring intercultural personality traits as moderators of contact effects in sojourners",
+        "tags": ["Presentation"],
+        "date": "Jul 2017",
+        "authors": ["Kinga Bierwiaczonek", "Karen van der Zee", "Sven Waldzus"],
+        "abstract": []
+      },
+      {
+        "title": "Context Matters. A Meta-Analysis of Social-Contextual Influences on Cross-Cultural Adaptation",
+        "tags": ["Presentation"],
+        "date": "Jun 2017",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus", "Karen van der Zee"],
+        "abstract": []
+      },
+      {
+        "title": "Intergroup Contact or Cross-Cultural Adaptation: What Shapes Sojourner Representations of Locals?",
+        "tags": ["Presentation"],
+        "date": "Jul 2016",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus", "Karen van der Zee"],
+        "abstract": []
+      },
+      {
+        "title": "Socio-Cultural Factors as Antecedents of Cross-Cultural Adaptation in Expatriates, International Students, and Migrants: A Review",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus"],
+        "abstract": ["Currently, international mobility is common. Living abroad requires adaptation to the new \nculture, and adaptation outcomes are influenced by various socio-cultural factors. The literature \nexamining these factors is vast but highly specialized. This article reviews studies on adaptation \nin various groups of cross-cultural travelers to identify th..."]
+      },
+      {
+        "title": "How Do Academics View The Research-Teaching Nexus? A Review of Literature",
+        "tags": ["Conference Paper"],
+        "date": "Mar 2016",
+        "authors": ["Kinga Bierwiaczonek", "Susana Fonseca", "Sónia F Bernardes"],
+        "abstract": []
+      },
+      {
+        "title": "Intergroup Stressors, Social-Level Coping Resources and Multi-Cultural Personality. Their Role and Interactions in Cross-Cultural Adaptation.",
+        "tags": ["Presentation"],
+        "date": "Jun 2015",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus", "Karen van der Zee"],
+        "abstract": []
+      },
+      {
+        "title": "Intergroup Stressors, Social-Level Coping Resources and Multi-Cultural Personality. Their Role and Interactions in Cross-Cultural Adaptation.",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2015",
+        "authors": ["Kinga Bierwiaczonek", "Sven Waldzus", "Karen van der Zee"],
+        "abstract": []
+      },
+      {
+        "title": "Moratorium On-line. Internet jako przestrzeń eksperymentowania z tożsamoscią [Online Moratorium. Internet as a space of identity experimentation].",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Kinga Bierwiaczonek", "Dorota Chmielewska-Łuczak", "Matylda Siuta"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "I am a social psychologist investigating social and cultural factors that affect people’s well-being and health. I hold a double PhD in psychology from VU Amsterdam and ISCTE – University Institute of Lisbon. My research focuses on two topics: migrant and sojourner adaptation to living in a new country, and health effects of conspiracy beliefs. I use a broad range of quantitative methods. I am particularly interested in meta-analysis. I currently work at the University of Oslo.",
+    "publications": [41],
+    "reads": [4706],
+    "citations": [622]
   }
 }

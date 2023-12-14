@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-8404-6951",
-    "name": "Guro Brokke Omland",
+    "orcid": ["0000-0001-8404-6951"],
+    "name": ["Guro Brokke Omland"],
     "distinctions": [],
     "education": [
       {
@@ -13,52 +13,52 @@
       },
       {
         "start": "2020",
-        "end": "2022",
         "position": "Associate Professor",
         "organisation": "Oslo Nye Høyskole",
-        "country": "NO"
+        "country": "NO",
+        "end": "2022"
       },
       {
         "start": "2020",
-        "end": "2020",
         "position": "Special consultant/researcher",
         "organisation": "Oslo Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2019",
-        "end": "2020",
         "position": "Lecturer",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2017",
-        "end": "2018",
         "position": "Assistant Professor",
         "organisation": "VID Specialized University",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2017",
-        "end": "2018",
         "position": "Lecturer",
         "organisation": "OsloMet – Oslo Metropolitan University",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2011",
-        "end": "2017",
         "position": "Research Fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2017"
       },
       {
         "start": "2008",
-        "end": "2011",
         "position": "Clinical Psychologist",
         "organisation": "Vestre Viken Hospital Trust",
-        "country": "NO"
+        "country": "NO",
+        "end": "2011"
       }
     ],
     "employment": [
@@ -70,52 +70,52 @@
       },
       {
         "start": "2020",
-        "end": "2022",
         "position": "Associate Professor",
         "organisation": "Oslo Nye Høyskole",
-        "country": "NO"
+        "country": "NO",
+        "end": "2022"
       },
       {
         "start": "2020",
-        "end": "2020",
         "position": "Special consultant/researcher",
         "organisation": "Oslo Kommune",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2019",
-        "end": "2020",
         "position": "Lecturer",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2020"
       },
       {
         "start": "2017",
-        "end": "2018",
         "position": "Assistant Professor",
         "organisation": "VID Specialized University",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2017",
-        "end": "2018",
         "position": "Lecturer",
         "organisation": "OsloMet – Oslo Metropolitan University",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2011",
-        "end": "2017",
         "position": "Research Fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2017"
       },
       {
         "start": "2008",
-        "end": "2011",
         "position": "Clinical Psychologist",
         "organisation": "Vestre Viken Hospital Trust",
-        "country": "NO"
+        "country": "NO",
+        "end": "2011"
       }
     ],
     "membership": [],
@@ -148,11 +148,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Guro Brokke Omland",
-    "id": "18531",
+    "name": ["Guro Brokke Omland"],
+    "id": ["18531"],
     "keywords": [],
     "position": ["Associate professor", "University lecturer", "University college lecturer", "Associate professor"],
-    "img": "https://api.cristin.no/v2/persons/18531/picture",
+    "img": ["https://api.cristin.no/v2/persons/18531/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -168,26 +168,26 @@
       {
         "type": "Popular scientific lecture",
         "year": "2023",
-        "title": "Open Science: A Solution to the Ivory Tower Problem of Academia? ",
-        "url": "https://api.cristin.no/v2/results/2155392"
+        "url": "https://api.cristin.no/v2/results/2155392",
+        "title": "Open Science: A Solution to the Ivory Tower Problem of Academia? "
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Expanding open science: ​Qualitative research as a point of departure",
-        "url": "https://api.cristin.no/v2/results/2090662"
+        "url": "https://api.cristin.no/v2/results/2090662",
+        "title": "Expanding open science: ​Qualitative research as a point of departure"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "The Pandemic Child: Vulnerability constructions under COVID-19",
-        "url": "https://api.cristin.no/v2/results/2055525"
+        "url": "https://api.cristin.no/v2/results/2055525",
+        "title": "The Pandemic Child: Vulnerability constructions under COVID-19"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Belonging through enriching activities and intimacy: Narratives of doing school and developmental support when living in residential care",
-        "url": "https://api.cristin.no/v2/results/2055515"
+        "url": "https://api.cristin.no/v2/results/2055515",
+        "title": "Belonging through enriching activities and intimacy: Narratives of doing school and developmental support when living in residential care"
       },
       {
         "type": "Popular scientific lecture",
@@ -202,8 +202,8 @@
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Expanding notions of family-based care for unaccompanied refugee minors? An exploration of relational negotiations between foster parents and unaccompanied foster children in Norway ",
-        "url": "https://api.cristin.no/v2/results/1917661"
+        "url": "https://api.cristin.no/v2/results/1917661",
+        "title": "Expanding notions of family-based care for unaccompanied refugee minors? An exploration of relational negotiations between foster parents and unaccompanied foster children in Norway "
       },
       {
         "type": "Popular scientific lecture",
@@ -228,34 +228,34 @@
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "‘Discuss it with your legal guardian’: Challenges in practising care for young unaccompanied refugee minors",
         "journal": "Child & Family Social Work",
-        "url": "https://api.cristin.no/v2/results/1853203"
+        "url": "https://api.cristin.no/v2/results/1853203",
+        "title": "‘Discuss it with your legal guardian’: Challenges in practising care for young unaccompanied refugee minors"
       },
       {
         "type": "Doctoral dissertation",
         "year": "2020",
-        "title": "Re-creating lives and futures in exile: A cultural psychological study of unaccompanied refugee minors and their professional caregivers in Norway",
-        "url": "https://api.cristin.no/v2/results/1821186"
+        "url": "https://api.cristin.no/v2/results/1821186",
+        "title": "Re-creating lives and futures in exile: A cultural psychological study of unaccompanied refugee minors and their professional caregivers in Norway"
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "‘Do you need to talk to someone?’ – Professionalising and outsourcing dialogues about psychological pain at residential care institutions for unaccompanied asylum-seeking young people",
-        "url": "https://api.cristin.no/v2/results/1718791"
+        "url": "https://api.cristin.no/v2/results/1718791",
+        "title": "‘Do you need to talk to someone?’ – Professionalising and outsourcing dialogues about psychological pain at residential care institutions for unaccompanied asylum-seeking young people"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Peer relationships at residential care institutions for unaccompanied refugee minors: An under-utilised resource?",
         "journal": "Qualitative Social Work",
-        "url": "https://api.cristin.no/v2/results/1718777"
+        "url": "https://api.cristin.no/v2/results/1718777",
+        "title": "Peer relationships at residential care institutions for unaccompanied refugee minors: An under-utilised resource?"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Personal communities among unaccompanied refugee minors: Materiality of places and organisation of everyday life as crucial conditions",
-        "url": "https://api.cristin.no/v2/results/1949872"
+        "url": "https://api.cristin.no/v2/results/1949872",
+        "title": "Personal communities among unaccompanied refugee minors: Materiality of places and organisation of everyday life as crucial conditions"
       },
       {
         "type": "Academic lecture",
@@ -265,15 +265,15 @@
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "How can interpretative frameworks guide the construction of concrete analytical approaches? The Theory<>Data Relation of the Methodology Cycle",
-        "url": "https://api.cristin.no/v2/results/1949869"
+        "url": "https://api.cristin.no/v2/results/1949869",
+        "title": "How can interpretative frameworks guide the construction of concrete analytical approaches? The Theory<>Data Relation of the Methodology Cycle"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Negotiating developmental projects: Unaccompanied Afghan refugee boys in Norway",
         "journal": "Childhood",
-        "url": "https://api.cristin.no/v2/results/1486405"
+        "url": "https://api.cristin.no/v2/results/1486405",
+        "title": "Negotiating developmental projects: Unaccompanied Afghan refugee boys in Norway"
       },
       {
         "type": "Popular scientific lecture",
@@ -295,8 +295,8 @@
       {
         "type": "Academic lecture",
         "year": "2016",
-        "title": "Unaccompanied minors: Conditions for development in exile",
-        "url": "https://api.cristin.no/v2/results/1949868"
+        "url": "https://api.cristin.no/v2/results/1949868",
+        "title": "Unaccompanied minors: Conditions for development in exile"
       },
       {
         "type": "Interview",
@@ -335,5 +335,47 @@
         "url": "https://api.cristin.no/v2/results/1949860"
       }
     ]
+  },
+  "rg": {
+    "id": "Guro-Omland",
+    "name": "Guro Brokke Omland",
+    "img": "https://i1.rgstatic.net/ii/profile.image/459053450174465-1486458279046_Q128/Guro-Omland.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Youth Development", "Cultural Psychology", "Qualitative Methods", "Developmental Psychology", "Forced Migration", "Qualitative Analysis"],
+    "works": [
+      {
+        "title": "Peer relationships at residential care institutions for unaccompanied refugee minors: An under-utilised resource?",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Guro Brokke Omland", "Agnes Andenæs"],
+        "abstract": "Without access to their own families, how do young, unaccompanied refugee minors re-establish their social lives in ways that facilitate a sense of togetherness in their everyday lives during resettlement? This question was approached by exploring the young persons’ creation of relational practices and the kinds of sociomaterial conditions that see..."
+      },
+      {
+        "title": "«Tenk deg at du balanserer på en line»: Unges fortellinger om å få til skolen når de bor i barnevernsinstitusjon",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Helene Toverud Godø", "Astrid Halsa", "Guro Brokke Omland", "Mona-Iren Hauge"],
+        "abstract": "Artikkelen tar utgangspunkt i intervjuer med ungdom på barnevernsinstitusjoner som tar eller har tatt videregående opplæring. Gjennom næranalyser av intervjuene med to av ungdommene som fullførte videregående skole, utforsker vi deres fortellinger om sin skoledeltakelse. Ungdommene fremhever egen innsats som avgjørende for at de klarte å fullføre s..."
+      },
+      {
+        "title": "‘Discuss it with your legal guardian’: Challenges in practising care for young unaccompanied refugee minors",
+        "tags": ["Article"],
+        "date": "Dec 2020",
+        "authors": ["Guro Brokke Omland", "Agnes Andenæs", "Nora Sveaass"],
+        "abstract": "How is care arranged for unaccompanied refugee minors at residential care institutions , and what kind of conditions do these arrangements constitute for young per-sons' well-being and development? Informed by developmental perspectives that consider young people's development through participation across contexts in everyday life and by research i..."
+      },
+      {
+        "title": "Negotiating developmental projects: Unaccompanied Afghan refugee boys in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Guro Brokke Omland", "Agnes Andenæs"],
+        "abstract": "Unaccompanied refugee minors are, like other youngsters, making their moves towards adulthood, but under most challenging conditions. Informed by a cultural psychological approach to development, we analysed interviews with 18 unaccompanied Afghan boys and their professional caregivers. ‘Establishing a liveable life in Norway’ and ‘helping the fami..."
+      }
+    ],
+    "degree": ["PhD", "in", "psychology,", "Clinical", "psychologist"],
+    "bio": [],
+    "publications": [4],
+    "reads": [340],
+    "citations": [23]
   }
 }

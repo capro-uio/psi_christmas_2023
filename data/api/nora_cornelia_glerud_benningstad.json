@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-7955-107X",
-    "name": "Nora Benningstad",
+    "orcid": ["0000-0002-7955-107X"],
+    "name": ["Nora Benningstad"],
     "distinctions": [],
     "education": [
       {
@@ -25,8 +25,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Nora Cornelia Glerud Benningstad",
-    "id": "1182115",
+    "name": ["Nora Cornelia Glerud Benningstad"],
+    "id": ["1182115"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -46,5 +46,40 @@
         "url": "https://api.cristin.no/v2/results/1758576"
       }
     ]
+  },
+  "rg": {
+    "id": "Nora-Benningstad",
+    "name": "Nora Cornelia Glerud Benningstad",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1076251531976704-1633609769051_Q128/Nora-Benningstad.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Review"],
+    "works": [
+      {
+        "title": "Daily reminders about the animal-welfare, environmental and health consequences of meat and their main and moderated effects on meat consumption",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Ottersen Ida", "Nora Cornelia Glerud Benningstad", "Jonas R. Kunst"],
+        "abstract": "Due to the negative impacts of meat consumption, finding ways to reduce individual meat intake is an urgent issue. The present study tested whether daily mobile-phone text message reminders about the animal welfare, environmental, and health consequences of meat would reduce peoples' meat consumption. The study further investigated the role of a ra..."
+      },
+      {
+        "title": "Dissociating Meat from its Animal Origins: A Systematic Literature Review",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Nora Cornelia Glerud Benningstad", "Jonas R. Kunst"],
+        "abstract": "Meat eaters often have an ambivalent relationship with the common practice of killing animals for food. They enjoy the taste of meat but dislike the harming of animals that it entails. This moral conflict, often referred to as the 'meat paradox,' tends to result in cognitive dissonance that meat eaters need to resolve. One of the arguably most basi..."
+      },
+      {
+        "title": "Dissociating meat from its animal origins: A systematic literature review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Nora Cornelia Glerud Benningstad", "Jonas R. Kunst"],
+        "abstract": "Meat eaters often have an ambivalent relationship with the common practice of killing animals for food. They enjoy the taste of meat but dislike the harming of animals that it entails. This moral conflict, often referred to as the 'meat paradox,' tends to result in cognitive dissonance that meat eaters need to resolve. One of the arguably most basi..."
+      }
+    ],
+    "degree": ["Master", "in", "Social", "Psychology", ""],
+    "bio": [],
+    "publications": [3],
+    "reads": [843],
+    "citations": [61]
   }
 }

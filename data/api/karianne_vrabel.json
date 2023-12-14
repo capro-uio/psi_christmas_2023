@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "KariAnne Vrabel",
-    "id": "ErHyl98AAAAJ",
-    "affiliation": "Associate professor ved University of Oslo/Modum Bad",
+    "name": ["KariAnne Vrabel"],
+    "id": ["ErHyl98AAAAJ"],
+    "affiliation": ["Associate professor ved University of Oslo/Modum Bad"],
     "data": {
       "publications": [
         {
@@ -385,8 +385,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-8307-7641",
-    "name": "KariAnne Vrabel",
+    "orcid": ["0000-0001-8307-7641"],
+    "name": ["KariAnne Vrabel"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -422,8 +422,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "KariAnne Vrabel",
-    "id": "56105",
+    "name": ["KariAnne Vrabel"],
+    "id": ["56105"],
     "keywords": [],
     "position": ["Associate professor", "Guest", "Research Scientist"],
     "img": {},
@@ -957,5 +957,15 @@
         "url": "https://api.cristin.no/v2/results/360145"
       }
     ]
+  },
+  "rg": {
+    "id": "Karianne-Berg-2",
+    "name": "Karianne Berg",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Stavanger UiS, Department of Public Health",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

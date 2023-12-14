@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Ingvild Tistløv Stjernen",
-    "id": "1408357",
+    "name": ["Ingvild Tistløv Stjernen"],
+    "id": ["1408357"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Ingvild-Ingvild",
+    "name": "Ingvild Ingvild",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Bergen | UiB, University of Bergen, Department of Education",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Sandra Solli",
-    "id": "526713",
+    "name": ["Sandra Solli"],
+    "id": ["526713"],
     "keywords": [],
     "position": ["Research fellow", "Academic assistant"],
     "img": {},
@@ -39,5 +39,15 @@
         "url": "https://api.cristin.no/v2/results/2195873"
       }
     ]
+  },
+  "rg": {
+    "id": "Sandra-Solli",
+    "name": "Sandra Solli",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cognitive Neuroscience", "Music", "Acoustics and Acoustic Engineering"],
+    "works": [],
+    "degree": [null],
+    "bio": "When finding the detection threshold, is it easier or faster in any of the cases? Is there a difference in the steepness of the psychometric curve? In my case, I am looking at how different conditions influence the detection accuracy. I'm flexible in the choice of method.Thanks!"
   }
 }

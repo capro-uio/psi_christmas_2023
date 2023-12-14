@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Karine Lindholm",
-    "id": "1465395",
+    "name": ["Karine Lindholm"],
+    "id": ["1465395"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
@@ -16,5 +16,26 @@
         "url": "https://api.cristin.no/v2/results/2072909"
       }
     ]
+  },
+  "rg": {
+    "id": "Bulabois-Karine-2",
+    "name": "Bulabois Karine",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Université de Vincennes  Paris 8 | UP8, Université de Vincennes  Paris 8, Department of Psychology",
+    "keywords": ["Health"],
+    "works": [
+      {
+        "title": "Adequacy of care management of patients with polyhandicap: The features of the French healthcare system",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Marie-Christine C Rousseau", "Bulabois Karine", "V. Maria", "P. Auquier"],
+        "abstract": "Introduction/Background\nThe aims of this study were:\n–to describe the health profiles and care management of polyhandicapped patients according to 3 modalities specialized rehabilitation centers (SRC), residential facilities (RF), and home care (HC);\n–to estimate the adequacy of care management of these patients.\n\nMaterial and method\nThis was an 18..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [8],
+    "citations": [0]
   }
 }

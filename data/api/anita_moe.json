@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Ros Anita Kartini Mohamed",
-    "id": "iI6Hwk4AAAAJ",
-    "affiliation": "Teacher",
+    "name": ["Ros Anita Kartini Mohamed"],
+    "id": ["iI6Hwk4AAAAJ"],
+    "affiliation": ["Teacher"],
     "data": {
       "publications": [
         {
@@ -293,8 +293,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-2946-8902",
-    "name": "Anita Moe",
+    "orcid": ["0000-0003-2946-8902"],
+    "name": ["Anita Moe"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -305,8 +305,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anita Moe",
-    "id": "9519",
+    "name": ["Anita Moe"],
+    "id": ["9519"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -419,5 +419,39 @@
         "url": "https://api.cristin.no/v2/results/29004"
       }
     ]
+  },
+  "rg": {
+    "id": "Anita-Anita-19",
+    "name": "Anita Anita",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281157066886-1683698426784_Q128/Anita-Anita-19.jpg",
+    "affiliation": "",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Green synthesis, characterisation and antibacterial properties of Tin(IV)oxide nanoparticles using root extract of Cassia tora",
+        "tags": ["Conference Paper"],
+        "date": "May 2023",
+        "authors": ["Anita Anita", "Anjali Anjali"],
+        "abstract": []
+      },
+      {
+        "title": "Investigations on green synthesised nanocomposites of magnetite using Salvia hispanica for antibacterial activity",
+        "tags": ["Conference Paper"],
+        "date": "May 2023",
+        "authors": ["Anita Anita", "Anjali Anjali"],
+        "abstract": []
+      },
+      {
+        "title": "Green synthesis, characterization and antibacterial activity of Tin (IV) oxide nanoparticles using root extract of Cassia tora",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Anita Anita", "Anjali Anjali", "Abhishek Awasthi", "Punita Sharma"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "publications": [3],
+    "reads": [45],
+    "citation": [1]
   }
 }

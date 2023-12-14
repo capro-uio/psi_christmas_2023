@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Stein Andersson",
-    "id": "coXn1yUAAAAJ",
-    "affiliation": "Dept. of Psychology, University of Oslo",
+    "name": ["Stein Andersson"],
+    "id": ["coXn1yUAAAAJ"],
+    "affiliation": ["Dept. of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -923,8 +923,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-7556-7621",
-    "name": "Stein Andersson",
+    "orcid": ["0000-0002-7556-7621"],
+    "name": ["Stein Andersson"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -952,8 +952,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Stein Andersson",
-    "id": "9667",
+    "name": ["Stein Andersson"],
+    "id": ["9667"],
     "keywords": [],
     "position": ["Associate professor ii", "Professor", null, null, null],
     "img": {},
@@ -1637,5 +1637,719 @@
         "url": "https://api.cristin.no/v2/results/1246267"
       }
     ]
+  },
+  "rg": {
+    "id": "Stein-Andersson",
+    "name": "Stein Andersson",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277224839237638-1443106960222_Q128/Stein-Andersson.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Neuropsychological Assessment", "Neuropsychology", "Clinical Neuropsychology", "Neuropsychiatry", "Cognitive Neuropsychology", "Cognitive Neuroscience", "Executive Function", "Cognitive Psychology", "Neuropsychological Tests"],
+    "works": [
+      {
+        "title": "1859P Digital goal management training as treatment for cognitive impairment in cervical cancer survivors: A feasibility study",
+        "tags": ["Article"],
+        "date": "Oct 2023",
+        "authors": ["Elisabeth Wang Areklett", "Bjørn Ingulfsvann Hagen", "Stein Andersson", "Kristina Lindemann"],
+        "abstract": []
+      },
+      {
+        "title": "Long-Covid: Neuropsychological function at 6 and 12 months – relation to depression and self-reported symptoms",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Stein Andersson", "Knut Hestad", "I. Okkenhaug", "Birgitte Boye"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive rehabilitation in paediatric acquired brain injury—A 2-year follow-up of a randomised controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Hanna Lovise Sargénius", "Stein Andersson", "Ingvild Haugen", "Jan Stubberud"],
+        "abstract": ["Background\nGoal management training (GMT), a metacognitive rehabilitation method that has been demonstrated to improve executive function (EF) in adults with acquired brain injury (ABI), could potentially be effective for children in the chronic phase of ABI. In a previously published randomised controlled trial (RCT), the efficacy of a paediatric..."]
+      },
+      {
+        "title": "Baseline long-term potentiation-like cortical plasticity is associated with longitudinal cortical thinning in healthy adults and in adults with bipolar disorder type II",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": ["The precise neurobiological processes underlying cerebral cortical thinning in aging and psychiatric illnesses remain undetermined, yet aging- and synaptic dysfunction-related loss of synapses are potential important mechanisms. We used long-term potentiation-like plasticity of the visual evoked potential as an index of synaptic function in the cor..."]
+      },
+      {
+        "title": "The role of pain and psychological distress in fatigue: a co-twin and within-person analysis of confounding and causal relations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Daniel Løke", "Marianne Løvstad", "Nada Andelic", "Olav Vassend"],
+        "abstract": ["Objective: \nFatigue is a common symptom in somatic and mental illness. Musculoskeletal pain and psychological distress have in turn frequently been shown to be associated with fatigue across clinical conditions and in the general population. The study aims to disentangle direct effects from those due to mere confounding from shared etiologies.\n\nDes..."]
+      },
+      {
+        "title": "Stability and Change in Biopsychosocial Factors Associated With Fatigue 6 and 12 Months After Traumatic Brain Injury: An Exploratory Multilevel Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Daniel Løke", "Nada Andelic", "Eirik Helseth", "Marianne Løvstad"],
+        "abstract": ["Objective: \nTo explore factors associated with stability and change in fatigue from 6 to 12 months following traumatic brain injury (TBI).\n\nSetting: \nCombined in- and outpatient acute care and postacute rehabilitation settings.\n\nParticipants: \nA total of 103 patients with confirmed intracranial injury were assessed 6 and/or 12 months following TBI...."]
+      },
+      {
+        "title": "Long term potentiation-like neural plasticity and performance-based memory function",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Trine Waage Rygvold", "Christoffer Hatlestad-Hall", "Elvsåshagen Torbjørn", "Stein Andersson"],
+        "abstract": ["Objective\nExperience-dependent modulation of the visual evoked potential (VEP) has emerged as a promising non-invasive proxy for assaying long term potentiation (LTP)-like plasticity in the cerebral cortex. LTP is considered the principal candidate mechanism underlying learning and memory. There is, however, a paucity of evidence exploring associat..."]
+      },
+      {
+        "title": "BIDS-structured resting-state electroencephalography (EEG) data extracted from an experimental paradigm",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Christoffer Hatlestad-Hall", "Trine Waage Rygvold", "Stein Andersson"],
+        "abstract": ["Electroencephalography (EEG) offers a unique window into the dynamics of the neuronal symphony that powers our brains. Here, we describe a publicly available dataset of EEG recorded from 111 healthy subjects. The data were recorded with 64 electrodes in a resting-state condition, an approach that offers broad-spectred analysis options, including fu..."]
+      },
+      {
+        "title": "1437P Does subjective cognitive impairment reflect objective cognitive impairment in cervical cancer survivors?",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Elisabeth Wang Areklett", "Stein Andersson", "Jan Stubberud", "Kristina Lindemann"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitive strategy training versus psychoeducation for improving fatigue in children and adolescents with acquired brain injuries: A randomized controlled trial",
+        "tags": ["Article"],
+        "date": "Aug 2022",
+        "authors": ["Ruth Elizabeth Hypher", "Anne Elisabeth Brandt", "Eva Skovlund", "Jan Stubberud"],
+        "abstract": ["Objective: \nThe present study aims to explore the relative effectiveness of two group-based cognitive rehabilitation programs for reducing fatigue in pediatric acquired brain injury (pABI).\n\nMethod: \nThis is an exploratory study of secondary endpoints in a blinded, parallel-randomized controlled trial with children and adolescents (ages 10-17 years..."]
+      },
+      {
+        "title": "Subjective cognitive complaints and neuropsychological performance at six months post COVID-19",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Stein Andersson", "Knut Hestad", "D. Johannessen", "Birgitte Boye"],
+        "abstract": []
+      },
+      {
+        "title": "Predictors of Functional School Outcome in Children With Pediatric Acquired Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Jan Stubberud", "Ruth Elizabeth Hypher", "Anne Elisabeth Brandt", "Torstein Baade Ro"],
+        "abstract": ["Objective\nAmong the variety of domains that may be impacted after pediatric acquired brain injury (pABI) are functional school outcomes. The purpose of this study was to identify demographic, medical, and psychological factors associated with impairments in functional school outcomes, defined as school absence, need of educational and psychological..."]
+      },
+      {
+        "title": "Long-Term Potentiation-Like Visual Synaptic Plasticity Is Negatively Associated With Self-Reported Symptoms of Depression and Stress in Healthy Adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Trine Waage Rygvold", "Christoffer Hatlestad-Hall", "Torbjørn Elvsåshagen", "Stein Andersson"],
+        "abstract": ["Long-term potentiation (LTP) is one of the most extensively studied forms of neuroplasticity and is considered the strongest candidate mechanism for memory and learning. The use of event-related potentials and sensory stimulation paradigms has allowed for the translation from animal studies to non-invasive studies of LTP-like synaptic plasticity in..."]
+      },
+      {
+        "title": "Impact of Somatic Vulnerability, Psychosocial Robustness and Injury-Related Factors on Fatigue following Traumatic Brain Injury-A Cross-Sectional Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Daniel Løke", "Nada Andelic", "Eirik Helseth", "Marianne Løvstad"],
+        "abstract": ["Fatigue is a common symptom after traumatic brain injuries (TBI) and a crucial target of rehabilitation. The subjective and multifactorial nature of fatigue necessitates a biopsychosocial approach in understanding the mechanisms involved in its development. The aim of this study is to provide a comprehensive exploration of factors relevant to ident..."]
+      },
+      {
+        "title": "Assessment of Executive Function in Everyday Life-Psychometric Properties of the Norwegian Adaptation of the Children's Cooking Task",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Torun Gangaune Finnanger", "Stein Andersson", "Mathilde P Chevignard", "Jan Stubberud"],
+        "abstract": ["Background : There are few standardized measures available to assess executive function (EF) in a naturalistic setting for children. The Children’s Cooking Task (CCT) is a complex test that has been specifically developed to assess EF in a standardized open-ended environment (cooking). The aim of the present study was to evaluate the internal consi..."]
+      },
+      {
+        "title": "Rehabilitation of executive function in chronic paediatric brain injury: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Anne Elisabeth Brandt", "Torun Gangaune Finnanger", "Ruth Elizabeth Hypher", "Jan Stubberud"],
+        "abstract": ["Background\nImpaired executive functions (EFs, i.e., purposeful, goal-directed behaviour) cause significant disability after paediatric acquired brain injury (pABI) warranting efficient interventions. Goal Management Training (GMT) is a metacognitive protocol proven effective for executive dysfunction in adults. This pre-registered, blinded, paralle..."]
+      },
+      {
+        "title": "A cross-sectional study exploring overlap in post-stroke fatigue caseness using three fatigue instruments: Fatigue Severity Scale, Fatigue Questionnaire and the Lynch’s Clinical Interview",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Anita Kjeverud", "Stein Andersson", "Anners Lerdal", "Kristin Østlie"],
+        "abstract": ["Objective\nPost stroke fatigue (PSF) is a frequent symptom affecting 25–73% of stroke survivors. The variability in estimates of prevalence found across studies reflects differences in fatigue measures and use of different cut-offs for defining clinically significant fatigue. The main aim of this study is to explore the frequency and overlap in case..."]
+      },
+      {
+        "title": "Self‐reported cognitive impairment in cervical cancer survivors: A cross‐sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Elisabeth Wang Areklett", "Elisabeth Fagereng", "Kjersti Bruheim", "Kristina Lindemann"],
+        "abstract": ["Objective\nCancer-related cognitive impairment (CRCI) is a major obstacle for cervical cancer survivors, preventing the return to their social life. This study assessed the prevalence of CRCI in cervical cancer survivors and studied the association of self-reported cognitive impairment with treatment regimen and the quality of life (QoL) domains dep..."]
+      },
+      {
+        "title": "Subthalamic Nucleus Stimulation in Parkinson's Disease: 5‐Year Extension Study of a Randomized Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Silje Bjerknes", "Mathias Toft", "Reidun Brandt", "Inger Marie Skogseid"],
+        "abstract": ["Background: \nIn Parkinson's disease (PD) long-term motor outcomes of subthalamic nucleus deep brain stimulation (STN-DBS) are well documented, while comprehensive reports on non-motor outcomes are fewer and less consistent.\n\nObjective: \nTo report motor and non-motor symptoms after 5-years of STN-DBS.\n\nMethods: \nWe performed an open 5-year extension..."]
+      },
+      {
+        "title": "Fatigue Following Pediatric Acquired Brain Injury: Interplay With Associated Factors in a Clinical Trial Population Compared to Healthy Controls",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Ruth Elizabeth Hypher", "Stein Andersson", "Torun Gangaune Finnanger", "Jan Stubberud"],
+        "abstract": ["Objective: \nThe aims of the present study were to compare fatigue levels in children with pediatric acquired brain injury (pABI) with healthy controls (HCs), and examine the interplay of fatigue with associated factors.\n\nMethod: \nWe used baseline data from a preregistered randomized controlled trial. Seventy-six children aged 10-17 (median 13 years..."]
+      },
+      {
+        "title": "Sensory-Induced Human LTP-Like Synaptic Plasticity – Using Visual Evoked Potentials to Explore the Relation Between LTP-Like Synaptic Plasticity and Visual Perceptual Learning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Lilly Lengali", "Johannes Hippe", "Christoffer Hatlestad-Hall", "Stein Andersson"],
+        "abstract": ["Objective\nStimulus-selective response modulation (SRM) of sensory evoked potentials represents a well-established non-invasive index of long-term potentiation-like (LTP-like) synaptic plasticity in the human sensory cortices. Although our understanding of the mechanisms underlying stimulus-SRM has increased over the past two decades, it remains unc..."]
+      },
+      {
+        "title": "Executive Function and Psychosocial Adjustment in Adolescent Survivors of Pediatric Brain Tumor",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Anita Puhr", "E. Ruud", "V. Anderson", "Stein Andersson"],
+        "abstract": ["Adolescent survivors of pediatric brain tumor (PBT) are a sparsely studied subset of childhood cancer survivors. Sustaining a PBT may complicate the development of executive functions (EFs), which play a vital role in long-term psychosocial adjustment. In this study, 48 adolescent survivors and their parents completed questionnaires assessing EF, p..."]
+      },
+      {
+        "title": "Do visual and auditory stimulus-specific response modulation reflect different mechanisms of neocortical plasticity?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Trine Waage Rygvold", "Christoffer Hatlestad-Hall", "Torbjørn Elvsåshagen", "Stein Andersson"],
+        "abstract": ["Stimulus response modulation (SRM) of sensory evoked potentials represents a promising method as a non-invasive index of LTP-like synaptic plasticity in the human sensory cortices. As of today however, no consensus exists regarding which experimental parameters elicit the most robust SRM response. The aim of the current study was twofold; firstly,..."]
+      },
+      {
+        "title": "PDF [83 KB] Save Share Reprints Request 871P Prevalence of self-reported cognitive impairment among cervical cancer survivors",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2020",
+        "authors": ["Kristina Lindemann", "Elisabeth Wang Areklett", "Elisabeth Fagereng", "Stein Andersson"],
+        "abstract": []
+      },
+      {
+        "title": "Social Perception Predicts Awareness of Illness in Persons With Schizophrenia",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Frida K. Feyer", "Stein Andersson", "Camilla B. Büchmann", "Anja Vaskinn"],
+        "abstract": ["Lack of clinical insight in patients with schizophrenia is an obstacle to optimal treatment. Social cognition is one of several variables central to insight deficits in schizophrenia. The aim of this study was to investigate clinical insight in relation to one domain of social cognition, social perception, while controlling for effects of nonsocial..."]
+      },
+      {
+        "title": "Social attainment in physically well-functioning long-term survivors of pediatric brain tumour; the role of executive dysfunction, fatigue, and psychological and emotional symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Anita Puhr", "Ellen Ruud", "Vicki Anderson", "Stein Andersson"],
+        "abstract": ["The purpose of this cross-sectional study was to investigate long-term social attainment in physically well-functioning adult survivors of pediatric brain tumour (PBT) and identify demographic, medical, and psychological factors related to poor social outcomes, with a special focus on the significance of executive dysfunction. One hundred and fourt..."]
+      },
+      {
+        "title": "Theory of mind in schizophrenia and bipolar disorder: psychometric properties of the Norwegian version of the Hinting Task",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Mathias Frøyhaug", "Stein Andersson", "Ole A Andreasssen", "Anja Vaskinn"],
+        "abstract": ["Introduction: The quality of measures used to assess theory of mind (ToM) in severe mental illness has not been sufficiently investigated. This study evaluated the psychometric properties of the Norwegian version of the Hinting Task in schizophrenia, bipolar I and II disorder and healthy controls.\nMethods: The study included 90 patients and 183 hea..."]
+      },
+      {
+        "title": "Autoantibodies reactive to adrenocorticotropic hormone can alter cortisol secretion in both aggressive and nonaggressive humans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Henning Værøy", "Csaba Adori", "Romain Legrand", "Sergueï O Fetissov"],
+        "abstract": []
+      },
+      {
+        "title": "Paediatric goal management training in patients with acquired brain injury: study protocol for a randomised controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Ruth Elizabeth Hypher", "Anne Elisabeth Brandt", "Kari R Risnes", "Jan Stubberud"],
+        "abstract": ["Introduction\nCompromised integrity of the brain due to paediatric acquired brain injury (pABI) has been associated with cognitive impairment, particularly executive dysfunction, in addition to somatic and emotional symptoms and reduced everyday function. Goal Management Training (GMT) is a cognitive rehabilitation intervention for improving executi..."]
+      },
+      {
+        "title": "Cognitive Effects of Perioperative Pregabalin: Reply",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Marianne Myhre", "Henrik Borsting Jacobsen", "Stein Andersson", "Audun Stubhaug"],
+        "abstract": []
+      },
+      {
+        "title": "Electrophysiological characteristics in children with listening difficulties, with or without auditory processing disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Tone Stokkereit Mattsson", "Ola Lind", "Turid Follestad", "Stein Andersson"],
+        "abstract": ["Objective: To determine if the auditory middle latency responses (AMLR), auditory late latency response (ALLR) and auditory P300 were sensitive to auditory processing disorder (APD) and listening difficulties in children, and further to elucidate mechanisms regarding level of neurobiological problems in the central auditory nervous system.\nDesign:..."]
+      },
+      {
+        "title": "The Predictive Value of Depression in the Years After Heart Transplantation for Mortality During Long-Term Follow-Up",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Britta S. Bürker", "Lars Gullestad", "Einar Gude", "Ulrik F Malt"],
+        "abstract": ["Objective: Current understanding of the prognostic impact of depression on mortality after heart transplantation (HTx) is limited. We examined whether depression after HTx is a predictor of mortality during extended follow-up. Subsequently, we explored whether different symptom dimensions of depression could be identified and whether they were diff..."]
+      },
+      {
+        "title": "Self-Reported Executive Dysfunction, Fatigue, and Psychological and Emotional Symptoms in Physically Well-Functioning Long-Term Survivors of Pediatric Brain Tumor",
+        "tags": ["Article"],
+        "date": "Nov 2018",
+        "authors": ["Anita Puhr", "Ellen Ruud", "Vicki Anderson", "Stein Andersson"],
+        "abstract": ["Long-term executive function (EF), psychological and emotional difficulties, and fatigue among adult survivors of pediatric brain tumors (PBTs) are sparsely studied. One hundred and fourteen adult PBT survivors, 89 PBT survivor informants, and a healthy control group completed questionnaires assessing these domains. Significant differences between..."]
+      },
+      {
+        "title": "Cognitive Effects of Perioperative Pregabalin: Secondary Exploratory Analysis of a Randomized Placebo-controlled Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Marianne Myhre", "Henrik Borsting Jacobsen", "Stein Andersson", "Audun Stubhaug"],
+        "abstract": ["What we already know about this topic: \nWHAT THIS ARTICLE TELLS US THAT IS NEW: BACKGROUND:: Pregabalin has shown opioid sparing and analgesic effects in the early postoperative period; however, perioperative effects on cognition have not been studied. A randomized, parallel group, placebo-controlled investigation in 80 donor nephrectomy patients w..."]
+      },
+      {
+        "title": "Supplementary File",
+        "tags": ["Data"],
+        "date": "Jul 2018",
+        "authors": ["Henning Værøy", "Csaba Adori", "Romain Legrand", "Sergueï O Fetissov"],
+        "abstract": []
+      },
+      {
+        "title": "Autoantibodies reactive to adrenocorticotropic hormone can alter cortisol secretion in both aggressive and nonaggressive humans",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2018",
+        "authors": ["Henning Værøy", "Csaba Adori", "Romain Legrand", "Sergueï O Fetissov"],
+        "abstract": ["Significance\nThe number of inmates imprisoned for violent aggression is increasing, as are the penitentiaries, but still our understanding of mechanisms underlying criminality is limited. Our analysis of violent aggressor inmates reveals unique properties of IgG reactive with adrenocorticotropic hormone (ACTH). We show that these IgGs can regulate..."]
+      },
+      {
+        "title": "Emotion perception, non-social cognition and symptoms as predictors of theory of mind in schizophrenia",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Anja Vaskinn", "Stein Andersson", "Tiril Østefjells", "Kjetil Sundet"],
+        "abstract": ["Background: \nTheory of mind (ToM) can be divided into cognitive and affective ToM, and a distinction can be made between overmentalizing and undermentalizing errors. Research has shown that ToM in schizophrenia is associated with non-social and social cognition, and with clinical symptoms. In this study, we investigate cognitive and clinical predic..."]
+      },
+      {
+        "title": "Longitudinal and cross-sectional investigations of long-term potentiation-like cortical plasticity in bipolar disorder type II and healthy individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": ["Visual evoked potential (VEP) plasticity is a promising assay for noninvasive examination of long-term potentiation (LTP)-like synaptic processes in the cerebral cortex. We conducted longitudinal and cross-sectional investigations of VEP plasticity in controls and individuals with bipolar disorder (BD) type II. VEP plasticity was assessed at baseli..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Nathalia Zak", "Torgeir Moberget", "Erlend Bøen", "Torbjørn Elvsåshagen"],
+        "abstract": []
+      },
+      {
+        "title": "Is Depression After Heart Transplantation (HTx) Associated With Impaired Survival During Long-term Follow-up?",
+        "tags": ["Conference Paper"],
+        "date": "Apr 2018",
+        "authors": ["B.S. Bürker", "L. Gullestad", "Einar Gude", "Ulrik F Malt"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive function among long‐term survivors of heart transplantation",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Britta S. Bürker", "Einar Gude", "Lars Gullestad", "Stein Andersson"],
+        "abstract": ["Background: Cognitive impairment is documented early after heart transplantation (HTx), but we lack data on cognitive function beyond the fourth year post-transplant. Against the background of good long-term survival, this knowledge is necessary to improve clinical care throughout the entire post-transplant period.\nMethods: We assessed cognitive fu..."]
+      },
+      {
+        "title": "A study of mechanisms behind extreme aggression: the possible existence of functional signaling mechanisms modulated by ACTH IgG",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Henning Værøy", "Csaba Adori", "Romain Legrand", "S. Fetissov"],
+        "abstract": []
+      },
+      {
+        "title": "Multiple Microelectrode Recordings in STN‐DBS Surgery for Parkinson's Disease: A Randomized Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Silje Bjerknes", "Mathias Toft", "Ane Konglund", "Inger Marie Skogseid"],
+        "abstract": ["Background: Subthalamic nucleus deep brain stimulation improves motor symptoms and fluctuations in advanced Parkinson's disease, but the degree of clinical improvement depends on accurate anatomical electrode placement. Methods used to localize the sensory‐motor part of the nucleus vary substantially. Using microelectrode recordings, at least three..."]
+      },
+      {
+        "title": "Normative data for diagnosing auditory processing disorder in Norwegian children aged 7–12 years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Tone Stokkereit Mattsson", "Turid Follestad", "Stein Andersson", "Ståle Nordgård"],
+        "abstract": ["Objective: \nThe main purpose of this research was to obtain normative data for auditory processing tests for Norwegian speaking children.\n\nDesign: \nParticipants were administered routine audiological tests and an auditory processing test-battery consisting of Filtered Words, Competing Words, Dichotic Digits, Gaps In Noise, Duration- and Frequency P..."]
+      },
+      {
+        "title": "Cognitive Event-Related Potentials during the Sub-Acute Phase of Severe Traumatic Brain Injury and Their Relationship to Outcome",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Solveig Lægreid Hauger", "Kjell Olafsen", "Caroline Schnakers", "Marianne Løvstad"],
+        "abstract": ["Predicting outcome in the early phase after severe traumatic brain injury (sTBI) is a major clinical challenge, particularly identifying patients with potential of good cognitive outcome. The current single center prospective study aimed to explore presence and normalization of electroencephalography (EEG)-based event related potentials (ERPs) in t..."]
+      },
+      {
+        "title": "Cognitive function in long-term survivors after heart transplantation",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2017",
+        "authors": ["B.S. Bürker", "Einar Gude", "L. Gullestad", "Stein Andersson"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive function after heart transplantation: Comparing everolimus-based and calcineurin inhibitor-based regimens",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["Britta S. Bürker", "Lars Gullestad", "Einar Gude", "Stein Andersson"],
+        "abstract": ["Background: Studies have shown conflicting results concerning the occurrence of cognitive impairment after successful heart transplantation (HTx). Another unresolved issue is the possible differential impact of immunosuppressants on cognitive function. In this study, we describe cognitive function in a cohort of HTx recipients and subsequently comp..."]
+      },
+      {
+        "title": "Neurocognitive and psychosocial function in children with benign external hydrocephalus (BEH)-a long-term follow-up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Rebecka Mikkelsen", "Linn Rodevand", "Ulrikke Wiig", "Knut Wester"],
+        "abstract": ["Introduction: \nLong-term impact of benign external hydrocephalus (BEH) on cognition is largely unknown, and indication for neurosurgical CSF diversion procedure is debated. This study reports neuropsychological and psychosocial function in operated and non-operated BEH children.\n\nMethods: \nEighty-six children (76 males) between 8 and 18 years (mean..."]
+      },
+      {
+        "title": "The Clinical Diagnostic Utility of Electrophysiological Techniques in Assessment of Patients With Disorders of Consciousness Following Acquired Brain Injury: A Systematic Review",
+        "tags": ["Article"],
+        "date": "Nov 2016",
+        "authors": ["Solveig Lægreid Hauger", "A.-K. Schanke", "Stein Andersson", "Marianne Løvstad"],
+        "abstract": ["Objective: \nTo investigate the diagnostic utility of electrophysiological recordings during active cognitive tasks in detecting residual cognitive capacities in patients with disorders of consciousness (DoC) after severe acquired brain injury.\n\nDesign: \nSystematic review of empirical research in MEDLINE, Embase, PsycINFO, and Cochrane from January..."]
+      },
+      {
+        "title": "Violent aggression in humans: implication of ACTH-reactive immunoglobulinser title",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Henning Værøy", "Romain Legrand", "Elin Western", "Sergueï O Fetissov"],
+        "abstract": ["Background. Violent aggression in humans, including murder, may involve altered actions of stress-related hormones but the underlying mechanisms are uncertain. We studied if immunoglobulins (Ig) reactive with adrenocorticotropic hormone (ACTH) may alter ACTH signaling relevant to aggressive behavior?\nMethods. Affinity kinetics of plasmatic ACTH-rea..."]
+      },
+      {
+        "title": "Cognitive, Emotional, and Psychosocial Functioning of Girls Treated with Pharmacological Puberty Blockage for Idiopathic Central Precocious Puberty",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Slawomir Wojniusz", "Nina Callens", "Stefan Sütterlin", "Ira Ronit Hebold Haraldsen"],
+        "abstract": ["Central precocious puberty (CPP) develops due to premature activation of the hypothalamic-pituitary-gonadal (HPG) axis, resulting in early pubertal changes and rapid bone maturation. CPP is associated with lower adult height and increased risk for development of psychological problems. Standard treatment of CPP is based on postponement of pubertal..."]
+      },
+      {
+        "title": "QOS-42QUALITY OF SURVIVAL AFTER BRAIN TUMOUR IN CHILDHOOD. DATA FROM A PSYCHOSOCIAL AND NEUROPSYCHOLOGICAL FOLLOW UP PROGRAM",
+        "tags": ["Article"],
+        "date": "Jun 2016",
+        "authors": ["Torhild Berntsen", "Anne-Britt Skarbø", "Antia Puhr", "Stein Andersson"],
+        "abstract": []
+      },
+      {
+        "title": "Behavior Rating Inventory of Executive Function Adult Version in Patients with Neurological and Neuropsychiatric Conditions: Symptom Levels and Relationship to Emotional Distress",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Marianne Løvstad", "Solrun Sigurdardottir", "Stein Andersson", "Anne‐Kristin Solbakk"],
+        "abstract": ["Objectives: \nThe present study explored the level of self-and informant reported executive functioning in daily living using the Behavior Rating Inventory of Executive Function-Adult Version (BRIEF-A) in a large sample comprising healthy adults and patient cohorts with neurological and neuropsychiatric disorders. The relationship to neuropsychologi..."]
+      },
+      {
+        "title": "The Link between Facets of Impulsivity and Aggression in Extremely Violent Prisoners",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Henning Værøy", "Elin Western", "Stein Andersson"],
+        "abstract": ["Abstract\nEvidence is growing that aggressive behavior and impulsivity have subgroups. The subscales of\nthe Urgency, Premeditation, Perseverance and Sensation seeking (UPPS) impulsivity scale and the\nBryant and Smith shortened and refined version of the Aggression Questionnaire were used to\ndescribe and compare impulsive and aggressive behavior in e..."]
+      },
+      {
+        "title": "Life after Adolescent and Adult Moderate and Severe Traumatic Brain Injury: Self-Reported Executive, Emotional, and Behavioural Function 2-5 Years after Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Torun Gangaune Finnanger", "Alexander Olsen", "Toril Skandsen", "Marit S Indredavik"],
+        "abstract": ["Survivors of moderate-severe Traumatic Brain Injury (TBI) are at risk for long-term cognitive, emotional, and behavioural problems. This prospective cohort study investigated self-reported executive, emotional, and behavioural problems in the late chronic phase of moderate and severe TBI, if demographic characteristics (i.e., age, years of educatio..."]
+      },
+      {
+        "title": "Neurophysiological Indicators of Residual Cognitive Capacity in the Minimally Conscious State",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Solveig Lægreid Hauger", "Caroline Schnakers", "Stein Andersson", "Marianne Løvstad"],
+        "abstract": [". The diagnostic usefulness of electrophysiological methods in assessing disorders of consciousness (DoC) remains to be established on an individual patient level, and there is need to determine what constitutes robust experimental paradigm to elicit electrophysiological indices of covert cognitive capacity.\nObjectives\n. Two tasks encompassing acti..."]
+      },
+      {
+        "title": "Patients with focal cerebellar lesions show reduced auditory cortex activation during silent reading",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Torgeir Moberget", "Eva Hilland", "Stein Andersson", "Tor Endestad"],
+        "abstract": []
+      },
+      {
+        "title": "Neurocognitive Outcome in Very Long-Term Survivors of Childhood Acute Lymphoblastic Leukemia After Treatment with Chemotherapy Only",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Adriani Kanellopoulos", "Stein Andersson", "Bernward Zeller", "Ellen Ruud"],
+        "abstract": ["There is a concern regarding long-term cognitive late effects after treatment for acute lymphoblastic leukemia (ALL). The present study assessed neuropsychological function in very long-term childhood ALL survivors treated with chemotherapy only. We also investigated associations between neurocognitive performance and individual treatment load.\nOne..."]
+      },
+      {
+        "title": "NeuropsycholBippaper",
+        "tags": ["Data", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Stein Andersson", "Hans Lövdahl", "Ulrik F Malt"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive functioning among heart transplant recipients, receiving calcineurin inhibitor-free, everolimus-based immunosuppression since the early postoperative phase",
+        "tags": ["Article"],
+        "date": "Jun 2015",
+        "authors": ["B.S. Bürker", "Stein Andersson", "L. Gullestad", "Ira Ronit Hebold Haraldsen"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive Functioning Among De Novo Heart Transplant Recipients on Everolimus-Based Immunosuppression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["B.S. Bürker", "Stein Andersson", "L. Gullestad", "Ira Ronit Hebold Haraldsen"],
+        "abstract": []
+      },
+      {
+        "title": "Personality Changes after Deep Brain Stimulation in Parkinson’s Disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Uyen Pham", "Anne‐Kristin Solbakk", "Inger Marie Skogseid", "Ulrik F Malt"],
+        "abstract": ["Objectives. Deep brain stimulation of the subthalamic nucleus (STN-DBS) is a recognized therapy that improves motor symptoms in advanced Parkinson's disease (PD). However, little is known about its impact on personality. To address this topic, we have assessed personality traits before and after STN-DBS in PD patients. Methods. Forty patients with..."]
+      },
+      {
+        "title": "Theory of mind in schizophrenia: Error types and associations with symptoms",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Ragnhild A. Fretland", "Stein Andersson", "Kjetil Sundet", "Anja Vaskinn"],
+        "abstract": ["Social cognition is an important determinant of functioning in schizophrenia. However, how social cognition relates to the clinical symptoms of schizophrenia is still unclear. The aim of this study was to explore the relationship between a social cognition domain, Theory of Mind (ToM), and the clinical symptoms of schizophrenia. Specifically, we in..."]
+      },
+      {
+        "title": "Cortical surface area and thickness in adult survivors of pediatric acute lymphoblastic leukemia: Cortical Structure in Leukemia Survivors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Christian K Tamnes", "Bernward Zeller", "Inge K. Amlien", "Anders M. Fjell"],
+        "abstract": ["Background\nAdvances in the treatment of acute lymphoblastic leukemia (ALL) have led to great improvements in survival rates and outcomes, but there is concern about cognitive late effects. We aimed to determine whether ALL survivors have smaller cortical surface area and/or thickness, and test whether this is related to disease and treatment variab..."]
+      },
+      {
+        "title": "Types or Modes of Malingering? A Confirmatory Factor Analysis of Performance and Symptom Validity Tests",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Jens Egeland", "Stein Andersson", "Øyvind Sundseth", "Anne-Kristine Schanke"],
+        "abstract": ["Recently, the dichotomy between performance validity tests (PVT) and symptom validity tests (SVT) has been suggested to differentiate between invalid performance and invalid self-report, respectively. PVTs are typically used to identify malingered cognitive impairment, while SVTs identify malingered psychological or somatic symptoms. It is assumed..."]
+      },
+      {
+        "title": "Different impulsivity profiles in borderline personality disorder and bipolar II disorder",
+        "tags": ["Article"],
+        "date": "Aug 2014",
+        "authors": ["Erlend Bøen", "Benjamin Hummelen", "Torbjørn Elvsåshagen", "Ulrik F Malt"],
+        "abstract": []
+      },
+      {
+        "title": "Reduced globus pallidus volumes following focal cerebellar lesions in humans",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Torgeir Moberget", "Andreea C Bostan", "Tryggve Lundar", "Lars T Westlye"],
+        "abstract": ["Background / Purpose: \n\nThe aim of the present study was to investigate basal ganglia volumes in patients with focal cerebellar lesions using comprehensive MRI-based morphometric analyses.\n\nMain conclusion: \n\nAcross two segmentation procedures, we found significant reductions of bilateral globus pallidus volumes following surgical resections of cer..."]
+      },
+      {
+        "title": "Generalized Role for the Cerebellum in Encoding Internal Models: Evidence from Semantic Processing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Torgeir Moberget", "Eva Hilland", "Stein Andersson", "Tor Endestad"],
+        "abstract": ["The striking homogeneity of cerebellar microanatomy is strongly suggestive of a corresponding uniformity of function. Consequently, theoretical models of the cerebellum's role in motor control should offer important clues regarding cerebellar contributions to cognition. One such influential theory holds that the cerebellum encodes internal models,..."]
+      },
+      {
+        "title": "journal of neuroscience",
+        "tags": ["Article"],
+        "date": "Feb 2014",
+        "authors": ["Torgeir Moberget", "Eva Hilland", "Stein Andersson", "Tor Endestad"],
+        "abstract": ["The striking homogeneity of cerebellar microanatomy is strongly suggestive of a corresponding uniformity of function. Consequently, theoretical models of the cerebellum's role in motor control should offer important clues regarding cerebellar contributions to cognition. One such influential theory holds that the cerebellum encodes internal models,..."]
+      },
+      {
+        "title": "The surface area of early visual cortex predicts the amplitude of the visual evoked potential",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["Torbjørn Elvsåshagen", "Torgeir Moberget", "Erlend Bøen", "Lars T Westlye"],
+        "abstract": ["The extensive and increasing use of structural neuroimaging in the neurosciences rests on the assumption of an intimate relationship between structure and function in the human brain. However, few studies have examined the relationship between advanced magnetic resonance imaging (MRI) indices of cerebral structure and conventional measures of cereb..."]
+      },
+      {
+        "title": "Smaller stress-sensitive hippocampal subfields in women with borderline personality disorder without posttraumatic stress disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2013",
+        "authors": ["Erlend Bøen", "Lars T Westlye", "Torbjørn Elvsåshagen", "Ulrik F Malt"],
+        "abstract": ["Animal and human studies have suggested that hippocampal subfields are differentially vulnerable to stress, but subfield volume has not been investigated in patients with borderline personality disorder (BPD). Based on the putative role of stressful life events as vulnerability factors for BPD, we hypothesized that patients with BPD would exhibit r..."]
+      },
+      {
+        "title": "Regional cortical thinning may be a biological marker for borderline personality disorder",
+        "tags": ["Article"],
+        "date": "Dec 2013",
+        "authors": ["Erlend Bøen", "L. T. Westlye", "Torbjørn Elvsåshagen", "Ulrik F Malt"],
+        "abstract": ["Objective\nWe investigated cerebral cortical thickness and its relation to measurements of difficulties with identifying and describing emotions in patients with borderline personality disorder (BPD). Method\nEighteen SCID-II-diagnosed female patients with BPD and 21 healthy female controls underwent magnetic resonance imaging and completed the Toron..."]
+      },
+      {
+        "title": "Response to A. A. M. van der Veldt et al",
+        "tags": ["Article"],
+        "date": "Nov 2013",
+        "authors": ["Bernward Zeller", "Christian K Tamnes", "Adriani Kanellopoulos", "Ellen Ruud"],
+        "abstract": []
+      },
+      {
+        "title": "Differentiated patterns of cognitive impairment 12 months after severe and moderate traumatic brain injury",
+        "tags": ["Article"],
+        "date": "Oct 2013",
+        "authors": ["Torun Gangaune Finnanger", "Toril Skandsen", "Stein Andersson", "Marit S Indredavik"],
+        "abstract": ["Objective: \nTo assess cognitive function at 12 months after moderate and severe traumatic brain injury (TBI) separately, as well as improvement from 3 to 12 months and relationship to global outcome.\n\nMethods: \nCognitive function among patients with moderate (n = 30, Glasgow Coma Scale score (GCS) 9-3) and severe traumatic brain injury (n = 20, GCS..."]
+      },
+      {
+        "title": "Abnormal electroencephalograms in patients with long QT syndrome",
+        "tags": ["Article"],
+        "date": "Sep 2013",
+        "authors": ["Kristina H Haugaa", "Tommy Tveit Vestervik", "Stein Andersson", "Erik Taubøll"],
+        "abstract": ["The long QT syndrome (LQTS) is an inherited cardiac channelopathy associated with syncope and sudden cardiac death due to ventricular arrhythmias and most frequently caused by potassium channel mutations. Potassium channels are also expressed in brain tissue and play an important role in idiopathic epilepsies. Recent reports have indicated that LQT..."]
+      },
+      {
+        "title": "Early and late auditory event-related potentials in cognitively high functioning male adolescents with autism spectrum disorder",
+        "tags": ["Article"],
+        "date": "Jul 2013",
+        "authors": ["Stein Andersson", "Maj-Britt Posserud", "Astri J. Lundervold"],
+        "abstract": ["Event-related potentials (ERP) studies have offered diverging results in characterizing the basic nature of abnormal sensory processing and discrimination in autism spectrum disorders (ASDs). In the present study we report duration mismatch negativity (MMN) and later ERP components (P3a and P3b) derived from auditory odd-ball paradigms in a homogen..."]
+      },
+      {
+        "title": "Reduced Neuroanatomic Volumes in Long-Term Survivors of Childhood Acute Lymphoblastic Leukemia",
+        "tags": ["Article"],
+        "date": "Apr 2013",
+        "authors": ["Bernward Zeller", "Christian K Tamnes", "Adriani Kanellopoulos", "Ellen Ruud"],
+        "abstract": ["PURPOSETo compare regional brain volumes in adult long-term survivors of childhood acute lymphoblastic leukemia (ALL) and healthy controls. PATIENTS AND METHODS\nWe investigated 130 survivors of childhood ALL diagnosed between 1970 and 2002 with magnetic resonance imaging (MRI) and neuropsychological testing at a median of 22.5 years after diagnosis..."]
+      },
+      {
+        "title": "Working memory in recurrent brief depression: An fMRI pilot study",
+        "tags": ["Article"],
+        "date": "Mar 2013",
+        "authors": ["Maria Stylianou Korsnes", "Hans Lövdahl", "Stein Andersson", "Ulrik F Malt"],
+        "abstract": ["BACKGROUND: We examined women with recurrent brief depression (RBD) with and without episodes of hypomania with an n-back working memory paradigm to assess how working memory load affects the neurological network corresponding to working memory for these groups. METHOD: Participants (n=33) were medication-free and mostly euthymic while performing a..."]
+      },
+      {
+        "title": "Evidence for reduced dentate gyrus and fimbria volume in bipolar II disorder",
+        "tags": ["Article"],
+        "date": "Jan 2013",
+        "authors": ["Torbjørn Elvsåshagen", "Lars T Westlye", "Erlend Bøen", "Ulrik F Malt"],
+        "abstract": ["Objectives: Dentate gyrus (DG)-dependent inhibition of the stress response might play an important role in mood disorders. During stress, hippocampal projections traversing the fimbria, a white matter bundle on the hippocampal surface, inhibit the hypothalamic–pituitary–adrenal (HPA) axis. The aim of the present study was to measure the volumes of..."]
+      },
+      {
+        "title": "Cerebellar internal models in language processing? An fMRI study of contextual priming",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Eva Hilland", "Torgeir Moberget", "Stein Andersson", "Tor Endestad"],
+        "abstract": ["Background / Purpose: \n\nWhile there is an emerging consensus on cerebellar involvement in cognitive processes, the precise nature of this structure’s role in cognition remains elusive. However, the cerebellum’s striking anatomical homogeneity is strongly suggestive of a corresponding uniformity of function. Consequently, theoretical models accounti..."]
+      },
+      {
+        "title": "Associations Between Leukocyte Telomere Length and Hippocampal Indices of Stress and Aging",
+        "tags": ["Conference Paper"],
+        "date": "May 2012",
+        "authors": ["Torbjørn Elvsåshagen", "Oliver Geier", "Elsa Vera", "Birgitte Boye"],
+        "abstract": []
+      },
+      {
+        "title": "Evidence for Dentate Gyrus Volume Reduction in Bipolar II Disorder and an Age-Related Volume Increase in Healthy Volunteers",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Torbjørn Elvsåshagen", "Lars T. Westlye", "Erlend Bøen", "Ulrik F Malt"],
+        "abstract": []
+      },
+      {
+        "title": "Evidence for Impaired Neocortical Synaptic Plasticity in Bipolar II Disorder",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Torbjørn Elvsåshagen", "Torgeir Moberget", "Erlend Bøen", "Stein Andersson"],
+        "abstract": ["Synaptic plasticity might play an important role in the pathophysiology and treatment of bipolar disorders. There is, however, a paucity of human evidence supporting this hypothesis, mainly due to a lack of methods for noninvasive assessment of synaptic plasticity. It has recently been demonstrated that plasticity of the visual evoked potential (VE..."]
+      },
+      {
+        "title": "Widespread reduced axial diffusivity in left frontotemporal white matter and corpus callosum in adults with bipolar II disorder",
+        "tags": ["Article"],
+        "date": "Jun 2011",
+        "authors": ["Torbjørn Elvsåshagen", "L. T. Westlye", "Erlend Bøen", "Ulrik F Malt"],
+        "abstract": []
+      },
+      {
+        "title": "Impulsivity in bipolar II and borderline personality disorder",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2011",
+        "authors": ["Erlend Bøen", "Benjamin Hummelen", "T. Mengshoel", "Ulrik F Malt"],
+        "abstract": []
+      },
+      {
+        "title": "Self-reported cognitive problems in testicular cancer patients: Relation to neuropsychological performance, fatigue, and psychological distress",
+        "tags": ["Article"],
+        "date": "May 2011",
+        "authors": ["Tone Skaali", "Sophie D Fosså", "Stein Andersson", "Alv A. Dahl"],
+        "abstract": ["There is a concern about negative cognitive effects of systemic chemotherapy. We prospectively explored self-reported cognitive problems in testicular cancer patients (TCPs) treated with and without chemotherapy.\nOne hundred and twenty-two TCPs were interviewed about concentration and memory problems shortly after orchidectomy but before any additi..."]
+      },
+      {
+        "title": "Is psychological distress in men recently diagnosed with testicular cancer associated with their neuropsychological test performance?",
+        "tags": ["Article"],
+        "date": "Apr 2011",
+        "authors": ["Tone Skaali", "Sophie D Fosså", "Stein Andersson", "Alv A. Dahl"],
+        "abstract": ["To study the level of cancer-related distress (CRD) and variables associated with CRD in recently diagnosed testicular cancer patients (TCPs), and to explore associations between distress levels and neuropsychological test performance at the same time-point.\nAs part of a prospective study of their psychological and cognitive functioning, 135 TCPs c..."]
+      },
+      {
+        "title": "Inhibition in Action - Inhibitory Components in the Behavioral Activation System",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Stefan Sütterlin", "Stein Andersson", "Claus Vögele"],
+        "abstract": ["Over the past two decades, the neurobiological substrates of the reinforcement theory have been discussed in terms of a behavioral activation system (BAS) and a behavioral inhibition system (BIS). While the BAS has been conceptualized as both an activating system and an approach-related system, the empirical evidence for either approach remains inc..."]
+      },
+      {
+        "title": "Nyttig om nevropsykologi",
+        "tags": ["Article"],
+        "date": "Jan 2011",
+        "authors": ["Stein Andersson"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive Impairment 3 Months After Moderate and Severe Traumatic Brain Injury: A Prospective Follow-Up Study",
+        "tags": ["Article"],
+        "date": "Dec 2010",
+        "authors": ["Toril Skandsen", "Torun Gangaune Finnanger", "Stein Andersson", "Anne Vik"],
+        "abstract": ["To explore the magnitude and frequency of cognitive impairment 3 months after moderate to severe traumatic brain injury (TBI), and to evaluate its relationship to disability at 1-year follow-up.\nProspective follow-up study.\nRegional level I trauma center.\nPatients aged 15 to 65 years with definite TBI, defined as Glasgow Coma Scale score of 3 to 13..."]
+      },
+      {
+        "title": "A prospective study of neuropsychological functioning in testicular cancer patients",
+        "tags": ["Article"],
+        "date": "Nov 2010",
+        "authors": ["Tone Skaali", "S D Fosså", "Stein Andersson", "Alv A. Dahl"],
+        "abstract": ["Whether systemic chemotherapy has a negative effect on cognitive function in patients, concern oncologists. In testicular cancer patients (TCPs) treated with cisplatin-based chemotherapy, only few cross-sectional studies have addressed this concern. We prospectively studied neuropsychological functioning in TCPs.\nIn a consecutive sampling, 122 TCPs..."]
+      },
+      {
+        "title": "Neuropsychological function in unmedicated recurrent brief depression",
+        "tags": ["Article"],
+        "date": "Sep 2010",
+        "authors": ["Stein Andersson", "Hans Lövdahl", "Ulrik F Malt"],
+        "abstract": ["Recurrent brief depression (RBD) is a mood disorder characterized by mild to severe depressive episodes lasting less than 2 weeks and occurring approximately once a month with complete recovery between episodes. The aim of this study was to describe neuropsychological impairments associated with RBD, relating cognitive performance to clinical featu..."]
+      },
+      {
+        "title": "7164 A prospective study of cognitive function in testicular cancer patients – preliminary results",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["Tone Skaali", "S. D. Fosså", "Stein Andersson", "Alv A. Dahl"],
+        "abstract": []
+      },
+      {
+        "title": "Neuropsychological and electrophysiological indices of neurocognitive dysfunction in bipolar II disorder",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Stein Andersson", "Helene Barder", "Tone Hellvin", "Ulrik F Malt"],
+        "abstract": ["There are conflicting findings regarding the nature and degree of neurocognitive dysfunction in bipolar II disorder (BD II). The aim of this study was to describe different levels of neurocognitive functioning in BD II by combining behavior-based methods (neuropsychological testing) and event-related potentials (ERP).\nTwenty-five consecutively refe..."]
+      },
+      {
+        "title": "The phenomenology of recurrent brief depression with and without hypomanic features",
+        "tags": ["Article"],
+        "date": "Jul 2008",
+        "authors": ["Hans Lövdahl", "Stein Andersson", "T Hynnekleiv", "Ulrik F Malt"],
+        "abstract": ["The nosologic status of recurrent brief depression (RBD) is debated. We studied the phenomenology of RBD in a clinical sample of outpatients.\nForty patients (mean age 33; 73% females) and 21 age- and gender-matched mentally healthy controls were examined (clinical interview, M.I.N.I. neuropsychiatric interview, MADRS, Stanley Foundation Network Ent..."]
+      },
+      {
+        "title": "Fatigue, cognitive functioning and psychological distress in Marfan syndrome, a pilot study",
+        "tags": ["Article"],
+        "date": "Jun 2007",
+        "authors": ["Svend Rand-Hendriksen", "Irene Sørensen", "Henrik Holmstrøm", "Arnstein Finset"],
+        "abstract": ["Marfan patients report fatigue as a major subjective complaint. We found no studies exploring the subject. The aim of this study was in a strictly defined Marfan population to assess self-reported fatigue, cognitive functions and psychological distress, correlations among them and correlations to visual acuity, joint hypermobility and use of beta-b..."]
+      },
+      {
+        "title": "Neuropsychological assessment and telemedicine: A preliminary study examining the reliability of neuropsychology services performed via telecommunication",
+        "tags": ["Article"],
+        "date": "Apr 2003",
+        "authors": ["Svenn E Jacobsen", "Terje Sprenger", "Stein Andersson", "Jan-Magne Krogstad"],
+        "abstract": ["Within the last decade, various applications of two-way audio-visual telecommunication have been implemented in the Norwegian health care system to facilitate the delivery of medical services to patients located in rural areas away from the hospitals. This technology may also be useful to extend neuropsychological services to underserved areas and..."]
+      },
+      {
+        "title": "Cognitive correlates of apathy in traumatic brain injury",
+        "tags": ["Article"],
+        "date": "Oct 2002",
+        "authors": ["Stein Andersson", "Anne-Mari Bergedalen"],
+        "abstract": ["To investigate the relation between apathy and cognitive deficits in patients with severe traumatic brain injury (TBI).\nApathy defined as reduced goal-directed behavior due to lack of motivation constitutes a major neuropsychiatric symptom following TBI. According to definition, apathy should not be associated with global cognitive reduction, but r..."]
+      },
+      {
+        "title": "Assessment of P3a and P3b after Moderate to Severe Brain Injury",
+        "tags": ["Article"],
+        "date": "Aug 2002",
+        "authors": ["Anne‐Kristin Solbakk", "Ivar Reinvang", "Stein Andersson"],
+        "abstract": ["The purpose of the study was to examine the P3a and P3b components of the event-related brain potential (ERP) in patients sustaining moderate to severe brain injury. Electrophysiological and behavioral responses were recorded in brain injured (N = 18) and healthy control (N = 21) participants performance of an auditory 3-stimulus distractor paradig..."]
+      },
+      {
+        "title": "Mild versus severe fatigue in polio survivors: Special characteristics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2002",
+        "authors": ["Anne-Kristine Schanke", "Johan Kvalvik Stanghelle", "Stein Andersson", "Anne‐Kristin Solbakk"],
+        "abstract": ["In studies conducted on polio survivors with late effects of poliomyelitis, new fatigue is frequently reported. The main purpose of the present study was to examine the characteristics of polio survivors reporting severe fatigue versus those reporting mild or no fatigue. From a survey among 276 representative Norwegian polio survivors, we recruited..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [110],
+    "reads": [15862],
+    "citations": [2560]
   }
 }

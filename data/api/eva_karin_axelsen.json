@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Eva Karin Axelsen",
-    "id": "24351",
+    "name": ["Eva Karin Axelsen"],
+    "id": ["24351"],
     "keywords": ["Psychological problems", "Psychological treatment", "Gender roles", "Psychotherapy", "Sexual assault", "Psychoteraphy, theory and methodology development", "Understanding psychiatric problems within psyciatric ward", "Identity, gender and psychatric problems"],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/24351/picture",
+    "img": ["https://api.cristin.no/v2/persons/24351/picture"],
     "works": [
       {
         "type": "Academic chapter/article/Conference paper",
@@ -36,8 +36,8 @@
       {
         "type": "Academic lecture",
         "year": "2010",
-        "title": "Convergence of alliance ratings in a sample of highly experienced teacher-therapists and their clients",
-        "url": "https://api.cristin.no/v2/results/254645"
+        "url": "https://api.cristin.no/v2/results/254645",
+        "title": "Convergence of alliance ratings in a sample of highly experienced teacher-therapists and their clients"
       },
       {
         "type": "Textbook",
@@ -117,8 +117,8 @@
       {
         "type": "Academic article",
         "year": "1997",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/444965"
+        "url": "https://api.cristin.no/v2/results/444965",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -126,5 +126,292 @@
         "url": "https://api.cristin.no/v2/results/71770"
       }
     ]
+  },
+  "rg": {
+    "id": "Eva-Ellegard",
+    "name": "Eva Karin Ellegård",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272353229799450-1441945478975_Q128/Eva-Ellegard.jpg",
+    "affiliation": "",
+    "keywords": ["Clinical Skills", "Quality of Life Research", "Rhinology", "Endoscopy", "Acoustic Rhinometry", "Asthma", "Pregnancy", "Rhinitis", "Sinusitis", "Nasal Obstruction"],
+    "works": [
+      {
+        "title": "Fluticasone propionate aqueous nasal spray in pregnancy rhinitis",
+        "tags": ["Article"],
+        "date": "Nov 2001",
+        "authors": ["Eva Karin Ellegård", "Margareta Hellgren", "N.G. Karlsson"],
+        "abstract": ["Pregnancy rhinitis is a common condition with longstanding nasal congestion; troublesome for the mother, possibly also affecting the fetus. There is need for a safe, effective treatment. Nasal corticosteroids, indisputable in other types of rhinitis, have not been evaluated in pregnancy rhinitis. In this placebo-controlled, randomized, double-blind..."]
+      },
+      {
+        "title": "Nasal congestion during the menstrual cycle",
+        "tags": ["Article"],
+        "date": "Nov 1994",
+        "authors": ["Eva Karin Ellegård", "G Karlsson"],
+        "abstract": ["Oestrogens have been considered to cause nasal congestion during the menstrual cycle and during pregnancy. The aim of the present study was to evaluate the degree of nasal congestion during the menstrual cycle in healthy women. Nasal peak expiratory flow (nPEF) was measured and subjective nasal stuffiness was scored morning and evening by 27 women..."]
+      },
+      {
+        "title": "Short-time variation in nasal mucosal swelling: A rhinostereometry study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2003",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": ["Rhinostereometry is an optical method to detect changes in nasal mucosal swelling. The method needs further specifications for standardised use. This study was performed in order to define the inter-individual variation, and to find whether the intra-individual short-time variation is greater, say, at the beginning of a sequence of registrations, a..."]
+      },
+      {
+        "title": "Rhinitis in the menstrual cycle, pregnancy, and some endocrine disorders",
+        "tags": ["Article"],
+        "date": "Feb 2007",
+        "authors": ["Eva Karin Ellegård", "N Göran Karlsson", "Lars Ellegård"],
+        "abstract": ["By clinical experience, rhinitis has been suggested as caused by some endocrine disorders, but the evidence for this is vague, and the few descriptions almost anecdotal. Rhinitis of the menstrual cycle has been more described, although a solid picture is still lacking. Pregnancy rhinitis is therefore so far the only clearly defined \"hormonal rhinit..."]
+      },
+      {
+        "title": "Mechanical nasal alar dilators",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": ["Most studies on nasal dilators have used Breathe Right or Nozovent. Both devices dilate the nasal valves, reduce nasal resistance, and improve nasal airflow. The use of dilators improves airflow most on inspiration, as the valve is stabilised and prevented from collapse. The response varies greatly between individuals, and can be impressive. The ef..."]
+      },
+      {
+        "title": "Respiratory polygraphy in children with sleep‐disordered breathing",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Gunnhildur Gudnadottir", "Louise Hafsten", "Staffan Redfors", "Johan Hellgren"],
+        "abstract": ["At‐home respiratory polygraphy has been shown to be a reliable substitute for in‐laboratory polysomnography in adults for diagnosing obstructive sleep apnea, but this is less well studied in children. One aim of this study was to examine the quality of at‐home respiratory polygraphy in children with sleep‐disordered breathing and to evaluate the in..."]
+      },
+      {
+        "title": "Intranasal Budesonide and Quality of Life in Pediatric Sleep-Disordered Breathing: A Randomized Controlled Trial",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Gunnhildur Gudnadottir", "Eva Karin Ellegård", "Johan Hellgren"],
+        "abstract": ["Objective\nTo study the efficacy of budesonide nasal spray on the health-related quality of life and symptoms among children with sleep-disordered breathing.\n\nStudy Design\nRandomized, parallel, double-blind, placebo-controlled trial.\n\nSetting\nTertiary referral center.\n\nSubjects and Methods\nSixty children (ages, 4-10 years) who were referred because..."]
+      },
+      {
+        "title": "Rhinitis in the menstrual cycle, pregnancy, and some endocrine disorders",
+        "tags": ["Chapter"],
+        "date": "Apr 2016",
+        "authors": ["Eva Karin Ellegård", "N.G. Karlsson", "L.H. Ellegård"],
+        "abstract": []
+      },
+      {
+        "title": "Supragastric belching – case report of a severe handicap",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Eva Karin Ellegård", "Christina Helltoft Nilsén"],
+        "abstract": ["Objective To report a case of severe supragastric belching and review the literature. Methods A clinical case report and PubMed search of supragastric belching. Results In literature, treatment options have so far not been encouraging. In this report, we can present one patient with severe supragastric belching being cured by therapy of speech and..."]
+      },
+      {
+        "title": "[In Process Citation].",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Christina Helltoft Nilsén", "Eva Karin Ellegård"],
+        "abstract": []
+      },
+      {
+        "title": "[Nasal dilator astray led to severe pain]",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Eva Jungmark", "Eva Karin Ellegård"],
+        "abstract": []
+      },
+      {
+        "title": "Displaced Nasal Dilator Caused Severe Pain: Case Report and Literature Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2012",
+        "authors": ["Eva M. Jungmark", "Eva Karin Ellegård"],
+        "abstract": ["Internal nasal dilators are widely used but have not been reported to cause severe symptoms. We describe a case in which a male adult had accidentally, during sleep, inhaled a nasal dilator into his right nasal cavity, and we review the relevant literature. A PubMed search was performed of nasal dilators, especially of the internal types, including..."]
+      },
+      {
+        "title": "Nasal myiasis by Oestrus ovis second stage larva in an immunocompetent man: Case report and literature review",
+        "tags": ["Article"],
+        "date": "Jul 2011",
+        "authors": ["H Einer", "Eva Karin Ellegård"],
+        "abstract": ["We report a case of an Oestrus ovis larva which developed into the second larval stage within a healthy, immunocompetent human, and we review the relevant literature.\nClinical case report and Pubmed search of reports of human nasal myiasis due to Oestrus ovis, especially those describing the larval stage.\nHumans are not normally hosts of the sheep..."]
+      },
+      {
+        "title": "Atresia of the submandibular duct orifices: An unusual cause of feeding problems and failure to thrive in an infant",
+        "tags": ["Article"],
+        "date": "Jul 2010",
+        "authors": ["Eva Karin Ellegård", "Ingemar Kjellmer"],
+        "abstract": ["Atresia of the submandibular duct orifice is a rare developmental anomaly, which causes swelling of the duct by accumulation of saliva. The cystic mass in the floor of the mouth can cause feeding problems, which can be treated by surgical opening of the duct. We report the first Swedish case in a male infant, who had severe difficulties to feed bec..."]
+      },
+      {
+        "title": "Corrigendum to “Studies on the relationship between electrogustometry and sour taste perception” [Auris Nasus Larynx 34 (2007) 477–480]",
+        "tags": ["Article"],
+        "date": "Sep 2008",
+        "authors": ["Eva Karin Ellegård", "David Goldsmith", "K. David Hay", "Randall P Morton"],
+        "abstract": []
+      },
+      {
+        "title": "Studies on the relationship between electrogustometry and sour taste perception",
+        "tags": ["Article"],
+        "date": "Sep 2008",
+        "authors": ["Eva Karin Ellegård", "David Goldsmith", "K David Hay", "Randall P Morton"],
+        "abstract": ["Electrogustometry is used as a measurement of taste perception. The prevailing theory is that the anodal current delivered to the tongue mucosa stimulates the sour taste receptors, but this is not universally accepted. Our aim was to evaluate to what extent electrogustometry relates to an ability to detect sour taste--rather than sweet, salt, or bi..."]
+      },
+      {
+        "title": "Is electrogustometry useful for screening abnormalities of taste?",
+        "tags": ["Article"],
+        "date": "Jan 2008",
+        "authors": ["Eva Karin Ellegård", "K. D. Hay", "Randall P Morton"],
+        "abstract": ["Background: \nElectrogustometry is an accurate and increasingly popular method used to examine taste. However, its usefulness as a screening test is unknown.\n\nMethods: \nWe asked 114 subjects, some healthy but most with medical conditions possibly affecting taste, to rate their overall taste ability, on a scale of zero to 10. Those who had current sy..."]
+      },
+      {
+        "title": "[Otitis consensus must be adapted to practical reality. Reduced utilization of antibiotics, sure, but not to the price of reduced diagnostics]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2007",
+        "authors": ["Eva Karin Ellegård", "Kristian Roos"],
+        "abstract": []
+      },
+      {
+        "title": "Pregnancy Rhinitis",
+        "tags": ["Article"],
+        "date": "Mar 2006",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": ["Pregnancy rhinitis has gained attention as a defined clinical entity that is recognized increasingly by medical professionals and by the public. It affects one in five pregnant women, and as far as we know, it is not caused by one single factor. Pregnant women should be informed about this cause of nasal congestion, and how to handle it. There is n..."]
+      },
+      {
+        "title": "Children with earache - Nothing for the physician?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2006",
+        "authors": ["Kristian Roos", "Eva Karin Ellegård"],
+        "abstract": []
+      },
+      {
+        "title": "Nasal peak expiratory flow and nasal congestion in women: how many subjects are enough?",
+        "tags": ["Article"],
+        "date": "Jan 2006",
+        "authors": ["Eva Karin Ellegård", "Lars Ellegård"],
+        "abstract": ["Background: Nasal peak expiratory flow is an inexpensive, simple, widely used method to measure changes in nasal congestion. Objective: This study was performed in order to define the normal variation in nasal peak expiratory flow and to evaluate and quantify the relationship between subjective scores of nasal obstruction and nasal peak expiratory..."]
+      },
+      {
+        "title": "Nasal peak expiratory flow and nasal congestion in women: How many subjects are enough?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Eva Karin Ellegård", "Lars H Ellegard"],
+        "abstract": ["Background: Nasal peak expiratory flow is an inexpensive, simple, widely used method to measure changes in nasal congestion. Objective: This study was performed in order to define the normal variation in nasal peak expiratory flow and to evaluate and quantify the relationship between subjective scores of nasal obstruction and nasal peak expiratory..."]
+      },
+      {
+        "title": "Special considerations in the treatment of pregnancy rhinitis",
+        "tags": ["Article"],
+        "date": "Jul 2005",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": ["Pregnancy rhinitis is a common condition that is not yet fully recognized by the public. This form of rhinitis affects approximately one in five pregnant women, can start in almost any gestational week, and disappears after delivery. However, as it reduces quality of life, and also possibly affects the fetus, treatment is often required. Saline irr..."]
+      },
+      {
+        "title": "Special Considerations in the Treatment of Pregnancy Rhinitis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2005",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": ["Pregnancy rhinitis is a common condition that is not yet fully recognized by the public. This form of rhinitis affects approximately one in five pregnant women, can start in almost any gestational week, and disappears after delivery. However, as it reduces quality of life, and also possibly affects the fetus, treatment is often required. Saline irr..."]
+      },
+      {
+        "title": "[Treatment of acute otitis media--our article does not conflict with the consensus statement]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2004",
+        "authors": ["Eva Karin Ellegård", "Kristian Roos"],
+        "abstract": []
+      },
+      {
+        "title": "Clinical and Pathogenetic Characteristics of Pregnancy Rhinitis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2004",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": ["Pregnancy rhinitis is a very common condition. Defined as \"nasal congestion present during the last 6 or more weeks of pregnancy without other signs of respiratory tract infection, and with no known allergic cause, disappearing completely within 2 wk after delivery,\" it strikes one in five pregnant women, and it starts in almost any gestational wee..."]
+      },
+      {
+        "title": "The Etiology and Management of Pregnancy Rhinitis",
+        "tags": ["Article"],
+        "date": "Feb 2003",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": ["Pregnancy rhinitis is defined as nasal congestion in the last 6 or more weeks of pregnancy, without other signs of respiratory tract infection and with no known allergic cause, with complete resolution of symptoms within 2 weeks after delivery. Pregnancy rhinitis occurs in approximately one-fifth of pregnancies, can appear at almost any gestational..."]
+      },
+      {
+        "title": "Practical aspects on rhinostereometry",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2002",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": ["Rhinostereometry is an exact optical method used to detect changes in nasal mucosal swelling, where subjects are fixed to a micrometer table by means of a tooth splint, and the nasal mucosa is observed through a surgical microscope. The method is relatively new, used only by a few groups, and needs further specifications for standardised use. In th..."]
+      },
+      {
+        "title": "Sinuit hos gravida underbehandlas fortfarande",
+        "tags": ["Article"],
+        "date": "Aug 2001",
+        "authors": ["Eva Karin Ellegård", "Lars Ladfors", "Karin Petruson", "A. Philipson"],
+        "abstract": []
+      },
+      {
+        "title": "Nasal Mucociliary Transport in Pregnancy",
+        "tags": ["Article"],
+        "date": "Nov 2000",
+        "authors": ["Eva Karin Ellegård", "N. Göran Karlsson"],
+        "abstract": ["Using the saccharin method, we performed tests of mucociliary function four times during pregnancy and once one month after delivery in 27 women. As the transport distance for saccharin varied from 37 to 65 mm, we used the transport speed for evaluation. Pregnancy rhinitis affects at least 20% of pregnancies. The mucociliary transport speed was hig..."]
+      },
+      {
+        "title": "[Nasal congestion among women. At least every fifth pregnant woman suffers--most common among smokers]",
+        "tags": ["Article"],
+        "date": "Sep 2000",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": []
+      },
+      {
+        "title": "The Incidence of Pregnancy Rhinitis",
+        "tags": ["Article"],
+        "date": "Feb 2000",
+        "authors": ["Eva Karin Ellegård", "Margareta Hellgren", "Kjell Torén", "Göran Karlsson"],
+        "abstract": ["The purpose of this study was to define the cumulative incidence of pregnancy rhinitis, and to study whether smoking, asthma, hayfever or month of conception are risk factors. A questionnaire was delivered during 1 year in 10 antenatal care centers in one Swedish county. Questions were asked by midwives on the ordinary check-up visits throughout pr..."]
+      },
+      {
+        "title": "Kvinnlig nstäppa med konsekvenser: Minst var femte gravid kvinna drabbas - Vanligast bland rökare",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["Eva Karin Ellegård"],
+        "abstract": []
+      },
+      {
+        "title": "IgE-Mediated Reactions and Hyperreactivity in Pregnancy Rhinitis",
+        "tags": ["Article"],
+        "date": "Nov 1999",
+        "authors": ["Eva Karin Ellegård", "Göran Karlsson"],
+        "abstract": ["To determine whether respiratory allergy or hyperreactive nasal mucosa is exceptionally common in women with pregnancy rhinitis, and to evaluate other possible risk factors such as clinical asthma or rhinitis, smoking, age, parity, and sex of the child.\nFrom an antenatal questionnaire study, 165 women, 83 (50%) of whom had had pregnancy rhinitis, w..."]
+      },
+      {
+        "title": "Nasal congestion during pregnancy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 1999",
+        "authors": ["Eva Karin Ellegård", "G Karlsson"],
+        "abstract": ["We define pregnancy rhinitis as nasal congestion in the last 6 or more weeks of pregnancy without other signs of respiratory tract infection and with no known allergic cause, disappearing completely within 2 weeks after delivery. In order to describe physiological variations of nasal obstruction during pregnancy, subjective scores and nasal as well..."]
+      },
+      {
+        "title": "Nasal air flow in growth hormone treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 1998",
+        "authors": ["Eva Karin Ellegård", "Lars Ellegård"],
+        "abstract": ["Nasal congestion due to hormonal influences has been recognized as a clinical entity, and a \"hormonal rhinitis\" has been proposed to occur in acromegaly. In this study we investigated the effect of low-dose recombinant human growth hormone over eight weeks on nasal congestion as measured by nasal peak flow in a randomized, placebo-controlled, doubl..."]
+      },
+      {
+        "title": "Serum Level of Placental Growth Hormone Is Raised in Pregnancy Rhinitis",
+        "tags": ["Article"],
+        "date": "May 1998",
+        "authors": ["Eva Karin Ellegård", "Jan Oscarsson", "Mohammed Bougoussa", "Göran Karlsson"],
+        "abstract": ["To describe any relationship between pregnancy rhinitis and weight gain or serum levels of estradiol, progesterone, placental growth hormone, or insulinlike growth factor I.\nTwenty-seven nonsmoking healthy pregnant women aged 22 to 38 years (mean age, 28 years) who had no history of respiratory allergy or chronic nasal or sinus problems volunteered..."]
+      },
+      {
+        "title": "Influence of Allergy, Asthma and Hypertension on Nasal Polyposis",
+        "tags": ["Article"],
+        "date": "Feb 1992",
+        "authors": ["G Granström", "Eva Karin Ellegård", "P H Jeppsson"],
+        "abstract": ["Arterial hypertension was found in 78 of 224 consecutive patients operated for nasal polyposis. An exacerbated degree of hypertension was significant in groups aged above 50 years. In total, 46% of patients whose nasal polyposis lasted for more than 10 years suffered from hypertension. Fifty of 78 patients developed hypertension after nasal polypos..."]
+      },
+      {
+        "title": "Nasal Polyposis as a Risk Factor for Hypertension",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 1990",
+        "authors": ["G Granström", "Eva Karin Ellegård", "P H Jeppsson"],
+        "abstract": ["Arterial hypertension was found in 78 of 224 consecutive patients operated for nasal polyposis. An exacerbated degree of hypertension was significant in groups aged above 50 years. In total, 46% of patients whose nasal polyposis was of a duration of more than 10 years suffered from hypertension. Fifty of 78 patients developed hypertension after nas..."]
+      }
+    ],
+    "degree": ["MD,", "PhD"],
+    "bio": [],
+    "publications": [39],
+    "reads": [6627],
+    "citations": [972]
   }
 }

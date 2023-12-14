@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Tor Endestad",
-    "id": "Xsrf_nYAAAAJ",
-    "affiliation": "Universitetet i Oslo",
+    "name": ["Tor Endestad"],
+    "id": ["Xsrf_nYAAAAJ"],
+    "affiliation": ["Universitetet i Oslo"],
     "data": {
       "publications": [
         {
@@ -1260,8 +1260,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-4403-6887",
-    "name": "Tor Endestad",
+    "orcid": ["0000-0002-4403-6887"],
+    "name": ["Tor Endestad"],
     "distinctions": [],
     "education": [
       {
@@ -1320,8 +1320,8 @@
       {
         "type": "journal-article",
         "title": "The ascending arousal system promotes optimal performance through mesoscale network integration in a visuospatial attentional task",
-        "journal": "Network Neuroscience",
-        "url": "https://doi.org/10.1162/netn_a_00205"
+        "url": "https://doi.org/10.1162/netn_a_00205",
+        "journal": "Network Neuroscience"
       },
       {
         "type": "preprint",
@@ -1331,14 +1331,14 @@
       {
         "type": "journal-article",
         "title": "The association of PTSD symptom severity with amygdala nuclei volumes in traumatized youths",
-        "journal": "Translational Psychiatry",
-        "url": "https://doi.org/10.1038/s41398-020-00974-4"
+        "url": "https://doi.org/10.1038/s41398-020-00974-4",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "journal-article",
         "title": "Default network and frontoparietal control network theta connectivity supports internal attention",
-        "journal": "Nature Human Behaviour",
-        "url": "https://doi.org/10.1038/s41562-019-0717-0"
+        "url": "https://doi.org/10.1038/s41562-019-0717-0",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "journal-article",
@@ -1626,8 +1626,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Tor Endestad",
-    "id": "22923",
+    "name": ["Tor Endestad"],
+    "id": ["22923"],
     "keywords": ["Cognition", "Cognitive neuroscience"],
     "position": ["Associate professor", null, null, null],
     "img": {},
@@ -2285,5 +2285,719 @@
         "url": "https://api.cristin.no/v2/results/1343874"
       }
     ]
+  },
+  "rg": {
+    "id": "Tor-Endestad",
+    "name": "Tor Endestad",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272187542208516-1441905975334_Q128/Tor-Endestad.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Neuroscience", "Cognitive Neuroscience", "Memory", "Neuropsychology", "Neuroimaging", "EEG", "Executive Function", "Cognitive Neuropsychology", "Brain", "Functional Neuroimaging"],
+    "works": [
+      {
+        "title": "Periodic attention deficits after frontoparietal lesions provide causal evidence for rhythmic attentional sampling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Isabel Raposo", "Sara M. Szczepanski", "Kathleen Haaland", "Randolph F. Helfrich"],
+        "abstract": []
+      },
+      {
+        "title": "Decision and response monitoring during working memory are sequentially represented in the human insula",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Anais Llorens", "Ludovic Bellier", "Alejandro O. Blenkmann", "Robert T. Knight"],
+        "abstract": ["Emerging research supports a role of the insula in human cognition. Here, we used intracranial EEG to investigate the spatiotemporal dynamics in the insula during a verbal working memory (vWM) task. We found robust effects for theta, beta, and high frequency activity (HFA) during probe presentation requiring a decision. Theta band activity showed d..."]
+      },
+      {
+        "title": "Predicting the Beat Bin – Beta Oscillations Support Top-Down Prediction of the Temporal Precision of a Rhythmic Event",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2023",
+        "authors": ["Sabine Leske", "Tor Endestad", "Vegard Volehaugen", "Anne Danielsen"],
+        "abstract": ["The brain exploits acoustic temporal regularities in the environment to enable prediction of the timing of future events and to optimize sensory processing and behavior. Periodic sensory inputs have been shown to entrain oscillatory brain activity. But to what extent is this entrainment mechanism instrumental to temporal prediction and under top-do..."]
+      },
+      {
+        "title": "Subspace partitioning in the human prefrontal cortex resolves cognitive interference",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Jan Weber", "Gabriela Iwama", "Anne‐Kristin Solbakk", "Randolph Helfrich"],
+        "abstract": ["The human prefrontal cortex (PFC) constitutes the structural basis underlying flexible cognitive control, where mixed-selective neural populations encode multiple task features to guide subsequent behavior. The mechanisms by which the brain simultaneously encodes multiple task-relevant variables while minimizing interference from task-irrelevant fe..."]
+      },
+      {
+        "title": "N°109 – Frontotemporal dynamics during verbal working memory revealed by intracranial EEG",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Anais Llorens", "Ludovic Bellier", "Elizabeth Johnson", "Robert T. Knight"],
+        "abstract": []
+      },
+      {
+        "title": "Quantifying Evoked Responses through Information-Theoretical Measures",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Julian Fuhrer", "Kyrre Glette", "Anais Llorens", "Alejandro Blenkmann"],
+        "abstract": ["Information theory is a viable candidate to advance our understanding of how the brain processes information generated in the internal or external environment. With its universal applicability, information theory enables the analysis of complex data sets, is free of requirements about the data structure, and can help infer the underlying brain mech..."]
+      },
+      {
+        "title": "Oscillatory Attention in Groove",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Connor Spiech", "Anne Danielsen", "Bruno Laeng", "Tor Endestad"],
+        "abstract": ["Attention is not constant but rather fluctuates over time and these attentional fluctuations may prioritize the processing of certain events over others. In music listening, the pleasurable urge to move to music (termed ‘groove’ by music psychologists) offers a particularly convenient case study of oscillatory attention because it engenders synchro..."]
+      },
+      {
+        "title": "Anatomical registration of intracranial electrodes. Robust model-based localization and deformable smooth brain-shift compensation methods",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Alejandro Omar Blenkmann", "Sabine Liliana Leske", "Anais Llorens", "Anne‐Kristin Solbakk"],
+        "abstract": ["Precise electrode localization is important for maximizing the utility of intracranial EEG data. Electrodes are typically localized from post-implantation CT artifacts, but algorithms can fail due to low signal-to-noise ratio, unrelated artifacts, or high-density electrode arrays. Minimizing these errors usually requires time-consuming visual local..."]
+      },
+      {
+        "title": "imputed.RDS",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": []
+      },
+      {
+        "title": "AllCABAT.RDA",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Materials - Beat Alignment and Musical Training v2.pdf",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": []
+      },
+      {
+        "title": "Beat alignment ability is associated with formal musical training not current music playing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": ["The ability to perceive the beat in music is crucial for both music listeners and players with expert musicians being notably skilled at noticing fine deviations in the beat. However, it is unclear whether this beat perception ability is enhanced in trained musicians who continue to practice relative to musicians who no longer play. Thus, we invest..."]
+      },
+      {
+        "title": "Altered hierarchical auditory predictive processing after lesions to the orbitofrontal cortex",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Olgerta Asko", "Alejandro Blenkmann", "Sabine L Leske", "Anne‐Kristin Solbakk"],
+        "abstract": ["Orbitofrontal cortex (OFC) is classically linked to inhibitory control, emotion regulation and reward processing. Recent perspectives propose that the OFC also generates predictions about perceptual events, actions, and their outcomes. We tested the causal involvement of the OFC in detecting violations of prediction at two levels of abstraction (i...."]
+      },
+      {
+        "title": "Subspace partitioning in human prefrontal cortex resolves cognitive interference",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Jan Weber", "Gabriela Iwama", "Anne‐Kristin Solbakk", "Randolph Helfrich"],
+        "abstract": ["Human prefrontal cortex (PFC) constitutes the structural basis underlying flexible cognitive control, where mixed-selective neural populations encode multiple task-features to guide subsequent behavior. The mechanisms by which the brain simultaneously encodes multiple task-relevant variables while minimizing interference from task-irrelevant featur..."]
+      },
+      {
+        "title": "Periodic neglect after frontoparietal lesions provides causal evidence for rhythmic attention sampling",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Isabel Raposo", "Sara M Szczepanski", "Kathleen Haaland", "Randolph F Helfrich"],
+        "abstract": ["Contemporary models conceptualize spatial attention as a blinking spotlight that sequentially samples visual space. Hence, behavior fluctuates over time even in states of presumed 'sustained' attention. Recent evidence suggested that rhythmic neural activity in the frontoparietal network constitutes the functional basis of rhythmic attentional samp..."]
+      },
+      {
+        "title": "Decision and response monitoring during working memory are sequentially represented in the human insula",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Anais Llorens", "L. Bellier", "Alejandro Blenkmann", "R.T. Knight"],
+        "abstract": ["Emerging research supports a role of the insula in human cognition. Here, we used intracranial EEG to investigate the spatiotemporal dynamics in the insula during a verbal working memory (vWM) task. We found robust effects for theta, beta, and high frequency activity (HFA) during probe presentation requiring a decision. Theta and beta band activity..."]
+      },
+      {
+        "title": "Modeling intracranial electrodes. A simulation platform for the evaluation of localization algorithms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Alejandro Blenkmann", "Anne‐Kristin Solbakk", "Jugoslav Ivanovic", "Tor Endestad"],
+        "abstract": ["Introduction\nIntracranial electrodes are implanted in patients with drug-resistant epilepsy as part of their pre-surgical evaluation. This allows the investigation of normal and pathological brain functions with excellent spatial and temporal resolution. The spatial resolution relies on methods that precisely localize the implanted electrodes in th..."]
+      },
+      {
+        "title": "Practice Makes Perfect: Beat Perception is Enhanced by Musical Training Not Active Music Playing",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": ["The ability to perceive the beat in music is crucial for both music listeners and players with expert musicians being notably skilled at noticing fine deviations in the beat. However, it is unclear whether this beat perception ability remains stable once trained or whether it diminishes with disuse. Thus, we investigated this by comparing active mu..."]
+      },
+      {
+        "title": "PredicTAPbility: Sensorimotor Synchronization Increases Groove",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Connor Spiech", "Mikael Hope", "Guilherme Schmidt Câmara", "Anne Danielsen"],
+        "abstract": ["‘Groove’ can be understood as the (pleasurable) urge to move to music. Predictive accounts of music listening posit that groove reflects an embodied suppression of prediction errors (i.e., active inference) arising from moderate levels of complexity. Here, there are frequent prediction errors that challenge internal models of the rhythmic structure..."]
+      },
+      {
+        "title": "Sensorimotor Synchronization Increases Groove",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Connor Spiech", "Mikael Hope", "Guilherme Schmidt Câmara", "Anne Danielsen"],
+        "abstract": ["‘Groove’ can be understood as the (pleasurable) urge to move to music. Predictive accounts of music listening posit that groove reflects an embodied suppression of prediction errors (i.e., active inference) arising from moderate levels of complexity. Here, there are frequent prediction errors that challenge internal models of the rhythmic structure..."]
+      },
+      {
+        "title": "Sensorimotor Synchronization Increases Groove",
+        "tags": ["Preprint"],
+        "date": "Jul 2022",
+        "authors": ["Connor Spiech", "Mikael Hope", "Guilherme Schmidt Câmara", "Anne Danielsen"],
+        "abstract": ["‘Groove’ can be understood as the (pleasurable) urge to move to music. Predictive accounts of music listening posit that groove reflects an embodied suppression of prediction errors (i.e., active inference) arising from moderate levels of complexity. Here, there are frequent prediction errors that challenge internal models of the rhythmic structure..."]
+      },
+      {
+        "title": "Complexity-based Encoded Information Quantification in Neurophysiological Recordings",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2022",
+        "authors": ["Julian Fuhrer", "Alejandro Blenkmann", "Tor Endestad", "Kyrre Glette"],
+        "abstract": ["Brain activity differs vastly between sleep, cognitive tasks, and action. Information theory is an appropriate concept to analytically quantify these brain states. Based on neurophysiological recordings, this concept can handle complex data sets, is free of any requirements about the data structure, and can infer the present underlying brain mechan..."]
+      },
+      {
+        "title": "Pupil Drift Rate Indexes Groove Ratings",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Connor Spiech", "George Sioros", "Tor Endestad", "Bruno Laeng"],
+        "abstract": ["Groove, understood as an enjoyable compulsion to move to musical rhythms, typically varies along an inverted U-curve with increasing rhythmic complexity (e.g., syncopation, pickups). Predictive coding accounts posit that moderate complexity drives us to move to reduce sensory prediction errors and model the temporal structure. While musicologists g..."]
+      },
+      {
+        "title": "Regional brain volume prior to treatment is linked to outcome after cognitive rehabilitation in traumatic brain injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Alexander Olsen", "Emily L. Dennis", "Jan Stubberud", "Sveinung Tornås"],
+        "abstract": ["Cognitive rehabilitation is useful for many after traumatic brain injury (TBI), but we lack critical knowledge about which patients benefit the most from different approaches. Advanced neuroimaging techniques have provided important insight into brain pathology and systems plasticity after TBI, and have potential to inform new practices in cognitiv..."]
+      },
+      {
+        "title": "Attentional modulation of beta-power aligns with the timing of behaviorally relevant rhythmic sounds",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Maja Foldal", "Sabine Leske", "Alejandro Blenkmann", "Anne‐Kristin Solbakk"],
+        "abstract": ["It is largely unknown how attention adapts to the timing of acoustic stimuli. To address this, we investigated how hemispheric lateralization of alpha (7-13 Hz) and beta (14-24 Hz) oscillations, reflecting voluntary allocation of auditory spatial attention, is influenced by tempo and predictability of sounds. We recorded electroencephalography whil..."]
+      },
+      {
+        "title": "Orbitofrontal cortex governs working memory for temporal order",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Elizabeth L. Johnson", "William Chang", "Callum Dewar", "Robert T. Knight"],
+        "abstract": ["How do we think about time? Converging lesion and neuroimaging evidence indicates that orbitofrontal cortex (OFC) supports the encoding and retrieval of temporal context in long-term memory1, which may contribute to confabulation in individuals with OFC damage2. Here, we reveal that OFC damage diminishes working memory for temporal order, that is,..."]
+      },
+      {
+        "title": "Complexity-based Encoded Information Quantification in Neurophysiological Recordings",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Julian Fuhrer", "Alejandro Blenkmann", "Tor Endestad", "Kyrre Glette"],
+        "abstract": ["Brain activity differs vastly between sleep, cognitive tasks, and action. Information theory is an appropriate concept to analytically quantify these brain states. Based on neurophysiological recordings, this concept can handle complex data sets, is free of any requirements about the data structure, and can infer the present underlying brain mechan..."]
+      },
+      {
+        "title": "Regional Brain Volume Prior to Treatment Is Linked to Outcome after Cognitive Rehabilitation in Traumatic Brain Injury",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Alexander Olsen", "Emily L. Dennis", "Jan Stubberud", "Sveinung Tornås"],
+        "abstract": ["Cognitive rehabilitation is useful for many after traumatic brain injury (TBI), but we lack critical knowledge about which patients benefit the most from different approaches. Advanced neu-roimaging techniques have provided important insight into brain pathology and systems plasticity after TBI and have potential to inform new practices in cognitiv..."]
+      },
+      {
+        "title": "Pupil Drift Rate Indexes Groove Ratings",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Connor Spiech", "George Sioros", "Tor Endestad", "Bruno Laeng"],
+        "abstract": ["Groove, understood as a pleasurable compulsion to move to musical rhythms, typically varies along an inverted U-curve with increasing rhythmic complexity (e.g., syncopation, pickups). Predictive coding accounts posit that moderate complexity drives us to move to reduce sensory prediction errors and model the temporal structure. While musicologists..."]
+      },
+      {
+        "title": "Population coding and oscillatory subspace synchronization integrate context into actions",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Jan Weber", "Anne‐Kristin Solbakk", "Alejandro Blenkmann", "Randolph F. Helfrich"],
+        "abstract": ["Contextual cues and prior evidence guide human goal-directed behavior. To date, the neurophysiological mechanisms that implement contextual priors to guide subsequent actions remain unclear. Here we demonstrate that increasing behavioral uncertainty introduces a shift from an oscillatory to a continuous processing mode in human prefrontal cortex. A..."]
+      },
+      {
+        "title": "Barn i et digitalt samfunn: En beskrivelse av norske barn fra 7 til 12 år og deres tilgang til og bruk av TV, PC, Internett, mobiltelefon og spillteknologier",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Petter Bae Brandtzaeg", "Tor Endestad", "Jan Heim", "Leila Torgersen"],
+        "abstract": []
+      },
+      {
+        "title": "Altered functional connectivity in adolescent anorexia nervosa is related to age and cortical thickness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Anna Dahl Myrvang", "Torgil Vangberg", "Clas Linnman", "Per M. Aslaksen"],
+        "abstract": ["Introduction\nFunctional networks develop throughout adolescence when anorexia nervosa (AN) normally debuts. In AN, cerebral structural alterations are found in most brain regions and may be related to the observed functional brain changes. Few studies have investigated the functional networks of the brain in adolescent AN patients.. The aim of this..."]
+      },
+      {
+        "title": "Direct brain recordings reveal continuous encoding of structure in random stimuli",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Julian Fuhrer", "Kyrre Glette", "Jugoslav Ivanovic", "Alejandro Blenkmann"],
+        "abstract": ["The brain excels at processing sensory input, even in rich or chaotic environments. Mounting evidence attributes this to the creation of sophisticated internal models of the environment that draw on statistical structures in the unfolding sensory input. Understanding how and where this modeling takes place is a core question in statistical learning..."]
+      },
+      {
+        "title": "The ascending arousal system promotes optimal performance through meso-scale network integration in a visuospatial attentional task",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Gabriel Wainstein", "Daniel Rojas-Líbano", "Vicente Medel", "James M Shine"],
+        "abstract": ["Previous research has shown that the autonomic nervous system provides essential constraints over ongoing cognitive function. However, there is currently a relative lack of direct empirical evidence for how this interaction manifests in the brain at the macro-scale level. Here, we examine the role of ascending arousal and attentional load on large-..."]
+      },
+      {
+        "title": "Intracranial Recordings Demonstrate Both Cortical and Medial Temporal Lobe Engagement in Visual Search in Humans",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["S. J. Katarina Slama", "Richard Jimenez", "Sujayam Saha", "Robert T. Knight"],
+        "abstract": ["Visual search is a fundamental human behavior, providing a gateway to understanding other sensory domains as well as the role of search in higher-order cognition. Search has been proposed to include two component processes: inefficient search (search) and efficient search (pop-out). According to extant research, these two processes map onto two sep..."]
+      },
+      {
+        "title": "Monitoring of Self-Paced Action Timing and Sensory Outcomes After Lesions to the Orbitofrontal Cortex",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Anne‐Kristin Solbakk", "James Lubell", "Sabine Leske", "Tor Endestad"],
+        "abstract": ["Anticipation, monitoring, and evaluation of the outcome of one's actions are at the core of proactive control. Individuals with lesions to OFC often demonstrate behaviors that indicate a lack of recognition or concern for the negative effects of their actions. Altered action timing has also been reported in these patients. We investigated the role..."]
+      },
+      {
+        "title": "Modeling intracranial electrodes",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Alejandro Blenkmann", "Anne‐Kristin Solbakk", "Jugoslav Ivanovic", "Tor Endestad"],
+        "abstract": ["Background: Intracranial electrodes are implanted in patients with drug-resistant epilepsy as part of their pre-surgical evaluation. This allows investigation of normal and pathological brain functions with excellent spatial and temporal resolution. The spatial resolution relies on methods that precisely localize the implanted electrodes in the cer..."]
+      },
+      {
+        "title": "Patients with Ventromedial Prefrontal Lesions Show an Implicit Approach Bias to Angry Faces",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Macià Buades-Rotger", "Anne‐Kristin Solbakk", "Matthias Liebrand", "Ulrike Krämer"],
+        "abstract": ["Damage to the ventromedial prefrontal cortex (VMPFC) can cause maladaptive social behavior, but the cognitive processes underlying these behavioral changes are still uncertain. Here, we tested whether patients with acquired VMPFC lesions show altered approach-avoidance tendencies to emotional facial expressions. Thirteen patients with focal VMPFC l..."]
+      },
+      {
+        "title": "Cerebral cortical thickness and surface area in adolescent anorexia nervosa: Separate and joint analyses with a permutation‐based nonparametric method",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Anna Dahl Myrvang", "Torgil Vangberg", "Kristin Stedal", "Per M. Aslaksen"],
+        "abstract": ["Objective\nReduction in cerebral volume is often found in underweight patients with anorexia nervosa (AN), but few studies have investigated other morphological measures. Cortical thickness (CTh) and surface area (CSA), often used to produce the measure of cortical volume, are developmentally distinct measures that may be differentially affected in..."]
+      },
+      {
+        "title": "The ascending arousal system promotes optimal performance through meso-scale network integration in a visuospatial attentional task",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Gabriel Wainstein", "Daniel Rojas-Líbano", "Dag Alnæs", "James M Shine"],
+        "abstract": ["Previous research has shown that the autonomic nervous system provides essential constraints over ongoing cognitive function. However, there is currently a relative lack of direct empirical evidence for how this interaction manifests in the brain at the macro-scale level. Here, we examine the role of ascending arousal and attentional load on large-..."]
+      },
+      {
+        "title": "Top–Down Attentional Modulation in Human Frontal Cortex: Differential Engagement during External and Internal Attention",
+        "tags": ["Article"],
+        "date": "Oct 2020",
+        "authors": ["Julia W Y Kam", "Randolph F Helfrich", "Anne‐Kristin Solbakk", "Robert T Knight"],
+        "abstract": ["Decades of electrophysiological research on top–down control converge on the role of the lateral frontal cortex in facilitating attention to behaviorally relevant external inputs. However, the involvement of frontal cortex in the top–down control of attention directed to the external versus internal environment remains poorly understood. To address..."]
+      },
+      {
+        "title": "Mental Effort When Playing, Listening, and Imagining Music in One Pianist’s Eyes and Brain",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Tor Endestad", "Rolf Inge Godøy", "Markus Handal Sneve", "Bruno Laeng"],
+        "abstract": ["We investigated \"musical effort\" with an internationally renowned, classical, pianist while playing, listening, and imagining music. We used pupillometry as an objective measure of mental effort and fMRI as an exploratory method of effort with the same musical pieces. We also compared a group of non-professional pianists and non-musicians by the us..."]
+      },
+      {
+        "title": "The association of PTSD symptom severity with amygdala nuclei volumes in traumatized youths",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Olga Therese Ousdal", "Anne Marita Milde", "Gertrud Sofie Hafstad", "Kenneth Hugdahl"],
+        "abstract": ["The amygdala is a core component in neurobiological models of stress and stress-related pathologies, including post-traumatic stress disorder (PTSD). While numerous studies have reported increased amygdala activity following traumatic stress exposure and in PTSD, the findings regarding amygdala volume have been mixed. One reason for these mixed fin..."]
+      },
+      {
+        "title": "Patients with ventromedial prefrontal lesions show an implicit approach bias to angry faces",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Macià Buades-Rotger", "Anne‐Kristin Solbakk", "Matthias Liebrand", "Ulrike Krämer"],
+        "abstract": ["Damage to the ventromedial prefrontal cortex (VMPFC) can cause maladaptive social behavior, but the cognitive processes underlying these behavioral changes are still uncertain. Here, we tested whether patients with acquired VMPFC lesions show altered approach-avoidance tendencies to emotional facial expressions. Thirteen patients with focal VMPFC l..."]
+      },
+      {
+        "title": "The brain tracks auditory rhythm predictability independent of selective attention",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Maja Foldal", "Alejandro Blenkmann", "Anais Llorens", "Tor Endestad"],
+        "abstract": ["The brain responds to violations of expected rhythms, due to extraction- and prediction of the temporal structure in auditory input. Yet, it is unknown how probability of rhythm violations affects the overall rhythm predictability. Another unresolved question is whether predictive processes are independent of attention processes. In this study, EEG..."]
+      },
+      {
+        "title": "Intracranial recordings demonstrate medial temporal lobe engagement in visual search in humans",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Katarina Slama", "Richard Jimenez", "Sujayam Saha", "Robert T. Knight"],
+        "abstract": ["Visual search is a fundamental human behavior, which has been proposed to include two component processes: inefficient search (Search) and efficient search (Pop-out). According to extant research, these two processes map onto two separable neural systems located in the frontal and parietal association cortices. In the present study, we use intracra..."]
+      },
+      {
+        "title": "Preservation of Interference Effects in Working Memory After Orbitofrontal Damage",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Anais Llorens", "Ingrid Funderud", "Alejandro Blenkmann", "Tor Endestad"],
+        "abstract": ["Orbitofrontal cortex (OFC) is implicated in multiple cognitive processes, including inhibitory control, context memory, recency judgment, and choice behavior. Despite an emerging understanding of the role of OFC in memory and executive control, its necessity for core working memory (WM) operations remains undefined. Here, we assessed the impact of..."]
+      },
+      {
+        "title": "Default network and frontoparietal control network theta connectivity supports internal attention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Julia W. Y. Kam", "Jack Lin", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["Attending to our inner world is a fundamental cognitive phenomenon1–3, yet its neural underpinnings remain largely unknown. Neuroimaging evidence implicates the default network (DN) and frontoparietal control network (FPCN)⁴; however, the electrophysiological basis for the interaction between these networks is unclear. Here we recorded intracranial..."]
+      },
+      {
+        "title": "Auditory deviance detection in the human insula: An intracranial EEG study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Alejandro Blenkmann", "Santiago Collavini", "James Lubell", "Anne‐Kristin Solbakk"],
+        "abstract": ["The human insula is known to be involved in auditory processing but knowledge about its precise functional role and the underlying electrophysiology is limited. To assess its role in automatic auditory deviance detection we analyzed the EEG high frequency activity (HFA; 75-145 Hz) and ERPs from 90 intracranial insular channels across 16 patients un..."]
+      },
+      {
+        "title": "Lesions to the Fronto-Parietal Network Impact Alpha-Band Phase Synchrony and Cognitive Control",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Sepideh Sadaghiani", "Pascasie Leonie Dombert", "Marianne Løvstad", "Mark D'Esposito"],
+        "abstract": ["Long-range phase synchrony in the α-oscillation band (near 10 Hz) has been proposed to facilitate information integration across anatomically segregated regions. Which areas may top-down regulate such cross-regional integration is largely unknown. We previously found that the moment-to-moment strength of high-α band (10-12 Hz) phase synchrony co-va..."]
+      },
+      {
+        "title": "Auditory deviance detection in the human insula: An intracranial EEG study:",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Alejandro Blenkmann", "Santiago Collavini", "James Lubell", "Anne‐Kristin Solbakk"],
+        "abstract": ["While the human insula is known to be involved in auditory processing, knowledge about its precise functional role and the underlying electrophysiology is limited. To assess its role in automatic auditory deviance detection we analyzed the high frequency EEG activity (75-145 Hz) from 90 intracranial insular electrodes across 16 patients who were ca..."]
+      },
+      {
+        "title": "Hippocampal Subfields in Adolescent Anorexia Nervosa",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Anna Dahl Myrvang", "Torgil Vangberg", "Kristin Stedal", "Per M. Aslaksen"],
+        "abstract": ["Patients with anorexia nervosa (AN) exhibit volume reduction in cerebral gray matter (GM), and several studies report reduced hippocampus volume. The hippocampal subfields (HS) are functionally and structurally distinct, and appear to respond differently to neuropathology. The aim of this study was to investigate HS volumes in adolescent females wi..."]
+      },
+      {
+        "title": "Prefrontal Glutamate Levels Predict Altered Amygdala-prefrontal Connectivity in Traumatized Youths",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Olga Therese Ousdal", "Anne Marita Milde", "Alexander R. Craven", "Kenneth Hugdahl"],
+        "abstract": ["Background\nNeurobiological models of stress and stress-related mental illness, including post-traumatic stress disorder, converge on the amygdala and the prefrontal cortex (PFC). While a surge of research has reported altered structural and functional connectivity between amygdala and the medial PFC following severe stress, few have addressed the u..."]
+      },
+      {
+        "title": "Dynamic frontotemporal systems process space and time in working memory",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["How do we rapidly process incoming streams of information in working memory, a cognitive mechanism central to human behavior? Dominant views of working memory focus on the prefrontal cortex (PFC), but human hippocampal recordings provide a neurophysiological signature distinct from the PFC. Are these regions independent, or do they interact in the..."]
+      },
+      {
+        "title": "S1 Table",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["MTL–PFC and MTL–OFC cross-spectral directionality group model results.\nDF, degrees of freedom; FREQ, amplitude frequency; MTL, medial temporal lobe; OFC, orbitofrontal cortex; PFC, prefrontal cortex.\n(DOCX)"]
+      },
+      {
+        "title": "S2 Table",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["Local theta PAC group model results by condition and region.\n** = significant effect; bold = result of interest. DF, degrees of freedom; FREQ, amplitude frequency; PAC, phase-amplitude coupling.\n(DOCX)"]
+      },
+      {
+        "title": "S4 Table",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["MTL–OFC theta PAC group model results by condition and direction.\n** = significant effect; bold = result of interest. DF, degrees of freedom; FREQ, amplitude frequency; MTL, medial temporal lobe; OFC, orbitofrontal cortex; PAC, phase-amplitude coupling.\n(DOCX)"]
+      },
+      {
+        "title": "S3 Table",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["MTL–PFC theta PAC group model results by condition and direction.\n** = significant effect; bold = result of interest. DF, degrees of freedom; FREQ, amplitude frequency; MTL, medial temporal lobe; PAC, phase-amplitude coupling; PFC, prefrontal cortex.\n(DOCX)"]
+      },
+      {
+        "title": "S1 Fig",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["Task-induced ERPs over encoding and delay by condition.\n(A) Task-induced ERPs over encoding, precue, and postcue intervals in a representative MTL electrode (cf. Fig 2). No condition differences were observed. Black, identity trials; blue, spatiotemporal relation trials (encoding and precue delay) or spatial trials (postcue delay); teal, temporal t..."]
+      },
+      {
+        "title": "S2 Fig",
+        "tags": ["Data"],
+        "date": "Mar 2018",
+        "authors": ["Elizabeth L. Johnson", "Jenna N Adams", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["Frontal theta PAC dynamics during the postcue delay.\n(A) PAC by condition during the postcue delay in a representative PFC electrode (cf. Fig 2). The PFC showed variable, transient PAC across the spectrum of amplitude envelopes (z > 1.96, p < 0.05). No condition differences were observed. The black block indicates the amplitude data range depicted..."]
+      },
+      {
+        "title": "Lateral prefrontal cortex lesion impairs regulation of internally and externally directed attention",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Julia W.Y. Kam", "Anne‐Kristin Solbakk", "Tor Endestad", "Robert T. Knight"],
+        "abstract": ["Our capacity to flexibly shift between internally and externally directed attention is crucial for successful performance of activities in our daily lives. Neuroimaging studies have implicated the lateral prefrontal cortex (LPFC) in both internally directed processes, including autobiographical memory retrieval and future planning, and externally d..."]
+      },
+      {
+        "title": "Orbitofrontal Damage Reduces Auditory Sensory Response in Humans",
+        "tags": ["Article"],
+        "date": "Feb 2018",
+        "authors": ["Julia W.Y. Kam", "Anne‐Kristin Solbakk", "Ingrid Funderud", "Robert T. Knight"],
+        "abstract": []
+      },
+      {
+        "title": "Normal white matter microstructure in women long-term recovered from anorexia nervosa: A diffusion tensor imaging study",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Lasse Bang", "Øyvind Rø", "Tor Endestad"],
+        "abstract": ["Objectives: \nStudies point to white matter (WM) microstructure alterations in both adolescent and adult patients with anorexia nervosa (AN). These include reduced fractional anisotropy in several WM fiber tracts, suggesting reduced WM integrity. The extent to which these alterations are reversible with recovery from AN is unclear. There is a paucit..."]
+      },
+      {
+        "title": "Altered right anterior insular connectivity and loss of associated functions in adolescent chronic fatigue syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Laura Anne Wortinger", "Merete Glenne Øie", "Tor Endestad", "Vegard Bruun Wyller"],
+        "abstract": ["Impairments in cognition, pain intolerance, and physical inactivity characterize adolescent chronic fatigue syndrome (CFS), yet little is known about its neurobiology. The right dorsal anterior insular (dAI) connectivity of the salience network provides a motivational context to stimuli. In this study, we examined regional functional connectivity (..."]
+      },
+      {
+        "title": "The impact of traumatic stress on Pavlovian biases",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Olga Therese Ousdal", "Quentin J M Huys", "Anne Marita Milde", "Raymond J Dolan"],
+        "abstract": ["Background\nDisturbances in Pavlovian valuation systems are reported to follow traumatic stress exposure. However, motivated decisions are also guided by instrumental mechanisms, but to date the effect of traumatic stress on these instrumental systems remain poorly investigated. Here, we examine whether a single episode of severe traumatic stress in..."]
+      },
+      {
+        "title": "Life Threat and Sleep Disturbances in Adolescents: A Two-Year Follow-Up of Survivors From the 2011 Utøya, Norway, Terror Attack",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Janne Grønli", "Annika Melinder", "Olga Therese Ousdal", "Anne Marita Milde"],
+        "abstract": ["A significant number of adolescents have been exposed to traumatic life events. However, knowledge about the specific sleep disturbance that occurs in individuals after trauma exposure is predominantly based on studies of adults. This study reports specific sleep disturbance in 42 survivors of the 2011 mass shooting at a youth summer camp on the No..."]
+      },
+      {
+        "title": "Bidirectional Frontoparietal Oscillatory Systems Support Working Memory",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Elizabeth L. Johnson", "Callum Dewar", "Anne‐Kristin Solbakk", "Robert T. Knight"],
+        "abstract": ["The ability to represent and select information in working memory provides the neurobiological infrastructure for human cognition. For 80 years, dominant views of working memory have focused on the key role of prefrontal cortex (PFC) [1–8]. However, more recent work has implicated posterior cortical regions [9–12], suggesting that PFC engagement du..."]
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Results from all Bayesian Linear Mixed Models."]
+      },
+      {
+        "title": "Inline supplementary table 1",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Model descriptions. Syntax description of the three competing models for each of the three dependent measures. The first parenthesis describes the term of interest, where one estimates intercepts for each node or edge (node pairs).Note that for the task betas, each parameter (intercept, gain, loss, difficulty, accuracy) is hierarchically nested und..."]
+      },
+      {
+        "title": "Supplementary Material 3",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": []
+      },
+      {
+        "title": "Increased default-mode variability is related to reduced task-performance and is evident in adults with ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Insufficient suppression and connectivity of the default mode network (DMN) is a potential mediator of cognitive dysfunctions across various disorders, including attention deficit/hyperactivity disorder (ADHD). However, it remains unclear if alterations in sustained DMN suppression, variability and connectivity during prolonged cognitive engagement..."]
+      },
+      {
+        "title": "Effects of prefrontal cortex damage on emotion understanding: EEG and behavioural evidence",
+        "tags": ["Article"],
+        "date": "Feb 2017",
+        "authors": ["Anat Perry", "Samantha N Saunders", "Jennifer Stiso", "Robert T Knight"],
+        "abstract": ["Humans are highly social beings that interact with each other on a daily basis. In these complex interactions, we get along by being able to identify others' actions and infer their intentions, thoughts and feelings. One of the major theories accounting for this critical ability assumes that the understanding of social signals is based on a primord..."]
+      },
+      {
+        "title": "Threat-Detection and Attentional Bias to Threat in Women Recovered from Anorexia Nervosa: Neural Alterations in Extrastriate and Medial Prefrontal Cortices: Attentional Bias to Threat in AN",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["Lasse Bang", "Øyvind Rø", "Tor Endestad"],
+        "abstract": ["Objective: \nBehavioral studies have shown that anorexia nervosa (AN) is associated with attentional bias to general threat cues. The neurobiological underpinnings of attentional bias to threat in AN are unknown. This study investigated the neural responses associated with threat-detection and attentional bias to threat in AN.\n\nMethods: \nWe measured..."]
+      },
+      {
+        "title": "Brain volumes and regional cortical thickness in young females with anorexia nervosa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Tone Seim Fuglset", "Tor Endestad", "Eva Hilland", "Øyvind Rø"],
+        "abstract": ["Background\nAnorexia nervosa (AN) is a severe mental illness, with an unknown etiology. Magnetic resonance imaging studies show reduced brain volumes and cortical thickness in patients compared to healthy controls. However, findings are inconsistent, especially concerning the anatomical location and extent of the differences. The purpose of this stu..."]
+      },
+      {
+        "title": "Emotional conflict processing in adolescent chronic fatigue syndrome: A pilot study using functional magnetic resonance imaging",
+        "tags": ["Article"],
+        "date": "Sep 2016",
+        "authors": ["Laura Anne Wortinger", "Tor Endestad", "Annika Melinder", "Vegard Bruun Wyller"],
+        "abstract": ["Introduction: \nStudies of neurocognition suggest that abnormalities in cognitive control contribute to the pathophysiology of chronic fatigue syndrome (CFS) in adolescents, yet these abnormalities remain poorly understood at the neurobiological level. Reports indicate that adolescents with CFS are significantly impaired in conflict processing, a pr..."]
+      },
+      {
+        "title": "Correction: ERP Correlates of Proactive and Reactive Cognitive Control in Treatment-Naïve Adult ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Venke Arntsberg Grane", "Jan Ferenc Brunner", "Tor Endestad", "Anne‐Kristin Solbakk"],
+        "abstract": ["[This corrects the article DOI: 10.1371/journal.pone.0159833.]."]
+      },
+      {
+        "title": "Package Design Affects Accuracy Recognition for Medications",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Tor Endestad", "Laura A Wortinger", "Steinar Madsen", "Sigurd Hortemo"],
+        "abstract": ["Objective: \nOur aim was to test if highlighting and placement of substance name on medication package have the potential to reduce patient errors.\n\nBackground: \nAn unintentional overdose of medication is a large health issue that might be linked to medication package design. In two experiments, placement, background color, and the active ingredient..."]
+      },
+      {
+        "title": "Brain Activity in Response to Trauma-specific, Negative, and Neutral Stimuli. A fMRI Study of Recent Road Traffic Accident Survivors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Andre Sevenius Nilsen", "Ines Blix", "Siri Leknes", "Trond Heir"],
+        "abstract": ["Most studies of neuro-functional patterns in trauma-exposed individuals have been conducted considerable time after the traumatic event. Hence little is known about neuro-functional processing shortly after trauma-exposure. We investigated brain activity patterns in response to trauma reminders as well as neutral and negative stimuli in individuals..."]
+      },
+      {
+        "title": "Right temporal cortical hypertrophy in resilience to trauma: An MRI study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["André Sevenius Nilsen", "Eva Hilland", "Norunn Kogstad", "Tor Endestad"],
+        "abstract": ["Background: \nIn studies employing physiological measures such as magnetic resonance imaging (MRI), it is often hard to distinguish what constitutes risk-resilience factors to posttraumatic stress disorder (PTSD) following trauma exposure and what the effects of trauma exposure and PTSD are.\n\nObjective: \nWe aimed to investigate whether there were ob..."]
+      },
+      {
+        "title": "ERP Correlates of Proactive and Reactive Cognitive Control in Treatment-Naïve Adult ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Venke Arntsberg Grane", "Jan Ferenc Brunner", "Tor Endestad", "Anne‐Kristin Solbakk"],
+        "abstract": ["This study investigated whether treatment naïve adults with Attention Deficit Hyperactivity Disorder (ADHD; n = 33; 19 female) differed from healthy controls (n = 31; 17 female) in behavioral performance, event-related potential (ERP) indices of preparatory attention (CueP3 and late CNV), and reactive response control (Go P3, NoGo N2, and NoGo P3)..."]
+      },
+      {
+        "title": "Aberrant Resting-State Functional Connectivity in the Salience Network of Adolescent Chronic Fatigue Syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Laura Anne Wortinger", "Tor Endestad", "Annika Melinder", "Vegard Bruun Wyller"],
+        "abstract": ["Neural network investigations are currently absent in adolescent chronic fatigue syndrome (CFS). In this study, we examine whether the core intrinsic connectivity networks (ICNs) are altered in adolescent CFS patients. Eighteen adolescent patients with CFS and 18 aged matched healthy adolescent control subjects underwent resting-state functional ma..."]
+      },
+      {
+        "title": "Normal gray matter volumes in women recovered from anorexia nervosa: A voxel-based morphometry study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Lasse Bang", "Øyvind Rø", "Tor Endestad"],
+        "abstract": ["Background: \nAnorexia nervosa (AN) has consistently been associated with reduced gray (GM) and white matter (WM) brain volumes. It is unclear whether GM alterations are present following recovery from AN, as previous findings are inconsistent. The aim of the present study was to determine if women recovered from AN exhibit reduced global or regiona..."]
+      },
+      {
+        "title": "The Influence of Methylphenidate on Brain Processes During Decision-Making in Adults with ADHD",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Sigurd Ziegler", "Guido Biele"],
+        "abstract": ["Background: ADHD is associated with diminished dopamine function, and treatment with methylphenidate (MPH) is thought to alleviate this dysfunction. On a functional level, dopamine is consistently implicated in decision-making (DM) mechanisms, including reinforcement learning and choice. Given dopamine’s role in both ADHD and DM, DM deficits in ADH..."]
+      },
+      {
+        "title": "Rehabilitation of Executive Functions in Patients with Chronic Acquired Brain Injury with Goal Management Training, External Cuing, and Emotional Regulation: A Randomized Controlled Trial",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Sveinung Tornås", "Marianne Løvstad", "Anne‐Kristin Solbakk", "Jan Stubberud"],
+        "abstract": ["Executive dysfunction is a common consequence of acquired brain injury (ABI), causing significant disability in daily life. This randomized controlled trial investigated the efficacy of Goal Management Training\nTM\n(GMT) in improving executive functioning in patients with chronic ABI. Seventy patients with a verified ABI and executive dysfunction we..."]
+      },
+      {
+        "title": "Amygdala alterations during an emotional conflict task in women recovered from anorexia nervosa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Lasse Bang", "Øyvind Rø", "Tor Endestad"],
+        "abstract": ["The pathophysiology of anorexia nervosa (AN) is not completely understood, but research suggests that alterations in brain circuits related to cognitive control and emotion are central. The aim of this study was to explore neural responses to an emotional conflict task in women recovered from AN. Functional magnetic resonance imaging was used to me..."]
+      },
+      {
+        "title": "Evidence Accumulation and Choice Maintenance Are Dissociated in Human Perceptual Decision Making",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Mads Lund Pedersen", "Tor Endestad", "Guido Biele"],
+        "abstract": ["Perceptual decision making in monkeys relies on decision neurons, which accumulate evidence and maintain choices until a response is given. In humans, several brain regions have been proposed to accumulate evidence, but it is unknown if these regions also maintain choices. To test if accumulator regions in humans also maintain decisions we compared..."]
+      },
+      {
+        "title": "The effects of methylphenidate on brain procesess during cost/benefit decision making",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Sigurd Ziegler", "Guido Biele"],
+        "abstract": ["Objectives\nAttention Deficit/Hyperactivity Disorder (ADHD) is commonly treated with the central stimulant methylphenidate (MPH). MPH affects the dopamine (DA) system of the brain, which is also involved in decision-making (DM). Despite clear theoretical and empirical indications for DM problems in adults with ADHD, current understanding of the invo..."]
+      },
+      {
+        "title": "Patients with focal cerebellar lesions show reduced auditory cortex activation during silent reading",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Torgeir Moberget", "Eva Hilland", "Stein Andersson", "Tor Endestad"],
+        "abstract": []
+      },
+      {
+        "title": "Functional connectivity indicates differential roles for the intraparietal sulcus and the superior parietal lobule in multiple object tracking",
+        "tags": ["Article"],
+        "date": "Aug 2015",
+        "authors": ["Dag Alnæs", "Markus Handal Sneve", "Genevieve Richard", "Lars T Westlye"],
+        "abstract": ["Attentive tracking requires sustained object-based attention, rather than passive vigilance or rapid attentional shifts to brief events. Several theories of tracking suggest a mechanism of indexing objects that allows for attentional resources to be directed toward the moving targets. Imaging studies have shown that cortical areas belonging to the..."]
+      },
+      {
+        "title": "Associations Between Executive Functions and Long-Term Stress Reactions After Extreme Trauma: A Two-Year Follow-Up of the Utøya Survivors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Annika Melinder", "Else-Marie Augusti", "Martin Matre", "Tor Endestad"],
+        "abstract": ["Terror attacks cause variation in everyday functioning across several domains. This paper focuses on the individual long-term costs in terms of clinical symptoms and cognitive (e.g., shifting, inhibition, and spatial working memory) difficulties associated with these symptoms in 24 survivors of a terror attack in Norway. Another 24 controls were in..."]
+      },
+      {
+        "title": "The Neural Basis of Risky Choice with Affective Outcomes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Renata S Suter", "Thorsten Pachur", "Ralph Hertwig", "Guido Biele"],
+        "abstract": ["Both normative and many descriptive theories of decision making under risk are based on the notion that outcomes are weighted by their probability, with subsequent maximization of the (subjective) expected outcome. Numerous investigations from psychology, economics, and neuroscience have produced evidence consistent with this notion. However, this..."]
+      },
+      {
+        "title": "Attentional load modulates large-scale functional brain connectivity beyond the core attention networks",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Dag Alnæs", "Tobias Kaufmann", "Genevieve Richard", "Lars T Westlye"],
+        "abstract": ["In line with the notion of a continuously active and dynamic brain, functional networks identified during rest correspond with those revealed by task-fMRI. Characterizing the dynamic cross-talk between these network nodes is key to understanding the successful implementation of effortful cognitive processing in healthy individuals and its breakdown..."]
+      },
+      {
+        "title": "Attentional Control and Subjective Executive Function in Treatment-Naive Adults with Attention Deficit Hyperactivity Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Venke Arntsberg Grane", "Tor Endestad", "Arnfrid Farbu Pinto", "Anne‐Kristin Solbakk"],
+        "abstract": ["We investigated performance-derived measures of executive control, and their relationship with self- and informant reported executive functions in everyday life, in treatment-naive adults with newly diagnosed Attention Deficit Hyperactivity Disorder (ADHD; n = 36) and in healthy controls (n = 35). Sustained attentional control and response inhibiti..."]
+      },
+      {
+        "title": "Short-term retention of visual information: Evidence in support of feature-based attention as an underlying mechanism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Markus Handal Sneve", "Kartik Sreenivasan", "Dag Alnæs", "Svein Magnussen"],
+        "abstract": ["Retention of features in visual short-term memory (VSTM) involves maintenance of sensory traces in early visual cortex. However, the mechanism through which this is accomplished is not known. Here, we formulate specific hypotheses derived from studies on feature-based attention to test the prediction that visual cortex is recruited by attentional m..."]
+      },
+      {
+        "title": "Insomnia and nightmares and associations with PTSD and depressive symptoms among the survivors from the Norwegian terror 22/7 2011 attack on Utoya",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2014",
+        "authors": ["Janne Grønli", "Olga Therese Ousdal", "Annika Melinder", "Anne Marita Milde"],
+        "abstract": []
+      },
+      {
+        "title": "Reduced globus pallidus volumes following focal cerebellar lesions in humans",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Torgeir Moberget", "Andreea C Bostan", "Tryggve Lundar", "Lars T Westlye"],
+        "abstract": ["Background / Purpose: \n\nThe aim of the present study was to investigate basal ganglia volumes in patients with focal cerebellar lesions using comprehensive MRI-based morphometric analyses.\n\nMain conclusion: \n\nAcross two segmentation procedures, we found significant reductions of bilateral globus pallidus volumes following surgical resections of cer..."]
+      },
+      {
+        "title": "Pupil size signals mental effort deployed during multiple object tracking and predicts brain activity in the dorsal attention network and the locus coeruleus",
+        "tags": ["Article"],
+        "date": "Apr 2014",
+        "authors": ["Dag Alnæs", "Markus Handal Sneve", "Thomas Espeseth", "Bruno Laeng"],
+        "abstract": ["Attentional effort relates to the allocation of limited-capacity attentional resources to meet current task demands and involves the activation of top-down attentional systems in the brain. Pupillometry is a sensitive measure of this intensity aspect of top-down attentional control. Studies relate pupillary changes in response to cognitive processi..."]
+      },
+      {
+        "title": "Generalized Role for the Cerebellum in Encoding Internal Models: Evidence from Semantic Processing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Torgeir Moberget", "Eva Hilland", "Stein Andersson", "Tor Endestad"],
+        "abstract": ["The striking homogeneity of cerebellar microanatomy is strongly suggestive of a corresponding uniformity of function. Consequently, theoretical models of the cerebellum's role in motor control should offer important clues regarding cerebellar contributions to cognition. One such influential theory holds that the cerebellum encodes internal models,..."]
+      },
+      {
+        "title": "journal of neuroscience",
+        "tags": ["Article"],
+        "date": "Feb 2014",
+        "authors": ["Torgeir Moberget", "Eva Hilland", "Stein Andersson", "Tor Endestad"],
+        "abstract": ["The striking homogeneity of cerebellar microanatomy is strongly suggestive of a corresponding uniformity of function. Consequently, theoretical models of the cerebellum's role in motor control should offer important clues regarding cerebellar contributions to cognition. One such influential theory holds that the cerebellum encodes internal models,..."]
+      },
+      {
+        "title": "Effects of peripubertal gonadotropin-releasing hormone agonist on brain development in sheep – A magnetic resonance imaging study [Psychoneuroendocrinology 38 (10) (2013) 1994–2002]",
+        "tags": ["Article"],
+        "date": "Feb 2014",
+        "authors": ["Syed Nuruddin", "Muriel Bruchhage", "Erik Ropstad", "Ira Ronit Hebold Haraldsen"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "bio": "Tor Endestad currently works at the Department of Psychology, University of Oslo. He works in FRONT neurolab doing lesion and intracranial EEG studies. Currently member of RITMO the new center of excellence at the University of Oslo.",
+    "publications": [148],
+    "reads": [28722],
+    "citations": [2937]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Julian Johnsen",
-    "id": "DGu1jh8AAAAJ",
-    "affiliation": "University of Bergen",
+    "name": ["Julian Johnsen"],
+    "id": ["DGu1jh8AAAAJ"],
+    "affiliation": ["University of Bergen"],
     "data": {
       "publications": [
         {
@@ -430,11 +430,21 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Julianne Johnsen",
-    "id": "1539942",
+    "name": ["Julianne Johnsen"],
+    "id": ["1539942"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Le-Mauff-Julianne",
+    "name": "Le Mauff Julianne",
+    "img": "https://i1.rgstatic.net/ii/profile.image/596011424681984-1519111605195_Q128/Le-Mauff-Julianne.jpg",
+    "affiliation": "Université de Caen Normandie | UNICAEN, Université de Caen Normandie, Institut Universitaire de Technologie de Caen",
+    "keywords": ["Economy", "Economic Analysis"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

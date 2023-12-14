@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Agnes Karine Andenæs",
-    "id": "11747",
+    "name": ["Agnes Karine Andenæs"],
+    "id": ["11747"],
     "keywords": [],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/11747/picture",
+    "img": ["https://api.cristin.no/v2/persons/11747/picture"],
     "works": [
       {
         "type": "Feature article",
@@ -33,15 +33,15 @@
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "Expanding notions of family-based care for unaccompanied refugee minors? An exploration of relational negotiations between foster parents and unaccompanied foster children in Norway ",
-        "url": "https://api.cristin.no/v2/results/1917661"
+        "url": "https://api.cristin.no/v2/results/1917661",
+        "title": "Expanding notions of family-based care for unaccompanied refugee minors? An exploration of relational negotiations between foster parents and unaccompanied foster children in Norway "
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "“Yes, There Is Actually Hope!”—A Qualitative Investigation of How Patients Experience Mentalization-Based Psychoeducation Tailored for Borderline Personality Disorder",
         "journal": "Journal of psychotherapy integration",
-        "url": "https://api.cristin.no/v2/results/1837382"
+        "url": "https://api.cristin.no/v2/results/1837382",
+        "title": "“Yes, There Is Actually Hope!”—A Qualitative Investigation of How Patients Experience Mentalization-Based Psychoeducation Tailored for Borderline Personality Disorder"
       },
       {
         "type": "Reader opinion piece",
@@ -57,9 +57,9 @@
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "‘Discuss it with your legal guardian’: Challenges in practising care for young unaccompanied refugee minors",
         "journal": "Child & Family Social Work",
-        "url": "https://api.cristin.no/v2/results/1853203"
+        "url": "https://api.cristin.no/v2/results/1853203",
+        "title": "‘Discuss it with your legal guardian’: Challenges in practising care for young unaccompanied refugee minors"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -69,21 +69,21 @@
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "‘Do you need to talk to someone?’ – Professionalising and outsourcing dialogues about psychological pain at residential care institutions for unaccompanied asylum-seeking young people",
-        "url": "https://api.cristin.no/v2/results/1718791"
+        "url": "https://api.cristin.no/v2/results/1718791",
+        "title": "‘Do you need to talk to someone?’ – Professionalising and outsourcing dialogues about psychological pain at residential care institutions for unaccompanied asylum-seeking young people"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Peer relationships at residential care institutions for unaccompanied refugee minors: An under-utilised resource?",
         "journal": "Qualitative Social Work",
-        "url": "https://api.cristin.no/v2/results/1718777"
+        "url": "https://api.cristin.no/v2/results/1718777",
+        "title": "Peer relationships at residential care institutions for unaccompanied refugee minors: An under-utilised resource?"
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Workshop: Investigating parenthood for young teenagers – background, theoretical perspectives and empirical examples",
-        "url": "https://api.cristin.no/v2/results/1708946"
+        "url": "https://api.cristin.no/v2/results/1708946",
+        "title": "Workshop: Investigating parenthood for young teenagers – background, theoretical perspectives and empirical examples"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -108,15 +108,15 @@
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Negotiating developmental projects: Unaccompanied Afghan refugee boys in Norway",
         "journal": "Childhood",
-        "url": "https://api.cristin.no/v2/results/1486405"
+        "url": "https://api.cristin.no/v2/results/1486405",
+        "title": "Negotiating developmental projects: Unaccompanied Afghan refugee boys in Norway"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2017",
-        "title": "Sharing Early Care: Learning from Practitioners",
-        "url": "https://api.cristin.no/v2/results/1559640"
+        "url": "https://api.cristin.no/v2/results/1559640",
+        "title": "Sharing Early Care: Learning from Practitioners"
       },
       {
         "type": "Article in business/trade/industry journal",
@@ -133,30 +133,30 @@
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Parents in high-conflict custodial cases: negotiating shared care across households",
         "journal": "Child & Family Social Work",
-        "url": "https://api.cristin.no/v2/results/1299701"
+        "url": "https://api.cristin.no/v2/results/1299701",
+        "title": "Parents in high-conflict custodial cases: negotiating shared care across households"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Parental regulation of infant sleep: Round-the-clock efforts for social synchronization",
         "journal": "Infant Mental Health Journal",
-        "url": "https://api.cristin.no/v2/results/1364942"
+        "url": "https://api.cristin.no/v2/results/1364942",
+        "title": "Parental regulation of infant sleep: Round-the-clock efforts for social synchronization"
       },
       {
         "type": "Editorial",
         "year": "2015",
-        "title": "Deconstructing Developmental Psychology 20 years on: Reflections, implications and empirical work",
         "journal": "Feminism and Psychology",
-        "url": "https://api.cristin.no/v2/results/1322118"
+        "url": "https://api.cristin.no/v2/results/1322118",
+        "title": "Deconstructing Developmental Psychology 20 years on: Reflections, implications and empirical work"
       },
       {
         "type": "Academic article",
         "year": "2014",
-        "title": "Images of Children in Views on Same-Sex Adoption Rights",
         "journal": "Journal of GLBT Family Studies",
-        "url": "https://api.cristin.no/v2/results/1224190"
+        "url": "https://api.cristin.no/v2/results/1224190",
+        "title": "Images of Children in Views on Same-Sex Adoption Rights"
       },
       {
         "type": "Academic article",
@@ -167,15 +167,15 @@
       {
         "type": "Academic article",
         "year": "2014",
-        "title": "The task of taking care of children: Methodological perspectives and empirical implications",
         "journal": "Child & Family Social Work",
-        "url": "https://api.cristin.no/v2/results/1166144"
+        "url": "https://api.cristin.no/v2/results/1166144",
+        "title": "The task of taking care of children: Methodological perspectives and empirical implications"
       },
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "Sharing care for small children: Learning from practitioners",
-        "url": "https://api.cristin.no/v2/results/1164850"
+        "url": "https://api.cristin.no/v2/results/1164850",
+        "title": "Sharing care for small children: Learning from practitioners"
       },
       {
         "type": "Lecture",
@@ -205,8 +205,8 @@
       {
         "type": "Academic lecture",
         "year": "2013",
-        "title": "Details matter. Practises of parenting in same-gendered famiies challenging ideas about sharing",
-        "url": "https://api.cristin.no/v2/results/1105658"
+        "url": "https://api.cristin.no/v2/results/1105658",
+        "title": "Details matter. Practises of parenting in same-gendered famiies challenging ideas about sharing"
       },
       {
         "type": "Popular scientific article",
@@ -222,16 +222,16 @@
       {
         "type": "Academic article",
         "year": "2013",
-        "title": "'Heading for Japan': Prospective narratives and development among young people living in residential care",
         "journal": "Qualitative Social Work",
-        "url": "https://api.cristin.no/v2/results/1044078"
+        "url": "https://api.cristin.no/v2/results/1044078",
+        "title": "'Heading for Japan': Prospective narratives and development among young people living in residential care"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "The task of taking care of children: methodologicalperspectives and empirical implications",
         "journal": "Child & Family Social Work",
-        "url": "https://api.cristin.no/v2/results/998901"
+        "url": "https://api.cristin.no/v2/results/998901",
+        "title": "The task of taking care of children: methodologicalperspectives and empirical implications"
       },
       {
         "type": "Academic lecture",
@@ -241,14 +241,14 @@
       {
         "type": "Academic lecture",
         "year": "2012",
-        "title": "The child as a shared enterprise: same-gendered couples constructing family life",
-        "url": "https://api.cristin.no/v2/results/998804"
+        "url": "https://api.cristin.no/v2/results/998804",
+        "title": "The child as a shared enterprise: same-gendered couples constructing family life"
       },
       {
         "type": "Academic lecture",
         "year": "2012",
-        "title": "How to understand day care for small children: a threat to children's emotional development, a factor with educational effects, an arena for screening, or a link i parents' chain of care?",
-        "url": "https://api.cristin.no/v2/results/998782"
+        "url": "https://api.cristin.no/v2/results/998782",
+        "title": "How to understand day care for small children: a threat to children's emotional development, a factor with educational effects, an arena for screening, or a link i parents' chain of care?"
       },
       {
         "type": "Popular scientific lecture",
@@ -258,8 +258,8 @@
       {
         "type": "Academic lecture",
         "year": "2012",
-        "title": "Exploring everyday life. Human development within a cultural psychology perspective",
-        "url": "https://api.cristin.no/v2/results/940462"
+        "url": "https://api.cristin.no/v2/results/940462",
+        "title": "Exploring everyday life. Human development within a cultural psychology perspective"
       },
       {
         "type": "Academic article",
@@ -270,9 +270,9 @@
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "From 'placement' to 'a child on the move'. Methodological strategies to give children a more central position in Child Welfare Service",
         "journal": "Qualitative Social Work",
-        "url": "https://api.cristin.no/v2/results/841636"
+        "url": "https://api.cristin.no/v2/results/841636",
+        "title": "From 'placement' to 'a child on the move'. Methodological strategies to give children a more central position in Child Welfare Service"
       },
       {
         "type": "Academic lecture",
@@ -287,15 +287,15 @@
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "More to share and more sharing",
-        "url": "https://api.cristin.no/v2/results/841654"
+        "url": "https://api.cristin.no/v2/results/841654",
+        "title": "More to share and more sharing"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "title": "Chains of care: Organising the everyday life of young children attending day care",
         "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/841633"
+        "url": "https://api.cristin.no/v2/results/841633",
+        "title": "Chains of care: Organising the everyday life of young children attending day care"
       },
       {
         "type": "Academic lecture",
@@ -316,8 +316,8 @@
       {
         "type": "Academic lecture",
         "year": "2009",
-        "title": "Chains of care: Organising the everyday life of small children attending day care",
-        "url": "https://api.cristin.no/v2/results/256269"
+        "url": "https://api.cristin.no/v2/results/256269",
+        "title": "Chains of care: Organising the everyday life of small children attending day care"
       },
       {
         "type": "Book review",
@@ -346,9 +346,9 @@
       {
         "type": "Academic article",
         "year": "2005",
-        "title": "Neutral claims – gendered meanings. Parenthood and developmental psychology in a modern welfare state",
         "journal": "Feminism and Psychology",
-        "url": "https://api.cristin.no/v2/results/344403"
+        "url": "https://api.cristin.no/v2/results/344403",
+        "title": "Neutral claims – gendered meanings. Parenthood and developmental psychology in a modern welfare state"
       },
       {
         "type": "Academic article",
@@ -422,8 +422,8 @@
       {
         "type": "Interview",
         "year": "1998",
-        "title": "Care and the responsibilities for children - creating the life of women creating themselves. Manuscript",
-        "url": "https://api.cristin.no/v2/results/267916"
+        "url": "https://api.cristin.no/v2/results/267916",
+        "title": "Care and the responsibilities for children - creating the life of women creating themselves. Manuscript"
       },
       {
         "type": "Feature article",
@@ -439,9 +439,9 @@
       {
         "type": "Academic article",
         "year": "1997",
-        "title": "Theories of development from the perspective of the children, their parents and the scientists",
         "journal": "Researching Early Childhood",
-        "url": "https://api.cristin.no/v2/results/338576"
+        "url": "https://api.cristin.no/v2/results/338576",
+        "title": "Theories of development from the perspective of the children, their parents and the scientists"
       },
       {
         "type": "Article in business/trade/industry journal",
@@ -481,8 +481,8 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "1993",
-        "title": "When parents are living apart. Challanges and solutions for children with two homes",
-        "url": "https://api.cristin.no/v2/results/75564"
+        "url": "https://api.cristin.no/v2/results/75564",
+        "title": "When parents are living apart. Challanges and solutions for children with two homes"
       },
       {
         "type": "Academic article",
@@ -541,5 +541,25 @@
         "url": "https://api.cristin.no/v2/results/338574"
       }
     ]
+  },
+  "rg": {
+    "id": "Bulabois-Karine-2",
+    "name": "Bulabois Karine",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Université de Vincennes  Paris 8 | UP8, Université de Vincennes  Paris 8, Department of Psychology",
+    "keywords": ["Health"],
+    "works": [
+      {
+        "title": "Adequacy of care management of patients with polyhandicap: The features of the French healthcare system",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Marie-Christine C Rousseau", "Bulabois Karine", "V. Maria", "P. Auquier"],
+        "abstract": "Introduction/Background\nThe aims of this study were:\n–to describe the health profiles and care management of polyhandicapped patients according to 3 modalities specialized rehabilitation centers (SRC), residential facilities (RF), and home care (HC);\n–to estimate the adequacy of care management of these patients.\n\nMaterial and method\nThis was an 18..."
+      }
+    ],
+    "degree": [null],
+    "publication": [1],
+    "reads": [8],
+    "citations": [0]
   }
 }

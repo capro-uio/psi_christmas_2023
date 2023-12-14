@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-2181-7928",
-    "name": "Ingerd Skow Hofgaard",
+    "orcid": ["0000-0003-2181-7928"],
+    "name": ["Ingerd Skow Hofgaard"],
     "distinctions": [],
     "education": [
       {
@@ -200,8 +200,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Live Skow Hofgaard",
-    "id": "1159016",
+    "name": ["Live Skow Hofgaard"],
+    "id": ["1159016"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -224,23 +224,58 @@
       {
         "type": "Feature article",
         "year": "2022",
-        "journal": "Forskersonen.no",
-        "url": "https://api.cristin.no/v2/results/1980275"
+        "url": "https://api.cristin.no/v2/results/1980275",
+        "journal": "Forskersonen.no"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Psycho-social factors associated with mental resilience in the Corona lockdown",
+        "url": "https://api.cristin.no/v2/results/1926094",
         "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1926094"
+        "title": "Psycho-social factors associated with mental resilience in the Corona lockdown"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Introducing two types of psychological resilience with partly unique genetic and environmental sources",
+        "url": "https://api.cristin.no/v2/results/1908519",
         "journal": "Scientific Reports",
-        "url": "https://api.cristin.no/v2/results/1908519"
+        "title": "Introducing two types of psychological resilience with partly unique genetic and environmental sources"
       }
     ]
+  },
+  "rg": {
+    "id": "Live-Hofgaard-2",
+    "name": "Live Skow Hofgaard",
+    "img": "https://i1.rgstatic.net/ii/profile.image/671467230470146-1537101671303_Q128/Live-Hofgaard-2.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Counseling", "Psychoeducation", "Cross Cultural Psychology", "Psychotherapeutic Processes", "Group Dynamics", "Cognitive Psychology", "Developmental Psychology", "Psychological Resilience", "Cultural Psychology", "Social Psychology"],
+    "works": [
+      {
+        "title": "Introducing two types of psychological resilience with partly unique genetic and environmental sources",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Live Skow Hofgaard", "Ragnhild Bang Nes", "Espen Røysamb"],
+        "abstract": ["Psychological resilience is indicated when individuals demonstrate good mental health despite exposure to significant stress or adversity. Good mental health may involve low levels of illbeing and/or high levels of wellbeing. There is still very limited knowledge about the potential differences between these outcomes in relation to stressors. We pr..."]
+      },
+      {
+        "title": "Psycho-social factors associated with mental resilience in the Corona lockdown",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Ilya M. Veer", "Antje Riepenhausen", "Matthias Zerban", "Raffael Kalisch"],
+        "abstract": ["Abstract The SARS-CoV-2 pandemic is not only a threat to physical health but is also having severe impacts on mental health. Although increases in stress-related symptomatology and other adverse psycho-social outcomes, as well as their most important risk factors have been described, hardly anything is known about potential protective factors. Resi..."]
+      },
+      {
+        "title": "Psycho-social factors associated with mental resilience in the Corona lockdown",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Ilya M. Veer", "Antje Riepenhausen", "Matthias Zerban", "Raffael Kalisch"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Cand.psychol.", "(Clinical", "Psychologist)"],
+    "bio": [],
+    "publications": [3],
+    "reads": [1800],
+    "citations": [195]
   }
 }

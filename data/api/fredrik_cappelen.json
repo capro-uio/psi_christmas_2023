@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Fredrik Cappelen",
-    "id": "1021837",
+    "name": ["Fredrik Cappelen"],
+    "id": ["1021837"],
     "keywords": [],
     "position": ["University lecturer", "Research Scientist"],
     "img": {},
@@ -45,5 +45,15 @@
         "url": "https://api.cristin.no/v2/results/1640779"
       }
     ]
+  },
+  "rg": {
+    "id": "Fredrik-Cappelen-4",
+    "name": "Fredrik Cappelen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/705268056858626-1545160416859_Q128/Fredrik-Cappelen-4.jpg",
+    "affiliation": "Norwegian University of Science and Technology | NTNU, Norwegian University of Science and Technology, Department of Materials Science and Engineering",
+    "keywords": ["Mechanical Properties", "Mechanical Testing", "Materials Processing", "Materials Technology"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

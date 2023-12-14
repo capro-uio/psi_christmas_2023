@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Kjell Johan Håseth",
-    "id": "21652",
+    "name": ["Kjell Johan Håseth"],
+    "id": ["21652"],
     "keywords": ["Psychological treatment", "Aggression", "Behaviour", "Phobia", "Psychometrics", "Compulsive disorder"],
     "position": ["Emeritus"],
     "img": {},
@@ -18,8 +18,8 @@
         "type": "Academic article",
         "year": "2005",
         "title": "Stress in the Norwegian police service",
-        "journal": "Occupational Medicine",
-        "url": "https://api.cristin.no/v2/results/418797"
+        "url": "https://api.cristin.no/v2/results/418797",
+        "journal": "Occupational Medicine"
       },
       {
         "type": "Academic monograph",
@@ -33,5 +33,411 @@
         "url": "https://api.cristin.no/v2/results/71414"
       }
     ]
+  },
+  "rg": {
+    "id": "Kjell-Saebo-2",
+    "name": "Kjell Johan Sæbø",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279394162626569-1443624167795_Q128/Kjell-Saebo-2.jpg",
+    "affiliation": "University of Oslo, Department of Literature Area Studies and European Languages",
+    "keywords": ["Semantics", "Pragmatics"],
+    "works": [
+      {
+        "title": "Anankastic Conditionals: “If You Want to Go to Harlem, …”",
+        "tags": ["Chapter"],
+        "date": "Dec 2020",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["This chapter sets out the peculiarities of the type of complex sentence that has become known as anankastic conditionals ( α ν α ´ γ κ η = ‘necessity’) and the ways in which these conditionals have been analyzed in the literature. On the surface, they seem to express that wanting one thing is a sufficient condition for another thing being necessary..."]
+      },
+      {
+        "title": "The explicative genitive and close apposition",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["The genitive in languages like Czech, German, Japanese or Latin is notoriously multiply ambiguous. Some senses (partitive, possessive, relational, objective) are more or less well-studied, but one, in particular, is understudied: the explicative genitive (also called the genitive of apposition or of definition). I discuss this genitive across sever..."]
+      },
+      {
+        "title": "To Finish in German and Mainland Scandinavian: Telicity and Incrementality",
+        "tags": ["Article"],
+        "date": "Mar 2019",
+        "authors": ["Alexandra Anna Spalek", "Kjell Johan Sæbø"],
+        "abstract": ["Among the words that describe initial or final parts of events, words describing finishing stand out in a number of ways: in a language like English, there is a transitive verb which is singularly flexible regarding the type of event retrievable from the context; in a language like German, there is no verb but there is a verbal particle; in either..."]
+      },
+      {
+        "title": "15, Adverbial clauses",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Adverbial clauses are subordinate clauses that modify their superordinate clauses. This modification can occur at various levels (such as verb phrase, tense phrase, mood phrase) and in various dimensions (such as times and worlds) and ways. These variations give rise to a categorization of adverbial clauses (temporal, modal, ...) and a subcategoriz..."]
+      },
+      {
+        "title": "\"By\": A vindication of the Anscombe thesis",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Invited lecture at the international conference Cognitive Structures 2018 at the Heinrich-Heine-Universität Düsseldorf"]
+      },
+      {
+        "title": "Subjunctives in extensional contexts",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Efforts to unify, in Quer’s (1998) terms, intensional and polarity subjunctives prove problematic. Both the strategy of saying that intensional subjunctives are more generally sensitive to non-veridicality and the strategy of saying that polarity subjunctives are sensitive to intensionality face empirical problems.\nThe alternative strategy of posit..."]
+      },
+      {
+        "title": "Linguistic evidence on whether the meaning of know how to is invariably a function of the meanings of its parts",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Armed with a theory of \"how\" questions, I tried to determine to what extent the meaning of \"know how to\" is in fact compositional."]
+      },
+      {
+        "title": "You don’t know what you have until you lose it: what /lu:z/ can tell us about /hæv/",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["The ‘folk theory’ about “lose” – that it means to stop having – and the facts of the matter can be accommodated to different degrees in different theories about “have”. On the whole, the most amenable theory seems to be the theory of Bassaganyas-Bars (2017), ahead of the theories of Le Bruyn, de Swart and Zwarts (2016), Myler (2016) and Sæbø (2009)..."]
+      },
+      {
+        "title": "Speech acts embed: evidence from verba dicendi",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Building on Krifka (2014) and especially on Kratzer (2016), I supply new evidence for the hypothesis that embedded clauses, in particular German V2 clauses, can express properties of speech acts. Specifically, I argue from verbs that oscillate between reporting illocutions only or also locutions (so-called behabitives (Austin 1962: 160) or verbs of..."]
+      },
+      {
+        "title": "Subjective content at sole issue",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["On the picture of projective content drawn by Beaver, Roberts, Simons and Tonhauser (2017), a content projects just in case it is not at-issue and it is at-issue just in case it excludes some answer to the Question under Discussion (QUD). Taken to an extreme, this means that definedness conditions are sensitive to discourse structure, so we might h..."]
+      },
+      {
+        "title": "“How” questions and the manner–method distinction",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["How questions are understudied in philosophy and linguistics. They can be answered in very different ways, some of which are poorly understood. Jaworski (Synthese 166:133–155, 2009) identifies several types: (i) ‘manner’, (ii) ‘method, means or mechanism’, (iii) ‘cognitive resolution’, and develops a logic designed to enable us to distinguish among..."]
+      },
+      {
+        "title": "Information Structure and Presupposition",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["This article surveys and discusses the core points of contact between notions of information structure and notions of presupposition. Section 1 is devoted to the ‘weak’ presuppositional semantics for focus developed by Mats Rooth, describing its properties with regard to verification and accommodation and showing that it can successfully account fo..."]
+      },
+      {
+        "title": "Irrealis mood and negation",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["I survey recent observations and proposals about irrealis mood and its relationship with so-called light negation."]
+      },
+      {
+        "title": "Adjectives and determiners of distribution",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["I try to adjudicate between two theories about the frequency adjectives ”occasional”, ”odd” and ”rare”: one, Zimmermann (2003), where the article and the adjective form a complex determiner, and another, Gehrke and McNally (2015), where the adjective and the noun form a complex noun, as usual. I adduce facts from Scandinavian, where the closest cou..."]
+      },
+      {
+        "title": "Lessons from Descriptive Indexicals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Two main methods for analysing de re readings of definite descriptions in intensional contexts coexist: that of evaluating\nthe description in the actual world, whether by means of scope, actuality operators, or non-local world binding, and that\nof substituting another description, usually one expressing a salient or ‘vivid’ acquaintance relation to..."]
+      },
+      {
+        "title": "Comitative coordination of adjectives",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Handout for presentation at the 2015 SynSem workshop at Sevletunet, Numedal"]
+      },
+      {
+        "title": "Do You Know What it Means to Miss New Orleans? More on Missing",
+        "tags": ["Chapter"],
+        "date": "Jan 2014",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["This chapter elaborates on the idea that reference to and quantification over individual concepts under Aloni's conceptual covers can help model unspecific readings of descriptions and quantifiers combining with missing , in particular, by defending a naive analysis. In addition to the readings that Zimmermann (seriously) considers, there is the re..."]
+      },
+      {
+        "title": "Two Roads to Remote Relatives",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["So-called relative clauses (or relative constructions) of the third kind, commonly referred to as amount or degree relatives, remain puzzling, descriptively and theoretically. Broadening the empirical scope of the phenomenon, I consider two alternative strategies for dealing with it, one based on type lifting and the other on decomposition and elli..."]
+      },
+      {
+        "title": "“New”: an analysis",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["The modifier ”new” gives rise to intriguing interpretations, some of them reminiscent of the intrasentential context dependence found in implicit domain restriction with different kinds of quantifiers or the superlative. I give an analysis where the adjective stem maps an implicitly modified (or even itself implicit) noun onto a measure relation co..."]
+      },
+      {
+        "title": "“Alone”: an analysis",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Carlos Cisneros", "Tim Grinsell", "Julian Grove", "Anqi Zhang"],
+        "abstract": ["This is the tangible result of a graduate class at the University of Chicago in autumn 2013: Collaborative Semantics. We developed a theory of the adjective ”alone” and its counterparts in some other languages, including Russian and Chinese."]
+      },
+      {
+        "title": "Reports of Specific Indefinites",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Utterances of sentences with an indefinite can sometimes be reported with a referential term instead, notably if the indefinite\nwas ‘specific’ but a referential term would not have been appropriate in the original utterance situation. This motivates\na reassessment of indefinites and of speech reports. Under the proposed analyses, specific indefinit..."]
+      },
+      {
+        "title": "A, The, Another: A Game of Same and Different",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Atle Grønn", "Kjell Johan Sæbø"],
+        "abstract": ["Indefinites face competition at two levels: Presupposition and content. The antipresupposition hypothesis predicts that they signal the opposite of familiarity, or uniqueness, namely, novelty, or non-uniqueness. At the level of descriptive content, they are pressured from two sides: definites expressing identity and another phrases expressing diffe..."]
+      },
+      {
+        "title": "Closed adjuncts: degrees of pertinence",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Sep 2012",
+        "authors": ["Cathrine Fabricius-Hansen", "Dag T.T. Haug", "Kjell Johan Sæbø"],
+        "abstract": ["In chapter 1, a distinction was made between open and closed adjuncts, where open adjuncts are basically predicates whereas closed adjuncts are basically (non-finite) clauses. The present chapter provides a descriptive and theoretical account of the latter class of adjuncts, the closed ones,\nwith an emphasis on the semantic aspects of their build a..."]
+      },
+      {
+        "title": "Behabitive Reports",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Cathrine Fabricius-Hansen", "Kjell Johan Sæbø"],
+        "abstract": ["\"Behabitives\" (Austin 1962: 160), or \"verbs of judging\" (Fillmore 1971b: 273), like \"praise\" or \"criticize\", are illocutionary verbs, reporting certain speech acts. But can they also be locutionary verbs, quotation verbs, reporting speech? Yes they can. This object/content oscillation in verbs of judging, behabitives, has interesting implications -..."]
+      },
+      {
+        "title": "Appositives in Modal Contexts",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["It has recently been argued (by Harris and Potts, Linguist and Philos 32: 523–552, 2009) that so-called non-speaker oriented readings of appositives are a matter of pragmatic perspective shift and thus do not show that appositives contribute to descriptive content. In contrast, I argue that appositives are indeed building blocks of propositions and..."]
+      },
+      {
+        "title": "On the semantics of “embedded exclamatives”*",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["  It is sometimes assumed that there is a special exclamative semantics, in particular, that some wh clauses have an exclamative semantics even when embedded, maybe beside an interrogative semantics. In this paper I investigate what such an exclamative semantics might consist in, arguing that there are indeed different readings of wh clauses involv..."]
+      },
+      {
+        "title": "A Scandinavian mood recovered: The semantics of the surreal supine",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Dec 2009",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Marit Julien (2003) has argued that the supine-in-lieu-of-infinitive found in core varieties of Scandinavian (as in ”Det hadde vore kjekt å flydd til Månen” /it had been nice to flown to the Moon /’It would be nice to fly to the Moon’) is a manifestation of an irrealis mood. I present additional arguments that substantiate this hypothesis and propo..."]
+      },
+      {
+        "title": "Possession and pertinence: The meaning of have",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2009",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["The meaning of have is notoriously difficult to define; sometimes it seems to denote possession, but often, it seems to denote nothing, only\nto complicate composition. This paper focuses on the cases where have embeds a small clause, proposing that all it accomplishes is abstraction, turning the small clause into a predicate. This\nanalysis is exten..."]
+      },
+      {
+        "title": "Judgment ascriptions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2009",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Some propositional attitude verbs require that the complement contain some “subjective predicate”. In terms of the theory\nproposed by Lasersohn, these verbs would seem to identify the “judge” of the embedded proposition with the matrix subject,\nand there have been suggestions in this direction. I show that it is possible to analyze these verbs as s..."]
+      },
+      {
+        "title": "Self Intensification and Focus Interpretation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Standardly (Safir, 2004), the “complex reflexive&apos;&apos; SIG+SELF in Dutch or Scandinavian is treated as a special species of anaphora, stronger than SIG alone. This approach has a number of disadvantages, descriptive and theoretical. Theoretically, it is desirable to treat SELF the same as when it modifies another element. Bergeton (2004) argu..."]
+      },
+      {
+        "title": "Focus, Sensitivity, and the Currency of the Question",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["According to Beaver and Clark (2008), a closed class of items, primarily particles like even or only, are systematically sensitive to focus, encoding a dependency on the Current Question (the CQ). This theory appears to give wrong predictions for exclusive particles like only in some cases where intuitively, what the particle asso- ciates with is n..."]
+      },
+      {
+        "title": "The structure of criterion predicates",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Dec 2008",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Instrumental by adjuncts have remained ill-understood. So have criterion predicates, one of the types of predicates that can be modified by instrumental by adjuncts. There is also no consensus on the proper analysis of manner-neutral causative predicates, the other major type of predicates that can be modified by instrumental by adjuncts. I propose..."]
+      },
+      {
+        "title": "Focus interpretation in Thetic statements: Alternative Semantics and Optimality Theory Pragmatics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Broad focus (or informationalintegration or nonautonomy) is lexically and contextually constrained, but these constraints are not well understood. On a standard theory of focus interpretation, the presupposition of a broad focus is verified whenever those of two narrow foci are. I argue that to account for cases where two narrow foci are preferred,..."]
+      },
+      {
+        "title": "Theticity in a bidirectional theory of focus",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": []
+      },
+      {
+        "title": "Adreflexive Intensification and the Theory of Focus and Information",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Handout for presentation at Oslo conference on explicit and implicit information in text"]
+      },
+      {
+        "title": "Explaining Clausal Exclamatives",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Johan Kjell", "Kjell Johan Sæbø"],
+        "abstract": ["Handout for presentation at Sémantique et Modélisation in Paris and at the University of Frankfurt"]
+      },
+      {
+        "title": "A Whether Forecast",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2005",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["It is a well-known fact that only factive propositional attitude predicates are felicitous with wh- (indirect question) complements. It has also been noted that so-called emotive factive predicates are only felicitous with some, not all, indirect question complements. But the reasons for these two constraints have remained unclear. I propose a comp..."]
+      },
+      {
+        "title": "The Mystery of the Missing Agent: Reconstructing Passives",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2005",
+        "authors": ["Kjell Johan Sæbø", "Torgrim Solstad"],
+        "abstract": ["We show that passives of causative verbs often only imply a causing event, and argue that ”event-type passives” fill a semantic gap between inchoatives and ”agent-type passives”."]
+      },
+      {
+        "title": "Intensifying self in Germanic: A Reanalysis",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2005",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Stockholm Contrast workshop"]
+      },
+      {
+        "title": "Natural Language Corpus Semantics: The Free Choice Controversy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2004",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["This paper addresses the methodological issue of what data can safely be disregarded in the quest for a good analysis of a given semantic phenomenon. I argue that as there is no objective measure for this, making the temptation to adjust the terrain to the map hard to resist, it is strongly advisable to make use of text corpora in formal semantic r..."]
+      },
+      {
+        "title": "Reporting (Il)locutionary Acts: The Janus case of German Criticism",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Nov 2004",
+        "authors": ["Kjell Johan Sæbø", "Cathrine Fabricius-Hansen"],
+        "abstract": ["Slides for presentation at ZAS workshop on mood and (in)subordination"]
+      },
+      {
+        "title": "In a Mediative Mood: The Semantics of the German Reportive Subjunctive",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2004",
+        "authors": ["Cathrine Fabricius-Hansen", "Kjell Johan Sæbø"],
+        "abstract": ["This paper aims at an account of the German “reportive subjunctive”, where the mood signals that the proposition is the object\nof an utterance report. The report can be explicit in the sentence or in the context, or more or less implicit. We interpret\nthese uses as a more or less local verification or accommodation of a presupposition introduced by..."]
+      },
+      {
+        "title": "Conversational Contrast and Conventional Parallel: Topic Implicatures and Additive Presuppositions",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2004",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["The abstract for this document is available on CSA Illumina.To view the Abstract, click the Abstract button above the document title."]
+      },
+      {
+        "title": "Optimal Interpretations of Permission Sentences",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2004",
+        "authors": ["Johan Kjell", "Kjell Johan Sæbø"],
+        "abstract": ["I aim to show that the long-standing problem of Free Choice Permission can find a natural pragmatic solution in the framework of Bidirectional Optimality Theory. In the absence of a model of competition among alternative forms and meanings, pragmatic approaches, although intuitively appealing, have remained problematic. Once, however, a family of a..."]
+      },
+      {
+        "title": "Optimal Conditions for Integration",
+        "tags": ["Presentation", "Full-text available"],
+        "date": "Jan 2004",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Handout for presentation at the Szklarska Poreba Workshop 5"]
+      },
+      {
+        "title": "On the Quantity and Quality of Contexts in Discourse Semantics",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2003",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Reviews old and new research on additive particles to show that in discourse semantics, it is necessary to consider authentic data in sufficient breadth – both in the syntagmatic and in the paradigmatic dimension. The chief insight: constructed examples are too short and misguide analyses."]
+      },
+      {
+        "title": "The Semantics Of Scandinavian Free Choice Items",
+        "tags": ["Article"],
+        "date": "Dec 2001",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["I present an analysis of Free Choice Items (FCIs), based on Scandinavian, where FCIs are complex and distinct from polarity\nsensitive items. Scandinavian FCIs are argued to have two components. One is a universal quantifying into modal contexts.\nThe other is an operator mapping a type (s,t) expression onto itself, adjoining to the closest type t or..."]
+      },
+      {
+        "title": "Necessary Conditions in a Natural Language",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2001",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["This is my paper on what have come to be called anankastic conditionals, showing that Kratzer’s theory of modals and conditionals as it stands (or stood) cannot predict their meaning and developing a semi-compositional analysis in a slightly refined theory."]
+      },
+      {
+        "title": "Topic, Focus, and Quantifier Raising",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 1997",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["This paper investigates the correlation between information structure and quantifier scope. It has often been noted that intonation seems to influence scope relations, yet noone has given a satisfactory account of this influence. I try to show that Quantifier Raising in a language like English depends on information structure, and thus indirectly o..."]
+      },
+      {
+        "title": "Anaphoric presuppositions and zero anaphora",
+        "tags": ["Article"],
+        "date": "Jan 1996",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["The purpose of this paper is to use an anaphoric notion of presupposition for solving the problem of zero argument anaphora. Since Shopen (1973) it has been known that many missing arguments have an anaphoric interpretation, but it has not been known how this interpretation arises. I argue that these arguments are involved in presuppositions. On an..."]
+      },
+      {
+        "title": "Ekkehard König: The Meaning of Focus Particles. A Comparative Perspective. In The series: Theoretical Linguistics. London and New York: Routledge. 1991. 190 pp. + Notes and Indexes",
+        "tags": ["Article"],
+        "date": "Dec 1993",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["König, Ekkehard: The Meaning of Focus Particles. A Comparative Perspective. In the series: Theoretical Linguistics. London and New York: Routledge. 1991. 190 pp. + Notes and Indexes. - Volume 16 Issue 2 - Kjell Johan Sæbø"]
+      },
+      {
+        "title": "A Model for Discourse Particles",
+        "tags": ["Working Paper"],
+        "date": "Jan 1988",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": []
+      },
+      {
+        "title": "A cooperative yes-no query system featuring discourse particles",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 1988",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Cooperative dialog systems will offer extended answers to questions, that is, they will volunteer information not explicitly asked for. A complete response will be complex and the member sentences will evince an ex- tensive parallel, the indirect answer substituting an alternative for a focus in the question. Research on discourse particles has sho..."]
+      },
+      {
+        "title": "Notwendige Bedingungen im Deutschen: Zur Semantik modalisierter Sätze",
+        "tags": ["Thesis"],
+        "date": "Jan 1985",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["Tevens proefschrift Oslo. Met lit.opg."]
+      },
+      {
+        "title": "Das Chamäleon \"wenn\" und seine Umwelt.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1983",
+        "authors": ["Cathrine Fabricius-Hansen", "Kjell Johan Sæbø"],
+        "abstract": ["Die deutsche Subjunktion \"wenn\" kann konditional, 'faktisch' und temporal verwendet werden. Dieser Anwendungsbereich wird im Dänischen (und Norwegischen) von drei verschiedenen Subjunktionen (\"hvis\", \"da\" und \"når\") abgedeckt. Im Aufsatz wird anhand authentischer Übersetzungen zwischen Deutsch und Dänisch/Norwegisch der Frage nachgegangen, ob es si..."]
+      },
+      {
+        "title": "Infinitive Perfect and Backward Causation",
+        "tags": ["Article"],
+        "date": "Dec 1980",
+        "authors": ["Kjell Johan Sæbø"],
+        "abstract": ["The present paper represents an attempt to explain the semantically deviant nature of causative constructions with present perfect effect sentences. As far as I known, such constructions have not been commented upon in the literature on causativity. I show that any counterfactual analysis of the traditional sort will bring them out as synthetic sen..."]
+      }
+    ],
+    "degree": ["dr.philos."],
+    "bio": [],
+    "publications": [56],
+    "reads": [13447],
+    "citations": [535]
   }
 }

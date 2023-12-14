@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Tone Normann-Eide",
-    "id": "534480",
+    "name": ["Tone Normann-Eide"],
+    "id": ["534480"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -37,5 +37,103 @@
         "url": "https://api.cristin.no/v2/results/1095341"
       }
     ]
+  },
+  "rg": {
+    "id": "Eivind-Normann-Eide",
+    "name": "Eivind Normann-Eide",
+    "img": "https://i1.rgstatic.net/ii/profile.image/337349079781376-1457441696031_Q128/Eivind-Normann-Eide.jpg",
+    "affiliation": "Oslo University Hospital, Division of Mental Health and Addiction",
+    "keywords": ["Psychotherapeutic Processes", "Psychotherapy", "Personality Disorders", "Psychodynamic Psychotherapy"],
+    "works": [
+      {
+        "title": "Psychometric evaluation of the Norwegian Toronto Alexithymia Scale (TAS‐20) in a multisite clinical sample of patients with personality disorders and personality problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Geir Pedersen", "Eivind Normann-Eide", "Ingeborg Eikenaes", "Theresa Wilberg"],
+        "abstract": ["Objective\nPsychometric properties of 20-item Toronto Alexithymia Scale (TAS-20) have been widely analyzed, but the validity and psychometric qualities of the TAS-20 in populations with personality disorders are still poorly understood. The aim of the current study was to analyze the factor structure and validity of TAS-20.\n\nMethod\nData were extract..."]
+      },
+      {
+        "title": "“Yes, there is actually hope!”—A qualitative investigation of how patients experience mentalization-based psychoeducation tailored for borderline personality disorder.",
+        "tags": ["Article"],
+        "date": "Sep 2020",
+        "authors": ["Ingrid Tande Ditlefsen", "Helene A. Nissen-Lie", "Agnes Andenæs", "Elfrida Kvarstein"],
+        "abstract": ["Common factors, such as the working alliance, positive expectations, and psychoeducation have been robustly related to outcome in studies of psychotherapy. As a multicomponent treatment for borderline personality disorder (BPD), Mentalization-based treatment (MBT) includes introductory group-based psychoeducation on core features of personality fun..."]
+      },
+      {
+        "title": "Social Cognition Capacities as Predictors of Outcome in Mentalization-Based Treatment (MBT)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Elfrida Kvarstein", "Espen Folmo", "Bjørnar T Antonsen", "Theresa Wilberg"],
+        "abstract": ["Background\nMentalization-based treatment (MBT) is an evidence-based treatment for borderline personality disorder (BPD). Differences in treatment outcomes related to specific capacity of social cognition need further attention. This study aimed to investigate social cognition as a predictor of outcome.Method\nThe study included 31 BPD patients who c..."]
+      },
+      {
+        "title": "Specialized Treatment for Patients with Severe Avoidant Personality Disorder: Experiences from Scandinavia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Sebastian Simonsen", "Ingeborg Eikenaes", "Nana Lund Nørgaard", "Theresa Wilberg"],
+        "abstract": ["Avoidant personality disorder (AvPD) is a common and heterogeneous disorder. In spite of this, few studies have focused on treatment, and treatment guidelines have not been developed. In Scandinavian countries many patients with low levels of AvPD are treated sufficiently in private practices or in briefer psychiatric treatments, often for anxiety..."]
+      },
+      {
+        "title": "Are Impairments in Theory of Mind Specific to Borderline Personality Disorder?",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Eivind Normann-Eide", "Bj⊘rnar Torske Antonsen", "Elfrida Kvarstein", "Theresa Wilberg"],
+        "abstract": ["Impaired theory of mind (ToM) is an assumed feature of borderline personality disorder (BPD). Yet, no studies have compared ToM abilities in patients with BPD, other personality disorders, and healthy controls, or investigated the relationship between ToM and severity of psychopathology and interpersonal problems. In this study, ToM was investigate..."]
+      },
+      {
+        "title": "The Relationship Between Reflective Functioning and Affect Consciousness in Patients With Avoidant and Borderline Personality Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Merete Selsbakk Johansen", "Sigmund Karterud", "Eivind Normann-Eide", "Theresa Wilberg"],
+        "abstract": ["Avoidant personality disorder (APD) and borderline personality disorder (BPD) are the most frequent personality disorders (PDs) in clinical practice. Although BPD research dominates the field, both PDs are clearly associated with severe functional impairments and substantial treatment challenges. Few have investigated the relationship between core..."]
+      },
+      {
+        "title": "Kommunikasjon med kirurgisk presisjon",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Eivind Normann-Eide"],
+        "abstract": []
+      },
+      {
+        "title": "Skjønnlitterære selvmord",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Eivind Normann-Eide"],
+        "abstract": []
+      },
+      {
+        "title": "Personality Disorder and Changes in Affect Consciousness: A 3-Year Follow-Up Study of Patients with Avoidant and Borderline Personality Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Eivind Normann-Eide", "Merete Selsbakk Johansen", "Tone Normann-Eide", "Theresa Wilberg"],
+        "abstract": ["Personality disorders (PDs) are highly prevalent in patients receiving psychiatric services, and are associated with significant personal and social costs. Over the past two decades, an increasing number of treatment studies have documented the effectiveness of treatment for patients with PDs, especially when it comes to reduction of symptom distre..."]
+      },
+      {
+        "title": "Relationship Between Affect Consciousness and Personality Functioning in Patients With Personality Disorders: A Prospective Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2015",
+        "authors": ["Merete Selsbakk Johansen", "Eivind Normann-Eide", "Tone Normann-Eide", "Theresa Wilberg"],
+        "abstract": ["Emotional dysfunction is by definition central to personality disorders (PDs). In the alternative model in DSM-5, self and relational dysfunctioning constitutes the core of PD, but little is known about the relation between emotional functioning and such core aspects of personality functioning. This study investigated concurrent and prospective ass..."]
+      },
+      {
+        "title": "Emotional dysfunction in avoidant compared to borderline personality disorder: A study of affect consciousness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Merete Selsbakk Johansen", "Eivind Normann-Eide", "Tone Normann-Eide", "Theresa Wilberg"],
+        "abstract": ["Knowledge of emotional dysfunction in patients with avoidant personality disorder (APD) is much needed. The present study examined affect consciousness (AC) in patients with APD compared to borderline personality disorder (BPD). AC, defined as capacity to perceive, reflect on, tolerate, and express emotional experiences, is assumed to be central to..."]
+      },
+      {
+        "title": "Is low affect consciousness related to the severity of psychopathology? A cross-sectional study of patients with avoidant and borderline personality disorder",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Eivind Normann-Eide", "Merete Selsbakk Johansen", "Tone Normann-Eide", "Theresa Wilberg"],
+        "abstract": ["OBJECTIVE: \nThis study examined the relationships between affect consciousness (AC) and symptom distress, interpersonal problems, low self-esteem, and the number of PD traits in patients with avoidant personality disorder (APD) and borderline personality disorder (BPD).\nMETHOD: \nWithin the setting of a treatment trial, 52 patients with APD or BPD w..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [12],
+    "reads": [4859],
+    "citations": [158]
   }
 }

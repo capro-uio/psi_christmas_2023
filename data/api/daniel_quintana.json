@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Daniel S. Quintana",
-    "id": "3BsdBosAAAAJ",
-    "affiliation": "Associate Professor, Department of Psychology, University of Oslo and NevSom, Oslo …",
+    "name": ["Daniel S. Quintana"],
+    "id": ["3BsdBosAAAAJ"],
+    "affiliation": ["Associate Professor, Department of Psychology, University of Oslo and NevSom, Oslo …"],
     "data": {
       "publications": [
         {
@@ -1184,8 +1184,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-2305-1903",
-    "name": "Daniel Quintana ",
+    "orcid": ["0000-0003-2305-1903"],
+    "name": ["Daniel Quintana "],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1196,8 +1196,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Daniel Quintana",
-    "id": "702658",
+    "name": ["Daniel Quintana"],
+    "id": ["702658"],
     "keywords": [],
     "position": ["Associate professor"],
     "img": {},
@@ -1900,5 +1900,14 @@
         "url": "https://api.cristin.no/v2/results/1393959"
       }
     ]
+  },
+  "rg": {
+    "id": "Daniel-Quintana-10",
+    "name": "Daniel Quintana",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1047675814305803-1626796787984_Q128/Daniel-Quintana-10.jpg",
+    "affiliation": "Universidad Tecnológica de la Habana José Antonio Echeverría | Cujae, Universidad Tecnológica de la Habana José Antonio Echeverría, Departamento de Grafica de Ingeniería",
+    "keywords": ["Python", "CAD"],
+    "works": [],
+    "degree": [null]
   }
 }

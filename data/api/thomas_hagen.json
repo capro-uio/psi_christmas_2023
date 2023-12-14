@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Thomas Hagan",
-    "id": "abIUGuYAAAAJ",
-    "affiliation": "Assistant Professor, Cincinnati Children's Hospital Medical Center",
+    "name": ["Thomas Hagan"],
+    "id": ["abIUGuYAAAAJ"],
+    "affiliation": ["Assistant Professor, Cincinnati Children's Hospital Medical Center"],
     "data": {
       "publications": [
         {
@@ -205,8 +205,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-6194-0707",
-    "name": "Thomas Hagen",
+    "orcid": ["0000-0001-6194-0707"],
+    "name": ["Thomas Hagen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -217,8 +217,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Thomas Hagen",
-    "id": "520795",
+    "name": ["Thomas Hagen"],
+    "id": ["520795"],
     "keywords": [],
     "position": ["Researcher"],
     "img": {},
@@ -232,86 +232,96 @@
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "Subjective Socioeconomic Status, Cognitive Abilities, and Personal Control: Associations With Health Behaviours",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2019567"
+        "url": "https://api.cristin.no/v2/results/2019567",
+        "title": "Subjective Socioeconomic Status, Cognitive Abilities, and Personal Control: Associations With Health Behaviours"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "The effects of cognitive abilities and task demands on tonic and phasic pupil sizes",
         "journal": "Biological Psychology",
-        "url": "https://api.cristin.no/v2/results/1828065"
+        "url": "https://api.cristin.no/v2/results/1828065",
+        "title": "The effects of cognitive abilities and task demands on tonic and phasic pupil sizes"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Pupillary and behavioral markers of alerting and orienting: An individual difference approach",
         "journal": "Brain and Cognition",
-        "url": "https://api.cristin.no/v2/results/1823762"
+        "url": "https://api.cristin.no/v2/results/1823762",
+        "title": "Pupillary and behavioral markers of alerting and orienting: An individual difference approach"
       },
       {
         "type": "Errata",
         "year": "2019",
-        "title": "Correction to: Task context load induces reactive cognitive control: An fMRI study on cortical and brain stem activity (Cognitive, Affective, & Behavioral Neuroscience, (2019), 19, 4, (945-965), 10.3758/s13415-019-00691-6)",
         "journal": "Cognitive, Affective, & Behavioral Neuroscience",
-        "url": "https://api.cristin.no/v2/results/2011434"
+        "url": "https://api.cristin.no/v2/results/2011434",
+        "title": "Correction to: Task context load induces reactive cognitive control: An fMRI study on cortical and brain stem activity (Cognitive, Affective, & Behavioral Neuroscience, (2019), 19, 4, (945-965), 10.3758/s13415-019-00691-6)"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Distinct Neural Mechanisms Meet Challenges in Dynamic Visual Attention due to Either Load or Object Spacing",
         "journal": "Journal of Cognitive Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1772696"
+        "url": "https://api.cristin.no/v2/results/1772696",
+        "title": "Distinct Neural Mechanisms Meet Challenges in Dynamic Visual Attention due to Either Load or Object Spacing"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Proactive and reactive modes of cognitive control can operate independently and simultaneously",
         "journal": "Acta Psychologica",
-        "url": "https://api.cristin.no/v2/results/1751004"
+        "url": "https://api.cristin.no/v2/results/1751004",
+        "title": "Proactive and reactive modes of cognitive control can operate independently and simultaneously"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Individual differences in resting-state pupil size: Evidence for association between working memory capacity and pupil size variability",
         "journal": "International Journal of Psychophysiology",
-        "url": "https://api.cristin.no/v2/results/1709591"
+        "url": "https://api.cristin.no/v2/results/1709591",
+        "title": "Individual differences in resting-state pupil size: Evidence for association between working memory capacity and pupil size variability"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Task context load induces reactive cognitive control: An fMRI study on cortical and brain stem activity",
         "journal": "Cognitive, Affective, & Behavioral Neuroscience",
-        "url": "https://api.cristin.no/v2/results/1696787"
+        "url": "https://api.cristin.no/v2/results/1696787",
+        "title": "Task context load induces reactive cognitive control: An fMRI study on cortical and brain stem activity"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "The \"face race lightness illusion\": An effect of the eyes and pupils?",
         "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1599544"
+        "url": "https://api.cristin.no/v2/results/1599544",
+        "title": "The \"face race lightness illusion\": An effect of the eyes and pupils?"
       },
       {
         "type": "Poster",
         "year": "2017",
-        "title": "The long term effects of reward on spatial priority maps studied with Electroencephalography and Pupillometry",
-        "url": "https://api.cristin.no/v2/results/1558253"
+        "url": "https://api.cristin.no/v2/results/1558253",
+        "title": "The long term effects of reward on spatial priority maps studied with Electroencephalography and Pupillometry"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Animals Do Not Induce or Reduce Attentional Blinking, But They Are Reported More Accurately in a Rapid Serial Visual Presentation Task",
         "journal": "i-Perception",
-        "url": "https://api.cristin.no/v2/results/1505071"
+        "url": "https://api.cristin.no/v2/results/1505071",
+        "title": "Animals Do Not Induce or Reduce Attentional Blinking, But They Are Reported More Accurately in a Rapid Serial Visual Presentation Task"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "The Change Detection Advantage for Animals: An Effect of Ancestral Priorities or Progeny of Experimental Design?",
         "journal": "i-Perception",
-        "url": "https://api.cristin.no/v2/results/1364672"
+        "url": "https://api.cristin.no/v2/results/1364672",
+        "title": "The Change Detection Advantage for Animals: An Effect of Ancestral Priorities or Progeny of Experimental Design?"
       }
     ]
+  },
+  "rg": {
+    "id": "Thomas-Hagen-6",
+    "name": "Thomas Hagen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "CIMMYT, Excellence in Breeding",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

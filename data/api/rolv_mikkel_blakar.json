@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0005-2140-3487",
-    "name": "Rolv Mikkel Blakar",
+    "orcid": ["0009-0005-2140-3487"],
+    "name": ["Rolv Mikkel Blakar"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Rolv Mikkel Blakar",
-    "id": "23544",
+    "name": ["Rolv Mikkel Blakar"],
+    "id": ["23544"],
     "keywords": ["Socialpsychology", "Ethics", "Communication", "Language", "Ideology", "Values", "Gender and language", "Conflict resolution"],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/23544/picture",
+    "img": ["https://api.cristin.no/v2/persons/23544/picture"],
     "works": [
       {
         "type": "Academic lecture",
@@ -27,62 +27,62 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2160883",
         "title": "Mattering in older adults in service-assisted recovery processes from substance use problems: Conditions, experiences, and implications for action",
-        "journal": "BMC Health Services Research",
-        "url": "https://api.cristin.no/v2/results/2160883"
+        "journal": "BMC Health Services Research"
       },
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2134784",
         "title": "Multiple psychological senses of community and community influences on personal recovery processes from substance use problems in later life: a collaborative and deductive reflexive thematic analysis",
-        "journal": "International Journal of Qualitative Studies on Health and Well-being",
-        "url": "https://api.cristin.no/v2/results/2134784"
+        "journal": "International Journal of Qualitative Studies on Health and Well-being"
       },
       {
         "type": "Popular scientific article",
         "year": "2022",
-        "journal": "Samfunnsviter'n",
-        "url": "https://api.cristin.no/v2/results/2115122"
+        "url": "https://api.cristin.no/v2/results/2115122",
+        "journal": "Samfunnsviter'n"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2022",
-        "title": "Living in the Era of an Ideological Climate of Globalisation: A Study of Psychological Sense of Community Among Young and Older Adults in Two Cultures (India and Norway). Challenges for Community Psychology and the Applied Social Sciences",
-        "url": "https://api.cristin.no/v2/results/2079675"
+        "url": "https://api.cristin.no/v2/results/2079675",
+        "title": "Living in the Era of an Ideological Climate of Globalisation: A Study of Psychological Sense of Community Among Young and Older Adults in Two Cultures (India and Norway). Challenges for Community Psychology and the Applied Social Sciences"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2003871",
         "title": "In what ways do emerging adults with substance use problems experience their communities as influencing their personal recovery processes?",
-        "journal": "Journal of Community Psychology",
-        "url": "https://api.cristin.no/v2/results/2003871"
+        "journal": "Journal of Community Psychology"
       },
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "The community: An overlooked aspect in personal understandings of good lives",
-        "url": "https://api.cristin.no/v2/results/1931070"
+        "url": "https://api.cristin.no/v2/results/1931070",
+        "title": "The community: An overlooked aspect in personal understandings of good lives"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1924625",
         "title": "Living in the Era of an Ideological Climate of Globalisation: A Study of Psychological Sense of Community Among Young and Older Adults in Two Cultures (India and Norway). Challenges for Community Psychology and the Applied Social Sciences",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1924625"
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1900272",
         "title": "Mapping, assessing and promoting multiple psychological senses of community (MPSOC) through clinical pathways for treating substance use problems",
-        "journal": "Nordic Studies on Alcohol and Drugs (NAD)",
-        "url": "https://api.cristin.no/v2/results/1900272"
+        "journal": "Nordic Studies on Alcohol and Drugs (NAD)"
       },
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1695329",
         "title": "Multiple senses of community and recovery processes. A pilot study for a national evaluation of the experiences of persons with substance use problems receiving help and services from Norwegian municipalities",
-        "journal": "Journal of Community Psychology",
-        "url": "https://api.cristin.no/v2/results/1695329"
+        "journal": "Journal of Community Psychology"
       },
       {
         "type": "Popular scientific chapter/article",
@@ -92,49 +92,49 @@
       {
         "type": "Website (informational material)",
         "year": "2017",
-        "title": "Ragnar Rommetveit 1924-2017. Obituary for European Association of Social Psychology (EASP).",
-        "url": "https://api.cristin.no/v2/results/1484665"
+        "url": "https://api.cristin.no/v2/results/1484665",
+        "title": "Ragnar Rommetveit 1924-2017. Obituary for European Association of Social Psychology (EASP)."
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1482887",
         "title": "Responsibility for Psychological Sense of Community and Well-Being in Old Age: A Qualitative Study of Urban Older Adults in Norway",
-        "journal": "Open Journal of Social Sciences",
-        "url": "https://api.cristin.no/v2/results/1482887"
+        "journal": "Open Journal of Social Sciences"
       },
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "What holds meaning, and for whom? A mixed-methods analysis of meaningfulness constructions in a Norwegian national newspaper, 1950-2015",
-        "url": "https://api.cristin.no/v2/results/1482582"
+        "url": "https://api.cristin.no/v2/results/1482582",
+        "title": "What holds meaning, and for whom? A mixed-methods analysis of meaningfulness constructions in a Norwegian national newspaper, 1950-2015"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1458679",
         "title": "Understanding Satisfaction: An Analysis of the Meaning Potential of the Word \"Satisfaction\" in Everyday Norwegian Language",
-        "journal": "Journal of Happiness Studies",
-        "url": "https://api.cristin.no/v2/results/1458679"
+        "journal": "Journal of Happiness Studies"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1362166",
         "title": "Everyday Understandings of Happiness, Good Life, and Satisfaction: Three Different Facets of Well-being",
-        "journal": "Applied Research in Quality of Life",
-        "url": "https://api.cristin.no/v2/results/1362166"
+        "journal": "Applied Research in Quality of Life"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1362164",
         "title": "Well-being vocabulary in media language: An analysis of changing word usage in Norwegian newspapers",
-        "journal": "Journal of Positive Psychology",
-        "url": "https://api.cristin.no/v2/results/1362164"
+        "journal": "Journal of Positive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1404085",
         "title": "Youth's future orientation and well-being: Materialism and concerns with education and career among Turkish and Norwegian youth",
-        "journal": "International Journal of Child, Youth and Family Studies",
-        "url": "https://api.cristin.no/v2/results/1404085"
+        "journal": "International Journal of Child, Youth and Family Studies"
       },
       {
         "type": "Chapter",
@@ -154,97 +154,97 @@
       {
         "type": "Academic article",
         "year": "2016",
+        "url": "https://api.cristin.no/v2/results/1238375",
         "title": "Making Sense of Neoliberal Subjectivity: A Discourse Analysis of Media Language on Self-development",
-        "journal": "Globalizations",
-        "url": "https://api.cristin.no/v2/results/1238375"
+        "journal": "Globalizations"
       },
       {
         "type": "Book review",
         "year": "2015",
-        "journal": "Dag og Tid",
-        "url": "https://api.cristin.no/v2/results/1284102"
+        "url": "https://api.cristin.no/v2/results/1284102",
+        "journal": "Dag og Tid"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "journal": "Impuls : Tidsskrift for psykologi",
-        "url": "https://api.cristin.no/v2/results/1125764"
+        "url": "https://api.cristin.no/v2/results/1125764",
+        "journal": "Impuls : Tidsskrift for psykologi"
       },
       {
         "type": "Editorial",
         "year": "2013",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1040713"
+        "url": "https://api.cristin.no/v2/results/1040713",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1035089"
+        "url": "https://api.cristin.no/v2/results/1035089",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic lecture",
         "year": "2012",
-        "title": "Meaning systems and representations of a good life",
-        "url": "https://api.cristin.no/v2/results/935477"
+        "url": "https://api.cristin.no/v2/results/935477",
+        "title": "Meaning systems and representations of a good life"
       },
       {
         "type": "Academic article",
         "year": "2012",
+        "url": "https://api.cristin.no/v2/results/935337",
         "title": "From an individualized to a societal social psychology: Ideology and ideological changes as reflected in language usage",
-        "journal": "Annual Review of Critical Psychology",
-        "url": "https://api.cristin.no/v2/results/935337"
+        "journal": "Annual Review of Critical Psychology"
       },
       {
         "type": "Academic article",
         "year": "2012",
+        "url": "https://api.cristin.no/v2/results/935336",
         "title": "Ideology and social psychology",
-        "journal": "Social & Personality Psychology Compass",
-        "url": "https://api.cristin.no/v2/results/935336"
+        "journal": "Social & Personality Psychology Compass"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2012",
-        "title": "Communal values and individualism in our era of globalization: A comparative study of three different societies",
-        "url": "https://api.cristin.no/v2/results/935335"
+        "url": "https://api.cristin.no/v2/results/935335",
+        "title": "Communal values and individualism in our era of globalization: A comparative study of three different societies"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2012",
-        "title": "Towards a psychology for a humankind and a planet under mutiple threats: A social psychology of ideology",
-        "url": "https://api.cristin.no/v2/results/935333"
+        "url": "https://api.cristin.no/v2/results/935333",
+        "title": "Towards a psychology for a humankind and a planet under mutiple threats: A social psychology of ideology"
       },
       {
         "type": "Academic article",
         "year": "2012",
+        "url": "https://api.cristin.no/v2/results/928924",
         "title": "Symbolic Boundaries and Ideology in the Norwegian Multicultural Society: A Longitudinal Study of Public Discourse",
-        "journal": "Journal of Community and Applied Social Psychology",
-        "url": "https://api.cristin.no/v2/results/928924"
+        "journal": "Journal of Community and Applied Social Psychology"
       },
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "Ideological influences on youth’s identity development: The cases of Turkey and Norway",
-        "url": "https://api.cristin.no/v2/results/834117"
+        "url": "https://api.cristin.no/v2/results/834117",
+        "title": "Ideological influences on youth’s identity development: The cases of Turkey and Norway"
       },
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "Mapping Ideological Changes. Implications of Neoliberal Market Capitalism and Individualism on the Social Selves in Turkey and Norway",
-        "url": "https://api.cristin.no/v2/results/834112"
+        "url": "https://api.cristin.no/v2/results/834112",
+        "title": "Mapping Ideological Changes. Implications of Neoliberal Market Capitalism and Individualism on the Social Selves in Turkey and Norway"
       },
       {
         "type": "Academic article",
         "year": "2011",
+        "url": "https://api.cristin.no/v2/results/531971",
         "title": "‘Disappearing’ transsexuals? Norwegian trans-discourses, visibility, and diversity",
-        "journal": "Psykologisk tidsskrift",
-        "url": "https://api.cristin.no/v2/results/531971"
+        "journal": "Psykologisk tidsskrift"
       },
       {
         "type": "Poster",
         "year": "2010",
-        "title": "Positive psychology in a changing world: Barometers of change",
-        "url": "https://api.cristin.no/v2/results/897868"
+        "url": "https://api.cristin.no/v2/results/897868",
+        "title": "Positive psychology in a changing world: Barometers of change"
       },
       {
         "type": "Interview",
@@ -254,33 +254,33 @@
       {
         "type": "Academic lecture",
         "year": "2010",
-        "title": "Ideology and boundary developments in a multicultural society: A longitudinal study",
-        "url": "https://api.cristin.no/v2/results/897854"
+        "url": "https://api.cristin.no/v2/results/897854",
+        "title": "Ideology and boundary developments in a multicultural society: A longitudinal study"
       },
       {
         "type": "Academic literature review",
         "year": "2010",
+        "url": "https://api.cristin.no/v2/results/897767",
         "title": "Society, globalizing ideologies and critical psychology",
-        "journal": "Connected. Newsletter of the International Society of Critical Health psychology.",
-        "url": "https://api.cristin.no/v2/results/897767"
+        "journal": "Connected. Newsletter of the International Society of Critical Health psychology."
       },
       {
         "type": "Academic lecture",
         "year": "2010",
-        "title": "Cross-cultural studies of communal values: A post-communist East-European republic, a Nordic welfare state and a modern West-African society",
-        "url": "https://api.cristin.no/v2/results/192766"
+        "url": "https://api.cristin.no/v2/results/192766",
+        "title": "Cross-cultural studies of communal values: A post-communist East-European republic, a Nordic welfare state and a modern West-African society"
       },
       {
         "type": "Interview Journal",
         "year": "2009",
-        "journal": "Sosial Trygd",
-        "url": "https://api.cristin.no/v2/results/478752"
+        "url": "https://api.cristin.no/v2/results/478752",
+        "journal": "Sosial Trygd"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2009",
-        "title": "The spirit of society and the virtue of gratitude: Shifting societal ideologies of gratitude",
-        "url": "https://api.cristin.no/v2/results/46482"
+        "url": "https://api.cristin.no/v2/results/46482",
+        "title": "The spirit of society and the virtue of gratitude: Shifting societal ideologies of gratitude"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -295,23 +295,23 @@
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/352047",
         "title": "Globalization, Neo-Liberalism and Community Psychology",
-        "journal": "American Journal of Community Psychology",
-        "url": "https://api.cristin.no/v2/results/352047"
+        "journal": "American Journal of Community Psychology"
       },
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/352046",
         "title": "Globalization, ideologies and well-being: a study of a West-African and a North-European society",
-        "journal": "Journal of Positive Psychology",
-        "url": "https://api.cristin.no/v2/results/352046"
+        "journal": "Journal of Positive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2009",
+        "url": "https://api.cristin.no/v2/results/344564",
         "title": "Community psychology in Norway: Changing conditions and new challenges",
-        "journal": "Forum Gemeindepsychologie",
-        "url": "https://api.cristin.no/v2/results/344564"
+        "journal": "Forum Gemeindepsychologie"
       },
       {
         "type": "Interview",
@@ -321,8 +321,8 @@
       {
         "type": "Academic lecture",
         "year": "2009",
-        "title": "Care in an era of individualism and consumerism: Empirical studies of public discourses in various regions of the world",
-        "url": "https://api.cristin.no/v2/results/249054"
+        "url": "https://api.cristin.no/v2/results/249054",
+        "title": "Care in an era of individualism and consumerism: Empirical studies of public discourses in various regions of the world"
       },
       {
         "type": "Academic anthology/Conference proceedings",
@@ -332,64 +332,64 @@
       {
         "type": "Poster",
         "year": "2009",
-        "title": "Psychology in a changing world: Barometers of change",
-        "url": "https://api.cristin.no/v2/results/132055"
+        "url": "https://api.cristin.no/v2/results/132055",
+        "title": "Psychology in a changing world: Barometers of change"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2008",
-        "title": "Changing societal ideologies: A backdrop for understanding ethical isues",
-        "url": "https://api.cristin.no/v2/results/48997"
+        "url": "https://api.cristin.no/v2/results/48997",
+        "title": "Changing societal ideologies: A backdrop for understanding ethical isues"
       },
       {
         "type": "Feature article",
         "year": "2008",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/480962"
+        "url": "https://api.cristin.no/v2/results/480962",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Academic lecture",
         "year": "2008",
-        "title": "Becoming a pastor: A study of students of theology",
-        "url": "https://api.cristin.no/v2/results/240936"
+        "url": "https://api.cristin.no/v2/results/240936",
+        "title": "Becoming a pastor: A study of students of theology"
       },
       {
         "type": "Academic lecture",
         "year": "2008",
-        "title": "Ideologies of cultural diversity and dialogical self theory in the Norwegian context: A longitudinal, social psychological persepctive",
-        "url": "https://api.cristin.no/v2/results/236045"
+        "url": "https://api.cristin.no/v2/results/236045",
+        "title": "Ideologies of cultural diversity and dialogical self theory in the Norwegian context: A longitudinal, social psychological persepctive"
       },
       {
         "type": "Academic lecture",
         "year": "2008",
-        "title": "Ethical challenges in training professionals: A study of students of theology",
-        "url": "https://api.cristin.no/v2/results/232052"
+        "url": "https://api.cristin.no/v2/results/232052",
+        "title": "Ethical challenges in training professionals: A study of students of theology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2007",
-        "title": "Community Psychology in a Scandinavian Welfare State: The Case of Norway",
-        "url": "https://api.cristin.no/v2/results/52509"
+        "url": "https://api.cristin.no/v2/results/52509",
+        "title": "Community Psychology in a Scandinavian Welfare State: The Case of Norway"
       },
       {
         "type": "Popular scientific article",
         "year": "2007",
-        "journal": "Dag og Tid",
-        "url": "https://api.cristin.no/v2/results/458445"
+        "url": "https://api.cristin.no/v2/results/458445",
+        "journal": "Dag og Tid"
       },
       {
         "type": "Academic article",
         "year": "2007",
+        "url": "https://api.cristin.no/v2/results/366635",
         "title": "Community and care work in a world of changing ideologies",
-        "journal": "Community, Work and Family",
-        "url": "https://api.cristin.no/v2/results/366635"
+        "journal": "Community, Work and Family"
       },
       {
         "type": "Academic article",
         "year": "2007",
+        "url": "https://api.cristin.no/v2/results/365666",
         "title": "Ideology and power: The influence of current neo-liberalism in society",
-        "journal": "Journal of Community and Applied Social Psychology",
-        "url": "https://api.cristin.no/v2/results/365666"
+        "journal": "Journal of Community and Applied Social Psychology"
       },
       {
         "type": "Programme participation",
@@ -414,20 +414,20 @@
       {
         "type": "Academic lecture",
         "year": "2007",
-        "title": "The concept and investigation of ideology",
-        "url": "https://api.cristin.no/v2/results/221184"
+        "url": "https://api.cristin.no/v2/results/221184",
+        "title": "The concept and investigation of ideology"
       },
       {
         "type": "Academic lecture",
         "year": "2007",
-        "title": "Why ideology?",
-        "url": "https://api.cristin.no/v2/results/221183"
+        "url": "https://api.cristin.no/v2/results/221183",
+        "title": "Why ideology?"
       },
       {
         "type": "Academic lecture",
         "year": "2007",
-        "title": "Ideologies of cultural diversity in the Norwegian context: A longitudinal, social-psychological perspective",
-        "url": "https://api.cristin.no/v2/results/219496"
+        "url": "https://api.cristin.no/v2/results/219496",
+        "title": "Ideologies of cultural diversity in the Norwegian context: A longitudinal, social-psychological perspective"
       },
       {
         "type": "Academic anthology/Conference proceedings",
@@ -447,8 +447,8 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2006",
-        "title": "Communication ethics: Towards a definition of communication that encompasses ethical dimensions",
-        "url": "https://api.cristin.no/v2/results/60740"
+        "url": "https://api.cristin.no/v2/results/60740",
+        "title": "Communication ethics: Towards a definition of communication that encompasses ethical dimensions"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -458,27 +458,27 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2006",
-        "title": "Assumptions in psychology and ideological shifts in society: A challenge for positive psychology",
-        "url": "https://api.cristin.no/v2/results/55485"
+        "url": "https://api.cristin.no/v2/results/55485",
+        "title": "Assumptions in psychology and ideological shifts in society: A challenge for positive psychology"
       },
       {
         "type": "Academic article",
         "year": "2006",
+        "url": "https://api.cristin.no/v2/results/395843",
         "title": "Critical psychology in Norway: A brief review commenting on why critical psychology is currently virtually absent",
-        "journal": "Annual review of critical psychology",
-        "url": "https://api.cristin.no/v2/results/395843"
+        "journal": "Annual review of critical psychology"
       },
       {
         "type": "Academic article",
         "year": "2006",
-        "journal": "Passaggi",
-        "url": "https://api.cristin.no/v2/results/378127"
+        "url": "https://api.cristin.no/v2/results/378127",
+        "journal": "Passaggi"
       },
       {
         "type": "Report",
         "year": "2006",
-        "title": "Globalization and the spread of neo-liberalism: Ideology as reflected in the language",
-        "url": "https://api.cristin.no/v2/results/315875"
+        "url": "https://api.cristin.no/v2/results/315875",
+        "title": "Globalization and the spread of neo-liberalism: Ideology as reflected in the language"
       },
       {
         "type": "Programme participation",
@@ -508,45 +508,45 @@
       {
         "type": "Academic lecture",
         "year": "2006",
-        "title": "Changing societal ideologies and ethical issues",
-        "url": "https://api.cristin.no/v2/results/211855"
+        "url": "https://api.cristin.no/v2/results/211855",
+        "title": "Changing societal ideologies and ethical issues"
       },
       {
         "type": "Academic lecture",
         "year": "2006",
-        "title": "Ideologial issues in the 2004 American Presidential Election: Same sex marriage",
-        "url": "https://api.cristin.no/v2/results/211853"
+        "url": "https://api.cristin.no/v2/results/211853",
+        "title": "Ideologial issues in the 2004 American Presidential Election: Same sex marriage"
       },
       {
         "type": "Academic lecture",
         "year": "2006",
-        "title": "Gratitude and society: Societal ideologies of gratitude",
-        "url": "https://api.cristin.no/v2/results/200548"
+        "url": "https://api.cristin.no/v2/results/200548",
+        "title": "Gratitude and society: Societal ideologies of gratitude"
       },
       {
         "type": "Popular scientific article",
         "year": "2005",
-        "journal": "Dag og Tid",
-        "url": "https://api.cristin.no/v2/results/462355"
+        "url": "https://api.cristin.no/v2/results/462355",
+        "journal": "Dag og Tid"
       },
       {
         "type": "Academic article",
         "year": "2005",
+        "url": "https://api.cristin.no/v2/results/396592",
         "title": "The representation of social issues in public discourse and newspaper language",
-        "journal": "European Journal of Social Psychology",
-        "url": "https://api.cristin.no/v2/results/396592"
+        "journal": "European Journal of Social Psychology"
       },
       {
         "type": "Academic lecture",
         "year": "2005",
-        "title": "Ethical consequences for psychology and the social sciences of ideological shifts in society",
-        "url": "https://api.cristin.no/v2/results/199053"
+        "url": "https://api.cristin.no/v2/results/199053",
+        "title": "Ethical consequences for psychology and the social sciences of ideological shifts in society"
       },
       {
         "type": "Academic lecture",
         "year": "2005",
-        "title": "Care work and community in a world of changing ideologies",
-        "url": "https://api.cristin.no/v2/results/199052"
+        "url": "https://api.cristin.no/v2/results/199052",
+        "title": "Care work and community in a world of changing ideologies"
       },
       {
         "type": "Encyclopedia article",
@@ -561,58 +561,58 @@
       {
         "type": "Reader opinion piece",
         "year": "2004",
-        "journal": "Dagbladet",
-        "url": "https://api.cristin.no/v2/results/494823"
+        "url": "https://api.cristin.no/v2/results/494823",
+        "journal": "Dagbladet"
       },
       {
         "type": "Feature article",
         "year": "2004",
-        "journal": "Dagbladet",
-        "url": "https://api.cristin.no/v2/results/489084"
+        "url": "https://api.cristin.no/v2/results/489084",
+        "journal": "Dagbladet"
       },
       {
         "type": "Feature article",
         "year": "2004",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/489081"
+        "url": "https://api.cristin.no/v2/results/489081",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Popular scientific article",
         "year": "2004",
-        "journal": "Språklig Samling",
-        "url": "https://api.cristin.no/v2/results/466862"
+        "url": "https://api.cristin.no/v2/results/466862",
+        "journal": "Språklig Samling"
       },
       {
         "type": "Popular scientific article",
         "year": "2004",
-        "journal": "Psykisk helse",
-        "url": "https://api.cristin.no/v2/results/466854"
+        "url": "https://api.cristin.no/v2/results/466854",
+        "journal": "Psykisk helse"
       },
       {
         "type": "Academic article",
         "year": "2004",
+        "url": "https://api.cristin.no/v2/results/427481",
         "title": "A definition of communication encompassing ethical dimensions",
-        "journal": "Ethical Space: The International Journal of Communication Ethics",
-        "url": "https://api.cristin.no/v2/results/427481"
+        "journal": "Ethical Space: The International Journal of Communication Ethics"
       },
       {
         "type": "Academic article",
         "year": "2004",
-        "journal": "Impuls : Tidsskrift for psykologi",
-        "url": "https://api.cristin.no/v2/results/425967"
+        "url": "https://api.cristin.no/v2/results/425967",
+        "journal": "Impuls : Tidsskrift for psykologi"
       },
       {
         "type": "Academic article",
         "year": "2004",
+        "url": "https://api.cristin.no/v2/results/425898",
         "title": "Ideology as reflected in language: A theoretical-methodological approach for representing the societal level in social psychology",
-        "journal": "Arbeidsrapport fra Ideologiprosjektet",
-        "url": "https://api.cristin.no/v2/results/425898"
+        "journal": "Arbeidsrapport fra Ideologiprosjektet"
       },
       {
         "type": "Academic article",
         "year": "2004",
-        "journal": "Arbeidsrapport fra Ideologiprosjektet",
-        "url": "https://api.cristin.no/v2/results/425786"
+        "url": "https://api.cristin.no/v2/results/425786",
+        "journal": "Arbeidsrapport fra Ideologiprosjektet"
       },
       {
         "type": "Programme participation",
@@ -620,5 +620,354 @@
         "url": "https://api.cristin.no/v2/results/287467"
       }
     ]
+  },
+  "rg": {
+    "id": "Rolv-Blakar",
+    "name": "Rolv Mikkel Blakar",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Mattering in older adults in service-assisted recovery processes from substance use problems: Conditions, experiences, and implications for action",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Nina Bahl", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Isaac Prilleltensky"],
+        "abstract": ["Aim: Mattering is a fundamental human experience promoting crucial components to later-life recovery processes. Today, the largest population of older adult persons with substance use problems, so far, is on a steep rise in many Western countries. To tailor and offer substance use services promoting mattering, more knowledge about later life matter..."]
+      },
+      {
+        "title": "Multiple psychological senses of community and community influences on personal recovery processes from substance use problems in later life: a collaborative and deductive reflexive thematic analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Nina Kavita Heggen Bahl", "Emil Øversveen", "Morten Brodahl", "Kristin Tømmervik"],
+        "abstract": ["Purpose\nThere is a pressing need for substance use services to know more about how to promote recovery from substance use problems, particularly in later life. Psychological sense of community (PSOC) is an important recovery dimension. This study aims to clarify in what ways PSOC and communities influence later life recovery processes.\n\nMethod\nA co..."]
+      },
+      {
+        "title": "In what ways do emerging adults with substance use problems experience their communities as influencing their personal recovery processes?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Nina Kavita Heggen Bahl", "Emil Øversveen", "Morten Brodahl", "Kristin Tømmervik"],
+        "abstract": ["Applying the multiple psychological sense of community concept (MPSOC), this study explored how emerging adults with substance use problems experience the influences of various senses of community and communities on their personal recovery processes. Semi-structured interviews with 21 emerging adults from different urban contexts in Norway were ana..."]
+      },
+      {
+        "title": "Living in the Era of an Ideological Climate of Globalisation: A Study of Psychological Sense of Community Among Young and Older Adults in Two Cultures (India and Norway). Challenges for Community Psychology and the Applied Social Sciences",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Nina Kavita H. Bahl", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Eva Langvik"],
+        "abstract": ["How do people describe the psychological sense of community (PSOC) in the present day ideological climate of globalising neo-liberalism, assuming that people are essentially individualistic, that solidarity, social commitment, and citizenship are not natural dispositions, as we all are the lonely citizen? This issue is addressed by a mixed-methods..."]
+      },
+      {
+        "title": "Mapping, assessing and promoting multiple psychological senses of community (MPSOC) through clinical pathways for treating substance use problems",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Nina Kavita Heggen Bahl", "Anne Signe Landheim", "Hilde Eileen Nafstad", "Morten Brodahl"],
+        "abstract": ["Aim\nThe recent nationally implemented clinical pathways for the treatment of substance use problems in Norway require mapping and assessing of patients’ needs, challenges, and resources. However, there is a lack of tools for systematically mapping and assessing patients’ social situations and social networks as part of the national guidelines. The..."]
+      },
+      {
+        "title": "Multiple senses of community and recovery processes. A pilot study for a national evaluation of the experiences of persons with substance use problems receiving help and services from Norwegian municipalities",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Nina Kavita Heggen Bahl", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Morten Brodahl"],
+        "abstract": ["Aims\nThis pilot study uses a multifaceted concept of sense of community (SOC)—multiple senses of community (MPSOC)—to understand how the multiple communities of persons with substance use problems, including those with a positive, negative and neutral SOC, influence processes of substance use recovery.\n\nMethods\nSemi‐structured interviews were condu..."]
+      },
+      {
+        "title": "Understanding Satisfaction: An Analysis of the Meaning Potential of the Word “Satisfaction” in Everyday Norwegian Language",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Erik Carlquist", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar"],
+        "abstract": ["Satisfaction with life is often considered to be a component of or a synonym for subjective well-being. However, the meaning of “satisfaction” is rarely discussed in the scientific literature. The purpose of this study was to examine the meaning potential of the Norwegian term for satisfaction (tilfredshet). A conceptual analysis was conducted base..."]
+      },
+      {
+        "title": "Responsibility for Psychological Sense of Community and Well-Being in Old Age: A Qualitative Study of Urban Older Adults in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Nina Kavita Heggen Bahl", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Amy Østertun Geirdal"],
+        "abstract": []
+      },
+      {
+        "title": "YOUTH’S FUTURE ORIENTATION AND WELL-BEING: MATERIALISM AND CONCERNS WITH EDUCATION AND CAREER AMONG TURKISH AND NORWEGIAN YOUTH",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Salman Türken", "Hilde Eileen Nafstad", "Joshua Phelps", "Rolv Mikkel Blakar"],
+        "abstract": ["Youths’ well-being and subjectivity are strongly related to prevailing political, economic, and social conditions. Neoliberalism has extensively permeated societies worldwide, changing the way individuals, especially youth, make sense of their surroundings and themselves. There is thus an increasing need to investigate how youth subjectivities are..."]
+      },
+      {
+        "title": "Everyday Understandings of Happiness, Good Life, and Satisfaction: Three Different Facets of Well-being",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Erik Carlquist", "Pål Ulleberg", "Antonella Delle Fave", "Rolv Mikkel Blakar"],
+        "abstract": ["The need for increasing conceptual clarity within well-being research has been stressed by social scientists as well as policymakers and international organizations. The present study aimed to identify and compare conceptual structures of the everyday terms happiness, a good life, and satisfaction, based on a semi-stratified sample of Norwegian adu..."]
+      },
+      {
+        "title": "Well-being vocabulary in media language: An analysis of changing word usage in Norwegian newspapers",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Erik Carlquist", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Joshua Phelps"],
+        "abstract": ["Well-being is a widely discussed topic in research, policy, and media. This study was aimed at examining usage patterns of core terminology related to well-being in Norwegian newspapers during the past two decades. Specifically, we investigated occurrence across time of 39 words describing well-being facets from four theoretical perspectives: affec..."]
+      },
+      {
+        "title": "Making Sense of Neoliberal Subjectivity: A Discourse Analysis of Media Language on Self-development",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Salman Türken", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Katrina Roen"],
+        "abstract": ["The influence of neoliberalism on culture and subjectivity is well documented. This paper contributes to understanding of how neoliberal ideology enters into the production of subjectivity. While subject formation takes place in multiple and contradictory ways and across multiple social sites, we focus on the increasingly popular media discourse of..."]
+      },
+      {
+        "title": "Communal Values and Individualism in Our Era of Globalization: A Comparative Longitudinal Study of Three Different Societies",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Albert Botchway", "Kim Rand"],
+        "abstract": ["Ideologies shape people’s belief systems about what constitutes a good life and well-being and how to navigate between considerations of own well-being versus the well-being of others. In every culture, there is a powerful set of ideals about collectivism and individualism, and societies have to find a balance between individual independence and co..."]
+      },
+      {
+        "title": "Symbolic Boundaries and Ideology in the Norwegian Multicultural Society: A Longitudinal Study of Public Discourse",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Joshua Phelps", "Rolv Mikkel Blakar", "Erik Carlquist", "Kim Rand"],
+        "abstract": ["Group boundaries between immigrant minority and majority members are currently undergoing considerable and complex changes in European multicultural societies due to migration. In this paper, we present a descriptive, longitudinal investigation of the usage of linguistic expressions in Norwegian media discourse that describe symbolic boundary devel..."]
+      },
+      {
+        "title": "Ideology and Social Psychology",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["Hilde Eileen Nafstad", "Rolv Mikkel Blakar"],
+        "abstract": ["This article takes as critical point of departure the currently individualized nature of mainstream social psychology. It is argued that by using the concept of ideology, social psychology may be transformed into a more societal social psychology and thereby a discipline more relevant to individual, society and social life. Based on the interplay b..."]
+      },
+      {
+        "title": "\"Dissappearing\" transsexuals? Norwegian trans-discourses, visibility, and diversity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Katrina Roen", "Rolv Mikkel Blakar", "Hilde Eileen Nafstad"],
+        "abstract": ["Transsexuality was produced as a psycho-medical, social, and discursive phenomenon during the 20 th century. Struggles over the meanings of 'transsexuality' and 'transgenderism' persist today and are evident in Norwegian trans-discourse. We offer an analysis of these struggles with a focus on (i) how particular discursive positionings render some t..."]
+      },
+      {
+        "title": "Schizofreni og kommunikasjon: Førebels presentasjon av ei eksperimentell tilnærming",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["Vidstående artikel som redogör för försök att experimentellt belysa kommunikations-svärigheter hos schizofrena är författad av Rolv Mikkel Blakar som är cand. psychol. och från1974 vetenskaplig assistent vid Psykologisk Institutt, U'niversitetet i Oslo. Blakar har bl a publicerat boken “Språk er makt” (Oslo: Pax, 1973)."]
+      },
+      {
+        "title": "Schizofreni og kommunikasjon: Replikasjonar og kontrollstudium",
+        "tags": ["Article"],
+        "date": "Jul 2009",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["Artikkelen gjev eit kort oversyn over den familie- og kommunikasjonsorienterte forskninga i tilknytning til psy-kisk tiding og awikande atferd (spesielt schizofreni) som har vorte utført ved Psykologisk institute Universitetet i Oslo i perioden etter at forfattaren i 1974 i NPT skisserte eit program og presenterte ein metode for slik forsk-ning."]
+      },
+      {
+        "title": "Globalization, ideologies and well-being: A study of a West African and a North European society",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2009",
+        "authors": ["Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Albert Botchway", "Kim Rand"],
+        "abstract": ["Ideologies shape people's belief systems about what constitutes a good life and well-being and how to navigate between considerations of own well-being versus the well-being of others. The present study investigates ideologies in West African Ghana and North European Norway. Comparative, longitudinal analyses of ideological shifts reflected in chan..."]
+      },
+      {
+        "title": "Globalization, Neo-Liberalism and Community Psychology",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2009",
+        "authors": ["Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Erik Carlquist", "Kim Rand"],
+        "abstract": ["A longitudinal analysis (1984-2005) of media language in Norway is presented, demonstrating how the current globalized capitalist market ideology is now permeating this long-established Scandinavian welfare state. This ideological shift carries powerful implications for community psychology, as traditional welfare state values of equal services bas..."]
+      },
+      {
+        "title": "The spirit of society and the virtue of gratitude: Shifting societal ideologies of gratitude.",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Kim Rand"],
+        "abstract": []
+      },
+      {
+        "title": "Unrepresentativeness of studies on memory of verbal material",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["Blakar, R. M. Unrepresentativeness of studies on memory of verbal material. Scand. J. Psychol., 1973, 14, 9–11. -The dominant traditions in studying memory of verbal material are criticized for lack of representativeness in that the stimulus material is particularistic, “meaningless” or presented out of relevant contexts, and presented more than on..."]
+      },
+      {
+        "title": "Schizophrenic patients and their parents",
+        "tags": ["Article"],
+        "date": "Aug 2007",
+        "authors": ["Bjørn Rishovd Rund", "Rolv Mikkel Blakar"],
+        "abstract": ["ABSTRACT The research design and main findings from a multimethod research project, in which cognitive disorders in schizophrenic patients and communication deviances in their parents were examined, are presented. Non-paranoid schizophrenics manifested cognitive disturbances on a majority of the variables examined, while paranoid schizophrenics did..."]
+      },
+      {
+        "title": "Community and care work in a world of changing ideologies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2007",
+        "authors": ["Hilde Eileen Nafstad", "Erik Carlquist", "Rolv Mikkel Blakar"],
+        "abstract": ["Seymour B. Sarason, one of the founders of community psychology, has stated the need for developing barometers of community changes. The authors present a methodology for identifying societal ideologies, ideological shifts and power relations as reflected by the language of public discourse. As a case study, systematic analyses of changes in the No..."]
+      },
+      {
+        "title": "Ideology and power: The influence of current neo-liberalism in society",
+        "tags": ["Article"],
+        "date": "Jul 2007",
+        "authors": ["Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Erik Carlquist", "Kim Rand"],
+        "abstract": ["Understanding power requires analysis of the intra-personal, interpersonal, inter-group as well as the ideological levels. The present study demonstrates the importance of the ideological level. A longitudinal analysis (1984–2005) of media language in Norwegian public discourse demonstrates how the current globalised capitalist market ideology has..."]
+      },
+      {
+        "title": "Community Psychology in a Scandinavian Welfare Society: The Case of Norway",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Erik Carlquist", "Hilde Eileen Nafstad", "Rolv Mikkel Blakar"],
+        "abstract": ["In the current review of CP in Norway, it is concluded that little CP is being undertaken, according to a stringent definition\nof CP work. However, many Norwegian psychologists across a wide scope of fields integrate and adopt CP principles in their\nwork. Yet, the critical and political nature of CP has been absent. This situation is explained on t..."]
+      },
+      {
+        "title": "Globalizzazione, ideologia e benessere",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2006",
+        "authors": ["Hilde Eileen Nafstad", "Erik Carlquist", "Kim Rand", "Rolv Mikkel Blakar"],
+        "abstract": []
+      },
+      {
+        "title": "The representation of social issues in public discourse and newspaper language: A comment on Gardikiotis, Martin and Hewstone's (2004) study",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Hilde Eileen Nafstad", "Joshua Phelps", "Erik Carlquist", "Rolv Mikkel Blakar"],
+        "abstract": ["Gardikiotis, Martin and Hewstone (2004) investigated the representation of majority versus minority headlines in five British newspapers over a period of five years. They found majority headlines to be twice as frequent as minority headlines. However, they identified headlines with the search words ‘majority’ and ‘minority’ only in the singular for..."]
+      },
+      {
+        "title": "Communication Efficiency in Couples With and Without A Schizophrenic Offspring",
+        "tags": ["Article"],
+        "date": "Aug 2004",
+        "authors": ["HELGE ARNULF SØLVBERG", "Rolv Mikkel Blakar"],
+        "abstract": ["A new, experimental method was developed to study language and communication in schizophrenia, employing the device of a map task. Two subjects are given what they believe are identical maps. Subject A is called upon to explain a route to Subject B, whose map has, in fact, an additional street marked on it. Comparing five parent dyads of schizophre..."]
+      },
+      {
+        "title": "Schizophrenic patients and their parents. A multimethod design and the findings from an illustrative empirical study of cognitive disorders and communication deviances",
+        "tags": ["Article"],
+        "date": "Nov 1986",
+        "authors": ["Bjørn Rishovd Rund", "Rolv Mikkel Blakar"],
+        "abstract": ["The research design and main findings from a multimethod research project, in which cognitive disorders in schizophrenic patients and communication deviances in their parents were examined, are presented. Non-paranoid schizophrenics manifested cognitive disturbances on a majority of the variables examined, while paranoid schizophrenics did not. Lik..."]
+      },
+      {
+        "title": "Current trends in Norwegian social psychology: A brief review",
+        "tags": ["Article"],
+        "date": "Apr 1982",
+        "authors": ["Hilde Eileen Nafstad", "Rolv Mikkel Blakar"],
+        "abstract": []
+      },
+      {
+        "title": "Schizophrenia and Familial Communication: A Brief Note on Follow-up Studies and Replications",
+        "tags": ["Article"],
+        "date": "Apr 1981",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["In 1975 Helge Sølvberg and I published an exploratory paper in Family Process reporting on situation-specific differences in communication efficiency in parental couples having and not having schizophrenic offspring. In the years since, a series of studies reproducing and extensively corroborating the findings from this study have been conducted in..."]
+      },
+      {
+        "title": "A Comment on an Abstract",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1981",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["Comments on the abstract provided by Schizophrenia Bulletin for the current author's original article, \"Schizophrenia and communication efficiency: A modified replication taking ecological variation into consideration,\" (see record 1980-07679-001). The author acknowledges that abstract services of the kind provided by Schizophrenia Bulletin constit..."]
+      },
+      {
+        "title": "Statistical Significance Versus Theoretical Clarification: A Comment on the Doane-Jacob and Grounds Dispute",
+        "tags": ["Article"],
+        "date": "Oct 1980",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["The fundamental deficiency in interactional research has been the lack of definition in the concept of communication rather than the lack of empirical data. An attempt at theoretical clarification was made by Sølvberg and Blakar's experimental manipulation of a communication task presented to parental couples with and without a schizophrenic offspr..."]
+      },
+      {
+        "title": "Egocentrism and Inefficiency in the Communication of Families Containing Schizophrenic Members",
+        "tags": ["Article"],
+        "date": "Jan 1980",
+        "authors": ["Svein Mossige", "Rita Bast-Pettersen", "Rolv Mikkel Blakar"],
+        "abstract": ["Conceptual and methodological shortcomings of research on family and interactional psychopathology are owing mainly to the use of vague and ill-defined concepts of communication. Based on a theory of language use and communication within general social and cognitive psychology (e.g., Heider, Mead, Piaget, Rometvet) Blakar has outlined a methodology..."]
+      },
+      {
+        "title": "Control and Self-confidence as Reflected in Sex-Bound Patterns in Communication: An Experimental Approach",
+        "tags": ["Article"],
+        "date": "Jan 1980",
+        "authors": ["Rolv Mikkel Blakar", "Tove Beate Pedersen"],
+        "abstract": ["Very little of the recent research on 'sex and language' has contributed much to our understanding of the actual nature of these phenomena. There has been a failure to adopt a communication perspective, and the impact of the situation has been ignored. This present study assesses the verbal communication of the four possible dyadic sex combinations..."]
+      },
+      {
+        "title": "Mossige S, Bast Pettersen R, Blakar RM; Egocentrism and inefficiency in the communiccation of families containing schizophrenic members. Family Process 18/ 1979, 405-425",
+        "tags": ["Article"],
+        "date": "Jan 1979",
+        "authors": ["Svein Mossige", "Rita Bast-Pettersen", "Rolv Mikkel Blakar"],
+        "abstract": []
+      },
+      {
+        "title": "Schizophrenia and communication efficiency. A modified replication taking ecological variation into consideration",
+        "tags": ["Article"],
+        "date": "Nov 1978",
+        "authors": ["Rolv Mikkel Blakar", "O G Paulsen", "H A Sølvberg"],
+        "abstract": ["An earlier study (Sølvberg & Blakar (1975)) testified to subtle differences in communication efficiency over different communication situations by parental couples with and without schizophrenic offspring. The present study is offered as a replication of this study, but whereas the participating couples in the original study were recruited from a b..."]
+      },
+      {
+        "title": "Communication in the family of the asthmatic child. An experimental approach",
+        "tags": ["Article"],
+        "date": "Feb 1978",
+        "authors": ["R. J. Wikran", "A Faleide", "Rolv Mikkel Blakar"],
+        "abstract": ["The literature is reviewed in order to see what support, direct or indirect, was to be found for adopting a communication perspective in gaining insight into childhood asthma.\nA study is presented on the communication (pattern and efficiency) of parents having an asthmatic child in a standardized communication situation in which a communication con..."]
+      },
+      {
+        "title": "Current Social Psychology in Norway: A Trend Report(Report prepared for the Transnational Committee on Social Psychology, October 1976)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1978",
+        "authors": ["Rolv Mikkel Blakar", "Hilde Eileen Nafstad"],
+        "abstract": []
+      },
+      {
+        "title": "SCHIZOFRENI OG KOMMUNIKASJON: Ein litteraturguide",
+        "tags": ["Article"],
+        "date": "Jan 1976",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["Kommunikasjonsperspektivet har hatt ei nesten enorm gjennomslagskraft i studiet av schizofreni (og psykopatologi generelt) dei siste åra. Artikkelforfattaren presenterer her ein guide til den omfattande litteraturen på dette feltet, og prøver saerleg å skissere utviklingstendensane frå den tidlige Optimismen fram mot den langt meir nøkterne eller n..."]
+      },
+      {
+        "title": "How sex roles are represented, reflected and conserved in the Norwegian Language",
+        "tags": ["Article"],
+        "date": "Apr 1975",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["As an example of the complicated \"language - social reality\" relationship, the representation of the sex roles (social reality) in Norwegian (language), is analysed. The main part is devoted to an analysis of \"social realities\" im plied by the words \"mann\" (man) and \"kvinne\" (woman). Various tech niques, varying from dictionaries via word associati..."]
+      },
+      {
+        "title": "Utterances in Vacuo and in Contexts: An Experimental and Theoretical Exploration of Some Interrelationships Between What Is Heard and What Is Seen or Imagined",
+        "tags": ["Article"],
+        "date": "Jan 1975",
+        "authors": ["Rolv Mikkel Blakar", "RAGNAR ROMMETVEIT"],
+        "abstract": []
+      },
+      {
+        "title": "Distinguishing Social and Individual Psychology",
+        "tags": ["Article"],
+        "date": "Feb 1974",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": [".— The problem analyzed is how (according to what rules) to disentangle social and individual aspects in, e.g., an act of communication. Taking as point of departure the everyday fact that social relationships as well as individuals may be assessed across variables, an attempt was made to classify variables as either social or individual. It was fo..."]
+      },
+      {
+        "title": "An Experimental Method for Inquiring Into Communication",
+        "tags": ["Article"],
+        "date": "Oct 1973",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["An experimental method for inquiring into the organization of an act of communication is presented, the basic idea being to create an interactional setting where one of the basic prerequisites for successful communication is not satisfied. In this particular design, the subjects interact under the false belief that they are sharing the same ‚here'...."]
+      },
+      {
+        "title": "Induced semantic‐associative states and resolution of binocular‐rivalry conflicts between letters",
+        "tags": ["Article"],
+        "date": "Sep 1973",
+        "authors": ["RAGNAR ROMMETVEIT", "Rolv Mikkel Blakar"],
+        "abstract": ["Rommetveit, R. & Blakar, R. M. Induced semanticassociative states and resolution of binocular-rivalry conflicts between letters. Scand. J. Psychol., 1973, 14, 185–194. MdashPairs of rivaling words such as hell/tell were presented in conjunction with context words, appearing 0, 1, and 4 sec before the rivalry pair. In addition, nonword pairs such as..."]
+      },
+      {
+        "title": "Context Effects and Coding Stations in Sentence Processing",
+        "tags": ["Article"],
+        "date": "Sep 1973",
+        "authors": ["Rolv Mikkel Blakar"],
+        "abstract": ["Blakar, R. M. Context effects and coding stations in sentence processing. Scand. J. Psychol., 1973, 14, 103–105.-Using a proof-reading technique, with a sentence split up in such a way that the 16 subjects participating had to correct each typing error at different coding stations within the sentence, it was found: (a) Extending the context perceiv..."]
+      },
+      {
+        "title": "Community Psychology in Norway: Changing Conditions and New Challenges",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Hilde Eileen Nafstad", "Rolv Mikkel Blakar", "Erik Carlquist"],
+        "abstract": ["(Teil)Disziplin liegen in dem Wohlfahrtssystem des Landes, in dem sich viele gemeindepsychologische Ziele wieder finden. Die Vermeidung sozialer Ungleichheit und die Stärkung des Gemeinschaftsgefühls gehör(t)en spätestens nach dem zweiten Weltkrieg zu den zentralen Dimensionen der Sozialpolitik. Das Umfeld war damit wenig dafür geeignet, dass die G..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [48],
+    "reads": [12142],
+    "citations": [667]
   }
 }

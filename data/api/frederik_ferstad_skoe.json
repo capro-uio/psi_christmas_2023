@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Frederik Ferstad Skoe",
-    "id": "1504855",
+    "name": ["Frederik Ferstad Skoe"],
+    "id": ["1504855"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -27,5 +27,15 @@
         "url": "https://api.cristin.no/v2/results/2113100"
       }
     ]
+  },
+  "rg": {
+    "id": "Julie-Ferstad",
+    "name": "Julie Ferstad",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Høgskulen på Vestlandet | HVL, Høgskulen på Vestlandet, Centre for Educational Research",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

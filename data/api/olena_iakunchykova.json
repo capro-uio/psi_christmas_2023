@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Olena Iakunchykova",
-    "id": "drrLfLcAAAAJ",
-    "affiliation": "",
+    "name": ["Olena Iakunchykova"],
+    "id": ["drrLfLcAAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -296,8 +296,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-8972-3621",
-    "name": "Olena Iakunchykova",
+    "orcid": ["0000-0002-8972-3621"],
+    "name": ["Olena Iakunchykova"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -308,8 +308,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Olena Iakunchykova",
-    "id": "1007315",
+    "name": ["Olena Iakunchykova"],
+    "id": ["1007315"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", null],
     "img": {},
@@ -398,5 +398,173 @@
         "url": "https://api.cristin.no/v2/results/1770955"
       }
     ]
+  },
+  "rg": {
+    "id": "Olena-Iakunchykova",
+    "name": "Olena Iakunchykova",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279920140931075-1443749570434_Q128/Olena-Iakunchykova.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Adolescent Development", "Addiction Psychology", "Family Studies", "Epidemiology", "HIV Prevention", "Longitudinal Studies", "Psychiatry", "Public Health", "Behavioural Science", "Cell Biology"],
+    "works": [
+      {
+        "title": "Machine-learning derived heart and brain age are independently associated with cognition",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Olena Iakunchykova", "Henrik Schirmer", "Torgil Vangberg", "Tom Wilsgaard"],
+        "abstract": "Introduction: \nA heart age biomarker has been developed using deep neural networks applied to electrocardiograms. We investigated whether this biomarker is associated with cognitive function.\n\nMethods: \nUsing 12-lead electrocardiogram, heart age was estimated for a population-based sample (N = 7779, age 40-85 years, 45.3% men). Associations between..."
+      },
+      {
+        "title": "Comparing prevalence of chronic kidney disease and its risk factors between population-based surveys in Russia and Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Sarah Cook", "Marit D Solbu", "Elise Eggen", "Dorothea Nitsch"],
+        "abstract": "Background\nLittle data exists on the prevalence of chronic kidney disease (CKD) in the Russian population. We aimed to estimate the prevalence of CKD in a population-based study in Russia, compare with a similar study in Norway, and investigate whether differences in risk factors explained between-study differences in CKD.\n\nMethods\nWe compared age-..."
+      },
+      {
+        "title": "Capturing population differences in rates of vascular aging using a deep learning electrocardiogram algorithm: a cross-sectional study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Ernest Diez Benavente", "Francisco Lopez-Jimenez", "Olena Iakunchykova", "David A Leon"],
+        "abstract": "Background: Cardiovascular event rates increase with age in all populations. This is thought to be the result of multiple underlying molecular and cellular processes that lead to cumulative vascular damage. Apart from arterial stiffness based on pulse wave velocity there are few other non-invasive measures of this process of vascular aging. We have..."
+      },
+      {
+        "title": "Heavy alcohol drinking and subclinical echocardiographic abnormalities of structure and function",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Olena Iakunchykova", "Henrik Schirmer", "Darryl P Leong", "David A Leon"],
+        "abstract": "Objective\nThe aim of the study is to assess changes in heart structure and function associated with heavy alcohol use by comparing echocardiographic indices in a population-based sample to those in patients admitted to an inpatient facility with severe alcohol problems.\n\nMethods and results\nWe used data from the Know Your Heart study (2015–2017) wh..."
+      },
+      {
+        "title": "What factors explain the much higher diabetes prevalence in Russia compared with Norway? Major sex differences in the contribution of adiposity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Olena Iakunchykova", "Maria Averina", "Tom Wilsgaard", "David A Leon"],
+        "abstract": "Introduction\nCompared with many other countries Russia has a high prevalence of diabetes in men and women. However, contrary to what is found in most other populations, the risk is greater among women than men. The reasons for this are unclear.\n\nResearch design and methods\nPrevalence and risk factors for diabetes at ages 40–69 years were compared i..."
+      },
+      {
+        "title": "Quantifying the contribution of established risk factors to cardiovascular mortality differences between Russia and Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Sergi Trias-Llimós", "Lisa Pennells", "Aage Tverdal", "David A Leon"],
+        "abstract": "Surprisingly few attempts have been made to quantify the simultaneous contribution of well-established risk factors to CVD mortality differences between countries. We aimed to develop and critically appraise an approach to doing so, applying it to the substantial CVD mortality gap between Russia and Norway using survey data in three cities and mort..."
+      },
+      {
+        "title": "Pharmacological management of modifiable cardiovascular risk factors (blood pressure and lipids) following diagnosis of myocardial infarction, stroke and diabetes: Comparison between population-based studies in Russia and Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Sarah Cook", "Laila Arnesdatter Hopstock", "Elise Eggen", "David A Leon"],
+        "abstract": "Background: \nCardiovascular disease (CVD) mortality is substantially higher in Russia than in neighbouring Norway. We aimed to compare blood pressure- and lipid-lowering medication use and proportion meeting treatment targets between general population samples in the two countries in those with CVD and diabetes.\n\nMethods: \nThe study population was..."
+      },
+      {
+        "title": "Why does Russia have such high cardiovascular mortality rates? Comparisons of blood-based biomarkers with Norway implicate non-ischaemic cardiac damage",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Olena Iakunchykova", "Maria Averina", "Tom Wilsgaard", "David A Leon"],
+        "abstract": "Background\nRussia has one of the highest rates of mortality from cardiovascular disease (CVD). At age 35–69 years, they are eight times higher than in neighbouring Norway. Comparing profiles of blood-based CVD biomarkers between these two populations can help identify reasons for this substantial difference in risk.\n\nMethods\nWe compared age-standar..."
+      },
+      {
+        "title": "Evidence for a Direct Harmful Effect of Alcohol on Myocardial Health: A Large Cross‐Sectional Study of Consumption Patterns and Cardiovascular Disease Risk Biomarkers From Northwest Russia, 2015 to 2017",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Olena Iakunchykova", "Alexander Kudryavtsev"],
+        "abstract": "Background\nAlcohol drinking is an increasingly recognized risk factor for cardiovascular disease. However, there are few studies of the impact of harmful and hazardous drinking on biomarkers of myocardial health. We conducted a study in Russia to investigate the impact of heavy drinking on biomarkers of cardiac damage and inflammation.\n\nMethods and..."
+      },
+      {
+        "title": "OP20 Cardiovascular disease biomarker profiles among harmful and hazardous drinkers: a cross-sectional study from north west russia",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Olena Iakunchykova", "Maria Averina", "Alexander Kudryavtsev", "David A Leon"],
+        "abstract": "Background\nHeavy alcohol drinking is increasingly recognized as a risk factor for cardiovascular disease (CVD), although the mechanisms underlying this are not well understood. Moderate alcohol consumption is associated with changes in many blood biomarkers of cardiometabolic risk. There are however few studies of the impact of harmful and hazardou..."
+      },
+      {
+        "title": "Hepatitis C virus status awareness and test results confirmation among people who inject drugs in Ukraine",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Olena Iakunchykova", "Anna Meteliuk", "Alexei Zelenev", "Frederick L Altice"],
+        "abstract": "Background: \nAmong the estimated 340,000 people who inject drugs (PWID) in Ukraine, HCV prevalence is approximately 70%. As HCV treatment availability increases, an assessment of the HCV treatment cascade is needed to guide HCV prevention and treatment strategies.\n\nMethods: \nOpioid dependent PWID were interviewed and tested for HIV and HCV in five..."
+      },
+      {
+        "title": "Correlates of HIV and Inconsistent Condom Use Among Female Sex Workers in Ukraine",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Olena Iakunchykova", "Viktor Burlaka"],
+        "abstract": "While female sex workers (FSWs) carry one of the highest risks of HIV transmission, little is known about predictors of HIV and risky behavior of FSWs in Ukraine. In this study of 4806 Ukrainian FSWs, the prevalence of HIV was 5.6 %. FSWs had higher odds to be HIV infected if they had lower income, were older, injected drugs, experienced violence,..."
+      },
+      {
+        "title": "The Impact of Early Life Stress on Risk of Tobacco Smoking Initiation by Adolescents",
+        "tags": ["Article"],
+        "date": "Nov 2015",
+        "authors": ["Olena Iakunchykova", "Tatiana Andreeva", "David L. Nordstrom", "Nataliya Chislovska"],
+        "abstract": "Abstract\nAims\n\nOur study aimed to examine the association between early life stress and early initiation of alcohol and tobacco use.\nDesign\n\nThis prospective cohort study of women and children belongs to the Ukrainian component of the European Longitudinal Study of Pregnancy and Childhood.\nSetting\n\nDniprodzerzhynsk, a city of some 250,000 inhabitan..."
+      },
+      {
+        "title": "Studies of Etiology, Prevention and Treatment of Chemical Addictions: Summaries of the Core Articles",
+        "tags": ["Book", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Viktor Burlaka", "Olena Iakunchykova", "Olha Iurchenko", "Robert A Zucker"],
+        "abstract": "This work is the product of a collaboration between substance abuse researchers in the United States and in Ukraine. It is an outgrowth of a now 8 year long involvement of scientists from the University of Michigan Addiction Research Center (UMARC) with Ukrainian substance abuse researchers, and their junior colleagues who are just beginning work i..."
+      },
+      {
+        "title": "Maternal Smoking during Pregnancy and Adolescent Smoking Initiation and Continuation: A Prospective Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2015",
+        "authors": ["Olena Iakunchykova", "Tatiana Andreeva", "Zoreslava Shkiryak-Nizhnyk", "Nataliya Chislovska"],
+        "abstract": "Introduction: Our study uses data on smoking by mother before pregnancy, during pregnancy and their current smoking to examine the risk of tobacco smoking and early initiation of smoking by their adolescent children in a middle-income country.\n\nMethods: The present analysis is based on data from the Ukrainian component of the European Longitudinal..."
+      },
+      {
+        "title": "Optimal scaling for early life stress measurement",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Olena Iakunchykova", "Tatiana Andreeva", "Zoreslava Shkiryak-Nizhnyk", "Alexander Zvinchuk"],
+        "abstract": "BACKGROUND: Early life stress is associated with high risk for both negative psychological and physical health outcomes. However, many of the stressful life events inventories that have been used in epidemiological research have not been validated or checked for reliability or consistency. The aim of our study is to use optimal scaling and correspo..."
+      },
+      {
+        "title": "Optimal scaling for early life stress measurement. Tobacco Control and Public Health in Eastern Europe",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Olena Iakunchykova", "Tatiana Andreeva", "Zoreslava Shkiryak-Nizhnyk", "Nataliya Chislovska"],
+        "abstract": "BACKGROUND: Early life stress is associated with high risk for both negative psychological and physical health outcomes. However, many of the stressful life events inventories that have been used in epidemiological research have not been validated or checked for reliability or consistency. The aim of our study is to use optimal scaling and correspo..."
+      },
+      {
+        "title": "Alcohol drinking by parents and risk of alcohol abuse by adolescents.",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jul 2012",
+        "authors": ["Olena Iakunchykova", "Tatiana Andreeva", "Hryhorczuk D", "Antipkin Y"],
+        "abstract": "OBJECTIVE(S): To investigate associations between alcohol drinking by parents at different time of their life and alcohol use by adolescents.\nDESIGN: The longitudinal epidemiological study design was used to answer the proposed research questions. This study is based on the data of the Family and Children of Ukraine Study (FCOU), which is a prospec..."
+      },
+      {
+        "title": "The Impact of Early Life Stress on Risk of Tobacco Smoking Initiation by Adolescents",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2012",
+        "authors": ["Olena Iakunchykova", "Tatiana Andreeva", "Daniel O. Hryhorczuk", "Yuri G. Antipkin"],
+        "abstract": "BACKGROUND: Early life stress is known to be associated with increased propensity to substance abuse. The present study seeks to confirm the association between early life stress and tobacco smoking initiation by adolescents.\nMETHODS: This study is based on the data of the Family and Children of Ukraine Study (FCOU), which is a part of the cohort s..."
+      },
+      {
+        "title": "Kulagina R, Ananjeva G, Iakunchykova O, Andreeva T (2012) Familial and social factors of involving teenagers into alcohol use.",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Tatiana Andreeva", "Galina Ananjeva", "Olena Iakunchykova", "Radana Kulagina"],
+        "abstract": "/h3> Familial and social factors of involving teenagers into alcohol use Kulagina, Radana; Ananjeva, Galina; Iakunchykova, Olena; Andreeva, Tatiana BACKGROUND: Many authors discuss factors which influence involving adolescence into alcohol use. This study was aimed to assess contribution of factors related to alcohol use in the family, getting into..."
+      },
+      {
+        "title": "Iakunchykova O, Andreeva T (2012) Suboptimal parenting practices as a risk factor for adolescent alcohol consumption in Ukraine.",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Tatiana Andreeva", "Olena Iakunchykova"],
+        "abstract": "Iakunchykova, O. and T. Andreeva (2012). \"Suboptimal parenting practices as a risk factor for adolescent alcohol consumption in Ukraine.\" Tobacco Control and Public Health in Eastern Europe 2(1): 33-42. BACKGROUND: The objective of this study was to investigate the association between alcohol use by adolescents and relationships with parents/ paren..."
+      },
+      {
+        "title": "Families with increased risk of alcohol and tobacco use by adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Valeria Prosol", "Olena Iakunchykova", "Julia Kozlova", "Tatiana Andreeva"],
+        "abstract": "BACKGROUND. Increasing number of incomplete families is considered a negative trend in the society because it results in deterioration of the family’s educative function, due to which children in such families are more likely to start and practice antisocial behaviors. Many sociological studies showed that children from single-parent and reconstruc..."
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [22],
+    "reads": [3772],
+    "citations": [104]
   }
 }

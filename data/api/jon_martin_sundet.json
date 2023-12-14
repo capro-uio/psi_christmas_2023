@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Jon Martin Sundet",
-    "id": "24703",
+    "name": ["Jon Martin Sundet"],
+    "id": ["24703"],
     "keywords": ["Method", "Inheritance and environment", "Intelligence", "Psychometrics"],
     "position": ["Emeritus", null],
-    "img": "https://api.cristin.no/v2/persons/24703/picture",
+    "img": ["https://api.cristin.no/v2/persons/24703/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -606,5 +606,26 @@
         "url": "https://api.cristin.no/v2/results/352283"
       }
     ]
+  },
+  "rg": {
+    "id": "Jon-Martin-12",
+    "name": "Jon Martin",
+    "img": "https://i1.rgstatic.net/ii/profile.image/694699547439106-1542640687127_Q128/Jon-Martin-12.jpg",
+    "affiliation": "Pfeiffer University, Health Administration",
+    "keywords": ["Health Outcomes", "Health Care Delivery", "Health Care Management", "Healthcare Quality", "Health Inequality", "Health Management", "Health", "Healthcare", "Healthcare Management", "Public Health Administration"],
+    "works": [
+      {
+        "title": "Evaluating health disparities in healthcare settings utilizing a strategic business unit perspective with lean methods",
+        "tags": ["Poster"],
+        "date": "Feb 2016",
+        "authors": ["Nur Onvural", "Barnett R. Parker", "Jon Martin"],
+        "abstract": "According to the Health Resources and Services Administration, health disparities are defined as population specific differences in the presence of disease, health outcomes or access to healthcare. If a health outcome is seen to a greater or lesser extent between populations, there is disparity. \nThe strategic business unit (SBU) is a fully functio..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [44],
+    "citations": [0]
   }
 }

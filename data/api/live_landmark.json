@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Live Landmark",
-    "id": "UPz2Vh0AAAAJ",
-    "affiliation": "",
+    "name": ["Live Landmark"],
+    "id": ["UPz2Vh0AAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -45,8 +45,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0009-0004-8531-3539",
-    "name": "Live Landmark ",
+    "orcid": ["0009-0004-8531-3539"],
+    "name": ["Live Landmark "],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -62,8 +62,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Live Landmark",
-    "id": "1213071",
+    "name": ["Live Landmark"],
+    "id": ["1213071"],
     "keywords": [],
     "position": ["Guest", "Guest"],
     "img": {},
@@ -76,5 +76,15 @@
         "url": "https://api.cristin.no/v2/results/2182900"
       }
     ]
+  },
+  "rg": {
+    "id": "Ekhabar-Live",
+    "name": "Ekhabar Live",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272317498523691-1441936960084_Q128/Ekhabar-Live.jpg",
+    "affiliation": "asianweb link news portal, media",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

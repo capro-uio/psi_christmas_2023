@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Eva Elisabeth Aspaas Skoe",
-    "id": "21747",
+    "name": ["Eva Elisabeth Aspaas Skoe"],
+    "id": ["21747"],
     "keywords": ["Children", "Development Psychology", "Youth"],
     "position": ["Emeritus", null],
-    "img": "https://api.cristin.no/v2/persons/21747/picture",
+    "img": ["https://api.cristin.no/v2/persons/21747/picture"],
     "works": [
       {
         "type": "Academic literature review",
@@ -229,5 +229,15 @@
         "url": "https://api.cristin.no/v2/results/347302"
       }
     ]
+  },
+  "rg": {
+    "id": "Elisabeth-Aspaas-Runsjo",
+    "name": "Elisabeth Aspaas Runsjø",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Private Law",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

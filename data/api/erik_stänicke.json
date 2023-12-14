@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Erik Stänicke",
-    "id": "n2HkRIUAAAAJ",
-    "affiliation": "Associate Professor",
+    "name": ["Erik Stänicke"],
+    "id": ["n2HkRIUAAAAJ"],
+    "affiliation": ["Associate Professor"],
     "data": {
       "publications": [
         {
@@ -424,8 +424,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-3212-7770",
-    "name": "Erik Stänicke",
+    "orcid": ["0000-0003-3212-7770"],
+    "name": ["Erik Stänicke"],
     "distinctions": [],
     "education": [
       {
@@ -459,8 +459,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Erik Stänicke",
-    "id": "13462",
+    "name": ["Erik Stänicke"],
+    "id": ["13462"],
     "keywords": [],
     "position": ["Professor", null],
     "img": {},
@@ -483,21 +483,21 @@
       {
         "type": "Academic article",
         "year": "2023",
+        "url": "https://api.cristin.no/v2/results/2182708",
         "title": "The cultural change narrative as a core component of therapeutic change",
-        "journal": "Frontiers in Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2182708"
+        "journal": "Frontiers in Psychiatry"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Discussant on Victor Blüml's paper: Omnipotent states of mind",
-        "url": "https://api.cristin.no/v2/results/2181395"
+        "url": "https://api.cristin.no/v2/results/2181395",
+        "title": "Discussant on Victor Blüml's paper: Omnipotent states of mind"
       },
       {
         "type": "Academic lecture",
         "year": "2023",
-        "title": "Visions of psychoanalysis. Confronting modern Zeitgeist",
-        "url": "https://api.cristin.no/v2/results/2181393"
+        "url": "https://api.cristin.no/v2/results/2181393",
+        "title": "Visions of psychoanalysis. Confronting modern Zeitgeist"
       },
       {
         "type": "Popular scientific lecture",
@@ -507,72 +507,72 @@
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2107136",
         "title": "Causality in psychotherapy research: Towards evidential pluralism",
-        "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/2107136"
+        "journal": "Psychotherapy Research"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2022",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2088162"
+        "url": "https://api.cristin.no/v2/results/2088162",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Reader opinion piece",
         "year": "2022",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2071137"
+        "url": "https://api.cristin.no/v2/results/2071137",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Reader opinion piece",
         "year": "2022",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/2071132"
+        "url": "https://api.cristin.no/v2/results/2071132",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Discussant on Werner Bohleber: Self-agency and self-reflection – building blocks for a dual self theory\r\n\r\n",
-        "url": "https://api.cristin.no/v2/results/2070931"
+        "url": "https://api.cristin.no/v2/results/2070931",
+        "title": "Discussant on Werner Bohleber: Self-agency and self-reflection – building blocks for a dual self theory\r\n\r\n"
       },
       {
         "type": "Article in business/trade/industry journal",
         "year": "2022",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2067691"
+        "url": "https://api.cristin.no/v2/results/2067691",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/2067494"
+        "url": "https://api.cristin.no/v2/results/2067494",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2041367",
         "title": "Playing with Reality or Playing outside Reality: Transitional and Defensive Pretend Mode in Therapy with Children",
-        "journal": "Journal of Infant, Child, and Adolescent Psychotherapy (JICAP)",
-        "url": "https://api.cristin.no/v2/results/2041367"
+        "journal": "Journal of Infant, Child, and Adolescent Psychotherapy (JICAP)"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Scientific ideals in psychoanalysis or psychoanalysis as a scientific ideal",
-        "url": "https://api.cristin.no/v2/results/2039005"
+        "url": "https://api.cristin.no/v2/results/2039005",
+        "title": "Scientific ideals in psychoanalysis or psychoanalysis as a scientific ideal"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2019148",
         "title": "Troubled Relationships: A Retrospective Study of How Couples with Histories of Trauma Experience Therapy",
-        "journal": "Journal of Couple & Relationship Therapy",
-        "url": "https://api.cristin.no/v2/results/2019148"
+        "journal": "Journal of Couple & Relationship Therapy"
       },
       {
         "type": "Academic article",
         "year": "2022",
+        "url": "https://api.cristin.no/v2/results/2009183",
         "title": "Pedagogical stance in mentalization-based treatment",
-        "journal": "Journal of Clinical Psychology",
-        "url": "https://api.cristin.no/v2/results/2009183"
+        "journal": "Journal of Clinical Psychology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -582,8 +582,8 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2021",
-        "title": "The Catalytic Powers of Psychoanalytic Thought Models",
-        "url": "https://api.cristin.no/v2/results/1956222"
+        "url": "https://api.cristin.no/v2/results/1956222",
+        "title": "The Catalytic Powers of Psychoanalytic Thought Models"
       },
       {
         "type": "Interview",
@@ -598,37 +598,37 @@
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1950689",
         "title": "Negotiating gender in everyday life: Toward a conceptual model of gender dysphoria in adolescents",
-        "journal": "Archives of Sexual Behavior",
-        "url": "https://api.cristin.no/v2/results/1950689"
+        "journal": "Archives of Sexual Behavior"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1929025",
         "title": "Assessments in Psychotherapy with Suicidal Patients: The Precedence of Alliance Work",
-        "journal": "Journal of Contemporary Psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1929025"
+        "journal": "Journal of Contemporary Psychotherapy"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1921289",
         "title": "Shift in representation and symbolisation of affective experience: A paradoxical outcome in therapy",
-        "journal": "European Journal of Psychotherapy & Councelling",
-        "url": "https://api.cristin.no/v2/results/1921289"
+        "journal": "European Journal of Psychotherapy & Councelling"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1917278",
         "title": "Paradoxical outcomes in psychotherapy: Theoretical perspectives, research agenda and practice implications",
-        "journal": "European Journal of Psychotherapy & Councelling",
-        "url": "https://api.cristin.no/v2/results/1917278"
+        "journal": "European Journal of Psychotherapy & Councelling"
       },
       {
         "type": "Academic article",
         "year": "2021",
+        "url": "https://api.cristin.no/v2/results/1914711",
         "title": "Navigating in the dark: Meta-synthesis of subjective experiences of gender dysphoria amongst transgender and gender non-conforming youth",
-        "journal": "Social Science and Medicine",
-        "url": "https://api.cristin.no/v2/results/1914711"
+        "journal": "Social Science and Medicine"
       },
       {
         "type": "Interview",
@@ -643,48 +643,48 @@
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1841930",
         "title": "Development of therapeutic alliance in mentalization-based treatment—Goals, Bonds, and Tasks in a specialized treatment for borderline personality disorder",
-        "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/1841930"
+        "journal": "Psychotherapy Research"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2020",
-        "title": "Emerging concepts of time in psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1829428"
+        "url": "https://api.cristin.no/v2/results/1829428",
+        "title": "Emerging concepts of time in psychoanalysis"
       },
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "2020",
-        "title": "The Pragmatic Status of Psychoanalytic Theory: A Plea for Thought Models",
-        "url": "https://api.cristin.no/v2/results/1819588"
+        "url": "https://api.cristin.no/v2/results/1819588",
+        "title": "The Pragmatic Status of Psychoanalytic Theory: A Plea for Thought Models"
       },
       {
         "type": "Academic anthology/Conference proceedings",
         "year": "2020",
-        "title": "Respect for Thought: Jan Smedslund’s Legacy for Psychology",
-        "url": "https://api.cristin.no/v2/results/1819584"
+        "url": "https://api.cristin.no/v2/results/1819584",
+        "title": "Respect for Thought: Jan Smedslund’s Legacy for Psychology"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1819523",
         "title": "Antecedents of fathers’ perception of child behavior at child age 12 months",
-        "journal": "Infant Mental Health Journal",
-        "url": "https://api.cristin.no/v2/results/1819523"
+        "journal": "Infant Mental Health Journal"
       },
       {
         "type": "Reader opinion piece",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1806814",
         "title": "Response to Charles Hanly’s Commentary on “The Epistemological Stance of Psychoanalysis: Revisiting the Kantian Legacy”",
-        "journal": "The Psychoanalytic Quarterly",
-        "url": "https://api.cristin.no/v2/results/1806814"
+        "journal": "The Psychoanalytic Quarterly"
       },
       {
         "type": "Academic article",
         "year": "2020",
+        "url": "https://api.cristin.no/v2/results/1806811",
         "title": "The Epistemological Stance of Psychoanalysis: Revisiting the Kantian Legacy",
-        "journal": "The Psychoanalytic Quarterly",
-        "url": "https://api.cristin.no/v2/results/1806811"
+        "journal": "The Psychoanalytic Quarterly"
       },
       {
         "type": "Academic lecture",
@@ -719,9 +719,9 @@
       {
         "type": "Academic article",
         "year": "2019",
+        "url": "https://api.cristin.no/v2/results/1697861",
         "title": "Battles of the Comfort Zone: Modelling Therapeutic Strategy, Alliance, and Epistemic Trust—A Qualitative Study of Mentalization-Based Therapy for Borderline Personality Disorder",
-        "journal": "Journal of Contemporary Psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1697861"
+        "journal": "Journal of Contemporary Psychotherapy"
       },
       {
         "type": "Lecture",
@@ -741,83 +741,83 @@
       {
         "type": "Academic article",
         "year": "2018",
+        "url": "https://api.cristin.no/v2/results/1623296",
         "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
-        "journal": "Journal of Contemporary Psychotherapy",
-        "url": "https://api.cristin.no/v2/results/1623296"
+        "journal": "Journal of Contemporary Psychotherapy"
       },
       {
         "type": "Editorial",
         "year": "2018",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1607360"
+        "url": "https://api.cristin.no/v2/results/1607360",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Alliance, strategic competence and countertransferences in Mentalization-based therapy - Epistemic trust as a concept connected to alliance and strategic competence ",
-        "url": "https://api.cristin.no/v2/results/1604647"
+        "url": "https://api.cristin.no/v2/results/1604647",
+        "title": "Alliance, strategic competence and countertransferences in Mentalization-based therapy - Epistemic trust as a concept connected to alliance and strategic competence "
       },
       {
         "type": "Academic lecture",
         "year": "2018",
-        "title": "Beyond the illusion of mental health: making sense of cases where there is a discrepancy between qualitative and quantitative assessments of problem severity and outcome - A paradoxical outcome in therapy - Making sense of deterioration on psychometric assessments, when the client experienced the therapy as helpful",
-        "url": "https://api.cristin.no/v2/results/1604646"
+        "url": "https://api.cristin.no/v2/results/1604646",
+        "title": "Beyond the illusion of mental health: making sense of cases where there is a discrepancy between qualitative and quantitative assessments of problem severity and outcome - A paradoxical outcome in therapy - Making sense of deterioration on psychometric assessments, when the client experienced the therapy as helpful"
       },
       {
         "type": "Editorial",
         "year": "2018",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1604639"
+        "url": "https://api.cristin.no/v2/results/1604639",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1589597"
+        "url": "https://api.cristin.no/v2/results/1589597",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1589594"
+        "url": "https://api.cristin.no/v2/results/1589594",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2018",
+        "url": "https://api.cristin.no/v2/results/1358392",
         "title": "A listening perspective in psychotherapy with suicidal patients:\r\nEstablishing convergence in therapists and patients private theories on\r\nsuicidality and cure",
-        "journal": "Psychotherapy Research",
-        "url": "https://api.cristin.no/v2/results/1358392"
+        "journal": "Psychotherapy Research"
       },
       {
         "type": "Academic article",
         "year": "2017",
+        "url": "https://api.cristin.no/v2/results/1518717",
         "title": "How Usual is Treatment as Usual? Experienced Therapists’ Reflections on Participation in Practice-based Research.",
-        "journal": "Counselling Psychology Quarterly",
-        "url": "https://api.cristin.no/v2/results/1518717"
+        "journal": "Counselling Psychology Quarterly"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1486760"
+        "url": "https://api.cristin.no/v2/results/1486760",
+        "journal": "International Journal of Psychoanalysis"
       },
       {
         "type": "Feature article",
         "year": "2017",
-        "journal": "Fysioterapeuten",
-        "url": "https://api.cristin.no/v2/results/1474837"
+        "url": "https://api.cristin.no/v2/results/1474837",
+        "journal": "Fysioterapeuten"
       },
       {
         "type": "Feature article",
         "year": "2017",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/1448195"
+        "url": "https://api.cristin.no/v2/results/1448195",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Reader opinion piece",
         "year": "2017",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1446635"
+        "url": "https://api.cristin.no/v2/results/1446635",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Lecture",
@@ -842,8 +842,8 @@
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "How usual is treatment as usual? Experienced therapists’ reflections on research participation.",
-        "url": "https://api.cristin.no/v2/results/1324754"
+        "url": "https://api.cristin.no/v2/results/1324754",
+        "title": "How usual is treatment as usual? Experienced therapists’ reflections on research participation."
       },
       {
         "type": "Academic lecture",
@@ -858,8 +858,8 @@
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "The expert therapist reflecting on high Referential Activity (symbolization) in a session",
-        "url": "https://api.cristin.no/v2/results/1321780"
+        "url": "https://api.cristin.no/v2/results/1321780",
+        "title": "The expert therapist reflecting on high Referential Activity (symbolization) in a session"
       },
       {
         "type": "Popular scientific lecture",
@@ -884,8 +884,8 @@
       {
         "type": "Reader opinion piece",
         "year": "2015",
-        "journal": "Morgenbladet",
-        "url": "https://api.cristin.no/v2/results/1278237"
+        "url": "https://api.cristin.no/v2/results/1278237",
+        "journal": "Morgenbladet"
       },
       {
         "type": "Academic lecture",
@@ -900,27 +900,27 @@
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "Timing as an aspect of expertise",
-        "url": "https://api.cristin.no/v2/results/1277297"
+        "url": "https://api.cristin.no/v2/results/1277297",
+        "title": "Timing as an aspect of expertise"
       },
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "Expert therapists as clinicians and research participants",
-        "url": "https://api.cristin.no/v2/results/1261247"
+        "url": "https://api.cristin.no/v2/results/1261247",
+        "title": "Expert therapists as clinicians and research participants"
       },
       {
         "type": "Academic article",
         "year": "2015",
+        "url": "https://api.cristin.no/v2/results/1256226",
         "title": "Analytic change: Assessing ways of being in a psychoanalytic follow-up interview",
-        "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1256226"
+        "journal": "International Journal of Psychoanalysis"
       },
       {
         "type": "Reader opinion piece",
         "year": "2015",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/1256223"
+        "url": "https://api.cristin.no/v2/results/1256223",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Academic lecture",
@@ -930,8 +930,8 @@
       {
         "type": "Reader opinion piece",
         "year": "2015",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/1245993"
+        "url": "https://api.cristin.no/v2/results/1245993",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Lecture",
@@ -941,20 +941,20 @@
       {
         "type": "Reader opinion piece",
         "year": "2015",
-        "journal": "Aftenposten (morgenutg. : trykt utg.)",
-        "url": "https://api.cristin.no/v2/results/1243638"
+        "url": "https://api.cristin.no/v2/results/1243638",
+        "journal": "Aftenposten (morgenutg. : trykt utg.)"
       },
       {
         "type": "Popular scientific article",
         "year": "2014",
-        "journal": "Matrix",
-        "url": "https://api.cristin.no/v2/results/1187836"
+        "url": "https://api.cristin.no/v2/results/1187836",
+        "journal": "Matrix"
       },
       {
         "type": "Academic article",
         "year": "2014",
-        "journal": "Matrix",
-        "url": "https://api.cristin.no/v2/results/1187831"
+        "url": "https://api.cristin.no/v2/results/1187831",
+        "journal": "Matrix"
       },
       {
         "type": "Academic lecture",
@@ -1004,27 +1004,27 @@
       {
         "type": "Academic lecture",
         "year": "2014",
-        "title": "How does alliance work develop in phases of psychotherapy?",
-        "url": "https://api.cristin.no/v2/results/1142870"
+        "url": "https://api.cristin.no/v2/results/1142870",
+        "title": "How does alliance work develop in phases of psychotherapy?"
       },
       {
         "type": "Academic article",
         "year": "2014",
+        "url": "https://api.cristin.no/v2/results/1101644",
         "title": "\"Yes, of course it hurts when buds are breaking”:Therapist reactions to an adolescent client’s sexual material in psychodynamic psychotherapy",
-        "journal": "Journal of Clinical Psychology",
-        "url": "https://api.cristin.no/v2/results/1101644"
+        "journal": "Journal of Clinical Psychology"
       },
       {
         "type": "Popular scientific article",
         "year": "2013",
-        "journal": "Speilvendt",
-        "url": "https://api.cristin.no/v2/results/1079721"
+        "url": "https://api.cristin.no/v2/results/1079721",
+        "journal": "Speilvendt"
       },
       {
         "type": "Popular scientific article",
         "year": "2013",
-        "journal": "Speilvendt",
-        "url": "https://api.cristin.no/v2/results/1051272"
+        "url": "https://api.cristin.no/v2/results/1051272",
+        "journal": "Speilvendt"
       },
       {
         "type": "Academic lecture",
@@ -1039,9 +1039,282 @@
       {
         "type": "Academic article",
         "year": "2013",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1041794"
+        "url": "https://api.cristin.no/v2/results/1041794",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       }
     ]
+  },
+  "rg": {
+    "id": "Erik-Staenicke",
+    "name": "Erik Stänicke",
+    "img": "https://i1.rgstatic.net/ii/profile.image/735176363626496-1552291112017_Q128/Erik-Staenicke.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Psychotherapeutic Processes", "Treatment"],
+    "works": [
+      {
+        "title": "The cultural change narrative as a core component of therapeutic change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Astrid Hermann Tobiassen", "Thea Sundal", "Erik Stänicke", "Espen Jan Folmo"],
+        "abstract": ["Introduction\nResearch indicates a similar effect of Mentalization-based treatment (MBT) and Dialectical behavior therapy (DBT) for borderline personality disorder (BPD). However, there is a paucity in studies investigating the change narrative received from and developed in these treatments. The aim of the present study is to investigate similariti..."]
+      },
+      {
+        "title": "Causality in psychotherapy research: Towards evidential pluralism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Hanne Weie Oddli", "Erik Stänicke", "Margrethe Seeger Halvorsen", "Tobias Gustum Lindstad"],
+        "abstract": ["Identifying causal relationships is at the heart of all scientific inquiry, and a means to evidence-based practices and to guide policymaking. However, being aware of the complexities of interactions and relationships, scientists and academics are cautious about claiming causality. Researchers applying methods that deviate from the experimental des..."]
+      },
+      {
+        "title": "Folkeopplysningens konklusjon er misvisende",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Ole André Solbakken", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Hanne Strømme"],
+        "abstract": ["Folkeopplysningens siste episode presenterte en rekke problematiske påstander om effekten av psykoterapi. Heldigvis er påstandene allerede blitt imøtegått av en rekke fagpersoner, forfatterne av denne kommentaren inkludert, på flere arenaer i ettertid. Med dette innlegget ønsker vi å redegjøre mer detaljert for hvorfor konklusjonen fra Folkeopplysn..."]
+      },
+      {
+        "title": "«Jeg tror det er en illusjon at det ikke skal skinne igjennom»: En tematisk analyse av hvordan psykologer opplever at deres politiske verdier påvirker terapi",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Ezgi Kutal", "Erik Stänicke", "Ole Jacob Madsen"],
+        "abstract": ["Background: Political values are essential to our sense of self and belonging. Yet the political orientation of clinical psychologists has either been neglected in psychological research or been investigated only in the United States several decades ago. This study therefore aimed to explore political values among psychologists and how they perceiv..."]
+      },
+      {
+        "title": "Psykologers opplevelse av hvordan deres politiske verdier påvirker terapi: en tematisk analyse",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Ezgi Kutal", "Erik Stänicke", "Ole Jacob Madsen"],
+        "abstract": ["Background: Political values are essential to our sense of self and belonging. Yet the political orientation of clinical psychologists has either been neglected in psychological research or been investigated only in the United States several decades ago. This study therefore aimed to explore political values among psychologists and how they perceiv..."]
+      },
+      {
+        "title": "Den omnipotente terapeut og ISTDP debatten: Hva laerte vi?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Helene A. Nissen-Lie", "Erik Stänicke"],
+        "abstract": ["Vi oppsummerer debatten i Tidsskrift for Norsk Psykologforening som kom i kjølvannet av Camilla B. Flaatens bekymringsmelding etter ett år i intensiv psykodynamisk kortidsterapi (ISTDP). ISTDP-debatten reiser en større diskusjon om terapiens grunnlagsproblemer og vitenskapssyn – og til syvende og siste berører de store spørsmål i vårt fag, for ekse..."]
+      },
+      {
+        "title": "Playing with Reality or Playing outside Reality: Transitional and Defensive Pretend Mode in Therapy with Children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Fredrik Cappelen", "Erik Stänicke"],
+        "abstract": ["The theory of mentalization is about development of thinking about self, others, feelings, thoughts, and intentions, and how this thinking develops in the context of attachment relationship. The model describes how mentalization develops during childhood in stages from concrete undifferentiated thinking (teleological mode and psychic equivalence mo..."]
+      },
+      {
+        "title": "Assessments in Psychotherapy with Suicidal Patients: The Precedence of Alliance Work",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Kristin Østlie", "Erik Stänicke", "Hanne Haavind"],
+        "abstract": ["In this article the aim was to explore how therapists handle suicide risk assessment in connection with patient’s experience of alliance in psychotherapy. In a naturalistic, longitudinal study, 19 suicidal patients were interviewed three times: just before they started in therapy (T1), during the early phase (T2), and again after one year (T3). 17..."]
+      },
+      {
+        "title": "Troubled Relationships: A Retrospective Study of How Couples with Histories of Trauma Experience Therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Kristoffer Whittaker", "Erik Stänicke", "Sverre Urnes", "Sverre Urnes Johnson"],
+        "abstract": ["In the present study we aim to increase our knowledge of the relationship between childhood trauma and outcome in couple therapy. We sampled participants based on their sub-optimal responses to treatment as well as one member of the dyad having reported experiences of childhood trauma. Six participants constituting three couples were included. All..."]
+      },
+      {
+        "title": "Pedagogical stance in mentalization‐based treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Espen J. Folmo", "Tuva Langjord", "Nini C. S. Myhrvold", "Elfrida Kvarstein"],
+        "abstract": ["Background: \nA common aspect of evidence-based treatments for people with borderline personality disorder (BPD) is pedagogical interventions and formats. In mentalization-based treatment (MBT) the introductory course has a clear pedagogical format, but a pedagogical stance is not otherwise defined.\n\nMethods: \nTreatment integrity was quantitatively..."]
+      },
+      {
+        "title": "Moderne psykoanalytisk terapi: Samspillets potensial for utvikling og endring",
+        "tags": ["Chapter"],
+        "date": "Nov 2021",
+        "authors": ["Erik Stänicke", "Line Indrevoll Stänicke", "Hanne Strømme"],
+        "abstract": ["I dette kapittelet om psykoanalytisk terapi vil vi fokusere på et sentralt perspektiv innen moderne psykoanalyse, som betegnes som «moderne objektrelasjonsteori». Innen objektrelasjonsteori vil samspillserfaringer og utviklingsvansker betraktes som et sentralt grunnlag for å forstå psykiske lidelser. Det er de internaliserte, destruktive eller fors..."]
+      },
+      {
+        "title": "Negotiating Gender in Everyday Life: Toward a Conceptual Model of Gender Dysphoria in Adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Reidar Schei Jessen", "Anne Wæhre", "Linda W. David", "Erik Stänicke"],
+        "abstract": ["A growing number of adolescents are seeking medical care to alleviate gender dysphoria (GD). This qualitative study explored the subjective experiences of GD among help-seeking transgender and gender nonconforming (TGNC) youth in order to develop a more nuanced conceptualization of the phenomenon. Fifteen life-mode interviews were conducted with ne..."]
+      },
+      {
+        "title": "The Catalytic Powers of Psychoanalytic Thought Models",
+        "tags": ["Chapter"],
+        "date": "Oct 2021",
+        "authors": ["Erik Stänicke", "Tobias G. Lindstad"],
+        "abstract": ["We have earlier argued that many psychoanalytic ideas – and many aspects of psychotherapy perspectives in general – are best described as thought models, that is, notions that may be relevant for practice even though the aspects they are concerned with are not always manifested. Due to extensive empirical research, these ideas may now be thought of..."]
+      },
+      {
+        "title": "Shift in representation and symbolisation of affective experience: A paradoxical outcome in therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Lars Henrik Kaasen Thoresen", "Hans Hella Thørnquist", "Erik Stänicke", "John Mcleod"],
+        "abstract": ["Shift in representation and symbolisation of affective experience: A paradoxical outcome in therapyAbstract:\nDefining outcome represents a key challenge for psychotherapy theory, research and practice.The present paper uses a case study of a client with anorexia nervosa to contribute to thedevelopment of conceptual understanding of the nature of pa..."]
+      },
+      {
+        "title": "Paradoxical outcomes in psychotherapy: Theoretical perspectives, research agenda and practice implications",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Erik Stänicke", "John McLeod"],
+        "abstract": ["Client self-report symptom measures are widely used in counselling and\npsychotherapy research and practice to track client progress and evaluate\noutcome. A growing body of evidence indicates differences between selfreport assessments and information collected through other sources. This\npaper considers a range of theoretical and empirical perspecti..."]
+      },
+      {
+        "title": "Navigating in the dark: Meta-synthesis of subjective experiences of gender dysphoria amongst transgender and gender non-conforming youth",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Reidar Schei Jessen", "Ira Ronit Hebold Haraldsen", "Erik Stänicke"],
+        "abstract": ["Objective\nWe conducted a meta-synthesis of qualitative research on subjective experiences of gender dysphoria (GD) amongst transgender and gender non-conforming (TGNC) youth in order to improve clinical encounters, complement existing knowledge and potentially influence future research.\n\nMethods\nWe systematically searched for qualitative studies on..."]
+      },
+      {
+        "title": "Development of therapeutic alliance in mentalization-based treatment—Goals, Bonds, and Tasks in a specialized treatment for borderline personality disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Espen Folmo", "Erik Stänicke", "Merete Selsbakk Johansen", "Elfrida Kvarstein"],
+        "abstract": ["Objective: Mentalization-based treatment (MBT) is an evidence-based long-term treatment for borderline personality disorder (BPD). Alliance is central for effective psychotherapies. Few studies have addressed aspects of working alliance in BPD evidence-based treatments. This study aimed to investigate alliance development in MBT therapies with diff..."]
+      },
+      {
+        "title": "Emerging Concepts of Time in Psychoanalysis",
+        "tags": ["Chapter"],
+        "date": "Sep 2020",
+        "authors": ["Erik Stänicke"],
+        "abstract": ["Time is a central topic within philosophy. Martin Heidegger in particular has contended that time is one of the most significant questions. From a different angle, therapists who work with people in psychoanalysis frequently encounter the challenges of conceptualizing time. In this chapter I shall demonstrate how different aspects of time shed ligh..."]
+      },
+      {
+        "title": "The Pragmatic Status of Psychoanalytic Theory: A Plea for Thought Models",
+        "tags": ["Chapter"],
+        "date": "Jul 2020",
+        "authors": ["Erik Stänicke", "Tobias G. Lindstad"],
+        "abstract": ["We argue that the concepts, notions and assertions of psychoanalytic theory often constitute thought models that might be practically relevant. These models are thus theoretically anchored regulative principles that may be relevant for practice, although the aspects and relations they refer to are not always manifested. As such, they may contribute..."]
+      },
+      {
+        "title": "Antecedents of fathers’ perception of child behavior at child age 12 months",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Thomas Skjøthaug", "Lars Smith", "Tore Wentzel‐Larsen", "Vibeke Moe"],
+        "abstract": ["This study investigates whether fathers’ adverse childhood experiences (ACE) and attachment style reported during pregnancy predict fathers’ perception of child behavior assessed 12 months postpartum, expressed by the Parenting Stress Index (PSI), Child Domain. Prospective fathers (N = 835) were recruited to “The Little in Norway (LiN) study” (Moe..."]
+      },
+      {
+        "title": "The Epistemological Stance of Psychoanalysis: Revisiting the Kantian Legacy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Erik Stänicke", "Anders Zachrisson", "Arne Johan Vetlesen"],
+        "abstract": ["Psychoanalysis, as conceived by Freud, originates from an epistemological position that is often at odds with related disciplines such as psychology and psychiatry. We argue that psychoanalysis is wedded to a Kantian epistemology that is rigorously committed to modesty. The aim of the article is to illustrate how Freud’s thinking was embedded withi..."]
+      },
+      {
+        "title": "Response to Charles Hanly’s Commentary on “The Epistemological Stance of Psychoanalysis: Revisiting the Kantian Legacy”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Erik Stänicke", "Anders Zachrisson", "Arne Johan Vetlesen"],
+        "abstract": []
+      },
+      {
+        "title": "Respect for Thought Jan Smedslund’s Legacy for Psychology: Jan Smedslund’s Legacy for Psychology",
+        "tags": ["Book"],
+        "date": "Jan 2020",
+        "authors": ["Tobias G. Lindstad", "Erik Stänicke", "Jaan Valsiner"],
+        "abstract": ["This book explores and provides an overview of the Norwegian psychologist Jan Smedslund's life work on Psycho-logic. His contributions to science have been radical not only in challenging the empirical foundation of psychology, but also in seeking to develop a viable alternative. This book brings together various reflections on his key contribution..."]
+      },
+      {
+        "title": "Klinisk tenkning og psykoanalyse",
+        "tags": ["Book"],
+        "date": "Nov 2019",
+        "authors": ["Line Indrevoll Stänicke", "Erik Stänicke", "Hanne Strømme", "sølvi kristiansen"],
+        "abstract": ["Psykoanalysen har lang tradisjon både som personlighetsteori og behandlingsform. Men den kan også anvendes bredere; som et verktøy for å forstå menneskelig samspill både i nære relasjoner og på samfunnsnivå. I boken \"Klinisk tenkning og psykoanalyse\" illustreres bredden i dagens forståelse av psykoanalyse, med klinisk tenkning som rød tråd. Gjennom..."]
+      },
+      {
+        "title": "Battles of the Comfort Zone: Modelling Therapeutic Strategy, Alliance, and Epistemic Trust—A Qualitative Study of Mentalization-Based Therapy for Borderline Personality Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Espen Folmo", "Sigmund Karterud", "Mickey Toftkjær Kongerslev", "Erik Stänicke"],
+        "abstract": ["We propose a model for how therapeutic strategy, alliance, and epistemic trust interact to foster or hinder therapeutic processes. Four individual mentalization-based treatment (MBT) sessions were subjected to an in-depth qualitative comparison and interpretative phenomenological analysis. Two sessions had high adherence and quality ratings, and tw..."]
+      },
+      {
+        "title": "Expanding the Conceptualization of Outcome and Clinical Effectiveness",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Michael Helge Rønnestad", "Helene A. Nissen-Lie", "Hanne Weie Oddli", "Margrethe Seeger Halvorsen"],
+        "abstract": ["There is a need for studies that advance our knowledge of therapist eﬀectiveness, expanding the deﬁnition of what constitutes \ntherapeutic success. In the present study, four aspects of clinical outcome were analyzed using a sample of highly experienced \npsychotherapists (mean years of experience as therapy practitioners = 30) who also serve as cli..."]
+      },
+      {
+        "title": "Psykiatriboken: Sinn - kropp - samfunn 2. utgave.",
+        "tags": ["Book"],
+        "date": "Dec 2018",
+        "authors": ["Erik Stänicke", "Finn Skårderud"],
+        "abstract": []
+      },
+      {
+        "title": "Psykiatriboken - sinn, kropp og samfunn",
+        "tags": ["Book"],
+        "date": "Nov 2018",
+        "authors": ["Line Indrevoll Stänicke", "Erik Stänicke", "Finn Skårderud", "svein haugsgjerd"],
+        "abstract": ["Psykiatriboken er læreboken om psykiske lidelser. Forfatterne fremhever hvordan medisinske sykdomsmodeller, årsaksforklaringer og diagnoser i psykisk helsearbeid krever kunnskap, respekt og forståelse for menneskers ulike opplevelser av å leve med psykisk sykdom. Læreboken søker på denne måten å bidra til å fremme faglig handlingskompetanse for pro..."]
+      },
+      {
+        "title": "Psykoanalysens inntog i norsk psykologi og psykiatri: En historisk beretning",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Erik Stänicke"],
+        "abstract": ["The establishment of psychoanalysis in Norway\n\nThe authors give an account of how psychoanalysis was introduced in Norway, and how the Norwegian Psychoanalytic Society was established in 1934. The importance of its pioneers is outlined. The Norwegian analysts trained in Berlin before 1933, were drawn into a struggle against Nazism. The society’s cl..."]
+      },
+      {
+        "title": "How usual is treatment as usual? Experienced therapists’ reflections on participation in practice-based research",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Margrethe Seeger Halvorsen", "Kirsten Benum", "Hanne Weie Oddli", "John McLeod"],
+        "abstract": ["Studies have shown that many clinicians are skeptical about research and hesitant about participating in research. In the present study, we explored this issue by studying experienced therapists’ reflections on their participation in practice-based research. Data were drawn from a practice-based research study at the University of Oslo, Norway. Twe..."]
+      },
+      {
+        "title": "A listening perspective in psychotherapy with suicidal patients: Establishing convergence in therapists and patients private theories on suicidality and cure",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Kristin Østlie", "Erik Stänicke", "Hanne Haavind"],
+        "abstract": ["Objective: \nTo explore ways that psychotherapists and suicidal patients handle suicidality as a topic, and how it impacts the bond between them.\n\nMethod: \nNineteen suicidal patients and their therapists participated in a naturalistic study. Patients were interviewed before they started in therapy, and both patients and therapists were interviewed a..."]
+      },
+      {
+        "title": "Cambio analítico: evaluando los modos de ser en las entrevistas de seguimiento psicoanalíticas",
+        "tags": ["Article"],
+        "date": "May 2015",
+        "authors": ["Erik Stänicke", "Hanne Strømme", "Bjørn Killingmo", "Siri Erika Gullestad"],
+        "abstract": ["El artículo argumenta y propone que los conceptos de escenario relacional, afectos estructurados y afectos actualizados sean considerados a la hora de observar los cambios en los modos de ser relacionales que se expresan en la transferencia. Se presenta una entrevista psicoanalítica de seguimiento de un ex-paciente analítico para ilustrar cómo el c..."]
+      },
+      {
+        "title": "Analytic change: Assessing ways of being in a psychoanalytic follow-up interview",
+        "tags": ["Article"],
+        "date": "Mar 2014",
+        "authors": ["Erik Stänicke", "Hanne Strømme", "Bjørn Killingmo", "Siri Erika Gullestad"],
+        "abstract": ["The article argues that the concepts of relational scenario, structuralized affect and actualized affect are proposed candidates for observation of changes in relational ways of being as it is expressed in transference. A psychoanalytic follow-up interview of a former analytic patient is presented in order to illustrate how change in relational way..."]
+      },
+      {
+        "title": "“Yes, Of Course It Hurts When Buds Are Breaking”: Therapist Reactions to an Adolescent Client's Sexual Material in Psychodynamic Psychotherapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2014",
+        "authors": ["Helene A. Nissen-Lie", "Erik Stänicke"],
+        "abstract": ["This article focuses on the therapist's emotional reactions to a young female client's revelations about her fear of being raped that came up in the course of an open-ended psychodynamic psychotherapy. The client suffered from depression and emotional disturbance related to the overwhelming developmental tasks of adolescence, including individuatio..."]
+      },
+      {
+        "title": "Object trust: A specific kind of analytic change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2013",
+        "authors": ["Erik Stänicke", "Bjørn Killingmo"],
+        "abstract": ["Diversity of analytic change seems today to be taken as a fact. The present article aims at discussing subtle, but important, differences in concepts of analytic change. By starting with a structural viewpoint on analytic change it is argued that there may exist changes with a low degree of differentiation that are important to register. A former p..."]
+      },
+      {
+        "title": "Different Ways Of Moving Ahead After Analysis: Changes in Experiential Dimensions",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2011",
+        "authors": ["Erik Stänicke"],
+        "abstract": ["Within research on psychoanalysis, the common model of analytic change conceptualizes it as structural reorganization and development of self-analytic function. The present article takes as its point of departure analytic patients who, in follow-up interviews, do not present their experience of change according to this common model. Instead of cate..."]
+      },
+      {
+        "title": "A Widened Scope on Therapist Development: Designing a Research Interview Informed by Psychoanalysis",
+        "tags": ["Article"],
+        "date": "Aug 2010",
+        "authors": ["Hanne Strømme", "Siri Erika Gullestad", "Erik Stänicke", "Bjørn Killingmo"],
+        "abstract": ["This article presents a qualitative research interview method informed by psychoanalysis, which can collect data beyond the subjective report of the participants. The method has been used to study acquisition of psychodynamic understanding and therapy technique among student therapists in psychology. Within the psychodynamic tradition, the subjecti..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [37],
+    "reads": [8792],
+    "citations": [197]
   }
 }

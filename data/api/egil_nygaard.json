@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Egil Nygaard",
-    "id": "YWgSCmUAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Egil Nygaard"],
+    "id": ["YWgSCmUAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -544,8 +544,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-8865-4265",
-    "name": "Egil Nygaard",
+    "orcid": ["0000-0002-8865-4265"],
+    "name": ["Egil Nygaard"],
     "distinctions": [],
     "education": [
       {
@@ -556,10 +556,10 @@
       },
       {
         "start": "2012",
-        "end": "2016",
         "position": "Post doc",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "employment": [
@@ -571,10 +571,10 @@
       },
       {
         "start": "2012",
-        "end": "2016",
         "position": "Post doc",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "membership": [],
@@ -705,8 +705,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Egil Nygaard",
-    "id": "4375",
+    "name": ["Egil Nygaard"],
+    "id": ["4375"],
     "keywords": [],
     "position": ["Professor", "Researcher"],
     "img": {},
@@ -742,29 +742,29 @@
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Emotional competence training promotes teachers’ emotion socialization and classroom environment: Effects from a TIK-in-School pilot study",
         "journal": "Mental health & prevention",
-        "url": "https://api.cristin.no/v2/results/2158282"
+        "url": "https://api.cristin.no/v2/results/2158282",
+        "title": "Emotional competence training promotes teachers’ emotion socialization and classroom environment: Effects from a TIK-in-School pilot study"
       },
       {
         "type": "Academic article",
         "year": "2023",
-        "title": "Qualitative evaluation of the implementation of “Tuning in to Kids” in Norwegian Kindergartens",
         "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/2139792"
+        "url": "https://api.cristin.no/v2/results/2139792",
+        "title": "Qualitative evaluation of the implementation of “Tuning in to Kids” in Norwegian Kindergartens"
       },
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "TIKiS: Tuning in to Kids in School",
-        "url": "https://api.cristin.no/v2/results/2113100"
+        "url": "https://api.cristin.no/v2/results/2113100",
+        "title": "TIKiS: Tuning in to Kids in School"
       },
       {
         "type": "Academic article",
         "year": "2022",
-        "title": "A Randomized Controlled Trial of an Emotion Socialization Intervention in Norwegian Kindergartens",
         "journal": "Early Education and Development",
-        "url": "https://api.cristin.no/v2/results/2101125"
+        "url": "https://api.cristin.no/v2/results/2101125",
+        "title": "A Randomized Controlled Trial of an Emotion Socialization Intervention in Norwegian Kindergartens"
       },
       {
         "type": "Academic lecture",
@@ -809,8 +809,8 @@
       {
         "type": "Academic lecture",
         "year": "2022",
-        "title": "Child Mental Health Effects of Large-Scale School Curricular Changes: A Systematic Review",
-        "url": "https://api.cristin.no/v2/results/2052481"
+        "url": "https://api.cristin.no/v2/results/2052481",
+        "title": "Child Mental Health Effects of Large-Scale School Curricular Changes: A Systematic Review"
       },
       {
         "type": "Academic lecture",
@@ -835,22 +835,22 @@
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "The Stuttering and Language Link in Children with Down syndrome ",
-        "url": "https://api.cristin.no/v2/results/1950020"
+        "url": "https://api.cristin.no/v2/results/1950020",
+        "title": "The Stuttering and Language Link in Children with Down syndrome "
       },
       {
         "type": "Academic literature review",
         "year": "2021",
-        "title": "Unity or diversity of executive functioning in children and adolescents with post-traumatic stress symptoms? A systematic review and meta-analysis",
         "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/1938048"
+        "url": "https://api.cristin.no/v2/results/1938048",
+        "title": "Unity or diversity of executive functioning in children and adolescents with post-traumatic stress symptoms? A systematic review and meta-analysis"
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1938045"
+        "url": "https://api.cristin.no/v2/results/1938045",
+        "title": "A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment"
       },
       {
         "type": "Academic lecture",
@@ -865,23 +865,23 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "The association between difficulties with speech fluency and language skills in a national age cohort of children with Down syndrome.",
         "journal": "Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/1912121"
+        "url": "https://api.cristin.no/v2/results/1912121",
+        "title": "The association between difficulties with speech fluency and language skills in a national age cohort of children with Down syndrome."
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Occurrence of reading skills in a national age cohort of Norwegian children with Down syndrome: What characterizes those who develop early reading skills? ",
         "journal": "Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/1908543"
+        "url": "https://api.cristin.no/v2/results/1908543",
+        "title": "Occurrence of reading skills in a national age cohort of Norwegian children with Down syndrome: What characterizes those who develop early reading skills? "
       },
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Differences and similarities in predictors of expressive vocabulary development between children with down syndrome and young typically developing children",
         "journal": "Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/1908511"
+        "url": "https://api.cristin.no/v2/results/1908511",
+        "title": "Differences and similarities in predictors of expressive vocabulary development between children with down syndrome and young typically developing children"
       },
       {
         "type": "Academic lecture",
@@ -891,14 +891,14 @@
       {
         "type": "Academic lecture",
         "year": "2021",
-        "title": "The stuttering and language link in children with Down syndrome",
-        "url": "https://api.cristin.no/v2/results/1898553"
+        "url": "https://api.cristin.no/v2/results/1898553",
+        "title": "The stuttering and language link in children with Down syndrome"
       },
       {
         "type": "Report",
         "year": "2021",
-        "title": "Evaluation of Foreldrehverdag.no: a qualitative study",
-        "url": "https://api.cristin.no/v2/results/1872039"
+        "url": "https://api.cristin.no/v2/results/1872039",
+        "title": "Evaluation of Foreldrehverdag.no: a qualitative study"
       },
       {
         "type": "Programme participation",
@@ -918,16 +918,16 @@
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Sex Differences in Early Cognitive Development after Prenatal Exposure to Opioids",
         "journal": "Journal of Pediatric Psychology",
-        "url": "https://api.cristin.no/v2/results/1832224"
+        "url": "https://api.cristin.no/v2/results/1832224",
+        "title": "Sex Differences in Early Cognitive Development after Prenatal Exposure to Opioids"
       },
       {
         "type": "Academic literature review",
         "year": "2020",
-        "title": "Prenatal exposure to methadone or buprenorphine and long-term outcomes: A meta-analysis",
         "journal": "Early Human Development",
-        "url": "https://api.cristin.no/v2/results/1807743"
+        "url": "https://api.cristin.no/v2/results/1807743",
+        "title": "Prenatal exposure to methadone or buprenorphine and long-term outcomes: A meta-analysis"
       },
       {
         "type": "Interview",
@@ -980,27 +980,27 @@
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Glutensensitivity and development in children with Down Syndrome: A cross sectional study",
-        "url": "https://api.cristin.no/v2/results/1772385"
+        "url": "https://api.cristin.no/v2/results/1772385",
+        "title": "Glutensensitivity and development in children with Down Syndrome: A cross sectional study"
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Long-term outcomes after prenatal exposure to methadone or buprenorphine: A meta-analysis",
-        "url": "https://api.cristin.no/v2/results/1741970"
+        "url": "https://api.cristin.no/v2/results/1741970",
+        "title": "Long-term outcomes after prenatal exposure to methadone or buprenorphine: A meta-analysis"
       },
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Mental health in youth prenatally exposed to opioids and poly-drugs and raised in permanent foster/adoptive homes: A prospective longitudinal study",
         "journal": "Early Human Development",
-        "url": "https://api.cristin.no/v2/results/1741967"
+        "url": "https://api.cristin.no/v2/results/1741967",
+        "title": "Mental health in youth prenatally exposed to opioids and poly-drugs and raised in permanent foster/adoptive homes: A prospective longitudinal study"
       },
       {
         "type": "Academic lecture",
         "year": "2019",
-        "title": "Exploring Education in Mental Health (EMH): A new approach for teaching mental health literacy among secondary school students in Norway. ",
-        "url": "https://api.cristin.no/v2/results/1722082"
+        "url": "https://api.cristin.no/v2/results/1722082",
+        "title": "Exploring Education in Mental Health (EMH): A new approach for teaching mental health literacy among secondary school students in Norway. "
       },
       {
         "type": "Programme participation",
@@ -1031,16 +1031,16 @@
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Cognitive and socioemotional functioning at 4½ years in children born to mothers who have received treatment for substance-abuse problems while pregnant",
         "journal": "Infant Mental Health Journal",
-        "url": "https://api.cristin.no/v2/results/1629609"
+        "url": "https://api.cristin.no/v2/results/1629609",
+        "title": "Cognitive and socioemotional functioning at 4½ years in children born to mothers who have received treatment for substance-abuse problems while pregnant"
       },
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Neuroanatomical characteristics of youths with prenatal opioid and poly-drug exposure",
         "journal": "Neurotoxicology and Teratology",
-        "url": "https://api.cristin.no/v2/results/1593220"
+        "url": "https://api.cristin.no/v2/results/1593220",
+        "title": "Neuroanatomical characteristics of youths with prenatal opioid and poly-drug exposure"
       },
       {
         "type": "Academic lecture",
@@ -1065,62 +1065,62 @@
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Vocabulary in children with Down syndrome",
-        "url": "https://api.cristin.no/v2/results/1530322"
+        "url": "https://api.cristin.no/v2/results/1530322",
+        "title": "Vocabulary in children with Down syndrome"
       },
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Neurocognitive differences and mental health after prenatal opiate and polysubstance exposure",
-        "url": "https://api.cristin.no/v2/results/1492450"
+        "url": "https://api.cristin.no/v2/results/1492450",
+        "title": "Neurocognitive differences and mental health after prenatal opiate and polysubstance exposure"
       },
       {
         "type": "Academic lecture",
         "year": "2017",
-        "title": "Long-term outcomes after prenatal heroin and poly-substance exposure. Results from 20 years follow up",
-        "url": "https://api.cristin.no/v2/results/1483951"
+        "url": "https://api.cristin.no/v2/results/1483951",
+        "title": "Long-term outcomes after prenatal heroin and poly-substance exposure. Results from 20 years follow up"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Longitudinal relationship between self-efficacy and posttraumatic stress symptoms 8 years after a violent assault: An autoregressive cross-lagged model",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1473567"
+        "url": "https://api.cristin.no/v2/results/1473567",
+        "title": "Longitudinal relationship between self-efficacy and posttraumatic stress symptoms 8 years after a violent assault: An autoregressive cross-lagged model"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Cognitive function of youths born to mothers with opioid and poly-substance abuse problems during pregnancy",
         "journal": "Child Neuropsychology: A Journal of Normal and Abnormal Development in Childhood and Adolescence",
-        "url": "https://api.cristin.no/v2/results/1262123"
+        "url": "https://api.cristin.no/v2/results/1262123",
+        "title": "Cognitive function of youths born to mothers with opioid and poly-substance abuse problems during pregnancy"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "The profile of social functioning in children with Down syndrom (The Down Syndrome LanguagePlus-project)",
         "journal": "Disability and Rehabilitation",
-        "url": "https://api.cristin.no/v2/results/1373278"
+        "url": "https://api.cristin.no/v2/results/1373278",
+        "title": "The profile of social functioning in children with Down syndrom (The Down Syndrome LanguagePlus-project)"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Behavior and attention problems in eight- year-old children with prenatal opiate and poly-substance exposure: A longitudinal study",
         "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1365660"
+        "url": "https://api.cristin.no/v2/results/1365660",
+        "title": "Behavior and attention problems in eight- year-old children with prenatal opiate and poly-substance exposure: A longitudinal study"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "The relationship between psychiatric morbidity and quality of life: interview study of Norwegian tsunami survivors 2 and 6 years post-disaster",
         "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1363215"
+        "url": "https://api.cristin.no/v2/results/1363215",
+        "title": "The relationship between psychiatric morbidity and quality of life: interview study of Norwegian tsunami survivors 2 and 6 years post-disaster"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "General self-efficacy and posttraumatic stress after a natural disaster: a longitudinal study",
         "journal": "BMC Psychology",
-        "url": "https://api.cristin.no/v2/results/1349519"
+        "url": "https://api.cristin.no/v2/results/1349519",
+        "title": "General self-efficacy and posttraumatic stress after a natural disaster: a longitudinal study"
       },
       {
         "type": "Academic lecture",
@@ -1145,9 +1145,9 @@
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Longitudinal cognitive development of children born to\r\nmothers with opioid and polysubstance use",
         "journal": "Pediatric Research",
-        "url": "https://api.cristin.no/v2/results/1262103"
+        "url": "https://api.cristin.no/v2/results/1262103",
+        "title": "Longitudinal cognitive development of children born to\r\nmothers with opioid and polysubstance use"
       },
       {
         "type": "Lecture",
@@ -1162,16 +1162,16 @@
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Child Neuroanatomical, Neurocognitive, and Visual Acuity Outcomes With Maternal Opioid and Polysubstance Detoxification",
         "journal": "Pediatric Neurology",
-        "url": "https://api.cristin.no/v2/results/1209134"
+        "url": "https://api.cristin.no/v2/results/1209134",
+        "title": "Child Neuroanatomical, Neurocognitive, and Visual Acuity Outcomes With Maternal Opioid and Polysubstance Detoxification"
       },
       {
         "type": "Academic article",
         "year": "2015",
-        "title": "Posttraumatic growth, depression and posttraumatic stress in relation to quality of life in tsunami survivors: A longitudinal study",
         "journal": "Health and Quality of Life Outcomes",
-        "url": "https://api.cristin.no/v2/results/1204066"
+        "url": "https://api.cristin.no/v2/results/1204066",
+        "title": "Posttraumatic growth, depression and posttraumatic stress in relation to quality of life in tsunami survivors: A longitudinal study"
       },
       {
         "type": "Lecture",
@@ -1191,9 +1191,9 @@
       {
         "type": "Academic article",
         "year": "2014",
-        "title": "Early outreach to survivors of the shootings in Norway on the 22nd of July 2011",
         "journal": "European Journal of Psychotraumatology",
-        "url": "https://api.cristin.no/v2/results/1142231"
+        "url": "https://api.cristin.no/v2/results/1142231",
+        "title": "Early outreach to survivors of the shootings in Norway on the 22nd of July 2011"
       },
       {
         "type": "Academic lecture",
@@ -1208,86 +1208,86 @@
       {
         "type": "Academic article",
         "year": "2014",
-        "title": "Post-traumatic stress reactions in survivors of the 2011 massacre on Utøya Island, Norway",
         "journal": "British Journal of Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1056652"
+        "url": "https://api.cristin.no/v2/results/1056652",
+        "title": "Post-traumatic stress reactions in survivors of the 2011 massacre on Utøya Island, Norway"
       },
       {
         "type": "Academic lecture",
         "year": "2013",
-        "title": "A fine balance. How can we supply necessary support and outreach services and at the same time avoid interfering with survivors own coping efforts? ",
-        "url": "https://api.cristin.no/v2/results/1649142"
+        "url": "https://api.cristin.no/v2/results/1649142",
+        "title": "A fine balance. How can we supply necessary support and outreach services and at the same time avoid interfering with survivors own coping efforts? "
       },
       {
         "type": "Academic lecture",
         "year": "2013",
-        "title": "Post-traumatic stress reactions (PTSR) in survivors from a  terror attack in Norway: Exploring the meaning of gender, age, traumatic exposure and social support in an unselected and highly exposed group. ",
-        "url": "https://api.cristin.no/v2/results/1649136"
+        "url": "https://api.cristin.no/v2/results/1649136",
+        "title": "Post-traumatic stress reactions (PTSR) in survivors from a  terror attack in Norway: Exploring the meaning of gender, age, traumatic exposure and social support in an unselected and highly exposed group. "
       },
       {
         "type": "Academic lecture",
         "year": "2013",
-        "title": "Cognitive Abilities of Children Prenatally Exposed to Opiates and Polysubstances: A Longitudinal Study",
-        "url": "https://api.cristin.no/v2/results/1041868"
+        "url": "https://api.cristin.no/v2/results/1041868",
+        "title": "Cognitive Abilities of Children Prenatally Exposed to Opiates and Polysubstances: A Longitudinal Study"
       },
       {
         "type": "Academic lecture",
         "year": "2012",
-        "title": "Outreach and Follow-up in Norwegian Muncipalities After the 2011 Terror Attack",
-        "url": "https://api.cristin.no/v2/results/970388"
+        "url": "https://api.cristin.no/v2/results/970388",
+        "title": "Outreach and Follow-up in Norwegian Muncipalities After the 2011 Terror Attack"
       },
       {
         "type": "Doctoral dissertation",
         "year": "2012",
-        "title": "Posttraumatic stress reactions of Norwegian children and families after the Southeast Asian tsunami",
-        "url": "https://api.cristin.no/v2/results/958762"
+        "url": "https://api.cristin.no/v2/results/958762",
+        "title": "Posttraumatic stress reactions of Norwegian children and families after the Southeast Asian tsunami"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "World assumptions, posttraumatic stress and quality of life after a natural disaster: A longitudinal study",
         "journal": "Health and Quality of Life Outcomes",
-        "url": "https://api.cristin.no/v2/results/958732"
+        "url": "https://api.cristin.no/v2/results/958732",
+        "title": "World assumptions, posttraumatic stress and quality of life after a natural disaster: A longitudinal study"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "Stability of posttraumatic stress reaction factors and their relation to general mental health problems in children: A longitudinal study",
         "journal": "Journal of Clinical Child & Adolescent Psychology",
-        "url": "https://api.cristin.no/v2/results/869633"
+        "url": "https://api.cristin.no/v2/results/869633",
+        "title": "Stability of posttraumatic stress reaction factors and their relation to general mental health problems in children: A longitudinal study"
       },
       {
         "type": "Academic lecture",
         "year": "2011",
-        "title": "Association between family members posttraumatic stress reactions after the tsunami in South-East Asia December 26th 2004",
-        "url": "https://api.cristin.no/v2/results/973508"
+        "url": "https://api.cristin.no/v2/results/973508",
+        "title": "Association between family members posttraumatic stress reactions after the tsunami in South-East Asia December 26th 2004"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "title": "Family structure and posttraumatic stress reactions: a longitudinal study using multilevel analyses",
         "journal": "BMC Psychiatry",
-        "url": "https://api.cristin.no/v2/results/972056"
+        "url": "https://api.cristin.no/v2/results/972056",
+        "title": "Family structure and posttraumatic stress reactions: a longitudinal study using multilevel analyses"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "title": "Children's and parents' posttraumatic stress reactions after the 2004 tsunami",
         "journal": "Clinical Child Psychology and Psychiatry",
-        "url": "https://api.cristin.no/v2/results/869632"
+        "url": "https://api.cristin.no/v2/results/869632",
+        "title": "Children's and parents' posttraumatic stress reactions after the 2004 tsunami"
       },
       {
         "type": "Academic article",
         "year": "2010",
-        "title": "Posttraumatic Stress Reactions in Siblings After Mutual Disaster: Relevance of Family Factors",
         "journal": "Journal of Traumatic Stress",
-        "url": "https://api.cristin.no/v2/results/338721"
+        "url": "https://api.cristin.no/v2/results/338721",
+        "title": "Posttraumatic Stress Reactions in Siblings After Mutual Disaster: Relevance of Family Factors"
       },
       {
         "type": "Academic lecture",
         "year": "2009",
-        "title": "A longitudinal study of posttraumatic stress reactions in Norwegian children and adolescents exposed to the 2004 tsunami",
-        "url": "https://api.cristin.no/v2/results/973505"
+        "url": "https://api.cristin.no/v2/results/973505",
+        "title": "A longitudinal study of posttraumatic stress reactions in Norwegian children and adolescents exposed to the 2004 tsunami"
       },
       {
         "type": "Academic article",
@@ -1296,5 +1296,334 @@
         "url": "https://api.cristin.no/v2/results/533143"
       }
     ]
+  },
+  "rg": {
+    "id": "Egil-Nygaard",
+    "name": "Egil Nygaard",
+    "img": "https://i1.rgstatic.net/ii/profile.image/383297520717827-1468396658802_Q128/Egil-Nygaard.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cognitive Neuroscience", "Adolescent Development", "Child Development", "Cognitive Development", "Cognitive Neuropsychology", "Neuroimaging", "Developmental Psychopathology", "Psychology of Adolescence", "Executive Function", "Autism"],
+    "works": [
+      {
+        "title": "Emotional competence training promotes teachers’ emotion socialization and classroom environment: Effects from a TIK-in-School pilot study",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Evalill Bølstad Karevold", "A. Koleini", "F.F. Skoe", "Sophie S Havighurst"],
+        "abstract": []
+      },
+      {
+        "title": "Qualitative evaluation of the implementation of “Tuning in to Kids” in Norwegian Kindergartens",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Vilde Randen Skåland", "Sophie S Havighurst", "Egil Nygaard", "Inger Lise Teig"],
+        "abstract": ["Background\nFrom January to June 2020, 22 FUS kindergartens across Norway implemented Tuning in to Kids for Kindergarten Teachers (TIK-KT) as part of a randomized control trial (RCT). Between the evaluation of an intervention and use of it in daily practice, a research-to-practice gap can often occur. The theory of planned behavior constituted the t..."]
+      },
+      {
+        "title": "Prenatal exposure to opioids.",
+        "tags": ["Chapter"],
+        "date": "Jan 2023",
+        "authors": ["Egil Nygaard", "Jannike Mørch Andersen"],
+        "abstract": []
+      },
+      {
+        "title": "A Randomized Controlled Trial of an Emotion Socialization Intervention in Norwegian Kindergartens",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["Sophie S Havighurst", "Maud Edvoll", "Ida Tidemann", "Egil Nygaard"],
+        "abstract": ["Research Findings: Early childhood workers (ECW’s) play a pivotal role in shaping children’s emotional competence. This study examined the efficacy of Tuning in to Kids for Kindergarten Teachers (TIK-KT) used with CLASS observations to improve ECW’s emotion socialization, kindergarten emotional climate and children’s functioning. Five hundred and f..."]
+      },
+      {
+        "title": "A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Evalill Bølstad Karevold", "Sophie S Havighurst", "Christian K Tamnes", "Thomas Espeseth"],
+        "abstract": ["Adequate emotion regulation in children is crucial for healthy development and is influenced by parent emotion socialization. The current pilot study aimed to test, for the first time in a Scandinavian population, whether an emotion-focused intervention, Tuning in to Kids (TIK), had positive effects on parent emotion-related socialization behaviors..."]
+      },
+      {
+        "title": "Unity or diversity of executive functioning in children and adolescents with post-traumatic stress symptoms? A systematic review and meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Otelie Nyvold", "Egil Nygaard", "Else-Marie Augusti", "Christian K Tamnes"],
+        "abstract": ["For some children, psychological reactions to a traumatic event develop into severe or persistent post-traumatic stress symptoms (PTSS) or the clinical condition of post-traumatic stress disorder (PTSD). Cognitive problems in children with PTSS have been reported, but it is not clear which specific functions are affected. Executive functions is a d..."]
+      },
+      {
+        "title": "The Association between Difficulties with Speech Fluency and Language Skills in a National Age Cohort of Children with Down Syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Kari-Anne B. Næss", "Egil Nygaard", "Hilde Hofslundsengen", "J. Scott Yaruss"],
+        "abstract": ["The present study (a) addressed difficulties in speech fluency in children with Down syndrome and typically developing children at a similar non-verbal level and (b) examined the association between difficulties with speech fluency and language skills in children with Down syndrome. Data from a cross-sectional parent survey that included questions..."]
+      },
+      {
+        "title": "Occurrence of Reading Skills in a National Age Cohort of Norwegian Children with Down Syndrome: What Characterizes Those Who Develop Early Reading Skills?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Kari-Anne B. Næss", "Egil Nygaard", "Elizabeth Smith"],
+        "abstract": ["Children with Down syndrome are at risk of reading difficulties. Reading skills are crucial for social and academic development, and thus, understanding the nature of reading in this clinical group is important. This longitudinal study investigated the occurrence of reading skills in a Norwegian national age cohort of 43 children with Down syndrome..."]
+      },
+      {
+        "title": "Differences and Similarities in Predictors of Expressive Vocabulary Development between Children with Down Syndrome and Young Typically Developing Children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Kari-Anne B. Næss", "Johanne Ostad", "Egil Nygaard"],
+        "abstract": ["The purpose of this study was to examine potential differences in the predictors of expressive vocabulary development between children with Down syndrome and typically developing children to support preparation for intervention development. An age cohort of 43 children with Down syndrome and 57 typically developing children with similar nonverbal m..."]
+      },
+      {
+        "title": "Unity or diversity of executive functioning in children and adolescents with posttraumatic stress symptoms? A meta-analysis",
+        "tags": ["Preprint"],
+        "date": "Jan 2021",
+        "authors": ["Otelie Nyvold", "Egil Nygaard", "Else-Marie Augusti", "Christian K. Tamnes"],
+        "abstract": ["For some children the psychological reactions to a traumatic event develop into severe or persistent posttraumatic stress symptoms (PTSS) or the clinical condition of posttraumatic stress disorder (PTSD). Cognitive problems in children with PTSS have been reported, but it is not clear which specific functions are affected. Executive functions is a..."]
+      },
+      {
+        "title": "Sex Differences in Early Cognitive Development After Prenatal Exposure to Opioids",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Martine Skumlien", "Inge Olga Ibsen", "Ulrik Schiøler Kesmodel", "Egil Nygaard"],
+        "abstract": ["Objective: \nPrenatal opioid exposure has been linked with impaired cognitive development, with boys potentially at elevated risk. In the present study, we examined cognitive and language development of children prenatally exposed to opioids, with an additional focus on sex differences.\n\nMethods: \nA sample of 378 children (n = 194 girls and n = 184..."]
+      },
+      {
+        "title": "Prenatal exposure to methadone or buprenorphine and long-term outcomes: A meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Jannike Mørch Andersen", "Gudrun Høiseth", "Egil Nygaard"],
+        "abstract": ["Aim\nTo combine meta-analyses of multiple long-term outcomes in children prenatally exposed to methadone or buprenorphine through their mothers' Opioid maintenance therapy (OMT) with a systematic review of similar outcomes in experimental animals.\n\nMethod\nThe Medline, Embase, Web of Science, CINAHL, Cochrane and Epistemonikos databases were searched..."]
+      },
+      {
+        "title": "Mental health in youth prenatally exposed to opioids and poly-drugs and raised in permanent foster/adoptive homes: A prospective longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Background: \nLittle is known about the mental health of prenatally opioid- and polydrug-exposed youth raised in foster/adoptive families.\n\nAim: \nTo compare mental health problems among two groups of youth, one prenatally drug-exposed group with participants who were mainly placed in permanent foster or adoptive homes in early infancy and a group wi..."]
+      },
+      {
+        "title": "COGNITIVE AND SOCIOEMOTIONAL FUNCTIONING AT 4½ YEARS IN CHILDREN BORN TO MOTHERS WHO HAVE RECEIVED TREATMENT FOR SUBSTANCE‐ABUSE PROBLEMS WHILE PREGNANT",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Kristin Johanne Haabrekke", "Torill Siqveland", "Egil Nygaard", "Vibeke Moe"],
+        "abstract": ["Cognitive and socioemotional functioning at 4½ years of age were examined in children born to mothers with substance‐abuse problems (n = 22) recruited from residential treatment institutions while pregnant, and then compared to children born to mothers with mental health problems (n = 18) and children from a low‐risk group (n = 26). No significant..."]
+      },
+      {
+        "title": "Neuroanatomical characteristics of youths with prenatal opioid and poly-drug exposure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Neuroanatomical and cognitive differences have been documented during childhood between children with prenatal opioid- and poly-drug exposure and controls in small samples. We investigated whether these differences persisted in larger samples of youth at older ages. Quantitative MRI and cognitive data were compared between 38 youths in the risk gro..."]
+      },
+      {
+        "title": "Longitudinal Relationship between Self-efficacy and Posttraumatic Stress Symptoms 8 Years after a Violent Assault: An Autoregressive Cross-Lagged Model",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Egil Nygaard", "Venke A Johansen", "Johan Siqveland", "Trond Heir"],
+        "abstract": ["Self-efficacy is assumed to promote posttraumatic adaption, and several cross-sectional studies support this notion. However, there is a lack of prospective longitudinal studies to further illuminate the temporal relationship between self-efficacy and posttraumatic stress symptoms. Thus, an important unresolved research question is whether posttrau..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Egil Nygaard", "Venke A Johansen", "Johan Siqveland", "Trond Heir"],
+        "abstract": []
+      },
+      {
+        "title": "The profile of social functioning in children with Down syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Kari-Anne B. Næss", "Egil Nygaard", "Johanne Ostad", "Solveig-Alma Lyster"],
+        "abstract": ["Background: \nPractitioners and researchers have asserted for decades that social functioning is a strength in children with Down syndrome (DS). Nevertheless, some studies have concluded that children with DS may be at greater risk of impaired social functioning compared to typically developing controls. This cross-sectional study explores the profi..."]
+      },
+      {
+        "title": "Behavior and Attention Problems in Eight-Year-Old Children with Prenatal Opiate and Poly-Substance Exposure: A Longitudinal Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Multiple studies have found that children born to mothers with opioid or poly-substance use during pregnancy have more behavior and attention problems and lower cognitive functioning than non-exposed children. The present study aimed to investigate whether behavior and attention problems are more prominent than general cognitive deficits in this ri..."]
+      },
+      {
+        "title": "S1 Table",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Biological mothers’ use of substances during pregnancy (n = 72).\n(DOCX)"]
+      },
+      {
+        "title": "S2 File",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Relationship between Regulatory Problems and Cognitive Functioning.\n(DOCX)"]
+      },
+      {
+        "title": "S2 Table",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Differences between the participating (i.e., those whose parents completed the CBCL) and the non-participating children at 8 ½ years.\n(DOCX)"]
+      },
+      {
+        "title": "S1 File",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Additional Information about the Methods.\n(DOCX)"]
+      },
+      {
+        "title": "S3 Table",
+        "tags": ["Data"],
+        "date": "Jun 2016",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Correlation matrix of regulatory problems and cognitive functions for the drug-exposed and comparison groups at 8 ½ years of age.\n(DOCX)"]
+      },
+      {
+        "title": "The relationship between psychiatric morbidity and quality of life: Interview study of Norwegian tsunami survivors 2 and 6 years post-disaster",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Ajmal Hussain", "Egil Nygaard", "Johan Siqveland", "Trond Heir"],
+        "abstract": ["Background\nThe study investigated the impact of psychiatric disorders on Quality of Life (QOL) cross-sectionally and longitudinally in a group of Norwegian tourists severely exposed to the 2004 tsunami.\n\nMethods\nSixty-two adult Norwegian tsunami survivors were interviewed face to face 2 years post-tsunami (T1) and 58 were interviewed again by telep..."]
+      },
+      {
+        "title": "General self-efficacy and posttraumatic stress after a natural disaster: A longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Egil Nygaard", "Ajmal Hussain", "Johan Siqveland", "Trond Heir"],
+        "abstract": ["Background\nSelf-efficacy may be an important factor in individuals’ recovery from posttraumatic stress reactions after a natural disaster. However, few longitudinal studies have investigated whether self-efficacy predicts the course of posttraumatic recovery beyond lower initial levels of distress. The purpose of the present study was to investigat..."]
+      },
+      {
+        "title": "Cognitive function of youths born to mothers with opioid and poly-substance abuse problems during pregnancy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Egil Nygaard", "Kari Slinning", "Vibeke Moe", "Kristine Walhovd"],
+        "abstract": ["Previous research has provided inconclusive evidence regarding the neuropsychological difficulties of children born to mothers partaking in opioid or poly-drug use during pregnancy. Little is known about how these children fare as they get older. The present longitudinal study includes follow-up data on 45 children born to mothers who used heroin a..."]
+      },
+      {
+        "title": "Longitudinal cognitive development of children born to mothers with opioid and polysubstance use",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Egil Nygaard", "Vibeke Moe", "Kari Slinning", "Kristine Walhovd"],
+        "abstract": ["Previous studies indicate an increased risk for neuropsychological difficulties in young children prenatally exposed to opioids and polysubstances, but longitudinal information is scarce. The present longitudinal study investigated whether these waned, persisted, or increased over time.\nThe cognitive functioning of 72 children with prenatal opioid..."]
+      },
+      {
+        "title": "Posttraumatic growth, depression and posttraumatic stress in relation to quality of life in tsunami survivors: A longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2015",
+        "authors": ["Johan Siqveland", "Egil Nygaard", "Ajmal Hussain", "Trond Heir"],
+        "abstract": ["Background: Quality of life (QoL) may often be reduced in survivors of a natural disaster. This paper investigated how posttraumatic growth (PTG), depression and posttraumatic stress interact and independently predict QoL in a longitudinal study of disaster survivors.\nMethods: A total of 58 Norwegian adults who were present in Khao Lak, Thailand at..."]
+      },
+      {
+        "title": "Child Neuroanatomical, Neurocognitive, and Visual Acuity Outcomes With Maternal Opioid and Polysubstance Detoxification",
+        "tags": ["Article"],
+        "date": "Nov 2014",
+        "authors": ["Kristine Walhovd", "Astrid Bjørnebekk", "Kristin Johanne Haabrekke", "Vibeke Moe"],
+        "abstract": []
+      },
+      {
+        "title": "Early outreach to survivors of the shootings in Norway on the 22nd of July 2011",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Grete Dyb", "Tine K. Jensen", "Kristin Alve Glad", "Siri Thoresen"],
+        "abstract": ["Background: \nUnder-treatment and unmet needs among survivors have been documented years after terror attacks. Improved early and proactive outreach strategies, including targeted interventions for individuals in need, are required. After the terrorist attacks in Norway on 22 July 2011, a national, proactive outreach strategy was developed and imple..."]
+      },
+      {
+        "title": "Post-traumatic stress reactions in survivors of the 2011 massacre on Utoya Island, Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["Grete Dyb", "Tine K. Jensen", "Egil Nygaard", "Siri Thoresen"],
+        "abstract": ["Although youths in many countries have been exposed to terrorism, few studies have examined early risk and protective factors for the subsequent development of mental health problems.\nTo investigate the levels of post-traumatic stress in survivors of the 2011 massacre on Utøya Island compared with the general population in Norway, and to identify p..."]
+      },
+      {
+        "title": "World assumptions, posttraumatic stress and quality of life after a natural disaster: A longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2012",
+        "authors": ["Egil Nygaard", "Trond Heir"],
+        "abstract": ["Changes in world assumptions are a fundamental concept within theories that explain posttraumatic stress disorder. The objective of the present study was to gain a greater understanding of how changes in world assumptions are related to quality of life and posttraumatic stress symptoms after a natural disaster.\nA longitudinal study of 574 Norwegian..."]
+      },
+      {
+        "title": "Stability of Posttraumatic Stress Reaction Factors and Their Relation to General Mental Health Problems in Children: A Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Egil Nygaard", "Tine K. Jensen", "Grete Dyb"],
+        "abstract": ["The aim of this study was to evaluate the structure of posttraumatic stress reaction factors and their relation to general mental health problems in Norwegian children exposed to the tsunami on December 26, 2004. A total of 133 children and adolescents (ages 6-17) were interviewed 10 months posttsunami using the UCLA PTSD Reaction Index, and 104 we..."]
+      },
+      {
+        "title": "Posttraumatic stress reactions of Norwegian children and families after the Southeast Asian tsunami",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Egil Nygaard"],
+        "abstract": ["On December 26, 2004, the deadliest tsunami in recorded history hit Southeast Asia and\nkilled approximately 230,000 people. Approximately 4,000 Norwegians were in the affected\narea, most of whom were tourists, and many had horrific experiences. Fifty-eight Norwegian\nadults and 26 Norwegian children were killed. Previous research has indicated that..."]
+      },
+      {
+        "title": "Family structure and posttraumatic stress reactions: A longitudinal study using multilevel analyses",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Egil Nygaard", "Tore Wentzel-Larsen", "Ajmal Hussain", "Trond Heir"],
+        "abstract": ["There is limited research on the relevance of family structures to the development and maintenance of posttraumatic stress following disasters. We longitudinally studied the effects of marital and parental statuses on posttraumatic stress reactions after the 2004 Southeast Asian tsunami and whether persons in the same households had more shared str..."]
+      },
+      {
+        "title": "Children's and parents' posttraumatic stress reactions after the 2004 tsunami",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Grete Dyb", "Tine K. Jensen", "Egil Nygaard"],
+        "abstract": ["This study examined the association between parents' and children's posttraumatic stress reactions after the tsunami disaster in Southeast Asia in 2004. Parents of 319 Norwegian children and adolescents aged 6-18 years reported on children's exposure to the tsunami and children's immediate subjective responses. The Child Stress Disorder Checklist w..."]
+      },
+      {
+        "title": "Posttraumatic stress reactions in siblings after mutual disaster: Relevance of family factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2010",
+        "authors": ["Egil Nygaard", "Tine K. Jensen", "Grete Dyb"],
+        "abstract": ["In this study, the importance of family factors in the development of posttraumatic stress reactions in children after trauma is studied by comparing siblings and nonsiblings who experienced the tsunami in Southeast Asia in 2004 as tourists. Thirty-eight sibling pairs aged 6-17 years were interviewed using the UCLA Posttraumatic Stress Disorder Rea..."]
+      },
+      {
+        "title": "A Longitudinal Study of Posttraumatic Stress Reactions in Norwegian Children and Adolescents Exposed to the 2004 Tsunami",
+        "tags": ["Article"],
+        "date": "Oct 2009",
+        "authors": ["Tine K. Jensen", "Grete Dyb", "Egil Nygaard"],
+        "abstract": ["To investigate the prevalence of symptoms of posttraumatic stress disorder (PTSD) and factors related to level of these in children who experienced a catastrophe as tourists and were therefore able to return to the safety of their homeland.\nFace-to-face semistructured interviews and assessments.\nChildren and adults were interviewed in their homes 1..."]
+      },
+      {
+        "title": "Møtet med hjelpeapparatet etter tsunamien – behov og tilfredshet.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Kristin Alve Glad", "Tine K. Jensen", "Egil Nygaard", "Gertrud Sofie Hafstad"],
+        "abstract": []
+      },
+      {
+        "title": "Hepatitis C Treatment of Opioid Dependants Receiving Maintenance Treatment: Results of a Norwegian Pilot Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2007",
+        "authors": ["Aud L Krook", "Dorthe Stokka", "Bernt Heger", "Egil Nygaard"],
+        "abstract": ["Many physicians are still skeptic to treat opioid dependants, with or without maintenance treatment, for hepatitis C (HCV) because of concerns about psychiatric comorbidity, stability and adherence. In Norway, there are about 3,500 patients participating in the restrictive medication-assisted rehabilitation (LAR) programs in which all patients are..."]
+      },
+      {
+        "title": "[Telephone Quitline and changed smoking behavior] [Norwegian]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2002",
+        "authors": ["Tove Violet Bliksrud", "Egil Nygaard"],
+        "abstract": ["The purpose of this study was to find out whether and to what exTent callers to the Norwegian Quitline changed their smoking behaviour, and whether change was influenced by the degree of Quitline follow-up.\nTwo groups were studied and compared after their own initial call. The follow-up group (n = 324) received information material and four consult..."]
+      },
+      {
+        "title": "Temperament in children with Down syndrome and in prematurely born children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2002",
+        "authors": ["Egil Nygaard", "Lars Smith", "Anne Mari Torgersen"],
+        "abstract": ["Parents of three groups of children completed the Children's Behavior Questionnaire (CBQ). Participants were children with Down syndrome aged 4-11 years (n = 55), prematurely born children aged 5 years (n = 97), and a group of normally developing kindergarten children 5-7 years of age (n = 91). Mean levels and factor structures on the CBQ were comp..."]
+      },
+      {
+        "title": "The relation between the psychological functioning of children with Down syndrome and their urine peptide levels and levels of serum antibodies to food proteins",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2001",
+        "authors": ["Egil Nygaard", "Karl Reichelt", "J F Fagan"],
+        "abstract": ["To investigate the relation between psychological functioning of subjects with Down syndrome, and their levels of urine peptide and serum antibodies to food proteins.\n55 children with Down syndrome in a cross-sectional study. Psychological functioning was measured by the Stanford-Binet Intelligence Scale: Fourth Edition, McCarthy Scales of Children..."]
+      },
+      {
+        "title": "Sammenhengen mellom funksjonsnivå hos barn med Down syndrom og deres peptidnivå i urin og nivå av antistoffer mot matproteiner i blod",
+        "tags": ["Thesis"],
+        "date": "Jan 1998",
+        "authors": ["Egil Nygaard"],
+        "abstract": ["Formålet med prosjektet var å se på sammenhengen mellom psykologisk fungering hos barn med Down syndrom, og deres peptidnivå i urinen og nivå av antistoffer i blodet mot matproteiner. Prosjektet har bakgrunn i at tidligere undersøkelser har vist at barn med Down syndrom har høyere peptidnivå i urin og antistoffer i blod mot matproteiner enn forvent..."]
+      }
+    ],
+    "degree": ["PhD.,", "Spec.", "clin.", "psych."],
+    "bio": "Egil Nygaard currently works at the Department of Psychology, University of Oslo. Egil does research in Prevention Psychology, Developmental Psychology, Cognitive Psychology and Neuropsychology. Their most recent publication is 'Neuroanatomical characteristics of youths with prenatal opioid and poly-drug exposure'.",
+    "publications": [45],
+    "reads": [7260],
+    "citations": [1052]
   }
 }

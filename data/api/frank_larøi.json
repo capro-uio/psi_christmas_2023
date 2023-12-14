@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Frank Laroi",
-    "id": "xqoYukkAAAAJ",
-    "affiliation": "",
+    "name": ["Frank Laroi"],
+    "id": ["xqoYukkAAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-9876-7407",
-    "name": "Frank Larøi",
+    "orcid": ["0000-0002-9876-7407"],
+    "name": ["Frank Larøi"],
     "distinctions": [],
     "education": [
       {
@@ -986,8 +986,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Frank Larøi",
-    "id": "748796",
+    "name": ["Frank Larøi"],
+    "id": ["748796"],
     "keywords": [],
     "position": ["Professor", "Associate professor"],
     "img": {},
@@ -1504,5 +1504,719 @@
         "url": "https://api.cristin.no/v2/results/1258794"
       }
     ]
+  },
+  "rg": {
+    "id": "Frank-Laroi",
+    "name": "Frank Larøi",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277151313088518-1443089430891_Q128/Frank-Laroi.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Memory", "Psychopathology", "Schizophrenia", "Cognitive Neuroscience", "Neuropsychology", "Cognitive Neuropsychology", "Neuropsychiatry", "Executive Function", "Mental Illness", "Psychotherapeutic Processes"],
+    "works": [
+      {
+        "title": "Anomalous self-experiences and neurocognitive functioning in adolescents at risk for psychosis: Still no significant associations found between these two vulnerability markers",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Caroline Ranem Mohn-Haugen", "Paul Møller", "Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["Background: \nAnomalous self-experiences (ASEs) and neurocognitive impairments are considered essential domains of vulnerability for developing psychotic disorders. However, little research exists of possible associations between ASEs and neurocognitive functions in individuals at-risk for psychosis. The interconnections between ASEs and neurocognit..."]
+      },
+      {
+        "title": "Using 360-degree immersive videos to assess multiple transdiagnostic symptoms: A study focusing on fear of negative evaluation, paranoid thoughts, negative automatic thoughts, and craving",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Clara Della Libera", "Jessica Simon", "Frank Larøi", "Aurélie Wagener"],
+        "abstract": ["Unlabelled: \nOver the last 20 years, virtual reality (VR) has gained a great interest for both assessment and treatment of various psychopathologies. However, due to high costs and material specificity, VR remains disadvantageous for clinicians. Adopting a multiple transdiagnostic approach, this study aims at testing the validity of a 360-degree im..."]
+      },
+      {
+        "title": "Targeting avoidant behaviours in social anxiety and agoraphobia using individualized 360-degree immersive videos: an exploratory single experimental case design series",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Clara Della Libera", "Audrey Krings", "Bénédicte Thonon", "Marie Geurten"],
+        "abstract": ["Background: For the past decades, virtual reality (VR) has proven to be a useful tool in the treatment of anxiety disorders such as social anxiety and agoraphobia. Due to high costs and access to a limited number of standardized environments, however, it has remained poorly beneficial for professional. An alternative is to use 360-degree immersive..."]
+      },
+      {
+        "title": "Examining the impact of experiencing auditory verbal hallucinations from a first-person perspective on the degree of empathy and stigmatization in a group of psychology students: A study using 360° immersive videos",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Clara Della Libera", "Manon Goosse", "Frank Larøi", "Sylvie Willems"],
+        "abstract": ["Background: Stigmatization toward psychosis is persistent among mental health professionals (MHPs) and negatively impacts the patients’ outcomes. One suggested way of reducing stigmatization is to expose MHPs to simulations of psychotic symptoms. This approach has been associated with an increase in empathy, but also with an increase in the desire..."]
+      },
+      {
+        "title": "Self-Efficacy and its Role on Favorable Outcome in First-Episode Schizophrenia: A 10-Year Repeated Assessment Prospective Study",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Anne-Kari Torgalsbøen", "Frank Larøi", "Christine Mohn", "Mikolaj Czajkowski"],
+        "abstract": []
+      },
+      {
+        "title": "A ten-year longitudinal repeated assessment study of cognitive improvement in patients with first-episode schizophrenia and healthy controls: The Oslo Schizophrenia Recovery (OSR) study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn", "Frank Larøi", "Nikolai Czajkowski"],
+        "abstract": ["The mapping of cognitive trajectories after a first episode of schizophrenia has been the aim in several studies, but the longitudinal course of cognitive impairments remains an important question. Due to methodological limitations, it has been challenging to pinpoint specific periods of improvement or stability in cognitive functioning over time...."]
+      },
+      {
+        "title": "Cognitive functioning in a group of adolescents at risk for psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Caroline Ranem Mohn-Haugen", "Christine Mohn", "Frank Larøi", "Bjørn Rishovd Rund"],
+        "abstract": ["Cognitive deficits are a core feature of schizophrenia, and impairments are present in groups at-risk for psychosis. Most at-risk studies include young adults and not younger age-groups, such as adolescents. Participants are usually help-seeking individuals, even though risk factors may also be present in non-help seeking adolescents. We aim to exp..."]
+      },
+      {
+        "title": "An online survey on clinical and healthy individuals with auditory verbal hallucinations: Abuse did not lead to more negative voice content",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Julie Øverbø Næss", "Marco Hirnstein", "Isabella Kusztrits", "Frank Larøi"],
+        "abstract": ["Despite the clinical and theoretical importance of the negative content in auditory verbal hallucinations (AVHs), little research has been conducted on the topic. A handful of studies suggest that trauma or adverse life events contribute to negative content. The findings are somewhat inconsistent, however, possibly due to methodological limitations..."]
+      },
+      {
+        "title": "Translation and Validation of the French Version of the Revised Green et al., Paranoid Thoughts Scale (R-GPTS) in Two Samples: Non-Clinical and Clinical Adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Alizée Latteur", "Frank Larøi", "Catherine Bortolon"],
+        "abstract": ["Paranoia consists of unfounded beliefs that harm will be caused with intent to hurt the subject. Paranoid thoughts exist on a continuum of severity from severe forms in several psychological pathologies to milder forms in a significant minority of individuals of the general population (Freeman, 2007). It can be measured using several types of quest..."]
+      },
+      {
+        "title": "A systematic review of premorbid cognitive functioning and its timing of onset in schizophrenia spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Caroline Ranem Mohn-Haugen", "Christine Mohn", "Frank Larøi", "Bjørn Rishovd Rund"],
+        "abstract": ["Cognitive impairments are core features of established schizophrenia spectrum disorders (SSD). However, it remains unclear whether specific cognitive functions are differentially impaired pre-onset and at what age these impairments can be detected. The purpose of this review was to elucidate these issues through a systematic summary of results from..."]
+      },
+      {
+        "title": "Correction to: Confusions about ‘Inner’ and ‘Outer’ Voices: Conceptual Problems in the Study of Auditory Verbal Hallucinations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Franz Knappik", "Josef J Bless", "Frank Larøi"],
+        "abstract": ["A Correction to this paper has been published: https://doi.org/10.1007/s13164-021-00536-7"]
+      },
+      {
+        "title": "Eliciting false auditory perceptions using speech frequencies and semantic priming: a signal detection approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Julien Laloyaux", "Marco Hirnstein", "Karsten Specht", "Frank Larøi"],
+        "abstract": ["Introduction: \nIndividuals experiencing auditory hallucinations (AH) tend to perceive voices when exposed to random noise. However, the factors driving this tendency remain unclear. The present study examined the interaction of a top-down (expectations) and bottom-up (type of noise) process to better understand the mechanisms that underlie AH.\n\nMet..."]
+      },
+      {
+        "title": "From core schemas about the self and others to voice phenomenology: Anxiety and depression affect voice hearers differently",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Isabella Kusztrits", "Wei Lin Toh", "Neil Thomas", "Susan L Rossell"],
+        "abstract": ["Objectives: \nAuditory verbal hallucinations (AVHs) occur as a symptom in various mental disorders, and show different phenomenological aspects, depending on their underlying psychopathology. Anxiety and depression, which are known to be involved in the development of AVHs, are suggested to amplify a vicious cycle in which negative interpretations o..."]
+      },
+      {
+        "title": "Hallucinations and Covid-19: Increased Occurrence of Hallucinations in Patients with Alzheimer’s Disease During Lockdown",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Mohamad El Haj", "Frank Larøi", "Karim Gallouj"],
+        "abstract": ["We investigated the effects of lockdown, as implemented by retirement homes to cope with the spread of Covid-19, on hallucinatory experiences in patients with Alzheimer’s disease (AD). The study included 47 patients with AD living in retirement homes and who were already experiencing hallucinations prior to the lockdown. We invited caregivers to ra..."]
+      },
+      {
+        "title": "Olfactory hallucinations in a population-based sample",
+        "tags": ["Article"],
+        "date": "Oct 2021",
+        "authors": ["Eike Wehling", "Josef J Bless", "Marco Hirnstein", "Frank Larøi"],
+        "abstract": ["Olfactory hallucinations referring to olfactory perceptions in the absence of chemical stimuli, occur in non-clinical and clinical populations. Few studies have investigated their prevalence in the general population and little is known about factors triggering and maintaining them such as substance use, severe life events, and mood. We analyzed se..."]
+      },
+      {
+        "title": "Item-specific overlap between hallucinatory experiences and cognition in the general population: A three-step multivariate analysis of international multi-site data",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Abhijit M. Chinchani", "Mahesh Menon", "Meighen Roes", "Todd Woodward"],
+        "abstract": ["Hallucinatory experiences (HEs) can be pronounced in psychosis, but similar experiences also occur in nonclinical populations. Cognitive mechanisms hypothesized to underpin HEs include dysfunctional source monitoring, heightened signal detection, and impaired attentional processes. Using data from an international multisite study on non-clinical pa..."]
+      },
+      {
+        "title": "A Group Intervention for Motivational Deficits: Preliminary Investigation of a Blended Care Approach Using Ambulatory Assessment",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Bénédicte Thonon", "M-N Levaux", "Evelyne van Aubel", "Frank Larøi"],
+        "abstract": ["Motivational deficits are an important predictor of functional outcomes in individuals with a serious mental illness such as schizophrenia and mood spectrum disorders. The aim of the present study was to explore the feasibility, acceptability, and preliminary efficacy of a group version of “Switch,” an intervention that targets motivational deficit..."]
+      },
+      {
+        "title": "Specific aspects of aberrant salience: comparison between patients with or without psychosis and healthy participants",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Debora Martinez Avanzini", "Julien Laloyaux", "Jérôme Favrod", "Philippe Golay"],
+        "abstract": []
+      },
+      {
+        "title": "Using 360° immersive videos to assess paranoia in a non-clinical population",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Clara Della Libera", "Etienne Quertemont", "Julien Laloyaux", "Frank Larøi"],
+        "abstract": ["Introduction: For the past two decades, virtual reality (VR) has proven to be an innovative approach for the assessment of state paranoia. However, the use of VR remains costly, and avatars are still far from realistic in terms of facial and bodily expressions. The present study aimed to test the validity of three 360° immersive videos (360IVs) as..."]
+      },
+      {
+        "title": "Correlates of Hallucinatory Experiences in the General Population: An International Multisite Replication Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Peter Moseley", "André Aleman", "Paul Allen", "Charles Fernyhough"],
+        "abstract": ["Hallucinatory experiences can occur in both clinical and nonclinical groups. However, in previous studies of the general population, investigations of the cognitive mechanisms underlying hallucinatory experiences have yielded inconsistent results. We ran a large-scale preregistered multisite study, in which general-population participants ( N = 1,3..."]
+      },
+      {
+        "title": "In the twilight zone: An epidemiological study of sleep-related hallucinations",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Josef J Bless", "Kenneth Hugdahl", "Bodil Kråkvik", "Frank Larøi"],
+        "abstract": ["Background\nFew studies have investigated hallucinations that occur at the onset/offset of sleep (called hypnagogic/hypnopompic hallucinations; HHHs), despite the fact that their prevalence in the general population is reported to be higher than the prevalence of daytime hallucinations. We utilized data from an epidemiological study to explore the p..."]
+      },
+      {
+        "title": "The Impact of Sexualized Video Game Content and Cognitive Load on State Rape Myth Acceptance",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Tania Noël", "Frank Larøi", "Jonathan Burnay"],
+        "abstract": ["The potential negative impact of sexualized video games on attitudes toward women is an important issue. Studies that have examined this issue are rare and contain a number of limitations. Therefore, it largely remains unclear whether sexualized video games can have an impact on attitudes toward women. This study examined the consequences of sexual..."]
+      },
+      {
+        "title": "Confusions about ‘Inner’ and ‘Outer’ Voices: Conceptual Problems in the Study of Auditory Verbal Hallucinations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Franz Knappik", "Josef J Bless", "Frank Larøi"],
+        "abstract": ["Both in research on Auditory Verbal Hallucinations (AVHs) and in their clinical assessment, it is common to distinguish between voices that are experienced as ‘inner’ (or ‘internal’, ‘inside the head’, ‘inside the mind’, ...) and voices that are experienced as ‘outer’ (‘external’, ‘outside the head’, ‘outside the mind’, ...). This inner/outer-contr..."]
+      },
+      {
+        "title": "Item-specific overlap between hallucinatory experiences and cognition in the general population: A three-step multivariate analysis of international multi-site data",
+        "tags": ["Preprint"],
+        "date": "Feb 2021",
+        "authors": ["Abhijit Mahesh Chinchani", "Mahesh Menon", "Meighen Roes", "Todd Woodward"],
+        "abstract": ["Cognitive mechanisms hypothesized to underlie hallucinatory experiences (HEs) include dysfunctional source monitoring, heightened signal detection, or impaired attentional processes. HEs can be very pronounced in psychosis, but similar experiences also occur in nonclinical populations. Using data from an international multisite study on nonclinical..."]
+      },
+      {
+        "title": "Olfactory hallucinations in Alzheimer’s disease",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Mohamad El Haj", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "Motivation in schizophrenia: preliminary findings of a theory-driven approach using time-series network analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Bénédicte Thonon", "Alba Contreras", "Frank Larøi"],
+        "abstract": ["Motivational negative symptoms are an important obstacle to the daily functioning of individuals with schizophrenia. A better understanding of associated processes would help to identify targets for interventions. We used Experience Sampling Method (ESM) to assess the daily cognitive, behavioural and emotional/hedonic processes identified in a rede..."]
+      },
+      {
+        "title": "Increased hallucinations in patients with Alzheimer’s disease during the Covid-19 lockdown: A presentation of two cases",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Mohamad El Haj", "Frank Larøi"],
+        "abstract": ["In their effort to prevent Covid-19 infection, nursing homes are implementing lockdown and strict social distancing. While these actions may be deemed necessary in order to avoid Covid-19 infections, the lockdown may also come at a cost to residents in retirement homes, at least to those suffering from Alzheimer’s disease (AD) and may impact their..."]
+      },
+      {
+        "title": "Hallucinations and source monitoring in Alzheimer’s disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Mohamad El Haj", "Johanna C Badcock", "Frank Larøi"],
+        "abstract": ["Introduction\nthe source monitoring account has been widely investigated for hallucinations in schizophrenia. According to this account, hallucinations are inner events that are misattributed to another source. Our paper investigated this account for Alzheimer’s disease.\n\nMethod\nwe investigated hallucination experiences in participants with Alzheime..."]
+      },
+      {
+        "title": "Sensory and Quasi-Sensory Experiences of the Deceased in Bereavement: An Interdisciplinary and Integrative Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Karina Elisabeth Stengaard Kamp", "Edith Maria Steffen", "Ben Alderson-Day", "Pablo Sabucedo"],
+        "abstract": ["Bereaved people often report having sensory and quasi-sensory experiences of the deceased (SED), and there is an ongoing debate over whether SED are associated with pathology, such as grief complications. Research into these experiences has been conducted in various disciplines, including psychiatry, psychology, and anthropology, without much cross..."]
+      },
+      {
+        "title": "Hallucinations in a Patient with Alzheimer’s Disease During the COVID-19 Crisis: A Case Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Mohamad El Haj", "Frank Larøi", "Karim Gallouj"],
+        "abstract": ["While social distancing may be deemed necessary in order to avoid COVID-19 infections, the lockdown may impact mental health of patients with Alzheimer’s disease (AD). We present a case study involving hallucinations in a patient with AD who lives in a nursing home during the COVID-19 crisis. We compared this patient’s hallucination scores before a..."]
+      },
+      {
+        "title": "Personality and Social Psychology Mapping psychotic-like experiences: Results from an online survey",
+        "tags": ["Article"],
+        "date": "Oct 2020",
+        "authors": ["Isabella Kusztrits", "Frank Larøi", "Julien Laloyaux", "Marco Hirnstein"],
+        "abstract": ["Suggestions have been made that psychotic-like experiences (PLEs), such as hallucinatory and delusional experiences, exist on a continuum from healthy individuals to patients with a diagnosis of schizophrenia. We used the screening questions of the Questionnaire for Psychotic Experiences (QPE), an interview that captures the presence and phenomenol..."]
+      },
+      {
+        "title": "Psychometric investigation of the French version of the Aberrant Salience Inventory (ASI): Differentiating patients with psychosis, patients with other psychiatric diagnoses and non-clinical participants",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Philippe Golay", "Julien Laloyaux", "Mihaela Moga", "Charles Bonsack"],
+        "abstract": ["During the prodromal phase of psychosis, individuals may experience an aberrant attribution of salience to irrelevant stimuli. The concept of aberrant salience has been hypothesized to be a central mechanism in the emergence and maintenance of psychosis. The 29-item Aberrant Salience Inventory (ASI) was designed to measure five aspects of aberrant..."]
+      },
+      {
+        "title": "Olfactory hallucinations in Alzheimer's disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Mohamad El Haj", "Frank Larøi"],
+        "abstract": ["Objective: \nWe assessed the frequency, duration, and degree of unpleasantness of olfactory hallucinations in Alzheimer's disease (AD).\n\nMethods: \nInformants of 31 AD patients were invited to rate the frequency, duration, and degree of unpleasantness of olfactory, auditory, and visual hallucinations.\n\nResults: \nAnalysis demonstrated little occurrenc..."]
+      },
+      {
+        "title": "Idiographic analyses of motivation and related processes in participants with schizophrenia following a therapeutic intervention for negative symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Bénédicte Thonon", "Evelyne van Aubel", "Ginette Lafit", "Frank Larøi"],
+        "abstract": ["Background: \nMotivational negative symptoms hinder quality of life and daily functioning of individuals with schizophrenia spectrum disorders. A recently developed intervention, Switch, has shown promising effects on negative symptoms and functional outcomes. Switch targets multiple cognitive, emotional and behavioural processes associated with mot..."]
+      },
+      {
+        "title": "Hallucinations Under Psychedelics and in the Schizophrenia Spectrum: An Interdisciplinary and Multiscale Comparison",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Pantelis Leptourgos", "Martin Fortier-Davy", "Robin L Carhart-Harris", "Renaud Jardri"],
+        "abstract": ["The recent renaissance of psychedelic science has reignited interest in the similarity of drug-induced experiences to those more commonly observed in psychiatric contexts such as the schizophrenia-spectrum. This report from a multidisciplinary working group of the International Consortium on Hallucinations Research (ICHR) addresses this issue, putt..."]
+      },
+      {
+        "title": "Exploration of the paranoia hierarchy in the general population: Evidence of an age effect mediated by maladaptive emotion regulation strategies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Clara Della Libera", "Frank Larøi", "Raffard stéphane", "Julien Laloyaux"],
+        "abstract": ["Abstract\nIntroduction: Positive psychotic symptoms are suggested to be more prevalent in early adulthood. However, no previous study has examined a potential age effect especially for paranoia considering social reference and persecution as separated hierarchical dimension. Moreover, no previous study has examined the mechanisms involved in the dec..."]
+      },
+      {
+        "title": "A Review of Multimodal Hallucinations: Categorization, Assessment, Theoretical Perspectives, and Clinical Recommendations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Marcella Montagnese", "Pantelis Leptourgos", "Charles Fernyhough", "Prabitha Urwyler"],
+        "abstract": ["Hallucinations can occur in different sensory modalities, both simultaneously and serially in time. They have typically been studied in clinical populations as phenomena occurring in a single sensory modality. Hallucinatory experiences occurring in multiple sensory systems-multimodal hallucinations (MMHs)-are more prevalent than previously thought..."]
+      },
+      {
+        "title": "Hallucinations in Older Adults: A Practical Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Schizophrenia Bulletin", "Johanna C Badcock", "Frank Larøi", "Iris E Sommer"],
+        "abstract": ["Older adults experience hallucinations in a variety of social , physical, and mental health contexts. Not everyone is open about these experiences, as hallucinations are surrounded with stigma. Hence, hallucinatory experiences in older individuals are often under-recognized. They are also commonly misunderstood by service providers, suggesting that..."]
+      },
+      {
+        "title": "Correlates of hallucinatory experiences in the general population: an international multi-site replication study",
+        "tags": ["Preprint"],
+        "date": "May 2020",
+        "authors": ["Peter Moseley", "André Aleman", "Paul Allen", "Charles Fernyhough"],
+        "abstract": ["Hallucinatory experiences (HEs) can occur in both clinical and non-clinical groups. However, previous studies of the general population that have investigated cognitive mechanisms underlying HEs have yielded inconsistent results. In this study, we ran a large-scale preregistered multi-site study, in which general population participants (N = 1394,..."]
+      },
+      {
+        "title": "Switch, a new Intervention that targets Motivational Negative Symptoms in people with Schizophrenia: an uncontrolled Pilot Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Bénédicte Thonon", "M-N Levaux", "Clara Della Libera", "Frank Larøi"],
+        "abstract": ["Objective\nPeople diagnosed with schizophrenia experience difficulties in their daily life, which is best explained by motivational negative symptoms. This study explores the feasibility, acceptability, and efficacy of Switch, a new multifactorial intervention that targets motivational deficits.\n\nMethod\nEight participants with schizophrenia or schiz..."]
+      },
+      {
+        "title": "Personal resilience factors protect against distressing auditory hallucinations: A study comparing psychotic patients with auditory hallucinations, non-patients with auditory hallucinations, and healthy controls",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Julien Laloyaux", "Alberto Collazzoni", "Marco Hirnstein", "Frank Larøi"],
+        "abstract": ["Although studies have identified several risk factors for the development of psychotic disorders, potential protective factors – such as resilience – have rarely been examined. Studies suggest that the negative beliefs people hold about their Auditory Hallucinations (AH) may be an indicator of a need for care. However, the reason why certain people..."]
+      },
+      {
+        "title": "Idiographic analyses of motivation and related processes in participants with schizophrenia following a therapeutic intervention for negative symptoms",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Bénédicte Thonon", "Evelyne van Aubel", "Ginette Lafit", "Frank Larøi"],
+        "abstract": ["Background\nMotivational negative symptoms hinder quality of life and daily functioning of individuals with schizophrenia spectrum disorders. A recently developed intervention, Switch, has shown promising effects on negative symptoms and functional outcomes. Switch targets multiple cognitive, emotional and behavioural processes associated with motiv..."]
+      },
+      {
+        "title": "Idiographic analyses of motivation and related processes in participants with schizophrenia following a therapeutic intervention for negative symptoms",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Bénédicte Thonon", "Evelyne van Aubel", "Ginette Lafit", "Frank Larøi"],
+        "abstract": ["Background : Motivational negative symptoms hinder quality of life and daily functioning of individuals with schizophrenia spectrum disorders. A recently developed intervention, Switch, has shown promising effects on negative symptoms and functional outcomes. Switch targets multiple cognitive, emotional and behavioural processes associated with mot..."]
+      },
+      {
+        "title": "Idiographic analyses of motivation and related processes in participants with schizophrenia following a therapeutic intervention for negative symptoms",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Bénédicte Thonon", "Evelyne van Aubel", "Ginette Lafit", "Frank Larøi"],
+        "abstract": ["Background : Motivational negative symptoms hinder quality of life and daily functioning of individuals with schizophrenia spectrum disorders. A recently developed intervention, Switch, has shown promising effects on negative symptoms and functional outcomes. Switch targets multiple cognitive, emotional and behavioural processes associated with mot..."]
+      },
+      {
+        "title": "Quantifying auditory impressions in dreams in order to assess the relevance of dreaming as a model for psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Roar Fosse", "Frank Larøi"],
+        "abstract": ["A long noted hypothesis is that mechanisms of dreaming play a role in psychotic hallucinations. One challenge for this hypothesis is that while psychotic hallucinations primarily are auditory, dreaming most characteristically is visual. At the same time, previous studies have not explicitly examined auditory impressions in dreaming. Here, we mapped..."]
+      },
+      {
+        "title": "Confabulations on Time: Relationship between Confabulations and Timing Deviations in Alzheimer's Disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Mohamad El Haj", "Frank Larøi"],
+        "abstract": ["Objectives: \nWe investigated the relationship between confabulations and the ability to process chronological characteristics of memories in Alzheimer's Disease (AD).\n\nMethods: \nWe evaluated provoked confabulations, spontaneous confabulations, and time perception in 31 AD patients. We evaluated provoked confabulations with questions probing general..."]
+      },
+      {
+        "title": "A Review of Multimodal Hallucinations: Categorisation, Assessment, Theoretical Perspectives And Clinical Recommendations",
+        "tags": ["Preprint"],
+        "date": "Feb 2020",
+        "authors": ["Marcella Montagnese", "Pantelis Leptourgos", "Charles Fernyhough", "Prabitha Urwyler"],
+        "abstract": ["Hallucinations can occur in different sensory modalities within an individual, both simultaneously and serially in time. Historically, they have typically been studied in clinical populations as phenomena occurring in a single sensory modality. Yet, hallucinatory experiences that occur in two or more sensory systems - multimodal hallucinations (MMH..."]
+      },
+      {
+        "title": "The Voice of Depression: Prevalence and Stability Across Time of Perception-Laden Intrusive Thoughts in Depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Steffen Moritz", "Jan Philipp Klein", "Thomas Berger", "Björn Meyer"],
+        "abstract": ["Intrusive depressive thoughts are typically deined in terms of their content, frequency, and pervasiveness. The extent to which they carry sensory properties is largely unexplored. In a pilot study, 56.5% of individuals with mild to moderate depressive symptoms experienced depressive thoughts with sensory features. The present study explored the pr..."]
+      },
+      {
+        "title": "« Approche intégrative centrée sur la personne » : Vers une nouvelle remédiation cognitive pour la schizophrénie",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Nov 2019",
+        "authors": ["Antoinette Prouteau", "Frank Larøi"],
+        "abstract": ["Contexte : le développement de la Remédiation Cognitive en psychiatrie Depuis environ 20 ans, la Remédiation Cognitive (RC) s'est fortement développée en psychiatrie, en particulier dans la schizophrénie. Ce développement fait suite à la mise en évidence expérimentale de dysfonctionnements cognitifs subtils ou plus massifs dans les pathologies psyc..."]
+      },
+      {
+        "title": "Temporal signatures of auditory verbal hallucinations: An app-based experience sampling study",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Josef J Bless", "Helene Hjelmervik", "Torbjørn Torsheim", "Kenneth Hugdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Mécanismes cognitifs sous-tendant les symptômes positifs des Troubles du Spectre Schizophrénique.",
+        "tags": ["Chapter"],
+        "date": "Nov 2019",
+        "authors": ["Julien Laloyaux", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "Intervention targeting motivational deficits in schizophrenia: preliminary results of a case study using ecological momentary assessment",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Bénédicte Thonon", "Clara Della Libera", "Frank Larøi"],
+        "abstract": ["Negative symptoms, particularly motivational deficits, strongly affect the daily functioning and quality of life of people diagnosed with schizophrenia. A new intervention, called Switch, was developed based on a theoretical model of motivation in schizophrenia. Switch encourages goal directed behaviors by enhancing motivation, pleasure, coping wit..."]
+      },
+      {
+        "title": "Multimodal hallucinations are associated with poor mental health and negatively impact auditory hallucinations in the general population: Results from an epidemiological study",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Julien Laloyaux", "Josef J Bless", "Kenneth Hugdahl", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "A look into hallucinations: the relationship between visual imagery and hallucinations in Alzheimer's disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Mohamad El Haj", "Johanna C Badcock", "Renaud Jardri", "Karim Gallouj"],
+        "abstract": ["Introduction: We investigated the relationship between visual hallucinations and vividness of visual imagery in patients with Alzheimer's disease (AD).\nMethod: We recruited 28 patients with AD and 30 healthy control participants, matched for age and education. We evaluated proneness towards hallucinations with the Launay–Slade Hallucinations Scale,..."]
+      },
+      {
+        "title": "Testing a model of auditory hallucinations: the role of negative emotions and cognitive resources",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Julien Laloyaux", "Freya De Keyser", "Antoine Pinchard", "Frank Larøi"],
+        "abstract": ["Introduction: Models of auditory hallucinations (AH) state that AH arise through an interaction between negative emotions and limited available cognitive resources. However, this hypothesis has never been directly tested. Methods: A two-by-two factorial design was used to examine the effect of emotions (neutral VS negative) and available cognitive..."]
+      },
+      {
+        "title": "O2.5. DISENTANGLING FALSE PERCEPTIONS ELICITED BY WHITE NOISE IN PEOPLE WITH AUDITORY HALLUCINATIONS: THE ROLE OF SOUND FREQUENCIES AND EXPECTATIONS",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Julien Laloyaux", "Karsten Specht", "Kenneth Hugdahl", "Frank Larøi"],
+        "abstract": ["Background\nAuditory Hallucinations (AH) are prevalent in many psychopathologies as well as in a minority of the healthy general population. The literature suggests that people with AH present a signal detection bias, that is, in conditions of uncertainty, they tend to perceive signals that are not actually there– or false perceptions. For example,..."]
+      },
+      {
+        "title": "S60. AGE EFFECT ON THE HIERARCHICAL STRUCTURE OF PARANOIA IN THE GENERAL POPULATION: THE ROLE OF RUMINATION AND THOUGHT SUPPRESSION",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Clara Della Libera", "Frank Larøi", "Raffard stéphane", "Julien Laloyaux"],
+        "abstract": ["Background\nEvidence suggests that positive psychotic symptoms are more prevalent in early adulthood. However, studies have not examined a potential age effect in the general population specifically for paranoia. Further, whether paranoia’s hierarchical nature (i.e. persecution representing a more severe dimension compared to social reference) may b..."]
+      },
+      {
+        "title": "No sex difference in an everyday multitasking paradigm",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Marco Hirnstein", "Frank Larøi", "Julien Laloyaux"],
+        "abstract": ["According to popular beliefs and anecdotes, females best males when handling multiple tasks at the same time. However, there is relatively little empirical evidence as to whether there truly is a sex difference in multitasking and the few available studies yield inconsistent findings. We present data from a paradigm that was specifically designed t..."]
+      },
+      {
+        "title": "Potential Applications of Digital Technology in Assessment, Treatment, and Self-help for Hallucinations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Neil Thomas", "Josef J Bless", "Ben Alderson-Day", "Renaud Jardri"],
+        "abstract": ["The field of digital mental health is rapidly expanding with digital tools being used in assessment, intervention , and supporting self-help. The application of digital mental health to hallucinations is, however, at a very early stage. This report from a working group of the International Consortium on Hallucinations Research considers particular..."]
+      },
+      {
+        "title": "An epidemiological study on the prevalence of hallucinations in a general-population sample: Effects of age and sensory modality",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Frank Larøi", "Josef J Bless", "Julien Laloyaux", "Kenneth Hugdahl"],
+        "abstract": ["Epidemiological studies have repeatedly shown that a significant minority of the general population have experienced hallucinations, however, a potential effect of age on the prevalence of hallucinations in the general population has never been previously examined in a specific study. The aim of the present study was thus to examine the effects of..."]
+      },
+      {
+        "title": "Beyond Trauma: A Multiple Pathways Approach to Auditory Hallucinations in Clinical and Nonclinical Populations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["T. M. Luhrmann", "Ben Alderson-Day", "Vaughan Bell", "Flavie Waters"],
+        "abstract": ["That trauma can play a significant role in the onset and maintenance of voice-hearing is one of the most striking and important developments in the recent study of psychosis. Yet the finding that trauma increases the risk for hallucination and for psychosis is quite different from the claim that trauma is necessary for either to occur. Trauma is of..."]
+      },
+      {
+        "title": "A comparison of hallucinatory experiences and their appraisals in those with and without mental illness",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Melissa Connell", "James Scott", "John J. McGrath", "Kim Betts"],
+        "abstract": ["Few studies have compared the content and appraisal of hallucinatory experiences (HE) by people with psychosis and those without. This study compared the characteristics of HE, and their appraisals, in individuals with psychotic disorder, non-psychotic mental disorder and no disorder in the general population. Participants (n = 253) aged between 30..."]
+      },
+      {
+        "title": "Hallucination Research: Into the Future, and Beyond on behalf of the International Consortium on Hallucination Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2019",
+        "authors": ["Renaud Jardri", "Frank Larøi", "Flavie Waters"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Feb 2019",
+        "authors": ["Sara Siddi", "Susana Ochoa", "Frank Larøi", "Antonio Preti"],
+        "abstract": []
+      },
+      {
+        "title": "Effects of sexualized video games on online sexual harassment",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Jonathan Burnay", "Brad J Bushman", "Frank Larøi"],
+        "abstract": ["Negative consequences of video games have been a concern since their inception. However, one under‐researched area is the potential negative effects of sexualized video game content on players. This study analyzed the consequences of sexualized video game content on online sexual harassment against male and female targets. We controlled for a numbe..."]
+      },
+      {
+        "title": "Subtyping attenuated psychotic symptoms: A cluster analytic approach",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Julien Laloyaux", "Frank Larøi", "Filip Nuyens", "Joel Billieux"],
+        "abstract": ["1 Objective\nThe aim of the present study is to examine the heterogeneity of attenuated psychotic symptoms (PS) and related personality factors using a cluster analytic approach.\n\n2 Method\nA large sample of participants from the general population was evaluated in terms of attenuated symptomatology (psychotic and affective) and two personality facto..."]
+      },
+      {
+        "title": "The ice in voices: Understanding negative content in auditory-verbal hallucinations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Frank Larøi", "Neil Thomas", "André Aleman", "Simon McCarthy-Jones"],
+        "abstract": ["Negative voice-content is the best sole predictor of whether the hearer of an auditory-verbal hallucination will experience distress/impairment necessitating contact with mental health services. Yet, what causes negative voice-content and how interventions may reduce it remains poorly understood. This paper offers a definitions of negative voice co..."]
+      },
+      {
+        "title": "A Cross-national investigation of Hallucination Like-Experiences in 10 countries: The ECLECTIC study.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Sara Siddi", "Susana Ochoa", "Frank Larøi", "Antonio Preti"],
+        "abstract": ["Hallucination-like experiences (HLEs) are typically defined as sensory perceptions in the absence of external stimuli. Multidimensional tools, able to assess different facets of HLEs, are helpful for a better characterization of hallucination proneness and to investigate the cross-\nnational variation in the frequencies of HLEs. The current study se..."]
+      },
+      {
+        "title": "Attribution of intentions and context processing in psychometric schizotypy",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Romina Rinaldi", "Laurent Lefebvre", "Blekic Wivine", "Julien Laloyaux"],
+        "abstract": ["Introduction: Impairment in Theory of mind (TOM) has frequently been associated with schizophrenia and with schizotypy. Studies have found that a tendency to over-attribute intentions and special meaning to events and to people is related to positive psychotic symptoms. Further, it has been suggested that this intentionality bias may be due to a br..."]
+      },
+      {
+        "title": "Source flexibility in schizophrenia: specificity and role in auditory hallucinations",
+        "tags": ["Article"],
+        "date": "Oct 2018",
+        "authors": ["Julien Laloyaux", "Clara Della Libera", "Frank Larøi"],
+        "abstract": ["Introduction: One important aspect of human cognition relies on the ability to bias attention towards stimulus-independent and stimulus-oriented thoughts and to switch between these states – or source flexibility. This mechanism has received very little attention in the literature, and in particular in schizophrenia. Moreover, there is good reason..."]
+      },
+      {
+        "title": "Women and Men Are Equally Bad at Multitasking",
+        "tags": ["Article"],
+        "date": "Sep 2018",
+        "authors": ["Julien Laloyaux", "Frank Larøi", "Marco Hirnstein"],
+        "abstract": ["Article: https://hbr.org/2018/09/research-women-and-men-are-equally-bad-at-multitasking\n\nExecutive Summary:\n\nAccording to popular stereotypes, women are better multitaskers. While there have been some scientific studies that have found a female advantage in multitasking, other studies have found either no sex differences or a male advantage. A team..."]
+      },
+      {
+        "title": "Measurement invariance of the Spanish Launay–Slade Hallucinations Scale‐Extended version between putatively healthy controls and people diagnosed with a mental disorder",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Sara Siddi", "Susana Ochoa", "Aida Farreny", "Antonio Preti"],
+        "abstract": ["Objectives\nThe current study aimed at evaluating the reliability, convergent and divergent validity, and factor structure of the Spanish Launay–Slade Hallucinations Scale‐Extended version (LSHS‐E) in people with mental disorders and healthy controls.\n\nMethods\nFour hundred and twenty‐two individuals completed the Spanish LSHS‐E and the Spanish Commu..."]
+      },
+      {
+        "title": "Sleep deprivation and hallucinations. A qualitative study of military personnel",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Ståle Pallesen", "Olav Kjellevold Olsen", "Elisabeth M. Eide", "Fride E. Glomlien"],
+        "abstract": ["Much anecdotal evidence suggests that sleep deprivation not only impairs performance, but also brings about other extraordinary effects like hallucinations. However, knowledge about how sleep deprivation may trigger hallucinations is limited. To qualitatively describe hallucinatory experiences during sleep deprivation 12 male military officers from..."]
+      },
+      {
+        "title": "A direct examination of the cognitive underpinnings of multitasking abilities: A first study examining schizophrenia",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Julien Laloyaux", "Martial Van der Linden", "Keith H Nuechterlein", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "Relationships Between Confabulations and Mental Time Travel in Alzheimer's Disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2018",
+        "authors": ["Noel Myriam", "Frank Larøi", "Karim Gallouj", "Mohamad El Haj"],
+        "abstract": ["The authors assessed the relationship between confabulations in Alzheimer's disease and the ability to mentally travel in time to reexperience memories. Twenty-seven patients with Alzheimer's disease were administered evaluations of provoked confabulations, spontaneous confabulations, and mental time travel. Provoked and spontaneous confabulations..."]
+      },
+      {
+        "title": "F123. BELIEFS ABOUT THEIR VOICES AND DEGREE OF RESILIENCE IN PERSONS WITH AUDITORY VERBAL HALLUCINATIONS WITH AND WITHOUT NEED FOR CARE",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Julien Laloyaux", "Alberto Collazzoni", "Isabella Kusztrits", "Frank Larøi"],
+        "abstract": ["Background\nAuditory Verbal Hallucinations (AVH) are prevalent in many psychopathologies but are also experienced by a minority of the healthy general population. There is cumulative evidence that the beliefs people hold about their voices (e.g., power) are strongly related to the impact of the voices (e.g., depression, anxiety) and to the coping st..."]
+      },
+      {
+        "title": "T2. DO ADVERSE LIFE EVENTS AT FIRST ONSET OF AUDITORY VERBAL HALLUCINATIONS INFLUENCE SUBSEQUENT VOICE-CHARACTERISTICS? RESULTS FROM AN EPIDEMIOLOGICAL STUDY",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Josef Bless", "Frank Larøi", "Julien Laloyaux", "Kenneth Hugdahl"],
+        "abstract": ["Background\nUnderstanding what happens at first onset of auditory verbal hallucinations (AVHs) is important at both a clinical and theoretical level. Previous studies have focused on age with regard to first onset of AVHs. In the current epidemiological study, we investigated the role of adverse life events (e.g. accidents, divorce, bullying, unempl..."]
+      },
+      {
+        "title": "F108. PSYCHOTIC EXPERIENCES IN A NORWEGIAN SAMPLE - TENTATIVE RESULTS OF A QUESTIONNAIRE VALIDATION",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Isabella Kusztrits", "Frank Larøi", "Julien Laloyaux", "Marco Hirnstein"],
+        "abstract": ["Background\nAuditory verbal hallucinations are a major symptom in schizophrenia but also affect patients with other diagnoses and healthy people without any pathology. This applies also to delusions and hallucinations of other sensory modalities. Since most questionnaires that assess hallucinations focus on one particular disorder, the Questionnaire..."]
+      },
+      {
+        "title": "The Network Structure of Schizotypal Personality Traits",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2018",
+        "authors": ["Eduardo Fonseca-Pedrero", "Javier Ortuño Sierra", "Martin Debbané", "Eiko Fried"],
+        "abstract": ["Elucidating schizotypal traits is important if we are to understand the various manifestations of psychosis spectrum liability and to reliably identify individuals at high risk for psychosis. The present study examined the network structures of (1) 9 schizotypal personality domains and (2) 74 individual schizotypal items, and (3) explored whether n..."]
+      },
+      {
+        "title": "Comparisons of schizotypal traits across 12 countries: Results from the International Consortium for Schizotypy Research",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Eduardo Fonseca-Pedrero", "Raymond C.K. Chan", "Martin Debbané", "Javier Ortuño Sierra"],
+        "abstract": ["Background: \nSchizotypal traits are expressions of underlying vulnerability to psychotic disorders which have a potential impact on mental health status, neurocognition, quality of life, and daily functioning. To date, little research has examined epidemiologic landscape of schizotypal traits at the cross-national level. Our aim was to study the ex..."]
+      },
+      {
+        "title": "Hallucinations in Alzheimer's disease: failure to suppress irrelevant memories",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Mohamad El Haj", "Karim Gallouj", "Hedwige Dehon", "Frank Larøi"],
+        "abstract": ["Introduction: Research with patients with schizophrenia suggests that inhibitory dysfunction leads to the emergence of redundant or irrelevant information from long-term memory into awareness, and that this process may be involved in generating hallucinations. We investigated whether inhibitory dysfunction in Alzheimer’s disease (AD) leads to hallu..."]
+      },
+      {
+        "title": "Brain, mind and behavior: A tribute to Kenneth Hugdahl",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Kjetil Sundet", "Renate Grüner", "Frank Larøi", "Jerker Rönnberg"],
+        "abstract": []
+      },
+      {
+        "title": "Do adverse life events at first onset of auditory verbal hallucinations influence subsequent voice characteristics? Results from an epidemiological study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Josef J Bless", "Frank Larøi", "Julien Laloyaux", "Kenneth Hugdahl"],
+        "abstract": ["Understanding what happens at first onset of auditory verbal hallucinations (AVHs) is extremely important on a clinical and theoretical level. Previous studies have only focused on age with regard to first onset of AVHs. In the current epidemiological study, we examined a number of aspects relating to first onset of AVHs, such as the role of advers..."]
+      },
+      {
+        "title": "Brief assessment of schizotypal traits: A multinational study",
+        "tags": ["Article"],
+        "date": "Nov 2017",
+        "authors": ["Eduardo Fonseca-Pedrero", "Javier Ortuño Sierra", "Beatriz Lucas-Molina", "Martin Voracek"],
+        "abstract": ["The Schizotypal Personality Questionnaire-Brief (SPQ-B) was\ndeveloped with the aim of examining variations in healthy trait\nschizotypy, as well as latent vulnerability to psychotic-spectrum\ndisorders. No previous study has studied the cross-cultural validity of\nthe SPQ-B in a large cross-national sample. The main goal of the present\nstudy was to an..."]
+      },
+      {
+        "title": "Examination of humiliation and past maladaptive family context in persecutory ideation: An exploratory study",
+        "tags": ["Article"],
+        "date": "Oct 2017",
+        "authors": ["Alberto Collazzoni", "Julien Laloyaux", "Frank Larøi"],
+        "abstract": ["Introduction\nPrevious studies have demonstrated that early interpersonal trauma is involved in the development of persecutory ideation. However, the specific influence of past and current social and familial variables has never been previously explored. Thus, the aim of the present study was to examine the potential role of current and past interpe..."]
+      },
+      {
+        "title": "The structure of schizotypal personality traits: a cross-national study",
+        "tags": ["Article"],
+        "date": "Jul 2017",
+        "authors": ["Eduardo Fonseca-Pedrero", "Martin Debbané", "Javier Ortuño Sierra", "Assen Jablensky"],
+        "abstract": ["Background: \nSchizotypal traits are considered a phenotypic-indicator of schizotypy, a latent personality organization reflecting a putative liability for psychosis. To date, no previous study has examined the comparability of factorial structures across samples originating from different countries and cultures. The main goal was to evaluate the fa..."]
+      },
+      {
+        "title": "Hallucinations in Healthy Older Adults: An Overview of the Literature and Perspectives for Future Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Johanna C Badcock", "Hedwige Dehon", "Frank Larøi"],
+        "abstract": ["Hallucinations, though common in youth and younger adults, are not the preserve of these age groups. Accumulating evidence shows that hallucinatory experiences are also present at surprisingly high rates in healthy older adults in the general community. Furthermore, stigma and misunderstanding of hallucinations, together with ageism, may lead to un..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Jul 2017",
+        "authors": ["Johanna C Badcock", "Hedwige Dehon", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "What predicts stigmatisation about schizophrenia? Results from a general population survey examining its underlying cognitive, affective and behavioural factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Bénédicte Thonon", "Frank Larøi"],
+        "abstract": ["Stigmatisation towards individuals diagnosed with schizophrenia (SZ individuals) remains an important problem, yet few studies to date have examined a theoretically comprehensive set of predictors of stigmatisation. This study aimed to evaluate cognitive, emotional and behavioural aspects of stigmatisation towards SZ individuals in the Belgian gene..."]
+      },
+      {
+        "title": "212. Inducing Hallucinations in Participants From the General Population: The Role of Negative Emotions and Cognitive Resources",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Julien Laloyaux", "Clara Della Libera", "Freya De Keyser", "Frank Larøi"],
+        "abstract": ["Background: Hallucinations are a main symptom of psychotic disorder but are also prevalent in 6% of the general population (Linscott & van Os, 2013). However, the cognitive and emotional mechanisms underpinning hallucinations are still poorly understood. The aim of the present study was to explore the specific role played by negative emotions and c..."]
+      },
+      {
+        "title": "Can Game Transfer Phenomena contribute to the understanding of the psychophysiological mechanisms of Gaming Disorder? A comparison of visual intrusions induced by videogames and mental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Angelica B Ortiz de Gortari", "Frank Larøi", "Arturo Lerner"],
+        "abstract": []
+      },
+      {
+        "title": "Provoked and spontaneous confabulations in Alzheimer's disease: An examination of their prevalence and relation with general cognitive and executive functioning: Confabulations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Mohamad El Haj", "Frank Larøi"],
+        "abstract": ["Aim: \nA dissociation can be made between confabulations that are produced when the subject is directly questioned (i.e., provoked confabulations) and context-free, unprovoked confabulations (i.e., spontaneous confabulations). Unlike provoked confabulations, there is a paucity of research on spontaneous confabulations in Alzheimer's disease (AD). Ou..."]
+      },
+      {
+        "title": "Stéréotype et Schizophrénie",
+        "tags": ["Presentation"],
+        "date": "Jun 2016",
+        "authors": ["Florence Yvon", "Frank Larøi", "Ateni T.", "Antoinette Prouteau"],
+        "abstract": ["https://www.univ-smb.fr/actualite/luniversite-savoie-mont-blanc-organise-la-12eme-edition-du-groupe-de-reflexion-en-psychopathologie-cognitive/"]
+      },
+      {
+        "title": "Psychothérapies des hallucinations",
+        "tags": ["Book", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Renaud Jardri", "Jérôme Favrod", "Frank Larøi"],
+        "abstract": ["Premier ouvrage collectif en français portant spécifiquement sur les psychothérapies des hallucinations, ce livre reflète une avancée thérapeutique significative et attendue. Les hallucinations y sont abordées comme une expérience pouvant s'avérer invalidante et à traiter en tant que telle. Qu'elles surviennent chez l'enfant, l'adulte ou le sujet â..."]
+      },
+      {
+        "title": "The effects of a documentary film about schizophrenia on cognitive, affective and behavioural aspects of stigmatisation",
+        "tags": ["Article"],
+        "date": "Mar 2016",
+        "authors": ["Bénédicte Thonon", "Amandine Pletinx", "Allison Grandjean", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "Thonon et al 2016 - The effects of a documentary film about SZ on cognitive, affective and behavioural aspects of stigmatisation",
+        "tags": ["Data", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Bénédicte Thonon", "Amandine Pletinx", "Allison Grandjean", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "The effects of a documentary film about schizophrenia on stigmatisation - APPENDIX A",
+        "tags": ["Data"],
+        "date": "Mar 2016",
+        "authors": ["Bénédicte Thonon", "Amandine Pletinx", "Allison Grandjean", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "The effects of a documentary film about schizophrenia on stigmatisation - APPENDIX B",
+        "tags": ["Data"],
+        "date": "Mar 2016",
+        "authors": ["Bénédicte Thonon", "Amandine Pletinx", "Allison Grandjean", "Frank Larøi"],
+        "abstract": []
+      },
+      {
+        "title": "Maladaptive emotion regulation strategies and stress sensitivity mediate the relation between adverse life events and attenuated positive psychotic symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Julien Laloyaux", "Grégory Dessart", "Martial Van der Linden", "Frank Larøi"],
+        "abstract": ["Introduction: \nThere is now solid evidence for a relation between adverse life events (ALE) and psychotic symptoms in patients with psychosis and in the general population. A recent study has shown that this relation may be partially mediated by stress sensitivity, suggesting the influence of other factors. The aim of this study was to assess the m..."]
+      },
+      {
+        "title": "Hallucinations, loneliness, and social isolation in Alzheimer’s disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Mohamad El Haj", "Renaud Jardri", "Frank Larøi", "Pascal Antoine"],
+        "abstract": ["Introduction: Cognitive and functional compromise, as frequently observed in Alzheimer’s disease (AD), hinders communication and social interactions. One consequence of this hindrance may be a feeling of loneliness. Moreover, emptiness and boredom, as observed in social isolation and loneliness, may thus be\ncompensated for by creating imagined stim..."]
+      }
+    ],
+    "degree": ["BSc,", "MSc,", "PhD"],
+    "bio": [],
+    "publications": [214],
+    "reads": [98564],
+    "citations": [6518]
   }
 }

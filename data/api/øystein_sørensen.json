@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Øystein Sørensen",
-    "id": "neOqbw0AAAAJ",
-    "affiliation": "Centre for Lifespan Changes in Brain and Cognition, Department of Psychology, University …",
+    "name": ["Øystein Sørensen"],
+    "id": ["neOqbw0AAAAJ"],
+    "affiliation": ["Centre for Lifespan Changes in Brain and Cognition, Department of Psychology, University …"],
     "data": {
       "publications": [
         {
@@ -734,8 +734,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-0724-3542",
-    "name": "Øystein Sørensen",
+    "orcid": ["0000-0003-0724-3542"],
+    "name": ["Øystein Sørensen"],
     "distinctions": [],
     "education": [
       {
@@ -746,24 +746,24 @@
       },
       {
         "start": "2018",
-        "end": "2018",
         "position": "Postdoctoral Fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2016",
-        "end": "2018",
         "position": "Data Scientist (Consultant)",
         "organisation": "NextBridge Analytics",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2014",
-        "end": "2016",
         "position": "Analyst / Data Scientist",
         "organisation": "Storebrand ASA",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "employment": [
@@ -775,24 +775,24 @@
       },
       {
         "start": "2018",
-        "end": "2018",
         "position": "Postdoctoral Fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2016",
-        "end": "2018",
         "position": "Data Scientist (Consultant)",
         "organisation": "NextBridge Analytics",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       },
       {
         "start": "2014",
-        "end": "2016",
         "position": "Analyst / Data Scientist",
         "organisation": "Storebrand ASA",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       }
     ],
     "membership": [],
@@ -805,14 +805,14 @@
       {
         "type": "journal-article",
         "title": "No phenotypic or genotypic evidence for a link between sleep duration and brain atrophy",
-        "journal": "Nature Human Behaviour",
-        "url": "https://doi.org/10.1038/s41562-023-01707-5"
+        "url": "https://doi.org/10.1038/s41562-023-01707-5",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "journal-article",
         "title": "Hippocampal-cortical functional connectivity during memory encoding and retrieval",
-        "journal": "NeuroImage",
-        "url": "https://doi.org/10.1016/j.neuroimage.2023.120309"
+        "url": "https://doi.org/10.1016/j.neuroimage.2023.120309",
+        "journal": "NeuroImage"
       },
       {
         "type": "preprint",
@@ -822,8 +822,8 @@
       {
         "type": "journal-article",
         "title": "Longitudinal Modeling of Age-Dependent Latent Traits with Generalized Additive Latent and Mixed Models",
-        "journal": "Psychometrika",
-        "url": "https://doi.org/10.1007/s11336-023-09910-z"
+        "url": "https://doi.org/10.1007/s11336-023-09910-z",
+        "journal": "Psychometrika"
       },
       {
         "type": "preprint",
@@ -838,8 +838,8 @@
       {
         "type": "journal-article",
         "title": "A combined experimental-computational approach uncovers a role for the Golgi matrix protein Giantin in breast cancer progression",
-        "journal": "PLOS Computational Biology",
-        "url": "https://doi.org/10.1371/journal.pcbi.1010995"
+        "url": "https://doi.org/10.1371/journal.pcbi.1010995",
+        "journal": "PLOS Computational Biology"
       },
       {
         "type": "preprint",
@@ -879,32 +879,32 @@
       {
         "type": "journal-article",
         "title": "Author Correction: Asymmetric thinning of the cerebral cortex across the adult lifespan is accelerated in Alzheimer’s disease",
-        "journal": "Nature Communications",
-        "url": "https://doi.org/10.1038/s41467-022-28514-2"
+        "url": "https://doi.org/10.1038/s41467-022-28514-2",
+        "journal": "Nature Communications"
       },
       {
         "type": "journal-article",
         "title": "Reliability and sensitivity of two whole-brain segmentation approaches included in FreeSurfer – ASEG and SAMSEG",
-        "journal": "NeuroImage",
-        "url": "https://doi.org/10.1016/j.neuroimage.2021.118113"
+        "url": "https://doi.org/10.1016/j.neuroimage.2021.118113",
+        "journal": "NeuroImage"
       },
       {
         "type": "journal-article",
         "title": "Asymmetric thinning of the cerebral cortex across the adult lifespan is accelerated in Alzheimer’s disease",
-        "journal": "Nature Communications",
-        "url": "https://doi.org/10.1038/s41467-021-21057-y"
+        "url": "https://doi.org/10.1038/s41467-021-21057-y",
+        "journal": "Nature Communications"
       },
       {
         "type": "journal-article",
         "title": "A recipe for accurate estimation of lifespan brain trajectories, distinguishing longitudinal and cohort effects",
-        "journal": "NeuroImage",
-        "url": "https://doi.org/10.1016/j.neuroimage.2020.117596"
+        "url": "https://doi.org/10.1016/j.neuroimage.2020.117596",
+        "journal": "NeuroImage"
       },
       {
         "type": "journal-article",
         "title": "Meta-analysis of generalized additive models in neuroimaging studies",
-        "journal": "NeuroImage",
-        "url": "https://doi.org/10.1016/j.neuroimage.2020.117416"
+        "url": "https://doi.org/10.1016/j.neuroimage.2020.117416",
+        "journal": "NeuroImage"
       },
       {
         "type": "other",
@@ -914,8 +914,8 @@
       {
         "type": "journal-article",
         "title": "From observed laterality to latent hemispheric differences: Revisiting the inference problem",
-        "journal": "Laterality",
-        "url": "https://doi.org/10.1080/1357650X.2020.1769124"
+        "url": "https://doi.org/10.1080/1357650X.2020.1769124",
+        "journal": "Laterality"
       },
       {
         "type": "other",
@@ -934,32 +934,32 @@
       {
         "type": "preprint",
         "title": "The functional foundations of episodic memory remain stable throughout the lifespan",
-        "journal": "bioRxiv",
-        "url": "http://dx.doi.org/10.1101/2020.01.30.926469"
+        "url": "http://dx.doi.org/10.1101/2020.01.30.926469",
+        "journal": "bioRxiv"
       },
       {
         "type": "journal-article",
         "title": "Self-reported sleep relates to hippocampal atrophy across the adult lifespan – results from the Lifebrain consortium",
-        "journal": "Sleep",
-        "url": "http://dx.doi.org/10.1093/sleep/zsz280"
+        "url": "http://dx.doi.org/10.1093/sleep/zsz280",
+        "journal": "Sleep"
       },
       {
         "type": "preprint",
         "title": "Genetic risk for Alzheimer’s disease predicts hippocampal volume through the lifespan",
-        "journal": "bioRxiv",
-        "url": "http://dx.doi.org/10.1101/711689"
+        "url": "http://dx.doi.org/10.1101/711689",
+        "journal": "bioRxiv"
       },
       {
         "type": "journal-article",
         "title": "hdme: High-Dimensional Regression with Measurement Error",
-        "journal": "Journal of Open Source Software",
-        "url": "https://doi.org/10.21105/joss.01404"
+        "url": "https://doi.org/10.21105/joss.01404",
+        "journal": "Journal of Open Source Software"
       },
       {
         "type": "preprint",
         "title": "Cellular correlates of cortical thinning throughout the lifespan",
-        "journal": "bioRxiv",
-        "url": "http://dx.doi.org/10.1101/585786"
+        "url": "http://dx.doi.org/10.1101/585786",
+        "journal": "bioRxiv"
       },
       {
         "type": "preprint",
@@ -968,38 +968,38 @@
       {
         "type": "journal-article",
         "title": "Covariate Selection in High-Dimensional Generalized Linear Models With Measurement Error",
-        "journal": "Journal of Computational and Graphical Statistics",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85048070285&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85048070285&partnerID=MN8TOARS",
+        "journal": "Journal of Computational and Graphical Statistics"
       },
       {
         "type": "journal-article",
         "title": "Probabilistic preference learning with the Mallows rank model",
-        "journal": "Journal of Machine Learning Research",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85047839332&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85047839332&partnerID=MN8TOARS",
+        "journal": "Journal of Machine Learning Research"
       },
       {
         "type": "journal-article",
         "title": "Time-varying rankings with the Bayesian Mallows model",
-        "journal": "Stat",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85010213472&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85010213472&partnerID=MN8TOARS",
+        "journal": "Stat"
       },
       {
         "type": "journal-article",
         "title": "Measurement error in Lasso: Impact and likelihood bias correction",
-        "journal": "Statistica Sinica",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84971657688&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84971657688&partnerID=MN8TOARS",
+        "journal": "Statistica Sinica"
       },
       {
         "type": "journal-article",
         "title": "Plasma cytokine expression in adolescent chronic fatigue syndrome",
-        "journal": "Brain, Behavior, and Immunity",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84928823726&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84928823726&partnerID=MN8TOARS",
+        "journal": "Brain, Behavior, and Immunity"
       },
       {
         "type": "journal-article",
         "title": "Study findings challenge the content validity of the Canadian Consensus Criteria for adolescent chronic fatigue syndrome",
-        "journal": "Acta Paediatrica, International Journal of Paediatrics",
-        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84937633261&partnerID=MN8TOARS"
+        "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84937633261&partnerID=MN8TOARS",
+        "journal": "Acta Paediatrica, International Journal of Paediatrics"
       }
     ],
     "services": [],
@@ -1007,8 +1007,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Øystein Sørensen",
-    "id": "381638",
+    "name": ["Øystein Sørensen"],
+    "id": ["381638"],
     "keywords": [],
     "position": ["Associate professor"],
     "img": {},
@@ -1321,5 +1321,15 @@
         "url": "https://api.cristin.no/v2/results/1177448"
       }
     ]
+  },
+  "rg": {
+    "id": "Oystein-Sorensen-2",
+    "name": "Øystein Sørensen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of SouthEastern Norway | USN, University of SouthEastern Norway, Department of Educational Science",
+    "keywords": ["Pedagogy and Education", "Teaching and Learning", "Pedagogy", "Teaching Experience"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Bjørn Killingmo",
-    "id": "11479",
+    "name": ["Bjørn Killingmo"],
+    "id": ["11479"],
     "keywords": [],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/11479/picture",
+    "img": ["https://api.cristin.no/v2/persons/11479/picture"],
     "works": [
       {
         "type": "Textbook",
@@ -17,42 +17,42 @@
       {
         "type": "Feature article",
         "year": "2017",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/1530290"
+        "url": "https://api.cristin.no/v2/results/1530290",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1486760"
+        "url": "https://api.cristin.no/v2/results/1486760",
+        "journal": "International Journal of Psychoanalysis"
       },
       {
         "type": "Academic article",
         "year": "2015",
         "title": "Analytic change: Assessing ways of being in a psychoanalytic follow-up interview",
-        "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/1256226"
+        "url": "https://api.cristin.no/v2/results/1256226",
+        "journal": "International Journal of Psychoanalysis"
       },
       {
         "type": "Academic article",
         "year": "2014",
         "title": "What can we expect from trainee therapists? A study of acquisition of competence in dynamic psychotherapy",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/1108870"
+        "url": "https://api.cristin.no/v2/results/1108870",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic article",
         "year": "2013",
         "title": "Object trust: A specific kind of analytic change",
-        "journal": "Psychoanalytic psychology",
-        "url": "https://api.cristin.no/v2/results/1041756"
+        "url": "https://api.cristin.no/v2/results/1041756",
+        "journal": "Psychoanalytic psychology"
       },
       {
         "type": "Academic article",
         "year": "2010",
         "title": "A widening scope on therapist development. A research interview informed by psychoanalysis",
-        "journal": "Qualitative Research in Psychology",
-        "url": "https://api.cristin.no/v2/results/523529"
+        "url": "https://api.cristin.no/v2/results/523529",
+        "journal": "Qualitative Research in Psychology"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -77,22 +77,22 @@
       {
         "type": "Academic article",
         "year": "2007",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/365586"
+        "url": "https://api.cristin.no/v2/results/365586",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2007",
         "title": "Relational oriented character analysis: A position in contemporary psychoanalysis",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/365585"
+        "url": "https://api.cristin.no/v2/results/365585",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic article",
         "year": "2006",
         "title": "A plea for affirmation. Relating to states of unmentalised affects",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/365584"
+        "url": "https://api.cristin.no/v2/results/365584",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -108,69 +108,69 @@
         "type": "Academic article",
         "year": "2004",
         "title": "Ready for departure? Commentary on Dr. Symmingtons analytic interaction with “Lawrence.”",
-        "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/524116"
+        "url": "https://api.cristin.no/v2/results/524116",
+        "journal": "International Journal of Psychoanalysis"
       },
       {
         "type": "Academic article",
         "year": "2004",
-        "journal": "Impuls : Tidsskrift for psykologi",
-        "url": "https://api.cristin.no/v2/results/524112"
+        "url": "https://api.cristin.no/v2/results/524112",
+        "journal": "Impuls : Tidsskrift for psykologi"
       },
       {
         "type": "Academic article",
         "year": "2004",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/418554"
+        "url": "https://api.cristin.no/v2/results/418554",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2001",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/524013"
+        "url": "https://api.cristin.no/v2/results/524013",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2001",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/524011"
+        "url": "https://api.cristin.no/v2/results/524011",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "2001",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/524006"
+        "url": "https://api.cristin.no/v2/results/524006",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Book review",
         "year": "1999",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/523704"
+        "url": "https://api.cristin.no/v2/results/523704",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic article",
         "year": "1999",
         "title": "A psychoanalytic listening-perspective in a time of pluralism",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/523687"
+        "url": "https://api.cristin.no/v2/results/523687",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic article",
         "year": "1999",
-        "journal": "Tidsskrift for Den norske legeforening",
-        "url": "https://api.cristin.no/v2/results/523676"
+        "url": "https://api.cristin.no/v2/results/523676",
+        "journal": "Tidsskrift for Den norske legeforening"
       },
       {
         "type": "Academic article",
         "year": "1999",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/523674"
+        "url": "https://api.cristin.no/v2/results/523674",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Popular scientific article",
         "year": "1998",
-        "journal": "Impuls : Tidsskrift for psykologi",
-        "url": "https://api.cristin.no/v2/results/470379"
+        "url": "https://api.cristin.no/v2/results/470379",
+        "journal": "Impuls : Tidsskrift for psykologi"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -181,21 +181,21 @@
         "type": "Academic article",
         "year": "1997",
         "title": "The so-called rule of abstinence revisited",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/523667"
+        "url": "https://api.cristin.no/v2/results/523667",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic article",
         "year": "1996",
-        "journal": "Tidsskrift for Norsk Psykologforening",
-        "url": "https://api.cristin.no/v2/results/523658"
+        "url": "https://api.cristin.no/v2/results/523658",
+        "journal": "Tidsskrift for Norsk Psykologforening"
       },
       {
         "type": "Academic article",
         "year": "1995",
         "title": "Affirmation in psychoanalysis",
-        "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/517485"
+        "url": "https://api.cristin.no/v2/results/517485",
+        "journal": "International Journal of Psychoanalysis"
       },
       {
         "type": "Popular scientific chapter/article",
@@ -206,8 +206,8 @@
         "type": "Academic article",
         "year": "1994",
         "title": "Ibsen’s ”The Wild Duck”: A case of undifferentiated self-object representations",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/517478"
+        "url": "https://api.cristin.no/v2/results/517478",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Popular scientific chapter/article",
@@ -217,15 +217,15 @@
       {
         "type": "Academic literature review",
         "year": "1993",
-        "journal": "Psyke & Logos",
-        "url": "https://api.cristin.no/v2/results/517460"
+        "url": "https://api.cristin.no/v2/results/517460",
+        "journal": "Psyke & Logos"
       },
       {
         "type": "Academic article",
         "year": "1993",
         "title": "Qualities of Subjective Experiences",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/517447"
+        "url": "https://api.cristin.no/v2/results/517447",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -236,61 +236,61 @@
         "type": "Academic article",
         "year": "1992",
         "title": "Issues in psychoanalytic research",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/346641"
+        "url": "https://api.cristin.no/v2/results/346641",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic article",
         "year": "1990",
         "title": "Beyond semantics. A clinical and theoretical study of isolation",
-        "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/346644"
+        "url": "https://api.cristin.no/v2/results/346644",
+        "journal": "International Journal of Psychoanalysis"
       },
       {
         "type": "Academic article",
         "year": "1990",
-        "journal": "Nytt Norsk Tidsskrift",
-        "url": "https://api.cristin.no/v2/results/346643"
+        "url": "https://api.cristin.no/v2/results/346643",
+        "journal": "Nytt Norsk Tidsskrift"
       },
       {
         "type": "Academic article",
         "year": "1990",
         "title": "Characters on the stage: Ibsen’s ”Life-Lie” revisited",
-        "journal": "Scandinavian Psychoanalytic Review",
-        "url": "https://api.cristin.no/v2/results/346642"
+        "url": "https://api.cristin.no/v2/results/346642",
+        "journal": "Scandinavian Psychoanalytic Review"
       },
       {
         "type": "Academic article",
         "year": "1989",
         "title": "Conflict and deficit: Implications for technique",
-        "journal": "International Journal of Psychoanalysis",
-        "url": "https://api.cristin.no/v2/results/346645"
+        "url": "https://api.cristin.no/v2/results/346645",
+        "journal": "International Journal of Psychoanalysis"
       },
       {
         "type": "Academic article",
         "year": "1986",
-        "journal": "Nordisk Psykologi: teori, forskning, praksis",
-        "url": "https://api.cristin.no/v2/results/347168"
+        "url": "https://api.cristin.no/v2/results/347168",
+        "journal": "Nordisk Psykologi: teori, forskning, praksis"
       },
       {
         "type": "Academic article",
         "year": "1985",
         "title": "Problems in contemporary psychoanalytic theory. I. Controversial issues",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/347171"
+        "url": "https://api.cristin.no/v2/results/347171",
+        "journal": "Scandinavian Journal of Psychology"
       },
       {
         "type": "Academic article",
         "year": "1985",
         "title": "Problems in contemporary psychoanalytic theory. II. Lines of advance",
-        "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/347170"
+        "url": "https://api.cristin.no/v2/results/347170",
+        "journal": "Scandinavian Journal of Psychology"
       },
       {
         "type": "Academic article",
         "year": "1985",
-        "journal": "Nordisk Psykologi: teori, forskning, praksis",
-        "url": "https://api.cristin.no/v2/results/347169"
+        "url": "https://api.cristin.no/v2/results/347169",
+        "journal": "Nordisk Psykologi: teori, forskning, praksis"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -300,8 +300,8 @@
       {
         "type": "Academic article",
         "year": "1984",
-        "journal": "Nordisk Psykologi: teori, forskning, praksis",
-        "url": "https://api.cristin.no/v2/results/347172"
+        "url": "https://api.cristin.no/v2/results/347172",
+        "journal": "Nordisk Psykologi: teori, forskning, praksis"
       },
       {
         "type": "Textbook",
@@ -326,8 +326,8 @@
       {
         "type": "Popular scientific article",
         "year": "1969",
-        "journal": "Byggekunst",
-        "url": "https://api.cristin.no/v2/results/454108"
+        "url": "https://api.cristin.no/v2/results/454108",
+        "journal": "Byggekunst"
       },
       {
         "type": "Report",
@@ -355,5 +355,14 @@
         "url": "https://api.cristin.no/v2/results/835012"
       }
     ]
+  },
+  "rg": {
+    "id": "Emil-Bjorn",
+    "name": "Emil Bjørn",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Technical University of Denmark | DTU, Technical University of Denmark, Department of Chemistry",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

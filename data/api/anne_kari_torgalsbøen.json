@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Anne-Kari Torgalsbøen",
-    "id": "-dlsG58AAAAJ",
-    "affiliation": "Professor of clinical psychology, PhD, Department of Psychology, University of Oslo",
+    "name": ["Anne-Kari Torgalsbøen"],
+    "id": ["-dlsG58AAAAJ"],
+    "affiliation": ["Professor of clinical psychology, PhD, Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -451,8 +451,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-5802-7471",
-    "name": "Anne-Kari Torgalsbøen",
+    "orcid": ["0000-0002-5802-7471"],
+    "name": ["Anne-Kari Torgalsbøen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -463,11 +463,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anne Kari Torgalsbøen",
-    "id": "6416",
+    "name": ["Anne Kari Torgalsbøen"],
+    "id": ["6416"],
     "keywords": ["Psychological treatment", "Diagnosis", "Psychopharmacology", "Psychopathology", "Psychology of Law", "Schizophrenia", "Recovery", "Neurocognition"],
     "position": ["Professor"],
-    "img": "https://api.cristin.no/v2/persons/6416/picture",
+    "img": ["https://api.cristin.no/v2/persons/6416/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1061,5 +1061,312 @@
         "url": "https://api.cristin.no/v2/results/262678"
       }
     ]
+  },
+  "rg": {
+    "id": "Anne-Kari-Torgalsboen",
+    "name": "Anne-Kari Torgalsbøen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281186339179-1693904047214_Q128/Anne-Kari-Torgalsboen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Clinical Psychology", "Eating Disorders", "Psychopathology", "Mental Illness", "Psychotherapeutic Processes", "Clinical Psychiatry", "Treatment", "Psychoeducation", "Clinical Assessment", "Psychological Assessment"],
+    "works": [
+      {
+        "title": "Neurocognitive predictors of remission of symptoms and social and role functioning in the early course of first-episode schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn", "Bjørn Rishovd Rund"],
+        "abstract": ["In a Norwegian ongoing longitudinal study, we investigate the neurocognitive development in first-episode schizophrenia patients, and the influence of neurocognition on remission and real life functioning. In the present study, results from the early course of illness are reported.\nThe sample includes 28 schizophrenia spectrum patients and 28 pairw..."]
+      },
+      {
+        "title": "Consumer satisfaction and attributions of improvement among fully recovered schizophrenics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2001",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": ["As people with serious mental illness are viewed as consumers rather than patients, their views and needs are increasingly seen as essential to the treatment process. The aim of the present study is to add valuable knowledge about how to help patients by reporting what fully recovered schizophrenics, as consumers, had found helpful in their treatme..."]
+      },
+      {
+        "title": "Comorbidity in schizophrenia: A prognostic study of personality disorders in recovered and non-recovered schizophrenia patients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 1999",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": ["Symptoms and outcome in schizophrenia are heterogeneous. Part of the variation in outcome might be due to the coexistence of other forms of psychopathology. In the present study the prevalence of personality disorders in a group of recovered and non-recovered schizophrenia patients was focused to examine the prognostic implications of comorbidity f..."]
+      },
+      {
+        "title": "The “zipper model of empathy” applied to violence in schizophrenia: A search for social cognitive underpinnings of lack of empathic behavior",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Anja Vaskinn", "Katharina N. Engelstad", "Manuel Zamparini", "Bjørn Rishovd Rund"],
+        "abstract": ["Background: \nThe \"zipper model of empathy\" has been proposed for psychopathy. It postulates that empathic behavior may fail to arise due to impaired facial emotion recognition. In this study, we examined if the model may be of relevance for schizophrenia.\n\nMethods: \nIn a sample of participants with schizophrenia and a history of severe interpersona..."]
+      },
+      {
+        "title": "Self-Efficacy and its Role on Favorable Outcome in First-Episode Schizophrenia: A 10-Year Repeated Assessment Prospective Study",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Anne-Kari Torgalsbøen", "Frank Larøi", "Christine Mohn", "Mikolaj Czajkowski"],
+        "abstract": []
+      },
+      {
+        "title": "A ten-year longitudinal repeated assessment study of cognitive improvement in patients with first-episode schizophrenia and healthy controls: The Oslo Schizophrenia Recovery (OSR) study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn", "Frank Larøi", "Nikolai Czajkowski"],
+        "abstract": ["The mapping of cognitive trajectories after a first episode of schizophrenia has been the aim in several studies, but the longitudinal course of cognitive impairments remains an important question. Due to methodological limitations, it has been challenging to pinpoint specific periods of improvement or stability in cognitive functioning over time...."]
+      },
+      {
+        "title": "29 03 Poster , SIRS, 2022",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Nikolai Olavi Czajkowski", "Anne-Kari Torgalsbøen"],
+        "abstract": ["This poster presents the 10-year follow up results from the Oslo Schizophrenia Recovery Study (OSR) on full recovery and self-efficacy in first -episode schizophrenia."]
+      },
+      {
+        "title": "Childhood trauma, social cognition and schizophrenia: Specific association between physical neglect and cognitive theory of mind in homicide offenders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Anja Vaskinn", "Katharina N. Engelstad", "Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": ["Schizophrenia is associated with a small, but increased risk of violent behavior, including homicide. Violent individuals with schizophrenia have elevated rates of childhood trauma and substantial social cognitive impairments. The aim of this study was to examine if childhood trauma is related to social cognition in homicide offenders with schizoph..."]
+      },
+      {
+        "title": "Increased prevalence of psychopathy and childhood trauma in homicide offenders with schizophrenia compared to nonviolent individuals with schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Katharina Nymo Engelstad", "Bjørn Rishovd Rund", "Bjørn Lau", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Purpose: Schizophrenia is associated with an increased homicide risk. Personality pathology, particularly antisocial personality disorder and psychopathic traits, has been associated with increased violence risk in schizophrenia. Childhood trauma, more specifically physical abuse, has been associated with violence risk in healthy populations and in..."]
+      },
+      {
+        "title": "Cognitive, Work and Social Outcomes in Fully Recovered First-Episode Schizophrenia: On and Off Antipsychotic Medication",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2019",
+        "authors": ["Susie Fu", "Nikolai Czajkowski", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Objective: \nThis study examined the development in cognition, work, and social functioning in a group of fully recovered first-episode schizophrenia (FES) patients across six-eight years and inspected whether changes in outcome were similar when individuals were off medication as when they were on medication.\n\nMethod: \nTen out of 28 participants we..."]
+      },
+      {
+        "title": "Large social cognitive impairments characterize homicide offenders with schizophrenia",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Katharina Nymo Engelstad", "Bjørn Rishovd Rund", "Anne-Kari Torgalsbøen", "Anja Vaskinn"],
+        "abstract": []
+      },
+      {
+        "title": "Resilience trajectories to full recovery in first episode schizophrenia",
+        "tags": ["Article"],
+        "date": "Aug 2018",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": []
+      },
+      {
+        "title": "Impaired neuropsychological profile in homicide offenders with schizophrenia",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Katharina Nymo Engelstad", "Anja Vaskinn", "Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Cognitive improvement in first-episode schizophrenia and healthy controls: A 6-year multi-assessment follow-up study",
+        "tags": ["Article"],
+        "date": "Jun 2018",
+        "authors": ["Susie Fu", "Nikolai Czajkowski", "Anne-Kari Torgalsbøen"],
+        "abstract": []
+      },
+      {
+        "title": "Resilience trajectories to full recovery in first-episode schizophrenia",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Anne-Kari Torgalsbøen", "Susie Fu", "Nikolai Czajkowski"],
+        "abstract": ["Background: \nResilience is successful adaptation despite adversity. This personality trait has the potential to add new knowledge to how to achieve a successful outcome, but resilience has been understudied in schizophrenia. The objective of the present study is to investigate if there are significant differences in resilience development among ful..."]
+      },
+      {
+        "title": "Full recovery in first-episode psychosis: Cognitive, clinical and resilience trajectories for participants in the Oslo schizophrenia recovery study across 6 years",
+        "tags": ["Conference Paper"],
+        "date": "Apr 2018",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn"],
+        "abstract": []
+      },
+      {
+        "title": "Poster Torgalsbøen Mohn SIRS Firenze 2018",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn"],
+        "abstract": []
+      },
+      {
+        "title": "F86. SOCIAL COGNITION IN HOMICIDE OFFENDERS WITH SCHIZOPHRENIA",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Katharina Engelstad", "Bjørn Rishovd Rund", "Anne-Kari Torgalsbøen", "Anja Vaskinn"],
+        "abstract": ["Background\nSchizophrenia is characterized by impairments in social and non-social cognition that act as strong predictors of the poor outcome of the disorder, including violence. In fact, it has been suggested that the inclusion of (social) cognition in risk assessment tools may increase their accuracy. A premise for this line of thinking is that i..."]
+      },
+      {
+        "title": "T70. RECOVERY IN FIRST –EPISODE PSYCHOSIS: COGNITIVE, CLINICAL AND RESILIENCE (PERSONAL RESOURCES) TRAJECTORIES ACROSS 6 YEARS",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn"],
+        "abstract": ["Background\nThere is increasing recognition that people with schizophrenia can experience recovery. Based on a recent review of long-term outcome studies of first-episode psychosis (FEP), the authors argued that remission and recovery rates may be more favourable than previously thought.1 In order to improve timing of interventions and personalize t..."]
+      },
+      {
+        "title": "F80. COGNITIVE TRAJECTORIES OVER 6 YEARS IN FIRST-EPISODE SCHIZOPHRENIA AND HEALTHY CONTROLS – A PROSPECTIVE LONGITUDINAL MULTI-ASSESSMENT STUDY",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Susie Fu", "Nikolai Czajkowski", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Background\nPatients with first-episode schizophrenia (FES) have consistently showed impaired cognitive functioning compared to healthy controls across a broad array of cognitive domains. After psychosis onset the cognitive performance in FES seems to remain stable or even improve over time. Many earlier studies, however, did not include healthy con..."]
+      },
+      {
+        "title": "Details of attention and learning change in first-episode schizophrenia",
+        "tags": ["Article"],
+        "date": "Dec 2017",
+        "authors": ["Christine Mohn", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Impaired attention and learning functions are common in schizophrenia. The details of this impairment, and how these change across time, are not well known. We aimed to compare the parameters of well-known attention and learning neuropsychological tests in first-episode schizophrenia (FES) patients and healthy controls in a 2-year follow-up period...."]
+      },
+      {
+        "title": "The relationship between level of cognitive impairments and functional outcome trajectories in first-episode schizophrenia",
+        "tags": ["Article"],
+        "date": "Mar 2017",
+        "authors": ["Susie Fu", "Nikolai Czajkowski", "Bjørn Rishovd Rund", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Although cognitive impairments are consistently linked to functional outcome in chronic schizophrenia, the relationship remains unclear for patients with first-episode schizophrenia. The objective of this present study was to determine whether there are distinct developmental trajectories for functional outcome in patients with different levels of..."]
+      },
+      {
+        "title": "Comparing effects: A reanalysis of two studies on season of birth bias in anorexia nervosa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Eirin Winje", "Anne-Kari Torgalsbøen", "Cathrine Brunborg", "Kristin Stedal"],
+        "abstract": ["Background\nOutcomes from studies on season of birth bias in eating disorders have been inconsistent. This inconsistency has been explained by differences in methodologies resulting in different types of effect sizes. The aim of the current study was to facilitate comparison by using the same methodology on samples from two studies with differing co..."]
+      },
+      {
+        "title": "Does Effect Size Matter? A Reanalysis of Season of Birth Bias in Anorexia Nervosa.",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Eirin Winje", "Anne-Kari Torgalsbøen", "Cathrine Brunborg", "Kristin Stedal"],
+        "abstract": ["The findings suggest that although the conclusions from previous studies on season of birth bias in Anorexia nervosa differ, the effect sizes do not. According to common conventions for interpreting effect sizes , Cramêr´s Vs below 0.10 and OR below 1.44 are considered small or trivial. All the observed Cramêr´s Vs and the ORs in the original paper..."]
+      },
+      {
+        "title": "Does resilience contribute to full recovery in first-episode schizophrenia?",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": ["How does differences in resilience influence real-life functioning of persons with schizophrenia?"]
+      },
+      {
+        "title": "Relationship between neurocognition and functional recovery in first-episode schizophrenia: Results from the second year of the Oslo multi-follow-up study",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": ["Lack of control of confounding variables, high attrition rate, and too few neurocognitive domains completed at each assessment point are some of the limitations identified in studies of the relationship between cognition and functional outcome in schizophrenia. In the ongoing Oslo multi-follow-up study 28 first episode schizophrenia patients and a..."]
+      },
+      {
+        "title": "Relationship between neurocognition and functional recovery in first-episode schizophrenia: Results from the second year of the Oslo multi-follow-up study.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": ["Lack of control of confounding variables, high attrition rate, and too few neurocognitive domains completed at each assessment point are some of the limitations identified in studies of the relationship between cognition and functional outcome in schizophrenia. In the ongoing Oslo multi-follow-up study 28 first episode schizophrenia patients and a..."]
+      },
+      {
+        "title": "Poster #S219 THE RELATIONSHIP BETWEEN NEUROCOGNITION AND REAL LIFE FUNCTIONING IN FIRST-EPISODE SCHIZOPHRENIA: RESULTS FROM THE 2-YEAR FOLLOW-UP IN THE OSLO LONGITUDINAL RECOVERY STUDY",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2014",
+        "authors": ["Anne-Kari Torgalsbøen", "Christine Mohn", "Nikolai Czajkowski", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Season of birth bias and anorexia nervosa: Results from an international collaboration",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Eirin Winje", "Anne-Kari Torgalsbøen", "Cathrine Brunborg", "Bryan Lask"],
+        "abstract": ["Objective: \nBased on inconsistent findings in the literature, this study tested the hypothesis that \"there is a season of birth bias for females with anorexia nervosa (AN).\"\n\nMethod: \nFemales with AN, born in 1975 to 1996, were compared to females born in the same years and geographical regions by chi-square test for contingency tables with known p..."]
+      },
+      {
+        "title": "Season of Birth Bias and Bulimia NervosaResults from a Multi-centre Collaboration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2013",
+        "authors": ["Eirin Winje", "Anne-Kari Torgalsbøen", "Cathrine Brunborg", "Bryan Lask"],
+        "abstract": ["Season of birth bias has been observed for people with a number of disorders, including women with bulimia nervosa. However, inconsistent results and methodological weaknesses render previous conclusions about such bias uncertain. With an enhanced methodology, this study aims to test whether there is a season of birth bias for women with bulimia ne..."]
+      },
+      {
+        "title": "Object Relations, Reality Testing, and Social Withdrawal in Schizophrenia and Bipolar Disorder",
+        "tags": ["Article"],
+        "date": "Mar 2013",
+        "authors": ["Charlotte Fredslund Hansen", "Anne-Kari Torgalsbøen", "Jan Ivar Rossberg", "Ingrid Melle"],
+        "abstract": ["In this study, we investigated the relationships between observed social withdrawal (Positive and Negative Syndrome Scale [PANSS] Passive Social Withdrawal and PANSS Active Social Avoidance), subjectively experienced social withdrawal (Social Functioning Scale [SFS] Withdrawal and SFS Interpersonal Behavior), and their associations to the underlyin..."]
+      },
+      {
+        "title": "Object relations and reality testing in schizophrenia, bipolar disorders, and healthy controls: Differences in profiles and clinical correlates",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2012",
+        "authors": ["Charlotte Fredslund Hansen", "Anne-Kari Torgalsbøen", "Jan Ivar Rossberg", "Ingrid Melle"],
+        "abstract": []
+      },
+      {
+        "title": "Sustaining Full Recovery in Schizophrenia after 15 Years: Does Resilience Matter?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": ["The main purpose of this study was to follow up a group of persons who, fifteen years ago were considered to be fully recovered from schizophrenia, in order to examine how many have sustained their recovery and to investigate the role of resilience in recovery. A semi-structured interview was designed for this 15-year follow-up study based on previ..."]
+      },
+      {
+        "title": "Maintenance of Recovery From Schizophrenia at 20-Year Follow-Up: What Happened?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2010",
+        "authors": ["Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": ["The present study reports longitudinal data on individuals who 20-years ago were fully recovered from previously diagnosed schizophrenia. Four subjects from the original sample consented and were interviewed at the present follow-up; data on two more subjects were secured elsewhere. A semistructured interview, the Positive and Negative Symptom Scal..."]
+      },
+      {
+        "title": "Lessons learned from three studies of recovery from schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2009",
+        "authors": ["Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": ["Recovery from schizophrenia can be characterized by remission of symptoms and restoration of functioning, tempered by stability of these improvements over the course of the disorder. Empirical findings on the course and outcome of schizophrenia from two studies that were carried out in Norway over the past fifteen years were based on standardized i..."]
+      },
+      {
+        "title": "Passive/Apathetic Social Withdrawal and Active Social Avoidance in Schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2009",
+        "authors": ["Charlotte Fredslund Hansen", "Anne-Kari Torgalsbøen", "Ingrid Melle", "Morris D Bell"],
+        "abstract": ["Social withdrawal, a core feature of negative symptoms, is differentiated into passive social withdrawal (PSW) and active social avoidance (ASA). We examined whether this differentiation was related to differences in underlying psychological processes of object relations and reality testing.\nTwo hundred seventy-two outpatients with schizophrenia an..."]
+      },
+      {
+        "title": "Psychometric properties of a Norwegian version of the Matrics Consensus Cognitive Battery (MCCB)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Kjetil Sundet", "Anne-Kari Torgalsbøen", "Ingrid Melle", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Recovery from schizophrenia: dose resilience matter? Ten and 20-year follow-ups of former patients with schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Full recovery from schizophrenia: The prognostic role of premorbid adjustment, symptoms at first admission, precipitating events and gender",
+        "tags": ["Article"],
+        "date": "Dec 1999",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": ["A number of long-term studies of course and outcome in schizophrenia report that about a fourth of the cases show good clinical and social recovery. However, very few studies have been carried out examining the main characteristics of schizophrenia patients who have fully recovered according to a strict definition of 'full recovery'. The purpose of..."]
+      },
+      {
+        "title": "“Full Recovery” from Schizophrenia in the Long Term: A Ten-Year Follow-Up of Eight Former Schizophrenic Patients",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 1998",
+        "authors": ["Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": ["The present study reports longitudinal data on individuals who ten years ago were fully recovered from a previously diagnosed schizophrenia. Seven out of ten subjects consented and were reexamined at the present follow-up, and data on an eighth subject was secured elsewhere. A semistructured interview was used to examine psychosocial functioning of..."]
+      },
+      {
+        "title": "Main characteristics of subjects who have recovered from schizophrenia",
+        "tags": ["Article"],
+        "date": "Feb 1996",
+        "authors": ["Anne-Kari Torgalsbøen"],
+        "abstract": []
+      },
+      {
+        "title": "Fully recovered schizophrenics compared to chronic patients on premorbid and treatment characteristics",
+        "tags": ["Article"],
+        "date": "Jan 1990",
+        "authors": ["Bjørn Rishovd Rund", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Ten fully recovered schizophrenics (Group A) were compared to 10 chronic schizophrenic patients (Group B) on several variables concerning premorbid adjustment, family interaction, hospitalization, and treatment. Patients in Group A were clearly, but not statistically significantly better than patients in Group B on premorbid adjustment. Likewise, a..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Philosophy"],
+    "publications": [42],
+    "reads": [9780],
+    "citations": [673]
   }
 }

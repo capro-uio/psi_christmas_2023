@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Morten Eikeland",
-    "id": "1504801",
+    "name": ["Morten Eikeland"],
+    "id": ["1504801"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Morten-Eikeland",
+    "name": "Morten Eikeland",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Group Dynamics", "Work Psychology", "Leadership Development", "Group Processes", "Training and Development", "Management Consulting", "Change Management", "I-O Psychology", "Leadership"],
+    "works": [],
+    "degree": ["Master", "of", "Science"],
+    "bio": []
   }
 }

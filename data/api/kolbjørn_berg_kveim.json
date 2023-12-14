@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Kolbjørn Berg Kveim",
-    "id": "21666",
+    "name": ["Kolbjørn Berg Kveim"],
+    "id": ["21666"],
     "keywords": ["Psychophysiology", "Stress"],
     "position": ["Emeritus"],
     "img": {},
@@ -20,5 +20,26 @@
         "url": "https://api.cristin.no/v2/results/135203"
       }
     ]
+  },
+  "rg": {
+    "id": "Tor-Berg",
+    "name": "Tor Olav Berg",
+    "img": "https://i1.rgstatic.net/ii/profile.image/393117720170516-1470737976654_Q128/Tor-Berg.jpg",
+    "affiliation": "UiT The Arctic University of Norway, Department of Chemistry",
+    "keywords": ["Protein Purification", "Protein Biochemistry", "Protein Characterization", "Protein Expression", "Protein Structure", "Protein Crystallization"],
+    "works": [
+      {
+        "title": "Characterization of the N-acetylneuraminic acid synthase (NeuB) from the psychrophilic fish pathogen Moritella viscosa",
+        "tags": ["Article"],
+        "date": "Oct 2014",
+        "authors": ["Tor Olav Berg", "Man Kumari Gurung", "Bjørn Altermark", "Inger Lin U Ræder"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": [],
+    "publication": [1],
+    "reads": [122],
+    "citations": [14]
   }
 }

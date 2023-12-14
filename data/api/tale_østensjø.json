@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Tale Østensjø",
-    "id": "893513",
+    "name": ["Tale Østensjø"],
+    "id": ["893513"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -15,5 +15,26 @@
         "url": "https://api.cristin.no/v2/results/1504141"
       }
     ]
+  },
+  "rg": {
+    "id": "Mihir-Tale",
+    "name": "Mihir Tale",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281202122550-1698695620362_Q128/Mihir-Tale.jpg",
+    "affiliation": "Symbiosis International University | SIU, Symbiosis International University, Symbiosis Institute of Business Management Pune SIBM  Pune",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Face Generation from Textual Features using Conditionally Trained Inputs to Generative Adversarial Networks",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Sandeep Shinde", "Tejas Pradhan", "Aniket Ghorpade", "Mihir Tale"],
+        "abstract": "Generative Networks have proved to be extremely effective in image restoration and reconstruction in the past few years. Generating faces from textual descriptions is one such application where the power of generative algorithms can be used. The task of generating faces can be useful for a number of applications such as finding missing persons, ide..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [27],
+    "citations": [0]
   }
 }

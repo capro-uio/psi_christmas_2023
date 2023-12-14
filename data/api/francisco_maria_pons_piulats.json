@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-9092-5220",
-    "name": "Maria A. Pons",
+    "orcid": ["0000-0002-9092-5220"],
+    "name": ["Maria A. Pons"],
     "distinctions": [],
     "education": [
       {
@@ -248,11 +248,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Francisco Maria Pons Piulats",
-    "id": "6204",
+    "name": ["Francisco Maria Pons Piulats"],
+    "id": ["6204"],
     "keywords": ["Emotional Competences", "Piagetian and NeoPiagetian Models of Cognition", "Cognition and Emotion", "Individual Differences", "Consciousness", "Cultures", "Education"],
     "position": ["Professor"],
-    "img": "https://api.cristin.no/v2/persons/6204/picture",
+    "img": ["https://api.cristin.no/v2/persons/6204/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -872,5 +872,15 @@
         "url": "https://api.cristin.no/v2/results/514371"
       }
     ]
+  },
+  "rg": {
+    "id": "Maria-Pons-3",
+    "name": "María Pons",
+    "img": "https://i1.rgstatic.net/ii/profile.image/742099163021315-1553941636125_Q128/Maria-Pons-3.jpg",
+    "affiliation": "University of the Pacific Peru, Faculty of Law",
+    "keywords": ["Law and Legal Studies", "Legal Analysis"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

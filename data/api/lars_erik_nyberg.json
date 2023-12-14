@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Lars Nyberg",
-    "id": "n5D6GtsAAAAJ",
-    "affiliation": "Umeå University, Sweden",
+    "name": ["Lars Nyberg"],
+    "id": ["n5D6GtsAAAAJ"],
+    "affiliation": ["Umeå University, Sweden"],
     "data": {
       "publications": [
         {
@@ -1240,8 +1240,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-0851-8475",
-    "name": "Erik Nyberg",
+    "orcid": ["0000-0002-0851-8475"],
+    "name": ["Erik Nyberg"],
     "distinctions": [],
     "education": [
       {
@@ -1311,8 +1311,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Lars Erik Nyberg",
-    "id": "46667",
+    "name": ["Lars Erik Nyberg"],
+    "id": ["46667"],
     "keywords": [],
     "position": ["Professor ii", "Professor"],
     "img": {},
@@ -1506,5 +1506,15 @@
         "url": "https://api.cristin.no/v2/results/750175"
       }
     ]
+  },
+  "rg": {
+    "id": "Nyberg_Lars",
+    "name": "Nyberg Lars",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Umeå University | UMU, Umeå University",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Joyce Anthonia Ojokojo",
-    "id": "8POpaLEAAAAJ",
-    "affiliation": "Universitetet i Oslo",
+    "name": ["Joyce Anthonia Ojokojo"],
+    "id": ["8POpaLEAAAAJ"],
+    "affiliation": ["Universitetet i Oslo"],
     "data": {
       "publications": [
         {
@@ -19,8 +19,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-0304-6410",
-    "name": "Joyce Anthonia Ojokojo",
+    "orcid": ["0000-0003-0304-6410"],
+    "name": ["Joyce Anthonia Ojokojo"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -31,11 +31,39 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Joyce Anthonia Ojokojo",
-    "id": "1325340",
+    "name": ["Joyce Anthonia Ojokojo"],
+    "id": ["1325340"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Joyce-Anthonia-Ojokojo",
+    "name": "Joyce Anthonia Ojokojo",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1100553266429965-1639403754722_Q128/Joyce-Anthonia-Ojokojo.jpg",
+    "affiliation": "University of SouthEastern Norway | USN, University of SouthEastern Norway, Department of Optometry Radiography and Lighting Design",
+    "keywords": ["Intimate Partner Violence", "Intercultural Competence", "Social Inclusion", "Gender", "Diversity Management", "Collaborative Projects", "Cross Cultural Studies", "Norwegian Women", "Nordic Paradox"],
+    "works": [
+      {
+        "title": "Not Real Rape? Predictors of Intimate Partner Sexual Violence and Attitudes towards the me-too movements in Nigeria and Norway",
+        "tags": ["Thesis"],
+        "date": "Dec 2021",
+        "authors": ["Joyce Anthonia Ojokojo", "Beate Seibt"],
+        "abstract": []
+      },
+      {
+        "title": "Not Real Rape? Predictors of Intimate Partner Sexual Violence and Attitudes towards the me-too movements in Nigeria and Norway",
+        "tags": ["Research"],
+        "date": "Jul 2020",
+        "authors": ["Joyce Anthonia Ojokojo", "Beate Seibt"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": "Joyce is a Social and Cultural Psychologist with a background in Global Mobility, Diversity, & Inclusion. Joyce is supporting the cross-faculty project on \"Effective Utilization of Commercially available Immersive technology for Learning, Training, and Behavior\" with administrative operations, including writing grants.\n\nShe formerly worked as a researcher and project coordinator at the University of Oslo, Norway.",
+    "publications": [2],
+    "reads": [32],
+    "citations": [0]
   }
 }

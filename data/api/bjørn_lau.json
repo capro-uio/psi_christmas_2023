@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Bjørn Lau",
-    "id": "NzjtAtEAAAAJ",
-    "affiliation": "University of Oslo, Dept. of psychology",
+    "name": ["Bjørn Lau"],
+    "id": ["NzjtAtEAAAAJ"],
+    "affiliation": ["University of Oslo, Dept. of psychology"],
     "data": {
       "publications": [
         {
@@ -794,8 +794,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-4378-9761",
-    "name": "Bjørn Lau",
+    "orcid": ["0000-0003-4378-9761"],
+    "name": ["Bjørn Lau"],
     "distinctions": [],
     "education": [
       {
@@ -818,11 +818,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Bjørn Lau",
-    "id": "34381",
+    "name": ["Bjørn Lau"],
+    "id": ["34381"],
     "keywords": ["Health Psychology", "Clinical psychology", "Work and organisational psychology"],
     "position": ["Head of academic department", "Hourly  employee", "Senior Research Scientist", null],
-    "img": "https://api.cristin.no/v2/persons/34381/picture",
+    "img": ["https://api.cristin.no/v2/persons/34381/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1457,5 +1457,466 @@
         "url": "https://api.cristin.no/v2/results/154229"
       }
     ]
+  },
+  "rg": {
+    "id": "Bjorn-Lau-2",
+    "name": "Bjørn Lau",
+    "img": "https://i1.rgstatic.net/ii/profile.image/287300979314690-1445509299865_Q128/Bjorn-Lau-2.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Self-Report", "Burnout", "Coping", "Anxiety", "Stress", "Depression", "Mental Illness", "Personality", "Shift Work", "Eating Disorders"],
+    "works": [
+      {
+        "title": "Enhancing Self-Reported Assessment of Working Conditions in Policing: Revisiting the Psychometric Properties and Applications of the Police Stress Questionnaire",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Knut Inge Fostervold", "Brita Bjørkelo"],
+        "abstract": ["Objectives\nPolicing is recognized as a highly stressful occupation, encompassing stressors not commonly encountered in other fields. In response, police-specific stress scales have been developed and used when studying police work. Despite changes in the composition of police personnel, most studies examining police working conditions focus on swor..."]
+      },
+      {
+        "title": "A Scoping Review of Stress Measurements and Psychometry in Police Research",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Lillis Rabbing", "Brita Bjørkelo", "Knut Inge Fostervold", "Bjørn Lau"],
+        "abstract": ["Despite a growing body of research, there is no systematic body of evidence that establishes the rigour of existing measures of stress among police. The aim of this scoping review was to investigate (1) the diversity of stress measures used in police research and (2) the psychometric properties of such measures and the ways in which they are utilis..."]
+      },
+      {
+        "title": "The effectiveness of exercise therapy and education plus cognitive behavioral therapy, alone or in combination with total knee arthroplasty in patients with knee osteoarthritis – study protocol for the MultiKnee trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Maren Falch Lindberg", "Arild Aamodt", "Mona Badawy", "Anners Lerdal"],
+        "abstract": ["Background\nOne in five patients report chronic pain following total knee arthroplasty (TKA) and are considered non-improvers. Psychological interventions such as cognitive behavioral therapy (CBT), combined with exercise therapy and education may contribute to reduced pain an improved function both for patients with OA or after TKA surgery, but the..."]
+      },
+      {
+        "title": "Development of an internet-delivered cognitive behavioral therapy program for use in combination with exercise therapy and education by patients at increased risk of chronic pain following total knee arthroplasty",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Turid Rognsvåg", "Maren Falch Lindberg", "Anners Lerdal", "Mona Badawy"],
+        "abstract": ["Background\nApproximately 20% of patients experience chronic pain after total knee arthroplasty (TKA). Due to the growing number of TKA procedures, this will affect an increasing number of people worldwide. Catastrophic thinking, dysfunctional illness perception, poor mental health, anxiety and depression characterize these non-improvers, and indica..."]
+      },
+      {
+        "title": "Characteristics associated with the discrepancy between subjective and objective executive functioning in depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Bjørn Ingulfsvann Hagen", "Nils Inge Landrø", "Kristof Hoorelbeke", "Jan Stubberud"],
+        "abstract": ["Major depressive disorder (MDD) is associated with both self-reported (subjective) cognitive complaints and deficits in neurocognitive (objective) measures, but the correspondence between subjective and objective measures of cognition is low. This cross-sectional study aimed to (1) assess the association between subjective and objective measures of..."]
+      },
+      {
+        "title": "Defensive Functioning Moderates the Effects of Nondirective Meditation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Anne Grete Hersoug", "Morten Wærsted", "Bjørn Lau"],
+        "abstract": ["We have recently found that nondirective meditation facilitates stress reduction. This supplementary study investigated whether defensive functioning would moderate these beneficial effects. We explored the occurrence of defense mechanisms and the impact of defensive functioning on the outcome of companies’ stress management programs regarding worr..."]
+      },
+      {
+        "title": "Predictors of Long-Term Improvement Following Cognitive Remediation in a Sample With Elevated Depressive Symptoms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Bjørn Ingulfsvann Hagen", "Nils Inge Landrø", "Bjørn Lau", "Jan Stubberud"],
+        "abstract": ["Objective: \nCognitive remediation (CR) techniques (interventions to enhance cognitive functioning) have proven moderately effective in improving cognition and daily functioning in major depressive disorder (MDD). However, baseline predictors of treatment response are lacking. The present study aimed to identify factors influencing long-term CR outc..."]
+      },
+      {
+        "title": "Goal Management Training as a cognitive remediation intervention in depression: A randomized controlled trial",
+        "tags": ["Article"],
+        "date": "Jul 2020",
+        "authors": ["Bjørn Ingulfsvann Hagen", "Bjørn Lau", "Jutta Joormann", "Jan Stubberud"],
+        "abstract": ["Background\nMajor depressive disorder (MDD) is associated with deficits in executive functioning (EF) that may have a detrimental effect on everyday functioning. Despite this, there are no established cognitive remediation interventions available targeting EF in MDD. Hence, the primary aim of the present pre-registered randomized controlled trial wa..."]
+      },
+      {
+        "title": "Police stress studies around the world – measurements that work",
+        "tags": ["Presentation"],
+        "date": "Feb 2020",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Knut Inge Fostervold", "Brita Bjørkelo"],
+        "abstract": ["Police work has become increasingly demanding and complex. Beside heightened pressure for efficiency employees in the police service need to handle a wide array of operational and organisational challenges in their profession (Shane, 2010; Berg et al., 2005). The impact of work stressors on employees in the police is well documented and some tasks..."]
+      },
+      {
+        "title": "Mental health challenges and work engagement: The results from a cross-sectional study of Norwegian priests",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Bjørn Lau"],
+        "abstract": ["Priests’ professional demands are many and varied. To experience work engagement, it is likely particularly important to have adequate job resources when dealing with Mental Health Challenges (MHC). Hence, we sought to compare the occurrence of work engagement in priests with and without MHC and to study the associations between work resources and..."]
+      },
+      {
+        "title": "Trauma in childhood and adolescence and impaired executive functions are associated with uncertain reflective functioning in mothers with substance use disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Vidar Roald Kristiansen", "Tore Bergby Handeland", "Bjørn Lau", "Merete Glenne Øie"],
+        "abstract": ["Aims\nImpairments in reflective functioning are known to have adverse effects on the ability to display sensitive parenting as a caregiver. Several factors are associated with impairments in reflective functioning, such as impaired executive functioning and experienced trauma. We investigated how these factors contribute to an impaired reflective fu..."]
+      },
+      {
+        "title": "Out-patient commitment order use in Norway: incidence and prevalence rates, duration and use of mental health services from the Norwegian Outpatient Commitment Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Henriette Riley", "Ekaterina Sharashova", "Jorun Rugkåsa", "Georg Høyer"],
+        "abstract": ["Background\nNorway authorised out-patient commitment in 1961, but there is a lack of representative and complete data on the use of out-patient commitment orders.\n\nAims\nTo establish the incidence and prevalence rates on the use of out-patient commitment in Norway, and how these vary across service areas. Further, to study variations in out-patient c..."]
+      },
+      {
+        "title": "Increased prevalence of psychopathy and childhood trauma in homicide offenders with schizophrenia compared to nonviolent individuals with schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Katharina Nymo Engelstad", "Bjørn Rishovd Rund", "Bjørn Lau", "Anne-Kari Torgalsbøen"],
+        "abstract": ["Purpose: Schizophrenia is associated with an increased homicide risk. Personality pathology, particularly antisocial personality disorder and psychopathic traits, has been associated with increased violence risk in schizophrenia. Childhood trauma, more specifically physical abuse, has been associated with violence risk in healthy populations and in..."]
+      },
+      {
+        "title": "Norwegian Police Service Employee Study",
+        "tags": ["Poster"],
+        "date": "May 2019",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Brita Bjørkelo", "Knut Inge Fostervold"],
+        "abstract": ["Potential sources of strain at work are often divided into operational and organisational demands (Berg et al., 2005; Shane, 2010). In the police service the former, job-specific conditions, may include traumatic events and threats to physical and mental health, shift work, and overtime. The latter, organisational demands, affects all organisationa..."]
+      },
+      {
+        "title": "High degree of uncertain reflective functioning in mothers with substance use disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Tore Bergby Handeland", "Vidar Roald Kristiansen", "Bjørn Lau", "Merete Glenne Øie"],
+        "abstract": ["Aims\nHaving a substance use disorder (SUD) is associated with impaired reflective functioning (RF) or mentalizing, implying reduced capacity to reflect on internal mental states of the self and others. This has adverse effects on parenting and the child's development. High uncertain RF style prevents an adequate RF due to a concrete, rigid way of m..."]
+      },
+      {
+        "title": "What are they returning to? Psychosocial work environment as a predictor of returning to work among employees in treatment for common mental disorders: A prospective observational pre–post study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Bjørn Lau", "Olga Shiryaeva", "Torleif Ruud", "Mattias Victor"],
+        "abstract": ["Introduction: \nLong-term sick leave and disabilities due to common mental disorders are challenging for society, employers, and individuals. Hence, we wanted to investigate whether psychosocial work environments experienced by employees undergoing treatment for such disorders was associated with return to work.\n\nMethods: \nAt the start of treatment,..."]
+      },
+      {
+        "title": "Challenging and Demanding Work: Operative and Organisational Work Demands and Individual and Organisational Resources as Predictors of Health and Work Engagement in the Norwegian Police Service",
+        "tags": ["Presentation"],
+        "date": "Feb 2019",
+        "authors": ["Lillis Rabbing", "Bjørn Lau", "Brita Bjørkelo", "Knut Inge Fostervold"],
+        "abstract": ["The project focuses on specific differences in working conditions that are of importance for mental and musculoskeletal health and for work engagement and mastery of work at the Norwegian Police Service"]
+      },
+      {
+        "title": "The use of outpatient commitment in Norway: Who are the patients and what does it involve?",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Jorun Rugkåsa", "Olav Nyttingnes", "Tone Breines Simonsen", "Georg Høyer"],
+        "abstract": ["Purpose: Despite one of the longest histories of using Outpatient Commitment (OC), little is known about the use in the Norwegian context. Reporting from the Norwegian Outpatient Commitment Study, this article aims to: establish the profile of the OC population in Norway; ascertain the legal justification for the use of OC and what OC involves for..."]
+      },
+      {
+        "title": "Large social cognitive impairments characterize homicide offenders with schizophrenia",
+        "tags": ["Article"],
+        "date": "Dec 2018",
+        "authors": ["Katharina Nymo Engelstad", "Bjørn Rishovd Rund", "Anne-Kari Torgalsbøen", "Anja Vaskinn"],
+        "abstract": []
+      },
+      {
+        "title": "Predictors of Return to Work 6 Months After the End of Treatment in Patients with Common Mental Disorders: A Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Mattias Victor", "Bjørn Lau", "Torleif Ruud"],
+        "abstract": ["Purpose Common mental disorders (CMDs) account for a large portion of sickness absence. Even after attending return to work (RTW) interventions, many patients with a CMD remain on sick leave. To identify people at risk of long-term work disability, more needs to be known about factors that predict RTW after treatment. Methods This was a prospective..."]
+      },
+      {
+        "title": "Impaired neuropsychological profile in homicide offenders with schizophrenia",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Katharina Nymo Engelstad", "Anja Vaskinn", "Anne-Kari Torgalsbøen", "Bjørn Rishovd Rund"],
+        "abstract": []
+      },
+      {
+        "title": "Associations between cognition and internalizing problems in young adults with early-onset schizophrenia: A 13-year follow-up study",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Benedicte Strugstad", "Bjørn Lau", "Merete Glenne Øie"],
+        "abstract": ["The present follow-up study examines the associations between cognition and parent-rated internalizing problems among adolescents with early-onset schizophrenia (EOS) at baseline (T1) and self-rated internalizing problems 13 years later (T2). Twelve individuals (8 male/4 female) with EOS and 30 healthy controls (16 male/14 female) were included in..."]
+      },
+      {
+        "title": "Nondirective meditation used in stress management",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Anne Grete Hersoug", "Morten Wærsted", "Bjørn Lau"],
+        "abstract": ["Aims: The present field study investigated the difference between practicing a nondirective relaxation technique – Acem Meditation – for stress relief and merely learning about stress and stress management in a population of active, working professionals. Methods: A six-months follow-up of an intervention group (N = 73) and a control group (N = 47)..."]
+      },
+      {
+        "title": "Mental health among Norwegian priests: associations with effort–reward imbalance and overcommitment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Bjørn Lau"],
+        "abstract": ["Purpose: \nThe aim of the study was to determine the prevalence of anxiety and depression symptoms among Norwegian priests and to examine their associations with effort-reward imbalance (ERI) and overcommitment.\n\nMethods: \nEight hundred four priests in the Norwegian Church completed the Hospital Anxiety and Depression Scale (HADS), the Effort-Reward..."]
+      },
+      {
+        "title": "Predictors of return to work among patients in treatment for common mental disorders: A pre-post study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Mattias Victor", "Bjørn Lau", "Torleif Ruud"],
+        "abstract": ["Background: \nEffects of return to work (RTW) interventions vary, and more knowledge is needed about the factors that contribute to RTW. This study investigated changes in work participation and mental health, and predictors of RTW among patients being treated for common mental disorders (CMDs).\n\nMethods: \nThe study was a prospective pre-post study..."]
+      },
+      {
+        "title": "Supplementary Material 1",
+        "tags": ["Data"],
+        "date": "Jul 2017",
+        "authors": ["Mattias Victor", "Bjørn Lau", "Torleif Ruud"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Jul 2017",
+        "authors": ["Mattias Victor", "Bjørn Lau", "Torleif Ruud"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Material 3",
+        "tags": ["Data"],
+        "date": "Jul 2017",
+        "authors": ["Mattias Victor", "Bjørn Lau", "Torleif Ruud"],
+        "abstract": []
+      },
+      {
+        "title": "Patient characteristics in a return to work programme for common mental disorders: A cross-sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Mattias Victor", "Bjørn Lau", "Torleif Ruud"],
+        "abstract": ["Background\nMental health problems are a growing cause of sickness absence. There are programmes in many countries to facilitate return to work (RTW) after sickness absence. In Norway, there has been some controversy about patients on sick-leave being prioritized over other patient groups, such as those with more severe diagnoses. However, it is not..."]
+      },
+      {
+        "title": "Pain and disability do not influence psychological and social factors at work among sick-listed patients with neck and back pain",
+        "tags": ["Article"],
+        "date": "Feb 2016",
+        "authors": ["Gunn Hege Marchand", "Bjørn Lau", "Kjersti Myhre", "Gunnar Leivseth"],
+        "abstract": ["Background: \nIt is unknown whether living with neck and back pain, disability, and mental disorders influences the perception of psychological and social factors at work among sick-listed patients.\n\nObjectives: \nThe primary aim of the present study was to examine the associations between pain, disability, anxiety, depression, and perceived psycholo..."]
+      },
+      {
+        "title": "Measurement Properties of the Nordic Questionnaire for Psychological and Social Factors at Work: A Rasch Analysis",
+        "tags": ["Article"],
+        "date": "Jan 2016",
+        "authors": ["Cecilie Røe", "Kjersti Myhre", "Gunn Hege Marchand", "Erik Bautz-Holter"],
+        "abstract": ["The main aim of this study was to evaluate the measurement properties of the Nordic Questionnaire for Psychological and Social Factors at Work (QPS Nordic) and the domains of demand, control and support. The Rasch analysis (RUMM 2030) was based on responses from 226 subjects with back pain who completed the QPS Nordic dimensions of demand, control,..."]
+      },
+      {
+        "title": "Sickness absence and presence among employees in treatment for common mental disorders",
+        "tags": ["Article"],
+        "date": "Dec 2015",
+        "authors": ["Bjørn Lau", "Mattias Victor", "Torleif Ruud"],
+        "abstract": ["Purpose: \nCommon mental disorders are a major cause of long-term sickness absence and a reason for disability benefits, although many people with these disorders remain employed. Therefore, it is important to prevent them from taking sick leave or relying on disability benefits. Consequently, we wished to identify the factors associated with sickne..."]
+      },
+      {
+        "title": "Demand, Control and Support at Work Among Sick-Listed Patients with Neck or Back Pain: A Prospective Study",
+        "tags": ["Article"],
+        "date": "Aug 2015",
+        "authors": ["Kjersti Myhre", "Bjørn Lau", "Gunn Hege Marchand", "Cecilie Røe"],
+        "abstract": ["Purpose The main aim of this study was to assess changes in perceived demand, control and support at work of neck and back pain patients over 1 year. We also hypothesised that perceived changes in demand, control and support at work were associated with clinical improvement, reduced fear-avoidance beliefs and successful return to work. Methods Four..."]
+      },
+      {
+        "title": "Change in pain, disability and influence of fear-avoidance in a work-focused intervention on neck and back pain: A randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Gunn Hege Marchand", "Kjersti Myhre", "Gunnar Leivseth", "Cecilie Røe"],
+        "abstract": ["Neck and back pain are among the most common causes of prolonged disability, and development of interventions with effect on pain, disability and return to work is important. Reduction of fear avoidance might be one mechanism behind improvement after interventions. The aim of the present study was to evaluate changes in pain and disability at the 1..."]
+      },
+      {
+        "title": "Vanlige psykiske helseproblemer og sykenærvær i arbeidslivet",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Bjørn Lau", "Tove Helene Edvardsen", "Mattias Victor"],
+        "abstract": []
+      },
+      {
+        "title": "The Effect of Work-Focused Rehabilitation Among Patients With Neck and Back Pain",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["Kjersti Myhre", "Gunn Hege Marchand", "Gunnar Leivseth", "Cecilie Røe"],
+        "abstract": ["Study design: \nMulticenter randomized trial with patients listed as sick for 1 to 12 months due to neck or back pain and referred to secondary care.\n\nObjective: \nTo compare the return-to-work (RTW) rate among patients offered work-focused rehabilitation or multidisciplinary rehabilitation.\n\nSummary of background data: \nA growing number of studies h..."]
+      },
+      {
+        "title": "Fear-avoidance beliefs associated with perceived psychological and social factors at work among patients with neck and back pain: A cross-sectional multicentre study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Kjersti Myhre", "Cecilie Røe", "Gunn Hege Marchand", "Bjørn Lau"],
+        "abstract": ["Neck and back pain are common and often account for absenteeism at work. Factors at work as well as fear--avoidance beliefs may influence sick-leave in these patients. The aims of this study were to assess: (1) how sick-listed patients in specialised care perceive demand, control, support, effort, reward, and overcommitment at work compared to a ge..."]
+      },
+      {
+        "title": "The prospective relationship between role stressors and new cases of self-reported workplace bullying",
+        "tags": ["Article"],
+        "date": "Nov 2013",
+        "authors": ["Iselin Reknes", "Ståle Valvatne Einarsen", "Stein Knardahl", "Bjørn Lau"],
+        "abstract": ["In line with the “Work environment hypothesis,” role stressors have been proposed as important antecedents of bullying in the workplace. Only a few longitudinal studies on the relationship between role stressors and bullying exist, however, and earlier studies have largely been cross-sectional. The aim of the present prospective study was to determ..."]
+      },
+      {
+        "title": "Perceived Mastery of Work among Shift Workers in the Norwegian Offshore Petroleum Industry",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Cathrine Haugene Ljoså", "Reidar Tyssen", "Bjørn Lau"],
+        "abstract": ["This study investigated associations between individual and work-related factors and perceived mastery of work among offshore shift workers. 2406 employees of a Norwegian petroleum company were invited to participate. A web-based survey was used and 1336 completed questionnaires were returned (56%). Mastery of work was assessed using QPS Nordic Mas..."]
+      },
+      {
+        "title": "Leadership and Role Stressors as Departmental Level Predictors of Workplace Bullying",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2011",
+        "authors": ["Lars Johan Hauge", "Ståle Valvatne Einarsen", "Stein Knardahl", "Anders Skogstad"],
+        "abstract": ["Environmental conditions have long been assumed to create climates that can encourage workplace bullying. Although several studies have supported this assumption, the vast majority have applied the individual as the unit of both measurement and analysis. We argue, however, that the appropriate level of inference regarding environmental conditions i..."]
+      },
+      {
+        "title": "Mental distress among shift workers in Norwegian offshore petroleum industry—Relative influence of individual and psychosocial work factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2011",
+        "authors": ["Cathrine Haugene Ljoså", "Reidar Tyssen", "Bjørn Lau"],
+        "abstract": ["This study aimed to investigate the association between individual and psychosocial work factors and mental distress among offshore shift workers in the Norwegian petroleum industry.\nAll 2406 employees of a large Norwegian oil and gas company, who worked offshore during a two-week period in August 2006, were invited to participate in the web-based..."]
+      },
+      {
+        "title": "Deltakelse i arbeidslivet: Helsefremmende eller en risiko for utvikling av dårlig mental helse?",
+        "tags": ["Article"],
+        "date": "Aug 2011",
+        "authors": ["Bjørn Lau", "Live Bakke Finne", "Mona Berthelsen"],
+        "abstract": ["The research literature on the involuntary unemployed indicates that work has a number of beneficial effects on mental health. Nonetheless, certain psychosocial factors seem to increase the risk for employees to develop poor mental health, particularly anxiety and depressive symptoms: High job demands and low degree of influence and social support,..."]
+      },
+      {
+        "title": "Do they stay or do they go?: A longitudinal study of intentions to leave and exclusion from working life among targets of workplace bullying",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Mona Berthelsen", "Anders Skogstad", "Bjørn Lau", "Ståle Valvatne Einarsen"],
+        "abstract": ["Purpose\nThis study aims to explore relationships between exposure to bullying at work and intention to leave the organisation, actual leaving the workplace, and exclusion from working life through sick leave or rehabilitation or disability pension.\n\nDesign/methodology/approach\nA prospective design with two surveys of a national representative sampl..."]
+      },
+      {
+        "title": "Workplace bullying and mental distress - A prospective study of Norwegian employees",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Live Bakke Finne", "Stein Knardahl", "Bjørn Lau"],
+        "abstract": ["Using a prospective design, the objective of this study was to determine the relationship between workplace bullying and mental distress.\nAltogether, 1971 Norwegian employees, recruited from 20 organizations, answered questions regarding workplace bullying and mental distress at both baseline and follow-up. Baseline data were gathered between 2004-..."]
+      },
+      {
+        "title": "A comparison of general and ambulance specific stressors: Predictors of job satisfaction and health problems in a nationwide one-year follow-up study of Norwegian ambulance personnel",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Tom Sterud", "Erlend Hem", "Bjørn Lau", "Øivind Ekeberg"],
+        "abstract": ["To address the relative importance of general job-related stressors, ambulance specific stressors and individual characteristics in relation to job satisfaction and health complaints (emotional exhaustion, psychological distress and musculoskeletal pain) among ambulance personnel.\nA nationwide prospective questionnaire survey of ambulance personnel..."]
+      },
+      {
+        "title": "Sivilstand og mental helse",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2009",
+        "authors": ["Bjørn Lau"],
+        "abstract": ["-"]
+      },
+      {
+        "title": "Shiftwork in the Norwegian petroleum industry: Overcoming difficulties with family and social life a cross sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2009",
+        "authors": ["Cathrine Haugene Ljoså", "Bjørn Lau"],
+        "abstract": ["Continuous shift schedules are required in the petroleum industry because of its dependency on uninterrupted production. Although shiftwork affects health, less is known about its effects on social and domestic life.\nConsequently, we studied these relationships in a sample of 1697 (response rate 55.9%) petroleum workers who worked onshore and offsh..."]
+      },
+      {
+        "title": "Association of psychosocial factors and bullying at individual and department levels among naval military personnel",
+        "tags": ["Article"],
+        "date": "May 2009",
+        "authors": ["Nils Magerøy", "Bjørn Lau", "Trond Riise", "Bente Elisabeth Moen"],
+        "abstract": ["We studied the associations between bullying at work and psychosocial factors both at the individual and at the department levels.\nThe data were collected in a cross-sectional study from a questionnaire sent by mail in 2002 to all military personnel in the Royal Norwegian Navy as part of a general work and health study. Self-experienced and observe..."]
+      },
+      {
+        "title": "Occupational stressors and its organizational and individual correlates: A nationwide study of Norwegian ambulance personnel",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Tom Sterud", "Erlend Hem", "Øivind Ekeberg", "Bjørn Lau"],
+        "abstract": ["High levels of stress among ambulance personnel have been attributed to the conditions of ambulance work. However, there is little research to support this notion, and it has been questioned whether ambulance work is inherently stressful. We compared the severity and frequency level of organizational and ambulance-specific stressors, and studied th..."]
+      },
+      {
+        "title": "Suicidal Ideation and Suicide Attempts in a Nationwide Sample of Operational Norwegian Ambulance Personnel",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2008",
+        "authors": ["Tom Sterud", "Erlend Hem", "Bjørn Lau", "Øivind Ekeberg"],
+        "abstract": ["This is the first paper on suicidal ideation and attempts among ambulance personnel. This study aimed to investigate levels of suicidal ideation and suicide attempts among ambulance personnel, and to identify important correlates and the factors to which ambulance personnel attribute their serious suicidal ideation. A comprehensive nationwide quest..."]
+      },
+      {
+        "title": "Self-reported work ability of Norwegian women in relation to physical and mental health, and to the work environment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2008",
+        "authors": ["Migle Gamperiene", "Jan F Nygård", "Inger Sandanger", "Dag Bruusgaard"],
+        "abstract": ["To examine the self-reported level of work ability among female employees and the relationship between work ability and demographic characteristics, physical health, mental health, and various psychosocial and organizational work environment factors.\nParticipants were 597 female employees with an average age of 43 years from urban and rural areas i..."]
+      },
+      {
+        "title": "Perceived Job Insecurity, Job Predictability, Personality, and Health",
+        "tags": ["Article"],
+        "date": "Mar 2008",
+        "authors": ["Bjørn Lau", "Stein Knardahl"],
+        "abstract": ["The present study sought to determine whether job insecurity is associated with personality traits and beliefs. In addition, it was tested whether aspects of personality confounded the relationships between job insecurity and health, or moderated this association.\nAt the first data collection, 5163 persons participated, and at the second data colle..."]
+      },
+      {
+        "title": "Effort-reward imbalance and overcommitment in employees in a Norwegian municipality: A cross sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2008",
+        "authors": ["Bjørn Lau"],
+        "abstract": ["The aim of this study was to validate a Norwegian version of the Effort-Reward Imbalance Questionnaire (ERI-Q).\nOne thousand eight-hundred and three employees in a medium-sized Norwegian municipality replied to the ERI-Q, and health-related variables such as self-reported general health, psychological distress, musculoskeletal complaints, and work-..."]
+      },
+      {
+        "title": "Health problems and help-seeking in a nationwide sample of operational Norwegian ambulance personnel",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Tom Sterud", "Erlend Hem", "Øivind Ekeberg", "Bjørn Lau"],
+        "abstract": ["To estimate the prevalence of anxiety and depression symptoms, and their association with professional help-seeking, among operational ambulance personnel and a general working population, and to study the symptoms of musculoskeletal pain and disturbed sleep among ambulance personnel.\nThe results of a comprehensive nationwide questionnaire survey o..."]
+      },
+      {
+        "title": "Occupational Stress and Alcohol Use: A Study of Two Nationwide Samples of Operational Police and Ambulance, Personnel in Norway",
+        "tags": ["Article"],
+        "date": "Nov 2007",
+        "authors": ["Tom Sterud", "Erlend Hem", "Øivind Ekeberg", "Bjørn Lau"],
+        "abstract": ["Police and ambulance personnel are widely believed to have a high prevalence of excessive alcohol consumption. However, the empirical basis for this assumption is scant or nonexistent. We assessed the association of alcohol use with burnout and job stressors, with drinking to cope and neuroticism as two possible moderating factors in two occupation..."]
+      },
+      {
+        "title": "An exploration of job stress and health in the Norwegian police service: A cross sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2006",
+        "authors": ["Anne Marie Berg", "Erlend Hem", "Bjørn Lau", "Øivind Ekeberg"],
+        "abstract": ["Police work is regarded as a high-stress occupation, but so far, no nationwide study has explored the associations between work stress and health.\nTo explore physical and mental health among Norwegian police and associations to job stress. Comparisons were made with a nationwide sample of Norwegian physicians and the general Norwegian population.\nC..."]
+      },
+      {
+        "title": "Personality types, coping, and stress in the Norwegian police service",
+        "tags": ["Article"],
+        "date": "Oct 2006",
+        "authors": ["Bjørn Lau", "Erlend Hem", "Anne Marie Berg", "Svenn Torgersen"],
+        "abstract": ["Much research has been undertaken to determine what characterizes the ‘police personality’, but so far the results have been ambiguous. We conducted a comprehensive nationwide questionnaire survey of 3272 Norwegian police personnel at all ranks, using a short form of the Basic Character Inventory, Job Stress Survey, and Coping Strategies Scale. We..."]
+      },
+      {
+        "title": "Help-Seeking in the Norwegian Police Service",
+        "tags": ["Article"],
+        "date": "Jun 2006",
+        "authors": ["Anne Marie Berg", "Erlend Hem", "Bjørn Lau", "Øivind Ekeberg"],
+        "abstract": ["A traditional view is that police officers possess negative attitudes toward seeking professional help. However, few empirical studies have investigated help-seeking behaviour in police services. This study aimed to investigate help-seeking behaviour, gender differences, and the relationship to self-reported physical and mental health problems in t..."]
+      },
+      {
+        "title": "Stress in the Norwegian police service",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2005",
+        "authors": ["Anne Marie Berg", "Erlend Hem", "Bjørn Lau", "Øivind Ekeberg"],
+        "abstract": ["High levels of stress have been attributed to the conditions of police work, but there is little empirical evidence for this.\nTo develop a new instrument to measure job stress in the police; to assess the most severe and frequent police stressors; to compare levels of stress according to the demographic and organizational factors; and to study stre..."]
+      },
+      {
+        "title": "Suicidal Ideation and Attempts in Norwegian Police",
+        "tags": ["Article"],
+        "date": "Sep 2003",
+        "authors": ["Anne Marie Berg MA", "Erlend Hem MD", "Mitchell Loeb MSc", "Øivind Ekeberg"],
+        "abstract": ["Studies on suicide among police show inconsistent results, thereby contributing to considerable speculation regarding why police officers commit suicide. The present paper is the first nationwide study on suicidal ideation and attempts among police. 3, 272 Norwegian police completed Paykel's Suicidal Feelings in the General Population questionnaire..."]
+      },
+      {
+        "title": "The role of global negative self-evaluations in the influence of body weight on weight and eating concerns",
+        "tags": ["Article"],
+        "date": "Apr 2001",
+        "authors": ["Bjørn Lau"],
+        "abstract": ["The aim of this study was to test a model based on the assumption that a social comparison-process of body mass index could lead to weight and eating concerns by lowering self-evaluation. Three hundred and ninety-five girls from five age cohorts (in grades five through nine at the time of data collection) participated in a questionnaire-based study..."]
+      },
+      {
+        "title": "Dieting behavior in Norwegian adolescents",
+        "tags": ["Article"],
+        "date": "Mar 2001",
+        "authors": ["Bjørn Lau", "Francoise Alsaker"],
+        "abstract": ["In a sample of Norwegian adolescents (n = 1117) 27, 4% of the girls and 9% of the boys reported that they were dieting. Using multiple regression analyses, we were able to predict 50% of girls dieting behavior and 24% of boys dieting behavior. Psychological concerns relating to weight and eating (WEC) as well as perceptions of feeling fatter than o..."]
+      },
+      {
+        "title": "Assessment of weight and eating concerns in Norwegian adolescents",
+        "tags": ["Article"],
+        "date": "Oct 2000",
+        "authors": ["Bjørn Lau", "Francoise Alsaker"],
+        "abstract": ["The aim of the present study was to test the properties of an instrument that assesses concerns about weight and eating without reference to dieting behavior. A short instrument, the Weight and Eating Concerns Inventory (WECI) was examined in a sample of 569 boys and 548 girls aged 11 to 15 years. Confirmatory factor analyses with LISREL showed a b..."]
+      },
+      {
+        "title": "Global negative self-evaluations, weight and eating concerns and depressive symptoms: A prospective study of adolescents",
+        "tags": ["Article"],
+        "date": "Apr 2000",
+        "authors": ["Bjørn Lau"],
+        "abstract": ["A longitudinal study with four sequential cohorts of girls and boys in early to mid-adolescence (n = 607) was used to assess adolescent changes in global negative self-evaluation, depressive symptoms and weight and eating concerns. The effects of these areas on one another over time were also assessed. Over the six months between the two data colle..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Psychology"],
+    "publications": [64],
+    "reads": [14131],
+    "citations": [2009]
   }
 }

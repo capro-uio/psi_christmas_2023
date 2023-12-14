@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0000-0839-3935",
-    "name": "Lynn Skei",
+    "orcid": ["0009-0000-0839-3935"],
+    "name": ["Lynn Skei"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Lynn Skei",
-    "id": "1680169",
+    "name": ["Lynn Skei"],
+    "id": ["1680169"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Honey-Lynn-Lynn",
+    "name": "Honey Lynn Lynn",
+    "img": "https://i1.rgstatic.net/ii/profile.image/968880151359489-1608010437601_Q128/Honey-Lynn-Lynn.jpg",
+    "affiliation": "Kyushu University | Kyudai, Kyushu University, Department of Agricultural  Resource Economics",
+    "keywords": ["Contract Theory", "Game Theory", "Case Studies", "Food Marketing and Distribution", "New Institutional Economics", "Agricultural Development"],
+    "works": [],
+    "degree": [null],
+    "bio": "Honey Lynn Lynn is doing her Ph.D. research at the Department of Agricultural and Resource Economics, Kyushu University. Her current research interests are regarding agri-food value chains, agricultural development, contract farming cases in developing and developed countries, the analysis of optimum profit and utility functions of the players in the contractual games."
   }
 }

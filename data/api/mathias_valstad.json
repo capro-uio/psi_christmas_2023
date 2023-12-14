@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-1728-7541",
-    "name": "Mathias Valstad",
+    "orcid": ["0000-0002-1728-7541"],
+    "name": ["Mathias Valstad"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Mathias Valstad",
-    "id": "596783",
+    "name": ["Mathias Valstad"],
+    "id": ["596783"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", "Researcher"],
     "img": {},
@@ -29,65 +29,198 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Auditory Cortex Thickness Is Associated With N100 Amplitude in Schizophrenia Spectrum Disorders",
-        "journal": "Schizophrenia Bulletin",
-        "url": "https://api.cristin.no/v2/results/2154280"
+        "url": "https://api.cristin.no/v2/results/2154280",
+        "journal": "Schizophrenia Bulletin"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The structure of psychiatric comorbidity without selection and assortative mating",
-        "journal": "PsyArXiv",
-        "url": "https://api.cristin.no/v2/results/2143880"
+        "url": "https://api.cristin.no/v2/results/2143880",
+        "journal": "PsyArXiv"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Relationship between function and structure in the visual cortex in healthy individuals and in patients with severe mental disorders",
-        "journal": "Psychiatry Research : Neuroimaging",
-        "url": "https://api.cristin.no/v2/results/2140867"
+        "url": "https://api.cristin.no/v2/results/2140867",
+        "journal": "Psychiatry Research : Neuroimaging"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Evidence for Reduced Long-Term Potentiation-Like Visual Cortical Plasticity in Schizophrenia and Bipolar Disorder",
-        "journal": "Schizophrenia Bulletin",
-        "url": "https://api.cristin.no/v2/results/1963599"
+        "url": "https://api.cristin.no/v2/results/1963599",
+        "journal": "Schizophrenia Bulletin"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Experience-dependent modulation of the visual evoked potential: Testing effect sizes, retention over time, and associations with age in 415 healthy individuals",
-        "journal": "NeuroImage",
-        "url": "https://api.cristin.no/v2/results/1882980"
+        "url": "https://api.cristin.no/v2/results/1882980",
+        "journal": "NeuroImage"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Heart rate variability is associated with disease severity in psychosis spectrum disorders",
-        "journal": "Progress in Neuro-psychopharmacology and Biological Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1839147"
+        "url": "https://api.cristin.no/v2/results/1839147",
+        "journal": "Progress in Neuro-psychopharmacology and Biological Psychiatry"
       },
       {
         "type": "Academic literature review",
         "year": "2017",
         "title": "The correlation between central and peripheral oxytocin concentrations: A systematic review and meta-analysis",
-        "journal": "Neuroscience and Biobehavioral Reviews",
-        "url": "https://api.cristin.no/v2/results/1484155"
+        "url": "https://api.cristin.no/v2/results/1484155",
+        "journal": "Neuroscience and Biobehavioral Reviews"
       },
       {
         "type": "Academic article",
         "year": "2017",
         "title": "Dose-dependent social-cognitive effects of intranasal oxytocin delivered with novel Breath Powered device in adults with autism spectrum disorder: a randomized placebo-controlled double-blind crossover trial",
-        "journal": "Translational Psychiatry",
-        "url": "https://api.cristin.no/v2/results/1475647"
+        "url": "https://api.cristin.no/v2/results/1475647",
+        "journal": "Translational Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2016",
         "title": "The relationship between central and peripheral oxytocin concentrations: a systematic review and meta-analysis protocol",
-        "journal": "Systematic Reviews",
-        "url": "https://api.cristin.no/v2/results/1351094"
+        "url": "https://api.cristin.no/v2/results/1351094",
+        "journal": "Systematic Reviews"
       }
     ]
+  },
+  "rg": {
+    "id": "Mathias-Valstad",
+    "name": "Mathias Valstad",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Division of Mental Health and Addiction",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Genetic mechanisms for impaired synaptic plasticity in schizophrenia revealed by computational modelling",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Tuomo Mäki-Marttunen", "Kim T Blackwell", "Ibrahim Akkouh", "Ole A Andreasssen"],
+        "abstract": ["Schizophrenia phenotypes are suggestive of impaired cortical plasticity in the disease, but the mechanisms of these deficits are unknown. Genomic association studies have implicated a large number of genes that regulate neuromodulation and plasticity, indicating that the plasticity deficits have a genetic origin. Here, we used biochemically detaile..."]
+      },
+      {
+        "title": "Complete Auditory cortex thickness is associated with N100 amplitude in schizophrenia spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Nora Slapø", "Stener Nerland", "Kjetil Nordbø Jørgensen", "Erik G Jönsson"],
+        "abstract": ["Background and Hypothesis\nThe auditory cortex (AC) may play a central role in the pathophysiology of schizophrenia and auditory hallucinations (AH). Previous schizophrenia studies report thinner AC and impaired AC function, as indicated by decreased N100 amplitude of the auditory evoked potential (AEP). However, whether these structural and functio..."]
+      },
+      {
+        "title": "Relationship between function and structure in the visual cortex in healthy individuals and in patients with severe mental disorders",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Nora Slapø", "Kjetil Nordbø Jørgensen", "Torbjørn Elvsåshagen", "Erik G Jönsson"],
+        "abstract": ["Patients with schizophrenia spectrum disorders (SCZspect) and bipolar disorders (BD) show impaired function in the primary visual cortex (V1), indicated by altered visual evoked potential (VEP). While the neural substrate for altered VEP in these patients remains elusive, altered V1 structure may play a role. One previous study found a positive rel..."]
+      },
+      {
+        "title": "Relationship Between the Visual Evoked Potential and Structure in the Primary Visual Cortex in Healthy Individuals and in Patients with Severe Mental Disorders",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Nora Slapø", "Kjetil Jørgensen", "Torbjørn Elvsåshagen", "Erik G Jönsson"],
+        "abstract": ["Schizophrenia (SCZ) spectrum and bipolar disorder (BD) are severe mental disorders with unknown pathophysiology. Altered visual evoked potential (VEP), an electroencephalogram signal reflecting function in the primary visual cortex (V1), abnormal visual processing and visual hallucinations reported in these patients, all point towards V1 dysfunctio..."]
+      },
+      {
+        "title": "Evidence for Reduced Long-Term Potentiation-Like Visual Cortical Plasticity in Schizophrenia and Bipolar Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Mathias Valstad", "Daniël Roelfs", "Nora Slapø", "Torbjørn Elvsåshagen"],
+        "abstract": ["Several lines of research suggest that impairments in long-term potentiation (LTP)-like synaptic plasticity might be a key pathophysiological mechanism in schizophrenia (SZ) and bipolar disorder type I (BDI) and II (BDII). Using modulations of visually evoked potentials (VEP) of the electroencephalogram, impaired LTP-like visual cortical plasticity..."]
+      },
+      {
+        "title": "Heart rate variability is associated with disease severity in psychosis spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Beatrice R Benjamin", "Mathias Valstad", "Torbjørn Elvsåshagen", "Daniel Quintana"],
+        "abstract": ["While a growing literature links cardiac autonomic dysregulation to a variety of psychiatric disorders, the relationship between cardiac autonomic functioning and specific symptoms in schizophrenia (SZ) and bipolar disorder (BD) remains elusive. Thus, we investigated heart rate variability (HRV), a proxy for vagal activity, as a biological marker f..."]
+      },
+      {
+        "title": "Experience-dependent modulation of the visual evoked potential: Testing effect sizes, retention over time, and associations with age in 415 healthy individuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Mathias Valstad", "Torgeir Moberget", "Daniël Roelfs", "Torbjørn Elvsåshagen"],
+        "abstract": ["Experience-dependent modulation of the visual evoked potential (VEP) is a promising proxy measure of synaptic plasticity in the cerebral cortex. However, existing studies are limited by small to moderate sample sizes as well as by considerable variability in how VEP modulation is quantified. In the present study, we used a large sample (n=415) of h..."]
+      },
+      {
+        "title": "Evidence for reduced long-term potentiation-like visual cortical plasticity in schizophrenia and bipolar disorder",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Mathias Valstad", "Daniel Roelfs", "Nora Slapø", "Torbjørn Elvsåshagen"],
+        "abstract": ["Background\nSeveral lines of research suggest that impairments in long-term potentiation (LTP)-like synaptic plasticity might be a key pathophysiological mechanism in schizophrenia (SZ) and bipolar disorder type I (BDI) and II (BDII). Using modulations of visually evoked potentials (VEP) of the electroencephalogram, impaired LTP-like visual cortical..."]
+      },
+      {
+        "title": "Cortical Excitability and the 1/f Slope in Schizophrenia and Bipolar Disorders",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Clara MF. Timpe", "Nina Lode", "Daniël Roelfs", "Torbjørn Elvsåshagen"],
+        "abstract": []
+      },
+      {
+        "title": "Reduced heart rate variability is associated with disease severity in psychosis spectrum disorders",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Beatrice R. Benjamin", "Mathias Valstad", "Torbjørn Elvsåshagen", "Daniel Quintana"],
+        "abstract": ["While a growing literature links cardiac autonomic dysregulation to a variety of psychiatric disorders, the relationship between cardiac autonomic functioning and specific symptoms in schizophrenia (SZ) and bipolar disorder (BD) remains elusive. Thus, we investigated heart rate variability (HRV), a proxy for vagal activity, as a biological marker f..."]
+      },
+      {
+        "title": "Experience-dependent modulation of the visual evoked potential: testing effect sizes, retention over time, and associations with age in 415 healthy individuals",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Mathias Valstad", "Torgeir Moberget", "Daniël Roelfs", "Torbjørn Elvsåshagen"],
+        "abstract": ["Experience-dependent modulation of the visual evoked potential (VEP) is a promising proxy measure of synaptic plasticity in the cerebral cortex. However, existing studies are limited by small to moderate sample sizes as well as by considerable variability in how VEP modulation is quantified. In the present study, we used a large sample (n = 415) of..."]
+      },
+      {
+        "title": "T161. Long-Term Potentiation-Like Visual Evoked Potential Plasticity in a Large Sample of Healthy Volunteers: Effect Sizes and Response Rates",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Mathias Valstad", "Torgeir Moberget", "Lars T. Westlye", "Torbjørn Elvsåshagen"],
+        "abstract": []
+      },
+      {
+        "title": "Dose-dependent social-cognitive effects of intranasal oxytocin delivered with novel Breath Powered device in adults with autism spectrum disorder: a randomized placebo-controlled double-blind crossover trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["D S Quintana", "L T Westlye", "Sigrun Hope", "Ole A Andreassen"],
+        "abstract": ["The neuropeptide oxytocin has shown promise as a treatment for symptoms of autism spectrum disorders (ASD). However, clinical research progress has been hampered by a poor understanding of oxytocin’s dose–response and sub-optimal intranasal delivery methods. We examined two doses of oxytocin delivered using a novel Breath Powered intranasal deliver..."]
+      },
+      {
+        "title": "Supplementary Information",
+        "tags": ["Data"],
+        "date": "May 2017",
+        "authors": ["D S Quintana", "L T Westlye", "Sigrun Hope", "Ole A Andreasssen"],
+        "abstract": []
+      },
+      {
+        "title": "The correlation between central and peripheral oxytocin concentrations: A systematic review and meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2017",
+        "authors": ["Mathias Valstad", "Gail Alvares", "Maiken Egknud", "Daniel Quintana"],
+        "abstract": ["There is growing interest in the role of the oxytocin system in social cognition and behavior. Peripheral oxytocin concentrations are regularly used to approximate central concentrations in psychiatric research, however, the validity of this approach is unclear. Here we conducted a pre-registered systematic search and meta-analysis of correlations..."]
+      },
+      {
+        "title": "The correlation between central and peripheral oxytocin concentrations: a systematic review and meta-analysis",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Mathias Valstad", "Gail Alvares", "Maiken Egknud", "Daniel Quintana"],
+        "abstract": ["There is growing interest in the role of the oxytocin system in social cognition and behavior. Peripheral oxytocin concentrations are regularly used to approximate central concentrations in psychiatric research. This methodological approach has obvious appeal given the invasiveness of cerebrospinal fluid collection. However, the validity of this ap..."]
+      },
+      {
+        "title": "The relationship between central and peripheral oxytocin concentrations: A systematic review and meta-analysis protocol",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Mathias Valstad", "Gail Alvares", "Ole A Andreassen", "Daniel Quintana"],
+        "abstract": ["Background: \nResearch examining the effects of oxytocin (OT) interventions on psychiatric, social-behavioral, and social-cognitive outcomes regularly collect peripheral levels of OT as markers of central bioavailability. Such inferences rest on the assumption that central and peripheral levels of OT are directly associated. However, conflicting evi..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [17],
+    "reads": [1934],
+    "citations": [336]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-7931-1025",
-    "name": "Sophie Havighurst",
+    "orcid": ["0000-0002-7931-1025"],
+    "name": ["Sophie Havighurst"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Sophie Seychelle Havighurst",
-    "id": "967718",
+    "name": ["Sophie Seychelle Havighurst"],
+    "id": ["967718"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -65,5 +65,15 @@
         "url": "https://api.cristin.no/v2/results/1749961"
       }
     ]
+  },
+  "rg": {
+    "id": "Xie-Sophie",
+    "name": "Xie Sophie",
+    "img": "https://i1.rgstatic.net/ii/profile.image/643934908841986-1530537454384_Q128/Xie-Sophie.jpg",
+    "affiliation": "Sichuan International Studies University, Department of English Language and Literature",
+    "keywords": ["Literature Studies", "Literary Criticism", "Critical Theory"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

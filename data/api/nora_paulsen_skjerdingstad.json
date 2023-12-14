@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-8900-059X",
-    "name": "Nora Skjerdingstad",
+    "orcid": ["0000-0001-8900-059X"],
+    "name": ["Nora Skjerdingstad"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Nora Paulsen Skjerdingstad",
-    "id": "1375304",
+    "name": ["Nora Paulsen Skjerdingstad"],
+    "id": ["1375304"],
     "keywords": [],
     "position": ["Academic assistant"],
     "img": {},
@@ -95,5 +95,15 @@
         "url": "https://api.cristin.no/v2/results/1919863"
       }
     ]
+  },
+  "rg": {
+    "id": "Nora-Paulsen",
+    "name": "Nora Paulsen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Norwegian University of Science and Technology | NTNU, Norwegian University of Science and Technology, Department of Nursing",
+    "keywords": ["Nursing", "Clinical Nursing", "Pediatric Nursing"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

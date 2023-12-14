@@ -2,11 +2,221 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Morten Skiaker",
-    "id": "1318696",
+    "name": ["Morten Skiaker"],
+    "id": ["1318696"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Jan-Morten",
+    "name": "Jan Petter Morten",
+    "img": "https://i1.rgstatic.net/ii/profile.image/279534793445394-1443657697037_Q128/Jan-Morten.jpg",
+    "affiliation": "Norwegian University of Science and Technology | NTNU, Norwegian University of Science and Technology, Department of Physics",
+    "keywords": ["Hydrocarbon"],
+    "works": [
+      {
+        "title": "3D CSEM data inversion using Newton and Halley class methods",
+        "tags": ["Article"],
+        "date": "May 2016",
+        "authors": ["Manuel Amaya", "K R Hansen", "Jan Petter Morten"],
+        "abstract": ["Permanent link to the full publication: http://dx.doi.org/10.1088/0266-5611/32/5/055002\n\nFor the first time in 3D controlled source electromagnetic data inversion, we explore the use of the Newton and the Halley optimization methods, which may show their potential when the cost function has a complex topology. The inversion is formulated as a const..."]
+      },
+      {
+        "title": "A Geologically Constrained Basis for Global Inversion of CSEM Data Using a Dynamic Number of Parameters",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2015",
+        "authors": ["O.J. Skrede", "Jan Petter Morten", "L. Boman"],
+        "abstract": []
+      },
+      {
+        "title": "Efficient computation of approximate low-rank Hessian for 3D CSEM inversion",
+        "tags": ["Conference Paper"],
+        "date": "Oct 2014",
+        "authors": ["Manuel Amaya", "Jan Petter Morten", "Linus Boman"],
+        "abstract": ["Permanent link to the full publication: http://dx.doi.org/10.1190/segam2014-0493.1\n\nUse of controlled-source electromagnetics for increasingly challenging exploration applications has led to the requirement for more powerful 3D inversion approaches. For 3D cases, application of Gauss-Newton algorithms is limited by the computational cost required t..."]
+      },
+      {
+        "title": "A Low-rank Approximation to the Hessian for 3D CSEM Gauss-Newton Inversion",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2014",
+        "authors": ["Manuel Amaya", "L. Boman", "Jan Petter Morten"],
+        "abstract": ["Permanent link to the full publication: http://dx.doi.org/10.3997/2214-4609.20141099\n\nUse of controlled-source electromagnetics in increasingly challenging exploration applications has led to the requirement for more powerful 3D inversion approaches. For 3D cases, application of Gauss-Newton algorithms is limited by the computational cost required..."]
+      },
+      {
+        "title": "Increasing Transmitter Current and Reducing Ambient Noise Levels – What Are the Limitations?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Rune Mittet", "Jan Petter Morten", "H.R. Jensen"],
+        "abstract": ["The marine controlled-source electromagnetic method (CSEM) can detect subsurface hydrocarbon reservoirs because they represent resistors in a conductive medium, i.e. brine-saturated rocks. The limitations on the applicability of the technology are given by target burial depth, lateral extent, and the net pay thickness. Improvements to the acquisiti..."]
+      },
+      {
+        "title": "Improved Resolution Salt Imaging from 3D CSEM Anisotropic Inversion",
+        "tags": ["Article"],
+        "date": "Jun 2013",
+        "authors": ["Jan Petter Morten", "Claudia Twarz", "Valente Ricoy", "S. Sun"],
+        "abstract": ["We present 3D CSEM imaging results for a Gulf of Mexico salt diapir. The dense receiver grid acquisition combined with a new approach to incorporate realistic electrical anisotropy in CSEM inversion leads to a detailed salt image. We compare to interpretations from 3D seismic, and show how information from the 3D CSEM data can be used to refine the..."]
+      },
+      {
+        "title": "Efficient 3D MT Inversion Using Finite-difference Time-domain Modelling",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2013",
+        "authors": ["Sebastien de la Kethulle de Ryhove", "Jan Petter Morten", "Krishna Kumar"],
+        "abstract": ["We show how a finite-difference time-domain modelling algorithm can be utilised for efficient 3D inversion of marine magnetotelluric (MT) data, and demonstrate the capability of our inversion on a synthetic salt dome. In comparison to frequency-domain modelling methods which are typically applied, two advantages of the finite-difference time-domain..."]
+      },
+      {
+        "title": "The marine controlled-source electromagnetic method in shallow water",
+        "tags": ["Article"],
+        "date": "Feb 2013",
+        "authors": ["Rune Mittet", "Jan Petter Morten"],
+        "abstract": ["We analyzed marine controlled-source electromagnetic (CSEM) acquisition in shallow water by analytic and numerical calculations. The problem at hand was the fact that the amplitude of the airwave due to a horizontal electric dipole becomes larger as the water depth is reduced. The amplitude of the scattered field from a buried thin resistor would b..."]
+      },
+      {
+        "title": "Optimizing EM data acquisition for continental shelf exploration",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["N. D. Barker", "Jan Petter Morten", "Daniel V. Shantsev"],
+        "abstract": ["The controlled-source electromagnetic (CSEM) method has been applied to oil and gas exploration and production for more than 10 years. During this time, most of the focus has been on derisking deep- and ultradeep-water drilling decisions. In this article, we will consider how EM methods can be optimized for continental shelf applications, which rep..."]
+      },
+      {
+        "title": "Detection and imaging sensitivity of the marine CSEM method",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Rune Mittet", "Jan Petter Morten"],
+        "abstract": ["We have developed a formalism to systematically study the sensitivity of the marine controlled source electromagnetic method for hydrocarbon exploration, taking into account measurement errors. We utilize error propagation to estimate the data uncertainty, and find that contributions that scale by the transmitter dipole moment give qualitatively di..."]
+      },
+      {
+        "title": "Feasibility of electromagnetic methods for sub-basalt exploration",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2012",
+        "authors": ["Jostein Herredsvela", "Arnout Colpaert", "Stig-Kyrre Foss", "Frida Mrope"],
+        "abstract": ["Summary Seismic imaging can be challenging in basalt regions, and we consider how EM methods can be used to enhance understanding in exploration. For a synthetic basalt model, we consider the sensitivity and inversion of CSEM and MT data, and discuss the dependence on anisotropy and water depth. Our inversion results demonstrate how the combination..."]
+      },
+      {
+        "title": "Salt flank exploration: 3D CSEM imaging in the SEAM model",
+        "tags": ["Conference Paper"],
+        "date": "Sep 2012",
+        "authors": ["Jan Petter Morten", "Krishna Kumar"],
+        "abstract": ["We have simulated a salt flank hydrocarbon reservoir imaging case using the 3D controlled source electromagnetic data from the SEAM phase I model. The complication due to the dominant EM response from the salt body is tackled by a structural constraint. In our simulated exploration scenario, we assumed that seismic imaging provided information to c..."]
+      },
+      {
+        "title": "Fluid Substitution and Production Effects Imaged for North Sea Oil Field from Quantitative Seismic & CSEM Interpretation",
+        "tags": ["Conference Paper"],
+        "date": "Jun 2012",
+        "authors": ["Jan Petter Morten", "D. Timko", "P. A. Olsen", "C. Pacurar"],
+        "abstract": []
+      },
+      {
+        "title": "Field appraisal and accurate resource estimation from 3D quantitative interpretation of seismic and CSEM data",
+        "tags": ["Article"],
+        "date": "Apr 2012",
+        "authors": ["Jan Petter Morten", "Friedrich Roth", "Stig Arne Karlsen", "Jakob Gjengedal"],
+        "abstract": ["The key questions in field appraisal are: What is the hydrocarbon volume, and how are the hydrocarbons distributed in the field? The ability to answer these questions accurately is critical for deciding whether to produce a field and for developing a production plan. Wells drilled during the appraisal phase provide well and flow-test data, which ar..."]
+      },
+      {
+        "title": "3D reservoir characterization of a North Sea oil field using quantitative seismic & CSEM interpretation",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2011",
+        "authors": ["Jan Petter Morten", "Friedrich Roth", "David Timko", "Per Atle Olsen"],
+        "abstract": ["We have performed a quantitative, joint interpretation of 3D seismic and 3D CSEM data from the Troll Western Oil Province. The presented methodology results in 3D distributions of effective porosity and hydrocarbon saturation. The estimated reservoir property distributions correlate with expected production effects, and we show how hydrocarbon volu..."]
+      },
+      {
+        "title": "Hydrocarbon reservoir thickness resolution in 3D CSEM anisotropic inversion",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2010",
+        "authors": ["Jan Petter Morten", "Astrid Kornberg Bjørke", "Anh Kiet Truong Nguyen"],
+        "abstract": []
+      },
+      {
+        "title": "Full counting statistics of crossed Andreev reflection",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2009",
+        "authors": ["Jan Petter Morten", "Daniel Huertas Hernando", "Wolfgang Belzig", "Arne Brataas"],
+        "abstract": ["We calculate the full transport counting statistics in a three-terminal tunnel device with one superconducting source and two normal-metal or ferromagnet drains. We obtain the transport probability distribution from direct Andreev reflection, crossed Andreev reflection, and electron transfer which reveals how these processes' statistics are determi..."]
+      },
+      {
+        "title": "CSEM data uncertainty analysis for 3D inversion",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2009",
+        "authors": ["Jan Petter Morten", "Astrid Kornberg Bjørke", "Trude Støren"],
+        "abstract": ["Inaccurate navigation can be an important source of measurement errors in CSEM data. Improved algorithms for estimating receiver orientation yield values for the uncertainty in the resulting angles. We show how linear error propagation analysis can be used for improved 3D inversion by accounting for such uncertainty in the data weighting scheme."]
+      },
+      {
+        "title": "The role of EM rock physics and seismic data in integrated 3D CSEM data analysis",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2009",
+        "authors": ["I. Brevik", "Pål Tunbrumo Gabrielsen", "Jan Petter Morten"],
+        "abstract": ["An extensive 3D CSEM dataset was acquired early 2008 over the North Sea Troll West oil and gas field, primarily addressing the CSEM tool's ability to identify relatively thin hydrocarbon zones. The survey's purpose was to address the value of dense versus sparse receiver grids, the value of 3D versus 2D acquisition and the value of a 3D approach in..."]
+      },
+      {
+        "title": "Proximity-effect–assisted decay of spin currents in superconductors",
+        "tags": ["Article"],
+        "date": "Dec 2008",
+        "authors": ["Jan Petter Morten", "Arne Brataas", "Gerrit E. W. Bauer", "Yaroslav Tserkovnyak"],
+        "abstract": ["The injection of pure spin current into superconductors by the dynamics of a ferromagnetic contact is studied theoretically. Taking into account the suppression of the order parameter at the interfaces (inverse proximity effect) and the energy-dependence of spin-flip scattering, we determine the temperature-dependent ferromagnetic resonance linewid..."]
+      },
+      {
+        "title": "Spin Injection and Relaxation in a Mesoscopic Superconductor",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2008",
+        "authors": ["N. Poli", "Jan Petter Morten", "M Urech", "V. Korenivski"],
+        "abstract": ["We study spin transport in a superconducting nanowire using a set of closely spaced magnetic tunnel contacts. We observe a giant enhancement of the spin accumulation of up to 5 orders of magnitude on transition into the superconducting state, consistent with the expected changes in the density of states. The spin relaxation length decreases by an o..."]
+      },
+      {
+        "title": "Elementary charge transfer processes in a superconductor-ferromagnet entangler",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Jan Petter Morten", "Daniel Huertas Hernando", "W. Belzig", "A. Brataas"],
+        "abstract": ["We study the production of spatially separated entangled electrons in ferromagnetic leads from Cooper pairs in a superconducting lead. We give a complete description of the elementary charge transfer processes, i) transfer of Cooper pairs out of the superconductor by Andreev reflection and ii) distribution of the entangled quasiparticles among the..."]
+      },
+      {
+        "title": "Circuit theory for crossed Andreev reflection and nonlocal conductance",
+        "tags": ["Article"],
+        "date": "Nov 2007",
+        "authors": ["Jan Petter Morten", "A. Brataas", "W. Belzig"],
+        "abstract": ["Nonlocal currents, in devices where two normal-metal terminals are contacted to a superconductor, are determined using the\ncircuit theory of mesoscopic superconductivity. We calculate the conductance associated with crossed Andreev reflection and\nelectron transfer between the two normal-metal terminals, in addition to the conductance from direct An..."]
+      },
+      {
+        "title": "Full counting statistics of a superconductor/ferromagnet entangler",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["Jan Petter Morten", "Daniel Huertas Hernando", "Arne Brataas", "Wolfgang Belzig"],
+        "abstract": ["We consider the production of spatially separated entangled electrons in transport between a superconductor and ferromagnets: Spin singlet Cooper pairs are filtered into different leads by spin dependent tunneling. We find the full counting statistics depending on the magnetizations and identify the probabilities for productions of entangled electr..."]
+      },
+      {
+        "title": "Circuit theory of crossed Andreev reflection",
+        "tags": ["Article"],
+        "date": "Dec 2006",
+        "authors": ["Jan Petter Morten", "Arne Brataas", "Wolfgang Belzig"],
+        "abstract": ["We consider transport in a three-terminal device attached to one superconducting and two normal-metal terminals, using the circuit theory of mesoscopic superconductivity. We compute the nonlocal conductance of the current out of the first normal-metal terminal in response to a bias voltage between the second normal-metal terminal and the supercondu..."]
+      },
+      {
+        "title": "Spin transport and magnetoresistance in ferromagnet/superconductor/ferromagnet spin valves",
+        "tags": ["Article"],
+        "date": "Jul 2005",
+        "authors": ["Jan Petter Morten", "Arne Brataas", "Wolfgang Belzig"],
+        "abstract": ["We consider spin transport and spin relaxation in superconductors using the quasiclassical theory of superconductivity. We include spin relaxation due to spin-orbit interaction as well as magnetic impurities, and show that the energy dependence of the spin-flip rate is different for these two mechanisms. In ferromagnetsuperconductor- ferromagnet sy..."]
+      },
+      {
+        "title": "Two-brane Randall-Sundrum model in AdS 5 and dS 5",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2004",
+        "authors": ["I. Brevik", "K. Børkje", "Jan Petter Morten"],
+        "abstract": ["Two flat Randall-Sundrum three-branes are analyzed, at fixed mutual distance, in the case where each brane contains an ideal isotropic fluid. Both fluids are to begin with assumed to obey the equation of state p = (γ − 1)ρ, where γ is a constant. Thereafter, we impose the condition that there is zero energy flux from the branes into the bulk, and a..."]
+      },
+      {
+        "title": "Spin Transport in Diffusive Superconductors",
+        "tags": ["Article"],
+        "date": "Feb 2004",
+        "authors": ["Jan Petter Morten", "Arne Brataas", "Wolfgang Belzig"],
+        "abstract": ["We employ the Keldysh formalism in the quasiclassical approximation to study transport in a diffusive superconductor. The resulting $4\\ifmmode\\times\\else\\texttimes\\fi{}4$ transport equations describe the flow of charge and energy as well as the corresponding flow of spin and spin energy. Spin-flip scattering due to magnetic impurities is included...."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [28],
+    "reads": [1130],
+    "citations": [555]
   }
 }

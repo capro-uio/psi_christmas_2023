@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Mads Berthinus Pedersen",
-    "id": "ySbqf_8AAAAJ",
-    "affiliation": "Team Lead, Renescience, Ørsted, Denmark",
+    "name": ["Mads Berthinus Pedersen"],
+    "id": ["ySbqf_8AAAAJ"],
+    "affiliation": ["Team Lead, Renescience, Ørsted, Denmark"],
     "data": {
       "publications": [
         {
@@ -116,8 +116,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-5240-7783",
-    "name": "Mads Lund  Pedersen",
+    "orcid": ["0000-0001-5240-7783"],
+    "name": ["Mads Lund  Pedersen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -136,14 +136,14 @@
       {
         "type": "journal-article",
         "title": "Mapping Normative Trajectories of Cognitive Function and Its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
-        "journal": "Biological Psychiatry Global Open Science",
-        "url": "https://doi.org/10.1016/j.bpsgos.2022.01.007"
+        "url": "https://doi.org/10.1016/j.bpsgos.2022.01.007",
+        "journal": "Biological Psychiatry Global Open Science"
       },
       {
         "type": "journal-article",
         "title": "Computational Modeling of the n-Back Task in the ABCD Study: Associations of Drift Diffusion Model Parameters to Polygenic Scores of Mental Disorders and Cardiometabolic Diseases",
-        "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-        "url": "https://doi.org/10.1016/j.bpsc.2022.03.012"
+        "url": "https://doi.org/10.1016/j.bpsc.2022.03.012",
+        "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
       },
       {
         "type": "preprint",
@@ -158,8 +158,8 @@
       {
         "type": "journal-article",
         "title": "The Role of the Dorsal–Lateral Prefrontal Cortex in Reward Sensitivity During Approach–Avoidance Conflict",
-        "journal": "Cerebral Cortex",
-        "url": "https://doi.org/10.1093/cercor/bhab292"
+        "url": "https://doi.org/10.1093/cercor/bhab292",
+        "journal": "Cerebral Cortex"
       },
       {
         "type": "preprint",
@@ -169,8 +169,8 @@
       {
         "type": "journal-article",
         "title": "Computational phenotyping of brain-behavior dynamics underlying approach-avoidance conflict in major depressive disorder",
-        "journal": "PLOS Computational Biology",
-        "url": "https://doi.org/10.1371/journal.pcbi.1008955"
+        "url": "https://doi.org/10.1371/journal.pcbi.1008955",
+        "journal": "PLOS Computational Biology"
       },
       {
         "type": "other",
@@ -180,20 +180,20 @@
       {
         "type": "journal-article",
         "title": "Dissecting the cognitive phenotype of post‐stroke fatigue using computerized assessment and computational modeling of sustained attention",
-        "journal": "European Journal of Neuroscience",
-        "url": "http://dx.doi.org/10.1111/ejn.14861"
+        "url": "http://dx.doi.org/10.1111/ejn.14861",
+        "journal": "European Journal of Neuroscience"
       },
       {
         "type": "journal-article",
         "title": "Simultaneous Hierarchical Bayesian Parameter Estimation for Reinforcement Learning and Drift Diffusion Models: a Tutorial and Links to Neural Data",
-        "journal": "Computational Brain & Behavior",
-        "url": "http://dx.doi.org/10.1007/s42113-020-00084-w"
+        "url": "http://dx.doi.org/10.1007/s42113-020-00084-w",
+        "journal": "Computational Brain & Behavior"
       },
       {
         "type": "journal-article",
         "title": "Simultaneous Hierarchical Bayesian Parameter Estimation for Reinforcement Learning and Drift Diffusion Models: a Tutorial and Links to Neural Data",
-        "journal": "Computational Brain & Behavior",
-        "url": "https://doi.org/10.1007/s42113-020-00084-w"
+        "url": "https://doi.org/10.1007/s42113-020-00084-w",
+        "journal": "Computational Brain & Behavior"
       },
       {
         "type": "journal-article",
@@ -241,8 +241,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Mads Lund Pedersen",
-    "id": "428663",
+    "name": ["Mads Lund Pedersen"],
+    "id": ["428663"],
     "keywords": [],
     "position": ["Researcher"],
     "img": {},
@@ -437,5 +437,369 @@
         "url": "https://api.cristin.no/v2/results/1181205"
       }
     ]
+  },
+  "rg": {
+    "id": "Mads-Pedersen-4",
+    "name": "Mads Lund Pedersen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281083497783-1662629826552_Q128/Mads-Pedersen-4.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Mathematical Modelling", "Cognitive Neuroscience", "Psychopharmacology", "Clinical Psychology", "Cognitive Psychology", "Neuropsychology", "Memory", "Cognitive Neuropsychology", "Meta-Analysis", "Executive Function"],
+    "works": [
+      {
+        "title": "Exploring the associations between physical activity level, cognitive performance and response to computerized cognitive training among chronic stroke patients",
+        "tags": ["Preprint"],
+        "date": "Sep 2023",
+        "authors": ["Anne-Marthe Sanders", "Genevieve Richard", "Knut Kolskår", "Lars T. Westlye"],
+        "abstract": ["Background: Post-stroke attentional and working memory deficits are common and represent relevant predictors of long-term functional recovery and outcome. The individual responses to cognitive rehabilitation and interventions vary between patients and are influenced by multiple factors. Recently, a link between level of engagement in physical activ..."]
+      },
+      {
+        "title": "Assessing the longitudinal associations between decision-making processes and attention problems in early adolescence",
+        "tags": ["Preprint"],
+        "date": "Aug 2023",
+        "authors": ["Thea Wiker", "Mads Lund Pedersen", "Lia Ferschmann", "Christian K Tamnes"],
+        "abstract": ["Cognitive functions and psychopathology develop in parallel in childhood and adolescence, but the temporal dynamics of their associations are poorly understood. The present study sought to elucidate the intertwined development of decision-making processes and attention problems using longitudinal data from late childhood (9-10 years) to mid adolesc..."]
+      },
+      {
+        "title": "The long-term effects of ABM on symptom severity in patients with recurrent depression: A randomized sham-controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Ragnhild Bø", "Brage Kraft", "Rune Jonassen", "Nils Inge Landrø"],
+        "abstract": ["Background: \nThe present study reports on long-term outcomes of ABM over one year in self-reported and clinician-rated depression symptoms, anxiety symptoms, and relapse rates.\n\nMethods: \nWe conducted a double-blind randomized sham-controlled trial in 301 participants with recurrent major depression disorder between January 2015 and October 2016 (#..."]
+      },
+      {
+        "title": "Associations between everyday activities and arterial spin labeling-derived cerebral blood flow: A longitudinal study in community-dwelling elderly volunteers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Anne-Marthe Sanders", "Genevieve Richard", "Knut Kolskår", "Lars T. Westlye"],
+        "abstract": ["Cerebral blood flow (CBF) is critical for brain metabolism and function. Age-related changes in CBF are associated with increased risk of neurocognitive disorders and vascular events such as stroke. Identifying correlates and positive modifiers of age-related changes in CBF before the emergence of incipient clinical decline may inform public health..."]
+      },
+      {
+        "title": "The effect of attention bias modification on depressive symptoms in a comorbid sample: a randomized controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Ragnhild Bø", "Brage Kraft", "Mads Lund Pedersen", "Nils Inge Landrø"],
+        "abstract": ["Background: \nStudies investigating the long-term effect of attention bias modification (ABM) in clinical samples are lacking. This study investigates the 6-months follow-up effect of ABM on depressive symptoms in participant with major depressive disorder with and without comorbid disorders.\n\nMethods: \nWe conducted a double-blind randomized sham-co..."]
+      },
+      {
+        "title": "Brain based BMIgap as a new tool to correlate obesity and neural alterations – a multicohort study",
+        "tags": ["Article"],
+        "date": "Dec 2022",
+        "authors": ["A. Khuntia", "Riya Paul", "O.A. Andreassen", "Nikolaos Koutsouleris"],
+        "abstract": []
+      },
+      {
+        "title": "Associations between abdominal adipose tissue, reproductive span, and brain characteristics in post-menopausal women",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Louise S. Schindler", "Sivaniya Subramaniapillai", "Claudia Barth", "Ann-Marie G de Lange"],
+        "abstract": ["The menopause transition involves changes in oestrogens and adipose tissue distribution, which may influence female brain health post-menopause. Although increased central fat accumulation is linked to risk of cardiometabolic diseases, adipose tissue also serves as the primary biosynthesis site of oestrogens post-menopause. It is unclear whether di..."]
+      },
+      {
+        "title": "Associations between everyday activities and arterial spin labelling-derived cerebral blood flow: A longitudinal study in community-dwelling elderly volunteers",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Anne-Marthe Sanders", "Genevieve Richard", "Knut Kolskar", "Lars T. Westlye"],
+        "abstract": ["Background: Cerebral blood flow (CBF) is critical for brain metabolism and overall function. Age-related changes in CBF have been associated with cognitive deficits and increased risk of neurocognitive disorders and vascular events such as stroke. Exercise is considered among the protective factors for age-related brain and cognitive impairment, bu..."]
+      },
+      {
+        "title": "dsMTL - a computational framework for privacy-preserving, distributed multi-task machine learning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Han Cao", "Youcheng Zhang", "Jan Baumbach", "Andreas Meyer-Lindenberg"],
+        "abstract": ["Motivation\nIn multi-cohort machine learning studies, it is critical to differentiate between effects that are reproducible across cohorts and those that are cohort-specific. Multi-task learning (MTL) is a machine learning approach that facilitates this differentiation through the simultaneous learning of prediction tasks across cohorts. Since multi..."]
+      },
+      {
+        "title": "Associations between brain imaging and polygenic scores of mental health and educational attainment in children aged 9-11",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Sara Fernandez-Cabello", "Dag Alnæs", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Psychiatric disorders are highly heritable and polygenic, and many have their peak onset in late childhood and adolescence, a period of tremendous changes. Although the neurodevelopmental antecedents of mental illness are widely acknowledged, research in youth population cohorts is still scarce, preventing our progress towards the early characteriz..."]
+      },
+      {
+        "title": "Beyond Drift Diffusion Models: Fitting a Broad Class of Decision and Reinforcement Learning Models with HDDM",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Alexander Fengler", "Krishn Bera", "Mads Lund Pedersen", "Michael Joshua Frank"],
+        "abstract": ["Computational modeling has become a central aspect of research in the cognitive neurosciences. As the field matures, it is increasingly important to move beyond standard models to quantitatively assess models with richer dynamics that may better reflect underlying cognitive and neural processes. For example, sequential sampling models (SSMs) are a..."]
+      },
+      {
+        "title": "Associations between abdominal adipose tissue, reproductive span, and brain characteristics in post-menopausal women",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Louise S. Schindler", "Sivaniya Subramaniapillai", "Claudia Barth", "Ann-Marie G de Lange"],
+        "abstract": ["The menopause transition involves changes in oestrogens and adipose tissue distribution, which may influence female brain health post-menopause. Although increased central fat accumulation is linked to risk of metabolic diseases, adipose tissue also serves as the primary biosynthesis site of oestrogens post-menopause. It is unclear whether differen..."]
+      },
+      {
+        "title": "Beyond Drift Diffusion Models: Fitting a broad class of decision and RL models with HDDM",
+        "tags": ["Preprint"],
+        "date": "Jun 2022",
+        "authors": ["Alexander Fengler", "Michael Joshua Frank", "Krishn Bera", "Mads Lund Pedersen"],
+        "abstract": ["Computational modeling has become an central aspect of research in the cognitive neurosciences. As the field matures, it is increasingly important to move beyond standard models to quantitatively assess models with richer dynamics that may better reflect underlying cognitive and neural processes. For example, sequential sampling models (SSMs) are a..."]
+      },
+      {
+        "title": "No add‐on effect of tDCS on fatigue and depression in chronic stroke patients: A randomized sham‐controlled trial combining tDCS with computerized cognitive training",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Kristine M. Ulrichsen", "Knut K. Kolskår", "Genevieve Richard", "Lars T. Westlye"],
+        "abstract": ["Background\nFatigue and emotional distress rank high among self‐reported unmet needs in life after stroke. Transcranial direct current stimulation (tDCS) may have the potential to alleviate these symptoms for some patients, but the acceptability and effects for chronic stroke survivors need to be explored in randomized controlled trials.\n\nMethods\nUs..."]
+      },
+      {
+        "title": "Brain disconnectome mapping derived from white matter lesions and serum neurofilament light levels in multiple sclerosis: A longitudinal multicenter study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Henning H. Rise", "Synne Brune", "Claudia Chien", "Einar August Høgestøl"],
+        "abstract": ["Background and objectives: \nConnectivity-based approaches incorporating the distribution and magnitude of the extended brain network aberrations caused by lesions may offer higher sensitivity for axonal damage in patients with multiple sclerosis (MS) than conventional lesion characteristics. Using individual brain disconnectome mapping, we tested t..."]
+      },
+      {
+        "title": "P528. Computational Modeling of Reward Learning in Schizophrenia Using the Reinforcement Learning Drift Diffusion Model (RLDDM)",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Jacob G. Pine", "Mads Lund Pedersen", "Michael Joshua Frank", "Deanna Barch"],
+        "abstract": []
+      },
+      {
+        "title": "P403. Mapping Normative Trajectories of Cognitive Function and its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnaes", "Lars Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Computational Modeling of the n-Back Task in the ABCD Study: Associations of Drift Diffusion Model Parameters to Polygenic Scores of Mental Disorders and Cardiometabolic Diseases",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Mads Lund Pedersen", "Dag Alnæs", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Background\nCognitive dysfunction is common in mental disorders and represents a potential risk factor in childhood. The nature and extent of associations between childhood cognitive function and polygenic risk for mental disorders is unclear. We applied computational modeling to gain insight into mechanistic processes underlying decision making and..."]
+      },
+      {
+        "title": "Genetic and phenotypic associations between brain imaging, psychopathology and educational attainment in children aged 9-11",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Sara Fernandez-Cabello", "Dag Alnas", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Background\nPsychiatric disorders are highly heritable and polygenic, and many have their peak onset in late childhood and adolescence, a period of tremendous changes. Although the neurodevelopmental antecedents of mental illness are widely acknowledged, research in youth population cohorts is still scarce, preventing our progress towards the early..."]
+      },
+      {
+        "title": "Mapping Normative Trajectories of Cognitive Function and Its Relation to Psychopathology Symptoms and Genetic Risk in Youth",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["Background\nAdolescence hosts a sharp increase in the incidence of mental disorders. The prodromal phases are often characterized by cognitive deficits which predate disease onset by several years. Characterization of cognitive performance in relation to normative trajectories may have value for early risk assessment and monitoring.\n\nMethods\nYouth a..."]
+      },
+      {
+        "title": "Title: Adipose tissue distribution from body MRI is associated with cross-sectional and longitudinal brain age in adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2022",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["There is an intimate body-brain connection in ageing, and obesity is a key risk factor for poor cardiometabolic health and neurodegenerative conditions. Although research has demonstrated deleterious effects of obesity on brain structure and function, the majority of studies have used conventional measures such as waist-to-hip ratio, waist circumfe..."]
+      },
+      {
+        "title": "A Comparison of Brain Age Estimation And Brain Parenchymal Fraction as Imaging Markers in Multiple Sclerosis",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Einar August Høgestøl", "Tobias Kaufmann", "Ann-Marie G de Lange", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "A Comparison of Brain Age Estimation And Brain Parenchymal Fraction as Imaging Markers in Multiple Sclerosis",
+        "tags": ["Article"],
+        "date": "Jan 2022",
+        "authors": ["Einar August Høgestøl", "Tobias Kaufmann", "Ann-Marie G de Lange", "Lars T. Westlye"],
+        "abstract": []
+      },
+      {
+        "title": "Computational modeling of the N-Back task in the ABCD study: associations of drift diffusion model parameters to polygenic scores of mental disorders and cardiometabolic diseases",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Mads Lund Pedersen", "Dag Alnæs", "Dennis van der Meer", "Lars T. Westlye"],
+        "abstract": ["Background. Cognitive dysfunction is common in mental disorders and represents a potential risk factor in childhood. The nature and extent of associations between childhood cognitive function and polygenic risk for mental disorders is unclear. We applied computational modeling to gain insight into mechanistic processes underlying decision making an..."]
+      },
+      {
+        "title": "Mapping normative trajectories of cognitive function and its relation to psychopathology symptoms and genetic risk in youth",
+        "tags": ["Preprint"],
+        "date": "Oct 2021",
+        "authors": ["Rikka Kjelkenes", "Thomas Wolfers", "Dag Alnæs", "Lars T. Westlye"],
+        "abstract": ["Background. Adolescence hosts a sharp increase in the incidence of mental disorders. The prodromal phases are often characterized by cognitive deficits which predate disease onset by several years. Characterization of cognitive performance in relation to normative trajectories may have value for early risk assessment and monitoring. Methods. Youth..."]
+      },
+      {
+        "title": "Cardiometabolic risk factors associated with brain age and accelerate brain ageing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Mads Lund Pedersen", "Lars T. Westlye"],
+        "abstract": ["The structure and integrity of the ageing brain is interchangeably linked to physical health, and cardiometabolic risk factors (CMRs) are associated with dementia and other brain disorders. In this mixed cross-sectional and longitudinal study (interval mean = 19.7 months), including 790 healthy individuals (mean age = 46.7 years, 53% women), we inv..."]
+      },
+      {
+        "title": "The Role of the Dorsal–Lateral Prefrontal Cortex in Reward Sensitivity During Approach–Avoidance Conflict",
+        "tags": ["Article"],
+        "date": "Aug 2021",
+        "authors": ["Camarin E Rolle", "Mads Lund Pedersen", "Noriah Johnson", "Amit Etkin"],
+        "abstract": ["Approach–Avoidance conflict (AAC) arises from decisions with embedded positive and negative outcomes, such that approaching leads to reward and punishment and avoiding to neither. Despite its importance, the field lacks a mechanistic understanding of which regions are driving avoidance behavior during conflict. In the current task, we utilized tran..."]
+      },
+      {
+        "title": "No effect of tDCS on fatigue and depression in chronic stroke patients: an exploratory randomized sham-controlled trial combining tDCS with computerized cognitive training",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Kristine Moe Ulrichsen", "Knut K. Kolskaar", "Genevieve Richard", "Lars T. Westlye"],
+        "abstract": ["Fatigue and emotional distress rank high among self-reported unmet needs in stroke survivors. Currently, few treatment options exist for post stroke fatigue, a condition frequently associated with depression. Non-invasive brain stimulation techniques such as transcranial direct current stimulation (tDCS) have shown promise in alleviating fatigue an..."]
+      },
+      {
+        "title": "Computational phenotyping of brain-behavior dynamics underlying approach-avoidance conflict in major depressive disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Mads Lund Pedersen", "Maria Ironside", "Ken-ichi Amemori", "Michael Joshua Frank"],
+        "abstract": ["Adaptive behavior requires balancing approach and avoidance based on the rewarding and aversive consequences of actions. Imbalances in this evaluation are thought to characterize mood disorders such as major depressive disorder (MDD). We present a novel application of the drift diffusion model (DDM) suited to quantify how offers of reward and avers..."]
+      },
+      {
+        "title": "Brain disconnectome mapping and serum neurofilament light levels in multiple sclerosis",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Henning H. Rise", "Synne Brune", "Claudia Chien", "Einar August Høgestøl"],
+        "abstract": ["The pathophysiological mechanisms for classical plaque characteristics and their predictive value for clinical course and outcome in multiple sclerosis is unclear. Connectivity-based approaches incorporating the distribution and magnitude of the extended brain network aberrations caused by lesions may offer higher sensitivity for axonal damage. Usi..."]
+      },
+      {
+        "title": "Adipose tissue distribution from body MRI is associated with cross-sectional and longitudinal brain age in adults",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Dag Alnaes", "Lars T. Westlye"],
+        "abstract": ["There is an intimate body-brain connection in ageing, and obesity is a key risk factor for poor cardiometabolic health and neurodegenerative conditions. Although research has demonstrated deleterious effects of obesity on brain structure and function, the majority of studies have used conventional measures such as waist-to-hip ratio, waist circumfe..."]
+      },
+      {
+        "title": "Cardiometabolic risk factors associated with brain age and accelerate brain ageing",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Dani Beck", "Ann-Marie G de Lange", "Mads Lund Pedersen", "Lars T Westlye"],
+        "abstract": ["Here, we investigated cardio-metabolic risk factors and their associations with brain ageing.\n\nUtilising a Bayesian framework, we found credible associations between brain age gap (BAG) and systolic blood pressure, smoking, pulse, and C-reactive protein, indicating older-appearing brains in people with higher cardiometabolic risk.\n\nLongitudinal evi..."]
+      },
+      {
+        "title": "Identifying multimodal signatures underlying the somatic comorbidity of psychosis: the COMMITMENT roadmap",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Emanuel Schwarz", "Dag Alnæs", "Ole A Andreasssen", "Andreas Meyer-Lindenberg"],
+        "abstract": []
+      },
+      {
+        "title": "Dissecting the cognitive phenotype of post‐stroke fatigue using computerized assessment and computational modeling of sustained attention",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Kristine M. Ulrichsen", "Dag Alnæs", "Knut K. Kolskår", "Lars T. Westlye"],
+        "abstract": ["Post‐stroke fatigue (PSF) is prevalent among stroke patients, but its mechanisms are poorly understood. Many patients with PSF experience cognitive difficulties, but studies aiming to identify cognitive correlates of PSF have been largely inconclusive. With the aim of characterizing the relationship between subjective fatigue and attentional functi..."]
+      },
+      {
+        "title": "Simultaneous Hierarchical Bayesian Parameter Estimation for Reinforcement Learning and Drift Diffusion Models: a Tutorial and Links to Neural Data",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Mads Lund Pedersen", "Michael Joshua Frank"],
+        "abstract": ["Cognitive models have been instrumental for generating insights into the brain processes underlying learning and decision making. In reinforcement learning it has recently been shown that not only choice proportions but also their latency distributions can be well captured when the choice function is replaced with a sequential sampling model such a..."]
+      },
+      {
+        "title": "Approach-avoidance conflict in major depression: Congruent neural findings in human and non-human primates",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Maria Ironside", "Ken-ichi Amemori", "Callie L. McGrath", "Diego Pizzagalli"],
+        "abstract": ["Background: \nMaladaptive approach-avoidance behavior has been implicated in the pathophysiology of major depressive disorder (MDD), but the neural basis of these abnormalities in decision making remains unclear. Capitalizing on recent preclinical findings, we adapted an approach-avoidance conflict task from nonhuman primate research for use in huma..."]
+      },
+      {
+        "title": "Dissecting the cognitive phenotype of post-stroke fatigue using drift diffusion modeling of sustained attention",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Kristine M. Ulrichsen", "Dag Alnaes", "Knut K Kolskaar", "Lars T. Westlye"],
+        "abstract": ["Post-stroke fatigue (PSF) is a prevalent symptom among stroke patients. Its symptom burden is pervasive, persistent and associated with poor rehabilitation outcomes, though its mechanisms are poorly understood. Many patients with PSF experience cognitive difficulties, but studies aiming to identify cognitive correlates of PSF have been largely inco..."]
+      },
+      {
+        "title": "Intact responses to non-drug rewards in long-term opioid maintenance treatment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Marie Eikemo", "Philipp Lobmaier", "Mads Lund Pedersen", "Monica Sarfi"],
+        "abstract": ["Disruption of non-drug reward processing in addiction could stem from long-term drug use, addiction-related psychosocial stress, or a combination of these. It remains unclear whether long-term opioid maintenance treatment (OMT) disrupts reward processing. Here, we measured subjective and objective reward responsiveness in 26 previously heroin-addic..."]
+      },
+      {
+        "title": "Toolbox for the Reinforcement Learning Drift Diffusion Model",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2019",
+        "authors": ["Mads Lund Pedersen", "Michael Frank"],
+        "abstract": []
+      },
+      {
+        "title": "Intact responses to non-drug rewards in long-term opioid maintenance treatment",
+        "tags": ["Preprint"],
+        "date": "Nov 2018",
+        "authors": ["Marie Eikemo", "Philipp Lobmaier", "Mads Lund Pedersen", "Monica Sarfi"],
+        "abstract": ["Background. Drug dependence is associated with disrupted reward processing and anhedonia across drug use disorders. It remains unclear whether chronic drug use disrupts reward processing. Alternative causes could be psychosocial vulnerability factors or stress from recurring relapse to drug use. Methods. We measured subjective and objective reward..."]
+      },
+      {
+        "title": "Supplementary Material 2",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Results from all Bayesian Linear Mixed Models."]
+      },
+      {
+        "title": "Inline supplementary table 1",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Model descriptions. Syntax description of the three competing models for each of the three dependent measures. The first parenthesis describes the term of interest, where one estimates intercepts for each node or edge (node pairs).Note that for the task betas, each parameter (intercept, gain, loss, difficulty, accuracy) is hierarchically nested und..."]
+      },
+      {
+        "title": "Supplementary Material 3",
+        "tags": ["Data"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": []
+      },
+      {
+        "title": "Increased default-mode variability is related to reduced task-performance and is evident in adults with ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2017",
+        "authors": ["Athanasia Monika Mowinckel", "Dag Alnæs", "Mads Lund Pedersen", "Guido Biele"],
+        "abstract": ["Insufficient suppression and connectivity of the default mode network (DMN) is a potential mediator of cognitive dysfunctions across various disorders, including attention deficit/hyperactivity disorder (ADHD). However, it remains unclear if alterations in sustained DMN suppression, variability and connectivity during prolonged cognitive engagement..."]
+      },
+      {
+        "title": "The drift diffusion model as the choice rule in reinforcement learning",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["Mads Lund Pedersen", "Michael Joshua Frank", "Guido Biele"],
+        "abstract": ["Current reinforcement-learning models often assume simplified decision processes that do not fully reflect the dynamic complexities of choice processes. Conversely, sequential-sampling models of decision making account for both choice accuracy and response time, but assume that decisions are based on static decision values. To combine these two com..."]
+      },
+      {
+        "title": "Modelling ADHD: A review of ADHD theories through their predictions for computational models of decision-making and reinforcement learning",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Sigurd Ziegler", "Mads Lund Pedersen", "Athanasia Monika Mowinckel", "Guido Biele"],
+        "abstract": ["Attention Deficit Hyperactivity Disorder (ADHD) is characterized by altered Decision-making (DM) and reinforcement learning (RL), for which competing theories propose alternative explanations. Computational modelling contributes to understanding DM and RL by integrating behavioural and neurobiological findings, and could elucidate pathogenic mechan..."]
+      },
+      {
+        "title": "The Influence of Methylphenidate on Brain Processes During Decision-Making in Adults with ADHD",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Feb 2016",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Sigurd Ziegler", "Guido Biele"],
+        "abstract": ["Background: ADHD is associated with diminished dopamine function, and treatment with methylphenidate (MPH) is thought to alleviate this dysfunction. On a functional level, dopamine is consistently implicated in decision-making (DM) mechanisms, including reinforcement learning and choice. Given dopamine’s role in both ADHD and DM, DM deficits in ADH..."]
+      },
+      {
+        "title": "Evidence Accumulation and Choice Maintenance Are Dissociated in Human Perceptual Decision Making",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Mads Lund Pedersen", "Tor Endestad", "Guido Biele"],
+        "abstract": ["Perceptual decision making in monkeys relies on decision neurons, which accumulate evidence and maintain choices until a response is given. In humans, several brain regions have been proposed to accumulate evidence, but it is unknown if these regions also maintain choices. To test if accumulator regions in humans also maintain decisions we compared..."]
+      },
+      {
+        "title": "The effects of methylphenidate on brain procesess during cost/benefit decision making",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Oct 2015",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Sigurd Ziegler", "Guido Biele"],
+        "abstract": ["Objectives\nAttention Deficit/Hyperactivity Disorder (ADHD) is commonly treated with the central stimulant methylphenidate (MPH). MPH affects the dopamine (DA) system of the brain, which is also involved in decision-making (DM). Despite clear theoretical and empirical indications for DM problems in adults with ADHD, current understanding of the invo..."]
+      },
+      {
+        "title": "A Meta-Analysis of Decision-Making and Attention in Adults With ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2015",
+        "authors": ["Athanasia Monika Mowinckel", "Mads Lund Pedersen", "Espen Moen Eilertsen", "Guido Biele"],
+        "abstract": ["Deficient reward processing has gained attention as an important aspect of ADHD, but little is known about reward-based decision-making (DM) in adults with ADHD. This article summarizes research on DM in adult ADHD and contextualizes DM deficits by comparing them to attention deficits.\nMeta-analytic methods were used to calculate average effect siz..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [50],
+    "reads": [9246],
+    "citations": [711]
   }
 }

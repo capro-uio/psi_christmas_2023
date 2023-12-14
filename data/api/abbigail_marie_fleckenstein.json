@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0003-1835-2098",
-    "name": "Abbigail Fleckenstein",
+    "orcid": ["0009-0003-1835-2098"],
+    "name": ["Abbigail Fleckenstein"],
     "distinctions": [],
     "education": [
       {
@@ -27,8 +27,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Abbigail Marie Fleckenstein",
-    "id": "1553299",
+    "name": ["Abbigail Marie Fleckenstein"],
+    "id": ["1553299"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -40,5 +40,14 @@
         "url": "https://api.cristin.no/v2/results/2199359"
       }
     ]
+  },
+  "rg": {
+    "id": "Natania-Abbigail",
+    "name": "Natania Karin Abbigail",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Universitas Pelita Harapan | UPH, Universitas Pelita Harapan, Conservatory of Music",
+    "keywords": ["Musical Analysis", "Music Theory", "Music and Society", "Music Aesthetics", "Music Production", "Sound Analysis", "Audio Engineering", "Music", "Music Performance", "Musical Composition"],
+    "works": [],
+    "degree": [null]
   }
 }

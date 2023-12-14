@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "michael kozak",
-    "id": "7YM5dNkAAAAJ",
-    "affiliation": "Penn State College of Medicine",
+    "name": ["michael kozak"],
+    "id": ["7YM5dNkAAAAJ"],
+    "affiliation": ["Penn State College of Medicine"],
     "data": {
       "publications": [
         {
@@ -63,8 +63,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-8913-6593",
-    "name": "Michal Kozák",
+    "orcid": ["0000-0001-8913-6593"],
+    "name": ["Michal Kozák"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -75,8 +75,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Michal Kozák",
-    "id": "786145",
+    "name": ["Michal Kozák"],
+    "id": ["786145"],
     "keywords": [],
     "position": ["Researcher", "Researcher"],
     "img": {},
@@ -124,5 +124,18 @@
         "url": "https://api.cristin.no/v2/results/1849346"
       }
     ]
+  },
+  "rg": {
+    "id": "Michal-Kozak-2",
+    "name": "Michał Kozak",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Akademia Biznesu Michał Kozak, UMCS",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [233],
+    "citations": [5]
   }
 }

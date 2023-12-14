@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Erik Kjos Fonn",
-    "id": "HJOHHVsAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Erik Kjos Fonn"],
+    "id": ["HJOHHVsAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -51,8 +51,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-4830-9053",
-    "name": "Erik Kjos Fonn",
+    "orcid": ["0000-0002-4830-9053"],
+    "name": ["Erik Kjos Fonn"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -73,8 +73,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Erik Kjos Fonn",
-    "id": "657247",
+    "name": ["Erik Kjos Fonn"],
+    "id": ["657247"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -94,5 +94,40 @@
         "url": "https://api.cristin.no/v2/results/1976211"
       }
     ]
+  },
+  "rg": {
+    "id": "Erik-Fonn",
+    "name": "Erik Kjos Fonn",
+    "img": "https://i1.rgstatic.net/ii/profile.image/556190214361088-1509617488534_Q128/Erik-Fonn.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Political Psychology", "Social Development"],
+    "works": [
+      {
+        "title": "No single notion of cooperation explains when we respect ownership",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2023",
+        "authors": ["Erik Kjos Fonn", "Joakim Haugane Zahl", "Bjørn Dahl Kristensen", "Lotte Thomsen"],
+        "abstract": "Cooperation is fundamentally moderated by the form of relationship between the actors involved, as is normative resource distribution. We argue that possessions are likely treated differently across different types of cooperative relationships. Whereas Boyer's computational model might in principle account for this, the theory would benefit from a..."
+      },
+      {
+        "title": "The boss is not always right: Norwegian preschoolers do not selectively endorse the testimony of a novel dominant agent",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Erik Kjos Fonn", "Joakim Haugane Zahl", "Lotte Thomsen"],
+        "abstract": "Theories of cultural evolution posit that cues of competence-based prestige, rather than formidability-based dominance, should guide culturally transmitted learning, but recent work suggested that French and Kaqchikel Guatamalan preschoolers place their epistemic trust in dominant others. In contrast, this study shows that 249 three- to six-year-ol..."
+      },
+      {
+        "title": "The boss is not always right: Norwegian preschoolers do not selectively endorse the testimony of a novel dominant agent",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Erik Kjos Fonn", "Joakim Haugane Zahl", "Lotte Thomsen"],
+        "abstract": "Theories of cultural evolution posit that cues of competence-based prestige, rather than formidability-based dominance, should guide culturally-transmitted learning, but recent work suggested that French and Kaqchikel Guatamalan preschoolers place their epistemic trust in dominant others. In contrast, here we report positive Bayesian evidence that..."
+      }
+    ],
+    "degree": ["Cand.", "psychol.", ""],
+    "bio": [],
+    "publications": [3],
+    "reads": [368],
+    "citations": [9]
   }
 }

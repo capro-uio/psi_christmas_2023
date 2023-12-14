@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Kristine Beate Walhovd",
-    "id": "_PBy2G4AAAAJ",
-    "affiliation": "Professor of Neuropsychology, LCBC, University of Oslo",
+    "name": ["Kristine Beate Walhovd"],
+    "id": ["_PBy2G4AAAAJ"],
+    "affiliation": ["Professor of Neuropsychology, LCBC, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -927,8 +927,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-1918-1123",
-    "name": "Kristine Beate Walhovd",
+    "orcid": ["0000-0003-1918-1123"],
+    "name": ["Kristine Beate Walhovd"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1069,11 +1069,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Kristine Beate Walhovd",
-    "id": "22265",
+    "name": ["Kristine Beate Walhovd"],
+    "id": ["22265"],
     "keywords": [],
     "position": ["Professor", null],
-    "img": "https://api.cristin.no/v2/persons/22265/picture",
+    "img": ["https://api.cristin.no/v2/persons/22265/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1768,5 +1768,15 @@
         "url": "https://api.cristin.no/v2/results/1397850"
       }
     ]
+  },
+  "rg": {
+    "id": "Anele-Beate",
+    "name": "Anele Beate",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Durban University of Technology | dut, Durban University of Technology, Department of Electronic Engineering",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

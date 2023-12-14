@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Mikkel Glimsdal",
-    "id": "1504812",
+    "name": ["Mikkel Glimsdal"],
+    "id": ["1504812"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Ing_Mikkel",
+    "name": "Ing Mikkel",
+    "img": "https://i1.rgstatic.net/ii/profile.image/864479671775233-1583119423171_Q128/Ing_Mikkel.jpg",
+    "affiliation": "Naropa University, Department of Psychology",
+    "keywords": ["Counseling", "Mental Illness", "Psychotherapeutic Processes", "Treatment", "Clinical Assessment", "DSM", "Clinical Health Psychology", "Motivational Interviewing", "Therapeutic Outcomes"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

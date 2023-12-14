@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Guro Løseth",
-    "id": "tgETlHAAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Guro Løseth"],
+    "id": ["tgETlHAAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -352,8 +352,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-4178-3278",
-    "name": "Guro Løseth",
+    "orcid": ["0000-0003-4178-3278"],
+    "name": ["Guro Løseth"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -412,8 +412,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Guro Engvig Løseth",
-    "id": "388003",
+    "name": ["Guro Engvig Løseth"],
+    "id": ["388003"],
     "keywords": [],
     "position": ["Research fellow", null],
     "img": {},
@@ -526,5 +526,26 @@
         "url": "https://api.cristin.no/v2/results/1038045"
       }
     ]
+  },
+  "rg": {
+    "id": "Tore_Engvig",
+    "name": "Tore Engvig",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Informatics",
+    "keywords": [],
+    "works": [
+      {
+        "title": "A Framework for Mobile Services Supporting Mobile Non-office Workers",
+        "tags": ["Conference Paper"],
+        "date": "Jul 2007",
+        "authors": ["Bente Skattør", "Lasse Berntzen", "Tore Engvig", "Per Erlend Hasvold"],
+        "abstract": "Mobile services supporting mobile work among non-office workers have received limited attention. To support designers to map\nout possible mobile services supporting work among such workers, we have developed a framework that groups work into primary\nand secondary activities. A primary activity is directly associated with the primary, or main, objec..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [17],
+    "citations": [6]
   }
 }

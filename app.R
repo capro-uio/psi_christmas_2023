@@ -1,7 +1,6 @@
 library(shiny)
 library(shinydashboard)
 library(dplyr)
-library(stringr)
 library(ggplot2)
 
 fluid_row <- function(...){
@@ -11,40 +10,70 @@ fluid_row <- function(...){
   )
 }
 
+`%||%` <- function(x, y) {
+  if (!is.null(x)) x else y
+}
+
 ui <- dashboardPage(
   skin = "red",
   dashboardHeader(title = "PSI research explorer!", titleWidth = 230),
   dashboardSidebar(
     uiOutput("authorSelector"),
-    helpText("Created by", style="padding: 10px;"),
-    tags$a(href='https://capro.dev',
-           tags$img(
-             src='https://raw.githubusercontent.com/capro-uio/capro-uio.github.io/main/assets/images/capro_logo_dark.png',
-             width='100%', 
-             style="padding: 10px;",
-             alt="CAPRO"),
+    div(
+      p(
+        "The data is retrieved from internet sources, and may be incomplete or inaccurate.",
+        style = "color: #b0b3b6;"
+      ),
+      helpText("Created by"),
+      tags$a(href='https://capro.dev',
+             tags$img(
+               src='https://raw.githubusercontent.com/capro-uio/capro-uio.github.io/main/assets/images/capro_logo_dark.png',
+               width='100%', 
+               style="padding: 10px;",
+               alt="CAPRO"),
+      ),
+      style="padding: 10px;"
     )
   ),
   dashboardBody(
     includeCSS("style.css"),
     h1(textOutput("researcher")),
-    # Add body content here
+    p("Make sure to click on the tabsets too, there is more to see!",
+      style = "color: white;"),
     tabsetPanel(
       tabPanel(
+        title = span("Summary", style = "font-size: 20px;"),
+        value = "summary_tab",
+        icon = icon("user", lib = "font-awesome"),
+        shinycssloaders::withSpinner(
+          uiOutput("user_results"),
+        )),
+      tabPanel(
         title = span("Cristin", style = "font-size: 20px;"),
+        value = "cristin_tab",
         icon = icon("copyright", lib = "font-awesome"),
         shinycssloaders::withSpinner(
           uiOutput("cristin_results"),
         )),
       tabPanel(
         title = span("Scholar", style = "font-size: 20px;"),
+        value = "scholar_tab",
         icon = icon("graduation-cap", lib = "font-awesome"),
         shinycssloaders::withSpinner(
           uiOutput("scholar_results"),
         )
       ),
       tabPanel(
+        title = span("ResearchGate", style = "font-size: 20px;"),
+        value = "rg_tab",
+        icon = icon("researchgate", lib = "font-awesome"),
+        shinycssloaders::withSpinner(
+          uiOutput("rg_results"),
+        )
+      ),
+      tabPanel(
         title = span("ORCiD", style = "font-size: 20px;"),
+        value = "orcid_tab",
         icon = icon("orcid", lib = "font-awesome"),
         shinycssloaders::withSpinner(
           uiOutput("orcid_results"),
@@ -60,7 +89,7 @@ server <- function(input, output) {
   
   jsf <- list.files(here::here("data/api"), "json", full.names = TRUE)
   jsd <- lapply(jsf, jsonlite::read_json, simplifyVector = TRUE)
-  names(jsd) <- str_remove(basename(jsf), ".json")
+  names(jsd) <- gsub(".json", "", basename(jsf))
   
   output$authorSelector <- renderUI({
     selectizeInput(
@@ -80,23 +109,126 @@ server <- function(input, output) {
   
   observeEvent(input$author_name, {
     if(input$author_name == ""){
-      output$scholar_results <- output$cristin_results <- output$orcid_results <- renderUI({
-        h3("Select an author in the sidebar to start exploring!")
-      })
+      output$scholar_results <- 
+        output$cristin_results <- 
+        output$orcid_results <- 
+        output$user_results <- renderUI({
+          h3("Select an author in the sidebar to start exploring!")
+        })
     }else{  
       person <- jsd[[input$author_name]]
-      # person <- jsd[["christine_leilani_skjegstad"]]
+      # person <- jsd[["athanasia_monika_mowinckel"]]
       output$researcher <- renderText({
         person$cristin$name
       })
       
-      # scholar output ----
+      # summary ----------------------------------------------
+      for(el in c("cristin", "orcid", "gscolar", "rg")){
+        assign(
+          glue::glue("{el}_box"),
+          value = box(
+            width = 4,
+            title = switch(el,
+                           cristin = "Cristin",
+                           orcid = "ORCiD",
+                           gscolar = "Google scholar",
+                           rg = "ResearchGate"
+            ),
+            status = "danger",
+            solidHeader = TRUE,
+            collapsible = FALSE,
+            fluid_row(
+              p("No matches found")
+            )
+          ),
+        )
+      }
+      
+      if(length(person$cristin) > 0){
+        cristin_box <- box(
+          width = 4,
+          title = "Cristin",
+          status = "success",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          fluid_row(
+            p(glue::glue("ID: {person$cristin$id}")),
+            p(glue::glue("Position: {paste(person$cristin$position, collapse = ', ')}")),
+            p(glue::glue("Keywords: {paste(person$cristin$keywords, collapse = ', ')}")),
+            p(glue::glue("Publications: {nrow(person$cristin$works)}"))
+          )
+        )
+      }
+      if(length(person$orcid) > 0){
+        orcid_box <- box(
+          width = 4,
+          title = "ORCiD",
+          status = "success",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          fluid_row(
+            p(glue::glue("ID: {person$orcid$orcid}")),
+            p(glue::glue("Position: {person$orcid$employment$position[1]}, {person$orcid$employment$organisation[1]}")),
+            p(glue::glue("Publications: {nrow(person$orcid$works)}")),
+            p(glue::glue("Memberships: {nrow(person$orcid$membership)}")),
+            p(glue::glue("Services: {nrow(person$orcid$services)}"))
+          )
+        )
+      }
+      if(length(person$gscolar) > 0){
+        gscolar_box <- box(
+          width = 4,
+          title = "Google scholar",
+          status = "success",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          fluid_row(
+            p(glue::glue("ID: {person$gscolar$id}")),
+            p(glue::glue("Position: {person$gscolar$affiliation}")),
+            p(glue::glue("Publications: {nrow(person$gscolar$data$publications)}")),
+            p(glue::glue("Citations: {person$gscolar$data$citations$all[[1]]}"))
+          )
+        )
+      }
+      if(length(person$rg) > 0){
+        rg_box <- box(
+          width = 4,
+          title = "ResearchGate",
+          status = "success",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          fluid_row(
+            p(glue::glue("ID: {person$rg$id}")),
+            p(glue::glue("Position: {person$rg$affiliation}")),
+            p(glue::glue("Publications: {person$rg$publications}"))
+          )
+        )
+      }
+      
+
+      
+      user_results <- tagList(
+        fluid_row(
+          h2("User summary")
+        ),
+        fluid_row(
+          cristin_box,
+          orcid_box,
+          rg_box,
+          gscolar_box
+        )
+      )
+      
+      output$user_results <- renderUI({user_results})
+      
+      
+      # scholar ----------------------------------------------
       if(length(person$gscolar) > 0){
         output$gcit <- renderTable(person$gscolar$data$citations)
         gcit <- box(
           tableOutput("gcit"),
           title = "Citations",
-          status = "info",
+          status = "success",
           solidHeader = TRUE,
           collapsible = FALSE,
           width = 5
@@ -108,9 +240,16 @@ server <- function(input, output) {
           status = "success",
           solidHeader = TRUE,
           collapsible = FALSE,
-          fluidRow(
+          fluid_row(
             p(glue::glue("{person$gscolar$affiliation}")),
-            style = "padding: 10px;"
+            a(tags$button(
+              id = "btn",
+              class = "shiny-bound-input action-button btn btn-primary btn-block",
+              "Go to Google Scholar page"
+            ),
+            href = glue::glue("https://scholar.google.com/citations?hl=en&user={person$gscolar$id}
+")
+            )
           )
         )
         
@@ -188,7 +327,7 @@ server <- function(input, output) {
       }
       output$scholar_results <- renderUI({scholar_results})
       
-      # cristin output ----
+      # cristin ----------------------------------------------
       if(length(person$cristin) > 0){
         cprof <- box(
           width = 4,
@@ -196,10 +335,16 @@ server <- function(input, output) {
           status = "success",
           solidHeader = TRUE,
           collapsible = FALSE,
-          fluidRow(
+          fluid_row(
             p(glue::glue("Position: {paste(person$cristin$position, collapse = ', ')}")),
             p(glue::glue("Keywords: {paste(person$cristin$keywords, collapse = ', ')}")),
-            style = "padding: 10px;"
+            a(tags$button(
+              id = "btn",
+              class = "shiny-bound-input action-button btn btn-primary btn-block",
+              "Go to Cristin page"
+            ),
+            href = glue::glue("https://app.cristin.no/persons/show.jsf?id={person$cristin$id}")
+            )
           )
         )
         
@@ -254,7 +399,7 @@ server <- function(input, output) {
       }
       output$cristin_results <- renderUI({cristin_results})
       
-      # orcid output ----
+      # orcid ----------------------------------------------
       if(length(person$orcid) > 0){
         oprof <- box(
           width = 4,
@@ -262,8 +407,15 @@ server <- function(input, output) {
           status = "success",
           solidHeader = TRUE,
           collapsible = FALSE,
-          fluidRow(
-            style = "padding: 10px;"
+          fluid_row(
+            p(glue::glue("Position: {person$orcid$employment$position[1]}, {person$orcid$employment$organisation[1]}")),
+            a(tags$button(
+              id = "btn",
+              class = "shiny-bound-input action-button btn btn-primary btn-block",
+              "Go to ORCiD page"
+            ),
+            href = glue::glue("https://orcid.org/{person$orcid$orcid}")
+            )
           )
         )
         
@@ -349,6 +501,88 @@ server <- function(input, output) {
         )
       }
       output$orcid_results <- renderUI({orcid_results})
+      
+      # rg ----------------------------------------------
+      if(length(person$rg) > 0){
+        rprof <- box(
+          width = 4,
+          title = glue::glue("id: {person$rg$id}"),
+          status = "success",
+          solidHeader = TRUE,
+          collapsible = FALSE,
+          fluid_row(
+            p(glue::glue("Position: {person$rg$affiliation}")),
+            p(glue::glue("Reads: {person$rg$read}")),
+            p(glue::glue("Citations: {person$rg$itations}")),
+            p(glue::glue("Degrees: {paste(person$rg$degree, collapse = ', ')}")),
+            a(tags$button(
+              id = "btn",
+              class = "shiny-bound-input action-button btn btn-primary btn-block",
+              "Go to rg page"
+            ),
+            href = glue::glue("https://www.researchgate.net/profile{person$rg$id}")
+            )
+          )
+        )
+        
+        rgimg <- box(
+          align="center",
+          img(src = person$rg$img,
+              alt = person$rg$name,
+              style = "max-height: 300px;"),
+          width = 3
+        )
+        
+        if(is.data.frame(person$rg$works)){
+          rgpubs <- person$rg$works
+          
+          output$rgpubs <- rgpubs |> 
+            select(-abstract) |> 
+            distinct() |> 
+            as_tibble() |> 
+            rename_all(tools::toTitleCase) |>
+            gt::gt() |>
+            gt::opt_interactive(use_compact_mode = TRUE) |>
+            gt::cols_align(
+              "left", Title
+            ) |>
+            # gtExtras::gt_badge(Tags) |> doesn't work with list columns
+            gt::cols_width(
+              Date ~ px(80),
+              Tags ~ px(200),
+            ) |> 
+            gt::render_gt()
+        }else{
+          NULL
+        }
+        
+        
+        rg_results <- tagList(
+          fluid_row(
+            h2("ResearchGate results")
+          ),
+          fluid_row(
+            rprof,
+            rgimg
+          ),
+          fluid_row(
+            h3("Publications"),
+            gt::gt_output(outputId = "rgpubs")
+          )
+        )
+      }else{
+        rg_results <- fluid_row(
+          box(
+            width = 4,
+            title = "No rg match found!",
+            status = "danger",
+            solidHeader = TRUE,
+            background = "red",
+            collapsible = FALSE
+          )
+        )
+      }
+      output$rg_results <- renderUI({rg_results})
     } # end observeEvent
   })
   

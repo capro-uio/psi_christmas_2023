@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-7671-4016",
-    "name": "Liliana Buer",
+    "orcid": ["0000-0001-7671-4016"],
+    "name": ["Liliana Buer"],
     "distinctions": [],
     "education": [
       {
@@ -38,8 +38,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Liliana Buer",
-    "id": "703201",
+    "name": ["Liliana Buer"],
+    "id": ["703201"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -59,5 +59,47 @@
         "url": "https://api.cristin.no/v2/results/1527288"
       }
     ]
+  },
+  "rg": {
+    "id": "Balardi-Liliana",
+    "name": "Balardi Liliana",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281171494478-1688196061858_Q128/Balardi-Liliana.jpg",
+    "affiliation": "Azienda Ospedaliero Universitaria Ancona, Paediatric and Specialized Radiology Unit",
+    "keywords": ["Radiation", "Ionizing Radiation", "Coronary Artery Disease", "Heart Failure", "Radiation Protection", "Radiation Oncology", "Stereotactic Radiosurgery", "Radiotherapy", "Radiation Therapy", "IMRT"],
+    "works": [
+      {
+        "title": "Hybrid PET/MRI imaging in non-ischemic cardiovascular disease",
+        "tags": ["Article"],
+        "date": "Aug 2023",
+        "authors": ["Giulia Argalia", "Marco Fogante", "Nicolò Schicchi", "Luca Burroni"],
+        "abstract": ["Background and aimHybrid Positron Emission Tomography/Magnetic Resonance Imaging (PET/MRI) is a new multimodality technique with a promising future in diagnostic imaging, allowing the synchronous acquisition of MRI anatomical data and PET functional information. The present systematic review aims to update the latest available evidence on the role..."]
+      },
+      {
+        "title": "Ultra-low radiation dose and contrast volume CT protocol and TAVI-CT score for TAVI planning and outcome",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Marco Fogante", "Paolo Esposto Pirani", "Fatjon Cela", "Nicolò Schicchi"],
+        "abstract": ["Objective: \nTo investigate the feasibility of an ultra-low radiation dose and contrast volume protocol using third-generation dual-source (DS) CT for transcatheter aortic valve implantation (TAVI) planning with coronary artery disease (CAD) assessment, coronary artery calcium score (CACS) and aortic valve calcium score (AVCS) quantification and to..."]
+      },
+      {
+        "title": "INTRAPROSTATIC FIDUCIAL MARKERS' STABILITY DURING RADIATION TREATMENT",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Giovanna Mantello", "Francesco Fenu", "Beatrice Vagnoni", "Massimo Cardinali"],
+        "abstract": []
+      },
+      {
+        "title": "OC-0234 IGRT DATA TO EVALUATE SET UP ACCURACY OF THE IMMOBILIZZATION SYSTEMS",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Balardi Liliana", "G. Mantello", "Sara Costantini", "M. Cardinali"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Master", "of", "Public", "Health"],
+    "bio": [],
+    "publications": [4],
+    "reads": [76],
+    "citation": [1]
   }
 }

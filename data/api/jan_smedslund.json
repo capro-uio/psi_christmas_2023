@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-8045-9262",
-    "name": "Jan Smedslund",
+    "orcid": ["0000-0002-8045-9262"],
+    "name": ["Jan Smedslund"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jan Smedslund",
-    "id": "640",
+    "name": ["Jan Smedslund"],
+    "id": ["640"],
     "keywords": [],
     "position": ["Emeritus"],
     "img": {},
@@ -189,5 +189,710 @@
         "url": "https://api.cristin.no/v2/results/850074"
       }
     ]
+  },
+  "rg": {
+    "id": "Jan-Smedslund",
+    "name": "Jan Smedslund",
+    "img": "https://i1.rgstatic.net/ii/profile.image/278696754728962-1443457892047_Q128/Jan-Smedslund.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Social Psychology", "Axiom", "Motivational Psychology", "Emotional Communication"],
+    "works": [
+      {
+        "title": "Practicing psychology without an empirical evidence-base: The bricoleur model",
+        "tags": ["Article"],
+        "date": "Dec 2016",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The scientist-practitioner-model is rejected, based on an earlier critique of the current paradigm for psychological research. Ten cases exemplifying a bricoleur type of practice without a discernible empirical evidence-base are briefly presented. In the absence of useful empirical scientific evidence, the bricoleur model is proposed as a possible..."]
+      },
+      {
+        "title": "Why Psychology Cannot be an Empirical Science",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The current empirical paradigm for psychological research is criticized because it ignores the irreversibility of psychological processes, the infinite number of influential factors, the pseudo-empirical nature of many hypotheses, and the methodological implications of social interactivity. An additional point is that the differences and correlatio..."]
+      },
+      {
+        "title": "The Value of Experiments in Psychology",
+        "tags": ["Article"],
+        "date": "Apr 2015",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["This chapter presents some reasons for thinking that experiments may not be suitable in psychology. Four main reasons are described: The infinite number of possible interpretations of a finding depending on context; the pseudo-empirical nature of findings due to semantic relations; the irreversibility of processes due to learning; the limited usefu..."]
+      },
+      {
+        "title": "Research-Based Knowledge in Psychology: What, if Anything, is Its Incremental Value to the Practitioner?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Jan Smedslund", "Lee Ross"],
+        "abstract": ["This essay reflects an ongoing dialogue between a clinician versed in mainstream psychological research and theory, and a social psychologist with experience both as a researcher and contributor to applied undertakings in various domains about the \"incremental value\" of research-based knowledge-that is, its value beyond that provided by the other s..."]
+      },
+      {
+        "title": "The bricoleur model of psychological practice",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["A bricoleur is a resource person enlisted when conventional procedures in daily life fail to work, and who utilizes whatever is at hand in the given situation to effect a solution. The psychologist-cum-bricoleur relies on three sources of knowledge: what we all know about being human because we are human, what we know about some others because we p..."]
+      },
+      {
+        "title": "What follows from what we all know about human beings",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["This is the third part of a trilogy. The first article is a critique of current empirical research and the second presents the bricoleur model of practice. Here, I try to describe parts of what follows from what we all know about being human because we are human. This knowledge may be partly inherited: that is, we may have an inborn disposition to..."]
+      },
+      {
+        "title": "The Acquisition of Transitivity of Weight in Five-to-Seven-Year-Old Children",
+        "tags": ["Article"],
+        "date": "Sep 2012",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Psycho-logic: Some thoughts and after-thoughts",
+        "tags": ["Article"],
+        "date": "May 2012",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund, J. (2012). Psycho‐logic: Some thoughts and after‐thoughts. Scandinavian Journal of Psychology 53, 295–302.\nThe main features of the system of psycho‐logic and its historical origins, especially in the writings of Heider and Piaget, are briefly reviewed. An updated version of the axioms of psycho‐logic, and a list of the semantic primitiv..."]
+      },
+      {
+        "title": "Piaget's psychology in practice",
+        "tags": ["Article"],
+        "date": "May 2011",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["AS a result of eight years' experience of Piagetian research and subsequent work as a practising psychologist, certain aspects of Piaget's theories are criticised. In particular the existential status of operatory structures, the relation between logicality and understanding, and the representativeness of the tasks are questioned. Piagetian theory..."]
+      },
+      {
+        "title": "Meaning of Words and the Use of Axiomatics in Psychological Theory",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2011",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Two problems are discussed: Can and should psychological concepts be defined, and can and should they be organized in an axiomatic system? I point out that definitions in terms of physiological or behavioral measures are strictly impossible because any particular measure can mean anything, whereas phenomenological definitions always point to antece..."]
+      },
+      {
+        "title": "The Mismatch between Current Research Methods and the Nature of Psychological Phenomena What Researchers Must Learn from Practitioners",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2009",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Psychological research and practice both start from what we all know about being human because we are human, what we know about each other because we participate in shared meaning systems (language and culture), and what we know about unique individuals. Practitioners rely on these three sources of knowledge, but researchers try to establish a four..."]
+      },
+      {
+        "title": "The epistemic status of inter-item correlations in Eysenck's Personality Questionnaire: the a priori versus the empirical in psychological data",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Judgements of the semantic relatedness of items in Eysenck's Personality Questionnaire and the corresponding inter-item correlations were found to be significantly related. The results are taken to indicate that the inter-item correlations are knowable a priori and, hence, are not empirical. It is also argued that the reported findings themselves a..."]
+      },
+      {
+        "title": "Between the Analytic and the Arbitrary: A Case Study of Psychological Research",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["It is argued that psychological theories must be seen as attempts to explicate the conceptual network embedded in ordinary language and that psychological data must be seen as historically constituted. Hence, psychological theory is regarded as, potentially, a system of logically necessary (analytic) theorems, analogous to, e. g., Euclidean geometr..."]
+      },
+      {
+        "title": "Nonempirical and empirical components in the hypotheses of five psychological experiments",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Five studies published in the Journal of Experimental Social Psychology and selected without advance knowledge of their contents, were analyzed with respect to the epistemic and modal status of their hypotheses. It was found that the general hypotheses were a priori and noncontingent (necessarily true), whereas the local auxiliary hypotheses were e..."]
+      },
+      {
+        "title": "Circular relation between understanding and logic",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Procedures for determining logicality presuppose understanding, and procedures for determining understanding presuppose logic. One can escape from this circle only by presupposing logicality, in agreement with common-sense thinking. Understanding can then be studied as an empirical variable. Traditional research has been based on the opposite solut..."]
+      },
+      {
+        "title": "A critique of Tversky & Kahneman's distinction between fallacy and misunderstanding",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Tversky and Kahneman explain cognitive errors in terms of either misunderstanding or fallacy, but have failed to define these concepts. Therefore, they are unable to derive strict diagnostic criteria for distinguishing between them. The lack of conceptual clarification also has prevented them from recognizing the circular relationship between under..."]
+      },
+      {
+        "title": "What is measured by a psychological measure?",
+        "tags": ["Article"],
+        "date": "Jun 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["In the case of every psychological measure one may ask the following three questions: (1) To what extent is it stable over repetitions? (2) To what extent does it measure what it purports to measure? (3) What is measured by the measure? The first two questions are concerned with reliability and validity and avoid the topic of content. The answer to..."]
+      },
+      {
+        "title": "The Acquisition of Conservation of Substance and Weight in Children",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund, J. The acquisition of conservation of substance and weight in children. VII. Conservation of discontinuous quantity and the operations of adding and taking away. Scand. J. Psychol., 1962, 3, 69–77.—In Exp. I a test of conservation and highly different items of addition and subtraction were given. Conservation was closely related only to..."]
+      },
+      {
+        "title": "The Acquisition of Conservation of Substance and Weight in Children. I. Introduction",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund, J. The acquisition of conservation of substance and weight in children. I. Introduction. Scand. J. Psychol., 1961, 2, 11–20.—This is the first in a series of articles concerning the problem of how children acquire the concepts of conservation of substance and weight. The four alternative interpretations of nativism, maturation theory, le..."]
+      },
+      {
+        "title": "Meanings, implications and universals: Toward a psychology of man",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund, J. Meanings, implications and universals: towards a psychology of man. Scand. J. Psychof., 1969, 10, 1–15.-S-R psychology ignores the nonlawful regions between stimulus and meaning, and between intention and response. Psychology is defined: the science of phenomena as they exist for the individual person. The data in psychology: the publ..."]
+      },
+      {
+        "title": "The acquisition of conservation of substance and weight in children II External reinforcement of conservation of weight and of the operations of addition and subtraction",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund, J. The acquisition of conservation of substance and weight in children. II. External reinforcement of conservation of weight and of the operations of addition and subtraction. Scand. J. Psychol., 1961, 2, 71–84. —The subjects were 5–7 years old. Group I was allowed to observe empirical conservation of weight on a balance. Group II practi..."]
+      },
+      {
+        "title": "Bandura's theory of self-efficacy: A set of common sense theorems",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Bandura's (1977) theory of self-efficacy is translated into non-technical language and is shown to consist of logically necessary rather than empirically testable statements. As an alternative to the dominant empiricist view, it is argued that valid theories in psychology are explications of conceptual relationship imbedded in ordinary language (co..."]
+      },
+      {
+        "title": "Common sense as psychosocial reality: A reply to Sjöberg",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Attempted explications of common sense can be submitted to consensual validation. Therefore, purely programmatic discussion about common sense may be dispensed with in favor of actual studies. The failures to recognize the fundamental role of common sense may stem from an unreflective presupposition that psychological language and psychological rea..."]
+      },
+      {
+        "title": "How stable is common sense psychology and can it be transcended? Reply to Valsiner",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Common sense is defined as the set of implications that all members of a given culture take for granted. The stability of common sense as a necessary condition for the maintenance of human relationships and societies is emphasized. Changes may and do occur. However, they can only take place in a very slow and piecemeal fashion in order to maintain..."]
+      },
+      {
+        "title": "Revising explications of common sense through dialogue: Thirty‐six psychological theorems",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["An explication of common sense is an attempt to formulate a part of the ordinarily unformulated system of implications shared by all members of a given culture, familiar with a given context. Thirty-six alleged common sense formulations relating to Bandura's theory of self-efficacy were used. Students were asked 1) to give a prediction involving ea..."]
+      },
+      {
+        "title": "From Heider to Psycho-Logic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2008",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Fritz Heider pointed out that common-sense psychology contains many analytic propositions. This discovery opened up the possibility that many scientific psychological hypotheses are also analytic and that the ensuing studies are pseudoempirical, that is, they only test the truth of auxiliary hypotheses. This appears to frequently be the case. The r..."]
+      },
+      {
+        "title": "Educational Psychology",
+        "tags": ["Article"],
+        "date": "Nov 2003",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "From Hypothesis-Testing Psychology to Procedure-Testing Psychologic",
+        "tags": ["Article"],
+        "date": "Mar 2002",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Psychologists do not analyze the conceptual relations between their independent and dependent variables. Hence, they fail to recognize that the plausibility of their hypotheses stems from the conceptual relatedness of the variables. The outcome is research that appears to test hypotheses but really tests only procedures, because the hypotheses invo..."]
+      },
+      {
+        "title": "The Ambiguity of Covariation: A Conceptual Note",
+        "tags": ["Article"],
+        "date": "Jan 2002",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Three dimensions of propositions, the factual, the epistemic and the modal, and their relationships, are described. The five factor model of personality is based on correlations between ordinary language items. The terms of this language are fuzzy and context-dependent in meaning, and, therefore, unsuitable for epistemic/modal analysis. Hence, one..."]
+      },
+      {
+        "title": "Psychologic and the study of memory",
+        "tags": ["Article"],
+        "date": "Dec 1999",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["In this article, I focus on the roles of empirical versus logical truth in psychology. I believe that, for every psychological proposition, one must ask whether it is empirical or not, that is, whether its truth value must be determined by gathering data, or by conceptual/logical analysis. Traditionally, this question has rarely been asked because..."]
+      },
+      {
+        "title": "Author's response: Psychologic in dialogue—Reply to commentaries",
+        "tags": ["Article"],
+        "date": "Dec 1999",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The comments on my target paper (Smedslund, this issue) are partly directed at the project of psychologic as a general enterprise, and partly at its applications to specific topics in the domain of memory. The sheer volume and richness of the commentaries (among which I have included a highly relevant review by Malle (1998)) has forced me to respon..."]
+      },
+      {
+        "title": "Social Representations and Psychologic",
+        "tags": ["Article"],
+        "date": "Dec 1998",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Some concepts and assumptions in Moscovici's theory of social representations are analyzed from the point of view of psychologic. Psychologic is an explication and systematization of the psychological common sense embedded in ordinary language. It emphasizes preciseness and logical strictness in contrast to Moscovici's reluctance to define his term..."]
+      },
+      {
+        "title": "The Structure of Psychological Common Sense",
+        "tags": ["Article"],
+        "date": "Jan 1997",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "The psycho-logic of action: Reply to Vollmer",
+        "tags": ["Article"],
+        "date": "Jun 1995",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Auxiliary versus Theoretical Hypotheses and Ordinary versus Scientific Language",
+        "tags": ["Article"],
+        "date": "Jan 1995",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "What Kind of Propositions Are Set Forth in Developmental Research? Five Case Studies",
+        "tags": ["Article"],
+        "date": "Jan 1994",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Five studies published in Child Development, and selected without advance knowledge of their contents, were examined with respect to the metatheoretical status of their hypotheses. Although the hypotheses are treated as empirical, many of them are necessarily true and, hence, insensitive to empirical observation. Studies undertaken to test such hyp..."]
+      },
+      {
+        "title": "How Shall the Concept of Anger be Defined?",
+        "tags": ["Article"],
+        "date": "Feb 1993",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Six positions are described on the question of whether psychological concepts can and should be defined. Anger is defined as follows: `P in C at t is angry at Q' = df 'P in C at t believes that at least one person whom P in C at t cares for has, intentionally or through neglect, been treated without respect by Q, and P has not forgiven Q.' The defi..."]
+      },
+      {
+        "title": "Are Frijda's “Laws of Emotion” Empirical?",
+        "tags": ["Article"],
+        "date": "Nov 1992",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["It is argued that 12 allegedly empirical “laws” of emotion, formulated by Frijda, are actually non-empirical, that is, a priori and necessarily true. It is shown that they can be derived from plausible definitions of the terms involved and presuppositions (axioms) that cannot be meaningfully denied. Given that the “laws” of Frijda are a priori and..."]
+      },
+      {
+        "title": "The Pseudoempirical in Psychology and the Case for Psychologic",
+        "tags": ["Article"],
+        "date": "Oct 1991",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The new scientific discipline of psychologic (PL) is introduced. PL is an explication and formalization of the basic conceptual structure of psychology. The current version contains 26 axioms, 83 definitions, and more than 150 corollaries and theorems. The formalization allows one to distinguish between the a priori/noncontingent and the empirical/..."]
+      },
+      {
+        "title": "Psychologic: A Technical Language for Psychology",
+        "tags": ["Article"],
+        "date": "Oct 1991",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "The psychologic of forgiving",
+        "tags": ["Article"],
+        "date": "Feb 1991",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Psychologic is an attempt to systematize the commonsense psychology embedded in ordinary language. In this system, the concepts of respect, anger, and guilt, are directly linked, since messages of disrespect, and only those, create anger in the receiver and guilt in the sender. This paper deals with the process of forgiving, whereby respect is reaf..."]
+      },
+      {
+        "title": "What is Psychologic?",
+        "tags": ["Chapter"],
+        "date": "Jan 1990",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Psychologic is an attempt to explicate and systematize the implicit common sense psychology embedded in everyday language and taken for granted by its users. The resulting system consists of definitions, axioms, and logically derived theorems and corollaries. It allows one to distinguish clearly between conceptual relationships which follow necessa..."]
+      },
+      {
+        "title": "Psycho-Logic",
+        "tags": ["Book"],
+        "date": "Jan 1988",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["\"Psycho-Logic\" is an attempt to formulate explicitly the implicit common-sense psychology embedded in everyday language and taken for granted by its users. The key concepts in this system are given definitions, and the basic assumptions are presented in the form of axioms. A number of corollaries and theorems are formally proved. The text also cont..."]
+      },
+      {
+        "title": "Fritz Heider misinterpreted",
+        "tags": ["Article"],
+        "date": "Mar 1988",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Wanting and Believing",
+        "tags": ["Chapter"],
+        "date": "Jan 1988",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Two main determinants of what a person is aware of and does are his or her wants and beliefs. If P wants a cab, then P looks for a cab. If P believes that cabs are yellow and are most frequent on main streets, then P walks to such a street and pays attention to whether or not an approaching car is yellow, and so on."]
+      },
+      {
+        "title": "Feeling",
+        "tags": ["Chapter"],
+        "date": "Jan 1988",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The concept of “feeling” refers to an aspect of awareness, just as the concepts of “want” and “belief.” However, the concept of “feeling” is not logically independent of the other two concepts. The criteria for correctly labeling a person’s feelings are to be found in the relationship between that person’s current wants and beliefs. This means that..."]
+      },
+      {
+        "title": "Personal Change",
+        "tags": ["Chapter"],
+        "date": "Jan 1988",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Changes occur all the time in what a person wants, believes, feels, and does. These changes are, in principle, ambiguous in that they may reflect either a higher or a lower level dispositional change in the person or merely a change in the momentary external or internal circumstances influencing the person. When a former scoundrel starts behaving r..."]
+      },
+      {
+        "title": "The Explication of Psychological Common Sense: Implications for the Science of Psychology",
+        "tags": ["Chapter"],
+        "date": "Dec 1986",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["This chapter introduces a technical concept of common sense. The various consequences of introducing this particular concept are discussed in the chapter. The term implication ordinarily designates the relation, which holds between an ordered pair of propositions when the first cannot be true without the second also being true, i.e. when the truth..."]
+      },
+      {
+        "title": "Necessarily True Cultural Psychologies",
+        "tags": ["Chapter"],
+        "date": "Jan 1985",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["This chapter will elaborate a theoretical position I have been developing over the past decade. Readers previously unacquainted with my views may wish to consult earlier work for a more complete understanding. On the other hand, those already familiar with my writings will discover several new developments and modifications here. I am increasingly..."]
+      },
+      {
+        "title": "The Invisible Obvious: Culture in Psychology",
+        "tags": ["Chapter"],
+        "date": "Dec 1984",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Traditional psychology has attempted to be independent of culture. This is an impossible task, since both researchers and subjects are constituted by, and communicate by virtue of, their common culture. Therefore, psychological research presupposes that the researcher participates in the culture of the persons studied. Human beings have made themse..."]
+      },
+      {
+        "title": "What Is Necessarily True in Psychology?",
+        "tags": ["Chapter"],
+        "date": "Jan 1984",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The position is taken that psychology is not an empirical science and that generally valid propositions in psychology are explications of common sense and hence necessarily true. A proposition in a given context belongs to common sense if and only if all competent users of the language involved agree that the proposition in the given context is tru..."]
+      },
+      {
+        "title": "Psychology Cannot Take Leave of Common Sense",
+        "tags": ["Chapter"],
+        "date": "Jan 1984",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["My three critics have raised a number of metatheoretical questions, and I will try to comment on them at the metatheoretical level too. However, I also hope to make it clear that the issues can only begin to be clarified when the discussion moves to the level to actual psychological research."]
+      },
+      {
+        "title": "Seven common sense rules of psychological treatment",
+        "tags": ["Article"],
+        "date": "Sep 1982",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Norwegian clinical psychologists were asked to judge whether or not 7 common-sense rules of psychological treatment were unconditionally valid. A majority of Ss judged each rule to be unconditionally valid. Criticisms of 6 rules were based on misunderstandings; one rule was substantially changed in response to criticism. A revised set of rules and..."]
+      },
+      {
+        "title": "Rationality is a necessary presupposition in psychology",
+        "tags": ["Article"],
+        "date": "Sep 1981",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "The logic of psychological treatment",
+        "tags": ["Article"],
+        "date": "Feb 1981",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Empirical studies of technical and therapist variables in treatment cannot yield valid generalizations because of the uniqueness of each case. Professional practice must, instead, be seen as an application of a psychological “calculus”, which follows logically from definitions of given concepts. Seven necessary rules are suggested for psychological..."]
+      },
+      {
+        "title": "From ordinary to scientific language: Reply to Jones",
+        "tags": ["Article"],
+        "date": "Sep 1980",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Some psychological theories are not empirical: Reply to Bandura",
+        "tags": ["Article"],
+        "date": "Sep 1978",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Measurement Sequences, Logical Necessity, and Common Sense",
+        "tags": ["Article"],
+        "date": "Jun 1978",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Symposium: practical and theoretical issues in Piagetian psychology--III. Piaget's psychology in practice.",
+        "tags": ["Article"],
+        "date": "Mar 1977",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Becoming a Psychologist",
+        "tags": ["Article"],
+        "date": "Aug 1974",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Becoming a psychologist: Theoretical foundations for a humanistic psychology",
+        "tags": ["Article"],
+        "date": "Jan 1972",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Describes the characteristics of the psychologist as researcher and practitioner, and discusses major concepts in several fields of psychology (e.g., psychophysics). Humanistic psychology is examined as a framework for practice and research. (PsycINFO Database Record (c) 2012 APA, all rights reserved)"]
+      },
+      {
+        "title": "Diagonal between Bruner and Piaget",
+        "tags": ["Article"],
+        "date": "Nov 1971",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Multiple-probability learning; an inquiry into the origins of perception.",
+        "tags": ["Article"],
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Perceptions are assumed to be established by a process of multiple-probability learning; i.e., by a process of learning to utilize complex configurations of ambiguous or probabilistic cues. Two experiments were described. The first was an attempt to study the process of multiple-probability learning. The S's were college students. The second explor..."]
+      },
+      {
+        "title": "Extinction of conservation of weight acquired normally and by means of empirical controls on a balance",
+        "tags": ["Article"],
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Psychological Diagnostics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 1969",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Describes procedures for determining the presence vs. absence and sequential organization of cognitive processes involved in transitivity, conservation, and addition/subtraction of units. It is concluded that complex inferences are necessary to diagnose even fairly simple processes. Mental processes have the status of constructs and are frequently..."]
+      },
+      {
+        "title": "Meanings, implications and universals: Towards a psychology of man",
+        "tags": ["Article"],
+        "date": "Jan 1969",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Mental processes involved in rapid logical reasoning",
+        "tags": ["Article"],
+        "date": "Sep 1968",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund, J. Mental processes involved in rapid logical reasoning. Scand. J. Psychol., 1968, 9, 187–205.—Approximate reaction times of adult subjects were recorded in three studies of addition and subtraction of units, and in one of transitive inference. Transformations such as from ‘V has more than H’ to ‘H has less than V’ were found to be impor..."]
+      },
+      {
+        "title": "Conservation and resistance to extinction: A comment on Hall and Simpson's article",
+        "tags": ["Article"],
+        "date": "Jan 1968",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "DETERMINANTS OF PERFORMANCE ON DOUBLE CLASSIFICATION TASKS",
+        "tags": ["Article"],
+        "date": "Mar 1967",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Two groups of children, median ages 6–7 and 8–7, were presented with objects examplifying three combinations of two dichotomous attributes, and asked to indicate the remaining combination. Keeping objects covered vs. uncovered at the time of the test response had generally little effect. Labelling was consistently superior to perceptual matching, a..."]
+      },
+      {
+        "title": "DETERMINANTS OF PERFORMANCE ON DOUBLE CLASSIFICATION TASKS",
+        "tags": ["Article"],
+        "date": "Mar 1967",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Children between ages 6–8 and 14–11 were presented with three combinations of two dichotomous attributes and asked to give the remaining combination under four conditions: Direct perception of objects (P), objects initially perceived but covered during test proper (PM), objects only described (GM), and only meaningless word combinations given (NM)...."]
+      },
+      {
+        "title": "Determinants of performance on double classification tasks. I. Effects of covered vs. uncovered materials, labelling vs. perceptual matching, and age",
+        "tags": ["Article"],
+        "date": "Feb 1967",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Two groups of children, median ages 6–7 and 8–7, were presented with objects examplifying three combinations of two dichotomous attributes, and asked to indicate the remaining combination. Keeping objects covered vs. uncovered at the time of the test response had generally little effect. Labelling was consistently superior to perceptual matching, a..."]
+      },
+      {
+        "title": "Determinants of performance on double classification tasks. II. Effects of direct perception and of words with specific, general, and no reference",
+        "tags": ["Article"],
+        "date": "Feb 1967",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Children between ages 6–8 and 14–11 were presented with three combinations of two dichotomous attributes and asked to give the remaining combination under four conditions: Direct perception of objects (P), objects initially perceived but covered during test proper (PM), objects only described (GM), and only meaningless word combinations given (NM)...."]
+      },
+      {
+        "title": "Noen Refleksjoner om Rorschachtesten",
+        "tags": ["Article"],
+        "date": "Jan 1967",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "MICROANALYSIS OF CONCRETE REASONING",
+        "tags": ["Article"],
+        "date": "Mar 1966",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Subjects with median age 5–11 were given 24 triads of elementary + and - operations with one unit (AS items), besides pre- and posttests of conservation of quantity. A strong initial resistance to use the ‘equal’ category was observed. A considerable proportion of the subjects acquired conservation. The difficulty of the AS items seemed to be mainl..."]
+      },
+      {
+        "title": "MICROANALYSIS OF CONCRETE REASONING III",
+        "tags": ["Article"],
+        "date": "Mar 1966",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The weaknesses and merits of a Piagetean and an information-processing point of view are briefly discussed. It is concluded that a detailed diagnosis of the actual psychological processes is necessary before one can decide upon the usefulness of alternative formal models. The high inter- and intra-individual variability makes it necessary to base t..."]
+      },
+      {
+        "title": "Note on learning, contingency, and clinical experience",
+        "tags": ["Article"],
+        "date": "Feb 1966",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Elementary learning is not sensitive to contingencies between presence—absence variates. Even adult subjects, who under optimal conditions are capable of grasping the concept of contingency, normally do not appear to utilize this concept. The available evidence reduces confidence in the realism of clinical judgments, and is consonant with certain w..."]
+      },
+      {
+        "title": "Performance on measurement and pseudomeasurement tasks by five-to seven-year-old children",
+        "tags": ["Article"],
+        "date": "Feb 1966",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Subjects trained by a non-verbal reinforcement method to select the longer one of a pair of sticks were given two genuine measurement (G) and two pseudomeasurement (P) tests. The first P-test involved the use of two measuring sticks, clearly different in length, and the second test addition or subtraction of a piece of the measuring stick between m..."]
+      },
+      {
+        "title": "Microanalysis of concrete reasoning. I. The difficulty of some combinations of addition and subtraction of one unit",
+        "tags": ["Article"],
+        "date": "Feb 1966",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Subjects with median age 5–11 were given 24 triads of elementary + and - operations with one unit (AS items), besides pre- and posttests of conservation of quantity. A strong initial resistance to use the ‘equal’ category was observed. A considerable proportion of the subjects acquired conservation. The difficulty of the AS items seemed to be mainl..."]
+      },
+      {
+        "title": "Microanalysis of concrete reasoning. II. The effect of number of transformations and non-redundant elements, and of some variations in procedure",
+        "tags": ["Article"],
+        "date": "Feb 1966",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Microanalysis of concrete reasoning. 3. Theoretical overview",
+        "tags": ["Article"],
+        "date": "Feb 1966",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Microanalysis of concrete reasoning. III. Theoretical overview",
+        "tags": ["Article"],
+        "date": "Jan 1966",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "The Development of Transitivity of Length: A Comment on Braine's Reply",
+        "tags": ["Article"],
+        "date": "Jul 1965",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Discussions",
+        "tags": ["Article"],
+        "date": "Dec 1964",
+        "authors": ["Roger Brown", "Seymour Papert", "Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Internal necessity and contradiction in children's thinking",
+        "tags": ["Article"],
+        "date": "Sep 1964",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund presents a hypothesis about logical (internal) necessity and contradiction as empirical contingencies in the determination of children's intellectual and personal development. The, difference is distinguished between Piaget's concept of equilibration (as “the accord of thought with itself”) and learning (as “the accord of thought with thi..."]
+      },
+      {
+        "title": "Concrete Reasoning: A Study of Intellectual Development",
+        "tags": ["Article"],
+        "date": "Feb 1964",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "Development of Concrete Transitivity of Length in Children",
+        "tags": ["Article"],
+        "date": "Jul 1963",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "The Effect of Observation on Children's Representation of the Spatial Orientation of a Water Surface",
+        "tags": ["Article"],
+        "date": "Jul 1963",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "The Concept of Correlation in Adults",
+        "tags": ["Article"],
+        "date": "Mar 1963",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["In the first of two experiments on the concept of correlation in adult subjects, the subjects' frequency estimates and inferences of relationship were studied relative to five different 2 × 2 distributions, each presented in a fixed sequence. In experiment II, the subjects' spontaneous strategies in subdividing and analyzing one 2 × 2 distribution..."]
+      },
+      {
+        "title": "Patterns of experience and the acquisition of concrete transitivity of weight in eight-year-old children",
+        "tags": ["Article"],
+        "date": "Mar 1963",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The effects of empirical control vs. no empirical control, and of fixed vs. free procedure on the acquisition of transitivity of weight was studied. The fixed procedure involved practice on the sequence A > B, B > C, A > C, whereas the free procedure merely required the children to order triads of objects according to weight. Around thirty per cent..."]
+      },
+      {
+        "title": "Patterns of experience and the acquisition of the conservation of length",
+        "tags": ["Article"],
+        "date": "Mar 1963",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The effects of five procedures on the acquisition of conservation of length were studied. A Müller-Lyer illusion was used to induce apparent changes in length in the test- and practice-situations. Two procedures involved practice on addition-subtraction, one a progressive increase in the strength of the Müller-Lyer illusion, and one the anticipatio..."]
+      },
+      {
+        "title": "The utilization of probabilistic cues after 1100 and 4800 stimulus-presentations",
+        "tags": ["Article"],
+        "date": "Dec 1961",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["An experiment on the utilization of probabilistic cues is reported. The complex stimulus-material contained two cues with validities of +.66 and +.68. The majority of the Ss showed no relevant learning after a very large number of stimulus-presentations. It was concluded that a simple “photographic impression” theory is inadequate. There seems to e..."]
+      },
+      {
+        "title": "The Acquisition of Conservation of Substance and Weight in Children. V. Practice in Conflict Situation without External Reinforcement",
+        "tags": ["Article"],
+        "date": "Mar 1961",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund, J. The acquisition of conservation of substance and weight in children. V. Practice in conflict situations without external reinforcement. Scand. J. Psychol., 1961, 2, 156–160.—Thirteen 5–6‐year‐old children with no initial concept of conservation of substance were given three practice sessions in situations involving repeated cognitive..."]
+      },
+      {
+        "title": "THE ACQUISITION OF CONSERVATION OF SUBSTANCE AND WEIGHT IN CHILDREN.: III. Extinction of conservation of weight acquired ‘normally’ and by means of empirical controls on a balance",
+        "tags": ["Article"],
+        "date": "Mar 1961",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Smedslund, J. The acquisition of conservation of substance and weight in children. III. Extinction of conservation of weight acquired ‘normally’ and by means of empirical controls on a balance. Scand. J. Psychol., 1961, 2, 85–87.—11 children who had acquired conservation of weight by control on a balance, and 13 children who had acquired conservati..."]
+      },
+      {
+        "title": "The acquisition of conservation of substance and weight in children IV An attempt at extinction of the visual components of the weight concept",
+        "tags": ["Article"],
+        "date": "Jan 1961",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "The Acquisition of Conservation of Substance and Weight in Children. VI. Practice on Continuous Versus Noncontinuous Material in Conflict Situations without Reinforcement",
+        "tags": ["Article"],
+        "date": "Jan 1961",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "TRANSITIVITY OF PREFERENCE PATTERNS AS SEEN BY PRE‐SCHOOL CHILDREN",
+        "tags": ["Article"],
+        "date": "Mar 1960",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["Forty 5–7-year-old children were asked to predict the choice of a boy or girl between objects A and C, after they had been shown that the boy (girl) preferred A to B and B to C. The results show an almost complete absence of ability to perform the required transitive inference. The children's predictions were heavily influenced by their own prefere..."]
+      },
+      {
+        "title": "Apprentissage des notions de la conservation et de la transitivité du poids",
+        "tags": ["Article"],
+        "date": "Jan 1959",
+        "authors": ["Jan Smedslund"],
+        "abstract": []
+      },
+      {
+        "title": "The epistemological foundations of behaviorism. A critique",
+        "tags": ["Article"],
+        "date": "Dec 1955",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The present paper is an attempt to demonstrate the futility of trying to exclude in advance and on the basis of epistemological analysis, certain basic terms from the language of scientific psychology, or, what amounts to the same, to exclude certain phenomena from the field of psychological investigation. More specifically we refer to the point of..."]
+      },
+      {
+        "title": "The problem of \"what is learned?\"",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 1953",
+        "authors": ["Jan Smedslund"],
+        "abstract": ["The author criticizes Kendler's recently expressed view that the formulation, \"What is learned?\" is a theoretical blind alley. The position is taken that when this question is re-stated as, \"what changes have occurred in O's behavior and learning in any situation, whether it belongs to S or not, as a function of O's being presented to S?,\" then the..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Philosophy"],
+    "bio": [],
+    "publications": [99],
+    "reads": [5991],
+    "citations": [2860]
   }
 }

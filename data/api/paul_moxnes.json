@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Paul Moxnes",
-    "id": "FnfwM5kAAAAJ",
-    "affiliation": "Visiting professor, UiO",
+    "name": ["Paul Moxnes"],
+    "id": ["FnfwM5kAAAAJ"],
+    "affiliation": ["Visiting professor, UiO"],
     "data": {
       "publications": [
         {
@@ -547,8 +547,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-6387-1458",
-    "name": "Paul Moxnes",
+    "orcid": ["0000-0002-6387-1458"],
+    "name": ["Paul Moxnes"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -559,8 +559,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Paul Moxnes",
-    "id": "325101",
+    "name": ["Paul Moxnes"],
+    "id": ["325101"],
     "keywords": [],
     "position": ["Professor", "Guest"],
     "img": {},
@@ -744,9 +744,9 @@
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Anxiety and organization: what I learned about anxiety in a psychiatric ward in the 70s that turned out to be useful for managers in daily practice",
         "journal": "Culture and Organization",
-        "url": "https://api.cristin.no/v2/results/1627459"
+        "url": "https://api.cristin.no/v2/results/1627459",
+        "title": "Anxiety and organization: what I learned about anxiety in a psychiatric ward in the 70s that turned out to be useful for managers in daily practice"
       },
       {
         "type": "Chapter",
@@ -761,16 +761,16 @@
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Are We Sucked into Fairy Tale Roles? Role Archetypes in Imagination and Organization",
         "journal": "Organization Studies",
-        "url": "https://api.cristin.no/v2/results/1379490"
+        "url": "https://api.cristin.no/v2/results/1379490",
+        "title": "Are We Sucked into Fairy Tale Roles? Role Archetypes in Imagination and Organization"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "title": "The Hero's dream and other primordial patterns of imagery Archetypal influences on organisational fantasies and ideations",
         "journal": "Journal of Organizational Change Management",
-        "url": "https://api.cristin.no/v2/results/1051845"
+        "url": "https://api.cristin.no/v2/results/1051845",
+        "title": "The Hero's dream and other primordial patterns of imagery Archetypal influences on organisational fantasies and ideations"
       },
       {
         "type": "Textbook",
@@ -791,16 +791,16 @@
       {
         "type": "Academic article",
         "year": "2006",
-        "title": "Group therapy as self-management training: a personal experience",
         "journal": "Group Analysis",
-        "url": "https://api.cristin.no/v2/results/794124"
+        "url": "https://api.cristin.no/v2/results/794124",
+        "title": "Group therapy as self-management training: a personal experience"
       },
       {
         "type": "Academic article",
         "year": "2006",
-        "title": "Learning group psychology, leadership and anxiety coping by use of fairy tales as an educational guide",
         "journal": "Nordic Psychology",
-        "url": "https://api.cristin.no/v2/results/794123"
+        "url": "https://api.cristin.no/v2/results/794123",
+        "title": "Learning group psychology, leadership and anxiety coping by use of fairy tales as an educational guide"
       },
       {
         "type": "Academic chapter/article/Conference paper",
@@ -851,29 +851,29 @@
       {
         "type": "Academic chapter/article/Conference paper",
         "year": "1999",
-        "title": "Deep Roles: Templates of the group mind",
-        "url": "https://api.cristin.no/v2/results/792265"
+        "url": "https://api.cristin.no/v2/results/792265",
+        "title": "Deep Roles: Templates of the group mind"
       },
       {
         "type": "Academic article",
         "year": "1999",
-        "title": "Expansion or confusion? On the nature of science, Bion, the organizational unconscious, and deep roles",
         "journal": "?",
-        "url": "https://api.cristin.no/v2/results/792264"
+        "url": "https://api.cristin.no/v2/results/792264",
+        "title": "Expansion or confusion? On the nature of science, Bion, the organizational unconscious, and deep roles"
       },
       {
         "type": "Academic article",
         "year": "1999",
-        "title": "Understanding Roles: A Psychodynamic Model for Role Differentiation in Groups",
         "journal": "?",
-        "url": "https://api.cristin.no/v2/results/792263"
+        "url": "https://api.cristin.no/v2/results/792263",
+        "title": "Understanding Roles: A Psychodynamic Model for Role Differentiation in Groups"
       },
       {
         "type": "Academic article",
         "year": "1999",
-        "title": "Deep Roles: Twelve primordial roles of mind and organization",
         "journal": "Human Relations",
-        "url": "https://api.cristin.no/v2/results/792262"
+        "url": "https://api.cristin.no/v2/results/792262",
+        "title": "Deep Roles: Twelve primordial roles of mind and organization"
       },
       {
         "type": "Academic article",
@@ -882,5 +882,201 @@
         "url": "https://api.cristin.no/v2/results/795318"
       }
     ]
+  },
+  "rg": {
+    "id": "Paul-Moxnes",
+    "name": "Paul Moxnes",
+    "img": "https://i1.rgstatic.net/ii/profile.image/551528178356224-1508505972150_Q128/Paul-Moxnes.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Av Paul Moxnes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Paul Moxnes"],
+        "abstract": []
+      },
+      {
+        "title": "Psykiatri på fremmarsj i personlighetens verden – uten sosialpsykologisk kart og kompass",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Paul Moxnes"],
+        "abstract": []
+      },
+      {
+        "title": "Anxiety and organization: what I learned about anxiety in a psychiatric ward in the 70s that turned out to be useful for managers in daily practice",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["This essay is a contribution to ‘de-pathologizing’ anxiety, reaffirm it into organization studies, and cast light on some findings on anxiety among staff members in a psychiatric ward. I will endeavor to reveal how I as a young researcher examined anxiety influences that have proven helpful to managers, suggesting that (1) anxiety comes in cold and..."]
+      },
+      {
+        "title": "Are We Sucked into Fairy Tale Roles? Role Archetypes in Imagination and Organization",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2016",
+        "authors": ["Paul Moxnes", "Andreas Moxnes"],
+        "abstract": ["This research is an attempt to understand and measure mythological roles in attributional processes. Drawing upon Carl Jung’s work on the archetype we, first, argue how role archetypes from fantasy dramas and worldwide fairy tales populate organizational life, and further, contend that they have extensive influence on how group members sort their j..."]
+      },
+      {
+        "title": "The Hero's dream and other primordial patterns of imagery Archetypal influences on organisational fantasies and ideations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["Purpose\n– The purpose of this paper is to explore the effects of archetypes on collective fantasies and covert ideations and argue that archetypal fantasies, dreams and emotions impact organisational performance all the way down to the bottom line.\n\nDesign/methodology/approach\n– The author maintains that role‐figures in fairy tales and mythology ca..."]
+      },
+      {
+        "title": "Group Therapy as Self-Management TrainingA Personal Experience",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2006",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["In this paper, the author develops a personal interpretation of some in-depth issues encountered while participating in a three-year programme in group analysis, focusing on the interface between group analysis and leadership training. Among the issues delineated are member-leader conflicts, role-suction, the creation of covert roles (deep roles),..."]
+      },
+      {
+        "title": "Learning Group Psychology, Leadership and Anxiety Coping by use of Fairy Tales as an Educational Guide",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2006",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["In this paper, some new ideas about how to learn about teamwork and leadership will be presented. The educational approach is based on the notion that fantasies come first, then facts. It is grounded in classic experiential teaching methodology but with the added dimension of merging exercises in management education with the narrative structure of..."]
+      },
+      {
+        "title": "Deep Roles: Twelve Primordial Roles of Mind and Organization",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 1999",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["The thesis in this paper is that there are 12archetypal roles in groups and organizations. Thesedeep roles have their origin in the rolesof the essential family — father, mother, son, anddaughter. In groups and organizations, each of theseimages of family roles will — through the basicdefense mechanisms of splitting and projection —be polarized int..."]
+      },
+      {
+        "title": "Expansion or Confusion? On the Nature of Science, Bion, the Organizational Unconscious, and Deep Roles",
+        "tags": ["Article"],
+        "date": "Sep 1999",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["In this article, Vansina's assertions expressed in his comments on my article: \"Fantasies and fairy tales in groups and organizations: Bion's basic assumptions and the deep roles\" (Moxnes, 1998) are refuted. Bion's possible hatred for his parents, his tendency for schizoid isolation, his abandonment of group studies, and his detached leadership sty..."]
+      },
+      {
+        "title": "Understanding Roles: A Psychodynamic Model for Role Differentiation in Groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 1999",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["The basic roles that emerge in groups are described in terms of a typology based on 3 biological imperatives: evaluation (i.e., good or bad), gender, and hierarchy. The mental matrix model based on these imperatives identifies 14 cardinal and emotional deep roles. The author argues that deep roles are born out of a biogenetically explicated mythic..."]
+      },
+      {
+        "title": "Understanding roles: A psychodynamic model for role differentiation in groups.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 1999",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["The basic roles that emerge in groups are described in terms of a typology based on 3 biological imperatives: evaluation (i.e., good or bad), gender, and hierarchy. The mental matrix model based on these imperatives identifies 14 cardinal and emotional deep roles. The author argues that deep roles are born out of a biogenetically explicated mythic..."]
+      },
+      {
+        "title": "Fantasies and Fairy Tales in Groups and Organizations: Bion's Basic Assumptions and the Deep Roles",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 1998",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["Little is known about the psychological processes that constitute roles in groups and organizations. Over the last years, however, organizational psychology has demonstrated that unconsciously some people are likely to be pushed into certain social and organizational roles. This article claims that roles found in ordinary folk tales also arise in o..."]
+      },
+      {
+        "title": "Mere om “dyproller”",
+        "tags": ["Article"],
+        "date": "Jan 1994",
+        "authors": ["Paul Moxnes"],
+        "abstract": []
+      },
+      {
+        "title": "The influence of management training upon organizational climate: An exploratory study",
+        "tags": ["Article"],
+        "date": "Sep 1991",
+        "authors": ["Paul Moxnes", "Dag Erik Eilertsen"],
+        "abstract": ["The influence of three management training programs (MT) for first line supervisors (foremen) upon organizational climate were evaluated using a questionnaire design with repeated testing and statistical controls. The main objective for two of the three MT programs under study was to change the organizational climate in a direction that would facil..."]
+      },
+      {
+        "title": "[Fear--normal and everywhere. Interview by Marit Fonn].",
+        "tags": ["Article"],
+        "date": "Nov 1990",
+        "authors": ["Paul Moxnes"],
+        "abstract": []
+      },
+      {
+        "title": "[Anxiety and administration. Power play--within and outside of the hospital]",
+        "tags": ["Article"],
+        "date": "Nov 1979",
+        "authors": ["Paul Moxnes"],
+        "abstract": []
+      },
+      {
+        "title": "ANGST OG ANGSTFORSKNING",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1979",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["Angstbegrepet er ikke klargjort i psykologien. Den förvirring i meningsinnhold og målemetoder som råder, kan sees som et utslag av at fenomenet angst ikke er sammenlignbart mellom individer eller mellom tidsepoker. SUMMARY Anxiety research is characterized by semantic confusion and contradictory findings. None the less anxiety has become one of the..."]
+      },
+      {
+        "title": "Psykiatriens s0rgelige historie",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1978",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["This article offers a critical approach to older and more recent kinds of psychiatric treatment and research. The history of psychiatry is the history of a science that for more than 100 years has been experimenting with methods for the treatment of mental diseases but which still cannot claim approved results. This is in spite of the fact that man..."]
+      },
+      {
+        "title": "Angst og terapi",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1977",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["Støtteterapi, angstprovoserende terapi og terapeutiske holdninger hos personalei på en avdeling ved et norsk psykiatrisk sykehus blir beskrevet. Samspillet mellom pasienter og terapeuter analyseres i lys av angstbegrepet. SUMMARY A department in a Norwegian mental hospital is described in terms of supportive and anxiety-provoking therapy. In accord..."]
+      },
+      {
+        "title": "Manual for the scaling of communication levels (KONI) in psychotherapeutic groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1976",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["A system of categorizing verbal behavior in therapeutic groups is proposed. The levels of communication are expressed as a self-dimension from non-self through known self and private self to unknwon self. Each of the 13 communication levels are carefully defined; examples and instructions for practical use of the scale are presented."]
+      },
+      {
+        "title": "The psychiatrist as “outsider”",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1975",
+        "authors": ["A. Ghaffari", "Paul Moxnes"],
+        "abstract": ["The psychiatrist as \"outsider” Anti-psychiatry is a critique of the traditional psychiatry’s concept of mental illness. It shifts the centre of emphasis from individual to collective pathology - considers for example family nexus as sickness-breeding. In this it has the sympathy of the critics of the social systems and those who believe in freedom..."]
+      },
+      {
+        "title": "Verbal communication level and anxiety in psychotherapeutic groups",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 1974",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["Hypothesized a linear relationship in psychotherapeutic groups between verbal behavior (defined as the level of communication) and experienced anxiety. However, trained judges' ratings of 6 2-hr tape-recorded group sessions revealed a curvilinear relationship between these 2 variables. The maximum level of anxiety occurred on the border of communic..."]
+      },
+      {
+        "title": "Angst og lederskap i psyko- terapeutiske grupper",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1974",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["Anxiety may manifest itself in bodily reactions without being consciously experienced. When the leaders of therapeutic groups forcefully focus on this discrepancy between conscious feelings and unconscious bodily arousal a psychological breakdown might be the consequence in extreme cases. When the leader in groups with low therapeutic communication..."]
+      },
+      {
+        "title": "Kommimikasjonen i psykoterapeutiske grupper og opplevelsen av angst",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1973",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["A relationship in psychotherapeutic learning groups between verbal behavior - defined as level of communication - and experienced anxiety, is hypothesized. The levels of communication are expressed as a self-dimension that reaches from nonself through known-self and private self to unknown self. A linear relationship between level of communication..."]
+      },
+      {
+        "title": "Personlighetsforandringer i klient-sentrert terapi",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 1971",
+        "authors": ["Paul Moxnes"],
+        "abstract": ["The kind of personality changes that the client-centered therapy accentuates must be considered as a development of existing, but unutilized resources in the person, rather than changes in already established and utilized potentials. This personality development is primarily characterized by maturation of the client’s emotional life. Such emotional..."]
+      },
+      {
+        "title": "Diagnosing the organization: The psychogram.",
+        "tags": ["Article", "Full-text available"],
+        "date": "",
+        "authors": ["Paul Moxnes", "Harald Engvik"],
+        "abstract": ["21 psychologist members of a sensitivity trainer organization evaluated each other according to 20 bipolar adjectives. From a resulting factor analysis came 2 distinct dimensions, interpreted as the \"love\" and the \"will.\" Scores for all members were plotted within a derived coordinate system, with the aid of a computer program. The emerging \"psycho..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": "Organization psychology",
+    "publications": [26],
+    "reads": [10554],
+    "citations": [186]
   }
 }

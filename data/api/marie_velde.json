@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-8689-6992",
-    "name": "Marie Claire Van de Velde",
+    "orcid": ["0000-0001-8689-6992"],
+    "name": ["Marie Claire Van de Velde"],
     "distinctions": [],
     "education": [
       {
@@ -25,11 +25,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Marie Velde",
-    "id": "1504802",
+    "name": ["Marie Velde"],
+    "id": ["1504802"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Delizee-Marie-Marie",
+    "name": "Delizee Marie-Marie",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Université Catholique de Louvain  UCLouvain | UCLouvain, Université Catholique de Louvain  UCLouvain, School of Public Health  ESP",
+    "keywords": ["Health Promotion", "Health Care Management"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

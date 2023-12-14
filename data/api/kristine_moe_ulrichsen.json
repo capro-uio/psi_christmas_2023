@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Kristine Moe Ulrichsen",
-    "id": "_HmGvZkAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Kristine Moe Ulrichsen"],
+    "id": ["_HmGvZkAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -257,8 +257,8 @@
   },
   "orcid": {},
   "cristin": {
-    "name": "Kristine Moe Ulrichsen",
-    "id": "815957",
+    "name": ["Kristine Moe Ulrichsen"],
+    "id": ["815957"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -397,5 +397,15 @@
         "url": "https://api.cristin.no/v2/results/1359101"
       }
     ]
+  },
+  "rg": {
+    "id": "Jasmine-Kristine",
+    "name": "Jasmine Kristine",
+    "img": "https://i1.rgstatic.net/ii/profile.image/568186459430913-1512477616593_Q128/Jasmine-Kristine.jpg",
+    "affiliation": "Universitas Kristen Satya Wacana | UKSW, Universitas Kristen Satya Wacana, Faculty of Language and Literature",
+    "keywords": ["Literature Studies"],
+    "works": [],
+    "degree": [null],
+    "bio": "Angelina currently works at the Faculty of Language and Literature, Universitas Kristen Satya Wacana. Angelina does research in English Literature. Their current project is 'Research paper'."
   }
 }

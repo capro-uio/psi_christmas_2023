@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Siri Leknes",
-    "id": "ZOHvh98AAAAJ",
-    "affiliation": "Dept. Psychology, University of Oslo",
+    "name": ["Siri Leknes"],
+    "id": ["ZOHvh98AAAAJ"],
+    "affiliation": ["Dept. Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -928,8 +928,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-6667-4601",
-    "name": "Siri Leknes",
+    "orcid": ["0000-0002-6667-4601"],
+    "name": ["Siri Leknes"],
     "distinctions": [],
     "education": [
       {
@@ -940,24 +940,24 @@
       },
       {
         "start": "2014",
-        "end": "2016",
         "position": "Research Fellow",
         "organisation": "Oslo Universitetssykehus",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       },
       {
         "start": "2010",
-        "end": "2014",
         "position": "Research Fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2014"
       },
       {
         "start": "2008",
-        "end": "2009",
         "position": "Postdoc",
         "organisation": "Gothenburg University/University of Oslo",
-        "country": "SE"
+        "country": "SE",
+        "end": "2009"
       }
     ],
     "employment": [
@@ -969,24 +969,24 @@
       },
       {
         "start": "2014",
-        "end": "2016",
         "position": "Research Fellow",
         "organisation": "Oslo Universitetssykehus",
-        "country": "NO"
+        "country": "NO",
+        "end": "2016"
       },
       {
         "start": "2010",
-        "end": "2014",
         "position": "Research Fellow",
         "organisation": "University of Oslo",
-        "country": "NO"
+        "country": "NO",
+        "end": "2014"
       },
       {
         "start": "2008",
-        "end": "2009",
         "position": "Postdoc",
         "organisation": "Gothenburg University/University of Oslo",
-        "country": "SE"
+        "country": "SE",
+        "end": "2009"
       }
     ],
     "membership": [],
@@ -1004,8 +1004,8 @@
       {
         "type": "journal-article",
         "title": "Opioid analgesic effects on subjective well‐being in the operating theatre*",
-        "journal": "Anaesthesia",
-        "url": "https://doi.org/10.1111/anae.16069"
+        "url": "https://doi.org/10.1111/anae.16069",
+        "journal": "Anaesthesia"
       },
       {
         "type": "preprint",
@@ -1015,8 +1015,8 @@
       {
         "type": "journal-article",
         "title": "Opioid antagonism in humans: a primer on optimal dose and timing for central mu-opioid receptor blockade",
-        "journal": "Neuropsychopharmacology",
-        "url": "https://doi.org/10.1038/s41386-022-01416-z"
+        "url": "https://doi.org/10.1038/s41386-022-01416-z",
+        "journal": "Neuropsychopharmacology"
       },
       {
         "type": "preprint",
@@ -1026,8 +1026,8 @@
       {
         "type": "journal-article",
         "title": "Factors associated with use of opioid rescue medication after surgery",
-        "journal": "Regional Anesthesia & Pain Medicine",
-        "url": "https://doi.org/10.1136/rapm-2023-104412"
+        "url": "https://doi.org/10.1136/rapm-2023-104412",
+        "journal": "Regional Anesthesia & Pain Medicine"
       },
       {
         "type": "preprint",
@@ -1047,8 +1047,8 @@
       {
         "type": "journal-article",
         "title": "Meaning makes touch affective",
-        "journal": "Current Opinion in Behavioral Sciences",
-        "url": "https://doi.org/10.1016/j.cobeha.2021.101099"
+        "url": "https://doi.org/10.1016/j.cobeha.2021.101099",
+        "journal": "Current Opinion in Behavioral Sciences"
       },
       {
         "type": "other",
@@ -1178,8 +1178,8 @@
       {
         "type": "book-chapter",
         "title": "Pain and pleasure: masters of mankind",
-        "journal": "Pleasures of the brain",
-        "url": "http://www.sv.uio.no/psi/english/people/aca/sirigra/leknes-tracey_pleasures_of_the_brain_ch-19.pdf"
+        "url": "http://www.sv.uio.no/psi/english/people/aca/sirigra/leknes-tracey_pleasures_of_the_brain_ch-19.pdf",
+        "journal": "Pleasures of the brain"
       },
       {
         "type": "journal-article",
@@ -1207,11 +1207,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Siri Graff Leknes",
-    "id": "6750",
+    "name": ["Siri Graff Leknes"],
+    "id": ["6750"],
     "keywords": [],
     "position": ["Professor"],
-    "img": "https://api.cristin.no/v2/persons/6750/picture",
+    "img": ["https://api.cristin.no/v2/persons/6750/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1688,5 +1688,26 @@
         "url": "https://api.cristin.no/v2/results/504700"
       }
     ]
+  },
+  "rg": {
+    "id": "Pasupula-Siri",
+    "name": "Pasupula Siri",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Vasavi College of Engineering, Department of Electrical and Electronics Engineering",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Fighting for market power",
+        "tags": ["Chapter"],
+        "date": "Jan 2022",
+        "authors": ["Pasupula Siri"],
+        "abstract": "This chapter analyzes three aspects of developments in Norwegian aviation from an industrial economics perspective. It took four years after easing the hub airport's capacity problems before deregulation significantly affected competition. Next the market structure went from a stable duopoly, via capacity competition with an entrant, to an unstable..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [13],
+    "citations": [0]
   }
 }

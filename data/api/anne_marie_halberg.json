@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Anne Marie Halberg",
-    "id": "7937",
+    "name": ["Anne Marie Halberg"],
+    "id": ["7937"],
     "keywords": [],
     "position": ["Associate professor", "Guest"],
     "img": {},
@@ -18,8 +18,8 @@
         "type": "Academic article",
         "year": "2018",
         "title": "Effects of mother's and father's education level and age at migration on children's bilingual vocabulary",
-        "journal": "Applied Psycholinguistics",
-        "url": "https://api.cristin.no/v2/results/1570005"
+        "url": "https://api.cristin.no/v2/results/1570005",
+        "journal": "Applied Psycholinguistics"
       },
       {
         "type": "Doctoral dissertation",
@@ -31,15 +31,15 @@
         "type": "Academic article",
         "year": "2009",
         "title": "Framing of Imprecise Quantities: When Are Lower Interval Bounds Preferred to Upper Bounds?",
-        "journal": "Journal of Behavioral Decision Making",
-        "url": "https://api.cristin.no/v2/results/360983"
+        "url": "https://api.cristin.no/v2/results/360983",
+        "journal": "Journal of Behavioral Decision Making"
       },
       {
         "type": "Academic article",
         "year": "2009",
         "title": "Maximum vs. minimum values: Preferences of speakers and listeners for upper and lower limit estimates",
-        "journal": "Acta Psychologica",
-        "url": "https://api.cristin.no/v2/results/355136"
+        "url": "https://api.cristin.no/v2/results/355136",
+        "journal": "Acta Psychologica"
       },
       {
         "type": "Academic lecture",
@@ -51,22 +51,22 @@
         "type": "Academic article",
         "year": "2007",
         "title": "Single- Limit Interval Estimates as Reference Points",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/661075"
+        "url": "https://api.cristin.no/v2/results/661075",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2007",
         "title": "Single-limit interval estimates as reference points",
-        "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/380268"
+        "url": "https://api.cristin.no/v2/results/380268",
+        "journal": "Applied Cognitive Psychology"
       },
       {
         "type": "Academic article",
         "year": "2007",
         "title": "More than, less than, or between: How upper and lower bounds determine subjective interval estimates",
-        "journal": "Journal of Behavioral Decision Making",
-        "url": "https://api.cristin.no/v2/results/373104"
+        "url": "https://api.cristin.no/v2/results/373104",
+        "journal": "Journal of Behavioral Decision Making"
       },
       {
         "type": "Academic lecture",
@@ -129,5 +129,25 @@
         "url": "https://api.cristin.no/v2/results/168571"
       }
     ]
+  },
+  "rg": {
+    "id": "Lo-Presti-Anne-Marie",
+    "name": "Lo Presti Anne-Marie Anne-Marie",
+    "img": "https://i1.rgstatic.net/ii/profile.image/645372074549248-1530880101924_Q128/Lo-Presti-Anne-Marie.jpg",
+    "affiliation": "Haute Ecole Pédagogique Lausanne, AGIRS",
+    "keywords": ["Teaching and Learning", "Professional Development", "Pedagogy and Education", "Pedagogy"],
+    "works": [
+      {
+        "title": "Articles dans revues professionnelles ou de vulgarisation",
+        "tags": ["Preprint"],
+        "date": "Jul 2018",
+        "authors": ["Lo Presti Anne-Marie Anne-Marie"],
+        "abstract": []
+      }
+    ],
+    "degree": [null],
+    "publication": [1],
+    "reads": [11],
+    "citations": [0]
   }
 }

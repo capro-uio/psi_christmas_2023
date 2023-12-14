@@ -2,11 +2,11 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Roald Arild Bjørklund",
-    "id": "13854",
+    "name": ["Roald Arild Bjørklund"],
+    "id": ["13854"],
     "keywords": ["Conflicts", "Labour", "Working life", "Crisis management", "Mobbing", "Psychology of Organizations", "Psychopharmacology", "Psychophysiology", "Stress", "Group Psychology", "Conflict/conflict resolving", "Leadership and leader development"],
     "position": ["Emeritus"],
-    "img": "https://api.cristin.no/v2/persons/13854/picture",
+    "img": ["https://api.cristin.no/v2/persons/13854/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -287,5 +287,15 @@
         "url": "https://api.cristin.no/v2/results/135390"
       }
     ]
+  },
+  "rg": {
+    "id": "Lee-Arild",
+    "name": "Lee Arild",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Cardiff Metropolitan University | cardiffmet, Cardiff Metropolitan University, Department of Business and Management",
+    "keywords": ["Management"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

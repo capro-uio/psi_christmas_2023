@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Sara Ynés Tello Cabello",
-    "id": "3KJZsLweE4gC",
-    "affiliation": "Profesora de Derecho, Universidad Alas Peruanas",
+    "name": ["Sara Ynés Tello Cabello"],
+    "id": ["3KJZsLweE4gC"],
+    "affiliation": ["Profesora de Derecho, Universidad Alas Peruanas"],
     "data": {
       "publications": [
         {
@@ -161,8 +161,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-2589-8449",
-    "name": "Sara Fernandez Rodriguez-Cabello",
+    "orcid": ["0000-0002-2589-8449"],
+    "name": ["Sara Fernandez Rodriguez-Cabello"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -190,11 +190,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Sara Fernandez Rodriguez Cabello",
-    "id": "1606873",
+    "name": ["Sara Fernandez Rodriguez Cabello"],
+    "id": ["1606873"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Sara-Fernandez-Rodriguez",
+    "name": "Sara Fernandez Rodriguez",
+    "img": "https://i1.rgstatic.net/ii/profile.image/960765611757568-1606075780270_Q128/Sara-Fernandez-Rodriguez.jpg",
+    "affiliation": "University of Oviedo | UNIOVI, University of Oviedo, Department of Applied Economics",
+    "keywords": ["Economy", "Economic Analysis", "Applied Economics", "Economic Development"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

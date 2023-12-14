@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0009-0004-4853-0622",
-    "name": "Hanna Paalgard Munden",
+    "orcid": ["0009-0004-4853-0622"],
+    "name": ["Hanna Paalgard Munden"],
     "distinctions": [],
     "education": [
       {
@@ -38,8 +38,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Hanna Paalgard Munden",
-    "id": "861685",
+    "name": ["Hanna Paalgard Munden"],
+    "id": ["861685"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -70,5 +70,26 @@
         "url": "https://api.cristin.no/v2/results/1769697"
       }
     ]
+  },
+  "rg": {
+    "id": "Christine-Hanna-3",
+    "name": "Christine Hanna",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Georgia State University | GSU, Georgia State University, Center for Instructional Technology",
+    "keywords": ["Mathematics", "Pure Mathematics"],
+    "works": [
+      {
+        "title": "Oxygen microsensor studies on zooxanthellate clionaid ponges from the Costa Brava, Mediteranean Sea.",
+        "tags": ["Article"],
+        "date": "Aug 2005",
+        "authors": ["Christine Hanna", "Christine Schoenberg", "Dirk de Beer", "Angela Lawton"],
+        "abstract": "Photosynthetic properties of two symbiotic demosponges were compared using Clark-type oxygen microsensors. The putatively distinct sponge species, Cliona viridis (Schmidt, 1862) and Cliona nigricans (Schmidt, 1862) were discriminated by their mean megasclere lengths of 296 and 387 mu m, respectively. Photosynthetic behavior was used to generate add..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [32],
+    "citations": [22]
   }
 }

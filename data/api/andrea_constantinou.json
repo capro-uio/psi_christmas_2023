@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Andreas Constantinou",
-    "id": "oYJ2W3sAAAAJ",
-    "affiliation": "Professor Emeritus, University of Cyprus",
+    "name": ["Andreas Constantinou"],
+    "id": ["oYJ2W3sAAAAJ"],
+    "affiliation": ["Professor Emeritus, University of Cyprus"],
     "data": {
       "publications": [
         {
@@ -1004,8 +1004,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-8088-7243",
-    "name": "Andrea Constantinou",
+    "orcid": ["0000-0001-8088-7243"],
+    "name": ["Andrea Constantinou"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -1016,8 +1016,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Andrea Constantinou",
-    "id": "1504804",
+    "name": ["Andrea Constantinou"],
+    "id": ["1504804"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -1030,5 +1030,14 @@
         "url": "https://api.cristin.no/v2/results/2206593"
       }
     ]
+  },
+  "rg": {
+    "id": "Andrea-Constantinou",
+    "name": "Andrea Constantinou",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Academisch Centrum Tandheelkunde Amsterdam | ACTA, Academisch Centrum Tandheelkunde Amsterdam",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

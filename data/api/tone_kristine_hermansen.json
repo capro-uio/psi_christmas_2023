@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Tone Kristine Hermansen",
-    "id": "sSrrsWAAAAAJ",
-    "affiliation": "Postdoc, Department of Psychology, University of Oslo, Oslo, Norway",
+    "name": ["Tone Kristine Hermansen"],
+    "id": ["sSrrsWAAAAAJ"],
+    "affiliation": ["Postdoc, Department of Psychology, University of Oslo, Oslo, Norway"],
     "data": {
       "publications": [
         {
@@ -359,8 +359,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-9598-808X",
-    "name": "Kristine Hermansen Grunewaldt",
+    "orcid": ["0000-0001-9598-808X"],
+    "name": ["Kristine Hermansen Grunewaldt"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -371,8 +371,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Tone Kristine Hermansen",
-    "id": "383144",
+    "name": ["Tone Kristine Hermansen"],
+    "id": ["383144"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", "Guest"],
     "img": {},
@@ -501,5 +501,124 @@
         "url": "https://api.cristin.no/v2/results/1177293"
       }
     ]
+  },
+  "rg": {
+    "id": "Tone-Hermansen",
+    "name": "Tone Kristine Hermansen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1064569766174720-1630824619314_Q128/Tone-Hermansen.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Cognitive Development", "Child Development", "Executive Function", "Cognitive Neuroscience", "Cognitive Neuropsychology", "Visual Attention", "Neuroimaging", "EEG", "Cognitive Psychology", "Neuropsychology"],
+    "works": [
+      {
+        "title": "Validation of an open source, remote web‐based eye‐tracking method (WebGazer) for research in early childhood",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Adrian Steffan", "Lucie Zimmer", "Natalia Arias-Trejo", "Tobias Schuwerk"],
+        "abstract": ["Measuring eye movements remotely via the participant's webcam promises to be an attractive methodological addition to in‐person eye‐tracking in the lab. However, there is a lack of systematic research comparing remote web‐based eye‐tracking with in‐lab eye‐tracking in young children. We report a multi‐lab study that compared these two measures in a..."]
+      },
+      {
+        "title": "Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Adrian Steffan", "Lucie Zimmer", "Natalia Arias-Trejo", "Tobias Schuwerk"],
+        "abstract": ["Measuring eye movements remotely via the participant’s webcam promises to be an attractive methodological addition to in-person eye-tracking in the lab. However, there is a lack of systematic research comparing remote web-based eye-tracking with in-lab eye-tracking in young children. We report a multi-lab study that compared these two measures in a..."]
+      },
+      {
+        "title": "Child internalizing and externalizing behaviors: Interplay between maternal depressive symptoms and child inhibitory control",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Tone Kristine Hermansen", "Kari E. Syrstad", "Espen Røysamb", "Annika M. D. Melinder"],
+        "abstract": ["Maternal depression is a risk factor for child internalizing and externalizing behaviors. Aiming to investigate the moderating role of child inhibitory control on this relationship, we invited a sub-sample of dyads from the Norwegian Mother, Father, and Child Cohort study (MoBa) for a lab-based assessment (N = 92, M age = 68 months, Range = 59-80,..."]
+      },
+      {
+        "title": "Preschool Children Rarely Seek Empirical Data That Could Help Them Complete a Task When Observation and Testimony Conflict",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Tone Kristine Hermansen", "Samuel Ronfard", "Paul L. Harris", "Imac M. Zambrana"],
+        "abstract": ["Children (N = 278, 34-71 months, 54% girls) were told which of two figurines turned on a music box and also observed empirical evidence either confirming or conflicting with that testimony. Children were then asked to sort novel figurines according to whether they could make the music box work or not. To see whether children would explore which fig..."]
+      },
+      {
+        "title": "Young children update their trust in an informant’s claim when experience tells them otherwise",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Tone Kristine Hermansen", "Samuel Ronfard", "Paul L. Harris", "Imac M. Zambrana"],
+        "abstract": ["Across two experiments, an adult informant presented 220 preschoolers (34–71 months of age) with either a correct claim or an incorrect claim about how to activate a music box by using one of two toy figures. Children were then prompted to explore the figures and to discover whether the informant’s claim was correct or incorrect. Children who disco..."]
+      },
+      {
+        "title": "Emosjoner og kognisjon i utvikling",
+        "tags": ["Chapter"],
+        "date": "Jan 2021",
+        "authors": ["Tone Kristine Hermansen", "Else-Marie Augusti"],
+        "abstract": []
+      },
+      {
+        "title": "Mothers’ Use of Questions and Children’s Learning and Language Development",
+        "tags": ["Chapter"],
+        "date": "Jan 2020",
+        "authors": ["Imac Maria Zambrana", "Tone Kristine Hermansen", "Meredith L. Rowe"],
+        "abstract": []
+      },
+      {
+        "title": "Question-asking in childhood: A review of the literature and a framework for understanding its development",
+        "tags": ["Article"],
+        "date": "May 2018",
+        "authors": ["Samuel Ronfard", "Imac M. Zambrana", "Tone Kristine Hermansen", "Deborah Kelemen"],
+        "abstract": ["Children's ability to query others is remarkable because it attests to their coordination of a range of complex cognitive capacities and because it allows them to initiate and redirect pedagogical exchanges. It is therefore a catalyst for their ability to learn from others. However, despite its importance for cognitive developmental theorizing and..."]
+      },
+      {
+        "title": "Saccadic Reaction Times in Infants and Adults: Spatiotemporal Factors, Gender, and Interlaboratory Variation",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2017",
+        "authors": ["Ben Kenward", "Felix-Sebastian Koch", "Linda Forssman", "Gustaf Gredebäck"],
+        "abstract": ["Saccade latency is widely used across infant psychology to investigate infants’ understanding of events. Interpreting particular latency values requires knowledge of standard saccadic reaction times, but there is no consensus as to typical values. This study provides standard estimates of infants’ (n=194, ages 9 to 15 months) saccadic reaction time..."]
+      },
+      {
+        "title": "Does preschoolers' previous experience affect their future information seeking? A pilot study",
+        "tags": ["Poster"],
+        "date": "Oct 2017",
+        "authors": ["Tone Kristine Hermansen", "Samuel Ronfard", "P L Harris", "Zambrana"],
+        "abstract": ["When learning about the world, children show a strong tendency to trust information gained through the testimony of other people1,2. At the same time, they also show a preference for gathering information through first-hand exploration3,4. In this pilot study, we assess how the chance to test the reliability of a verbal testimony through first-hand..."]
+      },
+      {
+        "title": "Saccadic reaction times in infants and adults",
+        "tags": ["Preprint"],
+        "date": "Mar 2017",
+        "authors": ["Ben Kenward", "Felix-Sebastian Koch", "Linda Forssman", "Gustaf Gredebäck"],
+        "abstract": ["This repository contains the following:* A pre-print of the first article based on the data: Kenward, B., Koch, F., Forssman, L., Brehm, J., Tidemann, I., Sundqvist, A., Marciszko, C., Hermansen, T. K., Heimann, M., Gredebäck, G. (in press). Saccadic reaction times in infants and adults: spatiotemporal factors, gender, and inter-laboratory variatio..."]
+      },
+      {
+        "title": "Perceptual interference processing in preschool children, with and without prenatal exposure to selective serotonin reuptake inhibitors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2017",
+        "authors": ["Tone Kristine Hermansen", "Santeri Yrttiaho", "Espen Røysamb", "Annika Melinder"],
+        "abstract": ["Background: \nPrenatal exposure to maternal depression, with or without maternal medical antidepressant treatment, may pose a risk to the child's cognitive and behavioral development. Targeting one of the core functions of behavioral regulation, we investigated both behavioral and neural indices of interference suppression in both exposed and contro..."]
+      },
+      {
+        "title": "Behavior and inhibitory control in children with prenatal exposure to antidepressants and medically untreated depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Tone Kristine Hermansen", "Espen Røysamb", "Else-Marie Augusti", "Annika Melinder"],
+        "abstract": ["Purpose: \nThe present study investigates child development following prenatal exposure to maternal use of selective serotonin reuptake inhibitors (SSRIs; N = 28), versus prenatal exposure to medically untreated depression (N = 42), and no exposure (N = 33).\n\nMethods: \nWhen the children reached 5-6 years of age, child cognitive abilities were measur..."]
+      },
+      {
+        "title": "The developmental trajectory of pointing perception in the first year of life",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2014",
+        "authors": ["Annika Melinder", "Carolien Konijnenberg", "Tone Kristine Hermansen", "Gustaf Gredebäck"],
+        "abstract": ["The present study investigated the development of the neural basis of pointing perception in 6-month- and 13-month-old infants. In a spatial-cueing paradigm, infants were presented with a peripheral target followed by a hand pointing toward (congruent condition) or away (incongruent condition) from the previously cued location. EEG responses to the..."]
+      },
+      {
+        "title": "Prenatal SSRI exposure: Effects on later child development",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Tone Kristine Hermansen", "Annika Melinder"],
+        "abstract": ["The aim of this review is to integrate research on the pharmacological mechanisms of selective serotonin reuptake inhibitors (SSRIs) and the following effects on fetal brain development and child cognitive function seen in children with prenatal exposure to SSRIs. As antidepressants are transferred from the mother to the fetus through the placenta,..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [15],
+    "reads": [6520],
+    "citations": [234]
   }
 }

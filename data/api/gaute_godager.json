@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Gaute Godager",
-    "id": "5715",
+    "name": ["Gaute Godager"],
+    "id": ["5715"],
     "keywords": [],
     "position": ["University lecturer", null],
     "img": {},
@@ -14,5 +14,15 @@
         "url": "https://api.cristin.no/v2/results/1869179"
       }
     ]
+  },
+  "rg": {
+    "id": "Gaute_Godager",
+    "name": "Gaute Godager",
+    "img": "https://i1.rgstatic.net/ii/profile.image/363153755000833-1463594010239_Q128/Gaute_Godager.jpg",
+    "affiliation": "Sykehuset Østfold, DPS Nordre",
+    "keywords": ["Psychology of Adolescence", "Mental Illness", "Treatment", "Psychotherapeutic Processes", "Personality Assessment", "DBT", "ACT", "Developmental Psychopathology", "Psychological Assessment"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

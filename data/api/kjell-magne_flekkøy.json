@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Kjell-Magne Flekkøy",
-    "id": "22303",
+    "name": ["Kjell-Magne Flekkøy"],
+    "id": ["22303"],
     "keywords": ["Biological psychology", "Neuropsychology", "Rehabilitation", "Psychopathology", "Schizophrenia"],
     "position": ["Emeritus"],
     "img": {},
@@ -143,5 +143,26 @@
         "url": "https://api.cristin.no/v2/results/145164"
       }
     ]
+  },
+  "rg": {
+    "id": "Kjell-Bang",
+    "name": "Kjell Magne Bang",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "",
+    "keywords": ["Learning", "Teaching"],
+    "works": [
+      {
+        "title": "Norwegian upper secondary students’ experiences of their teachers’ assessment of and for learning in physical education: examining how assessment is interpreted by students of different physical abilities",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Idar Lyngstad", "Øyvind Bjerke", "Kjell Magne Bang", "Pål Lagestad"],
+        "abstract": "Teachers’ assessment enhances students’ learning in many situations in physical education (PE). The present study aims to examine the issue of potential unequal assessment of students due to their different physical abilities in PE in upper secondary school, where the research question is: What experiences do students with high or low levels of phy..."
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publication": [1],
+    "reads": [227],
+    "citations": [2]
   }
 }

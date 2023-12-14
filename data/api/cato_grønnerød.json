@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Cato Grønnerød",
-    "id": "RgBYWgQAAAAJ",
-    "affiliation": "Associate Professor, University of Oslo",
+    "name": ["Cato Grønnerød"],
+    "id": ["RgBYWgQAAAAJ"],
+    "affiliation": ["Associate Professor, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -414,8 +414,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0001-7915-9601",
-    "name": "Cato Grønnerød",
+    "orcid": ["0000-0001-7915-9601"],
+    "name": ["Cato Grønnerød"],
     "distinctions": [],
     "education": [
       {
@@ -501,11 +501,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Cato Grønnerød",
-    "id": "1424",
+    "name": ["Cato Grønnerød"],
+    "id": ["1424"],
     "keywords": ["Psychometrics", "Rorschach", "Personality", "Personality assessment"],
     "position": ["Associate professor", null],
-    "img": "https://api.cristin.no/v2/persons/1424/picture",
+    "img": ["https://api.cristin.no/v2/persons/1424/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -777,5 +777,235 @@
         "url": "https://api.cristin.no/v2/results/203540"
       }
     ]
+  },
+  "rg": {
+    "id": "Cato-Gronnerod",
+    "name": "Cato Grønnerød",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272787726139398-1442049070157_Q128/Cato-Gronnerod.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Personality Assessment", "Reliability", "Meta-Analysis", "Clinical Psychology", "Psychotherapy", "Psychological Assessment", "Psychodynamic Psychotherapy", "Psychological Testing", "Psychopathology", "Psychotherapeutic Processes"],
+    "works": [
+      {
+        "title": "Mental Health, Well-Being, and Adolescent Extremism: A Machine Learning Study on Risk and Protective Factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["E. F. Haghish", "Milan Obaidi", "Thea Bertnes Strømme", "Cato Grønnerød"],
+        "abstract": ["We examined the relationship between adolescents' extremist attitudes with a multitude of mental health, well-being, psycho-social, environmental, and lifestyle variables, using state-of-the-art machine learning procedure and nationally representative survey dataset of Norwegian adolescents (N = 11,397). Three key research questions were addressed:..."]
+      },
+      {
+        "title": "Validity of the Norwegian Version of Inventory of Problems–29 (IoP-29): A simulation study with experimental feigning of depression and a nonclinical control group.",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Cato Grønnerød", "Simon Rekkedal Rolfsnes", "Kristin Gustavson"],
+        "abstract": []
+      },
+      {
+        "title": "Pre- and Postpsychotherapy Assessment of a Patient With Retrograde Amnesia: A Zulliger Study",
+        "tags": ["Article"],
+        "date": "Mar 2023",
+        "authors": ["Erik Hammarström", "Cato Grønnerød"],
+        "abstract": ["Retrograde amnesia is the inability to recollect memories from a certain period. In the following case study, a patient was assessed with the Zulliger inkblot test in an initial assessment before psychotherapy. At termination of the psychotherapy, 42 months later, the test was readministered. At this point, the patient had no recollection of having..."]
+      },
+      {
+        "title": "Correction: Do prescription rates of psychotropic drugs change over three years from nursing home admission?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Enrico Callegari", "Jurate Saltyte Benth", "Geir Selbæk", "Sverre Bergh"],
+        "abstract": []
+      },
+      {
+        "title": "The Effect of the NorGeP–NH on Quality of Life and Drug Prescriptions in Norwegian Nursing Homes: A Randomized Controlled Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Enrico Callegari", "Jurate Saltyte Benth", "Geir Selbæk", "Sverre Bergh"],
+        "abstract": ["Background: \nThe effect of the Norwegian General Practice-Nursing Home (NorGeP-NH) criteria has never been tested on clinical outcomes in nursing home (NH) residents. We performed a cluster-randomized trial in Norwegian NHs and tested the effect of NorGeP-NH on QoL (primary outcome), medication prescriptions, and physical and mental health (seconda..."]
+      },
+      {
+        "title": "Do prescription rates of psychotropic drugs change over three years from nursing home admission?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Enrico Callegari", "Jurate Saltyte Benth", "Geir Selbæk", "Sverre Bergh"],
+        "abstract": ["Background\nIn this longitudinal study, we describe how psychotropic drugs (PTDs) are prescribed in nursing home (NH) patients from admission and over a 3-year period, to understand which clinical and environmental factors are associated with PTD prescription.\n\nMethods\nWe used data from the Resource Use and Disease Course in Dementia – Nursing Home..."]
+      },
+      {
+        "title": "Does Psychotropic Drug Prescription Change in Nursing Home Patients the First 6 Months After Admission?",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Enrico Callegari", "Jurate Saltyte Benth", "Geir Selbæk", "Sverre Bergh"],
+        "abstract": ["Objectives\nTo explore the course of psychotropic drug (PTD) prescription from admission (BL) to 6-month follow-up (6m) in Norwegian nursing homes (NHs). To examine how clinical variables, such as neuropsychiatric symptoms (NPS), cognition, physical health, and NH characteristics at BL are associated with prescription rates at 6 months.\n\nDesign\nAn o..."]
+      },
+      {
+        "title": "Identification With a Violent and Sadistic Aggressor: A Rorschach Study of Criminal Debt Collectors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2016",
+        "authors": ["Peder Chr Bryhn Nørbech", "Cato Grønnerød", "Ellen Hartmann"],
+        "abstract": ["This study examined personality functioning in a group of 27 incarcerated criminal debt collectors as assessed by the Rorschach Inkblot Method (RIM; Rorschach, 1921/1942) and the Psychopathy Checklist–Revised (PCL–R; Hare, 200339.\nHare, R. D. (2003). Manual for the Hare Psychopathy Checklist–Revised (2nd ed.). Toronto, ON, Canada: Multi-Health Syst..."]
+      },
+      {
+        "title": "Forensic psychiatric experts under the legal microscope",
+        "tags": ["Article"],
+        "date": "Feb 2016",
+        "authors": ["Cato Grønnerød", "Pål Grøndahl", "Ulf Stridbeck"],
+        "abstract": ["PurposeWe examined how 157 legal professionals view the role and performance of forensic psychiatric experts (psychiatrists and psychologists) in court, and what experiences they have with the experts. Methods\nThe participants filled in an online survey with ratings and open-ended questions. ResultsTheir experience was fairly limited, but the gener..."]
+      },
+      {
+        "title": "Expert for Whom? Court-Appointed Versus Party-Appointed Experts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Ulf Stridbeck", "Pål Grøndahl", "Cato Grønnerød"],
+        "abstract": ["We investigated differences in judges' attitudes between court-appointed and party-appointed forensic psychiatric expert evidence, including who commissioned the report and how this impacted on the judges' perception of the evidence presented. We also investigated the experts' views on being either a party-appointed or court-appointed expert. This..."]
+      },
+      {
+        "title": "Samarbeidsklimaet mellom rettspsykiatrisk sakkyndige og strafferettsjurister – Bedre enn sitt rykte",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2014",
+        "authors": ["Pål Grøndahl", "Cato Grønnerød", "Ulf Stridbeck"],
+        "abstract": ["Artikkelen presenterer to studier om juristers og rettspsykiatrisk sakkyndiges\nsyn på hverandres oppgaver og fremtreden i retten. I 2011 svarte 157 straffe-\nrettsjurister og 107 rettspsykiatrisk sakkyndige på et spørreskjema, og denne\nartikkelen er en oppsummering av våre funn, som er internasjonalt publisert.\nUndersøkelsene viser at strafferettsju..."]
+      },
+      {
+        "title": "Psychological Treatment of Sexual Offenders Against Children: A Meta-Analytic Review of Treatment Outcome Studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Cato Grønnerød", "Jarna Soilevuo Grønnerød", "Pål Grøndahl"],
+        "abstract": ["Numerous meta-analyses and reviews have been conducted on the effectiveness of psychological treatment of sexual offenders in reducing recidivism, but no meta-analysis has been done on sexual offenders against children (SOAC) specifically. A moderate treatment effect has been shown in several evaluations of general sexual offenders, while many scho..."]
+      },
+      {
+        "title": "Reduserer psykologisk behandling tilbakefall hos seksuelle overgripere mot barn? [Does psychological treatment reduce recidivism in sexual offenders against children?]",
+        "tags": ["Book", "Full-text available"],
+        "date": "Dec 2013",
+        "authors": ["Jarna Soilevuo Grønnerød", "Cato Grønnerød", "Pål Grøndahl"],
+        "abstract": []
+      },
+      {
+        "title": "The truth and nothing but the truth: Court-appointed forensic experts' experience with testifying and their perceptions of legal actors in criminal courts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2013",
+        "authors": ["Pål Grøndahl", "Ulf Stridbeck", "Cato Grønnerød"],
+        "abstract": ["We examined forensic psychiatric experts' experiences in providing court testimony and their cooperation with legal professionals, with 147 forensic psychiatric experts (psychologists and psychiatrists) responding to an online survey. Most experts reported that they liked their work, and were satisfied with their cooperation with the court, though..."]
+      },
+      {
+        "title": "The Magic or Myth of Expertise: A Comparison of Judgment Processes between Forensic Experts and Lay Persons Based on Psychiatric Case Vignettes",
+        "tags": ["Article"],
+        "date": "Nov 2012",
+        "authors": ["Pål Grøndahl", "Cato Grønnerød", "Joseph Sexton"],
+        "abstract": ["As a continuation of a previous study (Grondahl, Gronnerod, & Sexton, 2009), we examined how 120 laypersons and 35 forensic experts (14 psychiatrists and 21 psychologists) differed in their judgment processes of forensic case vignettes. The vignettes contained descriptions of three components, namely social history, psychiatric history and criminal..."]
+      },
+      {
+        "title": "En tipunktsplan for bedre rettspsykiatri",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2012",
+        "authors": ["Pål Grøndahl", "Cato Grønnerød", "Ulf Stridbeck", "Harald Brauer"],
+        "abstract": ["Rettsforhandlingene etter terroren 22. juli er avsluttet og Norsk rettspsykiatri er gjenstand for debatt som aldri før. I denne debatten savner vi en prinsipiell drøfting av strafferettslig rettspsykiatri og dagens utilregnelighetsregler. Vi foreslår her ti konkrete tiltak til forbedring av rettspsykiatrisk virksomhet. Men gratis blir det ikke."]
+      },
+      {
+        "title": "Under Skinner's Skin: Gauging a Behaviorist From His Rorschach Protocol",
+        "tags": ["Article"],
+        "date": "Jun 2012",
+        "authors": ["Cato Grønnerød", "Geir Overskeid", "Ellen Hartmann"],
+        "abstract": ["Behaviorism and psychodynamic psychology have been regarded as polar opposites. Contrary to popular belief, B. F. Skinner took an interest in Freud and many of his concepts, and agreed to be tested with the Rorschach method and the Thematic Apperception Test by Roe in her study of scientists (Roe, 195326.\n\nRoe , A. 1953. The making of a scientist,..."]
+      },
+      {
+        "title": "The Wartegg Zeichen Test: A Literature Overview and a Meta-Analysis of Reliability and Validity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2011",
+        "authors": ["Jarna Soilevuo Grønnerød", "Cato Grønnerød"],
+        "abstract": ["All available studies on the Wartegg Zeichen Test (WZT; Wartegg, 1939) were collected and evaluated through a literature overview and a meta-analysis. The literature overview shows that the history of the WZT reflects the geographical and language-based processes of marginalization where relatively isolated traditions have lived and vanished in dif..."]
+      },
+      {
+        "title": "The Personality of a Nonperson Gauging the Inner Skinner",
+        "tags": ["Article"],
+        "date": "Mar 2012",
+        "authors": ["Geir Overskeid", "Cato Grønnerød", "Dean Keith Simonton"],
+        "abstract": ["B. F. Skinner is consistently rated as one of the most important figures in the history of psychology. Much has been said about his character, some of it strongly negative. Yet little is known about what kind of man he really was. Drawing on information from published sources, archival material, and people who knew him, we used \"blind\" raters to as..."]
+      },
+      {
+        "title": "P. Grøndahl og medarbeidere svarer:",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Pål Grøndahl", "Cato Grønnerød", "Ulf Stridbeck", "Harald Brauer"],
+        "abstract": []
+      },
+      {
+        "title": "Moving Rorschach Scoring Forward: The RN-Rorschach Scoring System as an Exemplar of Simplified Scoring",
+        "tags": ["Article"],
+        "date": "Jan 2010",
+        "authors": ["Cato Grønnerød", "Ellen Hartmann"],
+        "abstract": ["A new scoring system called RN-Rorschach was developed in Norway to provide a simple system focusing on clinical usefulness, with acceptable psychometric properties and with a high level of compatibility with the Comprehensive System (CS). The Rorschach method is a demanding method, and the CS may be too complex for learning the basic aspects of th..."]
+      },
+      {
+        "title": "A Comparative Case Vignette Study of Decision Making in Forensic Psychiatric Cases",
+        "tags": ["Article"],
+        "date": "Dec 2009",
+        "authors": ["Pål Grøndahl", "Cato Grønnerød", "Joseph Sexton"],
+        "abstract": ["We tested whether the judgment of forensic psychiatric experts differed from that of laypersons. We constructed 18 case vignettes that were rated by 21 psychologists, 14 psychiatrists, and 126 laypeople on the following variables: Insanity by Legal Terms, Risk of Repeated Offense, and Need of Treatment. We found significant differences among laypeo..."]
+      },
+      {
+        "title": "Are large drawings signs of psychological expansion or effects of drawing skills? A critical evaluation of Wartegg drawing size categories in a Finnish sample",
+        "tags": ["Article"],
+        "date": "Jun 2009",
+        "authors": ["Jarna Soilevuo Grønnerød", "Cato Grønnerød"],
+        "abstract": ["Soilevuo Grønnerød, J. & Grønnerød, C. (2010). Are large drawings signs of psychological expansion or effects of drawing skills? A critical evaluation of Wartegg drawing size categories in a Finnish sample. Scandinavian Journal of Psychology, 51, 63–67.\nIn the Wartegg Drawing Completion Test, drawings which are larger than the norm size are interpr..."]
+      },
+      {
+        "title": "Rorschach Variables and Big Five Scales as Predictors of Military Training Completion: A Replication Study of the Selection of Candidates to the Naval Special Forces in Norway",
+        "tags": ["Article"],
+        "date": "May 2009",
+        "authors": ["Ellen Hartmann", "Cato Grønnerød"],
+        "abstract": ["We tested 140 male candidates at the Naval Special Forces (NFS) of Norway on the Rorschach (Exner, 200322.\n\nExner , J. E. Jr. 2003. The Rorschach: A Comprehensive System: Vol. 1. Basic foundations and principles of interpretation, , 4th ed., New York: Wiley. View all references; Rorschach, 1921/1942) and the Norwegian version of the Big Five person..."]
+      },
+      {
+        "title": "Psychopathic and Nonpsychopathic Violent Offenders on the Rorschach: Discriminative Features and Comparisons With Schizophrenic Inpatient and University Student Samples",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2006",
+        "authors": ["Ellen Hartmann", "Peder Chr Bryhn Nørbech", "Cato Grønnerød"],
+        "abstract": ["We examined discriminant and convergent validity of theoretically relevant Rorschach Comprehensive System (CS) variables (Exner, 2003) and Meloy and Gacono's (1992) aggression variables in distinguishing between imprisoned violent offenders (VO) who were psychopathic (P-VO) and nonpsychopathic (NP-VO) under psychiatric treatment, schizophrenic inpa..."]
+      },
+      {
+        "title": "Reanalysis of the Gronnerod (2003) Rorschach Temporal Stability Meta-Analysis Data Set",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2006",
+        "authors": ["Cato Grønnerød"],
+        "abstract": ["I reanalyzed the Grønnerød (2003) Rorschach temporal stability meta-analysis data with a theoretically driven hierarchical regression analysis. I also examined the intrarater reliability of initial coding decisions and verified their consistency. In the new regression analyses, retest period strengthened its influence on stability, whereas methodol..."]
+      },
+      {
+        "title": "Rorschach Assessment of Changes Following Psychotherapy: A Meta-Analytic Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2005",
+        "authors": ["Cato Grønnerød"],
+        "abstract": ["I examined Rorschach assessment of personality changes following psychotherapy. I conducted a comprehensive literature search to find all studies using the Rorschach method at least twice for the same participant in connection with psychotherapy. I conducted meta-analyses for 38 samples, and I performed regression analyses to identify moderating fa..."]
+      },
+      {
+        "title": "Temporal Stability in the Rorschach Method : A Meta-Analytic Review",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2003",
+        "authors": ["Cato Grønnerød"],
+        "abstract": ["The temporal stabilities of the Rorschach method scoring systems were investigated. A comprehensive literature search was conducted to find all test-retest studies, both regular and from control samples in therapy evaluation studies. Meta-analyses were conducted for samples, individual entries, and variables in 36 samples. Separate analyses were ma..."]
+      },
+      {
+        "title": "Innføring i Rorschach-metodikk",
+        "tags": ["Book"],
+        "date": "Jan 2003",
+        "authors": ["Ellen Hartmann", "Cato Grønnerød", "Dag Krog", "Geir Høstmark Nielsen"],
+        "abstract": []
+      },
+      {
+        "title": "Rorschach interrater agreement estimates: An empirical evaluation",
+        "tags": ["Article"],
+        "date": "Jun 2002",
+        "authors": ["Cato Grønnerød"],
+        "abstract": ["A standardized estimation of Rorschach interrater agreement is needed. Percentage agreement, although widely used, is found to be unsuitable. Forty-one protocols from adults in both a normal and a psychiatric sample were scored by two or three scorers, making 85 scoring pairs. Percentage agreement, correlations (phi and Pearson’s r), and kappa were..."]
+      },
+      {
+        "title": "Rorschach-metoden - en kvantitativ og kvalitativ metode",
+        "tags": ["Article"],
+        "date": "Jul 1999",
+        "authors": ["Cato Grønnerød"],
+        "abstract": ["In Norwegian: A layout of quantitative and qualitative aspects of the Rorschach method"]
+      }
+    ],
+    "degree": ["Dr.", "psychol."],
+    "publications": [31],
+    "reads": [8033],
+    "citations": [390]
   }
 }

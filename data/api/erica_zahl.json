@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-8500-913X",
-    "name": "Erica Zahl",
+    "orcid": ["0000-0002-8500-913X"],
+    "name": ["Erica Zahl"],
     "distinctions": [],
     "education": [
       {
@@ -32,8 +32,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Erica Zahl",
-    "id": "951573",
+    "name": ["Erica Zahl"],
+    "id": ["951573"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -47,17 +47,27 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Youth and clinician evaluation of emotional communication in short-term counseling groups",
         "journal": "Group Dynamics",
-        "url": "https://api.cristin.no/v2/results/1912563"
+        "url": "https://api.cristin.no/v2/results/1912563",
+        "title": "Youth and clinician evaluation of emotional communication in short-term counseling groups"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Emotional communication in support groups for siblings of children with disabilities",
         "journal": "Patient Education and Counseling",
-        "url": "https://api.cristin.no/v2/results/1510696"
+        "url": "https://api.cristin.no/v2/results/1510696",
+        "title": "Emotional communication in support groups for siblings of children with disabilities"
       }
     ]
+  },
+  "rg": {
+    "id": "Pem-Erica-2",
+    "name": "Pem Erica",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "YALI, Communication",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Harald Engvik",
-    "id": "23566",
+    "name": ["Harald Engvik"],
+    "id": ["23566"],
     "keywords": ["Method", "Labour", "Working life", "Depression", "Intelligence", "Psychometrics", "Psychology of Profession", "Working life research", "Personality Psychology"],
     "position": ["Emeritus"],
     "img": {},
@@ -17,9 +17,9 @@
       {
         "type": "Academic literature review",
         "year": "2010",
-        "title": "Effects of Personality on Pair Programming",
         "journal": "IEEE Transactions on Software Engineering",
-        "url": "https://api.cristin.no/v2/results/500444"
+        "url": "https://api.cristin.no/v2/results/500444",
+        "title": "Effects of Personality on Pair Programming"
       },
       {
         "type": "Academic article",
@@ -30,35 +30,35 @@
       {
         "type": "Academic article",
         "year": "2005",
-        "title": "Physical and emotional aspects of self-reported health status: a two-factor model of the short-form Breathing Problems Questionaire",
         "journal": "Chronic Respiratory Disease",
-        "url": "https://api.cristin.no/v2/results/395354"
+        "url": "https://api.cristin.no/v2/results/395354",
+        "title": "Physical and emotional aspects of self-reported health status: a two-factor model of the short-form Breathing Problems Questionaire"
       },
       {
         "type": "Academic lecture",
         "year": "2005",
-        "title": "Low HbA1c during 18 years' Intensified Insulin Treatment is Associated with High Treatment Satisfaction",
-        "url": "https://api.cristin.no/v2/results/200901"
+        "url": "https://api.cristin.no/v2/results/200901",
+        "title": "Low HbA1c during 18 years' Intensified Insulin Treatment is Associated with High Treatment Satisfaction"
       },
       {
         "type": "Academic article",
         "year": "2004",
-        "title": "Concurrent validity of the Personality and Preference Inventory (PAPI) with the Five Factor Model of Personality",
         "journal": "Scandinavian Journal of Organizational Psychology",
-        "url": "https://api.cristin.no/v2/results/427352"
+        "url": "https://api.cristin.no/v2/results/427352",
+        "title": "Concurrent validity of the Personality and Preference Inventory (PAPI) with the Five Factor Model of Personality"
       },
       {
         "type": "Poster",
         "year": "2001",
-        "title": "Psychometric properties of a Norwegian research version of \"Wechsler Abbreviated Scale of Intelligence\" (WASI)",
-        "url": "https://api.cristin.no/v2/results/118269"
+        "url": "https://api.cristin.no/v2/results/118269",
+        "title": "Psychometric properties of a Norwegian research version of \"Wechsler Abbreviated Scale of Intelligence\" (WASI)"
       },
       {
         "type": "Academic article",
         "year": "2000",
-        "title": "The Nonverbal Assessment of Personality in Five Cultures",
         "journal": "Journal of Cross-Cultural Psychology",
-        "url": "https://api.cristin.no/v2/results/444971"
+        "url": "https://api.cristin.no/v2/results/444971",
+        "title": "The Nonverbal Assessment of Personality in Five Cultures"
       },
       {
         "type": "Interview",
@@ -80,9 +80,9 @@
       {
         "type": "Academic article",
         "year": "1999",
-        "title": "Therapeutic popularity and personality: Association between peer therapist nominations and the \"Big Five\" personality factors",
         "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/446634"
+        "url": "https://api.cristin.no/v2/results/446634",
+        "title": "Therapeutic popularity and personality: Association between peer therapist nominations and the \"Big Five\" personality factors"
       },
       {
         "type": "Academic article",
@@ -110,9 +110,9 @@
       {
         "type": "Academic article",
         "year": "1995",
-        "title": "The validity of aphasic subtypes",
         "journal": "Scandinavian Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/450459"
+        "url": "https://api.cristin.no/v2/results/450459",
+        "title": "The validity of aphasic subtypes"
       },
       {
         "type": "Academic article",
@@ -132,5 +132,145 @@
         "url": "https://api.cristin.no/v2/results/450461"
       }
     ]
+  },
+  "rg": {
+    "id": "Harald-Engvik",
+    "name": "Harald Engvik",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Behavioral Economics", "Behavioural Economics", "Self-Report", "Psychometrics"],
+    "works": [
+      {
+        "title": "Norsk kortversjon av big five inventory (BFI-20)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Harald Engvik", "S.E. Clausen"],
+        "abstract": ["https://psykologtidsskriftet.no/oppsummert/2011/09/norsk-kortversjon-av-big-five-inventory-bfi-20"]
+      },
+      {
+        "title": "The Effects of Personality on Pair Programming",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2010",
+        "authors": ["Jo Erskine Hannay", "Erik Arisholm", "Harald Engvik", "Dag I. K. Sjøberg"],
+        "abstract": ["Personality tests in various guises are commonly used in recruitment and career counseling industries. Such tests have also been considered as instruments for predicting the job performance of software professionals both individually and in teams. However, research suggests that other human-related factors such as motivation, general mental ability..."]
+      },
+      {
+        "title": "Therapeutic popularity and personality: Association between peer therapist nominations and the “Big Five” personality factors",
+        "tags": ["Article"],
+        "date": "Oct 2008",
+        "authors": ["Harald Engvik"],
+        "abstract": ["The “Big Five” personality factors of three groups of psychology students differing in popularity as therapist among their peers were compared (n=33). In agreement with earlier research, popular therapists are “agreeable”, “conscientious” and “stable”. However, popular therapists are not “surgent/extravert” and especially not “dominant” and “talkat..."]
+      },
+      {
+        "title": "Temporal brightness and darkness enhancement; further evidence for asymmetry",
+        "tags": ["Article"],
+        "date": "May 2008",
+        "authors": ["ALF GLAD SVEIN", "Harald Engvik"],
+        "abstract": ["— Previous studies by the authors on brightness and darkness enhancement during flicker indicate a sizeable and consistent difference in magnitude between the two effects, as defined in terms of log matching luminance. To explore whether this difference is an artifact of the logluminance representation of the perceptual effects, a psychophysical sc..."]
+      },
+      {
+        "title": "Improvements in exercise capacity during a 4-week pulmonary rehabilitation program for COPD patients do not correspond with improvements in self-reported health status or quality of life",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2007",
+        "authors": ["Einar Haave", "Michael E. Hyland", "Harald Engvik"],
+        "abstract": ["Ninety-two patients with moderate or severe chronic obstructive pulmonary disease (COPD) were assessed for walking tolerance, lung function, perceived health status (HS), perceived quality of life (QoL) and anxiety before and after a four weeks inpatient pulmonary rehabilitation (PR) program. There were significant improvements on all outcomes exce..."]
+      },
+      {
+        "title": "Rater Reliability in Evaluation of Essay and Oral Examinations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2006",
+        "authors": ["Harald Engvik", "Steinar Kvale", "Odd E Havik"],
+        "abstract": ["Reports an investigation of the rater reliability for evaluating essay and oral examinations. 180 students at the psychological institute in oslo revealed significant differences in arithmetic mean both among and within the examination committee of 3. Reliability coefficients ranged from -.16 to +.90 within the committee when rating the same essay..."]
+      },
+      {
+        "title": "Physical and emotional aspects of self-reported health status: a two-factor model of the short-form Breathing Problems Questionnaire",
+        "tags": ["Article"],
+        "date": "Feb 2005",
+        "authors": ["E Haave", "Michael E. Hyland", "Harald Engvik"],
+        "abstract": ["The short version of the Breathing Problems Questionnaire (BPQ) is used as an outcome tool in pulmonary assessment. The aim of the study was to establish the validity of scoring BPQ with two subscales, reflecting emotional and physical components of health-related quality of life (HRQoL). Two subscales were suggested by exploratory factor analysis..."]
+      },
+      {
+        "title": "The Big Five Inventory på norsk",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2005",
+        "authors": ["Harald Engvik", "Hallvard Føllesdal"],
+        "abstract": []
+      },
+      {
+        "title": "Personality structure in patients with winter depression, assessed in a depression-free state according to the five-factor model of personality",
+        "tags": ["Article"],
+        "date": "Mar 2001",
+        "authors": ["Odd Lingjærde", "Anne Regine Føreland", "Harald Engvik"],
+        "abstract": ["Depressive disorders are often associated with abnormalities of personality. This has also been found in Seasonal Affective Disorder, Winter Depression type (W-SAD), although relatively few and small studies have been done on this disorder so far, and mainly in the depressed phase. The aim of this study was to explore the personality structure and..."]
+      },
+      {
+        "title": "Psychometric properties of a Norwegian research version of the Wechsler Abbreviated Scale of Intelligence (WASI)",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2001",
+        "authors": ["Line M. Brager-Larsen", "Kjetil Sundet", "Harald Engvik", "Ragnhild Bang Nes"],
+        "abstract": []
+      },
+      {
+        "title": "The Nonverbal Assessment of Personality in Five Cultures",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2000",
+        "authors": ["Sampo V. Paunonen", "Moshe Zeidner", "Harald Engvik", "Rodney Maliphant"],
+        "abstract": ["The Nonverbal Personality Questionnaire, a structured nonverbal measure of Murray’s needs, and the Personality Research Form, a standard verbal measure of the same traits, were administered to respondents in five countries: Canada, England, the Netherlands, Norway, and Israel. Analysis of the nonverbal scales showed generally good levels of interna..."]
+      },
+      {
+        "title": "Personality and measurement problems: A comment to Boyle and Smari",
+        "tags": ["Article"],
+        "date": "Mar 1998",
+        "authors": ["Harald Engvik"],
+        "abstract": ["That psychometric measurement of personality is difficult and problematic is no surprise. Boyle and Smari's possesive (1997) presentation and discussion of the problems leaves the impression that the difficulties are caused mainly by the extensive use of subjective self-report inventories (Q-data), and that many of the problems can be resolved thro..."]
+      },
+      {
+        "title": "Personlighet og målingsproblemer: En kommentar til Boyle og Smári",
+        "tags": ["Article"],
+        "date": "Mar 1998",
+        "authors": ["Harald Engvik"],
+        "abstract": []
+      },
+      {
+        "title": "Construction and validation of an anorexia nervosa subscale on the MMPI-1.",
+        "tags": ["Article"],
+        "date": "Jan 1998",
+        "authors": ["Jan Harald Rosenvinge", "Harald Engvik"],
+        "abstract": []
+      },
+      {
+        "title": "Construction and validation of an anorexia nervosa scale on the MMPI",
+        "tags": ["Article"],
+        "date": "Oct 1997",
+        "authors": ["Jan Harald Rosenvinge", "Harald Engvik"],
+        "abstract": ["The article describes the construction and validation of an anorexia nervosa subscale (ANOR) on the Minnesota Multiphasic Personality Inventory (MMPI). The female subjects included 42 anorexic patients, 56 normal controls and 56 patient controls. Using an empirical discrimination procedure, 60 items contribute to the total homogeneity of the scale..."]
+      },
+      {
+        "title": "The validity of aphasic subtypes",
+        "tags": ["Article"],
+        "date": "Mar 1985",
+        "authors": ["Kjetil Sundet", "Harald Engvik"],
+        "abstract": ["The validity of aphasic subtypes derived by the Norwegian Basic Aphasia Assessment, NBAA, is discussed. 193 aphasic patients were reclassified according to the criteria of classification used by the Western Aphasia Battery. 85% agreement was established with mixed cases held apart, Wernicke's and Counduction aphasia being the least stable groups. C..."]
+      },
+      {
+        "title": "Psykologprofesjonen i Norge ved inngangen til 1980-årene.",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Jan 1984",
+        "authors": ["Reidar Ommundsen", "Harald Engvik", "Jan Petter Myklebust"],
+        "abstract": []
+      },
+      {
+        "title": "Diagnosing the organization: The psychogram.",
+        "tags": ["Article", "Full-text available"],
+        "date": "",
+        "authors": ["Paul Moxnes", "Harald Engvik"],
+        "abstract": ["21 psychologist members of a sensitivity trainer organization evaluated each other according to 20 bipolar adjectives. From a resulting factor analysis came 2 distinct dimensions, interpreted as the \"love\" and the \"will.\" Scores for all members were plotted within a derived coordinate system, with the aid of a computer program. The emerging \"psycho..."]
+      }
+    ],
+    "degree": [null],
+    "bio": [],
+    "publications": [18],
+    "reads": [8709],
+    "citations": [343]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-9770-8360",
-    "name": "Jonas Kransberg",
+    "orcid": ["0000-0001-9770-8360"],
+    "name": ["Jonas Kransberg"],
     "distinctions": [],
     "education": [
       {
@@ -25,11 +25,53 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Jonas Kransberg",
-    "id": "1178426",
+    "name": ["Jonas Kransberg"],
+    "id": ["1178426"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Jonas-Kransberg-2",
+    "name": "Jonas Kransberg",
+    "img": "https://i1.rgstatic.net/ii/profile.image/428688245301252-1479218650604_Q128/Jonas-Kransberg-2.jpg",
+    "affiliation": "University of Southampton, Department of Psychology",
+    "keywords": ["SPSS", "Quantitative Research", "Data Analysis", "Quantitative Data Analysis", "Research Methodology"],
+    "works": [
+      {
+        "title": "Accelerated brain change in healthy adults is associated with genetic risk for Alzheimer's disease and uncovers adult lifespan memory decline",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["James Michael Roe", "Didac Vidal-Piñeiro", "Øystein Sørensen", "Yunpeng Wang"],
+        "abstract": "Across healthy adult life our brains undergo gradual structural change in a pattern of atrophy that resembles accelerated brain changes in Alzheimer's disease (AD). Here, using four polygenic risk scores for AD (PRS-AD) in a longitudinal adult lifespan sample aged 30 to 89 years (2-7 timepoints), we show that healthy individuals who lose brain volu..."
+      },
+      {
+        "title": "Back to the future: omnipresence of fetal influence on the human brain through the lifespan",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": "Human fetal development has been associated with brain health at later stages. It is unknown whether growth in utero, as indexed by birth weight (BW), relates consistently to lifespan brain characteristics and changes, and to what extent these influences are of a genetic or environmental nature. Here we show remarkably stable and life-long positive..."
+      },
+      {
+        "title": "Back to the future: omnipresence of fetal influence on the human brain through the lifespan",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": "Human fetal development has been associated with brain health at later stages. It is unknown whether growth in utero, as indexed by birth weight (BW), relates consistently to lifespan brain characteristics and changes, and to what extent these influences are of a genetic or environmental nature. Here we show remarkably stable and life-long positive..."
+      },
+      {
+        "title": "Prenatal development has stable and consistent effects on the human brain throughout the lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Kristine Beate Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": "Human fetal development has been associated with brain health at later stages. It is unknown whether and how consistently growth in utero, as indexed by birth weight (BW), relates to lifespan brain characteristics and changes, and to what extent these influences are of a genetic and/or environmental nature. We hypothesized that associations of BW a..."
+      }
+    ],
+    "degree": ["Master", "of", "Science"],
+    "bio": "Msc Foundations in Clinical Psychology at the University of Southampton\n\nPart-time employee of the district psychiatric centre of Drammen, Norway.",
+    "publications": [4],
+    "reads": [286],
+    "citation": [1]
   }
 }

@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Sverre Urnes Johnson",
-    "id": "Mve6RcMAAAAJ",
-    "affiliation": "University of Oslo & Modum Bad",
+    "name": ["Sverre Urnes Johnson"],
+    "id": ["Mve6RcMAAAAJ"],
+    "affiliation": ["University of Oslo & Modum Bad"],
     "data": {
       "publications": [
         {
@@ -802,8 +802,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0001-7190-4187",
-    "name": "Sverre Urnes Johnson",
+    "orcid": ["0000-0001-7190-4187"],
+    "name": ["Sverre Urnes Johnson"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -814,8 +814,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Sverre Urnes Johnson",
-    "id": "474369",
+    "name": ["Sverre Urnes Johnson"],
+    "id": ["474369"],
     "keywords": [],
     "position": ["Professor", "Guest", "Research Scientist"],
     "img": {},
@@ -1414,5 +1414,698 @@
         "url": "https://api.cristin.no/v2/results/1024208"
       }
     ]
+  },
+  "rg": {
+    "id": "Sverre-Johnson",
+    "name": "Sverre Urnes Johnson",
+    "img": "https://i1.rgstatic.net/ii/profile.image/499638450626561-1496134497412_Q128/Sverre-Johnson.jpg",
+    "affiliation": "University of Oslo  Modum Bad, Department of Psychology",
+    "keywords": ["Mental Illness", "Psychotherapeutic Processes", "Treatment", "Comorbidity", "Psychopathology", "Psychotherapy"],
+    "works": [
+      {
+        "title": "Use of substances to cope predicts posttraumatic stress disorder symptom persistence: Investigating patterns of interactions between symptoms and its maintaining mechanisms",
+        "tags": ["Article"],
+        "date": "Dec 2023",
+        "authors": ["René Freichel", "Nora Skjerdingstad", "Alessandra Chiara Mansueto", "Omid V. Ebrahimi"],
+        "abstract": ["Objective: Posttraumatic stress disorder (PTSD) remains a growing public health challenge across the globe and is associated with negative and persistent long-term consequences. The last decades of research have identified different mechanisms associated with the development and persistence of PTSD, including maladaptive coping strategies, cognitiv..."]
+      },
+      {
+        "title": "Metakognitiv terapi",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2023",
+        "authors": ["Henrik Nordahl", "Odin Hjemdal", "Sverre Urnes Johnson", "Hans M Nordahl"],
+        "abstract": ["Metacognitive therapy (MCT) was developed by Adrian Wells and is founded on the self-regulatory executive function (S-REF) model, often referred to as the metacognitive model of psychological disorder. The metacognitive model assumes that symptoms of psychological disorder will naturally subside through a process of reflexive self-regulation. Howev..."]
+      },
+      {
+        "title": "Breaking the cycle: Identifying key symptom pathways of eating disorders and the influence of childhood maltreatment",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Maren C. G. Kopland", "Karianne R Vrabel", "Margarita Slof‐Op ‘t Landt", "Erik Giltay"],
+        "abstract": ["Background\nMost network analyses on central symptoms in eating disorders (EDs) have been cross‐sectional. Longitudinal within‐person analyses of therapy processes are scarce. Our aim was to investigate central change processes in therapy in a transdiagnostic sample, considering the influence of childhood maltreatment.\n\nMethod\nWe employed dynamic ti..."]
+      },
+      {
+        "title": "Jeugdtrauma als voorspeller van verandering tijdens partnerrelatie- en gezinstherapie: een onderzoek naar behandelrespons",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Kristoffer Whittaker", "Sverre Urnes Johnson", "Ole André Solbakken", "Terje Tilden"],
+        "abstract": []
+      },
+      {
+        "title": "The Dynamic Relationship Between Well-Being and Related Processes During the COVID-19 Pandemic: A Large-Scale Intensive Longitudinal Network Study of the General Adult Population",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["Sara Ebling", "Sverre Urnes Johnson", "Asle Hoffart", "Omid V. Ebrahimi"],
+        "abstract": ["The behavioral restrictions and changes disrupting daily life related to the COVID-19 pandemic were theorized to affect well-being. To understand how processes related to fluctuation in well-being unfold within individuals, analyses on the within-person level are required. In this preregistered intensive longitudinal study, 1709 individuals from th..."]
+      },
+      {
+        "title": "Depressive Symptoms and Their Mechanisms: An Investigation of Long-Term Patterns of Interaction Through a Panel-Network Approach",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Asle Hoffart", "Nora Skjerdingstad", "René Freichel", "Omid V. Ebrahimi"],
+        "abstract": ["The dynamic interaction between depressive symptoms, mechanisms proposed in the metacognitive-therapy model, and loneliness across a 9-month period was investigated. Four data waves 2 months apart were delivered by a representative population sample of 4,361 participants during the COVID-19 pandemic in Norway. Networks were estimated using the newl..."]
+      },
+      {
+        "title": "Metacognitive therapy for generalized anxiety disorders in group: A case study",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Ane T. Hammersmark", "Odin Hjemdal", "Marit Hannisdal", "Sverre Urnes Johnson"],
+        "abstract": ["Objectives\nIn Metacognitive therapy (MCT), homework is used, for example, to increase awareness of thoughts and thought processes, to challenge metacognitive beliefs in real‐life situations, and to practice new ways of processing thoughts, feelings, and symptoms. All MCT treatment manuals include homework assignments to be given between each sessio..."]
+      },
+      {
+        "title": "Kognitiv atferdsterapi for spiseforstyrrelser",
+        "tags": ["Article"],
+        "date": "Nov 2023",
+        "authors": ["Lisbeth Yang", "Karianne R Vrabel", "Øyvind Rø", "Sverre Urnes Johnson"],
+        "abstract": ["Background: Few studies have evaluated the effectiveness of enhanced cognitive behaviour therapy (CBT-E) in clinical settings with a transdiagnostic patient population. The current study aimed to evaluate the effectiveness of CBT-E in a specialised outpatient eating disorder clinic in southeastern Norway. Method: The study involved a transdiagnosti..."]
+      },
+      {
+        "title": "COVID-19 illness severity and 2-year prevalence of physical symptoms: an observational study in Iceland, Sweden, Norway and Denmark",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Qing Shen", "Emily E. Joyce", "Omid V. Ebrahimi", "Unnur Valdimarsdóttir"],
+        "abstract": ["Background:\nAlthough the persistence of physical symptoms after SARS-CoV-2 infection is a major public health concern, evidence from large observational studies beyond one year post diagnosis remain scarce. We aimed to assess the prevalence of physical symptoms in relation to acute illness severity up to more than 2-years after diagnosis of COVID-1..."]
+      },
+      {
+        "title": "Editorial: Progress in Understanding and Treating Distress, Sleep, and Personality in Heart and Lung Disease",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["John Munkhaugen", "Costas Papageorgiou", "Roger Hagen", "Toril Dammen"],
+        "abstract": []
+      },
+      {
+        "title": "Triggered by Worry: A Dynamic Network Analysis of COVID-19 Pandemic-Related Anxiety and Parental Stress",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["Miriam S. Johnson", "Nora Skjerdingstad", "Omid V. Ebrahimi", "Sverre Urnes Johnson"],
+        "abstract": ["Abstract \nBackground: Major disruptions to daily life routines made families and parents particularly vulnerable to psychological distress during the COVID-19 lockdowns. However, the specific psychopathological processes related to within-person variation and maintenance of anxiety symptomatology and parental distress components in the parental pop..."]
+      },
+      {
+        "title": "Supplementary materials for \"Elevated symptoms of depression and anxiety among family members and friends of critically ill COVID-19 patients - an observational study of five cohorts across four countries\" Lovik A et al_LancetRHE 2023",
+        "tags": ["Data"],
+        "date": "Sep 2023",
+        "authors": ["Anikó Lovik", "Juan González Hijon", "Asle Hoffart", "Fang Fang"],
+        "abstract": ["More detailed descriptives for each participating cohort and sensitivity analyses - all materials are referenced within the main text"]
+      },
+      {
+        "title": "Elevated symptoms of depression and anxiety among family members and friends of critically ill COVID-19 patients - an observational study of five cohorts across four countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["Anikó Lovik", "Juan González Hijon", "Asle Hoffart", "Fang Fang"],
+        "abstract": ["Background. Little is known regarding the mental health impact of having a significant person (family member and/or close friend) with COVID-19 of different severity.\nMethods. The study included five prospective cohorts from four countries (Iceland, Norway, Sweden, and the UK) with self-reported data on COVID-19 and symptoms of depression and anxie..."]
+      },
+      {
+        "title": "Depressive response patterns during the COVID-19 pandemic from its onset to proclaimed termination: A 24-month representative observational study of the adult population",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["Omid V. Ebrahimi", "René Freichel", "Sverre Urnes Johnson", "Daniel John Bauer"],
+        "abstract": ["Despite the presence of individual differences in the depressive response patterns of adults during the COVID-19 pandemic, most studies have investigated overall population-level changes in depressive symptoms during the first year of the pandemic. This longitudinal repeated-measurement observational study obtained 39,259 observations from 4,361 ad..."]
+      },
+      {
+        "title": "The Acceptability and Compliance of Ambulatory Assessment: A Large-Scale Investigation on 2792 Individuals",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Xinkai Du", "Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Psychological processes are dynamical in nature and display strong individual differences. Yet, studies based on cross-sectional data only reveal group-level effects and lack the ability to capture the dynamic properties of human psychology. The investigation of psychological dynamics and heterogeneity requires the modeling of within-person process..."]
+      },
+      {
+        "title": "COVID-19 illness severity and 2-year prevalence of physical symptoms: an observational study in Iceland, Sweden, Norway and Denmark",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2023",
+        "authors": ["Qing Shen", "Emily E. Joyce", "Omid V. Ebrahimi", "Unnur Valdimarsdóttir"],
+        "abstract": ["Background. \nPersistence of physical symptoms after SARS-CoV-2 infection is a major public health concern, although evidence from large observational studies remain scarce. We aimed to assess the prevalence of physical symptoms in relation to acute illness severity up to more than 2-years after diagnosis of COVID-19.\nMethods. \nThis multinational st..."]
+      },
+      {
+        "title": "The mental health of staff working in UK prisons during the Covid-19 pandemic",
+        "tags": ["Article"],
+        "date": "Apr 2023",
+        "authors": ["Amina Memon", "Ashley Hunt", "Ellamay Thelwall", "Sverre Urnes Johnson"],
+        "abstract": ["This article presents the results of an opportunistic, cross-sectional, self-report survey of the well-being of staff working in prisons throughout the UK. The survey was completed by 594 participants in the early part of 2021 at the height of the Covid-19 pandemic. Self-report measures indicated concerning levels of burnout and 43.4% of participan..."]
+      },
+      {
+        "title": "Elevated symptoms of depression and anxiety among family members and friends of critically ill COVID-19 patients - An observational study of five cohorts across four countries",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Anikó Lovik", "Juan González Hijon", "Asle Hoffart", "Fang Fang"],
+        "abstract": ["Background\nLittle is known regarding the mental health impact of having a significant person (family member and/or close friend) with COVID-19 of different severity.\n\nMethods\nThe study included five prospective cohorts from four countries (Iceland, Norway, Sweden, and the UK) with self-reported data on COVID-19 and symptoms of depression and anxiet..."]
+      },
+      {
+        "title": "Anxiety and depressive symptoms among migrants during the COVID-19 pandemic in Norway: A two-wave longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Karianne R Vrabel", "Sverre Urnes Johnson", "Omid V. Ebrahimi", "Asle Hoffart"],
+        "abstract": ["This study was designed to examine the impact of the COVID-19 pandemic on the mental health of migrants living in Norway. We conducted a longitudinal two-wave survey among a sample of 574 migrants and multilevel modelling was used to analyse general anxiety, health anxiety and depressive symptoms. Demographic and psychological predictors were inves..."]
+      },
+      {
+        "title": "Fear of Giving Birth Alone: Experiences of Psychological Distress, Symptoms of Anxiety and Depression, and Coping- strategies of Childbearing Women During COVID-19",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Miriam S. Johnson", "Nora Skjerdingstad", "Omid V. Ebrahimi", "Sverre Urnes Johnson"],
+        "abstract": ["Background: Psychological distress experienced during pregnancy is a well-documented risk factor for adverse maternal outcomes. Pandemic-related distress may exacerbate vulnerability to negative mental health outcomes for pregnant women. Aim: To investigate pregnant women's subjective experiences of mental health outcomes, pandemic-related challeng..."]
+      },
+      {
+        "title": "Depressive Symptoms and Their Mechanisms: An Investigation of Long-term Patterns of Interaction Through a Panel Network Approach",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Asle Hoffart", "Nora Skjerdingstad", "René Freichel", "Omid V. Ebrahimi"],
+        "abstract": ["Within-person network dynamics on a monthly or yearly level have been difficult to study due to the lack of suitable analytic methods. In this study, a new method for estimating networks from panel data was used to investigate how symptoms of depression, mechanisms proposed in the meta-cognitive therapy (MCT) model, and loneliness interact across a..."]
+      },
+      {
+        "title": "Self-compassion in eating disorders and childhood trauma: A study of within-person effects in a randomized controlled trial",
+        "tags": ["Article"],
+        "date": "Jan 2023",
+        "authors": ["Maren C G Kopland", "Karianne R Vrabel", "Linne Melsom", "Sverre Urnes Johnson"],
+        "abstract": ["Background: \nPatients with eating disorders and childhood trauma have clinical presentations that make them less suitable for standard eating disorder treatment. This might be due to high levels of shame and self-criticism. Self-compassion can be a mechanism of change, especially for patients with eating disorders and childhood trauma.\n\nMethod: \nA..."]
+      },
+      {
+        "title": "De therapeutische alliantie als voorspeller van vooruitgang in relatietherapie",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Terje Tilden", "Sverre Urnes Johnson", "Asle Hoffart", "Åshild Tellefsen Håland"],
+        "abstract": ["De therapeutische alliantie of werkrelatie heeft in de psychotherapie de status ‘gemeenschappelijke factor’ gekregen, vanwege het robuuste verband met de uitkomst van behandelingen. De opdracht voor ons werkveld is nu om een genuanceerder beeld te krijgen van de invloed van de alliantie op de mate waarin tijdens de therapie vooruitgang wordt geboek..."]
+      },
+      {
+        "title": "Use of substances to cope predicts PTSD symptom persistence: Investigating patterns of interactions between complex PTSD symptoms and its maintaining mechanisms",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["René Freichel", "Nora Skjerdingstad", "Alessandra Chiara Mansueto", "Omid V. Ebrahimi"],
+        "abstract": ["Objective. Post-traumatic stress disorder (PTSD) remains a growing public health challenge across the globe and is associated with negative and persistent long-term consequences. The last decades of research identified different mechanisms associated with the development and persistence of PTSD, including maladaptive coping strategies, cognitive an..."]
+      },
+      {
+        "title": "A critical period for pandemic adaptation: The evolution of depressive symptomatology in a representative sample of adults across a 17-month period during COVID-19",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Omid V. Ebrahimi", "Daniel John Bauer", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["This 17-month longitudinal study on a representative sample of 4,361 Norwegian adults employs an observational ABAB design across 6 repeated assessments and 3 pandemic waves to systematically investigate the evolution of depressive symptomatology across all modifications of social distancing protocols (SDPs) from their onset to termination. Using L..."]
+      },
+      {
+        "title": "Daily dynamics and mechanisms of anxious symptomatology in the general population: A network study during the COVID-19 pandemic",
+        "tags": ["Article"],
+        "date": "Nov 2022",
+        "authors": ["Asle Hoffart", "Julian Burger", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["To understand the interplay between anxiety symptoms and their maintaining psychological processes in the population, an analysis of longitudinal within-person relationships is required. A sample of 1706 individuals completed daily measures during a 40-day period with strict mitigation protocols. Data of 1368 individuals who completed at least 30 a..."]
+      },
+      {
+        "title": "Anxiety in the adult population from the onset to termination of social distancing protocols during the COVID-19: a 20-month longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Asle Hoffart", "Daniel John Bauer", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["The social distancing protocols (SDPs) implemented as a response to the COVID-19 pandemic may seriously influence peoples’ mental health. We used a sample of 4361 Norwegian adults recruited online and stratified to be nationally representative to investigate the evolution of anxiety following each modification in national SDPs across a 20-month per..."]
+      },
+      {
+        "title": "Daily Dynamics of Parental Mental Health: Investigating Depressive Symptoms and Negative Parental Experiences",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Nora Skjerdingstad", "Miriam S. Johnson", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Background: Investigating psychopathological processes and how these are connected to psychiatric symptoms is important to understand how disorder states emerge and are maintained over time. Focusing on within-person relationships between variables further allows investigation of how these relations on average unfold within individuals. \nMethods: T..."]
+      },
+      {
+        "title": "Psychological well-being in times of COVID-19: Associated factors and levels in the general population",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2022",
+        "authors": ["Sara Ebling", "Omid V. Ebrahimi", "Sverre Urnes Johnson", "Asle Hoffart"],
+        "abstract": ["The COVID-19 pandemic and living under social distancing restrictions have been hypothesized to impact well-being and mental health in the general population. This study investigated the general Norwegian adult population's well-being after implementing and lifting strict social distancing restrictions. The study was conducted through digital surve..."]
+      },
+      {
+        "title": "Psychiatric Symptoms in COVID-19-positive Individuals in the General Population: Trajectories of Depression, Anxiety, and Insomnia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Sverre Urnes Johnson", "Ole Myklebust Amundsen", "Miriam S. Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["The present study investigates differences in the trajectories of anxiety, depression, and sleep problems among infected versus non-infected case-controlled individuals. Patients who tested positive for COVID-19 were selected from a representative sample in Norway (N > 10,000). In total, 126 of these individuals were infected during the project per..."]
+      },
+      {
+        "title": "Trait Versus State Predictors of Emotional Distress Symptoms: The Role of the Big-5 Personality Traits, Metacognitive Beliefs, and Strategies",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Henrik Nordahl", "Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["To enhance formulation and interventions for emotional distress symptoms, research should aim to identify factors that contribute to distress and disorder. One way to formulate emotional distress symptoms is to view them as state manifestations of underlying personality traits. However, the metacognitive model suggests that emotional distress is ma..."]
+      },
+      {
+        "title": "Metacognitive beliefs, maladaptive coping strategies, and depressive symptoms: A two-wave network study of the COVID-19 lockdown and reopening",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["To address the increased levels of depressive symptoms during the COVID-19 and other pandemics, it is useful to identify the psychological processes that may explain the relationship between pandemic-related stressors and symptoms. In this study, both the combined network of metacognitions and maladaptive coping strategies derived from the metacogn..."]
+      },
+      {
+        "title": "Treated together-changed together: The application of dyadic analyses to understand the reciprocal nature of alliances and couple satisfaction over time",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Kristoffer Whittaker", "Sverre Urnes Johnson", "Ole André Solbakken", "Terje Tilden"],
+        "abstract": ["In a Norwegian study of 73 couples attending a residential couple therapy program lasting between 6 and 12 weeks, weekly self-report data on therapy alliance and couple satisfaction were collected using routine outcome monitoring (ROM). The aim was to show how dyadic analyses could be applied to examine the predictive association between alliances..."]
+      },
+      {
+        "title": "Changes in depression domains as predictors of return to work in common mental disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Ragne Gunnarsdatter Hole Gjengedal", "Kåre Osnes", "Silje E Reme", "Odin Hjemdal"],
+        "abstract": ["Background\nDepression highly impairs function and reduces quality of life. Therefore, both symptomatic and functional recovery are important treatment goals. Depression consists of several cognitive, somatic, and affective symptom factors that differently affect function. However, it is unclear whether changes in these domains predict return to wor..."]
+      },
+      {
+        "title": "Troubled Relationships: A Retrospective Study of How Couples with Histories of Trauma Experience Therapy",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Kristoffer Whittaker", "Erik Stänicke", "Sverre Urnes", "Sverre Urnes Johnson"],
+        "abstract": ["In the present study we aim to increase our knowledge of the relationship between childhood trauma and outcome in couple therapy. We sampled participants based on their sub-optimal responses to treatment as well as one member of the dyad having reported experiences of childhood trauma. Six participants constituting three couples were included. All..."]
+      },
+      {
+        "title": "Acute COVID-19 severity and mental health morbidity trajectories in patient populations of six nations: an observational study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Ingibjörg Magnúsdóttir", "Anikó Lovik", "Anna Bára Unnarsdóttir", "Unnur Valdimarsdóttir"],
+        "abstract": ["Background\nLong-term mental and physical health consequences of COVID-19 (long COVID) are a persistent public health concern. Little is still known about the long-term mental health of non-hospitalised patients with COVID-19 with varying illness severities. Our aim was to assess the prevalence of adverse mental health symptoms among individuals dia..."]
+      },
+      {
+        "title": "Mechanisms associated with the trajectory of depressive and anxiety symptoms: A linear mixed-effects model during the COVID-19 Pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["With the fluctuations in anxious and depressive symptomatology accompanied by the pandemic crises, studies on the trajectories of these symptom domains are warranted to monitor the development of mental health problems in the population. This pre-registered longitudinal study examines stable factors and mechanistic processes covarying with the traj..."]
+      },
+      {
+        "title": "The evolution of depressive symptomatology across three waves of the COVID-19 pandemic: A 17-month representative longitudinal study of the adult population",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Omid V. Ebrahimi", "Daniel John Bauer", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["This 17-month longitudinal study on a representative sample of 4,361 Norwegian adults employs an observational ABAB design across six repeated assessments and three pandemic waves to systematically investigate the evolution of depressive symptomatology across all modifications of viral mitigation protocols (VMPs) from their onset to termination. Us..."]
+      },
+      {
+        "title": "Acute COVID-19 severity and 16-month mental morbidity trajectories in patient populations of six nations",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Ingibjörg Magnúsdóttir", "Anikó Lovik", "Anna Bára Unnarsdóttir", "Unnur Valdimarsdóttir"],
+        "abstract": ["BACKGROUND\nThe aim of this multinational study was to assess the development of adverse mental health symptoms among individuals diagnosed with COVID-19 in the general population by acute infection severity up to 16 months after diagnosis.\nMETHODS\nParticipants consisted of 247 249 individuals from seven cohorts across six countries (Denmark, Estoni..."]
+      },
+      {
+        "title": "Parental burnout during the COVID‐19 pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Nora Skjerdingstad", "Miriam S. Johnson", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Increased and long-term parental stress related to one's parental role can lead to parental burnout. In the early phase of the COVID-19 pandemic, families experienced intensified pressure due to the government-initiated contact restrictions applied to prevent the spread of the virus in the population. This study investigates the risk factors and pr..."]
+      },
+      {
+        "title": "Parenting in a Pandemic: Parental Stress, Anxiety and Depression Among Parents During the Government-Initiated Physical Distancing Measures Following the First Wave of COVID-19",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Miriam S. Johnson", "Nora Skjerdingstad", "Omid V. Ebrahimi", "Sverre Urnes Johnson"],
+        "abstract": ["Drawing on the tenets of family stress theory, the aim of this study is to examine parents’ perceived stress, symptoms of anxiety, depression, and associated risk- and protective factors across demographic subgroups during in the first wave of the COVID-19 pandemic. Norwegian parents (N = 2,868; 79.5% mothers) with > 1 child under 18 years of age c..."]
+      },
+      {
+        "title": "Pandemic information dissemination and associations to symptoms of mental distress during COVID-19: A cross-sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Ole Myklebust Amundsen", "Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Background\nThe 2020-2021 COVID-19 pandemic has added to the mental health strain on individuals and groups across the world in a variety of ways. Viral mitigation protocols and viral spread affect people on all continents every day, but at widely different degrees. To understand more about the mental health consequences of the pandemic, it is impor..."]
+      },
+      {
+        "title": "Metacognitions and Obsessive Beliefs in Obsessive–Compulsive Disorder: A Study of Within- and Between-Person Effects on Long-Term Outcome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Tor Sunde", "Sverre Urnes Johnson", "Joseph A. Himle", "Åshild Tellefsen Håland"],
+        "abstract": ["Background\nThis study extends previous research by exploring whether changes in obsessive beliefs and metacognitions that were associated with changes in obsessive–compulsive disorder (OCD) symptom severity over the course of group behavioral treatment were maintained at long-term follow-up.Methods\nForty patients with a primary diagnosis of OCD par..."]
+      },
+      {
+        "title": "Within- and across-day patterns of interplay between depressive symptoms and related psychopathological processes: a dynamic network approach during the COVID-19 pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Omid V. Ebrahimi", "Julian Burger", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Background\nIn order to understand the intricate patterns of interplay connected to the formation and maintenance of depressive symptomatology, repeated measures investigations focusing on within-person relationships between psychopathological mechanisms and depressive components are required.\n\nMethods\nThis large-scale preregistered intensive longit..."]
+      },
+      {
+        "title": "Mechanisms associated with the trajectory of depressive and anxiety symptoms: A linear mixed-effects model during the COVID-19 Pandemic",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["With the fluctuations in anxious and depressive symptomatology accompanied by the pandemic crises, studies on the trajectories of these symptom domains are warranted to monitor the development of mental health problems in the population. This pre-registered longitudinal study examines stable factors and mechanistic processes covarying with the traj..."]
+      },
+      {
+        "title": "Insomnia Symptoms in the General Population During the COVID-19 Pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["Øyvind Halsøy", "Sverre Urnes Johnson", "Asle Hoffart", "Omid V. Ebrahimi"],
+        "abstract": ["This empirical study aims to investigate factors associated with insomnia symptoms during the COVID-19 pandemic in 4,921 Norwegian adults. Participants were queried across two time-points, between March 31st and April the 7th 2020, and between June 22nd and July 13th, 2020. Relevant risk factors and psychological correlates at the first time-point..."]
+      },
+      {
+        "title": "Within and across-day patterns of interplay between depressive symptoms and related psychopathological processes: A dynamic network approach during the COVID-19 pandemic",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Omid V. Ebrahimi", "Julian Burger", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["In order to understand the intricate patterns of interplay connected to the formation and maintenance of depressive symptomatology, repeated measures investigations focusing on within-person relationships between psychopathological mechanisms and depressive components are required. This large-scale preregistered intensive longitudinal study conduct..."]
+      },
+      {
+        "title": "Depression and Mentalizing: A Psychodynamic Therapy Process Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Kari Halstensen", "Rolf Gjestad", "Patrick Luyten", "Sverre Urnes Johnson"],
+        "abstract": ["The present study aimed to explore the relationship between changes in depressive symptoms and the capacity to mentalize over the course of a 3-month inpatient psychodynamic therapy in a sample of 56 patients with depression. Depressive symptoms and mentalizing were assessed weekly during treatment and at 1-year follow-up with the Beck Depression I..."]
+      },
+      {
+        "title": "Viral mitigation and the COVID-19 pandemic: factors associated with adherence to social distancing protocols and hygienic behaviour",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2021",
+        "authors": ["Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Objective: To investigate the factors associated with adherence to viral mitigation protocols during the COVID-19 pandemic. \nDesign: This epidemiological cross-sectional study examines adherence to behaviour in 4158 adults and its relationship with sources of information. \nMain outcome measures: Adherence to social distancing protocols (SDPs) and a..."]
+      },
+      {
+        "title": "Feelings of Worthlessness Links Depressive Symptoms and Parental Stress: A Network Analysis During the COVID-19 Pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Nora Skjerdingstad", "Miriam S. Johnson", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Background: The prevalent co-occurrence between parental stress and depression has been previously established prior to and during the COVID-19 pandemic outbreak. However, no studies to date have identified the connections through which these symptom domains interact with each other to emerge into a complex and detrimental mental health state, alon..."]
+      },
+      {
+        "title": "Loneliness during the COVID-19 pandemic: change and predictors of change from strict to discontinued social distancing protocols",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Background and Objectives\nThe COVID-19 pandemic and the social distancing protocols designed to impede transmission of the corona virus have severe mental health consequences. This study examine changes in loneliness in the general adult population when the corona-related social distancing protocols were largely discontinued (T2) following a period..."]
+      },
+      {
+        "title": "Risk, Trust, and Flawed Assumptions: Vaccine Hesitancy During the COVID-19 Pandemic",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Omid V. Ebrahimi", "Miriam S. Johnson", "Sara Ebling", "Sverre Urnes Johnson"],
+        "abstract": ["Background: The pace at which the present pandemic and future public health crises involving viral infections are eradicated heavily depends on the availability and routine implementation of vaccines. This process is further affected by a willingness to vaccinate, embedded in the phenomenon of vaccine hesitancy. The World Health Organization has li..."]
+      },
+      {
+        "title": "The network of stress-related states and depression and anxiety symptoms during the COVID-19 lockdown",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Background: The coronavirus (COVID-19) pandemic and the social distancing protocols used to impede the spread of the virus may have severe mental health consequences. The purpose of this study was to investigate the network of components of pandemic-related negative psychological states (i.e., fear of infection, financial worries, loneliness) and s..."]
+      },
+      {
+        "title": "Mechanisms of parental distress during and after the first COVID-19 lockdown phase: A two-wave longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Miriam S. Johnson", "Nora Skjerdingstad", "Omid V. Ebrahimi", "Sverre Urnes Johnson"],
+        "abstract": ["Background\nIn these unpredictable times of the global coronavirus disease 2019 (COVID-19) pandemic, parents worldwide are affected by the stress and strain caused by the physical distancing protocols that have been put in place.\n\nObjective\nIn a two‐wave longitudinal survey, we investigated the levels of parental stress and symptoms of anxiety and d..."]
+      },
+      {
+        "title": "Childhood trauma as a predictor of change in couple and family therapy: A study of treatment response.",
+        "tags": ["Article"],
+        "date": "Jun 2021",
+        "authors": ["Kristoffer Whittaker", "Sverre Urnes Johnson", "Ole André Solbakken", "Terje Tilden"],
+        "abstract": ["This study aimed to examine if survivors of childhood abuse responded differently to couple and family therapy compared with patients without such experiences. The study included 36 couples and nine individuals (N = 81). Of these participants, 30.3% had disclosed being exposed to and/or physical or sexual abuse during childhood. All participants of..."]
+      },
+      {
+        "title": "Emotion regulation difficulties and interpersonal problems during the COVID-19 Pandemic: Predicting anxiety and depression",
+        "tags": ["Article"],
+        "date": "May 2021",
+        "authors": ["Ole André Solbakken", "Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Background: Central components of psychological functioning, such as difficulties in emotion regulation and interpersonal problems are likely to have been substantially impacted by COVID-19 and amelioration measures of societal lock-down and social distancing. In turn, these factors are likely to predict mental health outcomes, such as symptoms of..."]
+      },
+      {
+        "title": "Feelings of Worthlessness Links Depressive Symptoms and Parental Stress: A Network Analysis During the COVID-19 Pandemic",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Nora Skjerdingstad", "Miriam S. Johnson", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["The prevalent co-occurrence between parental stress and depression has been previously established prior to and during the COVID-19 pandemic outbreak. However, no studies to date have identified the connections through which these symptom domains interact with each other to emerge into a complex and detrimental mental health state, along with the p..."]
+      },
+      {
+        "title": "Risk, Trust, and Flawed Assumptions: Vaccine Hesitancy During the COVID-19 Pandemic",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Omid V. Ebrahimi", "Miriam S. Johnson", "Sara Ebling", "Sverre Urnes Johnson"],
+        "abstract": ["Background: The pace at which the present pandemic and future public health crises involving viral infections are eradicated heavily depends on the availability and routine implementation of vaccines. This process is further affected by a willingness to vaccinate, embedded in the phenomenon of vaccine hesitancy. The World Health Organization has li..."]
+      },
+      {
+        "title": "Emotion regulation difficulties and interpersonal problems during the COVID-19 Pandemic: Predicting anxiety and depression",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Ole André Solbakken", "Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Background: Central components of psychological functioning, such as difficulties in emotion regulation and interpersonal problems are likely to have been substantially impacted by COVID-19 and the amelioration measures of societal lock-down and social distancing. In turn, these factors are likely to predict mental health outcomes, such as symptoms..."]
+      },
+      {
+        "title": "Physical Distancing and Mental Health During the COVID-19 Pandemic: Factors Associated With Psychological Symptoms and Adherence to Pandemic Mitigation Strategies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["In this epidemiological investigation, we assessed the prevalence of depression and anxiety symptoms during the COVID-19 pandemic. A total of 10,061 adults participated in the study. Symptoms of depression and anxiety were 2 to 3 times higher compared with prepandemic samples. Participants who predominantly socially distanced themselves revealed su..."]
+      },
+      {
+        "title": "Pandemic Information Dissemination and Its Associations With the Symptoms of Mental Distress During the COVID-19 Pandemic: Cross-sectional Study (Preprint)",
+        "tags": ["Preprint"],
+        "date": "Feb 2021",
+        "authors": ["Ole Myklebust Amundsen", "Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["BACKGROUND\nThe 2020-2021 COVID-19 pandemic has added to the mental health strain on individuals and groups across the world in a variety of ways. Viral mitigation protocols and viral spread affect people on all continents every day, but at widely different degrees. To understand more about the mental health consequences of the pandemic, it is impor..."]
+      },
+      {
+        "title": "PTSD symptoms after the initial phase of the pandemic: A three-month follow-up of vulnerable professionals",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Sverre Urnes Johnson", "Omid V. Ebrahimi", "Asle Hoffart"],
+        "abstract": ["The COVID-19 pandemic has consequences for mental health in the general population and for health care personnel in particular. This study aimed to investigate the changes in PTSD symptoms, anxiety, and depression when the social distancing protocols were lifted (T2) following a period with strict protocols (T1). At T1, 1773 vulnerable professional..."]
+      },
+      {
+        "title": "Information Dissemination and the COVID-19 Pandemic: The Relationship between Different Information Sources and Symptoms of Psychopathology",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Ole Myklebust Amundsen", "Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["The 2020-2021 COVID-19 pandemic has added to the mental health strain on individuals and groups across the world. Viral mitigation protocols and viral spread affect millions every day, but to widely different degrees. How individuals gather information about the pandemic might have an effect on levels of mental distress in the population. In this c..."]
+      },
+      {
+        "title": "Alliance predicting progress in couple therapy",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Terje Tilden", "Sverre Urnes Johnson", "Asle Hoffart", "Åshild Tellefsen Håland"],
+        "abstract": ["The therapeutic alliance has gained status as a common factor in psychotherapy due to its robust predictive relationship with outcome. The current challenge in our field is to gain a more nuanced understanding of alliance's impact on the progress of treatment over the course of therapy. In the current study, alliance was measured on 3 dimensions: (..."]
+      },
+      {
+        "title": "Predicting change through individual symptoms and relationship distress: A study of within‐ and between‐person processes in couple therapy",
+        "tags": ["Article"],
+        "date": "Feb 2021",
+        "authors": ["Terje Tilden", "Pål Gunnar Ulvenes", "Rune Zahl-Olsen", "Åshild Tellefsen Håland"],
+        "abstract": ["Objective\nIn couple therapy clients often suffer from a blend of individual psychiatric symptoms as well as severe relational distress. However, research is inconclusive on whether relational change predicts symptom change or vice versa. Because answers to this question could have important clinical implications on what to focus on in couple therap..."]
+      },
+      {
+        "title": "Psychometric properties of the Norwegian version of the Patient Health Questionnaire-9 (PHQ-9) in a large female sample of adults with and without eating disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Line Wisting", "Sverre Urnes Johnson", "Cynthia Bulik", "Lasse Bang"],
+        "abstract": ["Background: \nInternationally, the Patient Health Questionnaire-9 (PHQ-9) is commonly used to assess the frequency and severity of depressive symptoms. However, psychometric properties of the Norwegian version of the PHQ-9 have only been assessed in adolescents. We present normative data for women and an evaluation of the psychometric properties (in..."]
+      },
+      {
+        "title": "Mechanisms of Parental Stress During and After the COVID-19 Lockdown: A two-wave longitudinal study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Miriam S. Johnson", "Nora Skjerdingstad", "Omid V. Ebrahimi", "Sverre Urnes Johnson"],
+        "abstract": ["Background: \nIn the unpredictable times of the ongoing global coronavirus disease (COVID-19), parents worldwide are affected by stressors and strains that follow in the wake of the government-initiated distancing protocols.\nObjective: In a two‐wave longitudinal survey, we examined levels of parental perceived stress and symptoms of anxiety and depr..."]
+      },
+      {
+        "title": "The network structure of stress-related states, depression, and anxiety symptoms during the COVID-19 lockdown",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Background. The coronavirus (COVID-19) pandemic and the social distancing protocols used to impede the spread of the virus may have severe mental health consequences. The purpose of this study was to investigate the network of components of pandemic-related negative psychological states (i.e., fear of infection, financial worries, loneliness) and s..."]
+      },
+      {
+        "title": "Circulating cytokine levels in the treatment of comorbid anxiety disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart", "Terje Tilden", "Jørgen G Bramness"],
+        "abstract": ["Psychotherapy research aims to investigate predictors and moderators of treatment outcome, but there are few consistent findings. This study aimed to investigate cytokines in patients undergoing treatment for anxiety disorders and whether the level of cytokines moderated the treatment outcome. Thirty-seven patients with comorbid and treatment-resis..."]
+      },
+      {
+        "title": "Parenting in a Pandemic: Parental Stress During the Physical Distancing Intervention Following the onset of the COVID-19 Outbreak",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Miriam S. Johnson", "Nora Skjerdingstad", "Omid V. Ebrahimi", "Sverre Urnes Johnson"],
+        "abstract": ["Objective: The main aim of the study was to examine levels of parental stress and symptoms of depression and anxiety in the general parental population (N = 2868) during the strict government-initiated physical distancing protocols following the onset of the COVID-19 pandemic. We further investigated specific predictors of parental distress, includ..."]
+      },
+      {
+        "title": "Factors associated with Adherence to Social Distancing Protocols and Hygienic Behavior during the COVID-19 Pandemic",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Objective: To investigate factors associated with adherence to viral mitigation strategies recommended by the WHO during the COVID-19 pandemic, including adherence to social distancing protocols (SDPs) and adherence to hygienic behavior recommendations (HB). \nDesign: This pre-registered epidemiological study of 4158 adults examines the association..."]
+      },
+      {
+        "title": "Loneliness and Social Distancing During the COVID-19 Pandemic: Risk Factors and Associations With Psychopathology",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Background: The mitigation strategies employed against the COVID-19 pandemic have severe mental health consequences. In particular, as a result of the social distancing protocols, loneliness is likely to increase. This study investigates (a) potential risk and resilience factors for loneliness in the Norwegian population during the strict social di..."]
+      },
+      {
+        "title": "En innføring i depresjonsvurdering med PHQ-9",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Tomas Formo Langkaas", "Even Rognan", "Sverre Urnes Johnson"],
+        "abstract": ["Assessment of depression is a routine task in clinical practice in Norway. National guidelines (Helsedirektoratet, 2009) recommend the use of measurement instruments in assessment of depression. PHQ-9 is widely used in research and practice. The official PHQ-9 manual provides practical guidance on interpreting test results with the use of clinical..."]
+      },
+      {
+        "title": "PTSD symptoms among health workers and public service providers during the COVID-19 outbreak",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2020",
+        "authors": ["Sverre Urnes Johnson", "Omid V. Ebrahimi", "Asle Hoffart"],
+        "abstract": ["In the frontline of the pandemic stand healthcare workers and public service providers, occupations which have proven to be associated with increased mental health problems during pandemic crises. This cross-sectional, survey-based study collected data from 1773 healthcare workers and public service providers throughout Norway between March 31, 202..."]
+      },
+      {
+        "title": "Within-person networks of clinical features of social anxiety disorder during cognitive and interpersonal therapy",
+        "tags": ["Article"],
+        "date": "Sep 2020",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["Analysis of longitudinal within-person networks over the course of therapy allows an identification of possible targets of treatment. This study examined within-person networks of clinical features in social anxiety disorder (SAD) patients during cognitive (CT) and interpersonal (IPT) therapy. Patients (n = 80) were randomized to either CT or IPT i..."]
+      },
+      {
+        "title": "Loneliness and social distancing during the COVID-19 pandemic: Risk factors and associations with psychopathology",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson", "Omid V. Ebrahimi"],
+        "abstract": ["Background: The mitigation strategies employed against the COVID-19 pandemic have severe mental health consequences. In particular, as a result of the social distancing protocols, loneliness is likely to increase. The aim of the present study was to investigate (a) the levels of loneliness in the Norwegian population during the strict social distan..."]
+      },
+      {
+        "title": "Latent Trait, Latent-Trait State, and a Network Approach to Mental Problems and Their Mechanisms of Change",
+        "tags": ["Article"],
+        "date": "May 2020",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["In this theoretical study, we examined whether and how a latent trait, a latent-trait state, and a network conceptualization of mental problems account for their descriptive features and causal mechanisms. The latent-trait approach is restricted to between-persons relations and thus provides no direct tests of mechanisms, which involve within-perso..."]
+      },
+      {
+        "title": "Level and Predictors of PTSD Symptoms Among Health Workers and Public Service Providers During the COVID-19 Outbreak",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Sverre Urnes Johnson", "Omid V. Ebrahimi", "Asle Hoffart"],
+        "abstract": ["In the frontline of the pandemic stand healthcare workers and public service providers, occupations which have proven to be associated with increased mental health problems during pandemic crises. The objective of current study was to determine the level and predictors of post-traumatic stress disorder, anxiety and depression symptoms among healthc..."]
+      },
+      {
+        "title": "The mental health impact of non-pharmacological interventions aimed at impeding viral transmission during the COVID-19 pandemic in a general adult population and the factors associated with adherence to these mitigation strategies",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2020",
+        "authors": ["Omid V. Ebrahimi", "Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["As the current pandemic situation evolves, urges have been made to focus efforts toward examining the mental health status of the general population. This large-scale epidemiological investigation assesses the prevalence of depression and anxiety associated with the mitigation strategies aimed at impeding viral transmission chains during the COVID-..."]
+      },
+      {
+        "title": "Psychometric Properties of the General Anxiety Disorder 7-Item (GAD-7) Scale in a Heterogeneous Psychiatric Sample",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2019",
+        "authors": ["Sverre Urnes Johnson", "Pål Gunnar Ulvenes", "Tuva Oktedalen", "Asle Hoffart"],
+        "abstract": ["The GAD-7 is commonly used as a measure of general anxiety symptoms across various settings and populations. However, there has been disagreement regarding the factor structure of the GAD-7, and there is a need for larger studies investigating the psychometric properties of the measure. Patients undergoing treatment (N = 1201), both inpatient and o..."]
+      },
+      {
+        "title": "Individual distress and dyadic adjustment over the course of couple therapy and three-year follow-up: A replication study",
+        "tags": ["Article"],
+        "date": "Jul 2019",
+        "authors": ["Terje Tilden", "Marie Theisen", "Bruce Wampold", "Asle Hoffart"],
+        "abstract": ["This replication study examined the change over time and the relationship between depressive symptoms and dyadic adjustment during residential couple therapy and at one- and three-year follow-up. Mixed models were used in the analyses, and a disaggregation procedure was applied to examine the results on a between-person as well as on a within-perso..."]
+      },
+      {
+        "title": "The temporal dynamics of symptoms during exposure therapies of PTSD: a network approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Asle Hoffart", "Tomas Formo Langkaas", "Tuva Oktedalen", "Sverre Urnes Johnson"],
+        "abstract": ["Background: Analysis of dynamic (temporal) networks allows an identification of important targets of treatment.\nObjective: This study examined the dynamic network of symptoms in patients diagnosed with post-traumatic stress disorder (PTSD) during exposure therapy.\nMethod: Patients (n = 65) were randomized to either standard prolonged exposure, whic..."]
+      },
+      {
+        "title": "Kompleks Post-traumatisk stresslidelse: Fra latent konstrukt til nettverksforståelse",
+        "tags": ["Article"],
+        "date": "Jun 2019",
+        "authors": ["Sverre Urnes Johnson", "Miriam S. Johnson", "Peter Sele", "Asle Hoffart"],
+        "abstract": ["Complex posttraumatic stress disorder (CPTSD) is currently used as a diagnostic term and has been widely used in clinical disciplines. This article aims to discuss the concept and classification of CPTSD as a separate diagnosis. The traditional latent variable model is presented and an alternative understanding of CPTSD is exemplified through netwo..."]
+      },
+      {
+        "title": "Moderators and predictors of outcome in metacognitive and cognitive behavioral therapy for comorbid anxiety disorders",
+        "tags": ["Article"],
+        "date": "Feb 2019",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart"],
+        "abstract": ["This study aimed to investigate whether two theoretically derived moderators of treatment, degree of worry and avoidance at pretreatment, moderated anxiety from pretreatment to posttreatment in a randomized controlled trial comparing metacognitive therapy (MCT) and cognitive behavioral therapy (CBT). Personality problems, degree of comorbidity, and..."]
+      },
+      {
+        "title": "Supplementary Material",
+        "tags": ["Data"],
+        "date": "Nov 2018",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart"],
+        "abstract": []
+      },
+      {
+        "title": "Metacognitive Therapy Versus Cognitive Behavioral Therapy:A Network Approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2018",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart"],
+        "abstract": ["A network perspective on mental problems represents a new alternative to the latent variable perspective. Diagnoses are assumed to refer to a causal network of observable mental problems or symptoms (observables). The observable symptoms that traditionally have been considered indicators of latent traits (disorders) are taken to be directly related..."]
+      },
+      {
+        "title": "Mechanisms of change in metacognitive and cognitive behavioral therapy for treatment-resistant anxiety The role of metacognitive beliefs and coping strategies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2018",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson", "Hans M Nordahl", "Adrian Wells"],
+        "abstract": ["Metacognitive therapy (MCT) has shown promising outcomes across disorders, but, currently, little is known about the mechanisms of change in MCT as well as their specificity compared to those of cognitive behavioral therapy (CBT). The main purpose of this study was to examine the within-person relationships between features of the cognitive attenti..."]
+      },
+      {
+        "title": "Klinisk signifikans i praksis [Clinical significance in practice]",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Tomas Formo Langkaas", "Sverre Urnes Johnson", "Kjersti Stenshorne", "Karianne R Vrabel"],
+        "abstract": ["The aim of this paper is to present how clinical significance as a scientifically founded and clinically relevant methodology can be implemented to monitor specific treatment goals in clinical practice. The rationale, clinical use, and implementation of clinical significance are described. Examples illustrate how clinical significance provides rele..."]
+      },
+      {
+        "title": "Psychodynamic and Cognitive-Behavioral Therapies Are More Different Than You Think: Conceptualizations of Mental Problems and Consequences for Studying Mechanisms of Change",
+        "tags": ["Article"],
+        "date": "Sep 2017",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson"],
+        "abstract": ["The purpose of this study was to examine the conceptualization of mental problems and disorders inherent in the therapeutic theories used in psychodynamic (PDT) and cognitive-behavioral therapy (CBT). Supportive-expressive (SET) and cognitive (CT) therapy for social anxiety disorder (SAD) were used as representative examples. Based on the typology..."]
+      },
+      {
+        "title": "A long-term follow-up of group behavioral therapy for obsessive-compulsive disorder in a general outpatient clinic in Norway",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Tor Sunde", "Liv Tveit Walseth", "Joseph Himle", "Åshild Tellefsen Håland"],
+        "abstract": ["There is a lack of knowledge regarding the long-term effect of evidence-based CBT/ ERP treatment for OCD that is delivered in routine clinical care. The aim of this study was to examine the long-term effectiveness of behavioral treatment for OCD in a Norwegian general outpatient clinic. In the current study, 62% (N = 40) of the original patients tr..."]
+      },
+      {
+        "title": "Metacognitive Therapy versus Disorder-Specific CBT for Comorbid Anxiety Disorders: A Randomized Controlled Trial.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart", "Hans M Nordahl", "Bruce Wampold"],
+        "abstract": ["Few studies have compared the effects of Metacognitive therapy (MCT) and Cognitive behavioral therapy (CBT) for comorbid anxiety disorders. In the current study we compared CBT and MCT for heterogeneous anxiety disorders in a residential setting. Ninety patients with a primary diagnosis of Post Traumatic Stress Disorder, Social Phobia or Panic diso..."]
+      },
+      {
+        "title": "Metacognition and Cognition in Inpatient MCT and CBT for Comorbid Anxiety Disorders: A Study of Within-Person Effects",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2017",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart", "Hans M Nordahl", "Bruce Wampold"],
+        "abstract": ["Psychotherapists have long questioned what mediating processes are linked to outcome of psychotherapy. Few studies examining this question have assessed within-person changes in the process outcome relationship over time. The present study examined changes in cognition and metacognition over the course of therapy using a dataset from a randomized c..."]
+      },
+      {
+        "title": "A Survey of Clinical Psychologists’ Attitudes Toward Treatment Manuals",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart", "Odd E Havik", "T. Nordgreen"],
+        "abstract": ["Treatment manuals have been strongly approved and strongly criticized. They are central instruments in the dissemination of evidence-based practice. A total of 815 Norwegian clinical psychologists were surveyed about their attitudes toward treatment manuals (ATMs) combined with therapeutic orientations, therapeutic strategies, and demographic facto..."]
+      },
+      {
+        "title": "Metacognitive Therapy for Comorbid Anxiety Disorders: A Case Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Sverre Urnes Johnson", "Asle Hoffart"],
+        "abstract": ["We aimed to systematically evaluate a generic model of metacognitive therapy (MCT) with a highly comorbid anxiety disorder patient, that had been treated with diagnosis-specific cognitive-behavioral therapy (CBT) without significant effect. Traditionally, CBT has progressed within a disorder-specific approach, however, it has been suggested that th..."]
+      },
+      {
+        "title": "The Mobility Inventory for Agoraphobia Avoidance Alone Scale: Factor Structure and Psychometric Properties of Subscales",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Asle Hoffart", "Tuva Oktedalen", "Pål Gunnar Ulvenes", "Sverre Urnes Johnson"],
+        "abstract": ["In this study, we investigated the factor structure of situational fears in agoraphobia by examining four models of the Avoidance Alone items in the Mobility Inventory for Agoraphobia. A main sample of 327 agoraphobic patients and an independent control sample of 64 agoraphobic patients were studied. A confirmatory factor analysis supported a four-..."]
+      },
+      {
+        "title": "Betydningen av spesifikke faktorer i behandling av angstlidelser",
+        "tags": ["Chapter"],
+        "date": "Feb 2013",
+        "authors": ["Asle Hoffart", "Sverre Urnes Johnson", "Tomas Formo Langkaas", "Aud Rasmussen"],
+        "abstract": []
+      },
+      {
+        "title": "Mot en felles grunn: En transdiagnostisk tilnærming til psykologisk behandling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Roger Hagen", "Sverre Urnes Johnson", "Even Rognan", "Odin Hjemdal"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Professor"],
+    "bio": [],
+    "publications": [97],
+    "reads": [25753],
+    "citations": [1608]
   }
 }

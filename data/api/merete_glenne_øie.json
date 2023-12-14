@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Merete Øie",
-    "id": "ina2X-IAAAAJ",
-    "affiliation": "University of Oslo",
+    "name": ["Merete Øie"],
+    "id": ["ina2X-IAAAAJ"],
+    "affiliation": ["University of Oslo"],
     "data": {
       "publications": [
         {
@@ -916,8 +916,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0003-0308-2462",
-    "name": "Merete Øie",
+    "orcid": ["0000-0003-0308-2462"],
+    "name": ["Merete Øie"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -928,11 +928,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Merete Glenne Øie",
-    "id": "398385",
+    "name": ["Merete Glenne Øie"],
+    "id": ["398385"],
     "keywords": ["Psychological treatment", "Neuropsychology", "Childhood and youth", "RCT", "Psykiske lidelser", "Young adults", "Neurodevelopmental disorders", "Dual diagnosis"],
     "position": ["Professor", "Research Advisor", null, null],
-    "img": "https://api.cristin.no/v2/persons/398385/picture",
+    "img": ["https://api.cristin.no/v2/persons/398385/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -1566,5 +1566,719 @@
         "url": "https://api.cristin.no/v2/results/1156368"
       }
     ]
+  },
+  "rg": {
+    "id": "Merete-Oie",
+    "name": "Merete Glenne Øie",
+    "img": "https://i1.rgstatic.net/ii/profile.image/277542385799173-1443182669599_Q128/Merete-Oie.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["Clinical Neuropsychology", "Executive Function", "Neuropsychiatry"],
+    "works": [
+      {
+        "title": "Associations between intelligence, everyday executive functions, and symptoms of mental health problems in children and adolescents with mild intellectual disability",
+        "tags": ["Article"],
+        "date": "Jul 2023",
+        "authors": ["Sissel Gravråkmo", "Lucy A Henry", "Alexander Olsen", "Jo Magne Ingul"],
+        "abstract": []
+      },
+      {
+        "title": "Long‐term course of cognitive functioning in bipolar disorder: A ten‐year follow‐up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Camilla Bärthel Flaaten", "Ingrid Melle", "Thomas Doug Bjella", "Torill Ueland"],
+        "abstract": ["Introduction: \nCognitive impairments are common in bipolar disorder (BD), but the long-term course remains understudied. Longitudinal data on cognitive functioning from the start of the first treatment could help clarify pathophysiological processes that shape the illness outcome. We here aim to investigate the 10-year cognitive course in BD compar..."]
+      },
+      {
+        "title": "Childhood Executive Function Predicts Internalizing and Externalizing Symptoms in Emerging Adults With and Without Autism: A 10-Year Longitudinal Study",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Ingrid Nesdal Fossum", "Stian Orm", "Per Normann Andersen", "Erik Winther Skogli"],
+        "abstract": ["Individuals with autism spectrum disorder (ASD) and typically developing individuals were assessed on three neuropsychological tests of executive function (EF) and on scales of autism symptoms and co-occurring internalizing and externalizing symptoms at baseline (T1; N = 88, Mage = 11.8 years, 73% males), 2-year (T2; 99% retention, Mage = 13.9 year..."]
+      },
+      {
+        "title": "Adolescence internalizing problems as a mediator between autism diagnosis in childhood and quality of life in emerging adults with and without autism: a 10-year longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Per Normann Andersen", "Stian Orm", "Ingrid Nesdal Fossum", "Erik Winther Skogli"],
+        "abstract": ["Background\nIndividuals with autism tend to have a reduced quality of life across their lifespan. This reduced quality of life may be a result of autism traits, mental distress, and poor person/environment fit. In this longitudinal study, we looked at the role of adolescence internalizing and externalizing problems in mediating the relationship betw..."]
+      },
+      {
+        "title": "Moderators of metacognitive strategy training for executive functioning in early schizophrenia and psychosis risk",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2023",
+        "authors": ["Ingvild Haugen", "Torill Ueland", "Jan Stubberud", "Elisabeth Haug"],
+        "abstract": ["Goal Management Training (GMT) improved self-reported executive functioning in a recent randomized, controlled trial in early intervention for psychosis participants. Little is known about the mechanism for this benefit, so this study investigates objectively measured executive function, the difference between subjective and objective executive fun..."]
+      },
+      {
+        "title": "Neuropsychological and Symptom Predictors of Diagnostic Persistence in ADHD: A 25-Year Follow-up Study",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Merete Glenne Øie", "Tor Amund Voll Storaas", "Jens Egeland"],
+        "abstract": ["Background\nThis study extends long-term predictive research on ADHD by including both neuropsychological and symptom measures at baseline in adolescence as predictors of diagnostic persistence 25 years later.\n\nMethods\nNineteen males with ADHD and 26 healthy controls (HC; M/F = 13/13), were assessed in adolescence and 25 years later. Measurements at..."]
+      },
+      {
+        "title": "Predictors of Quality of Life and Functional Impairments in Emerging Adults With and Without ADHD: A 10-Year Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Feb 2023",
+        "authors": ["Stian Orm", "Merete Glenne Øie", "Ingrid Nesdal Fossum", "Erik Winther Skogli"],
+        "abstract": ["Objective:\nWe tested the hypotheses that (1) a diagnosis of ADHD in childhood or adolescence is associated with reduced quality of life (QoL) and everyday functioning in emerging adulthood, and (2) executive function (EF) deficits, internalizing difficulties, and ADHD symptoms predict reduced QoL and more functional impairments.\nMethod:\nWe assessed..."]
+      },
+      {
+        "title": "A seven-year longitudinal study of the association between neurocognitive function and basic self-disorders in schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Elisabeth Haug", "Merete Glenne Øie", "Ingrid Hartveit Svendsen", "Ingrid Melle"],
+        "abstract": ["Introduction: \nBasic self-disorders (SDs) and neurocognitive impairments are fundamental trait-like aspects of schizophrenia spectrum disorders. There has been little research on the association between SDs and neurocognitive impairments in schizophrenia, and no longitudinal studies have investigated if they are related. The aim of this study was t..."]
+      },
+      {
+        "title": "Executive Control Training for Adolescents with ADHD: Study Protocol for a Randomised Controlled Trial",
+        "tags": ["Preprint"],
+        "date": "Jan 2023",
+        "authors": ["Agnete Dyrsen", "Jan Stubberud", "Krister Westlye Fjermestad", "Merete Glenne Øie"],
+        "abstract": []
+      },
+      {
+        "title": "Domain-specific cognitive course in schizophrenia: Group- and individual-level changes over 10 years",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Camilla Bärthel Flaaten", "Ingrid Melle", "Thomas Doug Bjella", "Torill Ueland"],
+        "abstract": ["Cognitive impairments in schizophrenia are well-documented, present across several cognitive domains and found to be relatively stable over time. However, there is a high degree of heterogeneity and indications of domain-specific developmental courses. The present study investigated the 10-year cognitive course in participants with first-episode sc..."]
+      },
+      {
+        "title": "Cognitive functioning in a group of adolescents at risk for psychosis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Caroline Ranem Mohn-Haugen", "Christine Mohn", "Frank Larøi", "Bjørn Rishovd Rund"],
+        "abstract": ["Cognitive deficits are a core feature of schizophrenia, and impairments are present in groups at-risk for psychosis. Most at-risk studies include young adults and not younger age-groups, such as adolescents. Participants are usually help-seeking individuals, even though risk factors may also be present in non-help seeking adolescents. We aim to exp..."]
+      },
+      {
+        "title": "Exploring life with autism: Quality of Life, daily functioning and compensatory strategies from childhood to emerging adulthood: A qualitative study protocol",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Elisabeth Øverland", "Åshild Hauge", "Stian Orm", "Per Normann Andersen"],
+        "abstract": ["Introduction\nThis study aims to investigate self-perceived quality of life, daily functioning, and the use of compensatory strategies in emerging adults with autism ¹ .\n\nMethods and analysis\nParticipants will be recruited from the Lillehammer Neurodevelopmental 10-year follow-up study (LINEUP), with the aim of 15 individual in-depth interviews. Sub..."]
+      },
+      {
+        "title": "Subjective and objective cognitive function in adolescent with chronic fatigue following Epstein-Barr virus infection",
+        "tags": ["Article"],
+        "date": "Oct 2022",
+        "authors": ["Merete Glenne Øie", "Astrid Sofie Buer Rødø", "Maria Sletten Bølgen", "Vegard Bruun Bratholm Wyller"],
+        "abstract": ["Objective\nCognitive difficulties are among the most disruptive and disabling problems reported by chronic fatigue syndrome (CFS) sufferers. Acute Epstein-Barr virus (EBV) infection is a trigger of chronic fatigue (CF) and CFS. The aim of this study was to investigate subjectively reported and objectively measured cognitive functioning in fatigued a..."]
+      },
+      {
+        "title": "Attention-deficit/hyperactivity disorder persistence from childhood into young adult age: a 10-year longitudinal study",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Erik Winther Skogli", "Stian Orm", "Ingrid Nesdal Fossum", "Merete Glenne Øie"],
+        "abstract": ["Introduction\nThe aim of this study was to estimate ADHD persistence in a European clinical sample of children diagnosed with ADHD and followed prospectively for 10 years into young adulthood.\n\nMethods\nWe assessed 85 children with ADHD at baseline (Mage = 11.6, SD = 2.1, 54% male) and re-assessed 59 at 10-year follow-up (Mage = 21.4, SD = 2.3, 54% m..."]
+      },
+      {
+        "title": "Internalizing Problems as a Mediator for Quality of Life in Emerging Adults with and without Autism. A 10- year longitudinal study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Per Normann Andersen", "Stian Orm", "Ingrid Nesdal Fossum", "Erik Winther Skogli"],
+        "abstract": ["Background\nIndividuals with autism tend to have a reduced quality of life across the lifespan. This reduced quality of life is a result of autism traits, mental distress, and poor person/environment fit. In the present study, we examined the mediating role of internalizing and externalizing problems on the relationship between having an autism diag..."]
+      },
+      {
+        "title": "A randomized controlled trial of Goal Management Training for executive functioning in schizophrenia spectrum disorders or psychosis risk syndromes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2022",
+        "authors": ["Ingvild Haugen", "Jan Stubberud", "Elisabeth Haug", "Merete Glenne Øie"],
+        "abstract": ["Background\nExecutive functioning is essential to daily life and severely impaired in schizophrenia and psychosis risk syndromes. Goal Management Training (GMT) is a theoretically founded, empirically supported, metacognitive strategy training program designed to improve executive functioning.\n\nMethods\nA randomized controlled parallel group trial co..."]
+      },
+      {
+        "title": "Childhood executive functions and ADHD symptoms predict psychopathology symptoms in emerging adults with and without ADHD: a 10-year longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Stian Orm", "Per Normann Andersen", "Martin Teicher", "Erik Winther Skogli"],
+        "abstract": ["Deficits in executive functions (EFs) are theorized to play an important role in causing functional impairment and associated psychopathology in individuals with ADHD. The objective of this study was to examine the role of EFs and ADHD symptoms as longitudinal predictors of psychopathology symptoms in individuals with ADHD and typically developing..."]
+      },
+      {
+        "title": "Sex as a Moderator Between Parent Ratings of Executive Dysfunction and Social Difficulties in Children and Adolescents with Autism Spectrum Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2022",
+        "authors": ["Tonje Torske", "Terje Nærland", "Daniel Quintana", "Ole A Andreasssen"],
+        "abstract": ["Girls and boys might differ in autistic symptoms and associated cognitive difficulties such as executive function (EF). We investigated sex differences in the relationship between parent rated EF and autistic symptoms in 116 children and adolescents (25 girls) aged 5–19 years with an intelligence quotient above 70 and an autism spectrum disorder (A..."]
+      },
+      {
+        "title": "Brief report: Autism Spectrum Disorder Diagnostic Persistence in a 10-year Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Jul 2022",
+        "authors": ["Stian Orm", "Per Normann Andersen", "Ingrid Nesdal Fossum", "Erik Winther Skogli"],
+        "abstract": ["Background\nThe aim was to examine diagnostic persistence of Autism Spectrum Disorder (ASD) in individuals without intellectual disability from childhood to emerging adulthood.\n\nMethod\nWe assessed 38 children with estimated full-scale intelligence quotient (IQ) >70 who were diagnosed with ASD at baseline (Mage=12.0, SD=2.3, 84% male), and re-assesse..."]
+      },
+      {
+        "title": "Executive Functioning in Everyday Life in Youth with Attention-Deficit/Hyperactivity Disorder and Autism Spectrum Disorders: A Two-Year Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Jun 2022",
+        "authors": ["Erik Winther Skogli", "Per Normann Andersen", "Stian Orm", "Merete Glenne Øie"],
+        "abstract": ["Problems with executive function (EF) are considered a hallmark of Attention-Deficit/Hyperactivity Disorder (ADHD) and Autism Spectrum Disorder (ASD). However, little is known about the developmental pathway of everyday EF in these two groups, and whether the two groups follow a similar or different developmental course. In this longitudinal study,..."]
+      },
+      {
+        "title": "Decision-making and Risky Behavior in Individuals with Attention-Deficit/Hyperactivity Disorder: A 10-year Longitudinal Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Stian Orm", "Yehuda Pollak", "Ingrid Nesdal Fossum", "Erik Winther Skogli"],
+        "abstract": ["We assessed 85 children with Attention-Deficit/Hyperactivity Disorder\n(ADHD) and 50 typically developing children (TD) (Mage = 11.59, 57.8%\nboys) with the Hungry Donkey Task (HDT) at baseline and 2-year follow-up,\nand the Iowa Gambling Task at 10-year follow-up (75% retention).\nImprovement in the proportion of advantageous choices was observed 15\nf..."]
+      },
+      {
+        "title": "A systematic review of premorbid cognitive functioning and its timing of onset in schizophrenia spectrum disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2022",
+        "authors": ["Caroline Ranem Mohn-Haugen", "Christine Mohn", "Frank Larøi", "Bjørn Rishovd Rund"],
+        "abstract": ["Cognitive impairments are core features of established schizophrenia spectrum disorders (SSD). However, it remains unclear whether specific cognitive functions are differentially impaired pre-onset and at what age these impairments can be detected. The purpose of this review was to elucidate these issues through a systematic summary of results from..."]
+      },
+      {
+        "title": "Depressive Symptoms in Individuals with Autism Spectrum Disorder or Attention-Deficit/Hyperactivity Disorder: A 10-Year Longitudinal Study",
+        "tags": ["Poster", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Stian Orm", "Merete Glenne Øie", "Ingrid Nesdal Fossum", "Erik Winther Skogli"],
+        "abstract": ["Background: Depressive symptoms are common in individuals with Autism Spectrum Disorder (ASD) and contributes to functional impairments and reduced quality of life. Understanding the development of depressive symptoms in individuals with ASD is important for development of preventive interventions and treatment. Since ASD and Attention-Deficit/Hype..."]
+      },
+      {
+        "title": "Associations between executive functions, intelligence and adaptive behaviour in children and adolescents with mild intellectual disability",
+        "tags": ["Article"],
+        "date": "May 2022",
+        "authors": ["Sissel Gravråkmo", "Alexander Olsen", "Stian Lydersen", "Merete Glenne Øie"],
+        "abstract": ["Background: \nThe purpose of this study was to explore the role of everyday executive functions in relation to intelligence and adaptive behaviour in children and adolescents with mild intellectual disability. Method: A group of children and adolescents, previously diagnosed with mild intellectual disability were assessed according to intelligence,..."]
+      },
+      {
+        "title": "Executive dysfunction in schizophrenia: Predictors of the discrepancy between subjective and objective measures",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Ingvild Haugen", "Jan Stubberud", "Torill Ueland", "Merete Glenne Øie"],
+        "abstract": ["This study aimed to investigate what characterizes individuals with schizophrenia who experience more or less subjective executive dysfunction in everyday life compared to objective executive performance on neuropsychological tests.\nSixty-six participants with broad schizophrenia spectrum disorders completed a comprehensive assessment of executive..."]
+      },
+      {
+        "title": "Development of Executive Functioning From Childhood to Young Adulthood in Autism Spectrum Disorder and Attention-Deficit/Hyperactivity Disorder: A 10-Year Longitudinal Study",
+        "tags": ["Article"],
+        "date": "Sep 2021",
+        "authors": ["Ingrid Nesdal Fossum", "Per Normann Andersen", "Merete Glenne Øie", "Erik Winther Skogli"],
+        "abstract": ["Objective: \nThis 10-year longitudinal study investigated the developmental trajectories of executive functioning (EF) in individuals with autism spectrum disorder (ASD) or attention-deficit/hyperactivity disorder (ADHD), compared to typically developing (TD) individuals from childhood into young adulthood.\n\nMethod: \nThere were 173 participants at b..."]
+      },
+      {
+        "title": "Declining Trajectories of Co-occurring Psychopathology Symptoms in Attention-Deficit/Hyperactivity Disorder and Autism Spectrum Disorder: A 10-Year Longitudinal Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Stian Orm", "Merete Glenne Øie", "Ingrid Nesdal Fossum", "Erik Winther Skogli"],
+        "abstract": ["Objective: Our objective was to examine developmental trajectories of co-occurring psychopathology symptoms from childhood to young adulthood in individuals with Attention-Deficit/Hyperactivity Disorder (ADHD), individuals with Autism Spectrum Disorder (ASD), and typically developing (TD) individuals.\nMethod: We assessed co-occurring psychopatholog..."]
+      },
+      {
+        "title": "Risk of attention-deficit/hyperactivity disorder and autism spectrum disorder in children associated with gestational levels of toxic metals and essential elements",
+        "tags": ["Article"],
+        "date": "Aug 2021",
+        "authors": ["Thea Steen Skogheim", "Kjell Vegard Fjeldheim Weyde", "Stephanie Mulherin Engel", "Gro Dehli Villanger"],
+        "abstract": []
+      },
+      {
+        "title": "Metal and essential element concentrations during pregnancy and associations with autism spectrum disorder and attention-deficit/hyperactivity disorder in children",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Thea Steen Skogheim", "Kjell Vegard Fjeldheim Weyde", "Stephanie M. Engel", "Gro Dehli Villanger"],
+        "abstract": ["Background\nPrenatal exposure to toxic metals or variations in maternal levels of essential elements during pregnancy may be a risk factor for neurodevelopmental disorders such as attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD) in offspring.\n\nObjectives\nWe investigated whether maternal levels of toxic metals and es..."]
+      },
+      {
+        "title": "Prenatal exposure to per- and polyfluoroalkyl substances (PFAS) and associations with attention-deficit/hyperactivity disorder and autism spectrum disorder in children",
+        "tags": ["Article"],
+        "date": "Jul 2021",
+        "authors": ["Thea Steen Skogheim", "Kjell Vegard Fjeldheim Weyde", "Heidi Aase", "Gro Dehli Villanger"],
+        "abstract": ["Background\nPrenatal exposure to per- and polyfluoroalkyl substances (PFAS) may be a risk factor for neurodevelopmental deficits and disorders, but evidence is inconsistent.\n\nObjectives\nWe investigated whether prenatal exposure to PFAS were associated with childhood diagnosis of attention-deficit/hyperactivity disorder (ADHD) or autism spectrum diso..."]
+      },
+      {
+        "title": "Cognitive Performance in Early-Onset Schizophrenia and Attention-Deficit/Hyperactivity Disorder: A 25-Year Follow-Up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2021",
+        "authors": ["Merete Glenne Øie", "Kjetil Sundet", "Elisabeth Haug", "Bjørn Rishovd Rund"],
+        "abstract": ["Early-Onset Schizophrenia (EOS) and Attention Deficit-Hyperactivity Disorder (ADHD) are early- onset neurodevelopmental disorders associated with cognitive deficits. The current study represents the first attempt to compare these groups on a comprehensive cognitive test battery in a longitudinal design over 25 years in order to enhance our knowledg..."]
+      },
+      {
+        "title": "High levels of the openness trait are associated with better parental reflective functioning in mothers with substance use disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Merete Glenne Øie", "Ingebjørg Emilie Aarnes", "Lise Horndalsveen Eilertsen", "Ulrika håkansson"],
+        "abstract": ["Aims\nMothers with substance use disorders (SUD) often show impairments in parental reflective functioning (PRF), which may have adverse effects on their capacity for sensitive caregiving. Parenting personality is also associated with caregiving. However, no studies have investigated how these individual factors may contribute to variance in PRF in..."]
+      },
+      {
+        "title": "Basic self-disturbances are associated with Sense of Coherence in patients with psychotic disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Ingrid Hartveit Svendsen", "Merete Glenne Øie", "Paul Møller", "Elisabeth Haug"],
+        "abstract": ["Background\nThe Sense of Coherence (SOC) theory gives a possible explanation of how people can experience subjective good health despite severe illness. Basic self-disturbances (BSDs) are subtle non-psychotic disturbances that may destabilize the person’s sense of self, identity, corporeality, and the overall ‘grip’ of the world.\n\nAim\nOur objective..."]
+      },
+      {
+        "title": "Similar impairments shown on a neuropsychological test battery in adolescents with high-functioning autism and early onset schizophrenia: a two-year follow-up study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Merete Glenne Øie", "Per Normann Andersen", "Kjell Tore Hovik", "Bjørn Rishovd Rund"],
+        "abstract": ["Introduction: Cognitive impairments are common in both Autism Spectrum Disorders (ASD) and schizophrenia, but it is unclear whether the pattern of difficulties is similar or different in the two disorders. This cross-sectional and longitudinal study compared the neuropsychological functioning in adolescents with ASD with adolescents with Early Onse..."]
+      },
+      {
+        "title": "Trauma in childhood and adolescence and impaired executive functions are associated with uncertain reflective functioning in mothers with substance use disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2019",
+        "authors": ["Vidar Roald Kristiansen", "Tore Bergby Handeland", "Bjørn Lau", "Merete Glenne Øie"],
+        "abstract": ["Aims\nImpairments in reflective functioning are known to have adverse effects on the ability to display sensitive parenting as a caregiver. Several factors are associated with impairments in reflective functioning, such as impaired executive functioning and experienced trauma. We investigated how these factors contribute to an impaired reflective fu..."]
+      },
+      {
+        "title": "Pre-attention and Working Memory in ADHD: A 25-Year Follow-Up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Bendik Rund Torgalsbøen", "Pål Zeiner", "Merete Glenne Øie"],
+        "abstract": ["Objective: The aim of the study was to compare the development of working memory and preliminary stages of attentional processing in individuals with ADHD over a 23- to 25-year period. Method: Individuals with ADHD ( n = 19) and healthy controls ( n = 26) were followed up after 13 years (T2) and 23 to 25 years (T3) after initial assessment (T1). Th..."]
+      },
+      {
+        "title": "Prenatal exposure to perfluoroalkyl substances and associations with symptoms of attention-deficit/hyperactivity disorder and cognitive functions in preschool children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Thea Steen Skogheim", "Gro Dehli Villanger", "Kjell Vegard Fjeldheim Weyde", "Heidi Aase"],
+        "abstract": ["Background: \nPerfluoroalkyl substances (PFASs) are persistent organic pollutants that are suspected to be neurodevelopmental toxicants, but epidemiological evidence on neurodevelopmental effects of PFAS exposure is inconsistent. We investigated the associations between prenatal exposure to PFASs and symptoms of attention-deficit/hyperactivity disor..."]
+      },
+      {
+        "title": "Autism spectrum disorder polygenic scores are associated with every day executive function in children admitted for clinical assessment",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Tonje Torske", "Terje Nærland", "Francesco Bettella", "Ole A Andreasssen"],
+        "abstract": ["Autism spectrum disorder (ASD) and other neurodevelopmental disorders (NDs) are behaviorally defined disorders with overlapping clinical features that are often associated with higher‐order cognitive dysfunction, particularly executive dysfunction. Our aim was to determine if the polygenic score (PGS) for ASD is associated with parent‐reported exec..."]
+      },
+      {
+        "title": "Basic self-disturbances independently predict recovery in psychotic disorders: A seven year follow-up study",
+        "tags": ["Article"],
+        "date": "Aug 2019",
+        "authors": ["Ingrid Hartveit Svendsen", "Merete Glenne Øie", "Paul Møller", "Ingrid Melle"],
+        "abstract": ["Background: \nRecovery is the ultimate goal of psychosis treatment. Basic self-disturbances (BSDs) are non-psychotic phenomena associated with clinical outcome, present in prodromal, psychotic and residual phases of psychotic disorders.\n\nAim: \nTo investigate the relationship between BSDs and recovery seven years after first treatment in patients wit..."]
+      },
+      {
+        "title": "High degree of uncertain reflective functioning in mothers with substance use disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Tore Bergby Handeland", "Vidar Roald Kristiansen", "Bjørn Lau", "Merete Glenne Øie"],
+        "abstract": ["Aims\nHaving a substance use disorder (SUD) is associated with impaired reflective functioning (RF) or mentalizing, implying reduced capacity to reflect on internal mental states of the self and others. This has adverse effects on parenting and the child's development. High uncertain RF style prevents an adequate RF due to a concrete, rigid way of m..."]
+      },
+      {
+        "title": "Fatigue in Epstein-Barr virus infected adolescents and healthy controls: A prospective multifactorial association study",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Maria Pedersen", "Tarjei Tørre Asprusten", "Kristin Godang", "Vegard Bruun Bratholm Wyller"],
+        "abstract": ["Objective\nAcute Epstein-Barr virus (EBV) infection is a known trigger of both acute and chronic fatigue. The aim of this study was to investigate associations to fatigue in adolescents with EBV infection during the initial stage and six months after, as well as in healthy controls.\n\nMethods\n200 adolescents (12–20 years old) with EBV infection were..."]
+      },
+      {
+        "title": "The association between executive functioning and parental stress and psychological distress is mediated by parental reflective functioning in mothers with substance use disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Ulrika håkansson", "Reidulf G. Watten", "Kerstin Söderström", "Merete Glenne Øie"],
+        "abstract": ["Mothers with a substance use disorder (SUD) have been found to exhibit heightened experience of stress and deficits in executive functioning (EF) and in parental reflective functioning (PRF). Although experiences of stress, EF and PRF are important for caregiving capacities, no studies have explored associations between the phenomena in SUD mothers..."]
+      },
+      {
+        "title": "Lifestyle factors during acute Epstein‐Barr virus infection in adolescents predict physical activity six months later",
+        "tags": ["Article"],
+        "date": "Jan 2019",
+        "authors": ["Maria Pedersen", "Tarjei Tørre Asprusten", "Kristin Godang", "Vegard Bruun Bratholm Wyller"],
+        "abstract": ["Aim\nAcute Epstein‐Barr virus (EBV) infection is a trigger of prolonged fatigue. This study investigated baseline predictors of physical activity six months after an acute EBV infection.\n\nMethods\nA total of 200 adolescents (12‐20 years old) with acute EBV infection were assessed for 149 possible baseline predictors and followed prospectively. In thi..."]
+      },
+      {
+        "title": "Sex differences in the relationship between social difficulties and executive dysfunction in children and adolescents with autism spectrum disorder",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Tonje Torske", "Terje Nærland", "Daniel Quintana", "Ole A Andreasssen"],
+        "abstract": ["The prevalence of autism spectrum disorder (ASD) in boys is nearly four times higher than in girls, and the causes of this sex difference are not fully known. Difficulties in executive function may be involved in development of autistic symptomatology. Here we investigated sex differences in the relationship between executive function in everyday l..."]
+      },
+      {
+        "title": "Predictors of chronic fatigue in adolescents six months after acute Epstein-Barr virus infection: A prospective cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Maria Pedersen", "Tarjei Tørre Asprusten", "Kristin Godang", "Vegard Bruun Bratholm Wyller"],
+        "abstract": ["Introduction: \nAcute Epstein-Barr virus (EBV) infection is a trigger of chronic fatigue and Chronic Fatigue Syndrome (CFS). This study investigated baseline predictors of chronic fatigue six months after an acute EBV infection.\n\nMaterials and methods: \nA total of 200 adolescents (12-20 years old) with acute EBV infection were assessed for 149 possi..."]
+      },
+      {
+        "title": "Adverse and adaptive childhood experiences are associated with parental reflective functioning in mothers with substance use disorder",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Ulrika håkansson", "Reidulf G. Watten", "Kerstin Söderström", "Merete Glenne Øie"],
+        "abstract": ["Mothers with a substance use disorder (SUD) are at risk for maladaptive parenting practices, and have heightened likelihood of having experienced childhood adversity themselves. In addition, parental reflective functioning (PRF), a capacity underlying sensitive caregiving, is often low in mothers with SUD. This study examines the relationship betwe..."]
+      },
+      {
+        "title": "Stability in basic self-disturbances and diagnosis in a first treated psychosis: A seven year follow-up study",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Ingrid Hartveit Svendsen", "Merete Glenne Øie", "Paul Møller", "Elisabeth Haug"],
+        "abstract": ["Background: \nBasic self-disturbances (BSDs) are considered core features of schizophrenia spectrum disorders, and are present in the prodromal, early psychotic and chronic phases. Considerable levels of BSDs are also present at first treatment in some patients with psychotic disorders outside the schizophrenia spectrum. There is limited knowledge a..."]
+      },
+      {
+        "title": "S82. GOAL MANAGEMENT TRAINING OF EXECUTIVE FUNCTIONS FOR PATIENTS WITH SCHIZOPHRENIA OR HIGH RISK OF SCHIZOPHRENIA: BASELINE CHARACTERISTICS AND PRELIMINARY RESULTS FROM AN RCT",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Ingvild Haugen", "Elisabeth Haug", "Torill Ueland", "Merete Glenne Øie"],
+        "abstract": ["Background\nAbout 85% of patients with schizophrenia have cognitive impairments, executive functions being particularly affected. Executive dysfunctions are important predictors of functional outcomes. Unlike psychotic symptoms, cognitive deficits do not improve during periods of remission and change only minimally with antipsychotic medications. Th..."]
+      },
+      {
+        "title": "S217. SELF-DISTURBANCES AND DIAGNOSTIC STABILITY IN FIRST EPISODE PSYCHOSIS: A SEVEN YEAR FOLLOW-UP STUDY",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Ingrid Hartveit Svendsen", "Merete Glenne Øie", "Paul Møller", "Elisabeth Haug"],
+        "abstract": ["Background\nSelf-disturbances are considered core features of schizophrenia spectrum disorders, and are present in the prodromal, the early psychotic and in the chronic phase. Self-disturbances are also present at first treatment in some patients with psychotic disorders outside of the schizophrenia spectrum. There is limited knowledge about the sta..."]
+      },
+      {
+        "title": "Associations between cognition and internalizing problems in young adults with early-onset schizophrenia: A 13-year follow-up study",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Benedicte Strugstad", "Bjørn Lau", "Merete Glenne Øie"],
+        "abstract": ["The present follow-up study examines the associations between cognition and parent-rated internalizing problems among adolescents with early-onset schizophrenia (EOS) at baseline (T1) and self-rated internalizing problems 13 years later (T2). Twelve individuals (8 male/4 female) with EOS and 30 healthy controls (16 male/14 female) were included in..."]
+      },
+      {
+        "title": "Metacognitive Aspects of Executive Function Are Highly Associated With Social Functioning on Parent-Rated Measures in Children with Autism Spectrum Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2018",
+        "authors": ["Tonje Torske", "Terje Nærland", "Merete Glenne Øie", "Ole A Andreassen"],
+        "abstract": ["Autism Spectrum Disorder (ASD) is characterized by social dysfunction. Even though executive dysfunction has been recognized as important in understanding ASD, the findings are inconsistent. This might be due to different definitions of executive function (EF), which part of EF that has been studied, structured vs. unstructured tasks, inclusion of..."]
+      },
+      {
+        "title": "Inside the Triple-Decker",
+        "tags": ["Chapter"],
+        "date": "Dec 2017",
+        "authors": ["Kjell Tore Hovik", "Merete Glenne Øie", "Elkhonon Goldberg"],
+        "abstract": ["The traditional standard definition and diagnostic criteria of Tourette’s syndrome (TS) are incomplete and leave out significant aspects of TS neurobiology and symptomatology, the latter often misdiagnosed as a separate “comorbid” disorder. Guided by the insights from the studies of lateralized prefrontal lesions and hemi-Parkinsonian syndromes, we..."]
+      },
+      {
+        "title": "Severity of Autism Symptoms and Degree of Attentional Difficulties Predicts Emotional and Behavioral Problems in Children with High-Functioning Autism; a Two-Year Follow-up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Per Normann Andersen", "Kjell Tore Hovik", "Erik Winther Skogli", "Merete Glenne Øie"],
+        "abstract": ["Children with autism often struggle with emotional and behavioral problems (EBP). This study investigated whether level of autism symptoms, attention problems or verbal IQ at baseline can predict EBP 2 years later in children with High-Functioning Autism (HFA). Thirty-four participants with HFA and 45 typically developing children (TD) (ages 9–16)..."]
+      },
+      {
+        "title": "Parental reflective functioning and executive functioning in mothers with substance use disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Ulrika håkansson", "Kerstin Söderström", "Reidulf G. Watten", "Merete Glenne Øie"],
+        "abstract": ["Having a substance use disorder (SUD) may adversely affect caregiving capacities. Reflective functioning (RF) and executive functioning (EF) are both important capacities for sensitive parenting, and are often impaired in a SUD. Only a few studies have explored the possible association between the two phenomena. In this study, we used a neuropsycho..."]
+      },
+      {
+        "title": "Altered right anterior insular connectivity and loss of associated functions in adolescent chronic fatigue syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Laura Anne Wortinger", "Merete Glenne Øie", "Tor Endestad", "Vegard Bruun Wyller"],
+        "abstract": ["Impairments in cognition, pain intolerance, and physical inactivity characterize adolescent chronic fatigue syndrome (CFS), yet little is known about its neurobiology. The right dorsal anterior insular (dAI) connectivity of the salience network provides a motivational context to stimuli. In this study, we examined regional functional connectivity (..."]
+      },
+      {
+        "title": "Utvikling av eksekutive funksjoner over to år hos barn og unge med høytfungerende autisme eller ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Per Normann Andersen", "Erik Winther Skogli", "Kjell Tore Hovik", "Merete Glenne Øie"],
+        "abstract": ["Executive functions (EF) underlie complex cognitive processes such as reasoning, problem solving and planning, which in turn influence both school and social functioning. EF deficits, school and social problems are common in children with High-Functioning Autism (HFA) and in children with Attention-Deficit/Hyperactivity Disorder (ADHD). This articl..."]
+      },
+      {
+        "title": "The association between anomalous self-experiences, self-esteem and depression in first episode schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Elisabeth Haug", "Merete Glenne Øie", "Ole A Andreassen", "Ingrid Melle"],
+        "abstract": ["Background: Anomalous self-experiences (ASEs) aggregate in schizophrenia spectrum disorders, but the relationship between ASEs, and depression has been studied to a limited extent. Lower self-esteem has been shown to be associated with depression in early psychosis. Our hypothesis is that ASEs in early phases of schizophrenia are linked to lower le..."]
+      },
+      {
+        "title": "Development of executive functions over a two-year period in youth with High-Functioning Autism or ADHD",
+        "tags": ["Poster"],
+        "date": "Oct 2016",
+        "authors": ["Per Normann Andersen", "Erik Winther Skogli", "Kjell Tore Hovik", "Sarah Loriega Candelario"],
+        "abstract": []
+      },
+      {
+        "title": "Development of executive functions over a two-year period in youth with High-Functioning Autism or ADHD",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Oct 2016",
+        "authors": ["Per Normann Andersen", "Erik Winther Skogli", "Kjell Tore Hovik", "Merete Glenne Øie"],
+        "abstract": []
+      },
+      {
+        "title": "Emotional conflict processing in adolescent chronic fatigue syndrome: A pilot study using functional magnetic resonance imaging",
+        "tags": ["Article"],
+        "date": "Sep 2016",
+        "authors": ["Laura Anne Wortinger", "Tor Endestad", "Annika Melinder", "Vegard Bruun Wyller"],
+        "abstract": ["Introduction: \nStudies of neurocognition suggest that abnormalities in cognitive control contribute to the pathophysiology of chronic fatigue syndrome (CFS) in adolescents, yet these abnormalities remain poorly understood at the neurobiological level. Reports indicate that adolescents with CFS are significantly impaired in conflict processing, a pr..."]
+      },
+      {
+        "title": "Gender Differences in the Relationship Between Changes in ADHD Symptoms, Executive Functions, and Self- and Parent-Report Depression Symptoms in Boys and Girls With ADHD: A 2-Year Follow-Up Study",
+        "tags": ["Article"],
+        "date": "Aug 2016",
+        "authors": ["Merete Glenne Øie", "Kjell Tore Hovik", "Per Normann Andersen", "Erik Winther Skogli"],
+        "abstract": ["Objective: \nThis study was conducted to investigate the association between changes in ADHD symptoms, executive functions (EFs), and depression symptoms in girls and boys with ADHD over a 2-year period.\n\nMethod: \nThirty-six girls and 39 boys with ADHD, 18 typically developing (TD) girls and 29 TD boys (ages 9-16) were included. Assessments of EFs,..."]
+      },
+      {
+        "title": "Aberrant Resting-State Functional Connectivity in the Salience Network of Adolescent Chronic Fatigue Syndrome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Laura Anne Wortinger", "Tor Endestad", "Annika Melinder", "Vegard Bruun Wyller"],
+        "abstract": ["Neural network investigations are currently absent in adolescent chronic fatigue syndrome (CFS). In this study, we examine whether the core intrinsic connectivity networks (ICNs) are altered in adolescent CFS patients. Eighteen adolescent patients with CFS and 18 aged matched healthy adolescent control subjects underwent resting-state functional ma..."]
+      },
+      {
+        "title": "Age-specific birth rates in women with epilepsy: a population-based study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2016",
+        "authors": ["Anette Farmen", "Jacob Holter Grundt", "Torbjörn Tomson", "Morten I Lossius"],
+        "abstract": ["Objective\nThe aim of this study was to investigate birth rates and use of hormonal contraception in different age groups among women with epilepsy (WWE) in comparison to women without epilepsy.\n\nMaterials and Methods\nDemographic data and medical information on more than 25,000 pregnant women (40,000 births), representing 95% of all pregnancies in O..."]
+      },
+      {
+        "title": "Keeping Mind in Mind: Mentalizing and Executive Functioning in Substance-Abusing Infant Mothers: Effect on Dyadic Relationship and Infant Outcome",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["Ulrika håkansson", "Astrid Halsa", "Kerstin Söderström", "Merete Glenne Øie"],
+        "abstract": ["Although it is well documented that maternal substance abuse has a negative effect on the mother-child interaction, less is known about the pathways through which the interaction is compromised. The main objective of this research proposal is to describe an ongoing research project that focuses on associations between maternal executive function an..."]
+      },
+      {
+        "title": "Cognition, Emotion and Behavior in Children with Tourette's Syndrome and Children with ADHD-Combined Subtype-A Two-Year Follow-Up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Kjell Tore Hovik", "Kerstin J von Plessen", "Andrea E Cavanna", "Merete Glenne Øie"],
+        "abstract": ["Objective: \nThis two-year follow-up study investigates the course of and association among measures of cognitive control, focused attention, decision-making and symptom severity (anxiety, depression and behavior) in children and adolescents with Tourette's Syndrome (TS) or Attention-Deficit/Hyperactivity Disorder-Combined subtype (ADHD-C).\n\nMethod:..."]
+      },
+      {
+        "title": "Cognitive dysfunction in adolescents with chronic fatigue: A cross-sectional study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Dag Sulheim", "Even Fagermoen", "Øyvind Stople Sivertsen", "Merete Glenne Øie"],
+        "abstract": ["To compare cognitive function in adolescents with chronic fatigue with cognitive function in healthy controls (HC).\nCross-sectional study.\nPaediatric department at Oslo University Hospital, Norway.\n120 adolescents with chronic fatigue (average age 15.4 years; range 12-18) and 39 HC (average age 15.2 years; range 12-18).\nThe adolescents completed a..."]
+      },
+      {
+        "title": "Web tables",
+        "tags": ["Data", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Dag Sulheim", "Even Fagermoen", "Øyvind Stople Sivertsen", "Merete Glenne Øie"],
+        "abstract": []
+      },
+      {
+        "title": "Associations Among Symptoms of Autism, Symptoms of Depression and Executive Functions in Children with High-Functioning Autism: A 2 Year Follow-Up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2015",
+        "authors": ["Per Normann Andersen", "Erik Winther Skogli", "Kjell Tore Hovik", "Merete Glenne Øie"],
+        "abstract": ["This study investigated the course of and association among changes in autism symptoms, depression symptoms and executive functions (EF) in children with high-functioning autism (HFA). Thirty-four children with HFA and 45 typically developing children (age 9-16) were assessed at baseline and after 2 years. Children with HFA had impaired scores on a..."]
+      },
+      {
+        "title": "High levels of anomalous self-experience are associated with longer duration of untreated psychosis",
+        "tags": ["Article"],
+        "date": "Jan 2015",
+        "authors": ["Elisabeth Haug", "Merete Glenne Øie", "Ole A Andreassen", "Paul Møller"],
+        "abstract": ["To investigate the relationship between anomalous self-experiences and duration of untreated psychosis in a sample of patients with first-episode schizophrenia spectrum disorders.\nAnomalous self-experiences were assessed by means of the Examination of Anomalous Self-Experience manual in 55 patients referred to their first adequate treatment for sch..."]
+      },
+      {
+        "title": "Anomalous Self-Experience and Childhood Trauma in First-Episode Schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2014",
+        "authors": ["Elisabeth Haug", "Merete Glenne Øie", "Ole A Andreassen", "Ingrid Melle"],
+        "abstract": []
+      },
+      {
+        "title": "Distinct Patterns of Everyday Executive Function Problems Distinguish Children With Tourette Syndrome From Children With ADHD or Autism Spectrum Disorders",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2014",
+        "authors": ["Kjell Tore Hovik", "Jens Egeland", "Peter K Isquith", "Merete Glenne Øie"],
+        "abstract": ["Objective: \nThe aim is to investigate the everyday executive function (EF) in children with Tourette syndrome (TS), Inattentive or Combined presentations of ADHD (ADHD-I/ADHD-C), autism spectrum disorders (ASD), and typically developing children (TDC).\n\nMethod: \nNineteen TS, 33 ADHD-C, 43 ADHD-I, 34 ASD, and 50 TDC participated (8-17 years). Parent..."]
+      },
+      {
+        "title": "Relative stability of neurocognitive deficits in early onset schizophrenia spectrum patients",
+        "tags": ["Article"],
+        "date": "Jul 2014",
+        "authors": ["Monica Juuhl", "Aina Holmén", "Rune Thormodsen", "Bjørn Rishovd Rund"],
+        "abstract": ["In contrast to the findings of progressive structural brain changes in adolescence, longitudinal studies of patients with early onset schizophrenia spectrum disorders (EOS) indicate that neurocognitive deficits are relatively stable over the first years. The aim of this study is to assess neurocognitive functions longitudinally in patients with EOS..."]
+      },
+      {
+        "title": "Development of Hot and Cold Executive Function in Boys and Girls With ADHD: A 2-Year Longitudinal Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Erik Winther Skogli", "Per Normann Andersen", "Kjell Tore Hovik", "Merete Glenne Øie"],
+        "abstract": ["Objective: \nTo investigate the development of executive function with pronounced emotional salience (hot EF) and less pronounced emotional salience (cold EF) in boys and girls with ADHD relative to typically developing (TD) children.\n\nMethod: \nSeventy-five children with ADHD and 47 TD children were assessed with hot and cold EF tests at baseline an..."]
+      },
+      {
+        "title": "Working memory arrest in children with high-functioning autism compared to children with attention-deficit/hyperactivity disorder: Results from a 2-year longitudinal study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Per Normann Andersen", "Erik Winther Skogli", "Kjell Tore Hovik", "Merete Glenne Øie"],
+        "abstract": ["The aim of this study was to analyse the development of verbal working memory in children with high-functioning autism compared to children with attention-deficit/hyperactivity disorder and typically developing children. A total of 34 children with high-functioning autism, 72 children with attention-deficit/hyperactivity disorder and 45 typically d..."]
+      },
+      {
+        "title": "Environmental factors during adolescence associated with later development of psychotic disorders – A nested case-control study",
+        "tags": ["Article"],
+        "date": "Mar 2014",
+        "authors": ["Unni Bratlien", "Merete Glenne Øie", "Elisabeth Haug", "Ingrid Melle"],
+        "abstract": ["Etiologies of psychotic disorders (schizophrenia and bipolar disorder) are conceptualized as interplay between genetic- and environmental factors. The adolescent period is characterized by changes in social roles and expectations that may interact with biological changes or psychosocial stressors. Few studies focus on the adolescents’ own reports o..."]
+      },
+      {
+        "title": "Disease Mechanisms and Clonidine Treatment in Adolescent Chronic Fatigue Syndrome A Combined Cross-sectional and Randomized Clinical Trial",
+        "tags": ["Article"],
+        "date": "Feb 2014",
+        "authors": ["Dag Sulheim", "Even Fagermoen", "Anette Winger", "Vegard Bruun Wyller"],
+        "abstract": ["Importance \nChronic fatigue syndrome (CFS) is a disabling condition with unknown disease mechanisms and few treatment options.Objective \nTo explore the pathophysiology of CFS and assess clonidine hydrochloride pharmacotherapy in adolescents with CFS by using a hypothesis that patients with CFS have enhanced sympathetic activity and that sympatho-in..."]
+      },
+      {
+        "title": "Anomalous self-experiences contribute independently to social dysfunction in the early phases of schizophrenia and psychotic bipolar disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Elisabeth Haug", "Merete Glenne Øie", "Ole A Andreassen", "Ingrid Melle"],
+        "abstract": []
+      },
+      {
+        "title": "Dissociable Response Inhibition in Children With Tourette's Syndrome Compared With Children With ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Kjell Tore Hovik", "Kerstin J von Plessen", "Erik Winther Skogli", "Merete Glenne Øie"],
+        "abstract": ["Objective: \nThis study investigates whether performance in a verbal response task (Color-Word Interference Test [CWIT]) and a motor response task (Conners' Continuous Performance Test [CCPT]) discriminates children with Tourette's Syndrome (TS), ADHD, and typically developing children (TDC).\n\nMethod: \nNineteen children with TS, 79 with ADHD, and 50..."]
+      },
+      {
+        "title": "Self-reported symptoms and health service use in adolescence in persons who later develop psychotic disorders: A prospective case-control study: Premorbid signs in psychosis",
+        "tags": ["Article"],
+        "date": "Nov 2013",
+        "authors": ["Unni Bratlien", "Merete Glenne Øie", "Elisabeth Haug", "Ingrid Melle"],
+        "abstract": ["To investigate self-reported psychiatric and somatic symptoms and health service use at age 16 in persons who later developed a psychotic disorder compared with a control group from the same geographical areas.\nResponses concerning psychiatric or somatic health and health service use from Norwegian youth studies in a cohort of 15- and 16-year-olds..."]
+      },
+      {
+        "title": "ADHD in girls and boys--gender differences in co-existing symptoms and executive function measures",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Erik Winther Skogli", "Martin Teicher", "Per Normann Andersen", "Merete Glenne Øie"],
+        "abstract": ["ADHD is diagnosed and treated more often in males than in females. Research on gender differences suggests that girls may be consistently underidentified and underdiagnosed because of differences in the expression of the disorder among boys and girls. One aim of the present study was to assess in a clinical sample of medication naive boys and girls..."]
+      },
+      {
+        "title": "Symptoms of ADHD in Children with High-Functioning Autism Are Related to Impaired Verbal Working Memory and Verbal Delayed Recall",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Per Normann Andersen", "Kjell Tore Hovik", "Erik Winther Skogli", "Merete Glenne Øie"],
+        "abstract": ["Symptoms similar to those found in Attention-Deficit/Hyperactivity Disorder (ADHD) often occur in children with Autism Spectrum Disorders (ASD). The objective of the current study was to compare verbal working memory, acquisition and delayed recall in children with High-Functioning Autism (HFA) to children with ADHD and typically developing childre..."]
+      },
+      {
+        "title": "Few differences in hot and cold executive functions in children and adolescents with combined and inattentive subtypes of ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Erik Winther Skogli", "Jens Egeland", "Per Normann Andersen", "Merete Glenne Øie"],
+        "abstract": ["The aim of the study was to compare executive processes with pronounced (hot) and less pronounced (cold) emotional salience in medication naïve children and adolescents with ADHD-combined (ADHD-C) and ADHD-inattentive (ADHD-I) subtypes. Thirty-six subjects with ADHD-C, 44 with ADHD-I, and 50 healthy controls between 8 and 17 years were assessed wit..."]
+      },
+      {
+        "title": "Social dysfunction in first-episode psychosis and relations to neurocognition, duration of untreated psychosis and clinical symptoms",
+        "tags": ["Article"],
+        "date": "Nov 2012",
+        "authors": ["Unni Bratlien", "Merete Glenne Øie", "Lars Lien", "Ingrid Melle"],
+        "abstract": []
+      },
+      {
+        "title": "Differences in cognitive control in children and adolescents with combined and inattentive subtypes of ADHD",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Merete Glenne Øie", "Erik Winther Skogli", "Per Normann Andersen", "Kenneth Hugdahl"],
+        "abstract": ["The aim of the present study was to investigate the ability of children with attention deficit/hyperactivity disorder-combined subtype (ADHD-C) and predominantly inattentive subtype (ADHD-PI) to direct their attention and to exert cognitive control in a forced attention dichotic listening (DL) task. Twenty-nine, medication-naive participants with A..."]
+      },
+      {
+        "title": "Selective Aggregation of Self-Disorders in First-Treatment DSM-IV Schizophrenia Spectrum Disorders",
+        "tags": ["Article"],
+        "date": "Jul 2012",
+        "authors": ["Elisabeth Haug", "Lars Lien", "Andrea Raballo", "Paul Møller"],
+        "abstract": ["Converging evidence indicates that self-disorders (SDs) selectively aggregate in schizophrenia spectrum conditions. The aim of this study was to test the discriminatory power of SDs with respect to schizophrenia and nonschizophrenia spectrum psychosis at first treatment contact. SDs were assessed in 91 patients referred for first treatment through..."]
+      },
+      {
+        "title": "Learning and Memory Impairments in Children and Adolescents With Attention-Deficit/Hyperactivity Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Per Normann Andersen", "Jens Egeland", "Merete Glenne Øie"],
+        "abstract": ["There are relatively few studies on learning and delayed memory with attention-deficit/hyperactivity disorder (ADHD). The objective of the present study was to examine acquisition, free delayed memory, and recognition skills in medication naive children and adolescents aged 8-16 years with ADHD combined subtype (36 participants) and inattentive sub..."]
+      },
+      {
+        "title": "The association between self-disorders and neurocognitive dysfunction in schizophrenia",
+        "tags": ["Article"],
+        "date": "Dec 2011",
+        "authors": ["Elisabeth Haug", "Merete Glenne Øie", "Ingrid Melle", "Paul Møller"],
+        "abstract": ["Neurocognitive deficits and self-disorders (i.e. altered basic self-awareness or - sense of self) have both been suggested as fundamental trait features of schizophrenia. However, no study until now has investigated the relationship between these two core features.\nTo investigate the relationship between self-disorders and neurocognitive performanc..."]
+      },
+      {
+        "title": "The association between anomalous self-expenence and suicidality in first-episode schizophrenia seems mediated by depression",
+        "tags": ["Article"],
+        "date": "Aug 2011",
+        "authors": ["Elisabeth Haug", "Ingrid Melle", "Ole A Andreassen", "Paul Møller"],
+        "abstract": ["A recent hypothesis is that suicidality in schizophrenia may be linked to the patients' altered basic self-awareness or sense of self, termed self-disorders (SDs).\nThe aim of the study was to investigate whether SDs in first-episode schizophrenia spectrum disorders are related to suicidality and whether this relationship is independent of or mediat..."]
+      },
+      {
+        "title": "Neurocognition and Functional Outcome in Early-Onset Schizophrenia and Attention-Deficit/Hyperactivity Disorder: A 13-Year Follow-Up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2010",
+        "authors": ["Merete Glenne Øie", "Kjetil Sundet", "Torill Ueland"],
+        "abstract": ["The relation between neurocognitive impairments and functional outcome has been documented in both early onset schizophrenia (EOS) and attention-deficit/hyperactivity disorder (ADHD), but less is known about the long-term relation between these factors. The present study investigates how neurocognition at baseline is related to measures of function..."]
+      },
+      {
+        "title": "Neurocognitive Decline in Early-Onset Schizophrenia Compared With ADHD and Normal Controls: Evidence From a 13-Year Follow-up Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2008",
+        "authors": ["Merete Glenne Øie", "Kjetil Sundet", "Bjørn Rishovd Rund"],
+        "abstract": ["The issue of neurodegeneration in schizophrenia is controversial. Although most studies indicate that neurocognitive deficits are relatively stable over the course of the illness, conclusions are limited by relatively short follow-up periods and absence of age-matched control groups. Furthermore, nearly all studies deal with adult-onset schizophren..."]
+      },
+      {
+        "title": "A 10-13 year follow-up of changes in perception and executive attention in patients with early-onset schizophrenia: A dichotic listening study",
+        "tags": ["Article"],
+        "date": "Feb 2008",
+        "authors": ["Merete Glenne Øie", "Kenneth Hugdahl"],
+        "abstract": []
+      },
+      {
+        "title": "Positive symptoms and duration of illness predict functional laterality and attention modulation in schizophrenia",
+        "tags": ["Article"],
+        "date": "May 2006",
+        "authors": ["Else-Marie Løberg", "Hugo A Jørgensen", "M F Green", "Kenneth Hugdahl"],
+        "abstract": ["Dichotic listening (DL) performance in schizophrenia, reflecting hemispheric asymmetry and the functional integrity of the left temporal lobe, can vary with clinical characteristics. Previous studies have not taken the co-linearity of clinical variables into account. The aim of the present study was to evaluate the roles of positive symptoms and du..."]
+      },
+      {
+        "title": "Erratum to “Cognitive functioning in adolescents with schizophrenia spectrum disorders” [Psychiatry Res. 126 (2004) 229–239]",
+        "tags": ["Article"],
+        "date": "Sep 2004",
+        "authors": ["Torill Ueland", "Merete Glenne Øie", "Nils Inge Landrø", "Bjørn Rishovd Rund"],
+        "abstract": ["The publisher regrets that in the above article the following errors occurred. Page 232, the 4th line on the left hand column should read: 480 trials were presented (six blocks of 80 stimuli), ... Page 235, the sentence on 9th line of the second paragraph on the right hand column should read: These results could indicate that impaired attention may..."]
+      },
+      {
+        "title": "Cognitive functioning in adolescents with schizophrenia spectrum disorders",
+        "tags": ["Article"],
+        "date": "Jun 2004",
+        "authors": ["Torill Ueland", "Merete Glenne Øie", "Nils Inge Landrø", "Bjørn Rishovd Rund"],
+        "abstract": ["In contrast to studies of cognitive functioning in adults with schizophrenia, there has been a relative paucity of studies assessing adolescents with schizophrenia. We investigated cognitive functioning in 22 adolescents with schizophrenia spectrum disorders compared with 30 healthy adolescents. The patient group demonstrated impaired performance o..."]
+      },
+      {
+        "title": "Span of apprehension in adolescents with schizophrenia or ADHD [2]",
+        "tags": ["Article"],
+        "date": "Jan 2000",
+        "authors": ["Bjørn Rishovd Rund", "Merete Glenne Øie", "Pal Zeiner", "Kjetil Sundet"],
+        "abstract": []
+      },
+      {
+        "title": "Contrasts in memory functions between adolescents with schizophrenia or ADHD",
+        "tags": ["Article"],
+        "date": "Dec 1999",
+        "authors": ["Merete Glenne Øie", "Kjetil Sunde", "Bjørn Rishovd Rund"],
+        "abstract": ["Previous research on memory and schizophrenia has relied on a limited number of global memory measures instead of a comprehensive assessment of various memory components. In addition, little effort has been directed at examining memory functioning in patients with early-onset schizophrenia. Published research often lacks a relevant neuropsychiatric..."]
+      },
+      {
+        "title": "Neuropsychological Deficits in Adolescent-Onset Schizophrenia Compared With Attention Deficit Hyperactivity Disorder",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 1999",
+        "authors": ["Merete Glenne Øie", "Bjørn Rishovd Rund"],
+        "abstract": ["Impaired neuropsychological performance involving abstraction-flexibility, memory, motor function, and attention has frequently been reported in schizophrenia as well as in attention deficit hyperactivity disorder (ADHD). This study represents an attempt to compare groups of adolescents with schizophrenia and ADHD on a comprehensive neuropsychologi..."]
+      },
+      {
+        "title": "Oie M, Rund BR, Sundet K. Covert visual attention in patients with early-onset schizophrenia. Schizophrenia Res 34: 195-205",
+        "tags": ["Article"],
+        "date": "Dec 1998",
+        "authors": ["Merete Glenne Øie", "Bjørn Rishovd Rund", "Kjetil Sundet"],
+        "abstract": ["The aim of the present study is to examine attentional costs (inhibition) in covert visual attention in a group of acutely ill adolescents with schizophrenia without long histories of neuroleptic treatment. Variations in reaction time were analyzed for possible age and sex differences. Adolescents with schizophrenia (n = 19) were compared to a grou..."]
+      },
+      {
+        "title": "No vigilance deficit found in young schizophrenic or ADHD subjects",
+        "tags": ["Article"],
+        "date": "Jul 1998",
+        "authors": ["Bjørn Rishovd Rund", "Pal Zeiner", "Kjetil Sundet", "Grete Bryhn"],
+        "abstract": ["Vigilance deficits have been found in both schizophrenic and ADHD subjects. The two patient groups have never been directly compared on any vigilance measure, however. In the present study 20 early-onset schizophrenics were compared to 20 ADHD adolescents on a Degraded Stimulus Continuous Performance Test (DS-CPT). A comparison group of 30 normal a..."]
+      },
+      {
+        "title": "Auditory Laterality and Selective Attention: Normal Performance in Patients With Early-Onset Schizophrenia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 1998",
+        "authors": ["Merete Glenne Øie", "Bjørn Rishovd Rund", "Kjetil Sundet", "Grete Bryhn"],
+        "abstract": ["In this study, auditory laterality and selective attention were examined in patients with early-onset schizophrenia using a dichotic listening (DL) test. Deficient performance on this test has repeatedly been found in adult patients with chronic schizophrenia, indicating abnormalities in left hemisphere function. The hypothesis in the present study..."]
+      }
+    ],
+    "degree": ["Professor"],
+    "bio": [],
+    "publications": [107],
+    "reads": [19443],
+    "citations": [2526]
   }
 }

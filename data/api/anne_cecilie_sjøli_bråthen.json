@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-5118-0000",
-    "name": "Anne Cecilie Sjøli Bråthen",
+    "orcid": ["0000-0002-5118-0000"],
+    "name": ["Anne Cecilie Sjøli Bråthen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Anne Cecilie Sjøli Bråthen",
-    "id": "530728",
+    "name": ["Anne Cecilie Sjøli Bråthen"],
+    "id": ["530728"],
     "keywords": [],
     "position": ["Researcher"],
     "img": {},
@@ -83,5 +83,130 @@
         "url": "https://api.cristin.no/v2/results/1333983"
       }
     ]
+  },
+  "rg": {
+    "id": "Anne-Cecilie-Sjoli-Brathen-2",
+    "name": "Anne Cecilie Sjøli Bråthen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/336211819417601-1457170552445_Q128/Anne-Cecilie-Sjoli-Brathen-2.jpg",
+    "affiliation": "LCBC University of Oslo",
+    "keywords": ["Memory", "Cognitive Neuropsychology", "Cognitive Neuroscience", "Neuroimaging", "Cognition", "Abdominal Fat", "Visceral Adipose Tissue", "Abdominal Obesity", "Sports Coaching", "Psychology"],
+    "works": [
+      {
+        "title": "Accelerated brain change in healthy adults is associated with genetic risk for Alzheimer's disease and uncovers adult lifespan memory decline",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2023",
+        "authors": ["James Michael Roe", "Didac Vidal-Piñeiro", "Øystein Sørensen", "Yunpeng Wang"],
+        "abstract": ["Across healthy adult life our brains undergo gradual structural change in a pattern of atrophy that resembles accelerated brain changes in Alzheimer's disease (AD). Here, using four polygenic risk scores for AD (PRS-AD) in a longitudinal adult lifespan sample aged 30 to 89 years (2-7 timepoints), we show that healthy individuals who lose brain volu..."]
+      },
+      {
+        "title": "Back to the future: omnipresence of fetal influence on the human brain through the lifespan",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": ["Human fetal development has been associated with brain health at later stages. It is unknown whether growth in utero, as indexed by birth weight (BW), relates consistently to lifespan brain characteristics and changes, and to what extent these influences are of a genetic or environmental nature. Here we show remarkably stable and life-long positive..."]
+      },
+      {
+        "title": "Back to the future: omnipresence of fetal influence on the human brain through the lifespan",
+        "tags": ["Preprint"],
+        "date": "May 2023",
+        "authors": ["Kristine Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": ["Human fetal development has been associated with brain health at later stages. It is unknown whether growth in utero, as indexed by birth weight (BW), relates consistently to lifespan brain characteristics and changes, and to what extent these influences are of a genetic or environmental nature. Here we show remarkably stable and life-long positive..."]
+      },
+      {
+        "title": "Prenatal development has stable and consistent effects on the human brain throughout the lifespan",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Kristine Beate Walhovd", "Stine K Krogsrud", "Inge K. Amlien", "Didac Vidal-Piñeiro"],
+        "abstract": ["Human fetal development has been associated with brain health at later stages. It is unknown whether and how consistently growth in utero, as indexed by birth weight (BW), relates to lifespan brain characteristics and changes, and to what extent these influences are of a genetic and/or environmental nature. We hypothesized that associations of BW a..."]
+      },
+      {
+        "title": "Cognitive and hippocampal changes weeks and years after memory training",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Anne Cecilie Sjøli Bråthen", "Øystein Sørensen", "Ann-Marie G de Lange", "Kristine Walhovd"],
+        "abstract": ["While immediate effects of memory-training are widely reported in young and older adults, less is known regarding training-dependent hippocampal plasticity across multiple intervention phases, and long-term maintenance of such. Here, 157 healthy young and older adults underwent a training-intervention including two 10 weeks periods of episodic-memo..."]
+      },
+      {
+        "title": "Within-session verbal learning slope is predictive of lifespan delayed recall, hippocampal volume, and memory training benefit, and is heritable",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Kristine Walhovd", "Anne Cecilie Sjøli Bråthen", "Matthew S Panizzon", "Anders M. Fjell"],
+        "abstract": ["Memory performance results from plasticity, the ability to change with experience. We show that benefit from practice over a few trials, learning slope, is predictive of long-term recall and hippocampal volume across a broad age range and a long period of time, relates to memory training benefit, and is heritable. First, in a healthy lifespan sampl..."]
+      },
+      {
+        "title": "Risk- and protective factors for memory plasticity in aging",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Anne Cecilie Sjøli Bråthen", "Ann-Marie G de Lange", "Anders M Fjell", "Kristine Walhovd"],
+        "abstract": ["Risk and protective factors for cognitive function in aging may affect how much individuals benefit from their environment or life experiences by preserving or improving cognitive abilities. We investigated the relations between such factors and outcome from episodic-memory training in 136 healthy young and older adults. Tested risk factors include..."]
+      },
+      {
+        "title": "Self-reported Sleep Problems Related to Amyloid Deposition in Cortical Regions with High HOMER1 Gene Expression",
+        "tags": ["Article"],
+        "date": "Nov 2019",
+        "authors": ["Anders M Fjell", "Donatas Sederevicius", "Markus Handal Sneve", "Kristine Walhovd"],
+        "abstract": ["Sleep problems are related to the elevated levels of the Alzheimer's disease (AD) biomarker β-amyloid (Aβ). Hypotheses about the causes of this relationship can be generated from molecular markers of sleep problems identified in rodents. A major marker of sleep deprivation is Homer1a, a neural protein coded by the HOMER1 gene, which has also been i..."]
+      },
+      {
+        "title": "Multimodal cortical and hippocampal prediction of episodic‐memory plasticity in young and older adults",
+        "tags": ["Article"],
+        "date": "Jul 2018",
+        "authors": ["Anne Cecilie Sjøli Bråthen", "Ann-Marie G de Lange", "Kristine Walhovd", "Darius Adam Rohani"],
+        "abstract": ["Episodic memory can be trained in both early and late adulthood, but there is considerable variation in cognitive improvement across individuals. Which brain characteristics make some individuals benefit more than others? We used a multimodal approach to investigate whether volumetric magnetic resonance imaging (MRI) and resting‐state functional MR..."]
+      },
+      {
+        "title": "Longitudinal increase in sleep problems is related to amyloid deposition in cortical regions with high HOMER1 gene expression",
+        "tags": ["Preprint"],
+        "date": "May 2018",
+        "authors": ["Anders M Fjell", "Donatas Sederevicius", "Markus Handal Sneve", "Kristine Walhovd"],
+        "abstract": ["Older adults who report more sleep problems tend to have elevated levels of the Alzheimer's disease (AD) biomarker beta-amyloid (Ab42), but the mechanisms responsible for this relationship are largely unknown. Molecular markers of sleep problems are now emerging from rodent research, yielding opportunities to generate hypotheses about the causes of..."]
+      },
+      {
+        "title": "Supplementary Data",
+        "tags": ["Data"],
+        "date": "May 2018",
+        "authors": ["Ann-Marie Glasø de Lange", "Anne Cecilie Sjøli Bråthen", "Darius Adam Rohani", "Kristine Walhovd"],
+        "abstract": []
+      },
+      {
+        "title": "The Temporal Dynamics of Brain Plasticity in Aging",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2018",
+        "authors": ["Ann-Marie G de Lange", "Anne Cecilie Sjøli Bråthen", "Darius Adam Rohani", "Kristine Walhovd"],
+        "abstract": ["Cognitive training has been suggested as a possible remediation of decline in brain structure with older age. However, it is unknown whether training effects are transient or enduring, as no studies have examined training-induced plasticity relative to decline in older adults across extended periods with multiple intervention phases. We investigate..."]
+      },
+      {
+        "title": "The Effects of Memory Training on Behavioral and Microstructural Plasticity in Young and Older Adults",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Ann-Marie G de Lange", "Anne Cecilie Sjøli Bråthen", "Darius Adam Rohani", "Kristine Walhovd"],
+        "abstract": ["Age differences in human brain plasticity are assumed, but have not been systematically investigated. In this longitudinal study, we investigated changes in white matter (WM) microstructure in response to memory training relative to passive and active control conditions in 183 young and older adults. We hypothesized that (i) only the training group..."]
+      },
+      {
+        "title": "Supplementary Materials",
+        "tags": ["Data"],
+        "date": "Nov 2016",
+        "authors": ["Ann-Marie Glasø de Lange", "Anne Cecilie Sjøli Bråthen", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": []
+      },
+      {
+        "title": "White Matter Integrity as a Marker for Cognitive Plasticity in Aging",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2016",
+        "authors": ["Ann-Marie G de Lange", "Anne Cecilie Sjøli Bråthen", "Hakon Grydeland", "Kristine Walhovd"],
+        "abstract": ["Age-related differences in white-matter (WM) integrity are substantial, but it is unknown whether between-subject variability in WM integrity influences the capacity for cognitive improvement. We investigated the effects of memory training related to active and passive control conditions in older adults and tested whether WM integrity at baseline w..."]
+      },
+      {
+        "title": "Premises of plasticity — And the loneliness of the medial temporal lobe",
+        "tags": ["Article"],
+        "date": "Oct 2015",
+        "authors": ["Kristine Walhovd", "René Westerhausen", "Ann-Marie G de Lange", "Anders M Fjell"],
+        "abstract": ["In this perspective paper, we examine possible premises of plasticity in the neural substrates underlying cognitive change. We take the special role of the medial temporal lobe as an anchoring point, but also investigate characteristics throughout the cortex. Specifically, we examine the dimensions of evolutionary expansion, heritability, variabili..."]
+      }
+    ],
+    "degree": ["PhD", ""],
+    "publications": [16],
+    "reads": [1349],
+    "citations": [174]
   }
 }

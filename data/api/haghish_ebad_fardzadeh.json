@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-5950-4009",
-    "name": "Haghish Ebad Fardzadeh",
+    "orcid": ["0000-0001-5950-4009"],
+    "name": ["Haghish Ebad Fardzadeh"],
     "distinctions": [],
     "education": [
       {
@@ -25,8 +25,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Haghish Ebad Fardzadeh",
-    "id": "1269582",
+    "name": ["Haghish Ebad Fardzadeh"],
+    "id": ["1269582"],
     "keywords": [],
     "position": ["Post-doctoral research fellow", "Guest"],
     "img": {},
@@ -53,43 +53,43 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Unveiling Adolescent Suicidality: Holistic Analysis of Protective and Risk Factors Using Multiple Machine Learning Algorithms",
-        "journal": "Journal of Youth and Adolescence",
-        "url": "https://api.cristin.no/v2/results/2187404"
+        "url": "https://api.cristin.no/v2/results/2187404",
+        "journal": "Journal of Youth and Adolescence"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Predicting suicide attempts among Norwegian adolescents without using suicide-related items: a machine learning approach",
-        "journal": "Frontiers in Psychiatry",
-        "url": "https://api.cristin.no/v2/results/2178823"
+        "url": "https://api.cristin.no/v2/results/2178823",
+        "journal": "Frontiers in Psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Reconsidering False Positives in Machine Learning Binary Classification Models of Suicidal Behavior",
-        "journal": "Current Psychology",
-        "url": "https://api.cristin.no/v2/results/2175968"
+        "url": "https://api.cristin.no/v2/results/2175968",
+        "journal": "Current Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Beat alignment ability is associated with formal musical training not current music playing",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2175966"
+        "url": "https://api.cristin.no/v2/results/2175966",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Are false positives in suicide classification models a risk group? Evidence for “true alarms” in a population-representative longitudinal study of Norwegian adolescents",
-        "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/2175963"
+        "url": "https://api.cristin.no/v2/results/2175963",
+        "journal": "Frontiers in Psychology"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "Mental Health, Well-Being, and Adolescent Extremism: A Machine Learning Study on Risk and Protective Factors",
-        "journal": "Research on Child and Adolescent Psychopathology",
-        "url": "https://api.cristin.no/v2/results/2170943"
+        "url": "https://api.cristin.no/v2/results/2170943",
+        "journal": "Research on Child and Adolescent Psychopathology"
       },
       {
         "type": "Software",
@@ -107,44 +107,345 @@
         "type": "Academic article",
         "year": "2022",
         "title": "Seeing minds–a signal detection study of agency attribution along the autism-psychosis continuum",
-        "journal": "Cognitive Neuropsychiatry",
-        "url": "https://api.cristin.no/v2/results/2025826"
+        "url": "https://api.cristin.no/v2/results/2025826",
+        "journal": "Cognitive Neuropsychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Adolescents’ psychosocial well-being one year after the outbreak of the COVID-19 pandemic in Norway",
-        "journal": "Nature Human Behaviour",
-        "url": "https://api.cristin.no/v2/results/1988526"
+        "url": "https://api.cristin.no/v2/results/1988526",
+        "journal": "Nature Human Behaviour"
       },
       {
         "type": "Academic article",
         "year": "2021",
         "title": "Estimating measurement error in child language assessments administered by daycare educators in large scale intervention studies",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/1972302"
+        "url": "https://api.cristin.no/v2/results/1972302",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Factorial Structure and Validity of Depression (PHQ-9) and Anxiety (GAD-7) Scales after Traumatic Brain Injury",
-        "journal": "Clinical medicine (London)",
-        "url": "https://api.cristin.no/v2/results/2026276"
+        "url": "https://api.cristin.no/v2/results/2026276",
+        "journal": "Clinical medicine (London)"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Preliminary validation of the Dutch version of the Posttraumatic stress disorder checklist for DSM-5 (PCL-5) after traumatic brain injury in a civilian population",
-        "journal": "PLOS ONE",
-        "url": "https://api.cristin.no/v2/results/2026275"
+        "url": "https://api.cristin.no/v2/results/2026275",
+        "journal": "PLOS ONE"
       },
       {
         "type": "Academic article",
         "year": "2020",
         "title": "Developing, maintaining, and hosting Stata statistical software on GitHub",
-        "journal": "The Stata Journal",
-        "url": "https://api.cristin.no/v2/results/1865934"
+        "url": "https://api.cristin.no/v2/results/1865934",
+        "journal": "The Stata Journal"
       }
     ]
+  },
+  "rg": {
+    "id": "E-F-Haghish",
+    "name": "E. F. Haghish",
+    "img": "https://i1.rgstatic.net/ii/profile.image/11431281154673120-1682948574100_Q128/E-F-Haghish.jpg",
+    "affiliation": "University of Oslo, Department of Psychology",
+    "keywords": ["R", "R Programming", "Statistical Analysis", "Data Analysis", "Programming C++", "Data Management", "Applied Statistics", "Statistical Modeling", "Python", "Machine Learning"],
+    "works": [
+      {
+        "title": "Sociological Indicators of Ethical Attitude toward Ethnic Humor: An Empirical Study on Persian Jokes",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2012",
+        "authors": ["E. F. Haghish", "Arash Heydari", "Robert Biegler", "Ali Teymoori"],
+        "abstract": ["People's ethical attitude toward ethnic humor (EATEH) is not well-investigated. The present article explores the relation of gender, anomie, socioeconomic status, ethnocentrism, and national identity to ethical attitude toward ethnic humor. 500 high school students were surveyed from 10 high schools of Ahvaz, Iran. Findings revealed that attitudes..."]
+      },
+      {
+        "title": "Socioeconomic status, perceived parental control, and authoritarianism: Development of authoritarianism in Iranian society",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2013",
+        "authors": ["Arash Heydari", "Ali Teymoori", "E. F. Haghish"],
+        "abstract": ["The purpose of the current study is to examine the relationship between socioeconomic status, parental control,\nand authoritarianism in Iran. A sample of 460 students was surveyed from Shahid Chamran University of Ahvaz\nin Iran. Results demonstrated that subjective socioeconomic status, parental control, and parents’ education have\nsignificant infl..."]
+      },
+      {
+        "title": "Influential factors on ethnocentrism: The effect of socioeconomic status, anomie, and authoritarianism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2014",
+        "authors": ["Arash Heydari", "Ali Teymoori", "E. F. Haghish", "Behrang Mohamadi"],
+        "abstract": ["This study examines the relation of dimensions of ethnocentrism with socio-structural factors such as socioeconomic status (SES), feelings of anomie, and authoritarianism. Using clustered sampling, 500 students were selected from ten high schools in Ahvaz, Iran. Results of structural equation modeling showed that SES has a direct positive effect on..."]
+      },
+      {
+        "title": "Seamless interactive language interfacing between R and Stata",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["In this article, I propose a new approach to language interfacing for statistical software by allowing automatic interprocess communication between R and Stata. I advocate interactive language interfacing in statistical software by automatizing data communication. I introduce the rcall package and provide examples of how the R language can be used..."]
+      },
+      {
+        "title": "Markdoc: Literate Programming in Stata",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["Rigorous documentation of the analysis plan, procedure, and computer codes enhances the comprehensibility and transparency of data analysis. Documentation is particularly critical when the codes and data are meant to be publicly shared and examined by the scientific community to evaluate the analysis or adapt the results. The popular approach for d..."]
+      },
+      {
+        "title": "Unveiling Adolescent Suicidality: Holistic Analysis of Protective and Risk Factors Using Multiple Machine Learning Algorithms",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2023",
+        "authors": ["E. F. Haghish", "Ragnhild Bang Nes", "Milan Obaidi", "Nikolai Czajkowski"],
+        "abstract": ["Adolescent suicide attempts are on the rise, presenting a significant public health concern. Recent research aimed at improving risk assessment for adolescent suicide attempts has turned to machine learning. But no studies to date have examined the performance of stacked ensemble algorithms, which are more suitable for low-prevalence conditions. Th..."]
+      },
+      {
+        "title": "Predicting suicide attempts among Norwegian adolescents without using suicide-related items: a machine learning approach",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["E. F. Haghish", "Nikolai O Czajkowski", "Tilmann Von Soest"],
+        "abstract": ["IntroductionResearch on the classification models of suicide attempts has predominantly depended on the collection of sensitive data related to suicide. Gathering this type of information at the population level can be challenging, especially when it pertains to adolescents. We addressed two main objectives: (1) the feasibility of classifying adole..."]
+      },
+      {
+        "title": "Are false positives in suicide classification models a risk group? Evidence for “true alarms” in a population-representative longitudinal study of Norwegian adolescents",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2023",
+        "authors": ["E. F. Haghish", "Bruno Laeng", "Nikolai Czajkowski"],
+        "abstract": ["Introduction\nFalse positives in retrospective binary suicide attempt classification models are commonly attributed to sheer classification error. However, when machine learning suicide attempt classification models are trained with a multitude of psycho-socio-environmental factors and achieve high accuracy in suicide risk assessment, false positive..."]
+      },
+      {
+        "title": "Reconsidering False Positives in Machine Learning Binary Classification Models of Suicidal Behavior",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["E. F. Haghish", "Nikolai Czajkowski"],
+        "abstract": ["We posit the hypothesis that False Positive cases (FP) in machine learning classification models of suicidal behavior are at risk of suicidal behavior and should not be seen as sheer classification error. We trained an XGBoost classification model using survey data from 173,663 Norwegian adolescents and compared the classification groups for severa..."]
+      },
+      {
+        "title": "Mental Health, Well-Being, and Adolescent Extremism: A Machine Learning Study on Risk and Protective Factors",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2023",
+        "authors": ["E. F. Haghish", "Milan Obaidi", "Thea Bertnes Strømme", "Cato Grønnerød"],
+        "abstract": ["We examined the relationship between adolescents' extremist attitudes with a multitude of mental health, well-being, psycho-social, environmental, and lifestyle variables, using state-of-the-art machine learning procedure and nationally representative survey dataset of Norwegian adolescents (N = 11,397). Three key research questions were addressed:..."]
+      },
+      {
+        "title": "imputed.RDS",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": []
+      },
+      {
+        "title": "AllCABAT.RDA",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary Materials - Beat Alignment and Musical Training v2.pdf",
+        "tags": ["Data"],
+        "date": "Feb 2023",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": []
+      },
+      {
+        "title": "Beat alignment ability is associated with formal musical training not current music playing",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2023",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": ["The ability to perceive the beat in music is crucial for both music listeners and players with expert musicians being notably skilled at noticing fine deviations in the beat. However, it is unclear whether this beat perception ability is enhanced in trained musicians who continue to practice relative to musicians who no longer play. Thus, we invest..."]
+      },
+      {
+        "title": "mlim: Multiple Imputation with Automated Machine Learning [Computer Software]",
+        "tags": ["Method", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["Machine learning algorithms have been used for performing single missing data imputation and most recently, multiple imputations. However, this is the first attempt for using automated machine learning algorithms for performing both single and multiple imputation. Automated machine learning is a procedure for fine-tuning the model automatic, perfor..."]
+      },
+      {
+        "title": "Practice Makes Perfect: Beat Perception is Enhanced by Musical Training Not Active Music Playing",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Connor Spiech", "Tor Endestad", "Bruno Laeng", "E. F. Haghish"],
+        "abstract": ["The ability to perceive the beat in music is crucial for both music listeners and players with expert musicians being notably skilled at noticing fine deviations in the beat. However, it is unclear whether this beat perception ability remains stable once trained or whether it diminishes with disuse. Thus, we investigated this by comparing active mu..."]
+      },
+      {
+        "title": "Seeing minds – a signal detection study of agency attribution along the autism-psychosis continuum",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Rebekka Solvik Lisøy", "Robert Biegler", "E. F. Haghish", "Gerit Pfuhl"],
+        "abstract": ["Introduction: \nDiametrically aberrant mentalising biases, namely hypermentalising in psychosis and hypomentalising in autism, are postulated by some theoretical models. To test this hypothesis, we measured psychotic-like experiences, autistic traits and mentalising biases in a visual chasing paradigm.\n\nMethods: \nParticipants from the general popula..."]
+      },
+      {
+        "title": "adjROC: Computing Sensitivity at a Fix Value of Specificity and Vice Versa [Computer Software]",
+        "tags": ["Code"],
+        "date": "Mar 2022",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["For a binary classification the adjusted sensitivity and specificity are measured\nfor a given fixed thresholds. For example, the R package can point out what is the accuracy and specificity of the test, at a threshold where sensitivity is 95% or vice versa"]
+      },
+      {
+        "title": "Adolescents’ psychosocial well-being one year after the outbreak of the COVID-19 pandemic in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2022",
+        "authors": ["Tilmann von Soest", "Michal Kozák", "Rubén Rodríguez-Cano", "Anders Bakken"],
+        "abstract": ["The COVID-19 pandemic has dramatically restricted adolescents’ lives. We used nationwide Norwegian survey data from 2014–2021 (N = 227,258; ages 13–18) to examine psychosocial outcomes in adolescents before and during the pandemic. Multilevel models revealed higher depressive symptoms and less optimistic future life expectations during the pandemic..."]
+      },
+      {
+        "title": "Estimating measurement error in child language assessments administered by daycare educators in large scale intervention studies",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2021",
+        "authors": ["E. F. Haghish", "Werner Vach", "Anders Højen", "Dorthe Bleses"],
+        "abstract": ["Measurement error is a ubiquitous element of social science studies. In large-scale effectiveness intervention studies on child language, administration of the assessment of language and preliteracy outcomes by speech and language pathologists is costly in money and human resources. Alternatively, daycare educators can administer the assessment, wh..."]
+      },
+      {
+        "title": "A nationwide study of adolescent psychosocial well-being one year after the outbreak of the COVID-19 pandemic",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2021",
+        "authors": ["Tilmann von Soest", "Michal Kozák", "Rubén Rodríguez-Cano", "Anders Bakken"],
+        "abstract": ["]The COVID-19 pandemic has dramatically restricted adolescents’ lives. We used nationwide Norwegian survey data collected from 2014–2021 ( N = 227,258; ages 13–18) to address three essential questions: What are the psychosocial consequences of the pandemic? Are disadvantaged adolescents disproportionally affected by the pandemic? Do pandemic effect..."]
+      },
+      {
+        "title": "Developing, maintaining, and hosting Stata statistical software on GitHub",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["The popularity of GitHub is growing, among not only software developers but also statisticians and data scientists. In this article, I discuss why social coding platforms such as GitHub are preferable for developing, documenting, maintaining, and collaborating on statistical software. Furthermore, I introduce the github command version 2.0 for Stat..."]
+      },
+      {
+        "title": "Software documentation with markdoc 5.0",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["markdoc is a general-purpose literate programming package for generating dynamic documents, dynamic presentation slides, Stata help files, and package vignettes in various formats. In this article, I introduce markdoc version 5.0, which performs independently of any third-party software, using the mini engine. The mini engine is a lightweight alter..."]
+      },
+      {
+        "title": "Preliminary validation of the Dutch version of the Posttraumatic stress disorder checklist for DSM-5 (PCL-5) after traumatic brain injury in a civilian population",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2020",
+        "authors": ["Dominique Van Praag", "E. F. Haghish", "Amra Covic", "Nicole von Steinbüchel"],
+        "abstract": ["The Posttraumatic stress disorder checklist (PCL) is the most widely used questionnaire to screen for symptoms of posttraumatic stress disorder (PTSD), based on the Diagnostic and Statistical manual of Mental disorders (DSM-IV) criteria. In the latest edition of the DSM (DSM-5), the criteria for PTSD were revised leading to the development of the P..."]
+      },
+      {
+        "title": "Factorial Structure and Validity of Depression (PHQ-9) and Anxiety (GAD-7) Scales after Traumatic Brain Injury",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Ali Teymoori", "Anastasia Gorbunova", "E. F. Haghish", "Nicole von Steinbüchel"],
+        "abstract": ["Background: \nThe dimensionality of depression and anxiety instruments have recently been a source of controversy.\n\nObjectives and design: \nIn a European-wide sample of patients after Traumatic Brain Injury (TBI), we aim to examine the factorial structure, validity, and association of the Patient Health Questionnaire for depression (PHQ-9) and the G..."]
+      },
+      {
+        "title": "Measurement Invariance of Assessments of Depression (PHQ-9) and Anxiety (GAD-7) Across Sex, Strata and Linguistic Backgrounds in a European-wide Sample of Patients After Traumatic Brain Injury",
+        "tags": ["Article"],
+        "date": "Oct 2019",
+        "authors": ["Ali Teymoori", "Ruben GL Real", "Anastasia Gorbunova", "Nicole von Steinbüchel"],
+        "abstract": ["Background: \nThe Patient Health Questionnaire-9 (PHQ-9) and the Generalized Anxiety Disorder (GAD-7) are two widely used instruments to screen patients for depression and anxiety. Comparable psychometric properties across different demographic and linguistic groups are necessary for multiple group comparison and international research on depression..."]
+      },
+      {
+        "title": "On the importance of syntax coloring for teaching statistics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["In this article, I underscore the importance of syntax coloring in teaching statistics. I also introduce the statax package, which includes JavaScript and LATEX programs for highlighting Stata code in HTML and LATEX documents. Furthermore, I provide examples showing how to implement this package for developing educational materials on the web or fo..."]
+      },
+      {
+        "title": "Effective language and literacy instruction: Evaluating the importance of scripting and group size components ☆",
+        "tags": ["Article"],
+        "date": "Mar 2018",
+        "authors": ["Dorthe Bleses", "Anders Højen", "Philip S Dale", "E. F. Haghish"],
+        "abstract": ["Identification of intervention program components most strongly associated with children's outcomes is essential for designing programs that can be taken to scale. In this effectiveness study, a population-representative sample of 5436 3-6-year-old Danish children from 154 daycare centers participated in a cluster-randomized evaluation of three var..."]
+      },
+      {
+        "title": "The Effectiveness of a Large-Scale Language and Preliteracy Intervention: The SPELL Randomized Controlled Trial in Denmark",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Dorthe Bleses", "Anders Højen", "Laura M Justice", "E. F. Haghish"],
+        "abstract": ["The present article reports results of a real-world effectiveness trial conducted in Denmark with six thousand four hundred eighty-three 3- to 6-year-olds designed to improve children's language and preliteracy skills. Children in 144 child cares were assigned to a control condition or one of three planned variations of a 20-week storybook-based in..."]
+      },
+      {
+        "title": "Rethinking Literate Programming in Statistics",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["Literate programming is becoming increasingly trendy for data analysis because it allows the generation of dynamic-analysis reports for communicating data analysis and eliminates untraceable human errors in analysis reports. Traditionally, literate programming includes separate processes for compiling the code and preparing the documentation. While..."]
+      },
+      {
+        "title": "Reproducible Research For Applied Statistics: Software Development And Applications For Statistical Analysis, Programming, And Education",
+        "tags": ["Thesis"],
+        "date": "Oct 2016",
+        "authors": ["E. F. Haghish"],
+        "abstract": []
+      },
+      {
+        "title": "A Randomized Controlled Trial of a Large Scale Systematic and Explicit Language and Literacy Intervention in Danish Daycares: The SPELL Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2014",
+        "authors": ["Dorthe Bleses", "Anders Højen", "Line Dybdal", "Werner Vach"],
+        "abstract": ["Authors' contributions Authors may use the following wordings for this section: This work was carried out in collaboration between all authors. Authors DB, AH, WV LD, PD, LJ and SP developed the study idea, designed the study and developed the protocol. Author WV designed the statistical analysis plan, Authors DB and WV drafted the manuscript. All..."]
+      },
+      {
+        "title": "The Scale of Ethical Attitude toward Ethnic Humor (EATEH): Development, Reliability, and Validity",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2014",
+        "authors": ["E. F. Haghish", "Arash Heydari", "Gerit Pfuhl", "Ali Teymoori"],
+        "abstract": ["Research on ethnic humor has been centered on initiators and functions of ethnic humor, ignoring people's ethical attitudes toward this type of humor. The purpose of the present article was to develop a scale measuring the ethical attitude toward ethnic humor, named EATEH (study 1). Further, we evaluated its relation to personal distress, empathic..."]
+      },
+      {
+        "title": "Children’s Relativistic Moral Judgments",
+        "tags": ["Conference Paper"],
+        "date": "Jan 2014",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["Children are familiar with outlaw heroes such as Robin Hood, who ignores a moral norm (robbing) for a humane intention i.e. helping disadvantaged people. Although research has shown that children as young as 4-year-old can take people’s intention into account (Haghish & Teymoory, 2013), yet, it is interesting to explore how children integrate the p..."]
+      },
+      {
+        "title": "Illustration Facilitates Interviewing Young Children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2013",
+        "authors": ["E. F. Haghish", "Ali Teymoori"],
+        "abstract": ["The current study discusses the difficulties of interviewing young children and investigates whether illustrations – compared to verbal presentation – facilitate interviewing young children. Seventy 4-year-old children were interviewed with two of Piaget's (Piaget, 1997) moral paired stories. The stories were presented along with illustrations for..."]
+      },
+      {
+        "title": "Assessment of Altruism Depends on Inferred Ulterior Motives",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2013",
+        "authors": ["Gerit Pfuhl", "E. F. Haghish", "Robert Biegler"],
+        "abstract": ["There is no general agreement whether image scoring or good standing provide a better explanation for the perception of reputation and the way it influences cooperation. We studied the rules humans use to decide who is trustworthy or altruistic when the information they have is reports of others' behavior. We found that our subjects used a decision..."]
+      },
+      {
+        "title": "Relationship between Socioeconomic Status, Anomie, and Authoritarianism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["Arash Heydari", "A. Teymoori", "Hedayat Nasiri", "E. F. Haghish"],
+        "abstract": ["The purpose of the present study is to examine the relationships between socioeconomic status, feeling of anomie, and authoritarianism. Three questionnaires including objective and subjective dimensions of socioeconomic status, anomie, and authoritarianism were administered on 400 students in Shahid Chamran University, Ahvaz, Iran. Results showed s..."]
+      },
+      {
+        "title": "Illustration Facilitates Interviewing Young Children",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Jan 2012",
+        "authors": ["E. F. Haghish"],
+        "abstract": []
+      },
+      {
+        "title": "An Inquiry on Ethnic Humor, Anomie, and Authoritarianism: How Sociological and Psychological Factors Influence Ethical Perception of Ethnic Jokes.",
+        "tags": ["Thesis", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["E. F. Haghish"],
+        "abstract": ["For over a century, jokes have been considered serious narratives indicating shared attitudes, beliefs, or conflicts that are ripped from the community’s mind. Notably, people’s ethical attitude toward ethnic jokes has been ignored in humor studies. The purpose of the current thesis is twofold: a) developing a scale for measuring people’s ethical a..."]
+      },
+      {
+        "title": "Validation of Moral Authority Scale-Revised in Persian: Criterion Validity and Internal Consistency",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Ali Teymoori", "Wan Shahrazad Wan Sulaiman", "Arash Heydari", "E. F. Haghish"],
+        "abstract": ["The current study aims to assess validity and reliability of Moral Authority Scale-Revised (MAS-R) in Persian. Specifically, MAS-R examines “who” or “what” is more important during moral judgment. The instrument was translated using back-translation method and revised by three panels. The validity and reliability of the MAS-R were examined in two s..."]
+      },
+      {
+        "title": "Chords",
+        "tags": ["Book", "Full-text available"],
+        "date": "Jan 2007",
+        "authors": ["E. F. Haghish"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Post-Doc", "in", "Psychology"],
+    "bio": "Post-Doc in Applied Statistics. Variables such as income, level of education, unemployment, and receiving social support are widely used for formulating objective socioeconomic status. We can go further and estimate the wealth of the study subjects by asking about the amount of money they have in the bank, the estimated worth of their house, car, stocks, etc. Regardless of the trouble of gathering this information, is it recommended to do so? Suggestion of a book or article is highly appreciated. I'm running an experiment in this regard and I need to catch up with the latest evidence-based definitions of altruism. To be more precise, altruism has been mentioned to signal several traits. But what signals altruism? That is what I'm working on and it'd be great if you can suggest or email me some papers on this topic. Should I indicate that the data set was used before? Or else it would be fine to describe the sampling method all over again without mentioning that another article was published using the same data set. We know that \"a certain intervention\" boosts early literacy in young American children, does it really make sense to re-test that intervention in a European culture? mind you, within this context we already have a good theory why the intervention is effective.",
+    "publications": [41],
+    "reads": [22430],
+    "citations": [448]
   }
 }

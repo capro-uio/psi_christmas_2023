@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-3459-6597",
-    "name": "Ida Bernhardt",
+    "orcid": ["0000-0003-3459-6597"],
+    "name": ["Ida Bernhardt"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Ida Stange Bernhardt",
-    "id": "619129",
+    "name": ["Ida Stange Bernhardt"],
+    "id": ["619129"],
     "keywords": [],
     "position": ["Associate professor", "Guest"],
     "img": {},
@@ -65,5 +65,719 @@
         "url": "https://api.cristin.no/v2/results/1251104"
       }
     ]
+  },
+  "rg": {
+    "id": "Jan-Stange",
+    "name": "Jan Stange",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272806831194112-1442053625509_Q128/Jan-Stange.jpg",
+    "affiliation": "University of Rostock, Abteilung für Tropenmedizin Infektionskrankheiten und Nephrologie",
+    "keywords": ["Critical Care Medicine", "Cirrhosis"],
+    "works": [
+      {
+        "title": "Pathophysiological biomarkers associated with resolution of ACLF in patients treated with the liver dialysis device, DIALIVE",
+        "tags": ["Article"],
+        "date": "Jun 2023",
+        "authors": ["Fausto Andreola", "Banwari Agarwal", "Rafael Bañares Cañizares", "Rajiv Jalan"],
+        "abstract": []
+      },
+      {
+        "title": "Randomized, controlled clinical trial of the DIALIVE liver dialysis device versus standard of care in patients with acute-on- chronic liver failure",
+        "tags": ["Article"],
+        "date": "May 2023",
+        "authors": ["Banwari Agarwal", "Rafael Bañares Cañizares", "Faouzi Saliba", "Rajiv Jalan"],
+        "abstract": ["Background and aims: \nAcute on chronic liver failure (ACLF) is characterized by severe systemic inflammation, multi-organ failure and high mortality rates. Its treatment is an urgent unmet need. DIALIVE is a novel liver dialysis device that aims to exchange d ysfunctional albumin and remove damage- and pathogen-associated molecular patterns. This f..."]
+      },
+      {
+        "title": "OPAL BUT NOT MARS REVERSES PATIENT'S PLASMA CYTOTOXICITY IN A PROSPECTIVE RANDOMIZED TRIAL USING EXTRACORPOREAL ALBUMIN DIALYSIS (ECAD)",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Nov 2022",
+        "authors": ["Jan Stange", "Adrian Dominik", "Badr Ibrahim"],
+        "abstract": []
+      },
+      {
+        "title": "Artificial liver support in patients with liver failure: a modified DELPHI consensus of international experts",
+        "tags": ["Article"],
+        "date": "Sep 2022",
+        "authors": ["Faouzi Saliba", "Rafael Bañares", "Fin Stolze Larsen", "Samir Jaber"],
+        "abstract": ["The present narrative review on albumin dialysis provides evidence-based and expert opinion guidelines for clinicians caring for adult patients with different types of liver failure. The review was prepared by an expert panel of 13 members with liver and ntensive care expertise in extracorporeal liver support therapies for the management of patient..."]
+      },
+      {
+        "title": "Uncertainty in the impact of liver support systems in acute-on-chronic liver failure: a systematic review and network meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Klementina Ocskay", "Anna Kanjo", "Noémi Gede", "Zsolt Molnar"],
+        "abstract": ["Background\nThe role of artificial and bioartificial liver support systems in acute-on-chronic liver failure (ACLF) is still controversial. We aimed to perform the first network meta-analysis comparing and ranking different liver support systems and standard medical therapy (SMT) in patients with ACLF.\n\nMethods\nThe study protocol was registered with..."]
+      },
+      {
+        "title": "P076 A multi-centre, randomized controlled study, to evaluate the safety and performance of the DIALIVE liver dialysis device in patients with acute on chronic liver failure (ACLF) versus standard of care (SOC) (ALIVER Consortium)",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Banwari Agarwal", "Faouzi Saliba", "Dana Tomescu", "Rajiv Jalan"],
+        "abstract": ["Background and Aims\nTreatment of ACLF is an unmet need. DIALIVE is a novel liver dialysis device that replaces dysfunctional albumin and removes PAMPs and DAMPs. This RCT tests the hypothesis that DIALIVE improves the prognosis of ACLF patients. Primary endpoint was safety, and other endpoints included clinical and pathophysiologic effects and devi..."]
+      },
+      {
+        "title": "P077 Pathophysiological basis of resolution of acute-on-chronic liver failure (ACLF) induced by the novel liver dialysis device, DIALIVE (ALIVER consortium)",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Rafael Bañares Cañizares", "Faouzi Saliba", "Dana Tomescu", "Rajiv Jalan"],
+        "abstract": ["Background\nIn ACLF, systemic inflammation (SI) due to pathogen and damage associated molecular patterns (PAMPs and DAMPs), albumin and endothelial dysfunction results in organ failure. DIALIVE, a liver dialysis device replaces dysfunctional albumin and removes PAMPs and DAMPs. In a randomised controlled trial, DIALIVE resolved ACLF faster and in a..."]
+      },
+      {
+        "title": "Prevalence of Hepatic Encephalopathy from a Commercial Medical Claims Database in the United States",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Aniruddha Potnis", "Susan VanMeter", "Jan Stange"],
+        "abstract": ["Introduction: \nHepatic encephalopathy (HE), a complication of cirrhosis, is associated with increased healthcare resource utilization and mortality, and impaired quality of life. Information on the prevalence of HE in the US general population is limited.\n\nMethods: \nPrevalence of HE was estimated by sequential stepwise data analysis of the Symphony..."]
+      },
+      {
+        "title": "Efficacy and safety of liver support devices in acute and hyperacute liver failure: a systematic review and network meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Anna Kanjo", "Klementina Ocskay", "Noémi Gede", "Zsolt Molnar"],
+        "abstract": ["Acute liver failure (ALF) is a potentially life-threatening condition. Liver support therapies can be applied as a bridging-to-transplantation or bridging-to-recovery; however, results of clinical trials are controversial. Our aim was to compare liver support systems in acute and hyperacute liver failure with network meta-analysis. After systematic..."]
+      },
+      {
+        "title": "Cellular and Non-Cellular Liver Assist Devices in Management of Acute and Acute on Chronic Liver Failure",
+        "tags": ["Chapter"],
+        "date": "Oct 2020",
+        "authors": ["Jan Stange"],
+        "abstract": ["Cellular and Non-Cellular Liver Assist Devices are extracorporeal blood processing devices which may contain cells (Cellular Assist Systems) or physicochemical mechanisms to support liver function in Liver Failure. The biggest challenge is an effective removal of toxins accumulating due to liver failure, since those toxins are involved in the devel..."]
+      },
+      {
+        "title": "Similarities, Differences, and Potential Synergies in the Mechanism of Action of Albumin Dialysis Using the MARS Albumin Dialysis Device and the CytoSorb Hemoperfusion Device in the Treatment of Liver Failure",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Adrian Dominik", "Jan Stange"],
+        "abstract": ["Introduction: \nLiver failure is characterized by compromised hepatic detoxification, protein synthesis, and metabolic derangements leading to an accumulation of a broad spectrum of water-soluble and lipophilic toxins as well as immune system mediators. Exploring complex detoxification mechanisms to therapeutically target those components, this arti..."]
+      },
+      {
+        "title": "Albumin promotes proliferation of G1 arrested serum starved hepatocellular carcinoma cells",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2020",
+        "authors": ["Badr Ibrahim", "Jan Stange", "Adrian Dominik", "Martin Eggert"],
+        "abstract": ["Albumin is the most abundant plasma protein and functions as a transport molecule that continuously interacts with various cell types. Because of these properties, albumin has been exploited by the pharmaceutical industry to improve drug delivery into target cells. The immediate effects of albumin on cells, however, require further understanding. T..."]
+      },
+      {
+        "title": "Comparison of accompanying proteins in different therapeutic human serum albumin preparations",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2020",
+        "authors": ["Stefan Mikkat", "Adrian Dominik", "Jan Stange", "Martin Eggert"],
+        "abstract": ["Pharmaceutical human serum albumin products are manufactured from donated human plasma and may contain up to 5% accompanying non-albumin proteins. It has been reported that albumin preparations manufactured by different pharmaceutical companies differed in the degree of posttranslational modifications, the redox state as well as antioxidant propert..."]
+      },
+      {
+        "title": "Albumin promotes cell cycle transition in serum starved hepatocytes and alters cellular morphology modulated by ligands",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Sep 2019",
+        "authors": ["Badr Ibrahim", "Jan Stange", "Adrian Dominik", "Martin Eggert"],
+        "abstract": ["The pharmacokinetics of many albumin bound drugs such as paclitaxel, methotrexate and doxorubicin that are marketed or are in clinical trials rely on albumin's interactions with cells. However, the basic mechanisms by which albumin interacts with cells and its effects on intracellular processes are not fully understood. These cell interacting prope..."]
+      },
+      {
+        "title": "Albumin promotes proliferation of G1 arrested serum starved hepatocellular carcinoma cells",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Badr Ibrahim", "Jan Stange", "Adrian Dominik", "Martin Eggert"],
+        "abstract": ["Albumin is the most abundant plasma protein and functions as a transport molecule that continuously interacts with various cell types. Because of these properties, albumin has been exploited by the pharmaceutical industry to improve drug delivery to target cells. Understanding the immediate effects of albumin on cells is however limited. The cell i..."]
+      },
+      {
+        "title": "Albumin promotes proliferation of G1 arrested serum starved hepatocellular carcinoma cells",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "May 2019",
+        "authors": ["Badr Ibrahim", "Jan Stange", "Adrian Dominik", "Martin Eggert"],
+        "abstract": ["Albumin is the most abundant plasma protein and functions as a transport molecule that continuously interacts with various cell types. Because of these properties, albumin has been exploited by the pharmaceutical industry to improve drug delivery to target cells. Understanding the immediate effects of albumin on cells is however limited. The cell i..."]
+      },
+      {
+        "title": "THU-272-A study investigating the effect of extracorporeal cellular therapy with C3A cells on the survival of alcoholic hepatitis designed along the guidelines of the NIAAA",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Nikolaos Pyrsopoulos", "Tarek Hassanein", "Ram Subramanian", "Jan Stange"],
+        "abstract": []
+      },
+      {
+        "title": "FRI-058-Randomized controlled trial to compare efficacy of albumin dialysis using MARS versus new adsorbent recirculation for pruritus treatment",
+        "tags": ["Article"],
+        "date": "Apr 2019",
+        "authors": ["Jan Stange", "Hartmut Schmidt", "Steffen Mitzner", "Victoria Rivera Luna"],
+        "abstract": []
+      },
+      {
+        "title": "Albumin influences C3A hepatocytes responses to serum starvation",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Badr Ibrahim", "Jan Stange", "Adrian Dominik", "Martin Eggert"],
+        "abstract": []
+      },
+      {
+        "title": "Analysis of Hepatic Cells in Bioartificial Liver Support using E-cadherin as a marker for morphology and cellular activity",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Marcus Frank", "Adrian Dominik", "Jan Stange", "Martin Eggert"],
+        "abstract": []
+      },
+      {
+        "title": "Comparison of four different Human Serum Albumin solutions exhibit differences in the amount of co-purified proteins",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Sep 2018",
+        "authors": ["Stefan Mikkat", "Adrian Dominik", "Jan Stange", "Martin Eggert"],
+        "abstract": []
+      },
+      {
+        "title": "Opal, but not MARS improves patients albumin binding function measured by Electron Spin Resonance (ESR) in a prospective multicenter trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Andreas Kortgen", "Jan Stange", "C. Sponholz", "T. Hassanein"],
+        "abstract": []
+      },
+      {
+        "title": "Targeting Albumin Binding Function as a Therapy Goal in Liver Failure: Development of a Novel Adsorbent for Albumin Dialysis: Novel Adsorbents for Albumin Dialysis",
+        "tags": ["Article"],
+        "date": "Dec 2017",
+        "authors": ["Adrian Dominik", "Jan Stange", "Anja K Baumann", "Martin Eggert"],
+        "abstract": ["Liver failure results in impaired hepatic detoxification combined with diminished albumin synthesis and is associated with secondary organ failure. The accumulation of liver toxins has shown to saturate albumin binding sites. This was previously demonstrated by an in vitro test for albumin binding capacity (ABiC) that has shown to inversely correla..."]
+      },
+      {
+        "title": "Extracorporeal Cellular Therapy (ELAD) in Severe Alcoholic Hepatitis – A Multinational, Prospective, Controlled, Randomized Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2017",
+        "authors": ["Mauricio Garcia-Saenz-de-Sicilia", "Natasha Jones", "Ali Al-Khafaji", "Ram Subramanian"],
+        "abstract": ["Severe Alcoholic Hepatitis (sAH) is associated with a poor prognosis. There is no proven effective treatment for sAH, which is why early transplantation has been increasingly discussed. Hepatoblastoma-derived C3A cells express anti-inflammatory proteins and growth factors and were tested in an extracorporeal liver treatment (ELAD) study to establis..."]
+      },
+      {
+        "title": "Comparison of different adsorber materials for the removal of liver toxins.",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["William Ashworth", "Helga Weiss-Reining", "Matthias Suraj", "Jan Stange"],
+        "abstract": ["Several novel adsorber materials have been developed which aim to improve the removal of protein bound and high molecular weight toxins from patient blood or organ perfusate. These materials, which include activated carbons and polymers, have varying capacities for the adsorption of different toxins and molecules in blood. It is important to assess..."]
+      },
+      {
+        "title": "The Effect of Extracorporeal C3a Cellular Therapy in Severe Alcoholic Hepatitis-The Elad Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2015",
+        "authors": ["Julie A. Thompson", "Ram M. Subramanian", "Ali Al-Khafaji", "Jan Stange"],
+        "abstract": []
+      },
+      {
+        "title": "A New Application for Albumin Dialysis in Extracorporeal Organ Support: Characterization of a Putative Interaction Between Human Albumin and Proinflammatory Cytokines IL-6 and TNFα",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Claudia Pfensig", "Adrian Dominik", "Luise Borufka", "Martin Eggert"],
+        "abstract": ["Albumin dialysis in extracorporeal organ support is often performed in the treatment of liver failure as it facilitates the removal of toxic components from the blood. Here, we describe a possible effect of albumin dialysis on proinflammatory cytokine levels in vitro. Initially, albumin samples were incubated with different amounts of cytokines and..."]
+      },
+      {
+        "title": "In vivo dialysate toxin levels: OPAL vs. MARS",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Aug 2015",
+        "authors": ["Matthias Suraj", "Helga Weiss-Reining", "Katrin Stange", "Matthias Dollinger"],
+        "abstract": ["The MARS® -System was introduced more than 20 years ago and is the most extensively evaluated albumin dialysis system. Nevertheless its efficacy and adsorbent capacity has been mentioned as a potential cause of limiting the benefits of treatment [1,2]. In 2014 the OPAL® Treatment Kit was introduced to the market. Albumin dialysis is a therapeutic o..."]
+      },
+      {
+        "title": "No Sustained Impact of Intermittent Extracorporeal Liver Support on Thrombocyte Time Course in a Randomized Controlled Albumin Dialysis Trial",
+        "tags": ["Article"],
+        "date": "Sep 2014",
+        "authors": ["Sebastian Klammt", "Steffen R Mitzner", "Emil C Reisinger", "Jan Stange"],
+        "abstract": ["Reduction of platelets is a common finding in patients with liver disease and can be aggravated by extracorporeal therapies, e.g. artificial liver support. The impact of extracorporeal albumin dialysis on the time count and time course of platelets in liver failure patients was evaluated in a randomized controlled clinical trial. Mean thrombocyte r..."]
+      },
+      {
+        "title": "Albumin: a tool for the depletion of proinflammatory cytokines ?",
+        "tags": ["Poster", "Full-text available"],
+        "date": "Aug 2014",
+        "authors": ["Claudia Pfensig", "Adrian Dominik", "Jan Stange", "Martin Eggert"],
+        "abstract": []
+      },
+      {
+        "title": "Protein Content Assessment During Treatment With the ELAD Bioartificial Liver Support System.: Abstract# A556",
+        "tags": ["Article"],
+        "date": "Jul 2014",
+        "authors": ["L. Teperman", "J. Brotherton", "Martin Eggert", "Jan Stange"],
+        "abstract": []
+      },
+      {
+        "title": "24-Hour Performance of Albumin Dialysis Assessed by a New Two-Compartment In Vitro Model",
+        "tags": ["Article"],
+        "date": "Feb 2014",
+        "authors": ["Melanie Stiffel", "Nele Dammeier", "Stephanie Schmidt", "Jan Stange"],
+        "abstract": ["Extracorporeal albumin dialysis as a measure to remove water soluble and protein bound toxins simultaneously has been shown to improve complications of liver failure. However, recent research suggests that only treatments associated with a measurable improvement of patient's albumin binding function by effective removal of albumin bound toxins lead..."]
+      },
+      {
+        "title": "Reduction of Elevated Cytokine Levels in Acute/Acute-on-Chronic Liver Failure Using Super-Large Pore Albumin Dialysis Treatment: An In Vitro Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2013",
+        "authors": ["Adrian Dominik", "Jan Stange", "Claudia Pfensig", "Martin Eggert"],
+        "abstract": ["The removal of small water soluble toxins and albumin-bound toxins in acute liver failure patients (ALF) or acute-on-chronic liver failure (AocLF) patients has been established using extracorporeal liver support devices (e.g. Molecular Adsorbents Recirculating System; MARS). However, reduction of elevated cytokines in ALF/AocLF using MARS is still..."]
+      },
+      {
+        "title": "GeneTher5 1070",
+        "tags": ["Data", "Full-text available"],
+        "date": "May 2013",
+        "authors": ["Matthias Löhr", "Petra Müller", "P Karle", "Walter H Günzburg"],
+        "abstract": []
+      },
+      {
+        "title": "Impaired cell functions of hepatocytes incubated with plasma of septic patients",
+        "tags": ["Article"],
+        "date": "Feb 2012",
+        "authors": ["Martin Sauer", "Cristof Haubner", "Thomas Mencke", "Jan Stange"],
+        "abstract": ["The development of liver failure is a major problem in septic patients. In this prospective clinical experimental study the hepatotoxicity of plasma from septic and non-septic patients was tested.\nThe basic test components consist of human liver cells (HepG2/C3A) used in a standardized microtiter plate assay. After incubation with patient's plasma..."]
+      },
+      {
+        "title": "Elektrolytstörungen bei Gefäßverschlüssen und Dialysepflichtigkeit – ein ungewöhnlicher Fall",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Sebastian Koball", "Heiko Hickstein", "Andreas Fuehrer", "Steffen R Mitzner"],
+        "abstract": []
+      },
+      {
+        "title": "A NEW METHOD OF MONITORING BLOOD PRESSURE AND CARDIAC OUTPUT IN CHRONIC DIALYSIS PATIENTS",
+        "tags": ["Article"],
+        "date": "Aug 2011",
+        "authors": ["Sebastian Koball", "Michael Hinz", "A. Riemann", "S. Mitzner"],
+        "abstract": []
+      },
+      {
+        "title": "Industrial Stabilizers Caprylate and N-Acetyltryptophanate Reduce the Efficacy of Albumin in Liver Patients",
+        "tags": ["Article"],
+        "date": "Jun 2011",
+        "authors": ["Jan Stange", "Melanie Stiffel", "Anne Goetze", "Emil Reisinger"],
+        "abstract": ["Liver failure is associated with an accumulation of toxic molecules that exert an affinity to albumin. Some of them have vasoactive activity. So far, albumin has been used as a plasma expander to improve the available circulating blood volume. However, recent studies have suggested that albumin is more effective than starch for this indication. It..."]
+      },
+      {
+        "title": "Therapie mit Albumin",
+        "tags": ["Chapter"],
+        "date": "Jan 2011",
+        "authors": ["Jan Stange"],
+        "abstract": ["Albumin ist das Protein mit der höchsten Konzentration im Blutplasma (42±3,5 g/l) [20]. Hauptort der Synthese sind die Hepatozyten der Leber, wobei der wesentliche Impuls zur Expression von einem erniedrigten kolloidonkotischen Druck ausgeht. Humanes Serumalbumin besteht aus 585 Aminosäuren und hat ein Molekulargewicht von etwa 66.500 Dalton. Währe..."]
+      },
+      {
+        "title": "Extracorporeal liver support",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2011",
+        "authors": ["Jan Stange"],
+        "abstract": []
+      },
+      {
+        "title": "Atypical electrolyte kinetics during an emergency dialysis session in a patient with Leriche syndrome",
+        "tags": ["Article"],
+        "date": "Dec 2010",
+        "authors": ["Sebastian Koball", "Heiko Hickstein", "Andreas Fuehrer", "Steffen R Mitzner"],
+        "abstract": ["A hemodialysis patient suffered from circulation failure due to a low output syndrome caused by a hyperkalemia (9.9 micromol/l) with typical ecg signs. An emergency hemodialysis was started. After 2 h ecg signs of hypokalemia (2.1 micromol/l) were detectable. Hemodialysis was stopped. 2 h later, serum potassium rose to 6.2 micromol/l. An obturation..."]
+      },
+      {
+        "title": "Treatment of Thyrotoxic Crisis With Plasmapheresis and Single Pass Albumin Dialysis: A Case Report",
+        "tags": ["Article"],
+        "date": "Feb 2010",
+        "authors": ["Sebastian Koball", "Heiko Hickstein", "Martin Gloger", "Steffen R Mitzner"],
+        "abstract": ["Thyrotoxic crisis (thyroid storm) is a life-threatening condition. Standard therapy is based on thiamazole, prednisolone, and nonselective beta-blockers. Extracorporeal plasmapheresis is an additional tool for removing circulating thyroxine in patients who do not respond quickly to conventional standard therapy. As thyroxine can be bound by albumin..."]
+      },
+      {
+        "title": "Measurement of Blood Pressure in the Arteriovenous Shunt for Monitoring Patients Systemic Blood Pressure",
+        "tags": ["Article"],
+        "date": "Jan 2010",
+        "authors": ["Sebastian Koball", "Michael Hinz", "Jan Stange", "Steffen R Mitzner"],
+        "abstract": []
+      },
+      {
+        "title": "Increase of Octanoate Concentrations During Extracorporeal Albumin Dialysis Treatments",
+        "tags": ["Article"],
+        "date": "Oct 2009",
+        "authors": ["Sebastian Klammt", "Sebastian Koball", "Heiko Hickstein", "Emil C Reisinger"],
+        "abstract": ["Extracorporeal liver support procedures based on albumin dialysis require the use of pharmaceutical-grade human serum albumin (HSA). Those preparations contain octanoate, which is added as stabilizer during the production process. For octanoate, a direct involvement in the pathogenesis of liver failure complications as well as an indirect influence..."]
+      },
+      {
+        "title": "Albumin Dialysis MARS: Knowledge from 10 Years of Clinical Investigation",
+        "tags": ["Article"],
+        "date": "Sep 2009",
+        "authors": ["Steffen R Mitzner", "Jan Stange", "Sebastian Klammt", "Emil C Reisinger"],
+        "abstract": ["A decade ago, albumin dialysis was introduced as a new extracorporeal detoxification method for patients with liver failure. Today, the molecular adsorbent recirculating system is the most frequently used type of albumin dialysis and most studied liver-support technique. Numerous preclinical and clinical studies demonstrated the importance of album..."]
+      },
+      {
+        "title": "Biocompatibility Assessment of Peritoneal Dialysis Solutions With a New In Vitro Model of Preconditioned Human HL60 Cells",
+        "tags": ["Article"],
+        "date": "Aug 2009",
+        "authors": ["Sebastian Koball", "Gero Korten", "Jan Stange", "Steffen R Mitzner"],
+        "abstract": ["The purposes of this study were to test the human promyelocytic cell line HL60 for its usability as a new cell model for the immune barrier of the peritoneum, and to investigate the impact of different peritoneal dialysis (PD) solutions in the model. HL60 cells were stimulated by retinoic acid and recombinant human granulocyte and macrophage colony..."]
+      },
+      {
+        "title": "Performance of the Hepatic Encephalopathy Scoring Algorithm in a Clinical Trial of Patients With Cirrhosis and Severe Hepatic Encephalopathy",
+        "tags": ["Article"],
+        "date": "Jun 2009",
+        "authors": ["Tarek Hassanein", "Andres T Blei", "William Perry", "Robert Fontana"],
+        "abstract": ["The grading of hepatic encephalopathy (HE) is based on a combination of indicators that reflect the state of consciousness, intellectual function, changes in behavior, and neuromuscular alterations seen in patients with liver failure.\nWe modified the traditional West Haven criteria (WHC) to provide an objective assessment of the cognitive parameter..."]
+      },
+      {
+        "title": "Clinical Application of Fuzzy-Controlled Blood Pressure Stabilization in Patients Prone to Hypotension During Hemodialysis",
+        "tags": ["Article"],
+        "date": "Feb 2009",
+        "authors": ["Heiko Hickstein", "Jan Stange", "Ottfried Roeher", "Reinhard Schmidt"],
+        "abstract": ["The prevalence of intradialytic hypotensive events is still high in patients undergoing hemodialysis (HD). A biofeedback control system to prevent hypotensive destabilization of the patient during hemodialysis was developed.\nA blood pressure (BP)–guided closed-loop system consists of a non-invasive blood pressure measurement device connected to a f..."]
+      },
+      {
+        "title": "Prolonged Survival of Renal Allograft in Rats by Methotrexate-Albumin Conjugates as Immunosuppressive Therapy",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Heiko Hickstein", "D Wolff", "Jan Stange", "G Hartung"],
+        "abstract": ["Methothrexate (MTX) causes unwanted adverse events by affecting gastrointestinal and bone marrow cells when used as an immunosuppressant. Our aim was to reduce those side effects by covalent binding of methothrexate to human serum albumin (HSA) targeting rapidly proliferating lymphocytes, which are known to ingest albumin as an energy source. Twent..."]
+      },
+      {
+        "title": "Extracorporeal Liver Support: Albumin Removal vs. Albumin Regeneration",
+        "tags": ["Article"],
+        "date": "Jan 2009",
+        "authors": ["Steffen R Mitzner", "Sebastian Klammt", "Sebastian Koball", "Jan Stange"],
+        "abstract": ["With the development of clinically successful renal replacement therapies after World War II the idea of extracorporeal liver\ndetoxification gained attractiveness as well. Small metabolites such as ammonia or bilirubin that accumulate during liver\nfailure seemed to represent a group of “liver toxins” worth removing in order to improve the clinical..."]
+      },
+      {
+        "title": "Albumin Dialysis with Molecular Adsorbent Recirculating System in the Treatment of Liver Failure",
+        "tags": ["Chapter"],
+        "date": "Jan 2009",
+        "authors": ["Steffen R Mitzner", "Jan Stange"],
+        "abstract": []
+      },
+      {
+        "title": "Fatty acid depleted albumin can improve effect of albumin dialysis in liver support",
+        "tags": ["Article"],
+        "date": "Dec 2008",
+        "authors": ["Jan Stange", "J. Ludwig", "J. Henschel", "R. Schmidt"],
+        "abstract": []
+      },
+      {
+        "title": "Improvement of impaired albumin binding capacity in acute-on-chronic liver failure by albumin dialysis",
+        "tags": ["Article"],
+        "date": "Sep 2008",
+        "authors": ["Sebastian Klammt", "Steffen R Mitzner", "Jan Stange", "Reinhard Schmidt"],
+        "abstract": ["Extracorporeal albumin dialysis (ECAD) enables the elimination of albumin bound substances and is used as artificial liver support system. Albumin binding function for the benzodiazepine binding site specific marker Dansylsarcosine was estimated in plasma samples of 22 patients with cirrhosis and hyperbilirubinaemia (ECAD: n = 12; control: n = 10)..."]
+      },
+      {
+        "title": "228 Extent of Recovery of Neurocognitive Dysfunction in Patients Presenting with Severe Hepatic Encephalopathy",
+        "tags": ["Article"],
+        "date": "Apr 2008",
+        "authors": ["Tarek Hassanein", "Deanna Oliver", "Fatma Barakat", "William Perry"],
+        "abstract": []
+      },
+      {
+        "title": "Randomized controlled study of extracorporeal albumin dialysis for hepatic encephalopathy in advanced cirrhosis",
+        "tags": ["Article"],
+        "date": "Dec 2007",
+        "authors": ["Tarek I Hassanein", "Flemming Tofteng", "Robert S Brown", "Andres T Blei"],
+        "abstract": ["Unlabelled: \nExtracorporeal albumin dialysis (ECAD) may improve severe hepatic encephalopathy (HE) in patients with advanced cirrhosis via the removal of protein or non-protein-bound toxins. A prospective, randomized, controlled, multicenter trial of the efficacy, safety, and tolerability of ECAD using molecular adsorbent recirculating system (MARS..."]
+      },
+      {
+        "title": "Albumin dialysis MARS in the treatment of liver failure - Review of clinical results",
+        "tags": ["Article"],
+        "date": "Sep 2007",
+        "authors": ["Steffen R Mitzner", "Jan Stange", "P. Lamesch", "H. Schmidt"],
+        "abstract": ["Albumin-regeneration has developed into a central technological component of modern liver support systems. Albumin dialysis MARS (Molecular Adsorbent Recirculating System) is the most frequently used and best studied liver support technique at present time. Literature suggests that MARS is a useful tool to treat acute liver failure, decompensated c..."]
+      },
+      {
+        "title": "Albumin-binding function is reduced in patients with decompensated cirrhosis and correlates inversely with severity of liver disease assessed by Model for End-Stage Liver Disease",
+        "tags": ["Article"],
+        "date": "Apr 2007",
+        "authors": ["Sebastian Klammt", "Steffen R Mitzner", "Jan Stange", "Reinhard Schmidt"],
+        "abstract": ["Human serum albumin has multiple functions, the most important being maintaining colloid osmotic pressure, ligand binding and transport. In liver failure, an impaired binding of endogenous substances and drugs can be observed. The aim of this study was to investigate the relationship between the severity of liver disease and an impaired albumin bin..."]
+      },
+      {
+        "title": "Artificial Liver and Blood Cleansing Techniques",
+        "tags": ["Chapter"],
+        "date": "Feb 2007",
+        "authors": ["Tarek Hassanein", "Jan Stange", "Sangeeta Bhatia"],
+        "abstract": []
+      },
+      {
+        "title": "Erratum: (Therapeutic Apheresis and Dialysis (2006) 10 (2) (108-117))",
+        "tags": ["Article"],
+        "date": "Dec 2006",
+        "authors": ["S. Mitzner", "Sebastian Klammt", "Jan Stange", "S. Reinhart"],
+        "abstract": []
+      },
+      {
+        "title": "Albumin Regeneration in Liver Support-Comparison of Different Methods",
+        "tags": ["Article"],
+        "date": "May 2006",
+        "authors": ["Steffen R Mitzner", "Sebastian Klammt", "Jan Stange", "Reinhart Schmidt"],
+        "abstract": ["Albumin is the most abundant human plasma protein. Among many other functions it is an important transporter of hydrophobic internal and external substances such as intermediate and end products of metabolism and drugs. In liver failure the albumin binding capacity is decreased because of a disproportion between available albumin molecules caused b..."]
+      },
+      {
+        "title": "164 Single pass albumin dialysis (SPAD) in liver failure with commercial albumin is associated with octanoate and tryptophane intoxication",
+        "tags": ["Article"],
+        "date": "Apr 2006",
+        "authors": ["Jan Stange", "Sebastian Koball", "J. Hentschel", "R. Schmidt"],
+        "abstract": []
+      },
+      {
+        "title": "Albumin Binding Capacity (ABiC) and binding of Diazepam is impaired by commercially available albumin preparation and can be avoided by single pass deligandization",
+        "tags": ["Conference Paper"],
+        "date": "Nov 2005",
+        "authors": ["Sebastian Klammt", "Jan Stange", "S Mitzner", "B Drewelow"],
+        "abstract": []
+      },
+      {
+        "title": "Molecular absorbent recirculating system for the treatment of acute liver failure in surgical patients - Discussion",
+        "tags": ["Article"],
+        "date": "Nov 2005",
+        "authors": ["Jan Stange", "Inderbitzin", "S Curley"],
+        "abstract": []
+      },
+      {
+        "title": "Bridging to liver transplant with albumin dialysis - Annual report of the International Mars Registry 2004",
+        "tags": ["Conference Paper"],
+        "date": "May 2005",
+        "authors": ["Jan Stange", "Christian Steiner", "Steffen R Mitzner", "TI Hassanein"],
+        "abstract": []
+      },
+      {
+        "title": "[Extracorporeal blood purification in severe liver failure with the albumin dialysis MARS -- impact on relevant intensive care parameters].",
+        "tags": ["Article"],
+        "date": "May 2005",
+        "authors": ["Steffen R Mitzner", "Sebastian Klammt", "Jan Stange", "R Schmidt"],
+        "abstract": ["Extracorporeal liver support methods have been tested for over 50 years now. Standard techniques of blood purification like dialysis, adsorption, hemo- and plasma filtration as well as bioreactor-based approaches using liver cells or tissues have been used. Most clinical experience, however, is limited to use in acute liver failure (ALF). Since 199..."]
+      },
+      {
+        "title": "Extrakorporale Blutreinigung im schweren Leberversagen mit der Albumindialyse MARS® - Einfluss auf intensivmedizinisch relevante Parameter",
+        "tags": ["Article"],
+        "date": "Apr 2005",
+        "authors": ["Steffen R Mitzner", "Sebastian Klammt", "Jan Stange", "R. Schmidt"],
+        "abstract": ["Extracorporeal liver support methods have been tested for over 50 years now. Standard techniques of blood purification like dialysis, adsorption, hemo- and plasma filtration as well as bioreactor-based approaches using liver cells or tissues have been used. Most clinical experience, however, is limited to use in acute liver failure (ALF). Since 199..."]
+      },
+      {
+        "title": "Autoimmune-associated Congenital Heart Block: Treatment of the Mother With Immunoadsorption",
+        "tags": ["Article"],
+        "date": "Apr 2005",
+        "authors": ["Heiko Hickstein", "Thomas Külz", "Renate Claus", "Reinhard Schmidt"],
+        "abstract": ["Autoimmune-associated congenital heart block (CHB) is a rare complication of pregnancy in mothers with Anti-Ro/SSA antibodies (SSA-abs), resulting in fetal myocarditis, atrioventricular block, hydrops fetalis and/or intrauterine fetal death. As these antibodies are supposed to be directly involved in the pathogenesis of CHB, their removal should be..."]
+      },
+      {
+        "title": "Albumin dialysis with the Molecular Adsorbents Recirculating System (MARS) for liver support – Impact on pharmacokinetics of strongly and less albumin bound drugs",
+        "tags": ["Article"],
+        "date": "Dec 2004",
+        "authors": ["Sebastian Klammt", "Jolanta Majcher-Peszynska", "Piotr Peszynski", "Bernd Drewelow"],
+        "abstract": []
+      },
+      {
+        "title": "Binding of bilirubin and bromosulphthalein to albumin: Implications for understanding the pathophysiology of liver failure and its management",
+        "tags": ["Article"],
+        "date": "Dec 2004",
+        "authors": ["Christian Steiner", "Sambit Sen", "Jan Stange", "Rajiv Jalan"],
+        "abstract": ["The binding/transporting functions of albumin provide the rationale for using albumin dialysis (e.g., molecular adsorbents recirculating system [MARS]) in liver failure. This study investigates these properties in vitro, validating the findings in vivo. In vitro bromosulphthalein (BSP) and bilirubin-spiked plasma were dialyzed against albumin and s..."]
+      },
+      {
+        "title": "Meta-analysis in albumin dialysis: Are we really ready for it?",
+        "tags": ["Article"],
+        "date": "Sep 2004",
+        "authors": ["Jan Stange"],
+        "abstract": []
+      },
+      {
+        "title": "1084 Cytochrome P450 isoform dysfunction in alcoholic hepatitis can be reversed by albumin dialysis (MARS)",
+        "tags": ["Article"],
+        "date": "Dec 2003",
+        "authors": ["Jan Stange", "M. Siekmoller", "Deanna L. Oliver", "Tarek Hassanein"],
+        "abstract": []
+      },
+      {
+        "title": "Die Albumindialyse mit dem MARS System",
+        "tags": ["Article"],
+        "date": "Dec 2003",
+        "authors": ["Jan Stange", "Frank Dietrich Wagner"],
+        "abstract": []
+      },
+      {
+        "title": "Albumin dialysis with the MARS system?A current overview on its clinical use in hepatic failure and in secondary hepatic failure following cardiac surgery",
+        "tags": ["Article"],
+        "date": "Dec 2003",
+        "authors": ["Jan Stange", "Frank Dietrich Wagner"],
+        "abstract": []
+      },
+      {
+        "title": "Hepatic coma in post graft dysfunction can be resolved by albumin dialysis (MARS)",
+        "tags": ["Article"],
+        "date": "Apr 2003",
+        "authors": ["Jan Stange", "Deanna Oliver", "Tarek Hassanein"],
+        "abstract": []
+      },
+      {
+        "title": "Improvement of hepatic coma under albumin dialysis (MARS) treatment in associated with increase of long-chain polyunsaturated fatty acids",
+        "tags": ["Article"],
+        "date": "Apr 2003",
+        "authors": ["Jan Stange", "N. Zeh", "D. L. Oliver", "T. I. Hassanein"],
+        "abstract": []
+      },
+      {
+        "title": "CELLULAR THERAPY OF SEPSIS",
+        "tags": ["Article"],
+        "date": "Mar 2003",
+        "authors": ["Jens Altrichter", "M Sauer", "Sven Klöhr", "S Mitzner"],
+        "abstract": []
+      },
+      {
+        "title": "The effect of extracorporeal albumin dialysis on plasma phospholipid fatty acids in patients with end-stage liver disease",
+        "tags": ["Article"],
+        "date": "Feb 2003",
+        "authors": ["Nina Zeh", "Steven S Rossi", "Alan Hofmann", "Tarek Hassanein"],
+        "abstract": ["The effect of extracorporeal albumin dialysis (ECAD) using the MARS device on plasma phospholipid fatty acids (PLFA) in patients with end-stage liver disease (ESLD) was examined. Phospholipids were isolated from plasma and the fatty acid (FA) composition of non-sphingomyelin PL determined using capillary gas chromatography (GC). Plasma samples were..."]
+      },
+      {
+        "title": "Albumin dialysis in cirrhosis with superimposed acute liver injury: Possible impact of albumin dialysis on hospitalization costs",
+        "tags": ["Article"],
+        "date": "Feb 2003",
+        "authors": ["T Hassanein", "D Oliver", "Jan Stange", "Christian Steiner"],
+        "abstract": ["Albumin dialysis using the Molecular Adsorbents Recirculating System (MARS) has been found to be beneficial in the treatment of cirrhotic patients with acute decompensation to improve survival as well as reduce associated complications. The present study attempts to analyze the costs involved, and compare it to the benefit as a result of the MARS t..."]
+      },
+      {
+        "title": "Improvement in Central Nervous System Functions During Treatment of Liver Failure with Albumin Dialysis MARS—A Review of Clinical, Biochemical, and Electrophysiological Data",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["Steffen R Mitzner", "Jan Loock", "P Peszynski", "R Schmidt"],
+        "abstract": ["The Molecular Adsorbent Recirculating System (MARS) is a nonbiological liver support method based on the principles of dialysis, filtration, and adsorption. It allows the safe and efficient removal of both albumin-bound and water-soluble toxic metabolites, including ammonia, aromatic amino acids, tryptophan, and related phenolic and indolic product..."]
+      },
+      {
+        "title": "Use of albumin dialyis MARS in patients with severe liver failure",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["S. Mitzner", "Sebastian Klammt", "P. Peszynski", "R. Schmidt"],
+        "abstract": ["The metabolic detoxification and excretion into the bile of strongly protein-bound end-products of metabolism belong to the functions of the healthy liver. However, in different forms of hepatic dysfunction or failure, high concentrations of said metabolites, such as hydrophobic bile acids or bilirubin, can be observed as a result of insufficient h..."]
+      },
+      {
+        "title": "Evaluation of mental state in a clinical trial of MARS for patients with acute hepatic encephalopathy: comparison of two scales",
+        "tags": ["Chapter"],
+        "date": "Jan 2003",
+        "authors": ["Javier Vaquero", "D. Oliver", "T. Hassanein", "A. T. Blei"],
+        "abstract": ["It is important to assess the severity of hepatic encephalopathy (HE) and to quantitate improvement in HE after therapeutic interventions in a reliable and reproducible manner. The lack of a well standardized method of measurement has led to the use of different techniques by different clinical investigators, making a comparison between studies pro..."]
+      },
+      {
+        "title": "Effect of blood plasma components from patients with hepatic encephalopathy on electrophysiological activity of primary frontal cortex networks in vitro",
+        "tags": ["Chapter"],
+        "date": "Jan 2003",
+        "authors": ["Jan Loock", "Alexandra Gramowski", "L. Mehnert", "Steffen R Mitzner"],
+        "abstract": ["Hepatic encephalopathy (HE) results from impaired detoxification capacity of the liver leading to accumulation of various substances that may impair the function of the central nervous system (CNS).1—5"]
+      },
+      {
+        "title": "Einsatz des Leberunterstützungsverfahrens MARS in der Therapie von Patienten mit Leberversagen",
+        "tags": ["Article"],
+        "date": "Jan 2003",
+        "authors": ["S. Mitzner", "Sebastian Klammt", "P. Peszynski", "R.Schmidt"],
+        "abstract": []
+      },
+      {
+        "title": "Albumin dialysis in cirrhosis with superimposed acute liver injury: A prospective, controlled study",
+        "tags": ["Article"],
+        "date": "Oct 2002",
+        "authors": ["Uwe Heemann", "Ulrich Treichel", "Jan Loock", "Jan Stange"],
+        "abstract": ["Patients with liver cirrhosis and a superimposed acute injury with progressive hyperbilirubinemia have a high mortality. A prospective, controlled study was performed to test whether hyperbilirubinemia, 30-day survival, and encephalopathy would be improved by extracorporeal albumin dialysis (ECAD). Twenty-four patients were studied; 23 patients had..."]
+      },
+      {
+        "title": "IN-VIVO RESULTS OF OPTIMIZED EXTRACORPOREAL PHAGOCYTOSIS ASSISTANCE.",
+        "tags": ["Article"],
+        "date": "Sep 2002",
+        "authors": ["M. Sauer", "Sven Klöhr", "Matthias Suraj", "R. S. Mitzner"],
+        "abstract": []
+      },
+      {
+        "title": "Extracorporeal support of the failing liver",
+        "tags": ["Article"],
+        "date": "May 2002",
+        "authors": ["Steffen R Mitzner", "Jan Stange", "Piotr Peszynski", "Sebastian Klammt"],
+        "abstract": ["Successes in machine-based extracorporeal support for different organ functions stimulated research in the field of liver support approximately 50 years ago. Initial failure to improve outcome using detoxification methods like dialysis, blood and plasma exchange, or plasmapheresis over sorbents fueled interest in biologic liver support concepts usi..."]
+      },
+      {
+        "title": "Are only bilirubin and bile acids removed by albumin dialysis? Observations of a randomized two center clinical-trial",
+        "tags": ["Article"],
+        "date": "Apr 2002",
+        "authors": ["Jan Loock", "Uwe Heemann", "Steffen R Mitzner", "Sebastian Klammt"],
+        "abstract": []
+      },
+      {
+        "title": "Albumin dialysis: Single-pass versus recirculation (MARS)",
+        "tags": ["Article"],
+        "date": "Apr 2002",
+        "authors": ["Piotr Peszynski", "Jan Stange", "Steffen R Mitzner", "Reinhard Schmidt"],
+        "abstract": []
+      },
+      {
+        "title": "Encapsulated cells producing retroviral vectors for in vivo gene transfer",
+        "tags": ["Article"],
+        "date": "Mar 2002",
+        "authors": ["Robert M Saller", "Stefano Indraccolo", "Vincenzo Coppola", "Walter H Günzburg"],
+        "abstract": ["Because gene therapy of the future will primarily take an in vivo approach, a number of problems associated with its current implementation exist. Currently, repeated delivery of a vector in vivo is necessary to ensure adequate transfer of the therapeutic gene. This may lead to the development of an immune response against the vector, thus interfer..."]
+      },
+      {
+        "title": "The Molecular Adsorbents Recycling System as a Liver Support System Based on Albumin Dialysis: A Summary of Preclinical Investigations, Prospective, Randomized, Controlled Clinical Trial, and Clinical Experience from 19 Centers",
+        "tags": ["Article"],
+        "date": "Mar 2002",
+        "authors": ["Jan Stange", "Tarek I Hassanein", "Ravindra Mehta", "Robert H Bartlett"],
+        "abstract": ["Artificial liver support aims to prolong survival time of patients with liver failure by detoxification. Albumin as a molecular adsorbent in dialysis solution is capable of attracting even tightly albumin-bound toxins from blood into the dialysate if a specific dialysis membrane is used and if the albumin's binding sites are on-line-purified by a s..."]
+      },
+      {
+        "title": "MTS Colorimetric Assay in Combination with a Live‐Dead Assay for Testing Encapsulated L929 Fibroblasts in Alginate Poly‐l‐Lysine Microcapsules In Vitro",
+        "tags": ["Article"],
+        "date": "Mar 2002",
+        "authors": ["Carsten Michael Bünger", "A Jahnke", "Jan Stange", "Ulrich T. Hopt"],
+        "abstract": ["Biomaterials such as applied in microcapsules may have harmful effects on encapsulated cells. Up to now, there are no adequate assays available for testing the function and viability of cells in capsules. Therefore, we investigated whether the combination of MTS proliferation assay and live-dead viability assay is suitable for testing microencapsul..."]
+      },
+      {
+        "title": "Encapsulated cells producing retroviral vectors forin vivo gene transfer",
+        "tags": ["Article"],
+        "date": "Mar 2002",
+        "authors": ["Robert M. Saller", "Stefano Indraccolo", "Vincenzo Coppola", "Brian Salmons"],
+        "abstract": ["Background\nBecause gene therapy of the future will primarily take an in vivo approach, a number of problems associated with its current implementation exist. Currently, repeated delivery of a vector in vivo is necessary to ensure adequate transfer of the therapeutic gene. This may lead to the development of an immune response against the vector, th..."]
+      },
+      {
+        "title": "Extracorporeal liver support by recirculating albumin dialysis: Analysing the effect of the first clinically used generation of the MARSystem",
+        "tags": ["Article"],
+        "date": "Feb 2002",
+        "authors": ["Sebastian Klammt", "Jan Stange", "Steffen R Mitzner", "Stefan Liebe"],
+        "abstract": ["Unlabelled: \nAlbumin dialysis with the MARSystem is used in many hospitals to support excretory hepatic function in acute or acute on chronic liver failure. Potential pathogenic albumin bound substances accumulated in excretory liver insufficiency can be removed from patients blood by dialysis against albumin solution. A specific membrane enables t..."]
+      },
+      {
+        "title": "Amino acid dysbalance in liver failure is favourably influenced by recirculating albumin dialysis (MARS)",
+        "tags": ["Article"],
+        "date": "Feb 2002",
+        "authors": ["Jan Loock", "Steffen R Mitzner", "E Peters", "Jan Stange"],
+        "abstract": ["Dysbalance between branched chain (BCAA) and aromatic amino acids (AAA), which can be quantified by a low Fischer's Index (SigmaBCAA/SigmaAAA), as well as elevated levels of free tryptophan in plasma are common in hepatic failure and may contribute to the development of hepatic encephalopathy.\nTo evaluate the influence of a new extracorporeal detox..."]
+      },
+      {
+        "title": "Albumin dialysis: Single pass vs. recirculation (MARS)",
+        "tags": ["Article"],
+        "date": "Feb 2002",
+        "authors": ["P Peszynski", "Sebastian Klammt", "E Peters", "R Schmidt"],
+        "abstract": ["The single pass albumin dialysis (SPAD) was reported to be an alternative to the Molecular Adsorbent Recirculating System (MARS) for the effective removal of protein bound substances in liver failure. Three SPAD experiments using different albumin concentrations and dialysate flow rates were performed. In each experiment, 1000 ml human donor plasma..."]
+      },
+      {
+        "title": "Albumin dialysis using the molecular recirculating system",
+        "tags": ["Article"],
+        "date": "Dec 2001",
+        "authors": ["Steffen R Mitzner", "Jan Stange", "Sebastian Klammt", "Reinhard Schmidt"],
+        "abstract": ["Liver support systems based on either dialysis, filtration, and adsorption or plasmaperfusion over hepatocytes have been tested clinically with varying success. A new approach in this field is the selective removal of albumin-bound end products of metabolism. This can be achieved in a high-flux dialysis setting by the addition of human serum albumi..."]
+      },
+      {
+        "title": "Use of Human Preconditioned Phagocytes for Extracorporeal Immune Support: Introduction of a Concept",
+        "tags": ["Article"],
+        "date": "Nov 2001",
+        "authors": ["Steffen R Mitzner", "Jens Freytag", "Martin Sauer", "Reinhard Schmidt"],
+        "abstract": ["Neutrophils are critical effector cells in humoral and innate immunity and play a vital role in phagocytosis and bacterial killing. If they and/or their specific functions are lacking, then immunoparalysis may occur, and severe diseases like systemic inflammatory response syndrome (SIRS) or sepsis can take a fatal course. In this paper, we discuss..."]
+      },
+      {
+        "title": "Improvement of Multiple Organ Functions in Hepatorenal Syndrome During Albumin Dialysis with the Molecular Adsorbent Recirculating System",
+        "tags": ["Article"],
+        "date": "Oct 2001",
+        "authors": ["Steffen R Mitzner", "Sebastian Klammt", "Piotr Peszynski", "Reinhard Schmidt"],
+        "abstract": ["Recently, significant improvement of renal function and prolongation of survival were reported in hepatorenal syndrome (HRS) patients treated with the Molecular Adsorbent Recirculating System (MARS). As no impact on extrarenal organ function was documented, this trial looked into multiple organ function changes during MARS in HRS patients. Eight HR..."]
+      },
+      {
+        "title": "Albumin dialysis using the MARS as a treatment of end stage liver disease and progressive cholestasis",
+        "tags": ["Article"],
+        "date": "Sep 2001",
+        "authors": ["Jan Stange", "Tarek I. Hassanein"],
+        "abstract": []
+      },
+      {
+        "title": "Phagocytosis assistance in a pig model of sepsis",
+        "tags": ["Article"],
+        "date": "Sep 2001",
+        "authors": ["M Sauer", "S Klohr", "Matthias Suraj", "S Mitzner"],
+        "abstract": []
+      }
+    ],
+    "degree": ["PD", "Dr.med.", "habil.", ""],
+    "bio": "Currently introducing next generation liver support therapies; conducting multiple prospective clinical trials investigating new means of liver support\nLeading research dialysis department\nNew Project \"3inOneMultiOrganSupport\" (BMBF KMU Innovativ Medizintechnik)",
+    "publications": [179],
+    "reads": [9470],
+    "citations": [5098]
   }
 }

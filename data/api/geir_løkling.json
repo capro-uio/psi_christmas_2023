@@ -2,11 +2,21 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Geir Løkling",
-    "id": "988011",
+    "name": ["Geir Løkling"],
+    "id": ["988011"],
     "keywords": [],
     "position": ["University lecturer"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Daniela_Geir",
+    "name": "Daniela Geir",
+    "img": "https://i1.rgstatic.net/ii/profile.image/875110705680386-1585654059335_Q128/Daniela_Geir.jpg",
+    "affiliation": "University of Innsbruck | UIBK, University of Innsbruck, Institute of Psychology",
+    "keywords": ["Pedagogy"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

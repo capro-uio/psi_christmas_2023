@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Thea Wiker",
-    "id": "nZyI17sAAAAJ",
-    "affiliation": "PhD fellow, University of Oslo",
+    "name": ["Thea Wiker"],
+    "id": ["nZyI17sAAAAJ"],
+    "affiliation": ["PhD fellow, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -78,8 +78,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0018-583X",
-    "name": "Thea Wiker",
+    "orcid": ["0000-0002-0018-583X"],
+    "name": ["Thea Wiker"],
     "distinctions": [],
     "education": [
       {
@@ -114,8 +114,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Thea Wiker",
-    "id": "1504817",
+    "name": ["Thea Wiker"],
+    "id": ["1504817"],
     "keywords": [],
     "position": ["Guest"],
     "img": {},
@@ -142,5 +142,719 @@
         "url": "https://api.cristin.no/v2/results/2154277"
       }
     ]
+  },
+  "rg": {
+    "id": "Donald-Thea",
+    "name": "Donald M Thea",
+    "img": "https://i1.rgstatic.net/ii/profile.image/273523360923671-1442224459615_Q128/Donald-Thea.jpg",
+    "affiliation": "Boston University | BU, Boston University, School of Public Health",
+    "keywords": [],
+    "works": [
+      {
+        "title": "In-Hospital Mortality Risk Stratification in Children Under 5 Years Old with Pneumonia with or without Pulse Oximetry: A Secondary Analysis of the Pneumonia REsearch Partnership to Assess WHO REcommendations (PREPARE) Dataset",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2023",
+        "authors": ["Shubhada Hooli", "Carina King", "Eric D. McCollum", "Yasir Bin Nisar"],
+        "abstract": ["Objectives: \nWe determined pulse oximetry benefit in pediatric pneumonia mortality-risk stratification and chest indrawing pneumonia in-hospital mortality risk factors.\n\nMethods: \nWe report characteristics and in-hospital pneumonia-related mortality of children 2-59-months-old included in the Pneumonia Research Partnership to Assess WHO Recommendat..."]
+      },
+      {
+        "title": "Assembling a global database of child pneumonia studies to inform WHO pneumonia management algorithm: Methodology and applications",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Helena Martin", "Jennifer Falconer", "Emmanuel O.D. Addo-Yobo", "Yasir Bin Nisar"],
+        "abstract": ["Background: \nThe existing World Health Organization (WHO) pneumonia case management guidelines rely on clinical symptoms and signs for identifying, classifying, and treating pneumonia in children up to 5 years old. We aimed to collate an individual patient-level data set from large, high-quality pre-existing studies on pneumonia in children to iden..."]
+      },
+      {
+        "title": "What is the prevalence of COVID-19 detection by PCR among deceased individuals in Lusaka, Zambia? A postmortem surveillance study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Christopher J Gill", "Lawrence Mwananyanda", "William B MacLeod", "Donald M Thea"],
+        "abstract": ["Objectives\nTo determine the prevalence of COVID-19 postmortem setting in Lusaka, Zambia.\n\nDesign\nA systematic, postmortem prevalence study.\n\nSetting\nA busy, inner-city morgue in Lusaka.\n\nParticipants\nWe sampled a random subset of all decedents who transited the University Teaching Hospital morgue. We sampled the posterior nasopharynx of decedents u..."]
+      },
+      {
+        "title": "Microbiologic and Virulence Characteristics of Moraxella catarrhalis Isolates from Zambian Children Presenting with Acute Pneumonia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Mukena Nawa", "James Mwansa", "John Mwaba", "Geoffrey Kwenda"],
+        "abstract": ["Background: \nMoraxella catarrhalis is one of the bacterial pathogens associated with childhood pneumonia, but its clinical importance is not clearly defined.\n\nObjective: \nThis study aimed to investigate the microbiologic and virulence characteristics of M. catarrhalis isolates obtained from children with pneumonia in Lusaka, Zambia.\n\nMethods: \nThis..."]
+      },
+      {
+        "title": "Digitally recorded and remotely classified lung auscultation compared with conventional stethoscope classifications among children aged 1-59 months enrolled in the Pneumonia Etiology Research for Child Health (PERCH) case-control study",
+        "tags": ["Article", "Full-text available"],
+        "date": "May 2022",
+        "authors": ["Daniel Eugene Park", "Nora L Watson", "Christopher Focht", "Eric D. McCollum"],
+        "abstract": ["Background: \nDiagnosis of pneumonia remains challenging. Digitally recorded and remote human classified lung sounds may offer benefits beyond conventional auscultation, but it is unclear whether classifications differ between the two approaches. We evaluated concordance between digital and conventional auscultation.\n\nMethods: \nWe collected digitall..."]
+      },
+      {
+        "title": "Nasopharyngeal Dysbiosis Precedes the Development of Lower Respiratory Tract Infections in Young Infants, a Longitudinal Infant Cohort Study",
+        "tags": ["Article"],
+        "date": "Apr 2022",
+        "authors": ["Rotem Lapidot", "Tyler Faits", "Arshad Ismail", "Cristopher J Gill"],
+        "abstract": ["Background: Infants suffering from lower respiratory tract infections (LRTIs) have distinct nasopharyngeal (NP) microbiome profiles that correlate with severity of disease. Whether these profiles precede the infection or a consequence of it, is unknown. In order to answer this question, longitudinal studies are needed.\nMethods: We conducted an anal..."]
+      },
+      {
+        "title": "Derivation and validation of a novel risk assessment tool to identify children aged 2–59 months at risk of hospitalised pneumonia-related mortality in 20 countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2022",
+        "authors": ["Chris A Rees", "Tim Edwin Colbourn", "Shubhada Hooli", "Mark I Neuman"],
+        "abstract": ["Introduction\nExisting risk assessment tools to identify children at risk of hospitalised pneumonia-related mortality have shown suboptimal discriminatory value during external validation. Our objective was to derive and validate a novel risk assessment tool to identify children aged 2–59 months at risk of hospitalised pneumonia-related mortality ac..."]
+      },
+      {
+        "title": "Sustained high prevalence of COVID-19 deaths from a systematic post-mortem study in Lusaka, Zambia: one year later",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Mar 2022",
+        "authors": ["Christopher J Gill", "Lawrence Mwananyanda", "William MacLeod", "Donald M Thea"],
+        "abstract": ["Background\nSparse data documenting the impact of COVID-19 in Africa has fostered the belief that COVID-19 ‘skipped Africa’. We previously published results from a systematic postmortem surveillance at a busy inner-city morgue in Lusaka, Zambia. Between June-October 2021, we detected COVID-19 in 15-19% of all deaths and concentrated in community set..."]
+      },
+      {
+        "title": "Infant deaths from respiratory syncytial virus in Lusaka, Zambia from the ZPRIME study: a 3-year, systematic, post-mortem surveillance project",
+        "tags": ["Article"],
+        "date": "Feb 2022",
+        "authors": ["Christopher J Gill", "Lawrence Mwananyanda", "William B MacLeod", "Donald M Thea"],
+        "abstract": ["Background: \nRespiratory syncytial virus (RSV) is the leading cause of acute lower respiratory tract infections and a key driver of childhood mortality. Previous RSV burden of disease estimates used hospital-based surveillance data and modelled, rather than directly measured, community deaths. Given this uncertainty, we conducted a 3-year post-mort..."]
+      },
+      {
+        "title": "Histopathological Evaluation of Deceased Persons in Lusaka, Zambia With or Without Coronavirus Disease 2019 (COVID-19) Infection: Results Obtained From Minimally Invasive Tissue Sampling",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Victor Mudenda", "Chibamba Mumba", "Rachel C Pieciak", "Christopher J Gill"],
+        "abstract": ["Background: \nAlthough much has been learned about the pathophysiology of coronavirus disease 2019 (COVID-19) infections, pathology data from patients who have died of COVID-19 in low- and middle-income country settings remain sparse. We integrated minimally invasive tissue sampling (MITS) into an ongoing postmortem surveillance study of COVID-19 in..."]
+      },
+      {
+        "title": "Nasopharyngeal Dysbiosis Precedes the Development of Lower Respiratory Tract Infections in Young Infants, a Longitudinal Infant Cohort Study",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Rotem Lapidot", "Tyler Faits", "Arshad Ismail", "Christopher J Gill"],
+        "abstract": ["Background: Infants suffering from lower respiratory tract infections (LRTIs) have distinct nasopharyngeal (NP) microbiome profiles that correlate with severity of disease. Whether these profiles precede the infection or a consequence of it, is unknown. In order to answer this question, longitudinal studies are needed.\nMethods: We conducted an anal..."]
+      },
+      {
+        "title": "External validation of the RISC, RISC-Malawi, and PERCH clinical prediction rules to identify risk of death in children hospitalized with pneumonia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Chris A Rees", "Shubhada Hooli", "Carina King", "Mark I Neuman"],
+        "abstract": ["Background\nExisting scores to identify children at risk of hospitalized pneumonia-related mortality lack broad external validation. Our objective was to externally validate three such risk scores.\n\nMethods\nWe applied the Respiratory Index of Severity in Children (RISC) for HIV-negative children, the RISC-Malawi, and the Pneumonia Etiology Research..."]
+      },
+      {
+        "title": "The Etiology of Pneumonia in Zambian Children: Findings From the Pneumonia Etiology Research for Child Health (PERCH) Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Lawrence Mwananyanda", "Donald M Thea", "James Chipeta", "Phil Seidenberg"],
+        "abstract": ["Background: \nChildhood pneumonia in developing countries is the foremost cause of morbidity and death. Fresh information on etiology is needed, considering the changing epidemiology of pneumonia in the setting of greater availability of effective vaccines, changing antibiotic use and improved access to care. We report here the Zambia site results o..."]
+      },
+      {
+        "title": "Introduction to the Site-specific Etiologic Results From the Pneumonia Etiology Research for Child Health (PERCH) Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Maria Deloria Knoll", "Christine Prosperi", "Henry C. Baggett", "Katherine O'Brien"],
+        "abstract": ["The Pneumonia Etiology Research for Child Health (PERCH) study evaluated the etiology of severe and very severe pneumonia in children hospitalized in 7 African and Asian countries. Here, we summarize the highlights of in-depth site-specific etiology analyses published separately in this issue, including how etiology varies by age, mortality status,..."]
+      },
+      {
+        "title": "The Etiology of Pneumonia in HIV-infected Zambian Children: Findings From the Pneumonia Etiology Research for Child Health (PERCH) Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2021",
+        "authors": ["Phil Seidenberg", "Lawrence Mwananyanda", "James Chipeta", "Donald M Thea"],
+        "abstract": ["Background: \nDespite recent declines in new pediatric HIV infections and childhood HIV-related deaths, pneumonia remains the leading cause of death in HIV-infected children under 5. We describe the patient population, etiology and outcomes of childhood pneumonia in Zambian HIV-infected children.\n\nMethods: \nAs one of the 9 sites for the Pneumonia Et..."]
+      },
+      {
+        "title": "Epidemiology and Seasonality of Endemic Human Coronaviruses in South African and Zambian Children: A Case-Control Pneumonia Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2021",
+        "authors": ["Vicky Baillie", "David P Moore", "Azwifarwi Mathunjwa", "Shabir A Madhi"],
+        "abstract": ["Endemic human coronaviruses (HCoV) are capable of causing a range of diseases from the common cold to pneumonia. We evaluated the epidemiology and seasonality of endemic HCoVs in children hospitalized with clinical pneumonia and among community controls living in countries with a high HIV burden, namely South Africa and Zambia, between August 2011..."]
+      },
+      {
+        "title": "Epidemiology of the Rhinovirus (RV) in African and Southeast Asian Children: A Case-Control Pneumonia Etiology Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Vicky Baillie", "David P Moore", "Azwifarwi Mathunjwa", "Shabir A Madhi"],
+        "abstract": ["Rhinovirus (RV) is commonly detected in asymptomatic children; hence, its pathogenicity during childhood pneumonia remains controversial. We evaluated RV epidemiology in HIV-uninfected children hospitalized with clinical pneumonia and among community controls. PERCH was a case-control study that enrolled children (1–59 months) hospitalized with sev..."]
+      },
+      {
+        "title": "Asymptomatic Bordetella pertussis infections in a longitudinal cohort of young African infants and their mothers",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Christopher J Gill", "Christian E Gunning", "William B MacLeod", "Pejman Rohani"],
+        "abstract": ["Recent pertussis resurgence in numerous countries may be driven by asymptomatic infections. Most pertussis surveillance studies are cross-sectional and cannot distinguish asymptomatic from pre-symptomatic infections. Longitudinal surveillance could overcome this barrier, providing more information about the true burden of pertussis at the populatio..."]
+      },
+      {
+        "title": "Global burden of acute lower respiratory infection associated with human parainfluenza virus in children younger than 5 years for 2018: a systematic review and meta-analysis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2021",
+        "authors": ["Xin Wang", "You Li", "Maria Deloria-Knoll", "Harish Nair"],
+        "abstract": ["Background\nHuman parainfluenza virus (hPIV) is a common virus in childhood acute lower respiratory infections (ALRI). However, no estimates have been made to quantify the global burden of hPIV in childhood ALRI. We aimed to estimate the global and regional hPIV-associated and hPIV-attributable ALRI incidence, hospital admissions, and mortality for..."]
+      },
+      {
+        "title": "Upper Respiratory Tract Co-detection of Human Endemic Coronaviruses and High-density Pneumococcus Associated With Increased Severity Among HIV-Uninfected Children Under 5 Years Old in the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2021",
+        "authors": ["Daniel Eugene Park", "Melissa M Higdon", "Christine Prosperi", "Maria Deloria Knoll"],
+        "abstract": ["Background: \nSeverity of viral respiratory illnesses can be increased with bacterial coinfection and can vary by sex, but influence of coinfection and sex on human endemic coronavirus (CoV) species, which generally cause mild to moderate respiratory illness, is unknown. We evaluated CoV and pneumococcal co-detection by sex in childhood pneumonia...."]
+      },
+      {
+        "title": "Persistent Immune activation in HIV-Infected Pregnant Women Initiating cART Post Conception",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2021",
+        "authors": ["Barbara Lohman Payne", "Jacob Koster", "Benjamin Gabriel", "Donald M Thea"],
+        "abstract": ["This study reports the impact of HIV and antiretroviral therapy (cART) on immune activation during pregnancy in a Zambian cohort of HIV exposed but uninfected children followed from birth. Activated CD8+ T-cells (CD38+ and HLA-DR+) were compared among HIV- (N=95), HIV+/cART experienced (N=111) and HIV+/cART naïve (N=21) pregnant women. Immune activ..."]
+      },
+      {
+        "title": "#33: A Tale of Two Pneumos: the Impact of HIV Exposure or Infection Status on Pediatric Carriage of Streptococcus pneumoniae and Pneumocystis jirovecii , a Nested Case–control Analysis from the Pneumonia Etiology Research in Child Health (PERCH) study in Zambia",
+        "tags": ["Article"],
+        "date": "Mar 2021",
+        "authors": ["Ingrid Camelo", "Lawrence Mwananyanda", "Donald M Thea", "John R Weinstein"],
+        "abstract": ["Background\nMost pediatric HIV cases in Africa reflect maternal to child transmission (MTCT). The persistently high seroprevalence of HIV in pregnant women (16.6%) and the low rates of mother to child HIV transmission (~2%) have resulted in a high number of children who are HIV exposed but uninfected (HEU). HIV exposed but uninfected (HEU) children..."]
+      },
+      {
+        "title": "Covid-19 deaths in Africa: Prospective systematic postmortem surveillance study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2021",
+        "authors": ["Lawrence Mwananyanda", "Christopher J Gill", "William MacLeod", "Donald M Thea"],
+        "abstract": ["Objective\nTo directly measure the fatal impact of coronavirus disease 2019 (covid-19) in an urban African population.\n\nDesign\nProspective systematic postmortem surveillance study.\n\nSetting\nZambia’s largest tertiary care referral hospital.\n\nParticipants\nDeceased people of all ages at the University Teaching Hospital morgue in Lusaka, Zambia, enrolle..."]
+      },
+      {
+        "title": "Infant Deaths Due to Respiratory Syncytial Virus: Results From a Three-Year Prospective Post-Mortem Surveillance Study in Lusaka, Zambia",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Christopher John Gill", "Lawrence Mwananyanda", "William B. MacLeod", "Donald M Thea"],
+        "abstract": []
+      },
+      {
+        "title": "Factors Predicting Mortality in Hospitalised Hiv-Negative Children with Lower-Chest-Wall Indrawing Pneumonia and Implications for Management",
+        "tags": ["Article"],
+        "date": "Jan 2021",
+        "authors": ["Katherine E. Gallagher", "Juliet O. Awori", "Maria D. Knoll", "Anthony Scott"],
+        "abstract": []
+      },
+      {
+        "title": "COVID-19 deaths detected in a systematic post-mortem surveillance study in Africa",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Lawrence Mwananyanda", "Christopher J Gill", "William MacLeod", "Donald M Thea"],
+        "abstract": ["Objectives\nLimited SARS CoV 2 testing in many African countries has constrained availability of data on the impact of COVID-19 (CV19). To address this gap, we conducted a systematic post-mortem surveillance study to directly measure the fatal impact of CV19 in an urban African population.\n\nDesign\nWe enrolled deceased individuals at the University T..."]
+      },
+      {
+        "title": "Implementation and adherence of routine pertussis vaccination (DTP) in a low-resource urban birth cohort",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Christian E Gunning", "Lawrence Mwananyanda", "William B MacLeod", "Christopher J Gill"],
+        "abstract": ["Introduction\nReliable information on rates of up-to-date coverage and timely administration of routine childhood immunisations are critical for guiding public health efforts worldwide, yet prospective observation of vaccination programmes within individual communities is rare. Here, we provide a longitudinal analysis of the directly observed admini..."]
+      },
+      {
+        "title": "Asymptomatic Bordetella pertussis infections in young African infants and their mothers identified within a longitudinal cohort",
+        "tags": ["Preprint", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Christopher J Gill", "CE Gunning", "W MacLeod", "Pejman Rohani"],
+        "abstract": ["Despite long-standing vaccination programs, pertussis incidence has increased in numerous countries; transmission by asymptomatic individuals is a suspected driver of this resurgence. However, unequivocal evidence documenting asymptomatic infections in adults and children is lacking due, in part, to the cross-sectional nature of most pertussis surv..."]
+      },
+      {
+        "title": "Global burden of acute lower respiratory infection associated with human metapneumovirus in children under 5 years in 2018: a systematic review and modelling study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2020",
+        "authors": ["Xin Wang", "You Li", "Maria Deloria-Knoll", "Susan Morpeth"],
+        "abstract": ["Background\nHuman metapneumovirus is a common virus associated with acute lower respiratory infections (ALRIs) in children. No global burden estimates are available for ALRIs associated with human metapneumovirus in children, and no licensed vaccines or drugs exist for human metapneumovirus infections. We aimed to estimate the age-stratified human m..."]
+      },
+      {
+        "title": "Digital auscultation in PERCH: Associations with chest radiography and pneumonia mortality in children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Eric D. McCollum", "Daniel Eugene Park", "Nora L. Watson", "Laura L. Hammitt"],
+        "abstract": ["Background\nWhether digitally recorded lung sounds are associated with radiographic pneumonia or clinical outcomes among children in low‐income and middle‐income countries is unknown. We sought to address these knowledge gaps.\n\nMethods\nWe enrolled 1‐59 month old children hospitalized with pneumonia at eight African and Asian Pneumonia Etiology Resea..."]
+      },
+      {
+        "title": "The Aetiology of pneumonia from analysis of Lung aspirate and Pleural fluid samples: Findings from the PERCH study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jul 2020",
+        "authors": ["Bernard E Ebruke", "Maria Deloria Knoll", "Meredith Haddix", "Stephen R C Howie"],
+        "abstract": ["Background: \nAn improved understanding of childhood pneumonia aetiology is required to inform prevention and treatment strategies. Lung aspiration is the gold standard specimen for pneumonia diagnostics. We report findings from analyses of lung and pleural aspirates collected in the Pneumonia Etiology Research for Child Health (PERCH) study.\n\nMetho..."]
+      },
+      {
+        "title": "A Tale of 2 Pneumos: The Impact of Human Immunodeficiency Virus Exposure or Infection Status on Pediatric Nasopharyngeal Carriage of Streptococcus pneumoniae and Pneumocystis jiroveci: A Nested Case Control Analysis From the Pneumonia Etiology Research In Child Health Study",
+        "tags": ["Article"],
+        "date": "Feb 2020",
+        "authors": ["Ingrid Camelo", "Lawrence Mwananyanda", "Donald M Thea", "John R Weinstein"],
+        "abstract": ["Background: \nThe majority of pediatric human immunodeficiency virus (HIV) cases in Africa reflect maternal-to-child transmission. HIV exposed but uninfected (HEU) children have increased rates of morbidity and mortality when compared to HIV unexposed and uninfected (HUU) children. The mechanisms behind these unexpected trends are only partially und..."]
+      },
+      {
+        "title": "2628. Nasopharyngeal Microbiome in the First Weeks of Life Distinguishes Infants Who Subsequently Develop Lower Respiratory Tract Infections",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Rotem Lapidot", "Tyler Faits", "Arshad Ismail", "Christopher J Gill"],
+        "abstract": ["Background\nColonization of the nasopharynx (NP) is the initial event in the pathogenesis of lower respiratory tract infections (LRTI). Evidence is accumulating that the NP microbiome influences host immune responses and whether colonization progresses to disease or not. We hypothesized that infants who experience LRTI early in life display distinct..."]
+      },
+      {
+        "title": "2621. Influence of HIV Exposure Status on Carriage Rates and Density of Streptococcus Pneumoniae and Pneumocystis Jirovecii in Zambian Children",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2019",
+        "authors": ["Ingrid Camelo", "Christopher J Gill", "Donald M Thea", "John R Weinstein"],
+        "abstract": ["Background\nLow rates of mother to child HIV transmission in Zambia, translates into a high number of children who are HIV exposed but uninfected (HEU) who have increased mortality and morbidity when compared with children HIV unexposed and uninfected (HUU). We performed a secondary analysis on The Pneumonia Etiology Research in Child Health (PERCH)..."]
+      },
+      {
+        "title": "Causes of severe pneumonia requiring hospital admission in children without HIV infection from Africa and Asia: the PERCH multi-country case-control study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2019",
+        "authors": ["Katherine L. O'Brien", "Henry C. Baggett", "W. Abdullah Brooks", "Sye Zaman"],
+        "abstract": ["Background: \nPneumonia is the leading cause of death among children younger than 5 years. In this study, we estimated causes of pneumonia in young African and Asian children, using novel analytical methods applied to clinical and microbiological findings.\n\nMethods: \nWe did a multi-site, international case-control study in nine study sites in seven..."]
+      },
+      {
+        "title": "A Meta-analysis Assessing Diarrhea and Pneumonia in HIV-Exposed Uninfected Compared With HIV-Unexposed Uninfected Infants and Children",
+        "tags": ["Article"],
+        "date": "May 2019",
+        "authors": ["Alana T Brennan", "Rachael Bonawitz", "Christopher J Gill", "Matthew P Fox"],
+        "abstract": ["Objective: \nPrevious studies have demonstrated that HIV-exposed uninfected (HEU) infants and children experience morbidity and mortality at rates exceeding those of their HIV-unexposed uninfected (HUU) counterparts. We sought to summarize the association between HEU vs. HUU infants and children for the outcomes of diarrhea and pneumonia.\n\nDesign:..."]
+      },
+      {
+        "title": "The predictive performance of a pneumonia severity score in HIV-negative children presenting to hospital in seven low and middle-income countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Bernard Eseoghene Ebruke", "Maria D Knoll", "Chrissy Prosperi", "J Anthony Gerard Scott"],
+        "abstract": ["Background: \nIn 2015, pneumonia remained the leading cause of mortality in children between 1-59 months old.\n\nMethods: \nData from 1802 HIV-negative children between 1-59 months old enrolled in the Pneumonia Etiology Research for Child Health (PERCH) study with severe or very severe pneumonia during 2011-14 were used to build a parsimonious multivar..."]
+      },
+      {
+        "title": "Aetiology of severe hospitalised pneumonia in HIV-uninfected children from Africa and Asia: the Pneumonia Aetiology Research for Child Health (PERCH) Case-Control Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2019",
+        "authors": ["Katherine O'Brien", "Orin S Levine", "Anthony Scott", "Joanne Mitchell"],
+        "abstract": []
+      },
+      {
+        "title": "Comparison of 3 Days Amoxicillin Versus 5 Days Co-Trimoxazole for Treatment of Fast-breathing Pneumonia by Community Health Workers in Children Aged 2-59 Months in Pakistan: A Cluster-randomized Trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2018",
+        "authors": ["Salim Sadruddin", "Ibad Ul Haque Khan", "Matthew P Fox", "Shamim A Qazi"],
+        "abstract": ["Background: \nGlobally, most deaths due to childhood pneumonia occur at the community level. Some countries are still using oral co-trimoxazole, despite a World Health Organization recommendation of oral amoxicillin for the treatment of fast-breathing pneumonia in children at the community level.\n\nMethods: \nWe conducted an unblinded, cluster-randomi..."]
+      },
+      {
+        "title": "“When you are injected, the baby is protected:” Assessing the acceptability of a maternal Tdap vaccine based on mothers’ knowledge, attitudes, and beliefs of pertussis and vaccinations in Lusaka, Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2018",
+        "authors": ["Anna Larson Williams", "Lois McCloskey", "Magdalene Mwale", "Christopher J Gill"],
+        "abstract": ["Introduction: \nSevere and fatal pertussis infections are concentrated among infants who are too young to be protected through routine vaccinations. Maternal Tdap (mTdap), which is now the standard of care in the US and UK, is considered to be the most effective way to address this gap in preventative care. Little is known about how pregnant women i..."]
+      },
+      {
+        "title": "Breast milk and in utero transmission of HIV-1 select for envelope variants with unique molecular signatures",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2017",
+        "authors": ["Kyle J. Nakamura", "Laura Heath", "Edwin R. Sobrera", "Grace M. Aldrovandi"],
+        "abstract": ["Background\nMother-to-child transmission of human immunodeficiency virus-type 1 (HIV-1) poses a serious health threat in developing countries, and adequate interventions are as yet unrealized. HIV-1 infection is frequently initiated by a single founder viral variant, but the factors that influence particular variant selection are poorly understood...."]
+      },
+      {
+        "title": "The impact of a multi-level maternal health programme on facility delivery and capacity for emergency obstetric care in Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Elizabeth G. Henry", "Donald M Thea", "Davidson H Hamer", "Katherine Semrau"],
+        "abstract": ["In 2012, Saving Mothers, Giving Life (SMGL), a multi-level health systems initiative, launched in Kalomo District, Zambia, to address persistent challenges in reducing maternal mortality. We assessed the impact of the programme from 2012 to 2013 using a quasi-experimental study with both household- and health facility-level data collected before an..."]
+      },
+      {
+        "title": "The relationship between mucosal immunity, nasopharyngeal carriage, asymptomatic transmission and the resurgence of Bordetella pertussis",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Christopher J Gill", "Pejman Rohani", "Donald M Thea"],
+        "abstract": ["The incidence of whooping cough in the US has been rising slowly since the 1970s, but the pace of this has accelerated sharply since acellular pertussis vaccines replaced the earlier whole cell vaccines in the late 1990s. A similar trend occurred in many other countries, including the UK, Canada, Australia, Ireland, and Spain, following the switch..."]
+      },
+      {
+        "title": "Is Higher Viral Load in the Upper Respiratory Tract Associated With Severe Pneumonia? Findings From the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Daniel R. Feikin", "Wei Fu", "Daniel Eugene Park", "James Chipeta"],
+        "abstract": ["Background\nThe etiologic inference of identifying a pathogen in the upper respiratory tract (URT) of children with pneumonia is unclear. To determine if viral load could provide evidence of causality of pneumonia, we compared viral load in the URT of children with World Health Organization–defined severe and very severe pneumonia and age-matched co..."]
+      },
+      {
+        "title": "Evaluation of Pneumococcal Load in Blood by Polymerase Chain Reaction for the Diagnosis of Pneumococcal Pneumonia in Young Children in the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Maria Deloria Knoll", "Susan C. Morpeth", "J Anthony Gerard Scott", "Shabir A Madhi"],
+        "abstract": ["Background\nDetection of pneumococcus by lytA polymerase chain reaction (PCR) in blood had poor diagnostic accuracy for diagnosing pneumococcal pneumonia in children in 9 African and Asian sites. We assessed the value of blood lytA quantification in diagnosing pneumococcal pneumonia.\n\nMethods\nThe Pneumonia Etiology Research for Child Health (PERCH)..."]
+      },
+      {
+        "title": "Bayesian Estimation of Pneumonia Etiology: Epidemiologic Considerations and Applications to the Pneumonia Etiology Research for Child Health Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Maria Deloria Knoll", "Wei Fu", "Qiyuan Shi", "Scott Zeger"],
+        "abstract": ["In pneumonia, specimens are rarely obtained directly from the infection site, the lung, so the pathogen causing infection is determined indirectly from multiple tests on peripheral clinical specimens, which may have imperfect and uncertain sensitivity and specificity, so inference about the cause is complex. Analytic approaches have included expert..."]
+      },
+      {
+        "title": "The Effect of Antibiotic Exposure and Specimen Volume on the Detection of Bacterial Pathogens in Children With Pneumonia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Amanda J Driscoll", "Maria Deloria Knoll", "Laura L. Hammitt", "James Chipeta"],
+        "abstract": ["Background\nAntibiotic exposure and specimen volume are known to affect pathogen detection by culture. Here we assess their effects on bacterial pathogen detection by both culture and polymerase chain reaction (PCR) in children.\n\nMethods\nPERCH (Pneumonia Etiology Research for Child Health) is a case-control study of pneumonia in children aged 1–59 m..."]
+      },
+      {
+        "title": "Should Controls With Respiratory Symptoms Be Excluded From Case-Control Studies of Pneumonia Etiology? Reflections From the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Melissa M Higdon", "Laura L. Hammitt", "Maria Deloria Knoll", "James Chipeta"],
+        "abstract": ["Many pneumonia etiology case-control studies exclude controls with respiratory illness from enrollment or analyses. Herein we argue that selecting controls regardless of respiratory symptoms provides the least biased estimates of pneumonia etiology. We review 3 reasons investigators may choose to exclude controls with respiratory symptoms in light..."]
+      },
+      {
+        "title": "The Diagnostic Utility of Induced Sputum Microscopy and Culture in Childhood Pneumonia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["David R. Murdoch", "Susan C. Morpeth", "Laura L. Hammitt", "Stephen R. C. Howie"],
+        "abstract": ["Background\nSputum microscopy and culture are commonly used for diagnosing the cause of pneumonia in adults but are rarely performed in children due to difficulties in obtaining specimens. Induced sputum is occasionally used to investigate lower respiratory infections in children but has not been widely used in pneumonia etiology studies.\n\nMethods\nW..."]
+      },
+      {
+        "title": "Detection of Pneumococcal DNA in Blood by Polymerase Chain Reaction for Diagnosing Pneumococcal Pneumonia in Young Children From Low- and Middle-Income Countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Susan C. Morpeth", "Maria Deloria Knoll", "J Anthony Gerard Scott", "James Chipeta"],
+        "abstract": ["Background\nWe investigated the performance of polymerase chain reaction (PCR) on blood in the diagnosis of pneumococcal pneumonia among children from 7 low- and middle-income countries.\n\nMethods\nWe tested blood by PCR for the pneumococcal autolysin gene in children aged 1–59 months in the Pneumonia Etiology Research for Child Health (PERCH) study...."]
+      },
+      {
+        "title": "Limited Utility of Polymerase Chain Reaction in Induced Sputum Specimens for Determining the Causes of Childhood Pneumonia in Resource-Poor Settings: Findings From the Pneumonia Etiology Research for Child Health (PERCH) Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Donald M Thea", "Phil Seidenberg", "Daniel Eugene Park", "James Chipeta"],
+        "abstract": ["Background\nSputum examination can be useful in diagnosing the cause of pneumonia in adults but is less well established in children. We sought to assess the diagnostic utility of polymerase chain reaction (PCR) for detection of respiratory viruses and bacteria in induced sputum (IS) specimens from children hospitalized with severe or very severe pn..."]
+      },
+      {
+        "title": "Microscopic Analysis and Quality Assessment of Induced Sputum From Children With Pneumonia in the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["David R. Murdoch", "Susan C. Morpeth", "Laura L. Hammitt", "James Chipeta"],
+        "abstract": ["Background\nIt is standard practice for laboratories to assess the cellular quality of expectorated sputum specimens to check that they originated from the lower respiratory tract. The presence of low numbers of squamous epithelial cells (SECs) and high numbers of polymorphonuclear (PMN) cells are regarded as indicative of a lower respiratory tract..."]
+      },
+      {
+        "title": "Standardization of Clinical Assessment and Sample Collection Across All PERCH Study Sites",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Jane Crawley", "Christine Prosperi", "Henry C. Baggett", "James Chipeta"],
+        "abstract": ["Background\nVariable adherence to standardized case definitions, clinical procedures, specimen collection techniques, and laboratory methods has complicated the interpretation of previous multicenter pneumonia etiology studies. To circumvent these problems, a program of clinical standardization was embedded in the Pneumonia Etiology Research for Chi..."]
+      },
+      {
+        "title": "Standardization of Laboratory Methods for the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Amanda J Driscoll", "Ruth A. Karron", "Susan C. Morpeth", "David R. Murdoch"],
+        "abstract": ["The Pneumonia Etiology Research for Child Health study was conducted across 7 diverse research sites and relied on standardized clinical and laboratory methods for the accurate and meaningful interpretation of pneumonia etiology data. Blood, respiratory specimens, and urine were collected from children aged 1–59 months hospitalized with severe or v..."]
+      },
+      {
+        "title": "Chest Radiograph Findings in Childhood Pneumonia Cases From the Multisite PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Nicholas Fancourt", "Maria Deloria Knoll", "Henry C. Baggett", "Katherine L. O’Brien"],
+        "abstract": ["Background\nChest radiographs (CXRs) are frequently used to assess pneumonia cases. Variations in CXR appearances between epidemiological settings and their correlation with clinical signs are not well documented.\n\nMethods\nThe Pneumonia Etiology Research for Child Health project enrolled 4232 cases of hospitalized World Health Organization (WHO)–def..."]
+      },
+      {
+        "title": "Introduction to the Epidemiologic Considerations, Analytic Methods, and Foundational Results From the Pneumonia Etiology Research for Child Health Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Katherine L. O’Brien", "Henry C. Baggett", "W. Abdullah Brooks", "Scott Zeger"],
+        "abstract": []
+      },
+      {
+        "title": "Safety of Induced Sputum Collection in Children Hospitalized With Severe or Very Severe Pneumonia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Andrea N Deluca", "Laura L. Hammitt", "Julia Kim", "James Chipeta"],
+        "abstract": ["Background\nInduced sputum (IS) may provide diagnostic information about the etiology of pneumonia. The safety of this procedure across a heterogeneous population with severe pneumonia in low- and middle-income countries has not been described.\n\nMethods\nIS specimens were obtained as part a 7-country study of the etiology of severe and very severe pn..."]
+      },
+      {
+        "title": "Association of C-Reactive Protein With Bacterial and Respiratory Syncytial Virus–Associated Pneumonia Among Children Aged <5 Years in the PERCH Study",
+        "tags": ["Article"],
+        "date": "Jun 2017",
+        "authors": ["Melissa M Higdon", "Tham T. Le", "Katherine L. O’Brien", "James Chipeta"],
+        "abstract": ["Background\nLack of a gold standard for identifying bacterial and viral etiologies of pneumonia has limited evaluation of C-reactive protein (CRP) for identifying bacterial pneumonia. We evaluated the sensitivity and specificity of CRP for identifying bacterial vs respiratory syncytial virus (RSV) pneumonia in the Pneumonia Etiology Research for Chi..."]
+      },
+      {
+        "title": "OTH_11_SupplementalMaterials",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Amanda J Driscoll", "Ruth A. Karron", "Susan C. Morpeth", "David R. Murdoch"],
+        "abstract": []
+      },
+      {
+        "title": "DAP_7_15_Supplemental_tables_23Nov16",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Amanda J Driscoll", "Maria Deloria Knoll", "Laura L. Hammitt", "David R. Murdoch"],
+        "abstract": []
+      },
+      {
+        "title": "Supplemental_Tables_Figures",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Daniel R. Feikin", "Wei Fu", "Daniel Eugene Park", "David R. Murdoch"],
+        "abstract": []
+      },
+      {
+        "title": "cix149_suppl_Supplemental_Tables_Figures",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Maria Deloria Knoll", "Susan C. Morpeth", "J Anthony Gerard Scott", "Shabir A Madhi"],
+        "abstract": []
+      },
+      {
+        "title": "DAP_1A_Supplementary_Tables_and_Figures_18Nov2016",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["David R. Murdoch", "Susan C. Morpeth", "Laura L. Hammitt", "Stephen R. C. Howie"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary_Material",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Jane Crawley", "Christine Prosperi", "Henry C. Baggett", "J Anthony Gerard Scott"],
+        "abstract": []
+      },
+      {
+        "title": "DAP_2_Supplemental_Tables_20Oct2016",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Donald M Thea", "Phil Seidenberg", "Daniel Eugene Park", "Laura L. Hammitt"],
+        "abstract": []
+      },
+      {
+        "title": "PQEpi_Supplemental_03Feb2017",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Maria Deloria Knoll", "Wei Fu", "Qiyuan Shi", "Scott Zeger"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary_Data_File",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Susan C. Morpeth", "Maria Deloria Knoll", "J Anthony Gerard Scott", "David R. Murdoch"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary_Materials",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Andrea N Deluca", "Laura L. Hammitt", "Julia Kim", "Katherine L. O’Brien"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary_Data",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Nicholas Fancourt", "Maria Deloria Knoll", "Henry C. Baggett", "Katherine L. O’Brien"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary_Materials",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Melissa M Higdon", "Tham T. Le", "Katherine L. O’Brien", "Shabir A Madhi"],
+        "abstract": []
+      },
+      {
+        "title": "Supplementary_Materials",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["David R. Murdoch", "Susan C. Morpeth", "Laura L. Hammitt", "Stephen R. C. Howie"],
+        "abstract": []
+      },
+      {
+        "title": "Density of Upper Respiratory Colonization With Streptococcus pneumoniae and Its Role in the Diagnosis of Pneumococcal Pneumonia Among Children Aged <5 Years in the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Henry C Baggett", "Nora L Watson", "Maria Deloria Knoll", "J Mitchell"],
+        "abstract": ["Background.: \nPrevious studies suggested an association between upper airway pneumococcal colonization density and pneumococcal pneumonia, but data in children are limited. Using data from the Pneumonia Etiology Research for Child Health (PERCH) study, we assessed this potential association.\n\nMethods.: \nPERCH is a case-control study in 7 countries:..."]
+      },
+      {
+        "title": "Colonization Density of the Upper Respiratory Tract as a Predictor of Pneumonia—Haemophilus influenzae, Moraxella catarrhalis, Staphylococcus aureus, and Pneumocystis jirovecii",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Daniel Eugene Park", "Henry C. Baggett", "Stephen R. C. Howie", "Daniel R. Feikin"],
+        "abstract": ["Background\nThere is limited information on the association between colonization density of upper respiratory tract colonizers and pathogen-specific pneumonia. We assessed this association for Haemophilus influenzae, Moraxella catarrhalis, Staphylococcus aureus, and Pneumocystis jirovecii.\n\nMethods\nIn 7 low- and middle-income countries, nasopharynge..."]
+      },
+      {
+        "title": "Supplemental Figures",
+        "tags": ["Data"],
+        "date": "Jun 2017",
+        "authors": ["Daniel Eugene Park", "Henry C. Baggett", "Stephen R. C. Howie", "Daniel R. Feikin"],
+        "abstract": []
+      },
+      {
+        "title": "Diarrhoeal disease trends in the GBD 2015 study: Optimism tempered by scepticism",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2017",
+        "authors": ["Christopher J Gill", "Donald M Thea", "Patricia Hibberd"],
+        "abstract": []
+      },
+      {
+        "title": "Prioritizing health outcomes of HIV-exposed, uninfected children in low and middle-income countries: Response to Powis et al.",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Alana T Brennan", "Rachael Bonawitz", "Christopher J Gill", "Matthew P Fox"],
+        "abstract": []
+      },
+      {
+        "title": "Limited Utility of Polymerase Chain Reaction in Induced Sputum Specimens for Determining the Causes of Childhood Pneumonia in Resource-Poor Settings: Findings From the Pneumonia Etiology Research for Child Health (PERCH) Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Donald M Thea", "Phil Seidenberg", "Daniel Eugene Park", "J Mitchell"],
+        "abstract": ["Background. Sputum examination can be useful in diagnosing the cause of pneumonia in adults but is less well established in children. We sought to assess the diagnostic utility of polymerase chain reaction (PCR) for detection of respiratory viruses and bacteria in induced sputum (IS) specimens from children hospitalized with severe or very severe p..."]
+      },
+      {
+        "title": "Detection of Pneumococcal DNA in Blood by Polymerase Chain Reaction for Diagnosing Pneumococcal Pneumonia in Young Children From Low- and Middle-Income Countries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["SC Morpeth", "M Deloria Knoll", "JAG Scott", "J Mitchell"],
+        "abstract": ["Background. We investigated the performance of polymerase chain reaction (PCR) on blood in the diagnosis of pneumococcal pneumonia among children from 7 low- and middle-income countries. Methods. We tested blood by PCR for the pneumococcal autolysin gene in children aged 1–59 months in the Pneumonia Etiology Research for Child Health (PERCH) study...."]
+      },
+      {
+        "title": "Evaluation of Pneumococcal Load in Blood by Polymerase Chain Reaction for the Diagnosis of Pneumococcal Pneumonia in Young Children in the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["M Deloria Knoll", "SC Morpeth", "JAG Scott", "J Mitchell"],
+        "abstract": ["Background. Detection of pneumococcus by lytA polymerase chain reaction (PCR) in blood had poor diagnostic accuracy for diagnosing pneumococcal pneumonia in children in 9 African and Asian sites. We assessed the value of blood lytA quantification in diagnosing pneumococcal pneumonia. Methods. The Pneumonia Etiology Research for Child Health (PERCH)..."]
+      },
+      {
+        "title": "Is Higher Viral Load in the Upper Respiratory Tract Associated With Severe Pneumonia? Findings From the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["DR Feikin", "W Fu", "Daniel Eugene Park", "J Mitchell"],
+        "abstract": ["Background. The etiologic inference of identifying a pathogen in the upper respiratory tract (URT) of children with pneumonia is unclear. To determine if viral load could provide evidence of causality of pneumonia, we compared viral load in the URT of children with World Health Organization–defined severe and very severe pneumonia and age-matched c..."]
+      },
+      {
+        "title": "Standardization of Laboratory Methods for the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["Amanda J Driscoll", "RA Karron", "SC Morpeth", "DR Murdoch"],
+        "abstract": ["The Pneumonia Etiology Research for Child Health study was conducted across 7 diverse research sites and relied on standardized clinical and laboratory methods for the accurate and meaningful interpretation of pneumonia etiology data. Blood, respiratory specimens, and urine were collected from children aged 1–59 months hospitalized with severe or v..."]
+      },
+      {
+        "title": "The Diagnostic Utility of Induced Sputum Microscopy and Culture in Childhood Pneumonia",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["DR Murdoch", "SC Morpeth", "LL Hammitt", "J Mitchell"],
+        "abstract": ["Background. Sputum microscopy and culture are commonly used for diagnosing the cause of pneumonia in adults but are rarely performed in children due to difficulties in obtaining specimens. Induced sputum is occasionally used to investigate lower respiratory infections in children but has not been widely used in pneumonia etiology studies. Methods...."]
+      },
+      {
+        "title": "Microscopic Analysis and Quality Assessment of Induced Sputum From Children With Pneumonia in the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2017",
+        "authors": ["DR Murdoch", "SC Morpeth", "LL Hammitt", "J Mitchell"],
+        "abstract": ["Background. It is standard practice for laboratories to assess the cellular quality of expectorated sputum specimens to check that they originated from the lower respiratory tract. The presence of low numbers of squamous epithelial cells (SECs) and high numbers of polymorphonuclear (PMN) cells are regarded as indicative of a lower respiratory tract..."]
+      },
+      {
+        "title": "Colonization Density of the Upper Respiratory Tract as a Predictor of Pneumonia—Haemophilus influenzae, Moraxella catarrhalis, Staphylococcus aureus, and Pneumocystis jirovecii",
+        "tags": ["Article"],
+        "date": "Jan 2017",
+        "authors": ["Daniel Eugene Park", "HC Baggett", "SRC Howie", "J Mitchell"],
+        "abstract": ["Background. There is limited information on the association between colonization density of upper respiratory tract colonizers and pathogen-specific pneumonia. We assessed this association for Haemophilus influenzae, Moraxella catarrhalis, Staphylococcus aureus, and Pneumocystis jirovecii. Methods. In 7 low- and middle-income countries, nasopharyng..."]
+      },
+      {
+        "title": "Incidence of Severe and Nonsevere Pertussis Among HIV-Exposed and -Unexposed Zambian Infants Through 14 Weeks of Age: Results From the Southern Africa Mother Infant Pertussis Study (SAMIPS), a Longitudinal Birth Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Christopher J Gill", "Lawrence Mwananyanda", "William MacLeod", "Donald M Thea"],
+        "abstract": ["Background\nMaternal vaccination with tetanus, reduced-dose diphtheria, and acellular pertussis vaccine (Tdap) could be an effective way of mitigating the high residual burden of infant morbidity and mortality caused by Bordetella pertussis. To better inform such interventions, we conducted a burden-of-disease study to determine the incidence of sev..."]
+      },
+      {
+        "title": "Supplementary Data",
+        "tags": ["Data"],
+        "date": "Dec 2016",
+        "authors": ["Christopher J Gill", "Lawrence Mwananyanda", "William MacLeod", "Donald M Thea"],
+        "abstract": []
+      },
+      {
+        "title": "Pertussis-Associated Pneumonia in Infants and Children From Low- and Middle-Income Countries Participating in the PERCH Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2016",
+        "authors": ["Breanna Barger-Kamate", "Maria Deloria Knoll", "E. Wangeci Kagucia", "Karen L Kotloff"],
+        "abstract": ["Background. Few data exist describing pertussis epidemiology among infants and children in low- and middle-income countries to guide preventive strategies.\nMethods. Children 1–59 months of age hospitalized with World Health Organization–defined severe or very severe pneumonia in 7 African and Asian countries and similarly aged community controls we..."]
+      },
+      {
+        "title": "Supplementary Data",
+        "tags": ["Data"],
+        "date": "Dec 2016",
+        "authors": ["Breanna Barger-Kamate", "Maria Deloria Knoll", "E. Wangeci Kagucia", "Karen L Kotloff"],
+        "abstract": []
+      },
+      {
+        "title": "Erratum to: A clinical guidance tool to improve the care of children hospitalized with severe pneumonia in Lusaka, Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Catherine G Sutcliffe", "Donald M Thea", "Phil Seidenberg", "William J. Moss"],
+        "abstract": []
+      },
+      {
+        "title": "Articles Effectiveness of 4% chlorhexidine umbilical cord care on neonatal mortality in Southern Province, Zambia (ZamCAT): a cluster-randomised controlled trial",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2016",
+        "authors": ["Katherine Semrau", "Julie M Herlihy", "Caroline Grogan", "Davidson H Hamer"],
+        "abstract": ["Background: Chlorhexidine umbilical cord washes reduce neonatal mortality in south Asian populations with high neonatal mortality rates and predominantly home-based deliveries. No data exist for sub-Saharan African populations with lower neonatal mortality rates or mostly facility-based deliveries. We compared the effect of chlorhexidine with dry c..."]
+      },
+      {
+        "title": "A clinical guidance tool to improve the care of children hospitalized with severe pneumonia in Lusaka, Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2016",
+        "authors": ["Catherine G Sutcliffe", "Donald M Thea", "Phil Seidenberg", "William J. Moss"],
+        "abstract": ["Background\nPneumonia is the leading infectious cause of death among children, with approximately half of deaths attributable to pneumonia occurring in limited health resource settings of sub-Saharan Africa. Clinical guidance tools and checklists have been used to improve health outcomes and standardize care. This study was conducted to evaluate the..."]
+      },
+      {
+        "title": "A meta-analysis assessing all-cause mortality in HIV-exposed uninfected compared to HIV-unexposed uninfected infants and children",
+        "tags": ["Article"],
+        "date": "Jul 2016",
+        "authors": ["Alana T Brennan", "Rachael Bonawitz", "Christopher J. Gill", "Matthew P Fox"],
+        "abstract": ["Objective: \nConduct a meta-analysis examining differential all-cause mortality rates between HIV-exposed uninfected (HEU) infants and children as compared with their HIV-unexposed uninfected (HUU) counterparts.\n\nDesign: \nMeta-analysis summarizing the difference in mortality between HEU and HUU infants and children. Reviewed studies comparing childr..."]
+      },
+      {
+        "title": "Identifying Gaps in Prevention of Mother to Child Transmission of HIV: A Case Series of HIV Positive Infants in Zambia",
+        "tags": ["Article"],
+        "date": "Apr 2016",
+        "authors": ["Rachael Bonawitz", "Kennedy Sambambi", "Michelle Vickery", "Julie M Herlihy"],
+        "abstract": ["Background: \nTo determine the timing of prevention of mother-to-child transmission cascade programmatic barriers to understand the service gaps in preparation for scale up of Option B+ in the Southern Province of Zambia.\n\nMethods: \nA database search of the National Dried Blood Spot Registry in Zambia for DNA polymerase chain reaction identified hum..."]
+      },
+      {
+        "title": "Pertussis-Associated Pneumonia in Infants and Children From Low- and Middle-Income Countries Participating in the PERCH Study.",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2016",
+        "authors": ["B Barger-Kamate", "M Deloria Knoll", "E. Wangeci Kagucia", "Scott Zeger"],
+        "abstract": ["Few data exist describing pertussis epidemiology among infants and children in low- and middle-income countries to guide preventive strategies. Children 1-59 months of age hospitalized with World Health Organization-defined severe or very severe pneumonia in 7 African and Asian countries and similarly aged community controls were enrolled in the Pn..."]
+      },
+      {
+        "title": "Integration of PMTCT and antenatal services improves combination antiretroviral therapy cART uptake for HIV-positive pregnant women in Southern Zambia - A prototype for Option B+?",
+        "tags": ["Article"],
+        "date": "Jul 2015",
+        "authors": ["Julie M Herlihy", "Leoda Hamomba", "Rachael Bonawitz", "Donald M Thea"],
+        "abstract": ["Early initiation of combination anti-retroviral therapy cART for HIV-positive pregnant women can decrease vertical transmission to less than 5%. Programmatic barriers to early cART include decentralized care, disease stage assessment delays, and loss-to-follow-up.\nOur intervention had 3 components: integrated HIV and antenatal services in one locat..."]
+      },
+      {
+        "title": "Stunting is associated with poor outcomes in childhood pneumonia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Peter P Moschovis", "Emmanuel O.D. Addo-Yobo", "Salem Banajeh", "Patricia L Hibberd"],
+        "abstract": ["Stunting affects 26.7% of children worldwide, and little is known about its effects on the outcomes of childhood pneumonia. We evaluated the effect of stunting on the outcomes of pneumonia among children enrolled in two large clinical trials.\nWe analyzed data from two WHO and USAID-sponsored inpatient treatment trials, the Severe Pneumonia Evaluati..."]
+      },
+      {
+        "title": "Linkage to care following a home-based HIV counselling and testing intervention in rural South Africa",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2015",
+        "authors": ["Reshma Naik", "Tanya Doherty", "Debra Jackson", "Matthew P Fox"],
+        "abstract": ["Efforts to increase awareness of HIV status have led to growing interest in community-based models of HIV testing. Maximizing the benefits of such programmes requires timely linkage to care and treatment. Thus, an understanding of linkage and its potential barriers is imperative for scale-up.\nThis study was conducted in rural South Africa. HIV-posi..."]
+      },
+      {
+        "title": "Assessment of the impact of rapid syphilis tests on syphilis screening and treatment of pregnant women in Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2015",
+        "authors": ["Rachael Bonawitz", "Julie Duncan", "Emily Hammond", "Julie M Herlihy"],
+        "abstract": ["To evaluate the impact of rapid syphilis tests (RSTs) on syphilis testing and treatment in pregnant women in Kalomo District, Zambia.\nIn March 2012, health workers at all 35 health facilities in Kalomo Distract were trained in RST use and penicillin treatment. In March 2013, data were retrospectively abstracted from 18 randomly selected health faci..."]
+      },
+      {
+        "title": "Antibiotic trials for community-acquired pneumonia",
+        "tags": ["Article"],
+        "date": "Mar 2015",
+        "authors": ["Matthew P Fox", "Abdullah H Baqui", "Patricia L Hibberd", "Donald M Thea"],
+        "abstract": []
+      },
+      {
+        "title": "Engagement of the Community, Traditional Leaders, and Public Health System in the Design and Implementation of a Large Community-Based, Cluster-Randomized Trial of Umbilical Cord Care in Zambia",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2015",
+        "authors": ["Davidson H Hamer", "Julie M Herlihy", "Kebby Musokotwane", "Katherine Semrau"],
+        "abstract": ["Conducting research in areas with diverse cultures requires attention to community sensitization and involvement. The process of community engagement is described for a large community-based, cluster-randomized, controlled trial comparing daily 4% chlorhexidine umbilical cord wash to dry cord care for neonatal mortality prevention in Southern Provi..."]
+      }
+    ],
+    "degree": ["Doctor", "of", "Medicine"],
+    "bio": [],
+    "publications": [259],
+    "reads": [31405],
+    "citations": [10717]
   }
 }

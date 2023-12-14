@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Milena Nikolić",
-    "id": "3qBYtUMAAAAJ",
-    "affiliation": "University of Priština in Kosovska Mitrovica, Faculty of Sciences and Mathematics",
+    "name": ["Milena Nikolić"],
+    "id": ["3qBYtUMAAAAJ"],
+    "affiliation": ["University of Priština in Kosovska Mitrovica, Faculty of Sciences and Mathematics"],
     "data": {
       "publications": [
         {
@@ -322,8 +322,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0003-3538-9733",
-    "name": "milena nikolic",
+    "orcid": ["0000-0003-3538-9733"],
+    "name": ["milena nikolic"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -334,11 +334,21 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Milena Nikolic",
-    "id": "1360746",
+    "name": ["Milena Nikolic"],
+    "id": ["1360746"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
     "works": []
+  },
+  "rg": {
+    "id": "Milena-Nikolic-7",
+    "name": "Milena Nikolic",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Applied Sciences Kufstein | FHKufstein, University of Applied Sciences Kufstein, Sports Culure and Event Management",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

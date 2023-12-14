@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-0419-1804",
-    "name": "Christine Skjegstad",
+    "orcid": ["0000-0003-0419-1804"],
+    "name": ["Christine Skjegstad"],
     "distinctions": [],
     "education": [
       {
@@ -32,8 +32,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Christine Leilani Skjegstad",
-    "id": "1143269",
+    "name": ["Christine Leilani Skjegstad"],
+    "id": ["1143269"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -46,5 +46,14 @@
         "url": "https://api.cristin.no/v2/results/2084752"
       }
     ]
+  },
+  "rg": {
+    "id": "Sweety_Leilani",
+    "name": "Sweety Leilani",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of the South Pacific Solomon Islands | USP, University of the South Pacific Solomon Islands",
+    "keywords": [],
+    "works": [],
+    "degree": [null]
   }
 }

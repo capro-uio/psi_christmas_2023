@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Vibeke Moe",
-    "id": "nNAj1lcAAAAJ",
-    "affiliation": "Department of Psychology, University of Oslo",
+    "name": ["Vibeke Moe"],
+    "id": ["nNAj1lcAAAAJ"],
+    "affiliation": ["Department of Psychology, University of Oslo"],
     "data": {
       "publications": [
         {
@@ -706,8 +706,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0009-0007-3325-2561",
-    "name": "Vibeke  Moe",
+    "orcid": ["0009-0007-3325-2561"],
+    "name": ["Vibeke  Moe"],
     "distinctions": [],
     "education": [
       {
@@ -732,8 +732,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Vibeke Moe",
-    "id": "13606",
+    "name": ["Vibeke Moe"],
+    "id": ["13606"],
     "keywords": [],
     "position": ["Professor", null],
     "img": {},
@@ -1374,5 +1374,75 @@
         "url": "https://api.cristin.no/v2/results/255956"
       }
     ]
+  },
+  "rg": {
+    "id": "Vibeke-Moe-2",
+    "name": "Vibeke Moe",
+    "img": "https://i1.rgstatic.net/ii/profile.image/893824406654976-1590115753823_Q128/Vibeke-Moe-2.jpg",
+    "affiliation": "The Norwegian Center for Holocaust and Minority Studies",
+    "keywords": [],
+    "works": [
+      {
+        "title": "6. Mellom det ikoniske og det symbolske: Gruppekonstruksjoner, utenforskap og inkludering",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2021",
+        "authors": ["Claudia Lenz", "Vibeke Moe"],
+        "abstract": ["The chapter explores photo elicitation and group interviews in qualitative research on prejudice and as a teaching method. The empirical starting point is group interviews with Muslim and Jewish participants who used a visual impulse consisting of six photographs with partly iconic motifs. The first part of the chapter explores interpretive pattern..."]
+      },
+      {
+        "title": "Introduction: Antisemitism and Islamophobia in Contemporary Norway",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Christhard Hoffmann", "Vibeke Moe"],
+        "abstract": []
+      },
+      {
+        "title": "The Shifting Boundaries of Prejudice: Antisemitism and Islamophobia in Contemporary Norway",
+        "tags": ["Book", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Christhard Hoffmann", "Vibeke Moe"],
+        "abstract": []
+      },
+      {
+        "title": "Acknowledgements: Antisemitism and Islamophobia in Contemporary Norway",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Christhard Hoffmann", "Vibeke Moe"],
+        "abstract": []
+      },
+      {
+        "title": "10. Negotiations of Antisemitism and Islamophobia in Group Conversationsamong Jews and Muslims: Antisemitism and Islamophobia in Contemporary Norway",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Claudia Lenz", "Vibeke Moe"],
+        "abstract": ["The following chapter presents findings from group interviews with Muslims and Jews conducted in Norway between May 2016 and May 2017. Six groups were interviewed; three had Jewish participants and three had Muslim participants. The chapter explores interpretative patterns among the interviewees, focusing on the ways in which antisemitism and Islam..."]
+      },
+      {
+        "title": "9. How People Explain Antisemitism: Antisemitism and Islamophobia in Contemporary Norway",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Vibeke Moe"],
+        "abstract": ["This chapter explores antisemitism in contemporary Norway through an analysis of data from open-ended questions in the population survey Attitudes towards Jews and Muslims in Norway 2017. \nThe chapter investigates the part of the survey that dealt with views on the reasons for negative attitudes towards Jews. By examining the\nrespondents’ broad ran..."]
+      },
+      {
+        "title": "Polen og Holocaust � polsk antisemittisme",
+        "tags": ["Article", "Full-text available"],
+        "date": "Oct 2018",
+        "authors": ["Vibeke Moe"],
+        "abstract": []
+      },
+      {
+        "title": "«Hvis de hadde oppført seg som vanlige nordmenn, hadde alt vært greit, tror jeg» — Nordmenns syn på årsaken til negative holdninger til jøder og muslimer",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2016",
+        "authors": ["Vibeke Moe", "Alexa Døving", "Irene Levin", "Claudia Lenz"],
+        "abstract": ["This article explores contemporary images of Jews and Muslims in Norway by using qualitative empirical data, namely the answers to an open-ended question that was included in a quantitative survey on attitudes towards Jews and other minorities in Norway, conducted in 2012. The target group for the survey consisted of Norwegian residents aged 18 and..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [8],
+    "reads": [613],
+    "citations": [17]
   }
 }

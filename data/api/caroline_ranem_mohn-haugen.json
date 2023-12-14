@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0001-6663-4872",
-    "name": "Caroline Mohn-Haugen",
+    "orcid": ["0000-0001-6663-4872"],
+    "name": ["Caroline Mohn-Haugen"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Caroline Ranem Mohn-Haugen",
-    "id": "1047287",
+    "name": ["Caroline Ranem Mohn-Haugen"],
+    "id": ["1047287"],
     "keywords": [],
     "position": ["Guest", null],
     "img": {},
@@ -48,5 +48,39 @@
         "url": "https://api.cristin.no/v2/results/2007733"
       }
     ]
+  },
+  "rg": {
+    "id": "Torbjorn-Mohn-Haugen",
+    "name": "Torbjørn Mohn-Haugen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/1136425881866244-1647956452774_Q128/Torbjorn-Mohn-Haugen.jpg",
+    "affiliation": "Erfaringssentrum",
+    "keywords": ["Peer support worker"],
+    "works": [
+      {
+        "title": "Managers as peer workers’ allies: A qualitative study of managers’ perceptions and actions to involve peer workers in Norwegian mental health and substance use services",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2023",
+        "authors": ["Kristina Bakke Åkerblom", "Torbjørn Mohn-Haugen", "Rita Agdal", "Ottar Ness"],
+        "abstract": ["Background Citizens with experience and knowledge about what it is like to use mental health and substance use\nservices are increasingly employed within similar services as peer workers. Peer workers are portrayed as achieving\nsocietal obligations and help ensure that the outputs from service provision are more effective. Even though peer\nworkers h..."]
+      },
+      {
+        "title": "Utviklingen av erfaringskonsulentrollen, fra et lederperspektiv",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2022",
+        "authors": ["Kristina Bakke Åkerblom", "Torbjørn Mohn-Haugen"],
+        "abstract": ["Pioneer managers discuss the entrance and development of the peer worker role in Norwegian mental health and substance use services. Seven managers promoted stories about peer workers making a difference in their workplaces and how they adjusted the services. Managers discussed how peer workers challenged the services and themselves as managers and..."]
+      },
+      {
+        "title": "Samhandling kan redde liv",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2017",
+        "authors": ["Torbjørn Mohn-Haugen"],
+        "abstract": []
+      }
+    ],
+    "degree": ["Bachelor", "of", "Applied", "Science"],
+    "publications": [3],
+    "reads": [101],
+    "citations": [0]
   }
 }

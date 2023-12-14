@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-2294-741X",
-    "name": "Nora Serres",
+    "orcid": ["0000-0002-2294-741X"],
+    "name": ["Nora Serres"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,8 +13,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Nora Rose Serres",
-    "id": "1504816",
+    "name": ["Nora Rose Serres"],
+    "id": ["1504816"],
     "keywords": [],
     "position": ["Research fellow"],
     "img": {},
@@ -38,5 +38,15 @@
         "url": "https://api.cristin.no/v2/results/2191821"
       }
     ]
+  },
+  "rg": {
+    "id": "Isa-Nora-Carlsen",
+    "name": "Isa-Nora Rose Carlsen",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Copenhagen, Faculty of Health and Medical Sciences",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

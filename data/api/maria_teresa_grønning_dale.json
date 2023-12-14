@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "maria teresa grønning dale",
-    "id": "oP9aHGsAAAAJ",
-    "affiliation": "",
+    "name": ["maria teresa grønning dale"],
+    "id": ["oP9aHGsAAAAJ"],
+    "affiliation": [""],
     "data": {
       "publications": [
         {
@@ -184,8 +184,8 @@
     "coauthors": []
   },
   "orcid": {
-    "orcid": "0000-0002-0972-2996",
-    "name": "Maria Teresa Grønning Dale",
+    "orcid": ["0000-0002-0972-2996"],
+    "name": ["Maria Teresa Grønning Dale"],
     "distinctions": [],
     "education": [
       {
@@ -208,10 +208,10 @@
       },
       {
         "start": "2008",
-        "end": "2018",
         "position": "PhD scholar and Post doctor",
         "organisation": "Norwegian Institute of Public Health",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       }
     ],
     "employment": [
@@ -235,10 +235,10 @@
       },
       {
         "start": "2008",
-        "end": "2018",
         "position": "PhD scholar and Post doctor",
         "organisation": "Norwegian Institute of Public Health",
-        "country": "NO"
+        "country": "NO",
+        "end": "2018"
       }
     ],
     "membership": [],
@@ -257,8 +257,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Maria Teresa Grønning Dale",
-    "id": "4800",
+    "name": ["Maria Teresa Grønning Dale"],
+    "id": ["4800"],
     "keywords": [],
     "position": ["Guest", "Associate professor", null, null],
     "img": {},
@@ -277,29 +277,29 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Psychosocial work factors and sick leave risk after a terrorist bomb attack: a survey and registry-based longitudinal study of governmental employees in Norway",
         "journal": "BMJ Open",
-        "url": "https://api.cristin.no/v2/results/1947219"
+        "url": "https://api.cristin.no/v2/results/1947219",
+        "title": "Psychosocial work factors and sick leave risk after a terrorist bomb attack: a survey and registry-based longitudinal study of governmental employees in Norway"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Is perceived safety and threat after workplace terrorism linked to employee sick-leave? A registry-based longitudinal study of governmental employees in Norway",
         "journal": "European Journal of Psychotraumatology",
-        "url": "https://api.cristin.no/v2/results/1826638"
+        "url": "https://api.cristin.no/v2/results/1826638",
+        "title": "Is perceived safety and threat after workplace terrorism linked to employee sick-leave? A registry-based longitudinal study of governmental employees in Norway"
       },
       {
         "type": "Academic article",
         "year": "2020",
-        "title": "Post-traumatic stress reactions and doctor-certified sick leave after a workplace terrorist attack: Norwegian cohort study",
         "journal": "BMJ Open",
-        "url": "https://api.cristin.no/v2/results/1820438"
+        "url": "https://api.cristin.no/v2/results/1820438",
+        "title": "Post-traumatic stress reactions and doctor-certified sick leave after a workplace terrorist attack: Norwegian cohort study"
       },
       {
         "type": "Poster",
         "year": "2020",
-        "title": "Psychosocial work factors and sick leave risk after a terrorist bomb attack:\r\nA prospective study among governmental employees in Norway.\r\n",
-        "url": "https://api.cristin.no/v2/results/1790621"
+        "url": "https://api.cristin.no/v2/results/1790621",
+        "title": "Psychosocial work factors and sick leave risk after a terrorist bomb attack:\r\nA prospective study among governmental employees in Norway.\r\n"
       },
       {
         "type": "Interview",
@@ -314,57 +314,57 @@
       {
         "type": "Academic article",
         "year": "2019",
-        "title": "Intake of sucrose‑sweetened soft beverages during pregnancy and risk of congenital heart defects (CHD) in offspring: A Norwegian pregnancy cohort study",
         "journal": "European Journal of Epidemiology (EJE)",
-        "url": "https://api.cristin.no/v2/results/1662361"
+        "url": "https://api.cristin.no/v2/results/1662361",
+        "title": "Intake of sucrose‑sweetened soft beverages during pregnancy and risk of congenital heart defects (CHD) in offspring: A Norwegian pregnancy cohort study"
       },
       {
         "type": "Academic article",
         "year": "2017",
-        "title": "Association of light-to-moderate alcohol drinking in pregnancy with preterm birth and birth weight: elucidating bias by pooling data from nine European cohorts",
         "journal": "European Journal of Epidemiology (EJE)",
-        "url": "https://api.cristin.no/v2/results/1517379"
+        "url": "https://api.cristin.no/v2/results/1517379",
+        "title": "Association of light-to-moderate alcohol drinking in pregnancy with preterm birth and birth weight: elucidating bias by pooling data from nine European cohorts"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Alcohol consumption among first-time mothers and the risk of preterm birth: A cohort study",
         "journal": "Annals of Epidemiology",
-        "url": "https://api.cristin.no/v2/results/1287154"
+        "url": "https://api.cristin.no/v2/results/1287154",
+        "title": "Alcohol consumption among first-time mothers and the risk of preterm birth: A cohort study"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "title": "Well-being in mothers of children with congenital heart defects: a 3-year follow-up",
         "journal": "Quality of Life Research",
-        "url": "https://api.cristin.no/v2/results/967503"
+        "url": "https://api.cristin.no/v2/results/967503",
+        "title": "Well-being in mothers of children with congenital heart defects: a 3-year follow-up"
       },
       {
         "type": "Academic article",
         "year": "2013",
-        "title": "Relationship Satisfaction Among Mothers of Children With Congenital Heart Defects: A Prospective Case-Cohort Study",
         "journal": "Journal of Pediatric Psychology",
-        "url": "https://api.cristin.no/v2/results/1038481"
+        "url": "https://api.cristin.no/v2/results/1038481",
+        "title": "Relationship Satisfaction Among Mothers of Children With Congenital Heart Defects: A Prospective Case-Cohort Study"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "Trajectories of Maternal Mental Health: A Prospective Study of Mothers of Infants With Congenital Heart Defects From Pregnancy to 36 Months Postpartum",
         "journal": "Journal of Pediatric Psychology",
-        "url": "https://api.cristin.no/v2/results/917352"
+        "url": "https://api.cristin.no/v2/results/917352",
+        "title": "Trajectories of Maternal Mental Health: A Prospective Study of Mothers of Infants With Congenital Heart Defects From Pregnancy to 36 Months Postpartum"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "Mothers of infants with congenital heart defects: well-being from pregnancy through the child's first six months",
         "journal": "Quality of Life Research",
-        "url": "https://api.cristin.no/v2/results/806217"
+        "url": "https://api.cristin.no/v2/results/806217",
+        "title": "Mothers of infants with congenital heart defects: well-being from pregnancy through the child's first six months"
       },
       {
         "type": "Doctoral dissertation",
         "year": "2012",
-        "title": "Well-being among mothers of children with congenital heart defects: a prospective case-cohort study from pregnancy to 36 months after delivery",
-        "url": "https://api.cristin.no/v2/results/1004180"
+        "url": "https://api.cristin.no/v2/results/1004180",
+        "title": "Well-being among mothers of children with congenital heart defects: a prospective case-cohort study from pregnancy to 36 months after delivery"
       },
       {
         "type": "Interview",
@@ -374,16 +374,16 @@
       {
         "type": "Academic article",
         "year": "2011",
-        "title": "Emotional reactivity in infants with congenital heart defects and maternal symptoms of postnatal depression",
         "journal": "Archives of Women's Mental Health",
-        "url": "https://api.cristin.no/v2/results/858812"
+        "url": "https://api.cristin.no/v2/results/858812",
+        "title": "Emotional reactivity in infants with congenital heart defects and maternal symptoms of postnatal depression"
       },
       {
         "type": "Academic article",
         "year": "2011",
-        "title": "Long-term symptoms of depression and anxiety in mothers of infants with congenital heart defects",
         "journal": "Journal of Pediatric Psychology",
-        "url": "https://api.cristin.no/v2/results/348816"
+        "url": "https://api.cristin.no/v2/results/348816",
+        "title": "Long-term symptoms of depression and anxiety in mothers of infants with congenital heart defects"
       },
       {
         "type": "Academic lecture",
@@ -391,5 +391,103 @@
         "url": "https://api.cristin.no/v2/results/243200"
       }
     ]
+  },
+  "rg": {
+    "id": "Maria-Dale-2",
+    "name": "Maria Teresa Grønning Dale",
+    "img": "https://i1.rgstatic.net/ii/profile.image/272527268249600-1441986972100_Q128/Maria-Dale-2.jpg",
+    "affiliation": "Norwegian Institute of Public Health, Department of Genetics Environment and Mental Health",
+    "keywords": [],
+    "works": [
+      {
+        "title": "Is perceived safety and threat after workplace terrorism linked to employee sick-leave? A registry-based longitudinal study of governmental employees in Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Aug 2020",
+        "authors": ["Alexander Nissen", "Mona Berthelsen", "Maria Teresa Grønning Dale", "Trond Heir"],
+        "abstract": ["Background\nA large body of research has shown that terrorism enhances fears and undermines perceived safety in a high proportion of both directly exposed individuals and individuals without any form of direct exposure (i.e. no geographical proximity to an attack). Some studies have further suggested that fear of terrorism may adversely affect healt..."]
+      },
+      {
+        "title": "Post-traumatic stress reactions and doctor-certified sick leave after a workplace terrorist attack: Norwegian cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2020",
+        "authors": ["Maria Teresa Grønning Dale", "Alexander Nissen", "Mona Berthelsen", "Trond Heir"],
+        "abstract": ["Objective\nTo explore the association between the psychosocial work environment and the risk of sick leave among governmental employees with symptom-defined post-traumatic stress disorder (PTSD) after a workplace bomb attack.\n\nDesign\nA prospective study on employees who met the symptom criteria for PTSD. Questionnaire data on the psychosocial work e..."]
+      },
+      {
+        "title": "Intake of sucrose-sweetened soft beverages during pregnancy and risk of congenital heart defects (CHD) in offspring: a Norwegian pregnancy cohort study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Apr 2019",
+        "authors": ["Maria Teresa Grønning Dale", "Per Magnus", "Elisabeth Leirgul", "Nina Øyen"],
+        "abstract": ["Studies report increased risk of congenital heart defects (CHD) in the offspring of mothers with diabetes, where high blood glucose levels might confer the risk. We explored the association between intake of sucrose-sweetened soft beverages during pregnancy and risk of CHD. Prospective cohort data with 88,514 pregnant women participating in the Nor..."]
+      },
+      {
+        "title": "Association of light-to-moderate alcohol drinking in pregnancy with preterm birth and birth weight: elucidating bias by pooling data from nine European cohorts",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2017",
+        "authors": ["Katrine Strandberg-Larsen", "Gry Poulsen", "Bodil Hammer Bech", "Anne-Marie Nybo Andersen"],
+        "abstract": ["Women who drink light-to-moderately during pregnancy have been observed to have lower risk of unfavourable pregnancy outcomes than abstainers. This has been suggested to be a result of bias. In a pooled sample, including 193 747 live-born singletons from nine European cohorts, we examined the associations between light-to-moderate drinking and pret..."]
+      },
+      {
+        "title": "Alcohol consumption among first-time mothers and the risk of preterm birth: A cohort study",
+        "tags": ["Article"],
+        "date": "Sep 2015",
+        "authors": ["Maria Teresa Grønning Dale", "Leiv S. Bakketeig", "Per Magnus"],
+        "abstract": ["Purpose: \nOur aim was to explore the association between alcohol consumption, before and during pregnancy, and the risk of preterm birth among 46,252 primiparous mothers.\n\nMethods: \nWe obtained information on alcohol consumption from questionnaire responses at pregnancy week 15 from the prospective, observational Norwegian Mother and Child Cohort S..."]
+      },
+      {
+        "title": "Dale et al. 2013. Relationship satisfaction among mothers of children with congenital heart defects.",
+        "tags": ["Data"],
+        "date": "Mar 2014",
+        "authors": ["Maria Teresa Grønning Dale", "Øivind Fjeld-Solberg", "Henrik Holmstrøm", "Margarete Vollrath"],
+        "abstract": []
+      },
+      {
+        "title": "Relationship Satisfaction Among Mothers of Children With Congenital Heart Defects: A Prospective Case-Cohort Study",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2013",
+        "authors": ["Maria Teresa Grønning Dale", "Øivind Fjeld-Solberg", "Henrik Holmstrøm", "Margarete Vollrath"],
+        "abstract": ["To assess the level of partner relationship satisfaction among mothers of children with different severity of congenital heart defects (CHD) compared with mothers in the cohort.\nMothers of children with mild, moderate, or severe CHD (n = 182) and a cohort of mothers of children without CHD (n = 46,782) from the Norwegian Mother and Child Cohort Stu..."]
+      },
+      {
+        "title": "Well-being in mothers of children with congenital heart defects: A 3-year follow-up",
+        "tags": ["Article", "Full-text available"],
+        "date": "Nov 2012",
+        "authors": ["Maria Teresa Grønning Dale", "Øivind Fjeld-Solberg", "Henrik Holmstrøm", "Margarete Vollrath"],
+        "abstract": ["Purpose: \nThis prospective case-cohort study compared subjective well-being (SWB) among mothers whose children had various degrees of congenital heart defects (CHD) with mothers of children without CHD (controls).\n\nMethods: \nNationwide CHD registry data were linked to data collected from the Norwegian Mother and Child Cohort Study at gestational we..."]
+      },
+      {
+        "title": "Trajectories of Maternal Mental Health: A Prospective Study of Mothers of Infants With Congenital Heart Defects From Pregnancy to 36 Months Postpartum",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2012",
+        "authors": ["Øivind Fjeld-Solberg", "Maria Teresa Grønning Dale", "Henrik Holmstrøm", "Margarete Vollrath"],
+        "abstract": ["To chart mothers' trajectories of mental health from pregnancy to 36 months postpartum in order to investigate the association between infants' congenital heart defects (CHD) and compromised maternal mental health.\nMothers of infants with mild, moderate, or severe CHD (n = 141) and mothers (n = 36,437) enrolled in the Norwegian Mother and Child Coh..."]
+      },
+      {
+        "title": "Mothers of infants with congenital heart defects: Well-being from pregnancy through the child's first six months",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2012",
+        "authors": ["Maria Teresa Grønning Dale", "Øivind Fjeld-Solberg", "Henrik Holmstrøm", "Margarete Vollrath"],
+        "abstract": ["PURPOSE: This study compared the well-being among mothers of children with congenital heart defects (CHD) with mothers of children without CHD (controls), at pregnancy and at 6 months postpartum.\nMETHODS: We linked prospective data from the Norwegian Mother and Child Cohort Study (MoBa), conducted by the Norwegian Institute of Public Health, with a..."]
+      },
+      {
+        "title": "Emotional reactivity in infants with congenital heart defects and maternal symptoms of postnatal depression",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2011",
+        "authors": ["Øivind Fjeld-Solberg", "Maria Teresa Grønning Dale", "Henrik Holmstrøm", "Margarete Vollrath"],
+        "abstract": ["The object of this study was to examine the role of emotional reactivity in infants with congenital heart defects (CHD) in relation to their mothers' symptoms of postnatal depression. The study population was drawn from the Norwegian country-wide CHD registry from the Department of Pediatric Cardiology at Oslo University Hospital and the Norwegian..."]
+      },
+      {
+        "title": "Long-Term Symptoms of Depression and Anxiety in Mothers of Infants with Congenital Heart Defects",
+        "tags": ["Article", "Full-text available"],
+        "date": "Mar 2011",
+        "authors": ["Øivind Fjeld-Solberg", "Maria Teresa Grønning Dale", "Henrik Holmstrøm", "Margarete Vollrath"],
+        "abstract": ["To examine the relationship between the severity of infants' congenital heart defects (CHD) and their mothers' symptoms of depression and anxiety from pregnancy to 18 months postpartum.\nMothers of infants with mild, moderate, or severe CHD (n=162) and mothers (n=44,400) within the Norwegian Mother and Child Cohort Study were assessed with an eight-..."]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [12],
+    "reads": [3152],
+    "citations": [253]
   }
 }

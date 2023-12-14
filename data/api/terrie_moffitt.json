@@ -1,8 +1,8 @@
 {
   "gscolar": {
-    "name": "Terrie E Moffitt",
-    "id": "NR0nMHkAAAAJ",
-    "affiliation": "Duke University and Kings College London",
+    "name": ["Terrie E Moffitt"],
+    "id": ["NR0nMHkAAAAJ"],
+    "affiliation": ["Duke University and Kings College London"],
     "data": {
       "publications": [
         {
@@ -1224,8 +1224,8 @@
     ]
   },
   "orcid": {
-    "orcid": "0000-0002-8589-6760",
-    "name": "Terrie Moffitt",
+    "orcid": ["0000-0002-8589-6760"],
+    "name": ["Terrie Moffitt"],
     "distinctions": [
       {
         "start": "2016",
@@ -1240,10 +1240,10 @@
         "country": "GB"
       },
       {
-        "start": "2007",
-        "position": "Professor",
         "organisation": "Duke University",
-        "country": "US"
+        "country": "US",
+        "start": "2007",
+        "position": "Professor"
       }
     ],
     "employment": [
@@ -1252,10 +1252,10 @@
         "country": "GB"
       },
       {
-        "start": "2007",
-        "position": "Professor",
         "organisation": "Duke University",
-        "country": "US"
+        "country": "US",
+        "start": "2007",
+        "position": "Professor"
       }
     ],
     "membership": [],
@@ -7582,8 +7582,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Terrie Moffitt",
-    "id": "1514418",
+    "name": ["Terrie Moffitt"],
+    "id": ["1514418"],
     "keywords": [],
     "position": ["Professor"],
     "img": {},
@@ -7604,65 +7604,75 @@
         "type": "Academic article",
         "year": "2023",
         "title": "Worldwide Well-Being: Simulated Twins Reveal Genetic and (Hidden) Environmental Influences",
-        "journal": "Perspectives on Psychological Science",
-        "url": "https://api.cristin.no/v2/results/2166830"
+        "url": "https://api.cristin.no/v2/results/2166830",
+        "journal": "Perspectives on Psychological Science"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The General Factor of Psychopathology (p): Choosing Among Competing Models and Interpreting p",
-        "journal": "Clinical Psychological Science",
-        "url": "https://api.cristin.no/v2/results/2152861"
+        "url": "https://api.cristin.no/v2/results/2152861",
+        "journal": "Clinical Psychological Science"
       },
       {
         "type": "Errata",
         "year": "2023",
         "title": "Erratum: The p factor of psychopathology and personality in middle childhood: Genetic and gestational risk factors (Psychological Medicine (2023) DOI: 10.1017/S0033291723000077)",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2152703"
+        "url": "https://api.cristin.no/v2/results/2152703",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic article",
         "year": "2023",
         "title": "The p factor of psychopathology and personality in middle childhood: genetic and gestational risk factors",
-        "journal": "Psychological Medicine",
-        "url": "https://api.cristin.no/v2/results/2125361"
+        "url": "https://api.cristin.no/v2/results/2125361",
+        "journal": "Psychological Medicine"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Association of subcortical gray-matter volumes with life-course-persistent antisocial behavior in a population-representative longitudinal birth cohort",
-        "journal": "Development and Psychopathology",
-        "url": "https://api.cristin.no/v2/results/2107112"
+        "url": "https://api.cristin.no/v2/results/2107112",
+        "journal": "Development and Psychopathology"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Improving risk indexes for Alzheimer’s disease and related dementias for use in midlife",
-        "journal": "Brain Communications",
-        "url": "https://api.cristin.no/v2/results/2085438"
+        "url": "https://api.cristin.no/v2/results/2085438",
+        "journal": "Brain Communications"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "The limitations of large-scale volunteer databases to address inequalities and global challenges in health and aging",
-        "journal": "Nature Aging",
-        "url": "https://api.cristin.no/v2/results/2073165"
+        "url": "https://api.cristin.no/v2/results/2073165",
+        "journal": "Nature Aging"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Longitudinal Associations of Mental Disorders with Dementia: 30-Year Analysis of 1.7 Million New Zealand Citizens",
-        "journal": "JAMA psychiatry",
-        "url": "https://api.cristin.no/v2/results/2026651"
+        "url": "https://api.cristin.no/v2/results/2026651",
+        "journal": "JAMA psychiatry"
       },
       {
         "type": "Academic article",
         "year": "2022",
         "title": "Longitudinal associations between adolescents’ individualised risk for depression and inflammation in a UK cohort study",
-        "journal": "Brain, Behavior, and Immunity",
-        "url": "https://api.cristin.no/v2/results/2022762"
+        "url": "https://api.cristin.no/v2/results/2022762",
+        "journal": "Brain, Behavior, and Immunity"
       }
     ]
+  },
+  "rg": {
+    "id": "Lisanne-Terrie",
+    "name": "Lisanne Terrie",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "KU Leuven | ku leuven, KU Leuven, Faculty of Medicine",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

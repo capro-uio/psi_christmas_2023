@@ -2,8 +2,8 @@
   "gscolar": {},
   "orcid": {},
   "cristin": {
-    "name": "Knut Eiliv Ødegård Øverbye",
-    "id": "379227",
+    "name": ["Knut Eiliv Ødegård Øverbye"],
+    "id": ["379227"],
     "keywords": [],
     "position": ["Researcher"],
     "img": {},
@@ -72,5 +72,15 @@
         "url": "https://api.cristin.no/v2/results/1131937"
       }
     ]
+  },
+  "rg": {
+    "id": "Marlene_Knut",
+    "name": "Marlene Knut",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "Leuphana University Lüneburg, Institute of Cultural Theory Research and the Arts",
+    "keywords": ["Academic Writing"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

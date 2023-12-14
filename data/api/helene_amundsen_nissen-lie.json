@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0003-2197-5942",
-    "name": "Helene Nissen-Lie",
+    "orcid": ["0000-0003-2197-5942"],
+    "name": ["Helene Nissen-Lie"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Helene Amundsen Nissen-Lie",
-    "id": "12722",
+    "name": ["Helene Amundsen Nissen-Lie"],
+    "id": ["12722"],
     "keywords": [],
     "position": ["Professor"],
-    "img": "https://api.cristin.no/v2/persons/12722/picture",
+    "img": ["https://api.cristin.no/v2/persons/12722/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -623,5 +623,193 @@
         "url": "https://api.cristin.no/v2/results/1119315"
       }
     ]
+  },
+  "rg": {
+    "id": "Helene-Amundsen",
+    "name": "Helene Amundsen",
+    "img": "https://i1.rgstatic.net/ii/profile.image/276884614074371-1443025844147_Q128/Helene-Amundsen.jpg",
+    "affiliation": "University of Oslo, Center for International Climate and Environmental Research CICERO",
+    "keywords": ["Human Geography", "Urban Planning", "Sustainable Development", "Natural Resource Management", "Climate Change", "Climate Change Adaptation", "Climate Variability", "Environment", "Sustainability", "Environmental Planning"],
+    "works": [
+      {
+        "title": "The transformative potential of local-level planning and climate policies. Case studies from Norwegian municipalities",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2022",
+        "authors": ["Hege Westskog", "Nils Aarsæther", "Grete K. Hovelsrud", "Ragnhild Freng Dale"],
+        "abstract": ["We analyse whether and how current municipal climate policies can be characterised as transformative and which factors and pathways may lead to transformative change at the municipal level. Based on 13 in-depth case studies of Norwegian municipalities, we address the transformative potential of climate planning and policy measures as defined and im..."]
+      },
+      {
+        "title": "Looking back and looking forward—adapting to extreme weather events in municipalities in western Norway",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2021",
+        "authors": ["Helene Amundsen", "Halvor Dannevig"],
+        "abstract": ["In October 2014, an extreme precipitation event hit western Norway, which caused flooding, landslides and severe damage to infrastructure and houses. Climate model projections for western Norway show that heavy precipitation events, such as the one in 2014, will increase in frequency and intensity in the future. This paper discusses barriers to pro..."]
+      },
+      {
+        "title": "Transforming knowledge systems for life on Earth: Visions of future systems and how to get there",
+        "tags": ["Article", "Full-text available"],
+        "date": "Dec 2020",
+        "authors": ["Ioan Fazey", "Niko Schäpke", "Guido Caniglia", "Hannah Young"],
+        "abstract": ["Formalised knowledge systems, including universities and research institutes, are important for contemporary societies. They are, however, also arguably failing humanity when their impact is measured against the level of progress being made in stimulating the societal changes needed to address challenges like climate change. In this research we use..."]
+      },
+      {
+        "title": "Transforming knowledge systems for life on Earth: Visions of future systems and how to get there",
+        "tags": ["Article", "Full-text available"],
+        "date": "Sep 2020",
+        "authors": ["Ioan Fazey", "Niko Schäpke", "Guido Caniglia", "Dominic Duckett"],
+        "abstract": ["Formalised knowledge systems, including universities and research institutes, are important for contemporary societies. They are, however, also arguably failing humanity when their impact is measured against the level of progress being made in stimulating the societal changes needed to address challenges like climate change. In this research we use..."]
+      },
+      {
+        "title": "Green transformation is a boundary object: An analysis of conceptualisation of transformation in Norwegian primary industries",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jun 2020",
+        "authors": ["Helene Amundsen", "Erlend AT Hermansen"],
+        "abstract": ["The concept of green transformation is burgeoning in the academic literature and policy discourses, yet few empirical studies investigate what the concept actually means to diverse actors, and how it manifests in practices. This paper contributes to filling that gap. Through an analysis of policy documents and interviews, we investigate how central..."]
+      },
+      {
+        "title": "Urban contractual agreements as an adaptive governance strategy: under what conditions do they work in multi-level cooperation?",
+        "tags": ["Article"],
+        "date": "Jun 2020",
+        "authors": ["Hege Westskog", "Helene Amundsen", "Petter Christiansen", "Anders Tønnesen"],
+        "abstract": ["The Norwegian urban growth agreement (UGA) is a governance platform combining transport-infrastructure development with land-use and transport policy. It is a policy package of measures involving network cooperation between national, regional and local government levels established to coordinate transport and land-use development. Shared responsibi..."]
+      },
+      {
+        "title": "Local governments as drivers for societal transformation: towards the 1.5 °C ambition",
+        "tags": ["Article"],
+        "date": "Apr 2018",
+        "authors": ["Helene Amundsen", "Grete K. Hovelsrud", "Carlo Aall", "Hege Westskog"],
+        "abstract": ["The political ambition of curbing global average temperatures to 1.5 °C above preindustrial levels requires significant and profound changes to societal organisation, energy use and consumption. It will not be sufficient to maintain or incrementally change status quo, rather it will require radical and paradigmatic transformative changes. Local gov..."]
+      },
+      {
+        "title": "Adaptation options",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Oct 2017",
+        "authors": ["Grete K. Hovelsrud", "Helene Amundsen", "Halvor Dannevig", "Vilena Valeeva"],
+        "abstract": ["Adaptation to cumulative and interacting changes is taking place at various societal scales by actors, sectors, and local governments and takes different forms depending on a number of factors such as institutional capacity, access to knowledge and to human and economic resources. Such adaptation takes place with or without national guidelines. Ada..."]
+      },
+      {
+        "title": "Building capacity to adapt to and shape change",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Annika E Nilsson", "Grete K. Hovelsrud", "Helene Amundsen", "Martin Sommerkorn"],
+        "abstract": ["The full Arctic Resilience Report can be downloaded from https://www.sei-international.org/publications?pid=3047\n\nSummar\nThis chapter has reviewed possible ways for the Arctic Council to contribute to strengthening adaptive and\ntransformative capacity, and consequently resilience, in the Arctic. Using the categorizations of sources for\nadaptive and..."]
+      },
+      {
+        "title": "Shared decision-making in a changing Arctic political landscape",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Annika E. Nilsson", "Timo Koivurova", "Marcus Carson", "Martin Sommerkorn"],
+        "abstract": ["The full Arctic Resilience Report 2016 can be downloaded from https://www.sei-international.org/publications?pid=3047.\n\nAs the Arctic's sole circumpolar high-level policy forum, the Arctic Council plays an increasingly important role in issues that have major social and environmental implications. Institutions such as the Arctic Council help guide..."]
+      },
+      {
+        "title": "Learning to live with change",
+        "tags": ["Chapter", "Full-text available"],
+        "date": "Nov 2016",
+        "authors": ["Annika E Nilsson", "Chanda L Meek", "Helene Amundsen", "Martin Sommerkorn"],
+        "abstract": ["The full Arctic Resilience Report 2016 can be downloaded from https://www.sei-international.org/publications?pid=3047.\n\nKey Messages • The need to be responsive to evolving conditions places constantly changing demands on policy and decision-making structures. Maintaining effectiveness requires an ongoing effort to facilitate and accelerate learnin..."]
+      },
+      {
+        "title": "Circumpolar Arctic Coastal Communities Observatory Network (CACCON)",
+        "tags": ["Conference Paper", "Full-text available"],
+        "date": "Dec 2014",
+        "authors": ["Donald L Forbes", "Helene Amundsen", "David E. Atkinson", "T. Vlasova"],
+        "abstract": ["CACCON (\"Catch-On\") initiates a pan-Arctic network of community-engaged, multi-faceted and integrative coastal observatories and knowledge hubs. This ICARP-III initiative builds on the results of an initial scoping workshop in April 2014, with support from LOICZ (Land-Ocean Interactions in the Coastal Zone) and IASC (International Arctic Science Co..."]
+      },
+      {
+        "title": "AMAP Assessment 2013: Arctic Ocean Acidification",
+        "tags": ["Technical Report", "Full-text available"],
+        "date": "Dec 2013",
+        "authors": ["Helene Amundsen", "Leif Anderson", "Andreas Andersson", "Michiyo Yamamoto-Kawai"],
+        "abstract": []
+      },
+      {
+        "title": "Place attachment as a driver of adaptation in coastal communities in Northern Norway",
+        "tags": ["Article"],
+        "date": "Sep 2013",
+        "authors": ["Helene Amundsen"],
+        "abstract": ["Changes in a range of interlinked factors, in social, economic, environmental and climatic conditions, require adaptation in many communities. This paper explores how place attachment affects adaptive responses to a changing social context through analysing adaptation in two coastal municipalities in Northern Norway. The main challenge in these mun..."]
+      },
+      {
+        "title": "Illusions of Resilience? An Analysis of Community Responses to Change in Northern Norway",
+        "tags": ["Article"],
+        "date": "Dec 2012",
+        "authors": ["Helene Amundsen"],
+        "abstract": ["This article contributes to our understanding of community resilience. Community resilience is the ability of a community to cope and adjust to stresses caused by social, political, and environmental change and to engage community resources to overcome adversity and take advantage of opportunities in response to change. Through an analysis of local..."]
+      },
+      {
+        "title": "Impacts and adaptation to climate change in European economies",
+        "tags": ["Article"],
+        "date": "Oct 2012",
+        "authors": ["Asbjørn Aaheim", "Helene Amundsen", "Therese Dokken", "Taoyuan Wei"],
+        "abstract": ["This paper evaluates the impacts of climate change to European economies under an increase in global mean temperature at +2 °C and +4 °C. It is based on a summary of conclusions from available studies of how climate change may affect various sectors of the economies in different countries. We apply a macroeconomic general equilibrium model, which i..."]
+      },
+      {
+        "title": "Differing Discourses of Development in the Arctic: The Case of Nature-Based Tourism in Northern Norway",
+        "tags": ["Article"],
+        "date": "Jan 2012",
+        "authors": ["Helene Amundsen"],
+        "abstract": []
+      },
+      {
+        "title": "Adaptation in Fisheries and Municipalities: Three Communities in Northern Norway",
+        "tags": ["Chapter"],
+        "date": "Sep 2010",
+        "authors": ["Grete K. Hovelsrud", "Halvor Dannevig", "Jennifer West", "Helene Amundsen"],
+        "abstract": ["In this chapter we focus on how changing societal and climatic conditions have consequences for current and future vulnerability\nand adaptation in three municipalities in Northern Norway: Hammerfest and Lebesby, in Finnmark County, and Vestvågøy in the\nLofoten Islands, Nordland County. Through local consultations and discussions, fisheries and muni..."]
+      },
+      {
+        "title": "Overcoming barriers to climate change adaptation a question of multilevel governance? Environ Plan C",
+        "tags": ["Article"],
+        "date": "Apr 2010",
+        "authors": ["Helene Amundsen", "Frode Berglund", "Hege Westskog"],
+        "abstract": ["This paper analyses the results from two surveys which were sent to all Norwegian municipalities in 2007 and gives an overview of adaptation measures undertaken by local governments. Our analyses show that municipalities have more often invested in measures related to extreme precipitation and flooding than in measures for securing buildings and in..."]
+      },
+      {
+        "title": "Community Adaptation and Vulnerability in Arctic Regions",
+        "tags": ["Book"],
+        "date": "Jan 2010",
+        "authors": ["Grete K. Hovelsrud", "Halvor Dannevig", "Jennifer West", "Helene Amundsen"],
+        "abstract": ["Table of Contents Preface Acknowledgements Contributors 1. Introduction to the CAVIAR project and framework 2. Adaptation in Fisheries and Municipalities: Three communities in Northern Norway 3. Vulnerability and Adaptation in Two Communities in the Inuvialuit Settlement Region 4. Climate change, vulnerability and adaptation among Nenets reindeer h..."]
+      },
+      {
+        "title": "Making sense of future climate: Bridging the gap between climate science and local perceptions of change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2009",
+        "authors": ["Grete K. Hovelsrud", "Helene Amundsen", "Halvor Dannevig", "Stine Rybråten"],
+        "abstract": ["This article was submitted without an abstract, please refer to the full-text PDF file."]
+      },
+      {
+        "title": "Making sense of future climate: Bridging the gap between climate science and local perceptions of change",
+        "tags": ["Article", "Full-text available"],
+        "date": "Feb 2009",
+        "authors": ["Grete K. Hovelsrud", "Helene Amundsen", "Halvor Dannevig", "Jennifer West"],
+        "abstract": ["This article was submitted without an abstract, please refer to the full-text PDF file."]
+      },
+      {
+        "title": "A macroeconomic assessment of impacts and adaptation to climate change in Europe",
+        "tags": ["Article", "Full-text available"],
+        "date": "Jan 2009",
+        "authors": ["Asbjørn Aaheim", "Helene Amundsen", "Therese Dokken", "Taoyuan Wei"],
+        "abstract": []
+      },
+      {
+        "title": "Perceptions of the effectiveness of the United Nations Framework Convention on Climate Change in advancing national action on climate change",
+        "tags": ["Article"],
+        "date": "Feb 2008",
+        "authors": ["Emma Tompkins", "Helene Amundsen"],
+        "abstract": ["This paper aims to characterise the ways in which the United Nations Framework Convention on Climate Change (UNFCCC) is trickling down to affect national level action on climate change. State and non-state actors were interviewed at the 8th UNFCCC Conference of Parties (COP8) during October and November 2002. The interviews revealed that, among int..."]
+      },
+      {
+        "title": "Understanding community vulnerability and adaptation: methodological challenges in analysing coupled social-ecological systems",
+        "tags": ["Article", "Full-text available"],
+        "authors": ["Grete K. Hovelsrud", "Helene Amundsen", "Jennifer West"],
+        "abstract": ["Global climate change has local consequences. In the Arctic the observed rate of warming,is double that of other regions (ACIA, 2005). Many communities in the Arctic are dependent on natural"]
+      }
+    ],
+    "degree": ["PhD"],
+    "bio": [],
+    "publications": [25],
+    "reads": [10067],
+    "citations": [1396]
   }
 }

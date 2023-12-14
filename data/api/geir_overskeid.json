@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-9522-4642",
-    "name": "Geir Overskeid",
+    "orcid": ["0000-0002-9522-4642"],
+    "name": ["Geir Overskeid"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -13,11 +13,11 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Geir Overskeid",
-    "id": "23467",
+    "name": ["Geir Overskeid"],
+    "id": ["23467"],
     "keywords": ["Elections", "Theoretical Psychology", "Feelings and thinking"],
     "position": ["Professor"],
-    "img": "https://api.cristin.no/v2/persons/23467/picture",
+    "img": ["https://api.cristin.no/v2/persons/23467/picture"],
     "works": [
       {
         "type": "Academic article",
@@ -28,9 +28,9 @@
       {
         "type": "Academic article",
         "year": "2021",
-        "title": "Can Damasio's Somatic Marker Hypothesis Explain More Than Its Originator Will Admit?",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1875029"
+        "url": "https://api.cristin.no/v2/results/1875029",
+        "title": "Can Damasio's Somatic Marker Hypothesis Explain More Than Its Originator Will Admit?"
       },
       {
         "type": "Academic article",
@@ -47,23 +47,23 @@
       {
         "type": "Academic article",
         "year": "2018",
-        "title": "Do we need the environment to explain operant behavior?",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1574530"
+        "url": "https://api.cristin.no/v2/results/1574530",
+        "title": "Do we need the environment to explain operant behavior?"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Power and autistic traits",
         "journal": "Frontiers in Psychology",
-        "url": "https://api.cristin.no/v2/results/1372485"
+        "url": "https://api.cristin.no/v2/results/1372485",
+        "title": "Power and autistic traits"
       },
       {
         "type": "Academic article",
         "year": "2016",
-        "title": "Systemizing in autism: The case for an emotional mechanism",
         "journal": "New Ideas in Psychology",
-        "url": "https://api.cristin.no/v2/results/1313726"
+        "url": "https://api.cristin.no/v2/results/1313726",
+        "title": "Systemizing in autism: The case for an emotional mechanism"
       },
       {
         "type": "Reader opinion piece",
@@ -74,8 +74,8 @@
       {
         "type": "Academic lecture",
         "year": "2015",
-        "title": "Power and autistic traits: A connection?",
-        "url": "https://api.cristin.no/v2/results/1196960"
+        "url": "https://api.cristin.no/v2/results/1196960",
+        "title": "Power and autistic traits: A connection?"
       },
       {
         "type": "Academic article",
@@ -91,9 +91,9 @@
       {
         "type": "Academic article",
         "year": "2013",
-        "title": "Under Skinner's Skin: Gauging a Behaviorist From His Rorschach Protocol",
         "journal": "Journal of Personality Assessment",
-        "url": "https://api.cristin.no/v2/results/981310"
+        "url": "https://api.cristin.no/v2/results/981310",
+        "title": "Under Skinner's Skin: Gauging a Behaviorist From His Rorschach Protocol"
       },
       {
         "type": "Academic article",
@@ -129,16 +129,16 @@
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "The Personality of a Nonperson: Gauging the Inner Skinner",
         "journal": "Perspectives on Psychological Science",
-        "url": "https://api.cristin.no/v2/results/861728"
+        "url": "https://api.cristin.no/v2/results/861728",
+        "title": "The Personality of a Nonperson: Gauging the Inner Skinner"
       },
       {
         "type": "Academic article",
         "year": "2012",
-        "title": "The role of emotions in reinforcement: Response selection in humans",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/500289"
+        "url": "https://api.cristin.no/v2/results/500289",
+        "title": "The role of emotions in reinforcement: Response selection in humans"
       },
       {
         "type": "Academic article",
@@ -170,9 +170,9 @@
       {
         "type": "Academic literature review",
         "year": "2008",
-        "title": "They should have thought about the consequences: The crisis of cognitivism and a second chance for behavior analysis",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/502344"
+        "url": "https://api.cristin.no/v2/results/502344",
+        "title": "They should have thought about the consequences: The crisis of cognitivism and a second chance for behavior analysis"
       },
       {
         "type": "Popular scientific lecture",
@@ -187,9 +187,9 @@
       {
         "type": "Academic article",
         "year": "2007",
-        "title": "Looking for Skinner and finding Freud",
         "journal": "American Psychologist",
-        "url": "https://api.cristin.no/v2/results/372828"
+        "url": "https://api.cristin.no/v2/results/372828",
+        "title": "Looking for Skinner and finding Freud"
       },
       {
         "type": "Popular scientific article",
@@ -206,9 +206,9 @@
       {
         "type": "Academic article",
         "year": "2006",
-        "title": "Why behave? The problem of initiating causes and the goals of prediction and control",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/407134"
+        "url": "https://api.cristin.no/v2/results/407134",
+        "title": "Why behave? The problem of initiating causes and the goals of prediction and control"
       },
       {
         "type": "Popular scientific lecture",
@@ -246,9 +246,9 @@
       {
         "type": "Academic article",
         "year": "2005",
-        "title": "Empirically understanding understanding can make problems go away: The case of the Chinese room",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/427443"
+        "url": "https://api.cristin.no/v2/results/427443",
+        "title": "Empirically understanding understanding can make problems go away: The case of the Chinese room"
       },
       {
         "type": "Popular scientific lecture",
@@ -258,9 +258,9 @@
       {
         "type": "Academic article",
         "year": "2004",
-        "title": "Solitary pain: Bertrand Russell as cognitive therapist",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/434343"
+        "url": "https://api.cristin.no/v2/results/434343",
+        "title": "Solitary pain: Bertrand Russell as cognitive therapist"
       },
       {
         "type": "Reader opinion piece",
@@ -277,9 +277,9 @@
       {
         "type": "Academic article",
         "year": "2003",
-        "title": "The importance of being earnest: Displayed emotion and witness credibility",
         "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/434052"
+        "url": "https://api.cristin.no/v2/results/434052",
+        "title": "The importance of being earnest: Displayed emotion and witness credibility"
       },
       {
         "type": "Popular scientific book",
@@ -289,16 +289,16 @@
       {
         "type": "Academic article",
         "year": "2002",
-        "title": "It is not what you said: Displayed emotions and witness credibility",
         "journal": "Applied Cognitive Psychology",
-        "url": "https://api.cristin.no/v2/results/542791"
+        "url": "https://api.cristin.no/v2/results/542791",
+        "title": "It is not what you said: Displayed emotions and witness credibility"
       },
       {
         "type": "Academic article",
         "year": "2002",
-        "title": "Psychological hedonism and the nature of motivation: Bertrand Russell's anhedonic desires",
         "journal": "Philosophical Psychology",
-        "url": "https://api.cristin.no/v2/results/434344"
+        "url": "https://api.cristin.no/v2/results/434344",
+        "title": "Psychological hedonism and the nature of motivation: Bertrand Russell's anhedonic desires"
       },
       {
         "type": "Feature article",
@@ -309,37 +309,37 @@
       {
         "type": "Academic article",
         "year": "2000",
-        "title": "Why do we think? Consequences of regarding thinking as behavior",
         "journal": "?",
-        "url": "https://api.cristin.no/v2/results/792339"
+        "url": "https://api.cristin.no/v2/results/792339",
+        "title": "Why do we think? Consequences of regarding thinking as behavior"
       },
       {
         "type": "Academic article",
         "year": "2000",
-        "title": "The slave of the passions: Experiencing problems and selecting solutions",
         "journal": "Review of General Psychology",
-        "url": "https://api.cristin.no/v2/results/792338"
+        "url": "https://api.cristin.no/v2/results/792338",
+        "title": "The slave of the passions: Experiencing problems and selecting solutions"
       },
       {
         "type": "Academic article",
         "year": "2000",
-        "title": "The slave of the passions: Experiencing problems andselecting solutions",
         "journal": "Review of General Psychology",
-        "url": "https://api.cristin.no/v2/results/434342"
+        "url": "https://api.cristin.no/v2/results/434342",
+        "title": "The slave of the passions: Experiencing problems andselecting solutions"
       },
       {
         "type": "Academic article",
         "year": "2000",
-        "title": "Why do we think? Consequences of regarding thinking asbehavior",
         "journal": "Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/434341"
+        "url": "https://api.cristin.no/v2/results/434341",
+        "title": "Why do we think? Consequences of regarding thinking asbehavior"
       },
       {
         "type": "Academic article",
         "year": "1999",
-        "title": "Factual knowledge and problem-solving ability: Not expertise, but perhaps still related to brain size: Commentary on Skoyles on Brain-Expertise",
         "journal": "?",
-        "url": "https://api.cristin.no/v2/results/795491"
+        "url": "https://api.cristin.no/v2/results/795491",
+        "title": "Factual knowledge and problem-solving ability: Not expertise, but perhaps still related to brain size: Commentary on Skoyles on Brain-Expertise"
       },
       {
         "type": "Academic article",
@@ -350,23 +350,23 @@
       {
         "type": "Academic article",
         "year": "1999",
-        "title": "What is special about \"implicit\" and \"explicit\"?",
         "journal": "Behavioral and Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/795489"
+        "url": "https://api.cristin.no/v2/results/795489",
+        "title": "What is special about \"implicit\" and \"explicit\"?"
       },
       {
         "type": "Short communication",
         "year": "1999",
-        "title": "What is special about \"implicit\" and \"explicit\"?",
         "journal": "Behavioral and Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/509295"
+        "url": "https://api.cristin.no/v2/results/509295",
+        "title": "What is special about \"implicit\" and \"explicit\"?"
       },
       {
         "type": "Short communication",
         "year": "1999",
-        "title": "Factual knowledge and problem-solving ability: Not  expertise, but perhaps still related to brain size",
         "journal": "Psycholoquy",
-        "url": "https://api.cristin.no/v2/results/509294"
+        "url": "https://api.cristin.no/v2/results/509294",
+        "title": "Factual knowledge and problem-solving ability: Not  expertise, but perhaps still related to brain size"
       },
       {
         "type": "Short communication",
@@ -414,36 +414,36 @@
       {
         "type": "Academic article",
         "year": "1996",
-        "title": "Effect of reward on subjective autonomy and interest when initial interest is low",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/434340"
+        "url": "https://api.cristin.no/v2/results/434340",
+        "title": "Effect of reward on subjective autonomy and interest when initial interest is low"
       },
       {
         "type": "Short communication",
         "year": "1995",
-        "title": "Thinking is a difficult habit to break",
         "journal": "Behavioral and Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/509293"
+        "url": "https://api.cristin.no/v2/results/509293",
+        "title": "Thinking is a difficult habit to break"
       },
       {
         "type": "Academic article",
         "year": "1995",
-        "title": "Cognitivist or behaviourist - who can tell the difference? The case of implicit and explicit knowledge",
         "journal": "British Journal of Psychology",
-        "url": "https://api.cristin.no/v2/results/434339"
+        "url": "https://api.cristin.no/v2/results/434339",
+        "title": "Cognitivist or behaviourist - who can tell the difference? The case of implicit and explicit knowledge"
       },
       {
         "type": "Doctoral dissertation",
         "year": "1995",
-        "title": "Behavior analysis and psychology: Models, causes, and consciousness",
-        "url": "https://api.cristin.no/v2/results/301581"
+        "url": "https://api.cristin.no/v2/results/301581",
+        "title": "Behavior analysis and psychology: Models, causes, and consciousness"
       },
       {
         "type": "Short communication",
         "year": "1994",
-        "title": "The intuitive mind",
         "journal": "Behavioral and Brain Sciences",
-        "url": "https://api.cristin.no/v2/results/509292"
+        "url": "https://api.cristin.no/v2/results/509292",
+        "title": "The intuitive mind"
       },
       {
         "type": "Popular scientific article",
@@ -454,36 +454,36 @@
       {
         "type": "Academic article",
         "year": "1994",
-        "title": "Knowledge, consciousness, terminology, and therapy",
         "journal": "Scandinavian Journal of Behaviour Therapy",
-        "url": "https://api.cristin.no/v2/results/434338"
+        "url": "https://api.cristin.no/v2/results/434338",
+        "title": "Knowledge, consciousness, terminology, and therapy"
       },
       {
         "type": "Academic article",
         "year": "1994",
-        "title": "Private events and other causes of behavior: Who can tell the difference?",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/434337"
+        "url": "https://api.cristin.no/v2/results/434337",
+        "title": "Private events and other causes of behavior: Who can tell the difference?"
       },
       {
         "type": "Poster",
         "year": "1994",
-        "title": "Does extrinsic reward reduce the feeling of autonomy and intrinsic motivation?",
-        "url": "https://api.cristin.no/v2/results/118632"
+        "url": "https://api.cristin.no/v2/results/118632",
+        "title": "Does extrinsic reward reduce the feeling of autonomy and intrinsic motivation?"
       },
       {
         "type": "Book review",
         "year": "1993",
-        "title": "Review of A. C. Catania: Learning (3rd ed.)",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/478025"
+        "url": "https://api.cristin.no/v2/results/478025",
+        "title": "Review of A. C. Catania: Learning (3rd ed.)"
       },
       {
         "type": "Academic article",
         "year": "1992",
-        "title": "Is any human behavior schedule-induced?",
         "journal": "The Psychological Record",
-        "url": "https://api.cristin.no/v2/results/434336"
+        "url": "https://api.cristin.no/v2/results/434336",
+        "title": "Is any human behavior schedule-induced?"
       },
       {
         "type": "Academic article",
@@ -536,8 +536,8 @@
       {
         "type": "Thesis at a second degree level",
         "year": "1989",
-        "title": "Two types of learning in a ship simulator",
-        "url": "https://api.cristin.no/v2/results/308200"
+        "url": "https://api.cristin.no/v2/results/308200",
+        "title": "Two types of learning in a ship simulator"
       },
       {
         "type": "Popular scientific article",
@@ -552,5 +552,15 @@
         "url": "https://api.cristin.no/v2/results/434331"
       }
     ]
+  },
+  "rg": {
+    "id": "Daniela_Geir",
+    "name": "Daniela Geir",
+    "img": "https://i1.rgstatic.net/ii/profile.image/875110705680386-1585654059335_Q128/Daniela_Geir.jpg",
+    "affiliation": "University of Innsbruck | UIBK, University of Innsbruck, Institute of Psychology",
+    "keywords": ["Pedagogy"],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }

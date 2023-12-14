@@ -1,8 +1,8 @@
 {
   "gscolar": {},
   "orcid": {
-    "orcid": "0000-0002-6600-9476",
-    "name": "Eirunn Skaug",
+    "orcid": ["0000-0002-6600-9476"],
+    "name": ["Eirunn Skaug"],
     "distinctions": [],
     "education": [],
     "employment": [],
@@ -18,8 +18,8 @@
     "qualifications": []
   },
   "cristin": {
-    "name": "Eirunn Skaug",
-    "id": "854689",
+    "name": ["Eirunn Skaug"],
+    "id": ["854689"],
     "keywords": [],
     "position": ["Post-doctoral research fellow"],
     "img": {},
@@ -46,5 +46,15 @@
         "url": "https://api.cristin.no/v2/results/2031586"
       }
     ]
+  },
+  "rg": {
+    "id": "Eirunn-Soyland-2",
+    "name": "Eirunn Søyland",
+    "img": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "affiliation": "University of Bergen | UiB, University of Bergen, Department of Archaeology History Culture studies and Religion",
+    "keywords": [],
+    "works": [],
+    "degree": [null],
+    "bio": []
   }
 }
