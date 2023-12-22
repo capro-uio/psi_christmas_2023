@@ -1,0 +1,29 @@
+# Python defaults
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyz
+*.pyzw
+*.egg-info/
+dist/
+build/
+*.egg
+*.spec
+.ipynb_checkpoints
+.venv/
+venv/
+ENV/
+
+# R defaults
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+*.tar.gz
+.Rcheck/
+.Rapp.history
+.RDataTmp
+.rs.*
+.viminfo
