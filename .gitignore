@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python defaults
 __pycache__/
 *.py[cod]
@@ -27,3 +28,15 @@ ENV/
 .RDataTmp
 .rs.*
 .viminfo
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.httr-oauth
+
+/.quarto/
+rsconnect/
+shinylive/
+.Renviron
+>>>>>>> 1490760 (shiny dash)
